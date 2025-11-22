@@ -82,8 +82,8 @@ body {
 }
 
 body.ticker-visible .main-layout {
-    margin-top: 40px;
-    height: calc(100vh - var(--header-height) - 60px);
+    margin-top: 55px;
+    height: calc(100vh - var(--header-height) - 75px);
 }
 
 /* News Ticker */
