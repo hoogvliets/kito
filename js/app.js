@@ -448,9 +448,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (state.userSettings.tickerVisible) {
             tickerContainer.classList.remove('hidden');
             tickerContainer.classList.add('visible');
+            document.body.classList.add('ticker-visible');
         } else {
             tickerContainer.classList.remove('visible');
             tickerContainer.classList.add('hidden');
+            document.body.classList.remove('ticker-visible');
         }
     }
 });
