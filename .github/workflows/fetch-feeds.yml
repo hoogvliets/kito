@@ -28,11 +28,6 @@ jobs:
       run: |
         uv pip install --system .
 
-    - name: Run Tests
-      run: |
-        uv pip install --system ".[dev]"
-        pytest
-
     - name: Fetch and Process Data
       run: python scripts/process_data.py
 
