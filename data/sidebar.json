@@ -1,5 +1,37 @@
 [
   {
+    "title": "Show HN: Syd \u2013 An offline-first, AI-augmented workstation for blue teams",
+    "link": "https://www.sydsec.co.uk",
+    "source": "Hacker News",
+    "published": "2025-11-24T07:11:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46031208\">Comments</a>"
+  },
+  {
+    "title": "A One-Minute ADHD Test",
+    "link": "https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330",
+    "source": "Hacker News",
+    "published": "2025-11-24T07:09:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46031196\">Comments</a>"
+  },
+  {
+    "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
+    "link": "https://cruzgodar.com/applets/lambda-calculus",
+    "source": "Hacker News",
+    "published": "2025-11-24T05:17:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46030613\">Comments</a>"
+  },
+  {
+    "title": "Build desktop applications using Go and Web Technologies",
+    "link": "https://github.com/wailsapp/wails",
+    "source": "Hacker News",
+    "published": "2025-11-24T04:33:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46030414\">Comments</a>"
+  },
+  {
     "title": "RuBee",
     "link": "https://computer.rip/2025-11-22-RuBee.html",
     "source": "Hacker News",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46029929\">Comments</a>"
   },
   {
-    "title": "The Cloudflare outage was a good thing",
+    "title": "The Cloudflare outage might be a good thing",
     "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
     "source": "Hacker News",
     "published": "2025-11-24T03:04:10+00:00",
@@ -24,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46029908\">Comments</a>"
   },
   {
-    "title": "A free tool that stuns LLMs with thousands of invisible Unicode characters",
+    "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
     "link": "https://gibberifier.com",
     "source": "Hacker News",
     "published": "2025-11-24T03:00:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46029889\">Comments</a>"
-  },
-  {
-    "title": "We stopped roadmap work for a week and fixed 189 bugs",
-    "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
-    "source": "Hacker News",
-    "published": "2025-11-24T02:36:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46029772\">Comments</a>"
   },
   {
     "title": "Ask HN: Hearing aid wearers, what's hot?",
@@ -46,38 +70,6 @@
     "published": "2025-11-24T02:25:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46029699\">Comments</a>"
-  },
-  {
-    "title": "Passing the Torch \u2013 My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
-    "link": "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html",
-    "source": "Hacker News",
-    "published": "2025-11-24T02:16:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46029649\">Comments</a>"
-  },
-  {
-    "title": "A Unified Theory of Ego, Empathy, and Humility at Work",
-    "link": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
-    "source": "Hacker News",
-    "published": "2025-11-24T02:01:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46029534\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I wrote a minimal memory allocator in C",
-    "link": "https://github.com/t9nzin/memory",
-    "source": "Hacker News",
-    "published": "2025-11-23T22:25:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46027962\">Comments</a>"
-  },
-  {
-    "title": "A desktop app for isolated, parallel agentic development",
-    "link": "https://github.com/coder/mux",
-    "source": "Hacker News",
-    "published": "2025-11-23T22:24:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46027947\">Comments</a>"
   },
   {
     "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46024773\">Comments</a>"
   },
   {
-    "title": "Racket v9.0",
-    "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
+    "title": "Moss survived outside of the International Space Station for 9 months",
+    "link": "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth",
     "source": "Hacker News",
-    "published": "2025-11-23T13:35:27+00:00",
+    "published": "2025-11-21T00:03:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46023460\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45999631\">Comments</a>"
   },
   {
     "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
@@ -128,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=45985008\">Comments</a>"
   },
   {
+    "title": "Breakthrough in antimatter production",
+    "link": "https://home.cern/news/news/experiments/breakthrough-antimatter-production",
+    "source": "Hacker News",
+    "published": "2025-11-19T13:19:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45979220\">Comments</a>"
+  },
+  {
     "title": "The Rust Performance Book (2020)",
     "link": "https://nnethercote.github.io/perf-book/",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=45977386\">Comments</a>"
   },
   {
-    "title": "Band of Holes",
-    "link": "https://en.wikipedia.org/wiki/Band_of_Holes",
-    "source": "Hacker News",
-    "published": "2025-11-19T07:08:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45976666\">Comments</a>"
-  },
-  {
-    "title": "Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen",
+    "title": "Having Fun with Complex Numbers",
     "link": "https://mathwonder.org/Having-Fun-with-Complex-Numbers/",
     "source": "Hacker News",
     "published": "2025-11-18T22:52:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=45973364\">Comments</a>"
+  },
+  {
+    "title": "Murphyjitsu (2018)",
+    "link": "https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu",
+    "source": "Hacker News",
+    "published": "2025-11-18T20:24:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45971548\">Comments</a>"
   },
   {
     "title": "Disney Lost Roger Rabbit",
