@@ -1,19 +1,19 @@
 [
   {
-    "title": "Show HN: Syd \u2013 An offline-first, AI-augmented workstation for blue teams",
-    "link": "https://www.sydsec.co.uk",
+    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
     "source": "Hacker News",
-    "published": "2025-11-24T07:11:38+00:00",
+    "published": "2025-11-24T10:40:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46031208\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46032539\">Comments</a>"
   },
   {
-    "title": "A One-Minute ADHD Test",
-    "link": "https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330",
+    "title": "General principles for the use of AI at CERN",
+    "link": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
     "source": "Hacker News",
-    "published": "2025-11-24T07:09:28+00:00",
+    "published": "2025-11-24T10:37:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46031196\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46032513\">Comments</a>"
   },
   {
     "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
@@ -22,14 +22,6 @@
     "published": "2025-11-24T05:17:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46030613\">Comments</a>"
-  },
-  {
-    "title": "Build desktop applications using Go and Web Technologies",
-    "link": "https://github.com/wailsapp/wails",
-    "source": "Hacker News",
-    "published": "2025-11-24T04:33:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46030414\">Comments</a>"
   },
   {
     "title": "RuBee",
@@ -46,14 +38,6 @@
     "published": "2025-11-24T03:07:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46029929\">Comments</a>"
-  },
-  {
-    "title": "The Cloudflare outage might be a good thing",
-    "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
-    "source": "Hacker News",
-    "published": "2025-11-24T03:04:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46029908\">Comments</a>"
   },
   {
     "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
@@ -104,12 +88,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46024773\">Comments</a>"
   },
   {
-    "title": "Moss survived outside of the International Space Station for 9 months",
-    "link": "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth",
+    "title": "We stopped roadmap work for a week and fixed bugs",
+    "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
     "source": "Hacker News",
-    "published": "2025-11-21T00:03:14+00:00",
+    "published": "2025-11-23T16:06:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45999631\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46024541\">Comments</a>"
+  },
+  {
+    "title": "Set theory with types",
+    "link": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
+    "source": "Hacker News",
+    "published": "2025-11-22T07:22:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46012846\">Comments</a>"
+  },
+  {
+    "title": "A time-travelling door bug in Half Life 2",
+    "link": "https://mastodon.gamedev.place/@TomF/115589875974658415",
+    "source": "Hacker News",
+    "published": "2025-11-21T22:48:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46009962\">Comments</a>"
+  },
+  {
+    "title": "Building the largest known Kubernetes cluster, with 130k nodes",
+    "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+    "source": "Hacker News",
+    "published": "2025-11-21T17:56:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46006891\">Comments</a>"
   },
   {
     "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
@@ -120,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=45985008\">Comments</a>"
   },
   {
-    "title": "Breakthrough in antimatter production",
-    "link": "https://home.cern/news/news/experiments/breakthrough-antimatter-production",
+    "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
+    "link": "https://arxiv.org/abs/2510.08874",
     "source": "Hacker News",
-    "published": "2025-11-19T13:19:39+00:00",
+    "published": "2025-11-19T16:22:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45979220\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45981441\">Comments</a>"
+  },
+  {
+    "title": "The Only GM EV1 Ever Publicly Sold, and Where It's Going Next",
+    "link": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
+    "source": "Hacker News",
+    "published": "2025-11-19T15:17:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45980608\">Comments</a>"
   },
   {
     "title": "The Rust Performance Book (2020)",
@@ -134,22 +150,6 @@
     "published": "2025-11-19T09:08:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=45977386\">Comments</a>"
-  },
-  {
-    "title": "Having Fun with Complex Numbers",
-    "link": "https://mathwonder.org/Having-Fun-with-Complex-Numbers/",
-    "source": "Hacker News",
-    "published": "2025-11-18T22:52:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45973364\">Comments</a>"
-  },
-  {
-    "title": "Murphyjitsu (2018)",
-    "link": "https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu",
-    "source": "Hacker News",
-    "published": "2025-11-18T20:24:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45971548\">Comments</a>"
   },
   {
     "title": "Disney Lost Roger Rabbit",
