@@ -1,27 +1,51 @@
 [
   {
+    "title": "How to repurpose your old phone's GPS modem into a web server",
+    "link": "https://blog.nns.ee/2021/04/01/modem-blog",
+    "source": "Hacker News",
+    "published": "2025-11-25T19:58:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46049981\">Comments</a>"
+  },
+  {
+    "title": "Unison 1.0 Release",
+    "link": "https://www.unison-lang.org/unison-1-0/",
+    "source": "Hacker News",
+    "published": "2025-11-25T19:33:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46049722\">Comments</a>"
+  },
+  {
+    "title": "IQ differences of identical twins reared apart are influenced by education",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0001691825003853",
+    "source": "Hacker News",
+    "published": "2025-11-25T19:23:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46049624\">Comments</a>"
+  },
+  {
+    "title": "Bad UX World Cup 2025",
+    "link": "https://badux.lol/",
+    "source": "Hacker News",
+    "published": "2025-11-25T18:36:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46049066\">Comments</a>"
+  },
+  {
+    "title": "Google Antigravity exfiltrates data",
+    "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "source": "Hacker News",
+    "published": "2025-11-25T18:31:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46048996\">Comments</a>"
+  },
+  {
     "title": "Show HN: We built an open source, zero webhooks payment processor",
     "link": "https://github.com/flowglad/flowglad",
     "source": "Hacker News",
     "published": "2025-11-25T17:33:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46048252\">Comments</a>"
-  },
-  {
-    "title": "It Is OK to Say \"CSS Variables\" Instead of \"Custom Properties\"",
-    "link": "https://blog.kizu.dev/css-variables/",
-    "source": "Hacker News",
-    "published": "2025-11-25T17:31:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46048229\">Comments</a>"
-  },
-  {
-    "title": "Python is not a great language for data science. Part 1: The experience",
-    "link": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
-    "source": "Hacker News",
-    "published": "2025-11-25T16:38:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46047580\">Comments</a>"
   },
   {
     "title": "Ozempic does not slow Alzheimer's, study finds",
@@ -32,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46047513\">Comments</a>"
   },
   {
-    "title": "Orion 1.0 \u2013 Browse Beyond",
+    "title": "Orion 1.0",
     "link": "https://blog.kagi.com/orion",
     "source": "Hacker News",
     "published": "2025-11-25T16:21:24+00:00",
@@ -56,20 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46045987\">Comments</a>"
   },
   {
-    "title": "APT Rust requirement raises questions",
-    "link": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/",
+    "title": "Trillions spent and big software projects are still failing",
+    "link": "https://spectrum.ieee.org/it-management-software-failures",
     "source": "Hacker News",
-    "published": "2025-11-25T14:18:01+00:00",
+    "published": "2025-11-25T12:14:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46045972\">Comments</a>"
-  },
-  {
-    "title": "Brain has five 'eras' with adult mode not starting until early 30s",
-    "link": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
-    "source": "Hacker News",
-    "published": "2025-11-25T13:38:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46045661\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46045085\">Comments</a>"
   },
   {
     "title": "Making Crash Bandicoot (2011)",
@@ -96,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46042928\">Comments</a>"
   },
   {
+    "title": "Jakarta is now the biggest city in the world",
+    "link": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+    "source": "Hacker News",
+    "published": "2025-11-25T06:09:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46042810\">Comments</a>"
+  },
+  {
     "title": "Unpowered SSDs slowly lose data",
     "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
     "source": "Hacker News",
@@ -104,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46038099\">Comments</a>"
   },
   {
-    "title": "Claude Advanced Tool Use",
-    "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "title": "how to repurpose your old phone into a web server",
+    "link": "https://far.computer/how-to/",
     "source": "Hacker News",
-    "published": "2025-11-24T19:21:35+00:00",
+    "published": "2025-11-22T18:16:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46038047\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46016902\">Comments</a>"
   },
   {
-    "title": "Using an Array of Needles to Create Solid Knitted Shapes",
-    "link": "https://dl.acm.org/doi/10.1145/3746059.3747759",
+    "title": "Inflatable Space Stations",
+    "link": "https://worksinprogress.co/issue/inflatable-space-stations/",
     "source": "Hacker News",
-    "published": "2025-11-21T22:36:24+00:00",
+    "published": "2025-11-21T13:42:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46009851\">Comments</a>"
-  },
-  {
-    "title": "Nearby peer discovery without GPS using environmental fingerprints",
-    "link": "https://www.svendewaerhert.com/blog/nearby-peer-discovery/",
-    "source": "Hacker News",
-    "published": "2025-11-21T11:47:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46003606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46004519\">Comments</a>"
   },
   {
     "title": "The 101 of analog signal filtering (2024)",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46003271\">Comments</a>"
   },
   {
-    "title": "Broccoli Man, Remastered",
-    "link": "https://mbleigh.dev/posts/broccoli-man-remastered/",
+    "title": "A rare GM EV1 saved from the crusher is going to be driveable again",
+    "link": "https://electrek.co/2025/11/19/gm-ev1-saved-from-crusher-going-driveable-again/",
     "source": "Hacker News",
-    "published": "2025-11-19T18:16:53+00:00",
+    "published": "2025-11-20T02:08:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45982875\">Comments</a>"
-  },
-  {
-    "title": "Meta Segment Anything Model 3",
-    "link": "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1",
-    "source": "Hacker News",
-    "published": "2025-11-19T16:27:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45981514\">Comments</a>"
-  },
-  {
-    "title": "LPLB: An early research stage MoE load balancer based on linear programming",
-    "link": "https://github.com/deepseek-ai/LPLB",
-    "source": "Hacker News",
-    "published": "2025-11-19T13:14:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45979180\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45988000\">Comments</a>"
   }
 ]
