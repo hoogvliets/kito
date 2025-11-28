@@ -1,19 +1,43 @@
 [
   {
+    "title": "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
+    "link": "https://tigerstyle.dev/",
+    "source": "Hacker News",
+    "published": "2025-11-28T04:53:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075628\">Comments</a>"
+  },
+  {
+    "title": "Migrating to Positron, a next-generation data science IDE for Python and R",
+    "link": "https://posit.co/blog/positron-migration-guides",
+    "source": "Hacker News",
+    "published": "2025-11-28T04:15:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075462\">Comments</a>"
+  },
+  {
+    "title": "Pocketbase \u2013 open-source realtime back end in 1 file",
+    "link": "https://pocketbase.io/",
+    "source": "Hacker News",
+    "published": "2025-11-28T03:45:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075320\">Comments</a>"
+  },
+  {
+    "title": "China's BEV Trucks and the End of Diesel's Dominance",
+    "link": "https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/",
+    "source": "Hacker News",
+    "published": "2025-11-28T03:40:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075305\">Comments</a>"
+  },
+  {
     "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
     "link": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
     "source": "Hacker News",
     "published": "2025-11-28T00:10:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46074362\">Comments</a>"
-  },
-  {
-    "title": "Bird flu viruses are resistant to fever, making them a major threat to humans",
-    "link": "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html",
-    "source": "Hacker News",
-    "published": "2025-11-27T23:57:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46074286\">Comments</a>"
   },
   {
     "title": "Vsora Jotunn-8 5nm European inference chip",
@@ -40,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46073817\">Comments</a>"
   },
   {
-    "title": "Underrated reasons to be thankful V",
-    "link": "https://dynomight.net/thanks-5/",
-    "source": "Hacker News",
-    "published": "2025-11-27T20:37:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46073033\">Comments</a>"
-  },
-  {
-    "title": "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]",
-    "link": "https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf",
-    "source": "Hacker News",
-    "published": "2025-11-27T20:03:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46072786\">Comments</a>"
-  },
-  {
     "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
     "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
     "source": "Hacker News",
@@ -72,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46070203\">Comments</a>"
   },
   {
-    "title": "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
-    "link": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
-    "source": "Hacker News",
-    "published": "2025-11-27T13:28:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46069048\">Comments</a>"
-  },
-  {
-    "title": "Linux Kernel Explorer",
-    "link": "https://reverser.dev/linux-kernel-explorer",
-    "source": "Hacker News",
-    "published": "2025-11-27T06:17:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46066280\">Comments</a>"
-  },
-  {
     "title": "Tell HN: Happy Thanksgiving",
     "link": "https://news.ycombinator.com/item?id=46065955",
     "source": "Hacker News",
     "published": "2025-11-27T05:21:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46065955\">Comments</a>"
-  },
-  {
-    "title": "DIY NAS: 2026 Edition",
-    "link": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-    "source": "Hacker News",
-    "published": "2025-11-27T02:54:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46065034\">Comments</a>"
   },
   {
     "title": "Feedback doesn't scale",
@@ -118,6 +102,14 @@
     "published": "2025-11-26T13:36:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46057266\">Comments</a>"
+  },
+  {
+    "title": "Installing Java in 2025, and Version Managers",
+    "link": "https://blog.hakanserce.com/post/version_managers/",
+    "source": "Hacker News",
+    "published": "2025-11-24T18:25:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46037261\">Comments</a>"
   },
   {
     "title": "Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers",
@@ -150,6 +142,14 @@
     "published": "2025-11-23T15:33:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46024302\">Comments</a>"
+  },
+  {
+    "title": "Experimenting with Robin Hood Hashing",
+    "link": "https://twdev.blog/2025/11/robin_hood/",
+    "source": "Hacker News",
+    "published": "2025-11-23T10:05:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46022203\">Comments</a>"
   },
   {
     "title": "Physicists drive antihydrogen breakthrough at CERN",
