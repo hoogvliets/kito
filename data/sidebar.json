@@ -1,11 +1,35 @@
 [
   {
-    "title": "GrapheneOS Moving Out of France",
-    "link": "https://xcancel.com/GrapheneOS/status/1993035936800584103",
+    "title": "Google denies 'misleading' reports of Gmail using your emails to train AI",
+    "link": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
     "source": "Hacker News",
-    "published": "2025-11-28T06:43:13+00:00",
+    "published": "2025-11-28T10:38:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46076150\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077404\">Comments</a>"
+  },
+  {
+    "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
+    "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
+    "source": "Hacker News",
+    "published": "2025-11-28T10:36:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077393\">Comments</a>"
+  },
+  {
+    "title": "A Repository with 44 Years of Unix Evolution",
+    "link": "https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html",
+    "source": "Hacker News",
+    "published": "2025-11-28T09:32:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077106\">Comments</a>"
+  },
+  {
+    "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
+    "link": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
+    "source": "Hacker News",
+    "published": "2025-11-28T09:21:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077038\">Comments</a>"
   },
   {
     "title": "Show HN: Glasses to detect smart-glasses that have cameras",
@@ -24,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46075746\">Comments</a>"
   },
   {
-    "title": "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
-    "link": "https://tigerstyle.dev/",
+    "title": "Beads \u2013 A memory upgrade for your coding agent",
+    "link": "https://github.com/steveyegge/beads",
     "source": "Hacker News",
-    "published": "2025-11-28T04:53:07+00:00",
+    "published": "2025-11-28T04:50:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075628\">Comments</a>"
-  },
-  {
-    "title": "Migrating to Positron, a next-generation data science IDE for Python and R",
-    "link": "https://posit.co/blog/positron-migration-guides",
-    "source": "Hacker News",
-    "published": "2025-11-28T04:15:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075462\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075616\">Comments</a>"
   },
   {
     "title": "Pocketbase \u2013 open-source realtime back end in 1 file",
@@ -96,30 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46070203\">Comments</a>"
   },
   {
-    "title": "Feedback doesn't scale",
-    "link": "https://another.rodeo/feedback/",
-    "source": "Hacker News",
-    "published": "2025-11-26T15:40:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46058471\">Comments</a>"
-  },
-  {
-    "title": "Memories of .us",
-    "link": "https://computer.rip/2025-11-11-dot-us.html",
-    "source": "Hacker News",
-    "published": "2025-11-26T13:36:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46057266\">Comments</a>"
-  },
-  {
-    "title": "Comparing xeus-Haskell and ihaskell kernels",
-    "link": "https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html",
-    "source": "Hacker News",
-    "published": "2025-11-26T06:13:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46054661\">Comments</a>"
-  },
-  {
     "title": "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
     "link": "https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/",
     "source": "Hacker News",
@@ -128,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46038684\">Comments</a>"
   },
   {
-    "title": "Installing Java in 2025, and Version Managers",
-    "link": "https://blog.hakanserce.com/post/version_managers/",
+    "title": "Open (Apache 2.0) TTS model for streaming conversational audio in realtime",
+    "link": "https://github.com/nari-labs/dia2",
     "source": "Hacker News",
-    "published": "2025-11-24T18:25:53+00:00",
+    "published": "2025-11-24T12:28:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46037261\">Comments</a>"
-  },
-  {
-    "title": "Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers",
-    "link": "https://retrogamecoders.com/maxduino-review/",
-    "source": "Hacker News",
-    "published": "2025-11-24T16:26:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46035819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46033386\">Comments</a>"
   },
   {
     "title": "Quake Engine Indicators",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46031552\">Comments</a>"
   },
   {
-    "title": "Physicists drive antihydrogen breakthrough at CERN",
-    "link": "https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html",
+    "title": "How to make precise sheet metal parts (photochemical machining) [video]",
+    "link": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
     "source": "Hacker News",
-    "published": "2025-11-22T20:54:06+00:00",
+    "published": "2025-11-23T03:37:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46018159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46020561\">Comments</a>"
+  },
+  {
+    "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
+    "link": "https://github.com/hexagonal-sun/moss",
+    "source": "Hacker News",
+    "published": "2025-11-22T07:11:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46012803\">Comments</a>"
+  },
+  {
+    "title": "The three thousand year journey of colchicine",
+    "link": "https://www.worksinprogress.news/p/the-three-thousand-year-journey-of",
+    "source": "Hacker News",
+    "published": "2025-11-20T23:43:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=45999475\">Comments</a>"
   }
 ]
