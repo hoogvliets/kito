@@ -1,67 +1,123 @@
 [
   {
+    "title": "Poll HN: What operating system do you primarily develop on?",
+    "link": "https://news.ycombinator.com/item?id=46081063",
+    "source": "Hacker News",
+    "published": "2025-11-28T18:02:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46081063\">Comments</a>"
+  },
+  {
+    "title": "Rock Paper Scissors Solitaire",
+    "link": "https://klezlab.it/rock-paper-scissors-solitaire.html",
+    "source": "Hacker News",
+    "published": "2025-11-28T17:54:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080972\">Comments</a>"
+  },
+  {
+    "title": "JSON Schema Demystified: Dialects, Vocabularies and Metaschemas",
+    "link": "https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/",
+    "source": "Hacker News",
+    "published": "2025-11-28T17:34:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080769\">Comments</a>"
+  },
+  {
+    "title": "Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes",
+    "link": "https://netlist.io/",
+    "source": "Hacker News",
+    "published": "2025-11-28T17:30:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080737\">Comments</a>"
+  },
+  {
+    "title": "C++ Web Server on my custom hobby OS",
+    "link": "https://oshub.org/projects/retros-32/posts/getting-a-webserver-running",
+    "source": "Hacker News",
+    "published": "2025-11-28T17:15:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080579\">Comments</a>"
+  },
+  {
+    "title": "Bringing Sexy Back. Internet surveillance has killed eroticism",
+    "link": "https://lux-magazine.com/article/privacy-eroticism/",
+    "source": "Hacker News",
+    "published": "2025-11-28T17:05:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080473\">Comments</a>"
+  },
+  {
+    "title": "So you wanna build a local RAG?",
+    "link": "https://blog.yakkomajuri.com/blog/local-rag",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:54:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080364\">Comments</a>"
+  },
+  {
+    "title": "Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts",
+    "link": "https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:37:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080161\">Comments</a>"
+  },
+  {
+    "title": "True P2P Email on Top of Yggdrasil Network",
+    "link": "https://github.com/JB-SelfCompany/Tyr",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:35:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080143\">Comments</a>"
+  },
+  {
+    "title": "AI Adoption Rates Starting to Flatten Out",
+    "link": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:21:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079987\">Comments</a>"
+  },
+  {
+    "title": "Meta hiding $27B in debt using advanced geometry",
+    "link": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:09:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079868\">Comments</a>"
+  },
+  {
+    "title": "Don't tug on that, you never know what it might be attached to",
+    "link": "https://blog.plover.com/2016/07/01/#tmpdir",
+    "source": "Hacker News",
+    "published": "2025-11-28T16:01:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079785\">Comments</a>"
+  },
+  {
+    "title": "Can Dutch universities do without Microsoft?",
+    "link": "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft",
+    "source": "Hacker News",
+    "published": "2025-11-28T15:53:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079721\">Comments</a>"
+  },
+  {
+    "title": "Generating 3D Meshes from Text",
+    "link": "https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/",
+    "source": "Hacker News",
+    "published": "2025-11-28T15:40:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079567\">Comments</a>"
+  },
+  {
     "title": "Petition to formally recognize open source work as civic service in Germany",
     "link": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
     "source": "Hacker News",
     "published": "2025-11-28T14:08:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46078770\">Comments</a>"
-  },
-  {
-    "title": "A trillion dollars (potentially) wasted on gen-AI",
-    "link": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
-    "source": "Hacker News",
-    "published": "2025-11-28T13:21:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46078407\">Comments</a>"
-  },
-  {
-    "title": "A Remarkable Assertion from A16Z",
-    "link": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
-    "source": "Hacker News",
-    "published": "2025-11-28T12:41:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46078138\">Comments</a>"
-  },
-  {
-    "title": "The mysterious black fungus from Chernobyl that may eat radiation",
-    "link": "https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation",
-    "source": "Hacker News",
-    "published": "2025-11-28T12:17:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077992\">Comments</a>"
-  },
-  {
-    "title": "A Tale of Four Fuzzers",
-    "link": "https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/",
-    "source": "Hacker News",
-    "published": "2025-11-28T12:11:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077964\">Comments</a>"
-  },
-  {
-    "title": "Switzerland: Data Protection Officers Impose Broad Cloud Ban for Authorities",
-    "link": "https://www.heise.de/en/news/Switzerland-Data-Protection-Officers-Impose-Broad-Cloud-Ban-for-Authorities-11093477.html",
-    "source": "Hacker News",
-    "published": "2025-11-28T12:00:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077885\">Comments</a>"
-  },
-  {
-    "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
-    "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-    "source": "Hacker News",
-    "published": "2025-11-28T10:36:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077393\">Comments</a>"
-  },
-  {
-    "title": "A Repository with 44 Years of Unix Evolution",
-    "link": "https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html",
-    "source": "Hacker News",
-    "published": "2025-11-28T09:32:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46077106\">Comments</a>"
   },
   {
     "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
@@ -72,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46077038\">Comments</a>"
   },
   {
-    "title": "SQLite as an Application File Format",
-    "link": "https://sqlite.org/appfileformat.html",
-    "source": "Hacker News",
-    "published": "2025-11-28T08:15:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46076642\">Comments</a>"
-  },
-  {
     "title": "Show HN: Glasses to detect smart-glasses that have cameras",
     "link": "https://github.com/NullPxl/banrays",
     "source": "Hacker News",
     "published": "2025-11-28T05:52:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46075882\">Comments</a>"
-  },
-  {
-    "title": "Tiger Style: Coding philosophy (2024)",
-    "link": "https://tigerstyle.dev/",
-    "source": "Hacker News",
-    "published": "2025-11-28T04:53:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46075628\">Comments</a>"
   },
   {
     "title": "Pocketbase \u2013 open-source realtime back end in 1 file",
@@ -104,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46075320\">Comments</a>"
   },
   {
-    "title": "Show HN: Spikelog \u2013 A simple metrics service for scripts, cron jobs, and MVPs",
-    "link": "https://spikelog.com",
-    "source": "Hacker News",
-    "published": "2025-11-27T11:10:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46068138\">Comments</a>"
-  },
-  {
     "title": "Atuin\u2019s New Runbook Execution Engine",
     "link": "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/",
     "source": "Hacker News",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46039317\">Comments</a>"
   },
   {
-    "title": "Open (Apache 2.0) TTS model for streaming conversational audio in realtime",
-    "link": "https://github.com/nari-labs/dia2",
-    "source": "Hacker News",
-    "published": "2025-11-24T12:28:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46033386\">Comments</a>"
-  },
-  {
-    "title": "OS Malevich \u2013 how we made a system that embodies the idea of simplicity (2017)",
-    "link": "https://www.ajax-systems.uz/blog/hub-os-malevich-story/",
-    "source": "Hacker News",
-    "published": "2025-11-24T10:52:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46032623\">Comments</a>"
-  },
-  {
-    "title": "How to make precise sheet metal parts (photochemical machining) [video]",
-    "link": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
-    "source": "Hacker News",
-    "published": "2025-11-23T03:37:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46020561\">Comments</a>"
-  },
-  {
     "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
     "link": "https://github.com/hexagonal-sun/moss",
     "source": "Hacker News",
     "published": "2025-11-22T07:11:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46012803\">Comments</a>"
-  },
-  {
-    "title": "The three thousand year journey of colchicine",
-    "link": "https://www.worksinprogress.news/p/the-three-thousand-year-journey-of",
-    "source": "Hacker News",
-    "published": "2025-11-20T23:43:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=45999475\">Comments</a>"
   }
 ]
