@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46080916\">Comments</a>"
   },
   {
-    "title": "C++ Web Server on my custom hobby OS",
-    "link": "https://oshub.org/projects/retros-32/posts/getting-a-webserver-running",
-    "source": "Hacker News",
-    "published": "2025-11-28T17:15:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080579\">Comments</a>"
-  },
-  {
     "title": "So you wanna build a local RAG?",
     "link": "https://blog.yakkomajuri.com/blog/local-rag",
     "source": "Hacker News",
@@ -128,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46080289\">Comments</a>"
   },
   {
-    "title": "True P2P Email on Top of Yggdrasil Network",
-    "link": "https://github.com/JB-SelfCompany/Tyr",
-    "source": "Hacker News",
-    "published": "2025-11-28T16:35:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080143\">Comments</a>"
-  },
-  {
     "title": "Don't tug on that, you never know what it might be attached to (2016)",
     "link": "https://blog.plover.com/2016/07/01/#tmpdir",
     "source": "Hacker News",
@@ -144,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46079785\">Comments</a>"
   },
   {
-    "title": "AltSendme: Another Alternative to MAgic Wormhole?",
-    "link": "https://github.com/tonyantony300/alt-sendme",
+    "title": "Can Dutch universities do without Microsoft?",
+    "link": "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft",
     "source": "Hacker News",
-    "published": "2025-11-24T10:16:59+00:00",
+    "published": "2025-11-28T15:53:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46032371\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46079721\">Comments</a>"
+  },
+  {
+    "title": "How to get Pandoc to respect custom table styles in Word templates",
+    "link": "https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/",
+    "source": "Hacker News",
+    "published": "2025-11-25T03:33:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46042074\">Comments</a>"
   },
   {
     "title": "I mathematically proved the best \"Guess Who?\" strategy [video]",
@@ -158,5 +150,13 @@
     "published": "2025-11-22T17:49:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46016634\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Choose your own adventure style Presentation",
+    "link": "https://github.com/Skarlso/adventure-voter",
+    "source": "Hacker News",
+    "published": "2025-11-21T14:24:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46004895\">Comments</a>"
   }
 ]
