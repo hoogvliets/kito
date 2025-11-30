@@ -1,19 +1,35 @@
 [
   {
-    "title": "The Undermining of the CDC",
-    "link": "https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc",
+    "title": "LLVM-MOS \u2013 Clang LLVM fork targeting the 6502",
+    "link": "https://llvm-mos.org/wiki/Welcome",
     "source": "Hacker News",
-    "published": "2025-11-30T14:52:06+00:00",
+    "published": "2025-11-30T17:02:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46097102\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46098359\">Comments</a>"
   },
   {
-    "title": "Geothermal Breakthrough in South Texas Signals New Era for Ercot",
-    "link": "https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/",
+    "title": "RetailReady (YC W24) Is Hiring Associate Product Manager",
+    "link": "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager",
     "source": "Hacker News",
-    "published": "2025-11-30T14:29:26+00:00",
+    "published": "2025-11-30T17:01:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46096921\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46098336\">Comments</a>"
+  },
+  {
+    "title": "The Thinking Game Film \u2013 Google DeepMind Documentary",
+    "link": "https://thinkinggamefilm.com",
+    "source": "Hacker News",
+    "published": "2025-11-30T16:07:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46097773\">Comments</a>"
+  },
+  {
+    "title": "Langjam Gamejam: Build a programming language then make a game with it",
+    "link": "https://langjamgamejam.com/",
+    "source": "Hacker News",
+    "published": "2025-11-30T15:57:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46097671\">Comments</a>"
   },
   {
     "title": "Migrating Dillo from GitHub",
@@ -22,14 +38,6 @@
     "published": "2025-11-30T14:11:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46096800\">Comments</a>"
-  },
-  {
-    "title": "Don't throw away your old PC\u2013it makes a better NAS than anything you can buy",
-    "link": "https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/",
-    "source": "Hacker News",
-    "published": "2025-11-30T14:09:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46096781\">Comments</a>"
   },
   {
     "title": "Windows drive letters are not limited to A-Z",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46095250\">Comments</a>"
   },
   {
-    "title": "Jiga (YC W21) Is Hiring Product Designer",
-    "link": "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe",
-    "source": "Hacker News",
-    "published": "2025-11-30T07:00:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46094478\">Comments</a>"
-  },
-  {
     "title": "Zigbook Is Plagiarizing the Zigtools Playground",
     "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
     "source": "Hacker News",
@@ -94,22 +94,6 @@
     "published": "2025-11-30T03:46:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46093473\">Comments</a>"
-  },
-  {
-    "title": "Meshtastic",
-    "link": "https://meshtastic.org/",
-    "source": "Hacker News",
-    "published": "2025-11-30T01:15:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46092558\">Comments</a>"
-  },
-  {
-    "title": "Landlock-Ing Linux",
-    "link": "https://blog.prizrak.me/post/landlock/",
-    "source": "Hacker News",
-    "published": "2025-11-29T21:30:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46090969\">Comments</a>"
   },
   {
     "title": "All it takes is for one to work out",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46067011\">Comments</a>"
   },
   {
+    "title": "Show HN: Fixing Google Nano Banana Pixel Art with Rust",
+    "link": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+    "source": "Hacker News",
+    "published": "2025-11-26T15:46:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46058566\">Comments</a>"
+  },
+  {
     "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
     "link": "https://yandori.io/news-flow/",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2025-11-25T22:11:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46051422\">Comments</a>"
+  },
+  {
+    "title": "I Made a Quieter Air Purifier",
+    "link": "https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier",
+    "source": "Hacker News",
+    "published": "2025-11-24T21:31:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46039594\">Comments</a>"
   }
 ]
