@@ -1,5 +1,21 @@
 [
   {
+    "title": "Advent of Sysadmin 2025",
+    "link": "https://sadservers.com/advent",
+    "source": "Hacker News",
+    "published": "2025-12-01T01:17:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46102347\">Comments</a>"
+  },
+  {
+    "title": "Is America's jobs market nearing a cliff?",
+    "link": "https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff",
+    "source": "Hacker News",
+    "published": "2025-12-01T00:58:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46102202\">Comments</a>"
+  },
+  {
     "title": "Algorithms for Optimization [pdf]",
     "link": "https://algorithmsbook.com/optimization/files/optimization.pdf",
     "source": "Hacker News",
@@ -8,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46101492\">Comments</a>"
   },
   {
-    "title": "Bricklink suspends Marketplace operations in 35 countries (developing story)",
+    "title": "Bricklink suspends Marketplace operations in 35 countries",
     "link": "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/",
     "source": "Hacker News",
     "published": "2025-11-30T22:53:08+00:00",
@@ -24,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46100892\">Comments</a>"
   },
   {
-    "title": "\"Boobs check\" \u2013 Technique to verify if sites behind CDN are hosted in Iran",
-    "link": "https://twitter.com/hkashfi/status/1995109785679573167",
+    "title": "How to run phones while being struck by suicide drones",
+    "link": "https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/",
     "source": "Hacker News",
-    "published": "2025-11-30T20:54:43+00:00",
+    "published": "2025-11-30T20:49:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46100323\">Comments</a>"
-  },
-  {
-    "title": "People keep flocking to Linux, not just to escape Windows",
-    "link": "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/",
-    "source": "Hacker News",
-    "published": "2025-11-30T20:14:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46099985\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46100282\">Comments</a>"
   },
   {
     "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
@@ -46,14 +54,6 @@
     "published": "2025-11-30T18:34:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46099108\">Comments</a>"
-  },
-  {
-    "title": "There is No Quintic Formula [video]",
-    "link": "https://www.youtube.com/watch?v=9HIy5dJE-zQ",
-    "source": "Hacker News",
-    "published": "2025-11-30T18:15:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46098979\">Comments</a>"
   },
   {
     "title": "Writing a good Claude.md",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46097829\">Comments</a>"
   },
   {
-    "title": "The Thinking Game Film \u2013 Google DeepMind documentary",
-    "link": "https://thinkinggamefilm.com",
-    "source": "Hacker News",
-    "published": "2025-11-30T16:07:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46097773\">Comments</a>"
-  },
-  {
     "title": "Migrating Dillo from GitHub",
     "link": "https://dillo-browser.org/news/migration-from-github/",
     "source": "Hacker News",
@@ -136,27 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46095585\">Comments</a>"
   },
   {
-    "title": "Stop Hacklore \u2013 An Open Letter",
-    "link": "https://www.hacklore.org/letter",
+    "title": "AI just proved Erdos Problem #124",
+    "link": "https://www.erdosproblems.com/forum/thread/124#post-1892",
     "source": "Hacker News",
-    "published": "2025-11-26T15:55:48+00:00",
+    "published": "2025-11-30T05:19:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46058670\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46094037\">Comments</a>"
   },
   {
-    "title": "Show HN: Fixing Google Nano Banana Pixel Art with Rust",
-    "link": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+    "title": "Replacing My Window Manager with Google Chrome",
+    "link": "https://foxmoss.com/blog/dote/",
     "source": "Hacker News",
-    "published": "2025-11-26T15:46:51+00:00",
+    "published": "2025-11-27T19:34:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46058566\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46072521\">Comments</a>"
   },
   {
-    "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
-    "link": "https://yandori.io/news-flow/",
+    "title": "Stereo Images of Giant Galaxies",
+    "link": "https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies",
     "source": "Hacker News",
-    "published": "2025-11-26T01:27:16+00:00",
+    "published": "2025-11-25T03:42:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46053076\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46042145\">Comments</a>"
+  },
+  {
+    "title": "Seeing a Molecule's Quantum Shadow",
+    "link": "https://physics.aps.org/articles/v18/s149",
+    "source": "Hacker News",
+    "published": "2025-11-25T01:04:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46041253\">Comments</a>"
   }
 ]
