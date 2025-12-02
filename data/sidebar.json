@@ -1,5 +1,37 @@
 [
   {
+    "title": "Addressing the adding situation",
+    "link": "https://xania.org/202512/02-adding-integers",
+    "source": "Hacker News",
+    "published": "2025-12-02T11:30:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46120181\">Comments</a>"
+  },
+  {
+    "title": "Man unexpectedly cured of HIV after stem cell transplant",
+    "link": "https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/",
+    "source": "Hacker News",
+    "published": "2025-12-02T10:20:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46119699\">Comments</a>"
+  },
+  {
+    "title": "Advent of Compiler Optimisations 2025",
+    "link": "https://xania.org/202511/advent-of-compiler-optimisation",
+    "source": "Hacker News",
+    "published": "2025-12-02T09:51:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46119500\">Comments</a>"
+  },
+  {
+    "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
+    "link": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/",
+    "source": "Hacker News",
+    "published": "2025-12-02T09:11:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46119214\">Comments</a>"
+  },
+  {
     "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
     "link": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
     "source": "Hacker News",
@@ -22,14 +54,6 @@
     "published": "2025-12-02T05:40:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46117993\">Comments</a>"
-  },
-  {
-    "title": "Frequently Asked Unicycling Questions",
-    "link": "https://vale.rocks/posts/unicycle-faq",
-    "source": "Hacker News",
-    "published": "2025-12-02T05:27:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46117900\">Comments</a>"
   },
   {
     "title": "Apple Releases Open Weights Video Model",
@@ -64,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46116567\">Comments</a>"
   },
   {
-    "title": "Notes on Bhutan",
-    "link": "https://apropos.substack.com/p/notes-on-bhutan",
-    "source": "Hacker News",
-    "published": "2025-12-02T01:30:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46116179\">Comments</a>"
-  },
-  {
-    "title": "Arcee Trinity Mini: US-Trained Moe Model",
-    "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-    "source": "Hacker News",
-    "published": "2025-12-02T00:31:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46115682\">Comments</a>"
-  },
-  {
     "title": "Ghostty compiled to WASM with xterm.js API compatibility",
     "link": "https://github.com/coder/ghostty-web",
     "source": "Hacker News",
@@ -88,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46110842\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who is hiring? (December 2025)",
-    "link": "https://news.ycombinator.com/item?id=46108941",
-    "source": "Hacker News",
-    "published": "2025-12-01T16:01:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46108941\">Comments</a>"
-  },
-  {
     "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
     "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
     "source": "Hacker News",
     "published": "2025-12-01T15:48:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46108780\">Comments</a>"
-  },
-  {
-    "title": "Cartographers have been hiding illustrations inside Switzerland\u2019s maps (2020)",
-    "link": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
-    "source": "Hacker News",
-    "published": "2025-12-01T13:41:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46107282\">Comments</a>"
   },
   {
     "title": "India orders smartphone makers to preload state-owned cyber safety app",
@@ -128,12 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46095662\">Comments</a>"
   },
   {
+    "title": "YouTube increases FreeBASIC performance (2019)",
+    "link": "https://freebasic.net/forum/viewtopic.php?t=27927",
+    "source": "Hacker News",
+    "published": "2025-11-30T04:09:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46093613\">Comments</a>"
+  },
+  {
     "title": "Tom Stoppard has died",
     "link": "https://www.bbc.com/news/articles/c74xe49q7vlo",
     "source": "Hacker News",
     "published": "2025-11-29T22:03:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46091211\">Comments</a>"
+  },
+  {
+    "title": "Wacky Fun Physics Ideas",
+    "link": "https://scottlocklin.wordpress.com/2025/11/22/wacky-fun-physics-ideas/",
+    "source": "Hacker News",
+    "published": "2025-11-29T05:02:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46085279\">Comments</a>"
   },
   {
     "title": "Codex, Opus, Gemini try to build Counter Strike",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46080835\">Comments</a>"
   },
   {
-    "title": "URL in C Puzzle",
-    "link": "https://susam.net/url-in-c.html",
+    "title": "Invisible details of interaction design (2023)",
+    "link": "https://rauno.me/craft/interaction-design",
     "source": "Hacker News",
-    "published": "2025-11-27T07:42:39+00:00",
+    "published": "2025-11-26T10:24:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46066764\">Comments</a>"
-  },
-  {
-    "title": "Stride Game Engine 4.3 with .NET 10 Support",
-    "link": "https://www.stride3d.net/blog/announcing-stride-4-3-in-dotnet-10/",
-    "source": "Hacker News",
-    "published": "2025-11-26T06:43:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46054787\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46056022\">Comments</a>"
   }
 ]
