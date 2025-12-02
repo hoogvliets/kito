@@ -1,6 +1,62 @@
 [
   {
-    "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
+    "title": "Delty (YC X25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+    "source": "Hacker News",
+    "published": "2025-12-02T21:00:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46126822\">Comments</a>"
+  },
+  {
+    "title": "Paged Out",
+    "link": "https://pagedout.institute",
+    "source": "Hacker News",
+    "published": "2025-12-02T20:14:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46126217\">Comments</a>"
+  },
+  {
+    "title": "Free static site generator for small restaurants and cafes",
+    "link": "https://lite.localcafe.org/",
+    "source": "Hacker News",
+    "published": "2025-12-02T20:08:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46126141\">Comments</a>"
+  },
+  {
+    "title": "Claude 4.5 Opus' Soul Document",
+    "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
+    "source": "Hacker News",
+    "published": "2025-12-02T19:05:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46125184\">Comments</a>"
+  },
+  {
+    "title": "Amazon launches Trainium3",
+    "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+    "source": "Hacker News",
+    "published": "2025-12-02T19:04:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46125155\">Comments</a>"
+  },
+  {
+    "title": "Cursed circuits: charge pump voltage halver",
+    "link": "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage",
+    "source": "Hacker News",
+    "published": "2025-12-02T18:47:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46124892\">Comments</a>"
+  },
+  {
+    "title": "Anthropic acquires Bun",
+    "link": "https://bun.com/blog/bun-joins-anthropic",
+    "source": "Hacker News",
+    "published": "2025-12-02T18:05:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46124267\">Comments</a>"
+  },
+  {
+    "title": "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
     "link": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
     "source": "Hacker News",
     "published": "2025-12-02T17:59:53+00:00",
@@ -8,28 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46124205\">Comments</a>"
   },
   {
-    "title": "Apple to beat Samsung in smartphone shipments for first time in 14 years",
-    "link": "https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/",
+    "title": "School Cell Phone Bans and Student Achievement (NBER Digest)",
+    "link": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
     "source": "Hacker News",
-    "published": "2025-12-02T17:24:33+00:00",
+    "published": "2025-12-02T17:58:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46123747\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46124179\">Comments</a>"
   },
   {
-    "title": "Poka Labs (YC S24) Is Hiring a Founding Engineer",
-    "link": "https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer",
+    "title": "The Junior Hiring Crisis",
+    "link": "https://people-work.io/blog/junior-hiring-crisis/",
     "source": "Hacker News",
-    "published": "2025-12-02T17:00:12+00:00",
+    "published": "2025-12-02T17:48:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46123374\">Comments</a>"
-  },
-  {
-    "title": "4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign",
-    "link": "https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign",
-    "source": "Hacker News",
-    "published": "2025-12-02T16:30:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46122957\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46124063\">Comments</a>"
   },
   {
     "title": "Mistral 3 family of models released",
@@ -40,44 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46121889\">Comments</a>"
   },
   {
-    "title": "Show HN: Marmot \u2013 Single-binary data catalog (no Kafka, no Elasticsearch)",
-    "link": "https://github.com/marmotdata/marmot",
+    "title": "OpenAI declares 'code red' as Google catches up in AI race",
+    "link": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
     "source": "Hacker News",
-    "published": "2025-12-02T14:59:40+00:00",
+    "published": "2025-12-02T15:00:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46121860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46121870\">Comments</a>"
   },
   {
-    "title": "Nixtml: Static website and blog generator written in Nix",
-    "link": "https://github.com/arnarg/nixtml",
+    "title": "Zig's new plan for asynchronous programs",
+    "link": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
     "source": "Hacker News",
-    "published": "2025-12-02T14:54:49+00:00",
+    "published": "2025-12-02T14:31:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46121799\">Comments</a>"
-  },
-  {
-    "title": "Python Data Science Handbook",
-    "link": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-    "source": "Hacker News",
-    "published": "2025-12-02T12:38:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46120611\">Comments</a>"
-  },
-  {
-    "title": "Lazier Binary Decision Diagrams for set-theoretic types",
-    "link": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
-    "source": "Hacker News",
-    "published": "2025-12-02T12:37:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46120603\">Comments</a>"
-  },
-  {
-    "title": "A series of vignettes from my childhood and early career",
-    "link": "https://www.jasonscheirer.com/weblog/vignettes/",
-    "source": "Hacker News",
-    "published": "2025-12-02T12:28:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46120549\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46121539\">Comments</a>"
   },
   {
     "title": "Addressing the adding situation",
@@ -88,39 +112,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46120181\">Comments</a>"
   },
   {
-    "title": "Advent of Compiler Optimisations 2025",
-    "link": "https://xania.org/202511/advent-of-compiler-optimisation",
+    "title": "All about automotive lidar",
+    "link": "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/",
     "source": "Hacker News",
-    "published": "2025-12-02T09:51:42+00:00",
+    "published": "2025-12-01T17:43:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46119500\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46110395\">Comments</a>"
   },
   {
-    "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
-    "link": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/",
-    "source": "Hacker News",
-    "published": "2025-12-02T09:11:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46119214\">Comments</a>"
-  },
-  {
-    "title": "Apple Releases Open Weights Video Model",
-    "link": "https://starflow-v.github.io",
-    "source": "Hacker News",
-    "published": "2025-12-02T05:10:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46117802\">Comments</a>"
-  },
-  {
-    "title": "What will enter the public domain in 2026?",
-    "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-    "source": "Hacker News",
-    "published": "2025-12-02T03:23:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46117112\">Comments</a>"
-  },
-  {
-    "title": "I Designed and Printed a Custom Nose Guard to Help My Dog with DLE",
+    "title": "I designed and printed a custom nose guard to help my dog with DLE",
     "link": "https://snoutcover.com/billie-story",
     "source": "Hacker News",
     "published": "2025-11-30T06:56:33+00:00",
@@ -128,23 +128,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46094460\">Comments</a>"
   },
   {
-    "title": "YouTube increases FreeBASIC performance (2019)",
-    "link": "https://freebasic.net/forum/viewtopic.php?t=27927",
+    "title": "Solving the Partridge Packing Problem Using MiniZinc",
+    "link": "https://zayenz.se/blog/post/partridge-packing/",
     "source": "Hacker News",
-    "published": "2025-11-30T04:09:41+00:00",
+    "published": "2025-11-26T14:53:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46093613\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46057932\">Comments</a>"
   },
   {
-    "title": "Lowtype: Elegant Types in Ruby",
-    "link": "https://codeberg.org/Iow/type",
+    "title": "Code Wiki: Accelerating your code understanding",
+    "link": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
     "source": "Hacker News",
-    "published": "2025-11-28T16:50:32+00:00",
+    "published": "2025-11-26T05:00:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46080307\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46054338\">Comments</a>"
   },
   {
-    "title": "Learning Music with Strudel",
+    "title": "Learning music with Strudel",
     "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
     "source": "Hacker News",
     "published": "2025-11-26T00:09:19+00:00",
