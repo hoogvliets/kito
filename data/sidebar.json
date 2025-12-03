@@ -16,20 +16,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46131330\">Comments</a>"
   },
   {
+    "title": "Researchers Find Microbe Capable of Producing Oxygen from Martian Soil",
+    "link": "https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/",
+    "source": "Hacker News",
+    "published": "2025-12-03T06:34:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46130907\">Comments</a>"
+  },
+  {
     "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
     "link": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
     "source": "Hacker News",
     "published": "2025-12-03T06:07:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46130784\">Comments</a>"
-  },
-  {
-    "title": "Sending DMARC reports is somewhat hazardous",
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems",
-    "source": "Hacker News",
-    "published": "2025-12-03T05:05:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46130506\">Comments</a>"
   },
   {
     "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
@@ -48,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46130233\">Comments</a>"
   },
   {
-    "title": "Japanese game devs face font dilemma as license increases from $380 to $20k",
-    "link": "https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000",
-    "source": "Hacker News",
-    "published": "2025-12-03T04:03:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46130187\">Comments</a>"
-  },
-  {
     "title": "Paged Out",
     "link": "https://pagedout.institute",
     "source": "Hacker News",
     "published": "2025-12-02T20:14:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46126217\">Comments</a>"
-  },
-  {
-    "title": "Amazon launches Trainium3",
-    "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
-    "source": "Hacker News",
-    "published": "2025-12-02T19:04:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46125155\">Comments</a>"
   },
   {
     "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
@@ -96,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46121870\">Comments</a>"
   },
   {
+    "title": "Zig's new plan for asynchronous programs",
+    "link": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
+    "source": "Hacker News",
+    "published": "2025-12-02T14:31:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46121539\">Comments</a>"
+  },
+  {
     "title": "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
     "link": "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/",
     "source": "Hacker News",
@@ -110,6 +102,22 @@
     "published": "2025-11-30T06:56:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46094460\">Comments</a>"
+  },
+  {
+    "title": "Mathematics is hard for mathematicians to understand too",
+    "link": "https://www.science.org/doi/10.1126/science.aec9014",
+    "source": "Hacker News",
+    "published": "2025-11-27T23:05:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46073978\">Comments</a>"
+  },
+  {
+    "title": "Trying Out C++26 Executors",
+    "link": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
+    "source": "Hacker News",
+    "published": "2025-11-27T19:10:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46072323\">Comments</a>"
   },
   {
     "title": "AI agents break rules under everyday pressure",
@@ -150,13 +158,5 @@
     "published": "2025-11-25T21:15:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46050884\">Comments</a>"
-  },
-  {
-    "title": "Counter Galois Onion: Improved encryption for Tor circuit traffic",
-    "link": "https://blog.torproject.org/introducing-cgo/",
-    "source": "Hacker News",
-    "published": "2025-11-25T20:51:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46050624\">Comments</a>"
   }
 ]
