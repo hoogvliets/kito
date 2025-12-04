@@ -1,27 +1,59 @@
 [
   {
-    "title": "Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs",
+    "title": "NextJS Security Vulnerability",
+    "link": "https://nextjs.org/blog/CVE-2025-66478",
+    "source": "Hacker News",
+    "published": "2025-12-04T11:14:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46146266\">Comments</a>"
+  },
+  {
+    "title": "Building optimistic UI in Rails (and learn custom elements)",
+    "link": "https://railsdesigner.com/custom-elements/",
+    "source": "Hacker News",
+    "published": "2025-12-04T11:03:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46146204\">Comments</a>"
+  },
+  {
+    "title": "PGlite \u2013 Embeddable Postgres",
+    "link": "https://pglite.dev/",
+    "source": "Hacker News",
+    "published": "2025-12-04T10:52:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46146133\">Comments</a>"
+  },
+  {
+    "title": "Tunnl.gg",
+    "link": "https://tunnl.gg",
+    "source": "Hacker News",
+    "published": "2025-12-04T10:15:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46145902\">Comments</a>"
+  },
+  {
+    "title": "Unreal Tournament 2004 is back",
+    "link": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+    "source": "Hacker News",
+    "published": "2025-12-04T10:06:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46145834\">Comments</a>"
+  },
+  {
+    "title": "It\u2019s time to free JavaScript",
+    "link": "https://javascript.tm/letter",
+    "source": "Hacker News",
+    "published": "2025-12-04T09:01:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46145365\">Comments</a>"
+  },
+  {
+    "title": "Elites could shape mass preferences as AI reduces persuasion costs",
     "link": "https://arxiv.org/abs/2512.04047",
     "source": "Hacker News",
     "published": "2025-12-04T08:38:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46145180\">Comments</a>"
-  },
-  {
-    "title": "The Mysterious Realm of JavaScriptCore (2021)",
-    "link": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
-    "source": "Hacker News",
-    "published": "2025-12-04T08:33:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46145154\">Comments</a>"
-  },
-  {
-    "title": "How AI is transforming work at Anthropic",
-    "link": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-    "source": "Hacker News",
-    "published": "2025-12-04T07:26:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46144752\">Comments</a>"
   },
   {
     "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46144613\">Comments</a>"
   },
   {
-    "title": "Show HN: Mirror_bridge \u2013 C++ Reflection powered Python binding generation",
-    "link": "https://github.com/FranciscoThiesen/mirror_bridge",
-    "source": "Hacker News",
-    "published": "2025-12-04T06:12:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46144331\">Comments</a>"
-  },
-  {
     "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
     "link": "https://uncloud.run/",
     "source": "Hacker News",
@@ -48,44 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46144275\">Comments</a>"
   },
   {
-    "title": "Why WinQuake exists and how it works",
-    "link": "https://fabiensanglard.net/winquake/index.html",
-    "source": "Hacker News",
-    "published": "2025-12-04T01:58:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46142866\">Comments</a>"
-  },
-  {
     "title": "Average DRAM price in USD over last 18 months",
     "link": "https://pcpartpicker.com/trends/price/memory/",
     "source": "Hacker News",
     "published": "2025-12-04T00:08:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46142100\">Comments</a>"
-  },
-  {
-    "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
-    "link": "https://www.isc.org/kea/",
-    "source": "Hacker News",
-    "published": "2025-12-03T23:58:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46142000\">Comments</a>"
-  },
-  {
-    "title": "Acme, a brief history of one of the protocols which has changed the Internet",
-    "link": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
-    "source": "Hacker News",
-    "published": "2025-12-03T23:28:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46141745\">Comments</a>"
-  },
-  {
-    "title": "8086 Microcode Browser",
-    "link": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
-    "source": "Hacker News",
-    "published": "2025-12-03T21:16:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46140244\">Comments</a>"
   },
   {
     "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46126446\">Comments</a>"
   },
   {
-    "title": "The Differences Between an IndyCar and a F1 Car",
-    "link": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
+    "title": "Show HN: Walrus \u2013 a Kafka alternative written in Rust",
+    "link": "https://github.com/nubskr/walrus",
     "source": "Hacker News",
-    "published": "2025-12-01T00:03:51+00:00",
+    "published": "2025-12-01T15:28:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46101816\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46108557\">Comments</a>"
   },
   {
-    "title": "In Northern Scotland, the Neolithic Age Never Ended",
-    "link": "https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended",
+    "title": "Interop and MathML Core",
+    "link": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
     "source": "Hacker News",
-    "published": "2025-11-29T18:14:31+00:00",
+    "published": "2025-11-30T17:02:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46089548\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46098356\">Comments</a>"
+  },
+  {
+    "title": "Show HN: MTXT \u2013 Music Text Format",
+    "link": "https://github.com/Daninet/mtxt",
+    "source": "Hacker News",
+    "published": "2025-11-30T10:21:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46095474\">Comments</a>"
   }
 ]
