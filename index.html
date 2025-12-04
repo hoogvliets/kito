@@ -43,27 +43,6 @@
                         </button>
                     </div>
 
-                    <button id="export-config-btn" class="icon-btn" aria-label="Export configuration" title="Export Config">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
-                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                            stroke-linejoin="round">
-                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                            <polyline points="7 10 12 15 17 10"></polyline>
-                            <line x1="12" y1="15" x2="12" y2="3"></line>
-                        </svg>
-                    </button>
-
-                    <button id="import-config-btn" class="icon-btn" aria-label="Import configuration" title="Import Config">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
-                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                            stroke-linejoin="round">
-                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                            <polyline points="17 8 12 3 7 8"></polyline>
-                            <line x1="12" y1="3" x2="12" y2="15"></line>
-                        </svg>
-                    </button>
-                    <input type="file" id="import-file-input" accept=".yaml,.yml" style="display: none;">
-
                     <button id="theme-toggle" class="icon-btn" aria-label="Toggle dark mode" title="Toggle theme">
                         <!-- Sun icon -->
                         <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -86,6 +65,16 @@
                             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                         </svg>
                     </button>
+
+                    <button id="config-manager-btn" class="icon-btn" aria-label="Manage configuration" title="Manage Config">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                    </button>
+                    <input type="file" id="import-file-input" accept=".yaml,.yml" style="display: none;">
                 </div>
             </div>
         </header>
@@ -99,6 +88,83 @@
                 <div id="widgets-grid" class="widgets-grid">
                     <!-- Widgets will be dynamically inserted here -->
                     <!-- Add Widget button will be added at the end -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Config Manager View -->
+        <div id="view-config" class="view-section hidden">
+            <div class="config-manager">
+                <h2>Configuration Management</h2>
+
+                <div class="config-info">
+                    <h3>How It Works</h3>
+                    <p>Your widget configuration is automatically saved in your browser's local storage. You can export and import your configuration as a YAML file to:</p>
+                    <ul>
+                        <li>Backup your widgets and settings</li>
+                        <li>Transfer your configuration to another browser or device</li>
+                        <li>Share your setup with others</li>
+                        <li>Keep multiple configuration profiles</li>
+                    </ul>
+                    <br>
+                    <h3>What Gets Saved</h3>
+                    <ul>
+                        <li><strong>Widgets:</strong> All your widgets</li>
+                        <li><strong>Widget Content:</strong> Bookmark URLs, launchpad sites, note text, todo items</li>
+                        <li><strong>Settings:</strong> Theme preference (light/dark mode)</li>
+                        <li><strong>Weather:</strong> Only locations (weather data is fetched fresh on import)</li>
+                    </ul>
+                </div>
+
+                <div class="config-actions">
+                    <div class="config-action-card">
+                        <h3>Export Configuration</h3>
+                        <p>Download your current configuration as a YAML file. This creates a backup of all your widgets and settings.</p>
+                        <div class="button-group">
+                            <button id="export-config-action" class="primary-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                    <polyline points="7 10 12 15 17 10"></polyline>
+                                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                                </svg>
+                                Export to File
+                            </button>
+                            <span class="button-separator">or</span>
+                            <button id="copy-config-action" class="secondary-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                                </svg>
+                                Copy to Clipboard
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="config-action-card warning">
+                        <h3>Import Configuration</h3>
+                        <div class="warning-box">
+                            <strong>⚠️ Warning:</strong> Importing will replace ALL your current widgets and settings. Make sure to export your current configuration first if you want to keep it!
+                        </div>
+                        <p>Upload a YAML configuration file to restore your widgets.</p>
+                        <div class="button-group">
+                            <button id="import-config-action" class="primary-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                    <polyline points="17 8 12 3 7 8"></polyline>
+                                    <line x1="12" y1="3" x2="12" y2="15"></line>
+                                </svg>
+                                Import from File
+                            </button>
+                            <span class="button-separator">or</span>
+                            <button id="paste-config-action" class="secondary-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path>
+                                    <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
+                                </svg>
+                                Paste from Clipboard
+                            </button>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
