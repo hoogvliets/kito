@@ -1536,28 +1536,35 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Setup export/import listeners
-    const exportBtn = document.getElementById('export-config-btn');
-    const importBtn = document.getElementById('import-config-btn');
+    const configManagerBtn = document.getElementById('config-manager-btn');
+    const exportConfigAction = document.getElementById('export-config-action');
+    const copyConfigAction = document.getElementById('copy-config-action');
+    const importConfigAction = document.getElementById('import-config-action');
+    const pasteConfigAction = document.getElementById('paste-config-action');
     const importFileInput = document.getElementById('import-file-input');
 
-    if (exportBtn) {
-        exportBtn.addEventListener('click', exportConfig);
-        // Right-click to copy to clipboard
-        exportBtn.addEventListener('contextmenu', (e) => {
-            e.preventDefault();
-            copyConfigToClipboard();
+    if (configManagerBtn) {
+        configManagerBtn.addEventListener('click', () => {
+            switchView('config');
         });
     }
 
-    if (importBtn) {
-        importBtn.addEventListener('click', () => {
+    if (exportConfigAction) {
+        exportConfigAction.addEventListener('click', exportConfig);
+    }
+
+    if (copyConfigAction) {
+        copyConfigAction.addEventListener('click', copyConfigToClipboard);
+    }
+
+    if (importConfigAction) {
+        importConfigAction.addEventListener('click', () => {
             importFileInput.click();
         });
-        // Right-click to paste from clipboard
-        importBtn.addEventListener('contextmenu', (e) => {
-            e.preventDefault();
-            pasteConfigFromClipboard();
-        });
+    }
+
+    if (pasteConfigAction) {
+        pasteConfigAction.addEventListener('click', pasteConfigFromClipboard);
     }
 
     if (importFileInput) {
@@ -1573,6 +1580,26 @@ document.addEventListener('DOMContentLoaded', () => {
             // Reset input so same file can be selected again
             e.target.value = '';
         });
+    }
+
+    // Navigation helper to switch to config view
+    function switchView(viewName) {
+        const views = document.querySelectorAll('.view-section');
+        views.forEach(v => v.classList.add('hidden'));
+
+        const targetView = document.getElementById(`view-${viewName}`);
+        if (targetView) {
+            targetView.classList.remove('hidden');
+        }
+
+        // Update nav buttons
+        const navButtons = document.querySelectorAll('.nav-item');
+        navButtons.forEach(btn => btn.classList.remove('active'));
+
+        const navBtn = document.getElementById(`nav-${viewName}`);
+        if (navBtn) {
+            navBtn.classList.add('active');
+        }
     }
 
 

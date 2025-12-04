@@ -1085,6 +1085,128 @@ body {
     font-size: 0.9rem;
 }
 
+/* Config Manager */
+.config-manager {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.config-manager h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: var(--text-primary);
+}
+
+.config-info {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    padding: 30px;
+    margin-bottom: 40px;
+    box-shadow: var(--shadow);
+}
+
+.config-info h3 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    color: var(--accent-color);
+}
+
+.config-info p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.config-info ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.config-info ul li {
+    padding: 8px 0;
+    padding-left: 25px;
+    position: relative;
+}
+
+.config-info ul li::before {
+    content: "•";
+    position: absolute;
+    left: 8px;
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+.config-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.config-action-card {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: var(--shadow);
+}
+
+.config-action-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+}
+
+.config-action-card p {
+    margin-bottom: 20px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+.config-action-card button {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.config-action-card.warning {
+    border: 2px solid #ff6b6b;
+}
+
+.warning-box {
+    background-color: #fff3cd;
+    border: 1px solid #ffc107;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: #856404;
+}
+
+[data-theme="dark"] .warning-box {
+    background-color: #4a3800;
+    border-color: #ffc107;
+    color: #ffc107;
+}
+
+.warning-box strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Button Groups */
+.button-group {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.button-separator {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.button-group button {
+    flex: 1;
+}
+
 /* Responsive - Widgets */
 @media (max-width: 768px) {
     .widgets-grid {
@@ -1103,6 +1225,10 @@ body {
     .launchpad-icon {
         width: 48px;
         height: 48px;
+    }
+
+    .config-actions {
+        grid-template-columns: 1fr;
     }
 }
 
