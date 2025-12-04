@@ -207,11 +207,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchData() {
         try {
+            const timestamp = new Date().getTime();
             const [techRes, newsRes, ballRes, sidebarRes] = await Promise.allSettled([
-                fetch('data/feed.json'),
-                fetch('data/news.json'),
-                fetch('data/ball.json'),
-                fetch('data/sidebar.json')
+                fetch(`data/feed.json?t=${timestamp}`),
+                fetch(`data/news.json?t=${timestamp}`),
+                fetch(`data/ball.json?t=${timestamp}`),
+                fetch(`data/sidebar.json?t=${timestamp}`)
             ]);
 
             if (techRes.status === 'fulfilled' && techRes.value.ok) {
@@ -220,6 +221,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 } catch (e) {
                     console.error('Error parsing tech feed:', e);
                 }
+            } else {
+                console.warn('Failed to load tech feed', techRes);
             }
 
             if (newsRes.status === 'fulfilled' && newsRes.value.ok) {
@@ -228,6 +231,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 } catch (e) {
                     console.error('Error parsing news feed:', e);
                 }
+            } else {
+                console.warn('Failed to load news feed', newsRes);
             }
 
             if (ballRes.status === 'fulfilled' && ballRes.value.ok) {
@@ -236,6 +241,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 } catch (e) {
                     console.error('Error parsing ball feed:', e);
                 }
+            } else {
+                console.warn('Failed to load ball feed', ballRes);
             }
 
             // Initial render if we are on a feed view (though init starts at home)
@@ -254,6 +261,11 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         } catch (error) {
             console.error('Critical error fetching data:', error);
+            // Ensure we clear loading state even on critical error
+            const containers = [feedContainer, newsFeedContainer, ballFeedContainer];
+            containers.forEach(c => {
+                if (c) c.innerHTML = '<div class="loading-indicator error">Error loading feeds. Please try again later.</div>';
+            });
         }
     }
 
@@ -768,155 +780,155 @@ document.addEventListener('DOMContentLoaded', () => {
             let template, clone, widgetEl;
 
             try {
-            if (widget.type === 'bookmarks') {
-                clone = bookmarksTemplate.content.cloneNode(true);
-                widgetEl = clone.querySelector('.widget');
-                widgetEl.dataset.widgetId = widget.id;
+                if (widget.type === 'bookmarks') {
+                    clone = bookmarksTemplate.content.cloneNode(true);
+                    widgetEl = clone.querySelector('.widget');
+                    widgetEl.dataset.widgetId = widget.id;
 
-                clone.querySelector('.widget-title').textContent = widget.title;
+                    clone.querySelector('.widget-title').textContent = widget.title;
 
-                // Render links
-                const linksList = clone.querySelector('.bookmarks-list');
-                if (widget.links && widget.links.length > 0) {
-                    widget.links.forEach(link => {
-                        const linkClone = bookmarkLinkTemplate.content.cloneNode(true);
-                        const linkEl = linkClone.querySelector('.bookmark-link');
-                        linkEl.dataset.linkId = link.id;
+                    // Render links
+                    const linksList = clone.querySelector('.bookmarks-list');
+                    if (widget.links && widget.links.length > 0) {
+                        widget.links.forEach(link => {
+                            const linkClone = bookmarkLinkTemplate.content.cloneNode(true);
+                            const linkEl = linkClone.querySelector('.bookmark-link');
+                            linkEl.dataset.linkId = link.id;
 
-                        const anchor = linkClone.querySelector('.bookmark-link-text');
-                        anchor.textContent = link.title;
-                        anchor.href = link.url;
+                            const anchor = linkClone.querySelector('.bookmark-link-text');
+                            anchor.textContent = link.title;
+                            anchor.href = link.url;
 
-                        // Add favicon
-                        const favicon = linkClone.querySelector('.bookmark-favicon');
-                        const faviconUrl = getFaviconUrl(link.url);
-                        favicon.src = faviconUrl;
-                        favicon.onerror = () => {
-                            // Fallback to a generic link icon if favicon fails to load
-                            favicon.style.display = 'none';
-                        };
+                            // Add favicon
+                            const favicon = linkClone.querySelector('.bookmark-favicon');
+                            const faviconUrl = getFaviconUrl(link.url);
+                            favicon.src = faviconUrl;
+                            favicon.onerror = () => {
+                                // Fallback to a generic link icon if favicon fails to load
+                                favicon.style.display = 'none';
+                            };
 
-                        const deleteBtn = linkClone.querySelector('.link-delete-btn');
-                        deleteBtn.onclick = () => deleteLink(widget.id, link.id);
+                            const deleteBtn = linkClone.querySelector('.link-delete-btn');
+                            deleteBtn.onclick = () => deleteLink(widget.id, link.id);
 
-                        linksList.appendChild(linkClone);
-                    });
-                } else {
-                    linksList.innerHTML = '<div class="empty-links">No links yet</div>';
-                }
+                            linksList.appendChild(linkClone);
+                        });
+                    } else {
+                        linksList.innerHTML = '<div class="empty-links">No links yet</div>';
+                    }
 
-                // Add link button
-                const addLinkBtn = clone.querySelector('.add-link-btn');
-                addLinkBtn.onclick = () => openLinkModal(widget.id);
+                    // Add link button
+                    const addLinkBtn = clone.querySelector('.add-link-btn');
+                    addLinkBtn.onclick = () => openLinkModal(widget.id);
 
-                // Edit title button
-                const editTitleBtn = clone.querySelector('.edit-title-btn');
-                editTitleBtn.onclick = () => editWidgetTitle(widget.id);
+                    // Edit title button
+                    const editTitleBtn = clone.querySelector('.edit-title-btn');
+                    editTitleBtn.onclick = () => editWidgetTitle(widget.id);
 
-            } else if (widget.type === 'launchpad') {
-                clone = launchpadTemplate.content.cloneNode(true);
-                widgetEl = clone.querySelector('.widget');
-                widgetEl.dataset.widgetId = widget.id;
+                } else if (widget.type === 'launchpad') {
+                    clone = launchpadTemplate.content.cloneNode(true);
+                    widgetEl = clone.querySelector('.widget');
+                    widgetEl.dataset.widgetId = widget.id;
 
-                clone.querySelector('.widget-title').textContent = widget.title;
+                    clone.querySelector('.widget-title').textContent = widget.title;
 
-                // Render sites in 3x3 grid
-                const launchpadGrid = clone.querySelector('.launchpad-grid');
-                if (widget.sites && widget.sites.length > 0) {
-                    widget.sites.forEach(site => {
-                        const siteClone = launchpadItemTemplate.content.cloneNode(true);
-                        const siteEl = siteClone.querySelector('.launchpad-item');
+                    // Render sites in 3x3 grid
+                    const launchpadGrid = clone.querySelector('.launchpad-grid');
+                    if (widget.sites && widget.sites.length > 0) {
+                        widget.sites.forEach(site => {
+                            const siteClone = launchpadItemTemplate.content.cloneNode(true);
+                            const siteEl = siteClone.querySelector('.launchpad-item');
 
-                        siteEl.href = site.url;
+                            siteEl.href = site.url;
 
-                        // Add large favicon
-                        const favicon = siteClone.querySelector('.launchpad-favicon');
-                        const faviconUrl = getLargeFaviconUrl(site.url);
-                        favicon.src = faviconUrl;
-                        favicon.alt = site.title;
-                        favicon.onerror = () => {
-                            // Fallback to default icon
-                            favicon.style.display = 'none';
-                            const iconDiv = siteClone.querySelector('.launchpad-icon');
-                            iconDiv.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            // Add large favicon
+                            const favicon = siteClone.querySelector('.launchpad-favicon');
+                            const faviconUrl = getLargeFaviconUrl(site.url);
+                            favicon.src = faviconUrl;
+                            favicon.alt = site.title;
+                            favicon.onerror = () => {
+                                // Fallback to default icon
+                                favicon.style.display = 'none';
+                                const iconDiv = siteClone.querySelector('.launchpad-icon');
+                                iconDiv.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
                                 <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
                             </svg>`;
-                        };
+                            };
 
-                        const deleteBtn = siteClone.querySelector('.launchpad-delete-btn');
-                        deleteBtn.onclick = (e) => {
-                            e.preventDefault();
-                            deleteLink(widget.id, site.id);
-                        };
+                            const deleteBtn = siteClone.querySelector('.launchpad-delete-btn');
+                            deleteBtn.onclick = (e) => {
+                                e.preventDefault();
+                                deleteLink(widget.id, site.id);
+                            };
 
-                        launchpadGrid.appendChild(siteClone);
+                            launchpadGrid.appendChild(siteClone);
+                        });
+                    } else {
+                        launchpadGrid.innerHTML = '<div class="empty-launchpad">No sites yet</div>';
+                    }
+
+                    // Add site button
+                    const addSiteBtn = clone.querySelector('.add-site-btn');
+                    addSiteBtn.onclick = () => openLinkModal(widget.id);
+
+                    // Edit title button
+                    const editTitleBtn2 = clone.querySelector('.edit-title-btn');
+                    editTitleBtn2.onclick = () => editWidgetTitle(widget.id);
+
+                } else if (widget.type === 'notes') {
+                    clone = notesTemplate.content.cloneNode(true);
+                    widgetEl = clone.querySelector('.widget');
+                    widgetEl.dataset.widgetId = widget.id;
+
+                    clone.querySelector('.widget-title').textContent = widget.title;
+
+                    const textarea = clone.querySelector('.notes-textarea');
+                    textarea.value = widget.notes || '';
+
+                    // Auto-resize textarea after it's added to DOM
+                    textarea.addEventListener('input', (e) => {
+                        updateNotes(widget.id, e.target.value);
+                        autoResizeTextarea(e.target);
                     });
-                } else {
-                    launchpadGrid.innerHTML = '<div class="empty-launchpad">No sites yet</div>';
-                }
 
-                // Add site button
-                const addSiteBtn = clone.querySelector('.add-site-btn');
-                addSiteBtn.onclick = () => openLinkModal(widget.id);
+                    // Edit title button
+                    const editTitleBtn = clone.querySelector('.edit-title-btn');
+                    editTitleBtn.onclick = () => editWidgetTitle(widget.id);
 
-                // Edit title button
-                const editTitleBtn2 = clone.querySelector('.edit-title-btn');
-                editTitleBtn2.onclick = () => editWidgetTitle(widget.id);
+                } else if (widget.type === 'weather') {
+                    clone = weatherTemplate.content.cloneNode(true);
+                    widgetEl = clone.querySelector('.widget');
+                    widgetEl.dataset.widgetId = widget.id;
 
-            } else if (widget.type === 'notes') {
-                clone = notesTemplate.content.cloneNode(true);
-                widgetEl = clone.querySelector('.widget');
-                widgetEl.dataset.widgetId = widget.id;
+                    clone.querySelector('.widget-title').textContent = widget.title;
 
-                clone.querySelector('.widget-title').textContent = widget.title;
+                    const locationEl = clone.querySelector('.weather-location');
+                    const currentTempEl = clone.querySelector('.weather-current-temp');
+                    const descriptionEl = clone.querySelector('.weather-description');
+                    const highLowEl = clone.querySelector('.weather-high-low');
+                    const hourlyForecast = clone.querySelector('.hourly-forecast');
 
-                const textarea = clone.querySelector('.notes-textarea');
-                textarea.value = widget.notes || '';
+                    if (widget.weather) {
+                        locationEl.textContent = widget.location;
+                        currentTempEl.textContent = `${Math.round(widget.weather.current.temp)}°`;
+                        descriptionEl.textContent = widget.weather.current.description || 'Clear';
+                        highLowEl.textContent = `H:${Math.round(widget.weather.daily.high)}° L:${Math.round(widget.weather.daily.low)}°`;
 
-                // Auto-resize textarea after it's added to DOM
-                textarea.addEventListener('input', (e) => {
-                    updateNotes(widget.id, e.target.value);
-                    autoResizeTextarea(e.target);
-                });
+                        // Render hourly forecast
+                        widget.weather.hourly.forEach(hour => {
+                            const hourClone = weatherHourlyTemplate.content.cloneNode(true);
+                            hourClone.querySelector('.hourly-time').textContent = hour.time;
+                            hourClone.querySelector('.hourly-temp').textContent = `${Math.round(hour.temp)}°`;
 
-                // Edit title button
-                const editTitleBtn = clone.querySelector('.edit-title-btn');
-                editTitleBtn.onclick = () => editWidgetTitle(widget.id);
+                            // Weather icon based on weather code
+                            const iconEl = hourClone.querySelector('.hourly-icon');
+                            const code = hour.weathercode;
 
-            } else if (widget.type === 'weather') {
-                clone = weatherTemplate.content.cloneNode(true);
-                widgetEl = clone.querySelector('.widget');
-                widgetEl.dataset.widgetId = widget.id;
-
-                clone.querySelector('.widget-title').textContent = widget.title;
-
-                const locationEl = clone.querySelector('.weather-location');
-                const currentTempEl = clone.querySelector('.weather-current-temp');
-                const descriptionEl = clone.querySelector('.weather-description');
-                const highLowEl = clone.querySelector('.weather-high-low');
-                const hourlyForecast = clone.querySelector('.hourly-forecast');
-
-                if (widget.weather) {
-                    locationEl.textContent = widget.location;
-                    currentTempEl.textContent = `${Math.round(widget.weather.current.temp)}°`;
-                    descriptionEl.textContent = widget.weather.current.description || 'Clear';
-                    highLowEl.textContent = `H:${Math.round(widget.weather.daily.high)}° L:${Math.round(widget.weather.daily.low)}°`;
-
-                    // Render hourly forecast
-                    widget.weather.hourly.forEach(hour => {
-                        const hourClone = weatherHourlyTemplate.content.cloneNode(true);
-                        hourClone.querySelector('.hourly-time').textContent = hour.time;
-                        hourClone.querySelector('.hourly-temp').textContent = `${Math.round(hour.temp)}°`;
-
-                        // Weather icon based on weather code
-                        const iconEl = hourClone.querySelector('.hourly-icon');
-                        const code = hour.weathercode;
-
-                        // WMO Weather interpretation codes
-                        if (code === 0) {
-                            // Clear sky
-                            iconEl.innerHTML = `
+                            // WMO Weather interpretation codes
+                            if (code === 0) {
+                                // Clear sky
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <circle cx="12" cy="12" r="5"></circle>
                                     <line x1="12" y1="1" x2="12" y2="3"></line>
@@ -929,28 +941,28 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', 'Clear');
-                        } else if (code >= 1 && code <= 3) {
-                            // Partly cloudy / Cloudy
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', 'Clear');
+                            } else if (code >= 1 && code <= 3) {
+                                // Partly cloudy / Cloudy
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', code === 3 ? 'Overcast' : 'Partly Cloudy');
-                        } else if (code >= 45 && code <= 48) {
-                            // Fog
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', code === 3 ? 'Overcast' : 'Partly Cloudy');
+                            } else if (code >= 45 && code <= 48) {
+                                // Fog
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M9 19h6"></path>
                                     <path d="M9 15h10"></path>
                                     <path d="M5 11h14"></path>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', 'Foggy');
-                        } else if ((code >= 51 && code <= 67) || (code >= 80 && code <= 82)) {
-                            // Rain
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', 'Foggy');
+                            } else if ((code >= 51 && code <= 67) || (code >= 80 && code <= 82)) {
+                                // Rain
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <line x1="8" y1="19" x2="8" y2="21"></line>
                                     <line x1="8" y1="13" x2="8" y2="15"></line>
@@ -961,10 +973,10 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', `Rain ${hour.precipitation > 0 ? `(${hour.precipitation}mm)` : ''}`);
-                        } else if ((code >= 71 && code <= 77) || (code >= 85 && code <= 86)) {
-                            // Snow
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', `Rain ${hour.precipitation > 0 ? `(${hour.precipitation}mm)` : ''}`);
+                            } else if ((code >= 71 && code <= 77) || (code >= 85 && code <= 86)) {
+                                // Snow
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25"></path>
                                     <line x1="8" y1="16" x2="8" y2="16"></line>
@@ -975,94 +987,94 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <line x1="16" y1="20" x2="16" y2="20"></line>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', 'Snow');
-                        } else if (code >= 95) {
-                            // Thunderstorm (95, 96, 99)
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', 'Snow');
+                            } else if (code >= 95) {
+                                // Thunderstorm (95, 96, 99)
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M19 16.9A5 5 0 0 0 18 7h-1.26a8 8 0 1 0-11.62 9"></path>
                                     <polyline points="13 11 9 17 15 17 11 23"></polyline>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', 'Thunderstorm');
-                        } else {
-                            // Default to cloudy for any unhandled codes
-                            iconEl.innerHTML = `
+                                iconEl.setAttribute('title', 'Thunderstorm');
+                            } else {
+                                // Default to cloudy for any unhandled codes
+                                iconEl.innerHTML = `
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"></path>
                                 </svg>
                             `;
-                            iconEl.setAttribute('title', 'Cloudy');
-                        }
+                                iconEl.setAttribute('title', 'Cloudy');
+                            }
 
-                        hourlyForecast.appendChild(hourClone);
-                    });
-                } else {
-                    locationEl.textContent = widget.location || 'Loading...';
-                    currentTempEl.textContent = '--°';
-                    descriptionEl.textContent = 'Loading...';
-                    highLowEl.textContent = 'H:-- L:--';
+                            hourlyForecast.appendChild(hourClone);
+                        });
+                    } else {
+                        locationEl.textContent = widget.location || 'Loading...';
+                        currentTempEl.textContent = '--°';
+                        descriptionEl.textContent = 'Loading...';
+                        highLowEl.textContent = 'H:-- L:--';
+                    }
+
+                    // Edit location button
+                    const editLocationBtn = clone.querySelector('.edit-location-btn');
+                    editLocationBtn.onclick = () => editWeatherLocation(widget.id);
+
+                    // Edit title button
+                    const editTitleBtn = clone.querySelector('.edit-title-btn');
+                    editTitleBtn.onclick = () => editWidgetTitle(widget.id);
+                } else if (widget.type === 'todo') {
+                    clone = todoTemplate.content.cloneNode(true);
+                    widgetEl = clone.querySelector('.widget');
+                    widgetEl.dataset.widgetId = widget.id;
+
+                    clone.querySelector('.widget-title').textContent = widget.title;
+
+                    const todoList = clone.querySelector('.todo-list');
+                    if (widget.todos && widget.todos.length > 0) {
+                        widget.todos.forEach(todo => {
+                            const todoClone = todoItemTemplate.content.cloneNode(true);
+
+                            const checkbox = todoClone.querySelector('.todo-checkbox');
+                            checkbox.checked = todo.completed;
+                            checkbox.onchange = () => toggleTodo(widget.id, todo.id);
+
+                            const text = todoClone.querySelector('.todo-text');
+                            text.textContent = todo.text;
+                            if (todo.completed) {
+                                text.style.textDecoration = 'line-through';
+                                text.style.opacity = '0.6';
+                            }
+
+                            const deleteBtn = todoClone.querySelector('.todo-delete-btn');
+                            deleteBtn.onclick = () => deleteTodo(widget.id, todo.id);
+
+                            todoList.appendChild(todoClone);
+                        });
+                    } else {
+                        todoList.innerHTML = '<div class="empty-todos">No tasks yet</div>';
+                    }
+
+                    const addTodoBtn = clone.querySelector('.add-todo-btn');
+                    addTodoBtn.onclick = () => addTodo(widget.id);
+
+                    const editTitleBtn3 = clone.querySelector('.edit-title-btn');
+                    editTitleBtn3.onclick = () => editWidgetTitle(widget.id);
                 }
 
-                // Edit location button
-                const editLocationBtn = clone.querySelector('.edit-location-btn');
-                editLocationBtn.onclick = () => editWeatherLocation(widget.id);
+                // Delete widget button
+                const deleteBtn = clone.querySelector('.delete-widget-btn');
+                deleteBtn.onclick = () => deleteWidget(widget.id);
 
-                // Edit title button
-                const editTitleBtn = clone.querySelector('.edit-title-btn');
-                editTitleBtn.onclick = () => editWidgetTitle(widget.id);
-            } else if (widget.type === 'todo') {
-                clone = todoTemplate.content.cloneNode(true);
-                widgetEl = clone.querySelector('.widget');
-                widgetEl.dataset.widgetId = widget.id;
-
-                clone.querySelector('.widget-title').textContent = widget.title;
-
-                const todoList = clone.querySelector('.todo-list');
-                if (widget.todos && widget.todos.length > 0) {
-                    widget.todos.forEach(todo => {
-                        const todoClone = todoItemTemplate.content.cloneNode(true);
-
-                        const checkbox = todoClone.querySelector('.todo-checkbox');
-                        checkbox.checked = todo.completed;
-                        checkbox.onchange = () => toggleTodo(widget.id, todo.id);
-
-                        const text = todoClone.querySelector('.todo-text');
-                        text.textContent = todo.text;
-                        if (todo.completed) {
-                            text.style.textDecoration = 'line-through';
-                            text.style.opacity = '0.6';
-                        }
-
-                        const deleteBtn = todoClone.querySelector('.todo-delete-btn');
-                        deleteBtn.onclick = () => deleteTodo(widget.id, todo.id);
-
-                        todoList.appendChild(todoClone);
-                    });
-                } else {
-                    todoList.innerHTML = '<div class="empty-todos">No tasks yet</div>';
+                // Drag and drop
+                if (widgetEl) {
+                    widgetEl.addEventListener('dragstart', handleDragStart);
+                    widgetEl.addEventListener('dragend', handleDragEnd);
+                    widgetEl.addEventListener('dragover', handleDragOver);
+                    widgetEl.addEventListener('drop', handleDrop);
                 }
 
-                const addTodoBtn = clone.querySelector('.add-todo-btn');
-                addTodoBtn.onclick = () => addTodo(widget.id);
-
-                const editTitleBtn3 = clone.querySelector('.edit-title-btn');
-                editTitleBtn3.onclick = () => editWidgetTitle(widget.id);
-            }
-
-            // Delete widget button
-            const deleteBtn = clone.querySelector('.delete-widget-btn');
-            deleteBtn.onclick = () => deleteWidget(widget.id);
-
-            // Drag and drop
-            if (widgetEl) {
-                widgetEl.addEventListener('dragstart', handleDragStart);
-                widgetEl.addEventListener('dragend', handleDragEnd);
-                widgetEl.addEventListener('dragover', handleDragOver);
-                widgetEl.addEventListener('drop', handleDrop);
-            }
-
-            widgetsGrid.appendChild(clone);
+                widgetsGrid.appendChild(clone);
             } catch (error) {
                 console.error('Error rendering widget:', widget.type, error);
             }
