@@ -1,30 +1,46 @@
 [
   {
-    "title": "I cracked a $200 software protection with xcopy",
-    "link": "https://www.ud2.rip/blog/enigma-protector/",
+    "title": "Nook Browser",
+    "link": "https://browsewithnook.com",
     "source": "Hacker News",
-    "published": "2025-12-06T02:37:58+00:00",
+    "published": "2025-12-06T03:32:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170060\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170402\">Comments</a>"
+  },
+  {
+    "title": "Albert Michelson's Harmonic Analyzer (2014) [pdf]",
+    "link": "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf",
+    "source": "Hacker News",
+    "published": "2025-12-06T03:21:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170332\">Comments</a>"
+  },
+  {
+    "title": "PalmOS on FisherPrice Pixter Toy",
+    "link": "https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter",
+    "source": "Hacker News",
+    "published": "2025-12-06T03:17:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170309\">Comments</a>"
+  },
+  {
+    "title": "Have I been Flocked? \u2013 Check if your license plate is being watched",
+    "link": "https://haveibeenflocked.com/",
+    "source": "Hacker News",
+    "published": "2025-12-06T03:16:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170302\">Comments</a>"
   },
   {
     "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
-    "link": "https://social.growyourown.services/@FediTips/115668457530054406",
+    "link": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
     "source": "Hacker News",
     "published": "2025-12-06T01:15:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46169554\">Comments</a>"
   },
   {
-    "title": "From Rockets to Heat Pumps",
-    "link": "https://www.heatpumped.org/p/from-rockets-to-heat-pumps",
-    "source": "Hacker News",
-    "published": "2025-12-06T00:41:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46169355\">Comments</a>"
-  },
-  {
-    "title": "Extra Instructions of the 65XX Series CPU",
+    "title": "Extra Instructions Of The 65XX Series CPU (1996)",
     "link": "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes",
     "source": "Hacker News",
     "published": "2025-12-06T00:38:50+00:00",
@@ -40,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46168057\">Comments</a>"
   },
   {
-    "title": "Frank Gehry has died",
-    "link": "https://www.bbc.co.uk/news/articles/c5y2p22z9gno",
-    "source": "Hacker News",
-    "published": "2025-12-05T21:31:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46167621\">Comments</a>"
-  },
-  {
     "title": "Leaving Intel",
     "link": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
     "source": "Hacker News",
@@ -56,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46167552\">Comments</a>"
   },
   {
-    "title": "Perpetual Futures",
+    "title": "Perpetual futures, explained",
     "link": "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/",
     "source": "Hacker News",
     "published": "2025-12-05T21:23:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46167500\">Comments</a>"
-  },
-  {
-    "title": "Fizz Buzz in CSS",
-    "link": "https://susam.net/fizz-buzz-in-css.html",
-    "source": "Hacker News",
-    "published": "2025-12-05T20:18:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46166708\">Comments</a>"
   },
   {
     "title": "Patterns for Defensive Programming in Rust",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46160315\">Comments</a>"
   },
   {
-    "title": "Show HN: HCB Mobile \u2013\u00a0financial app built by 17 y/o, processing $6M/month",
-    "link": "https://hackclub.com/fiscal-sponsorship/mobile/",
-    "source": "Hacker News",
-    "published": "2025-12-03T04:20:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46130260\">Comments</a>"
-  },
-  {
     "title": "Ivan Sutherland Sketchpad Demo 1963 [video]",
     "link": "https://www.youtube.com/watch?v=6orsmFndx_o",
     "source": "Hacker News",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46126380\">Comments</a>"
   },
   {
-    "title": "Idempotency Keys for Exactly-Once Processing",
+    "title": "Idempotency keys for exactly-once processing",
     "link": "https://www.morling.dev/blog/on-idempotency-keys/",
     "source": "Hacker News",
     "published": "2025-12-01T12:07:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46106411\">Comments</a>"
+  },
+  {
+    "title": "Making tiny 0.1cc two stroke engine from scratch",
+    "link": "https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN",
+    "source": "Hacker News",
+    "published": "2025-11-30T17:34:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46098655\">Comments</a>"
   },
   {
     "title": "Self-hosting my photos with Immich",
