@@ -1,5 +1,37 @@
 [
   {
+    "title": "I cracked a $200 software protection with xcopy",
+    "link": "https://www.ud2.rip/blog/enigma-protector/",
+    "source": "Hacker News",
+    "published": "2025-12-06T02:37:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46170060\">Comments</a>"
+  },
+  {
+    "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+    "link": "https://social.growyourown.services/@FediTips/115668457530054406",
+    "source": "Hacker News",
+    "published": "2025-12-06T01:15:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46169554\">Comments</a>"
+  },
+  {
+    "title": "From Rockets to Heat Pumps",
+    "link": "https://www.heatpumped.org/p/from-rockets-to-heat-pumps",
+    "source": "Hacker News",
+    "published": "2025-12-06T00:41:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46169355\">Comments</a>"
+  },
+  {
+    "title": "Extra Instructions of the 65XX Series CPU",
+    "link": "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes",
+    "source": "Hacker News",
+    "published": "2025-12-06T00:38:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46169330\">Comments</a>"
+  },
+  {
     "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
     "link": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml",
     "source": "Hacker News",
@@ -32,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46167500\">Comments</a>"
   },
   {
-    "title": "The missing standard library for multithreading in JavaScript",
-    "link": "https://github.com/W4G1/multithreading",
-    "source": "Hacker News",
-    "published": "2025-12-05T21:09:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46167349\">Comments</a>"
-  },
-  {
     "title": "Fizz Buzz in CSS",
     "link": "https://susam.net/fizz-buzz-in-css.html",
     "source": "Hacker News",
     "published": "2025-12-05T20:18:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46166708\">Comments</a>"
-  },
-  {
-    "title": "Framework Sponsors CachyOS",
-    "link": "https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376",
-    "source": "Hacker News",
-    "published": "2025-12-05T20:03:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46166536\">Comments</a>"
-  },
-  {
-    "title": "Why we built Lightpanda in Zig",
-    "link": "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig",
-    "source": "Hacker News",
-    "published": "2025-12-05T18:29:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46165249\">Comments</a>"
   },
   {
     "title": "Patterns for Defensive Programming in Rust",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46130260\">Comments</a>"
   },
   {
-    "title": "Why are your models so big? (2023)",
-    "link": "https://pawa.lt/braindump/tiny-models/",
+    "title": "Ivan Sutherland Sketchpad Demo 1963 [video]",
+    "link": "https://www.youtube.com/watch?v=6orsmFndx_o",
     "source": "Hacker News",
-    "published": "2025-12-02T22:25:19+00:00",
+    "published": "2025-12-02T23:13:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46127787\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46128238\">Comments</a>"
   },
   {
     "title": "Frinkiac \u2013 3M \"The Simpsons\" Screencaps",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46126380\">Comments</a>"
   },
   {
-    "title": "Tides are weirder than you think",
-    "link": "https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/",
-    "source": "Hacker News",
-    "published": "2025-12-01T20:14:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46112560\">Comments</a>"
-  },
-  {
     "title": "Idempotency Keys for Exactly-Once Processing",
     "link": "https://www.morling.dev/blog/on-idempotency-keys/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46106411\">Comments</a>"
   },
   {
-    "title": "How fast can browsers process base64 data?",
-    "link": "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data/",
+    "title": "Self-hosting my photos with Immich",
+    "link": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
     "source": "Hacker News",
-    "published": "2025-11-29T07:30:30+00:00",
+    "published": "2025-11-30T09:11:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46085753\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46095087\">Comments</a>"
   }
 ]
