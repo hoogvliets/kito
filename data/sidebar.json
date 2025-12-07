@@ -1,19 +1,43 @@
 [
   {
+    "title": "Z2 \u2013 Lithographically fabricated IC in a garage fab",
+    "link": "https://sam.zeloof.xyz/second-ic/",
+    "source": "Hacker News",
+    "published": "2025-12-07T03:03:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46178789\">Comments</a>"
+  },
+  {
+    "title": "Eurydice: a Rust to C compiler (yes)",
+    "link": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+    "source": "Hacker News",
+    "published": "2025-12-07T01:41:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46178442\">Comments</a>"
+  },
+  {
+    "title": "Using LLMs at Oxide",
+    "link": "https://rfd.shared.oxide.computer/rfd/0576",
+    "source": "Hacker News",
+    "published": "2025-12-07T01:17:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46178347\">Comments</a>"
+  },
+  {
+    "title": "Trains cancelled over fake bridge collapse image",
+    "link": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+    "source": "Hacker News",
+    "published": "2025-12-07T00:37:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46178108\">Comments</a>"
+  },
+  {
     "title": "Show HN: FuseCells \u2013 a handcrafted logic puzzle game with 2,500 levels",
     "link": "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139",
     "source": "Hacker News",
     "published": "2025-12-06T23:51:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46177737\">Comments</a>"
-  },
-  {
-    "title": "OpenTelemetry Distribution Builder",
-    "link": "https://github.com/observIQ/otel-distro-builder",
-    "source": "Hacker News",
-    "published": "2025-12-06T23:41:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46177664\">Comments</a>"
   },
   {
     "title": "Kilauea erupts, destroying webcam [video]",
@@ -64,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46176905\">Comments</a>"
   },
   {
-    "title": "Coffee linked to slower biological ageing among those with severe mental illness",
-    "link": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+    "title": "The past was not that cute",
+    "link": "https://juliawise.net/the-past-was-not-that-cute/",
     "source": "Hacker News",
-    "published": "2025-12-06T21:33:03+00:00",
+    "published": "2025-12-06T21:53:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46176766\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tascli, a command line based (human) task and record manager",
-    "link": "https://github.com/Aperocky/tascli",
-    "source": "Hacker News",
-    "published": "2025-12-06T20:56:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46176533\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46176893\">Comments</a>"
   },
   {
     "title": "Zebra-Llama: Towards Efficient Hybrid Models",
@@ -96,15 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46175826\">Comments</a>"
   },
   {
-    "title": "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
-    "link": "https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada",
-    "source": "Hacker News",
-    "published": "2025-12-06T17:01:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46174789\">Comments</a>"
-  },
-  {
-    "title": "HTML as an Accessible Format for Papers",
+    "title": "HTML as an Accessible Format for Papers (2023)",
     "link": "https://info.arxiv.org/about/accessible_HTML.html",
     "source": "Hacker News",
     "published": "2025-12-06T14:59:52+00:00",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46172443\">Comments</a>"
   },
   {
-    "title": "Mathematics Without Numbers (1959)",
-    "link": "https://www.jstor.org/stable/20026529?seq=1",
+    "title": "Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
+    "link": "https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md",
     "source": "Hacker News",
-    "published": "2025-12-02T01:08:12+00:00",
+    "published": "2025-12-04T10:25:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46116007\">Comments</a>"
-  },
-  {
-    "title": "Bikeshedding, or why I want to build a laptop",
-    "link": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
-    "source": "Hacker News",
-    "published": "2025-12-01T01:08:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46102276\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46145960\">Comments</a>"
   },
   {
     "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
