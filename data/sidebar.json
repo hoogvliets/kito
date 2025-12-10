@@ -1,13 +1,5 @@
 [
   {
-    "title": "Stop Breaking TLS",
-    "link": "https://www.markround.com/blog/2025/12/09/stop-breaking-tls/",
-    "source": "Hacker News",
-    "published": "2025-12-10T07:06:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46214950\">Comments</a>"
-  },
-  {
     "title": "Revisiting \"Let's Build a Compiler\"",
     "link": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
     "source": "Hacker News",
@@ -16,7 +8,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46214693\">Comments</a>"
   },
   {
-    "title": "Are the Three Musketeers allergic to muskets?(2014)",
+    "title": "Are the Three Musketeers allergic to muskets? (2014)",
     "link": "https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets",
     "source": "Hacker News",
     "published": "2025-12-10T06:08:50+00:00",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46205437\">Comments</a>"
   },
   {
-    "title": "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
-    "link": "https://piljoong.dev/posts/distributed-id-generation-complicated/",
+    "title": "AWS Announces Graviton 5",
+    "link": "https://aws.amazon.com/ec2/instance-types/m9g/",
     "source": "Hacker News",
-    "published": "2025-12-06T09:13:02+00:00",
+    "published": "2025-12-06T05:36:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46171844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46171008\">Comments</a>"
   },
   {
     "title": "When a video codec wins an Emmy",
@@ -126,14 +118,6 @@
     "published": "2025-12-05T17:15:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46164197\">Comments</a>"
-  },
-  {
-    "title": "Writing our own Cheat Engine in Rust",
-    "link": "https://lonami.dev/blog/woce-1/",
-    "source": "Hacker News",
-    "published": "2025-12-05T09:21:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46158803\">Comments</a>"
   },
   {
     "title": "Italy's longest-serving barista reflects on six decades behind the counter",
@@ -150,6 +134,22 @@
     "published": "2025-12-03T21:42:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46140579\">Comments</a>"
+  },
+  {
+    "title": "Passing the Torch: James Gross on the Next Chapter of Micromobility Industries",
+    "link": "https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes",
+    "source": "Hacker News",
+    "published": "2025-12-03T21:14:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46140219\">Comments</a>"
+  },
+  {
+    "title": "Running Linux on a RiscPC \u2013 why is it so hard?",
+    "link": "https://thejpster.org.uk/blog/blog-2025-12-02/",
+    "source": "Hacker News",
+    "published": "2025-12-02T23:48:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46128523\">Comments</a>"
   },
   {
     "title": "Cloth Simulation",
