@@ -1,19 +1,35 @@
 [
   {
-    "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
-    "link": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
+    "title": "The end of the kernel Rust experiment",
+    "link": "https://lwn.net/Articles/1049831/",
     "source": "Hacker News",
-    "published": "2025-12-09T22:54:33+00:00",
+    "published": "2025-12-10T03:15:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46211861\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46213585\">Comments</a>"
   },
   {
-    "title": "Linux CVEs, more than you ever wanted to know",
-    "link": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
+    "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
+    "link": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
     "source": "Hacker News",
-    "published": "2025-12-09T22:47:36+00:00",
+    "published": "2025-12-10T02:58:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46211802\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46213504\">Comments</a>"
+  },
+  {
+    "title": "Making macOS Bearable",
+    "link": "https://seg6.space/posts/making-macos-bearable/",
+    "source": "Hacker News",
+    "published": "2025-12-10T02:37:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46213385\">Comments</a>"
+  },
+  {
+    "title": "Post-transformer inference: 224\u00d7 compression of Llama-70B with improved accuracy",
+    "link": "https://zenodo.org/records/17873275",
+    "source": "Hacker News",
+    "published": "2025-12-10T01:25:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46212969\">Comments</a>"
   },
   {
     "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
@@ -30,14 +46,6 @@
     "published": "2025-12-09T20:33:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46210240\">Comments</a>"
-  },
-  {
-    "title": "Agentic AI Foundation",
-    "link": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
-    "source": "Hacker News",
-    "published": "2025-12-09T20:00:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46209846\">Comments</a>"
   },
   {
     "title": "10 Years of Let's Encrypt",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46206531\">Comments</a>"
   },
   {
-    "title": "A supersonic engine core makes the perfect power turbine",
-    "link": "https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that",
-    "source": "Hacker News",
-    "published": "2025-12-09T15:51:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46206277\">Comments</a>"
-  },
-  {
     "title": "Pebble Index 01 \u2013 External memory for your brain",
     "link": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
     "source": "Hacker News",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46205632\">Comments</a>"
   },
   {
-    "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-    "link": "https://github.com/KaijuEngine/kaiju",
-    "source": "Hacker News",
-    "published": "2025-12-09T14:51:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46205519\">Comments</a>"
-  },
-  {
-    "title": "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
+    "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
     "link": "https://mistral.ai/news/devstral-2-vibe-cli",
     "source": "Hacker News",
     "published": "2025-12-09T14:45:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46205437\">Comments</a>"
+  },
+  {
+    "title": "When a video codec wins an Emmy",
+    "link": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/",
+    "source": "Hacker News",
+    "published": "2025-12-05T17:15:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46164197\">Comments</a>"
+  },
+  {
+    "title": "Writing our own Cheat Engine in Rust",
+    "link": "https://lonami.dev/blog/woce-1/",
+    "source": "Hacker News",
+    "published": "2025-12-05T09:21:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46158803\">Comments</a>"
   },
   {
     "title": "Italy's longest-serving barista reflects on six decades behind the counter",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46155740\">Comments</a>"
   },
   {
-    "title": "LLM from scratch, part 28 \u2013 training a base model from scratch on an RTX 3090",
-    "link": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
+    "title": "Operando interlayer expansion of curved graphene for dense supercapacitors",
+    "link": "https://www.nature.com/articles/s41467-025-63485-0",
     "source": "Hacker News",
-    "published": "2025-12-02T18:17:48+00:00",
+    "published": "2025-12-04T14:26:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46124425\">Comments</a>"
-  },
-  {
-    "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
-    "link": "https://packagemain.tech/p/ulid-identifier-golang-postgres",
-    "source": "Hacker News",
-    "published": "2025-12-01T20:45:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46112965\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46147996\">Comments</a>"
   }
 ]
