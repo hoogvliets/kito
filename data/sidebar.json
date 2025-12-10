@@ -1,19 +1,35 @@
 [
   {
+    "title": "How Much Wealth an AI Stock Market Crash Could Destroy",
+    "link": "https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash",
+    "source": "Hacker News",
+    "published": "2025-12-10T14:59:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46218419\">Comments</a>"
+  },
+  {
+    "title": "The New Kindle Scribes Are Great, but Not Great Enough",
+    "link": "https://www.wired.com/review/kindle-scribe-colorsoft-2025/",
+    "source": "Hacker News",
+    "published": "2025-12-10T14:39:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46218202\">Comments</a>"
+  },
+  {
+    "title": "New benchmark shows top LLMs struggle in real mental health care",
+    "link": "https://swordhealth.com/newsroom/sword-introduces-mindeval",
+    "source": "Hacker News",
+    "published": "2025-12-10T13:39:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46217578\">Comments</a>"
+  },
+  {
     "title": "Revisiting \"Let's Build a Compiler\"",
     "link": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
     "source": "Hacker News",
     "published": "2025-12-10T06:22:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46214693\">Comments</a>"
-  },
-  {
-    "title": "Are the Three Musketeers allergic to muskets? (2014)",
-    "link": "https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets",
-    "source": "Hacker News",
-    "published": "2025-12-10T06:08:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46214617\">Comments</a>"
   },
   {
     "title": "Rust in the kernel is no longer experimental",
@@ -32,22 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46210240\">Comments</a>"
   },
   {
-    "title": "10 Years of Let's Encrypt",
-    "link": "https://letsencrypt.org/2025/12/09/10-years",
-    "source": "Hacker News",
-    "published": "2025-12-09T18:54:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46208962\">Comments</a>"
-  },
-  {
-    "title": "So you want to speak at software conferences?",
-    "link": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
-    "source": "Hacker News",
-    "published": "2025-12-09T18:42:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46208773\">Comments</a>"
-  },
-  {
     "title": "If you're going to vibe code, why not do it in C?",
     "link": "https://stephenramsay.net/posts/vibe-coding.html",
     "source": "Hacker News",
@@ -64,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46207464\">Comments</a>"
   },
   {
-    "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-    "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
-    "source": "Hacker News",
-    "published": "2025-12-09T17:05:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46207425\">Comments</a>"
-  },
-  {
-    "title": "Handsdown one of the coolest 3D websites",
+    "title": "Bruno Simon \u2013 3D Portfolio",
     "link": "https://bruno-simon.com/",
     "source": "Hacker News",
     "published": "2025-12-09T16:06:58+00:00",
@@ -104,7 +96,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46205437\">Comments</a>"
   },
   {
-    "title": "AWS Announces Graviton 5",
+    "title": "Tech for Small vs. Big Firms",
+    "link": "https://lexifina.com/blog/technology-for-firms-big-and-small",
+    "source": "Hacker News",
+    "published": "2025-12-06T06:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46171184\">Comments</a>"
+  },
+  {
+    "title": "Amazon EC2 M9g Instances",
     "link": "https://aws.amazon.com/ec2/instance-types/m9g/",
     "source": "Hacker News",
     "published": "2025-12-06T05:36:48+00:00",
@@ -120,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46164197\">Comments</a>"
   },
   {
-    "title": "Italy's longest-serving barista reflects on six decades behind the counter",
-    "link": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
+    "title": "Map of All the Buildings in the World",
+    "link": "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696",
     "source": "Hacker News",
-    "published": "2025-12-05T01:22:29+00:00",
+    "published": "2025-12-04T22:43:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46155740\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46154220\">Comments</a>"
+  },
+  {
+    "title": "Rust: Proof of Concept, Not Replacement",
+    "link": "https://files.neoon.com/rust-game-over-203X.html",
+    "source": "Hacker News",
+    "published": "2025-12-04T15:55:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46148995\">Comments</a>"
   },
   {
     "title": "Putting email in its place with Emacs and Mu4e",
@@ -134,14 +142,6 @@
     "published": "2025-12-03T21:42:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46140579\">Comments</a>"
-  },
-  {
-    "title": "Passing the Torch: James Gross on the Next Chapter of Micromobility Industries",
-    "link": "https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes",
-    "source": "Hacker News",
-    "published": "2025-12-03T21:14:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46140219\">Comments</a>"
   },
   {
     "title": "Running Linux on a RiscPC \u2013 why is it so hard?",
