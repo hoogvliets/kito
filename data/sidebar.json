@@ -1,5 +1,85 @@
 [
   {
+    "title": "Show HN: tomcp.org \u2013 Turn any URL into an MCP server",
+    "link": "https://github.com/Ami3466/tomcp",
+    "source": "Hacker News",
+    "published": "2025-12-12T17:10:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46246117\">Comments</a>"
+  },
+  {
+    "title": "Oracle made a $300B bet on OpenAI. It's paying the price",
+    "link": "https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html",
+    "source": "Hacker News",
+    "published": "2025-12-12T17:01:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46246031\">Comments</a>"
+  },
+  {
+    "title": "Japan law opening phone app stores to go into effect dec.18th",
+    "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/",
+    "source": "Hacker News",
+    "published": "2025-12-12T16:59:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46246006\">Comments</a>"
+  },
+  {
+    "title": "Async DNS",
+    "link": "https://flak.tedunangst.com/post/async-dns",
+    "source": "Hacker News",
+    "published": "2025-12-12T16:52:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245923\">Comments</a>"
+  },
+  {
+    "title": "Secondary school maths showing that AI systems don't think",
+    "link": "https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/",
+    "source": "Hacker News",
+    "published": "2025-12-12T16:32:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245731\">Comments</a>"
+  },
+  {
+    "title": "String Theory Inspires a Brilliant, Baffling New Math Proof",
+    "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+    "source": "Hacker News",
+    "published": "2025-12-12T16:23:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245622\">Comments</a>"
+  },
+  {
+    "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+    "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+    "source": "Hacker News",
+    "published": "2025-12-12T16:04:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245398\">Comments</a>"
+  },
+  {
+    "title": "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
+    "link": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
+    "source": "Hacker News",
+    "published": "2025-12-12T15:58:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245331\">Comments</a>"
+  },
+  {
+    "title": "Berlin Approves New Expansion of Police Surveillance Powers",
+    "link": "https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers",
+    "source": "Hacker News",
+    "published": "2025-12-12T15:29:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245041\">Comments</a>"
+  },
+  {
+    "title": "CM0 \u2013 a new Raspberry Pi you can't buy",
+    "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+    "source": "Hacker News",
+    "published": "2025-12-12T15:19:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46244922\">Comments</a>"
+  },
+  {
     "title": "BpfJailer: eBPF Mandatory Access Control [pdf]",
     "link": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
     "source": "Hacker News",
@@ -24,30 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46243883\">Comments</a>"
   },
   {
-    "title": "The Tor Project is switching to Rust",
-    "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
-    "source": "Hacker News",
-    "published": "2025-12-12T12:35:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46243543\">Comments</a>"
-  },
-  {
-    "title": "Koralm Railway",
-    "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
-    "source": "Hacker News",
-    "published": "2025-12-12T10:50:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46242871\">Comments</a>"
-  },
-  {
-    "title": "Guarding My Git Forge Against AI Scrapers",
-    "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
-    "source": "Hacker News",
-    "published": "2025-12-12T07:51:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46241849\">Comments</a>"
-  },
-  {
     "title": "The tiniest yet real telescope I've built",
     "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
     "source": "Hacker News",
@@ -56,52 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46241763\">Comments</a>"
   },
   {
-    "title": "Google de-indexed Bear Blog and I don't know why",
-    "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
-    "source": "Hacker News",
-    "published": "2025-12-12T01:20:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46239752\">Comments</a>"
-  },
-  {
-    "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
-    "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
-    "source": "Hacker News",
-    "published": "2025-12-12T00:59:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46239629\">Comments</a>"
-  },
-  {
     "title": "Nokia N900 Necromancy",
     "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
     "source": "Hacker News",
     "published": "2025-12-12T00:04:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46239177\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Autofix Bot \u2013 Hybrid static analysis and AI code review agent",
-    "link": "https://news.ycombinator.com/item?id=46237358",
-    "source": "Hacker News",
-    "published": "2025-12-11T21:24:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46237358\">Comments</a>"
-  },
-  {
-    "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
-    "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
-    "source": "Hacker News",
-    "published": "2025-12-11T18:17:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46234920\">Comments</a>"
-  },
-  {
-    "title": "GPT-5.2",
-    "link": "https://openai.com/index/introducing-gpt-5-2/",
-    "source": "Hacker News",
-    "published": "2025-12-11T18:04:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46234788\">Comments</a>"
   },
   {
     "title": "From text to token: How tokenization pipelines work",
@@ -120,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46229437\">Comments</a>"
   },
   {
-    "title": "Use Python for Scripting",
-    "link": "https://hypirion.com/musings/use-python-for-scripting",
+    "title": "How to Articulate Yourself Intelligently",
+    "link": "https://letters.thedankoe.com/p/how-to-articulate-yourself-intelligently",
     "source": "Hacker News",
-    "published": "2025-12-08T08:52:03+00:00",
+    "published": "2025-12-08T10:55:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46189962\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46190877\">Comments</a>"
   },
   {
-    "title": "What folk can do",
-    "link": "https://folk.computer/guides/what-folk-can-do",
+    "title": "Microservices Should Form a Polytree",
+    "link": "https://bytesauna.com/post/microservices",
     "source": "Hacker News",
-    "published": "2025-12-08T00:37:42+00:00",
+    "published": "2025-12-08T07:24:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46186990\">Comments</a>"
-  },
-  {
-    "title": "He set out to walk around the world. After 27 years, his quest is nearly over",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/",
-    "source": "Hacker News",
-    "published": "2025-12-07T16:26:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46182874\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46189395\">Comments</a>"
   },
   {
     "title": "4 billion if statements (2023)",
@@ -150,13 +158,5 @@
     "published": "2025-12-06T15:34:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46174114\">Comments</a>"
-  },
-  {
-    "title": "Octo: A Chip8 IDE",
-    "link": "https://github.com/JohnEarnest/Octo",
-    "source": "Hacker News",
-    "published": "2025-12-06T11:17:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46172439\">Comments</a>"
   }
 ]
