@@ -1,5 +1,53 @@
 [
   {
+    "title": "The Typeframe PX-88 Portable Computing System",
+    "link": "https://www.typeframe.net/",
+    "source": "Hacker News",
+    "published": "2025-12-14T17:43:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46265015\">Comments</a>"
+  },
+  {
+    "title": "Sacrificing accessibility for not getting web scraped",
+    "link": "https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped",
+    "source": "Hacker News",
+    "published": "2025-12-14T17:38:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46264955\">Comments</a>"
+  },
+  {
+    "title": "Show HN: a Pager",
+    "link": "https://www.udp7777.com/",
+    "source": "Hacker News",
+    "published": "2025-12-14T17:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46264657\">Comments</a>"
+  },
+  {
+    "title": "Hashcards: A Plain-Text Spaced Repetition System",
+    "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+    "source": "Hacker News",
+    "published": "2025-12-14T16:55:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46264492\">Comments</a>"
+  },
+  {
+    "title": "Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited",
+    "link": "https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/",
+    "source": "Hacker News",
+    "published": "2025-12-14T16:13:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46264101\">Comments</a>"
+  },
+  {
+    "title": "Illuminating the processor core with LLVM-mca",
+    "link": "https://abseil.io/fast/99",
+    "source": "Hacker News",
+    "published": "2025-12-14T15:05:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46263530\">Comments</a>"
+  },
+  {
     "title": "Apple Maps claims it's 29,905 miles away",
     "link": "https://mathstodon.xyz/@dpiponi/115651419771418748",
     "source": "Hacker News",
@@ -16,28 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46262816\">Comments</a>"
   },
   {
+    "title": "Vacuum Is a Lie: About Your Indexes",
+    "link": "https://boringsql.com/posts/vacuum-is-lie/",
+    "source": "Hacker News",
+    "published": "2025-12-14T13:13:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46262777\">Comments</a>"
+  },
+  {
     "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
     "link": "https://twitter.com/awnihannun/status/1943723599971443134",
     "source": "Hacker News",
     "published": "2025-12-14T13:04:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46262734\">Comments</a>"
-  },
-  {
-    "title": "Baumol's Cost Disease",
-    "link": "https://en.wikipedia.org/wiki/Baumol_effect",
-    "source": "Hacker News",
-    "published": "2025-12-14T12:34:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46262592\">Comments</a>"
-  },
-  {
-    "title": "The Gorman Paradox: Where Are All the AI-Generated Apps?",
-    "link": "https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/",
-    "source": "Hacker News",
-    "published": "2025-12-14T12:18:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46262545\">Comments</a>"
   },
   {
     "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
@@ -72,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46261452\">Comments</a>"
   },
   {
-    "title": "Lean theorem prover mathlib",
-    "link": "https://github.com/leanprover-community/mathlib4",
-    "source": "Hacker News",
-    "published": "2025-12-14T01:49:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46260128\">Comments</a>"
-  },
-  {
     "title": "Linux Sandboxes and Fil-C",
     "link": "https://fil-c.org/seccomp",
     "source": "Hacker News",
     "published": "2025-12-13T22:58:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46259064\">Comments</a>"
-  },
-  {
-    "title": "Recovering Anthony Bourdain's Li.st's",
-    "link": "https://sandyuraz.com/blogs/bourdain/",
-    "source": "Hacker News",
-    "published": "2025-12-13T21:18:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46258163\">Comments</a>"
   },
   {
     "title": "I fed 24 years of my blog posts to a Markov model",
@@ -104,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46257607\">Comments</a>"
   },
   {
-    "title": "I tried Gleam for Advent of Code",
-    "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+    "title": "Developing a food-safe finish for my wooden spoons",
+    "link": "https://alinpanaitiu.com/blog/developing-hardwax-oil/",
     "source": "Hacker News",
-    "published": "2025-12-13T17:00:14+00:00",
+    "published": "2025-12-10T21:44:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46255991\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46224303\">Comments</a>"
   },
   {
     "title": "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46223617\">Comments</a>"
   },
   {
-    "title": "Using Git add -p for fun (and profit)",
-    "link": "https://techne98.com/blog/using-git-add-p/",
+    "title": "Getting into Public Speaking",
+    "link": "https://james.brooks.page/blog/getting-into-public-speaking",
     "source": "Hacker News",
-    "published": "2025-12-10T17:27:18+00:00",
+    "published": "2025-12-10T10:03:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46220578\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46216008\">Comments</a>"
   },
   {
-    "title": "Cat Gap",
-    "link": "https://en.wikipedia.org/wiki/Cat_gap",
+    "title": "Science Communications on YouTube",
+    "link": "https://blogs.memphis.edu/awindsor/2025/02/25/science-communication-on-youtube/",
     "source": "Hacker News",
-    "published": "2025-12-10T04:09:04+00:00",
+    "published": "2025-12-06T16:53:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46213985\">Comments</a>"
-  },
-  {
-    "title": "Using e-ink tablet as monitor for Linux",
-    "link": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
-    "source": "Hacker News",
-    "published": "2025-12-09T14:10:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46205089\">Comments</a>"
-  },
-  {
-    "title": "Building a Modern C64 Assembly AI Toolchain",
-    "link": "https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458",
-    "source": "Hacker News",
-    "published": "2025-12-09T10:49:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46203477\">Comments</a>"
-  },
-  {
-    "title": "Dagger: Define software delivery workflows and dev environments",
-    "link": "https://dagger.io/",
-    "source": "Hacker News",
-    "published": "2025-12-09T08:32:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46202624\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46174735\">Comments</a>"
   }
 ]
