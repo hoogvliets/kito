@@ -1,43 +1,67 @@
 [
   {
-    "title": "Opus 4.5 is the first model that makes me fear for my job",
-    "link": "https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/",
+    "title": "AI agents are starting to eat SaaS",
+    "link": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
     "source": "Hacker News",
-    "published": "2025-12-14T20:40:16+00:00",
+    "published": "2025-12-14T23:48:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266655\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46268452\">Comments</a>"
   },
   {
-    "title": "JSDoc *Is* TypeScript",
+    "title": "Claude CLI deleted my home directory Wiped my whole Mac",
+    "link": "https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/",
+    "source": "Hacker News",
+    "published": "2025-12-14T23:23:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46268222\">Comments</a>"
+  },
+  {
+    "title": "DARPA GO: Generative Optogenetics",
+    "link": "https://www.darpa.mil/research/programs/go",
+    "source": "Hacker News",
+    "published": "2025-12-14T23:13:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46268153\">Comments</a>"
+  },
+  {
+    "title": "History of Declarative Programming",
+    "link": "https://shenlanguage.org/TBoS/tbos_15.html",
+    "source": "Hacker News",
+    "published": "2025-12-14T22:46:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46267947\">Comments</a>"
+  },
+  {
+    "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+    "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
+    "source": "Hacker News",
+    "published": "2025-12-14T21:53:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46267385\">Comments</a>"
+  },
+  {
+    "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+    "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+    "source": "Hacker News",
+    "published": "2025-12-14T21:05:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266875\">Comments</a>"
+  },
+  {
+    "title": "Advent of Swift",
+    "link": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html",
+    "source": "Hacker News",
+    "published": "2025-12-14T20:04:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266312\">Comments</a>"
+  },
+  {
+    "title": "JSDoc is TypeScript",
     "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
     "source": "Hacker News",
     "published": "2025-12-14T19:42:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46266102\">Comments</a>"
-  },
-  {
-    "title": "Do Dyslexia Fonts Actually Work? (2022)",
-    "link": "https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/",
-    "source": "Hacker News",
-    "published": "2025-12-14T19:41:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266094\">Comments</a>"
-  },
-  {
-    "title": "GNU recutils: Plain text database",
-    "link": "https://www.gnu.org/software/recutils/",
-    "source": "Hacker News",
-    "published": "2025-12-14T19:08:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46265811\">Comments</a>"
-  },
-  {
-    "title": "Stop crawling my HTML \u2013 use the API",
-    "link": "https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/",
-    "source": "Hacker News",
-    "published": "2025-12-14T18:44:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46265579\">Comments</a>"
   },
   {
     "title": "The Typeframe PX-88 Portable Computing System",
@@ -56,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46264704\">Comments</a>"
   },
   {
-    "title": "Hashcards: A Plain-Text Spaced Repetition System",
+    "title": "Hashcards: A plain-text spaced repetition system",
     "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
     "source": "Hacker News",
     "published": "2025-12-14T16:55:29+00:00",
@@ -80,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46264068\">Comments</a>"
   },
   {
-    "title": "Illuminating the processor core with LLVM-mca",
-    "link": "https://abseil.io/fast/99",
-    "source": "Hacker News",
-    "published": "2025-12-14T15:05:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46263530\">Comments</a>"
-  },
-  {
-    "title": "Apple Maps claims it's 29,905 miles away",
-    "link": "https://mathstodon.xyz/@dpiponi/115651419771418748",
-    "source": "Hacker News",
-    "published": "2025-12-14T13:45:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46262950\">Comments</a>"
-  },
-  {
     "title": "AI and the ironies of automation \u2013 Part 2",
     "link": "https://www.ufried.com/blog/ironies_of_ai_2/",
     "source": "Hacker News",
     "published": "2025-12-14T13:19:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46262816\">Comments</a>"
-  },
-  {
-    "title": "Vacuum Is a Lie: About Your Indexes",
-    "link": "https://boringsql.com/posts/vacuum-is-lie/",
-    "source": "Hacker News",
-    "published": "2025-12-14T13:13:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46262777\">Comments</a>"
   },
   {
     "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46262021\">Comments</a>"
   },
   {
-    "title": "Linux Sandboxes and Fil-C",
-    "link": "https://fil-c.org/seccomp",
+    "title": "Checkers Arcade",
+    "link": "https://blog.fogus.me/games/checkers-arcade.html",
     "source": "Hacker News",
-    "published": "2025-12-13T22:58:29+00:00",
+    "published": "2025-12-12T14:18:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46259064\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46244362\">Comments</a>"
   },
   {
-    "title": "Disk can lie to you when you write to it",
-    "link": "https://blog.canoozie.net/disks-lie-building-a-wal-that-actually-survives/",
+    "title": "Interview with Kent Overstreet (Bcachefs) [audio]",
+    "link": "https://linuxunplugged.com/644",
     "source": "Hacker News",
-    "published": "2025-12-12T01:16:49+00:00",
+    "published": "2025-12-11T14:29:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46239726\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46231813\">Comments</a>"
   },
   {
     "title": "Developing a food-safe finish for my wooden spoons",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46224303\">Comments</a>"
   },
   {
-    "title": "Standalone Meshtastic Command Center \u2013 One HTML File Offline",
-    "link": "https://github.com/Jordan-Townsend/Standalone",
-    "source": "Hacker News",
-    "published": "2025-12-09T09:05:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46202853\">Comments</a>"
-  },
-  {
-    "title": "In the Beginning Was the Command Line (1999)",
+    "title": "In the Beginning was the Command Line (1999)",
     "link": "https://web.stanford.edu/class/cs81n/command.txt",
     "source": "Hacker News",
     "published": "2025-12-08T08:44:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46189905\">Comments</a>"
+  },
+  {
+    "title": "An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter",
+    "link": "https://im-just-lee.ing/forth-why-cb234c03.txt",
+    "source": "Hacker News",
+    "published": "2025-12-08T00:25:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46186914\">Comments</a>"
   }
 ]
