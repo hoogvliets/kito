@@ -1,11 +1,19 @@
 [
   {
-    "title": "Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide",
-    "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/",
+    "title": "Why proteins fold and how GPUs help us fold",
+    "link": "https://aval.bearblog.dev/nvidiaproteins/",
     "source": "Hacker News",
-    "published": "2025-12-15T05:20:38+00:00",
+    "published": "2025-12-15T06:05:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46270746\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46270972\">Comments</a>"
+  },
+  {
+    "title": "Common Rust Lifetime Misconceptions",
+    "link": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md",
+    "source": "Hacker News",
+    "published": "2025-12-15T05:46:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46270882\">Comments</a>"
   },
   {
     "title": "Read Something Wonderful",
@@ -32,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46270298\">Comments</a>"
   },
   {
+    "title": "Unscii",
+    "link": "http://viznut.fi/unscii/",
+    "source": "Hacker News",
+    "published": "2025-12-15T03:55:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46270282\">Comments</a>"
+  },
+  {
     "title": "John Varley has died",
     "link": "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html",
     "source": "Hacker News",
     "published": "2025-12-15T03:04:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46269991\">Comments</a>"
-  },
-  {
-    "title": "SoundCloud just banned VPN access",
-    "link": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
-    "source": "Hacker News",
-    "published": "2025-12-15T02:51:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46269891\">Comments</a>"
   },
   {
     "title": "CapROS: Capability-Based Reliable Operating System",
@@ -56,28 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46268869\">Comments</a>"
   },
   {
-    "title": "History of Declarative Programming",
-    "link": "https://shenlanguage.org/TBoS/tbos_15.html",
+    "title": "Roomba maker goes bankrupt, Chinese owner emerges",
+    "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
     "source": "Hacker News",
-    "published": "2025-12-14T22:46:01+00:00",
+    "published": "2025-12-15T00:36:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46267947\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46268854\">Comments</a>"
   },
   {
-    "title": "Elevated errors across many models",
-    "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
+    "title": "If AI replaces workers, should it also pay taxes?",
+    "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
     "source": "Hacker News",
-    "published": "2025-12-14T21:53:13+00:00",
+    "published": "2025-12-15T00:17:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46267385\">Comments</a>"
-  },
-  {
-    "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
-    "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
-    "source": "Hacker News",
-    "published": "2025-12-14T21:05:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266875\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46268709\">Comments</a>"
   },
   {
     "title": "The Problem of Teaching Physics in Latin America (1963)",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46265362\">Comments</a>"
   },
   {
-    "title": "The Typeframe PX-88 Portable Computing System",
-    "link": "https://www.typeframe.net/",
-    "source": "Hacker News",
-    "published": "2025-12-14T17:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46265015\">Comments</a>"
-  },
-  {
     "title": "Hashcards: A plain-text spaced repetition system",
     "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
     "source": "Hacker News",
@@ -128,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46264491\">Comments</a>"
   },
   {
+    "title": "The History of Xerox",
+    "link": "https://www.abortretry.fail/p/the-history-of-xerox",
+    "source": "Hacker News",
+    "published": "2025-12-11T18:54:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46235460\">Comments</a>"
+  },
+  {
+    "title": "$5 whale listening hydrophone making workshop",
+    "link": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/",
+    "source": "Hacker News",
+    "published": "2025-12-11T08:42:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46229030\">Comments</a>"
+  },
+  {
     "title": "How well do you know C++ auto type deduction?",
     "link": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/",
     "source": "Hacker News",
@@ -136,24 +144,16 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46211767\">Comments</a>"
   },
   {
-    "title": "In the Beginning was the Command Line (1999)",
-    "link": "https://web.stanford.edu/class/cs81n/command.txt",
+    "title": "Running on Empty: Copper",
+    "link": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper",
     "source": "Hacker News",
-    "published": "2025-12-08T08:44:06+00:00",
+    "published": "2025-12-08T21:54:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46189905\">Comments</a>"
-  },
-  {
-    "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
-    "link": "https://im-just-lee.ing/forth-why-cb234c03.txt",
-    "source": "Hacker News",
-    "published": "2025-12-08T00:25:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46186914\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46198177\">Comments</a>"
   },
   {
     "title": "Rio de Janeiro's talipot palm trees bloom for the first and only time",
-    "link": "https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html",
+    "link": "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02",
     "source": "Hacker News",
     "published": "2025-12-07T03:42:37+00:00",
     "author": "Hacker News",
