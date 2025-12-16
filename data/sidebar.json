@@ -1,11 +1,75 @@
 [
   {
-    "title": "Mozilla's new CEO is doubling down on an AI future for Firefox",
-    "link": "https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo",
+    "title": "The GitHub Actions control plane is no longer free",
+    "link": "https://www.blacksmith.sh/blog/actions-pricing",
     "source": "Hacker News",
-    "published": "2025-12-16T14:43:18+00:00",
+    "published": "2025-12-16T17:37:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46289115\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291500\">Comments</a>"
+  },
+  {
+    "title": "GitHub will begin charging for self-hosted action runners on March 2026",
+    "link": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/",
+    "source": "Hacker News",
+    "published": "2025-12-16T17:32:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291414\">Comments</a>"
+  },
+  {
+    "title": "FVWM-95",
+    "link": "https://fvwm95.sourceforge.net/",
+    "source": "Hacker News",
+    "published": "2025-12-16T17:13:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291172\">Comments</a>"
+  },
+  {
+    "title": "Pricing Changes for GitHub Actions",
+    "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+    "source": "Hacker News",
+    "published": "2025-12-16T17:12:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291156\">Comments</a>"
+  },
+  {
+    "title": "Artie (YC S23) Is Hiring Senior Enterprise AES",
+    "link": "https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae",
+    "source": "Hacker News",
+    "published": "2025-12-16T17:00:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291011\">Comments</a>"
+  },
+  {
+    "title": "Track Surveillance (Flock Cameras) Tech in Local Government Meetings",
+    "link": "https://alpr.watch/",
+    "source": "Hacker News",
+    "published": "2025-12-16T16:54:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290916\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Zenflow \u2013 orchestrate coding agents without \"you're right\" loops",
+    "link": "https://zencoder.ai/zenflow",
+    "source": "Hacker News",
+    "published": "2025-12-16T16:32:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290617\">Comments</a>"
+  },
+  {
+    "title": "AIsbom \u2013 open-source CLI to detect \"Pickle Bombs\" in PyTorch models",
+    "link": "https://github.com/Lab700xOrg/aisbom",
+    "source": "Hacker News",
+    "published": "2025-12-16T15:55:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290113\">Comments</a>"
+  },
+  {
+    "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
+    "link": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+    "source": "Hacker News",
+    "published": "2025-12-16T13:53:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288491\">Comments</a>"
   },
   {
     "title": "40 percent of fMRI signals do not correspond to actual brain activity",
@@ -22,14 +86,6 @@
     "published": "2025-12-16T13:46:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288414\">Comments</a>"
-  },
-  {
-    "title": "This is not the future",
-    "link": "https://blog.mathieui.net/this-is-not-the-future.html",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:42:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288371\">Comments</a>"
   },
   {
     "title": "I don't think Lindley's paradox supports p-circling",
@@ -56,60 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288286\">Comments</a>"
   },
   {
-    "title": "You're overspending because you lack values",
-    "link": "https://www.sherryning.com/p/youre-overspending-because-you-lack-values",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:20:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288185\">Comments</a>"
-  },
-  {
     "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
     "link": "https://gamehistory.org/segachannel/",
     "source": "Hacker News",
     "published": "2025-12-16T13:07:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288024\">Comments</a>"
-  },
-  {
-    "title": "Cekura (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us",
-    "source": "Hacker News",
-    "published": "2025-12-16T12:01:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46287521\">Comments</a>"
-  },
-  {
-    "title": "ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing",
-    "link": "https://github.com/mantisfury/ArkhamMirror",
-    "source": "Hacker News",
-    "published": "2025-12-16T09:51:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46286666\">Comments</a>"
-  },
-  {
-    "title": "A2UI: A Protocol for Agent-Driven Interfaces",
-    "link": "https://a2ui.org/",
-    "source": "Hacker News",
-    "published": "2025-12-16T09:16:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46286407\">Comments</a>"
-  },
-  {
-    "title": "Children with cancer scammed out of millions fundraised for their treatment",
-    "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
-    "source": "Hacker News",
-    "published": "2025-12-16T06:17:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285376\">Comments</a>"
-  },
-  {
-    "title": "Bonsai: A Voxel Engine, from scratch",
-    "link": "https://github.com/scallyw4g/bonsai",
-    "source": "Hacker News",
-    "published": "2025-12-16T06:06:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285319\">Comments</a>"
   },
   {
     "title": "SHARP, an approach to photorealistic view synthesis from a single image",
@@ -120,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46284658\">Comments</a>"
   },
   {
-    "title": "Quill OS: An open-source OS for Kobo's eReaders",
-    "link": "https://quill-os.org/",
-    "source": "Hacker News",
-    "published": "2025-12-16T00:22:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46283016\">Comments</a>"
-  },
-  {
     "title": "Full Unicode Search at 50\u00d7 ICU Speed with AVX\u2011512",
     "link": "https://ashvardanian.com/posts/search-utf8/",
     "source": "Hacker News",
     "published": "2025-12-15T16:42:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46276826\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Interactive Common Lisp: An Enhanced REPL",
+    "link": "https://github.com/atgreen/icl",
+    "source": "Hacker News",
+    "published": "2025-12-14T00:31:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46259671\">Comments</a>"
   },
   {
     "title": "Purrtran \u2013 \u14da\u160f\u15e2 \u2013 A Programming Language for Cat People",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46256504\">Comments</a>"
   },
   {
-    "title": "High Performance SSH/SCP",
-    "link": "https://www.psc.edu/hpn-ssh-home/",
+    "title": "Debug Mode for LLMs in vLLora",
+    "link": "https://vllora.dev/blog/debug-mode/",
     "source": "Hacker News",
-    "published": "2025-12-11T04:23:46+00:00",
+    "published": "2025-12-12T10:44:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46227641\">Comments</a>"
-  },
-  {
-    "title": "Be Careful with GIDs in Rails",
-    "link": "https://blog.julik.nl/2025/12/a-trap-with-global-ids",
-    "source": "Hacker News",
-    "published": "2025-12-11T02:03:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46226779\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46242838\">Comments</a>"
   }
 ]
