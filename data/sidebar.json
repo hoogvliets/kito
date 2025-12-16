@@ -1,5 +1,45 @@
 [
   {
+    "title": "The biggest heat pumps in the world",
+    "link": "https://www.bbc.com/news/articles/c17p44w87rno",
+    "source": "Hacker News",
+    "published": "2025-12-16T08:13:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46286030\">Comments</a>"
+  },
+  {
+    "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
+    "link": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
+    "source": "Hacker News",
+    "published": "2025-12-16T06:47:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285535\">Comments</a>"
+  },
+  {
+    "title": "O'saasy License Agreement",
+    "link": "https://osaasy.dev/",
+    "source": "Hacker News",
+    "published": "2025-12-16T06:29:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285448\">Comments</a>"
+  },
+  {
+    "title": "Children with cancer scammed out of millions fundraised for their treatment",
+    "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
+    "source": "Hacker News",
+    "published": "2025-12-16T06:17:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285376\">Comments</a>"
+  },
+  {
+    "title": "Bonsai: A Voxel Engine, from scratch",
+    "link": "https://github.com/scallyw4g/bonsai",
+    "source": "Hacker News",
+    "published": "2025-12-16T06:06:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285319\">Comments</a>"
+  },
+  {
     "title": "Erd\u0151s Problem #1026",
     "link": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
     "source": "Hacker News",
@@ -8,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46284897\">Comments</a>"
   },
   {
-    "title": "Sharp",
+    "title": "SHARP, an approach to photorealistic view synthesis from a single image",
     "link": "https://apple.github.io/ml-sharp/",
     "source": "Hacker News",
     "published": "2025-12-16T04:06:51+00:00",
@@ -40,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46283016\">Comments</a>"
   },
   {
-    "title": "The Bob Dylan concert for just one person",
-    "link": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
-    "source": "Hacker News",
-    "published": "2025-12-16T00:18:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46282984\">Comments</a>"
-  },
-  {
     "title": "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
     "link": "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/",
     "source": "Hacker News",
     "published": "2025-12-15T23:47:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46282679\">Comments</a>"
+  },
+  {
+    "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+    "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+    "source": "Hacker News",
+    "published": "2025-12-15T22:48:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46281944\">Comments</a>"
   },
   {
     "title": "Economics of Orbital vs. Terrestrial Data Centers",
@@ -64,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46281288\">Comments</a>"
   },
   {
-    "title": "Ford kills the All-Electric F-150",
-    "link": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
-    "source": "Hacker News",
-    "published": "2025-12-15T21:46:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46281182\">Comments</a>"
-  },
-  {
-    "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
-    "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
-    "source": "Hacker News",
-    "published": "2025-12-15T21:24:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46280887\">Comments</a>"
-  },
-  {
     "title": "Umbrel \u2013 Personal Cloud",
     "link": "https://umbrel.com",
     "source": "Hacker News",
     "published": "2025-12-15T19:27:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46279187\">Comments</a>"
-  },
-  {
-    "title": "Chafa: Terminal Graphics for the 21st Century",
-    "link": "https://hpjansson.org/chafa/",
-    "source": "Hacker News",
-    "published": "2025-12-15T18:16:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46278208\">Comments</a>"
   },
   {
     "title": "Essential Semiconductor Physics [pdf]",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46256643\">Comments</a>"
   },
   {
-    "title": "In Defense of Matlab Code",
-    "link": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code",
-    "source": "Hacker News",
-    "published": "2025-12-12T20:13:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46248294\">Comments</a>"
-  },
-  {
     "title": "\u201cAre you the one?\u201d is free money",
     "link": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
     "source": "Hacker News",
@@ -120,36 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46241500\">Comments</a>"
   },
   {
-    "title": "Nature's many attempts to evolve a Nostr",
-    "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+    "title": "Mark V Shaney",
+    "link": "https://en.wikipedia.org/wiki/Mark_V._Shaney",
     "source": "Hacker News",
-    "published": "2025-12-10T23:54:34+00:00",
+    "published": "2025-12-12T04:37:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46225803\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46240912\">Comments</a>"
   },
   {
-    "title": "Debugging TLS failures in distroless containers",
-    "link": "https://lucabaggi.com/posts/ssl-docker/",
+    "title": "Creating C closures from Lua closures",
+    "link": "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html",
     "source": "Hacker News",
-    "published": "2025-12-10T23:16:26+00:00",
+    "published": "2025-12-11T19:08:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46225406\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46235699\">Comments</a>"
   },
   {
-    "title": "Light intensity steers molecular assemblies into 1D, 2D or 3D structures",
-    "link": "https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html",
+    "title": "7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap",
+    "link": "https://milvus.io/blog/milvus-exceeds-40k-github-stars.md",
     "source": "Hacker News",
-    "published": "2025-12-10T15:54:59+00:00",
+    "published": "2025-12-10T19:03:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46219203\">Comments</a>"
-  },
-  {
-    "title": "John Updike wrote it all down",
-    "link": "https://newrepublic.com/article/201598/john-updike-wrote",
-    "source": "Hacker News",
-    "published": "2025-12-09T20:20:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46210087\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46222002\">Comments</a>"
   },
   {
     "title": "Show HN: I designed my own 3D printer motherboard",
