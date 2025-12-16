@@ -1,11 +1,27 @@
 [
   {
-    "title": "The GitHub Actions control plane is no longer free",
-    "link": "https://www.blacksmith.sh/blog/actions-pricing",
+    "title": "No Graphics API",
+    "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
     "source": "Hacker News",
-    "published": "2025-12-16T17:37:34+00:00",
+    "published": "2025-12-16T19:20:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291500\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46293062\">Comments</a>"
+  },
+  {
+    "title": "Vibe coding creates fatigue?",
+    "link": "https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue",
+    "source": "Hacker News",
+    "published": "2025-12-16T18:32:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46292365\">Comments</a>"
+  },
+  {
+    "title": "GPT Image 1.5",
+    "link": "https://openai.com/index/new-chatgpt-images-is-here/",
+    "source": "Hacker News",
+    "published": "2025-12-16T18:07:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291941\">Comments</a>"
   },
   {
     "title": "GitHub will begin charging for self-hosted action runners on March 2026",
@@ -16,22 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46291414\">Comments</a>"
   },
   {
-    "title": "FVWM-95",
-    "link": "https://fvwm95.sourceforge.net/",
-    "source": "Hacker News",
-    "published": "2025-12-16T17:13:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291172\">Comments</a>"
-  },
-  {
-    "title": "Pricing Changes for GitHub Actions",
-    "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
-    "source": "Hacker News",
-    "published": "2025-12-16T17:12:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291156\">Comments</a>"
-  },
-  {
     "title": "Artie (YC S23) Is Hiring Senior Enterprise AES",
     "link": "https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae",
     "source": "Hacker News",
@@ -40,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46291011\">Comments</a>"
   },
   {
-    "title": "Track Surveillance (Flock Cameras) Tech in Local Government Meetings",
+    "title": "alpr.watch",
     "link": "https://alpr.watch/",
     "source": "Hacker News",
     "published": "2025-12-16T16:54:19+00:00",
@@ -48,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290916\">Comments</a>"
   },
   {
-    "title": "Show HN: Zenflow \u2013 orchestrate coding agents without \"you're right\" loops",
-    "link": "https://zencoder.ai/zenflow",
+    "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
+    "link": "https://kemble.net/blog/provoke/",
     "source": "Hacker News",
-    "published": "2025-12-16T16:32:16+00:00",
+    "published": "2025-12-16T15:41:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290617\">Comments</a>"
-  },
-  {
-    "title": "AIsbom \u2013 open-source CLI to detect \"Pickle Bombs\" in PyTorch models",
-    "link": "https://github.com/Lab700xOrg/aisbom",
-    "source": "Hacker News",
-    "published": "2025-12-16T15:55:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290113\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46289918\">Comments</a>"
   },
   {
     "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
@@ -80,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288415\">Comments</a>"
   },
   {
-    "title": "A brief history of Times New Roman",
-    "link": "https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:46:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288414\">Comments</a>"
-  },
-  {
-    "title": "I don't think Lindley's paradox supports p-circling",
-    "link": "https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:40:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288351\">Comments</a>"
-  },
-  {
     "title": "Rust GCC back end: Why and how",
     "link": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
     "source": "Hacker News",
     "published": "2025-12-16T13:33:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288291\">Comments</a>"
-  },
-  {
-    "title": "Put a ring on it: a lock-free MPMC ring buffer",
-    "link": "https://h4x0r.org/ring/",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:32:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288286\">Comments</a>"
   },
   {
     "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
@@ -120,43 +88,75 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288024\">Comments</a>"
   },
   {
-    "title": "SHARP, an approach to photorealistic view synthesis from a single image",
-    "link": "https://apple.github.io/ml-sharp/",
+    "title": "Japan to revise romanization rules for first time in 70 years",
+    "link": "https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/",
     "source": "Hacker News",
-    "published": "2025-12-16T04:06:51+00:00",
+    "published": "2025-12-16T08:54:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46284658\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46286292\">Comments</a>"
   },
   {
-    "title": "Full Unicode Search at 50\u00d7 ICU Speed with AVX\u2011512",
-    "link": "https://ashvardanian.com/posts/search-utf8/",
+    "title": "Thin desires are eating your life",
+    "link": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
     "source": "Hacker News",
-    "published": "2025-12-15T16:42:55+00:00",
+    "published": "2025-12-16T00:50:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46276826\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46283276\">Comments</a>"
   },
   {
-    "title": "Show HN: Interactive Common Lisp: An Enhanced REPL",
-    "link": "https://github.com/atgreen/icl",
+    "title": "Creating custom yellow handshake emojis with zero-width joiners",
+    "link": "https://blog.alexbeals.com/posts/custom-yellow-handshake-emojis-with-zero-width-joiners",
     "source": "Hacker News",
-    "published": "2025-12-14T00:31:02+00:00",
+    "published": "2025-12-16T00:25:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46259671\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46283052\">Comments</a>"
   },
   {
-    "title": "Purrtran \u2013 \u14da\u160f\u15e2 \u2013 A Programming Language for Cat People",
-    "link": "https://github.com/cmontella/purrtran",
+    "title": "The World Happiness Report is beset with methodological problems",
+    "link": "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham",
     "source": "Hacker News",
-    "published": "2025-12-13T18:02:46+00:00",
+    "published": "2025-12-16T00:06:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46256504\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46282874\">Comments</a>"
   },
   {
-    "title": "Debug Mode for LLMs in vLLora",
-    "link": "https://vllora.dev/blog/debug-mode/",
+    "title": "Show HN: Sqlit \u2013 A lazygit-style TUI for SQL databases",
+    "link": "https://github.com/Maxteabag/sqlit",
     "source": "Hacker News",
-    "published": "2025-12-12T10:44:50+00:00",
+    "published": "2025-12-15T15:47:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46242838\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46276002\">Comments</a>"
+  },
+  {
+    "title": "Nvidia Nemotron 3 Family of Models",
+    "link": "https://research.nvidia.com/labs/nemotron/Nemotron-3/",
+    "source": "Hacker News",
+    "published": "2025-12-15T14:39:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46275111\">Comments</a>"
+  },
+  {
+    "title": "AI URI Scheme \u2013 Internet-Draft",
+    "link": "https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html",
+    "source": "Hacker News",
+    "published": "2025-12-15T07:28:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46271405\">Comments</a>"
+  },
+  {
+    "title": "How geometry is fundamental for chess",
+    "link": "https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX",
+    "source": "Hacker News",
+    "published": "2025-12-11T22:23:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46238100\">Comments</a>"
+  },
+  {
+    "title": "Meta's new A.I. superstars are chafing against the rest of the company",
+    "link": "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html",
+    "source": "Hacker News",
+    "published": "2025-12-10T16:44:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46219987\">Comments</a>"
   }
 ]
