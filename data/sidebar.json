@@ -1,11 +1,75 @@
 [
   {
+    "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+    "link": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
+    "source": "Hacker News",
+    "published": "2025-12-17T17:30:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46302621\">Comments</a>"
+  },
+  {
+    "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+    "link": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
+    "source": "Hacker News",
+    "published": "2025-12-17T17:13:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46302337\">Comments</a>"
+  },
+  {
+    "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+    "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+    "source": "Hacker News",
+    "published": "2025-12-17T17:08:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46302267\">Comments</a>"
+  },
+  {
+    "title": "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
+    "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer",
+    "source": "Hacker News",
+    "published": "2025-12-17T17:00:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46302122\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: HN Was Down",
+    "link": "https://news.ycombinator.com/item?id=46301921",
+    "source": "Hacker News",
+    "published": "2025-12-17T16:48:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46301921\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Kenobi (YC W22) \u2013 Personalize your website for every visitor",
+    "link": "https://news.ycombinator.com/item?id=46301865",
+    "source": "Hacker News",
+    "published": "2025-12-17T16:44:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46301865\">Comments</a>"
+  },
+  {
+    "title": "Gemini 3 Flash: frontier intelligence built for speed",
+    "link": "https://blog.google/products/gemini/gemini-3-flash/",
+    "source": "Hacker News",
+    "published": "2025-12-17T16:42:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46301851\">Comments</a>"
+  },
+  {
     "title": "Learning the oldest programming language (2024)",
     "link": "https://uncenter.dev/posts/learning-fortran/",
     "source": "Hacker News",
     "published": "2025-12-17T13:25:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46301696\">Comments</a>"
+  },
+  {
+    "title": "Yep, Passkeys Still Have Problems",
+    "link": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
+    "source": "Hacker News",
+    "published": "2025-12-17T13:12:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46301585\">Comments</a>"
   },
   {
     "title": "Coursera to combine with Udemy",
@@ -40,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46299389\">Comments</a>"
   },
   {
-    "title": "Subsets (YC S23) is hiring engineers in Copenhagen, Denmark",
-    "link": "https://www.workatastartup.com/companies/subsets",
-    "source": "Hacker News",
-    "published": "2025-12-17T07:00:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46299022\">Comments</a>"
-  },
-  {
-    "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-    "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-    "source": "Hacker News",
-    "published": "2025-12-16T22:48:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46295771\">Comments</a>"
-  },
-  {
     "title": "No AI* Here \u2013 A Response to Mozilla's Next Chapter",
     "link": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
     "source": "Hacker News",
@@ -88,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46293062\">Comments</a>"
   },
   {
-    "title": "GPT Image 1.5",
-    "link": "https://openai.com/index/new-chatgpt-images-is-here/",
-    "source": "Hacker News",
-    "published": "2025-12-16T18:07:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291941\">Comments</a>"
-  },
-  {
     "title": "Pricing Changes for GitHub Actions",
     "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
     "source": "Hacker News",
@@ -112,51 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290916\">Comments</a>"
   },
   {
-    "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
-    "link": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+    "title": "Notes on Sorted Data",
+    "link": "https://amit.prasad.me/blog/sorted-data",
     "source": "Hacker News",
-    "published": "2025-12-16T13:53:14+00:00",
+    "published": "2025-12-11T16:52:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288491\">Comments</a>"
-  },
-  {
-    "title": "40 percent of fMRI signals do not correspond to actual brain activity",
-    "link": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:46:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288415\">Comments</a>"
-  },
-  {
-    "title": "Thin desires are eating life",
-    "link": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
-    "source": "Hacker News",
-    "published": "2025-12-16T00:50:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46283276\">Comments</a>"
-  },
-  {
-    "title": "Modern SID chip substitutes [video]",
-    "link": "https://www.youtube.com/watch?v=nooPmXxO6K0",
-    "source": "Hacker News",
-    "published": "2025-12-14T03:17:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46260485\">Comments</a>"
-  },
-  {
-    "title": "Playing Santa changed Bob Rutan profoundly",
-    "link": "https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/",
-    "source": "Hacker News",
-    "published": "2025-12-13T16:30:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46255746\">Comments</a>"
-  },
-  {
-    "title": "Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025",
-    "link": "https://plasticsoldierreview.com/ShowFeature.aspx?id=27",
-    "source": "Hacker News",
-    "published": "2025-12-13T14:51:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46254909\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46233794\">Comments</a>"
   }
 ]
