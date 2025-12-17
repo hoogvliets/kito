@@ -1,19 +1,75 @@
 [
   {
+    "title": "Americans overestimate how many social media users post harmful content",
+    "link": "https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false",
+    "source": "Hacker News",
+    "published": "2025-12-16T23:28:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46296181\">Comments</a>"
+  },
+  {
+    "title": "Dafny: Verification-Aware Programming Language",
+    "link": "https://dafny.org/",
+    "source": "Hacker News",
+    "published": "2025-12-16T22:50:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46295792\">Comments</a>"
+  },
+  {
+    "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
+    "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+    "source": "Hacker News",
+    "published": "2025-12-16T22:48:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46295771\">Comments</a>"
+  },
+  {
+    "title": "No AI* Here \u2013 A Response to Mozilla's Next Chapter",
+    "link": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+    "source": "Hacker News",
+    "published": "2025-12-16T22:07:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46295268\">Comments</a>"
+  },
+  {
+    "title": "MIT professor shot at his Massachusetts home dies",
+    "link": "https://www.bbc.com/news/articles/cly08y25688o",
+    "source": "Hacker News",
+    "published": "2025-12-16T21:52:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46295071\">Comments</a>"
+  },
+  {
+    "title": "Chat-tails: Throwback terminal chat, built on Tailscale",
+    "link": "https://tailscale.com/blog/chat-tails-terminal-chat",
+    "source": "Hacker News",
+    "published": "2025-12-16T21:16:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46294592\">Comments</a>"
+  },
+  {
+    "title": "AI will make formal verification go mainstream",
+    "link": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+    "source": "Hacker News",
+    "published": "2025-12-16T21:14:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46294574\">Comments</a>"
+  },
+  {
+    "title": "Announcing the Beta release of ty",
+    "link": "https://astral.sh/blog/ty",
+    "source": "Hacker News",
+    "published": "2025-12-16T20:52:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46294289\">Comments</a>"
+  },
+  {
     "title": "No Graphics API",
     "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
     "source": "Hacker News",
     "published": "2025-12-16T19:20:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46293062\">Comments</a>"
-  },
-  {
-    "title": "Vibe coding creates fatigue?",
-    "link": "https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue",
-    "source": "Hacker News",
-    "published": "2025-12-16T18:32:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46292365\">Comments</a>"
   },
   {
     "title": "GPT Image 1.5",
@@ -24,20 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46291941\">Comments</a>"
   },
   {
-    "title": "GitHub will begin charging for self-hosted action runners on March 2026",
-    "link": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/",
+    "title": "Pricing Changes for GitHub Actions",
+    "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
     "source": "Hacker News",
-    "published": "2025-12-16T17:32:38+00:00",
+    "published": "2025-12-16T17:12:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291414\">Comments</a>"
-  },
-  {
-    "title": "Artie (YC S23) Is Hiring Senior Enterprise AES",
-    "link": "https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae",
-    "source": "Hacker News",
-    "published": "2025-12-16T17:00:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291011\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291156\">Comments</a>"
   },
   {
     "title": "alpr.watch",
@@ -72,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46288415\">Comments</a>"
   },
   {
-    "title": "Rust GCC back end: Why and how",
-    "link": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
-    "source": "Hacker News",
-    "published": "2025-12-16T13:33:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46288291\">Comments</a>"
-  },
-  {
     "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
     "link": "https://gamehistory.org/segachannel/",
     "source": "Hacker News",
@@ -96,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46286292\">Comments</a>"
   },
   {
-    "title": "Thin desires are eating your life",
+    "title": "Thin desires are eating life",
     "link": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
     "source": "Hacker News",
     "published": "2025-12-16T00:50:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46283276\">Comments</a>"
-  },
-  {
-    "title": "Creating custom yellow handshake emojis with zero-width joiners",
-    "link": "https://blog.alexbeals.com/posts/custom-yellow-handshake-emojis-with-zero-width-joiners",
-    "source": "Hacker News",
-    "published": "2025-12-16T00:25:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46283052\">Comments</a>"
   },
   {
     "title": "The World Happiness Report is beset with methodological problems",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46282874\">Comments</a>"
   },
   {
-    "title": "Show HN: Sqlit \u2013 A lazygit-style TUI for SQL databases",
-    "link": "https://github.com/Maxteabag/sqlit",
+    "title": "Midjourney is alemwjsl",
+    "link": "https://www.aadillpickle.com/blog/midjourney-is-alemwjsl",
     "source": "Hacker News",
-    "published": "2025-12-15T15:47:14+00:00",
+    "published": "2025-12-11T00:25:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46276002\">Comments</a>"
-  },
-  {
-    "title": "Nvidia Nemotron 3 Family of Models",
-    "link": "https://research.nvidia.com/labs/nemotron/Nemotron-3/",
-    "source": "Hacker News",
-    "published": "2025-12-15T14:39:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46275111\">Comments</a>"
-  },
-  {
-    "title": "AI URI Scheme \u2013 Internet-Draft",
-    "link": "https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html",
-    "source": "Hacker News",
-    "published": "2025-12-15T07:28:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46271405\">Comments</a>"
-  },
-  {
-    "title": "How geometry is fundamental for chess",
-    "link": "https://lichess.org/@/RuyLopez1000/blog/how-geometry-is-fundamental-for-chess/h31wwhUX",
-    "source": "Hacker News",
-    "published": "2025-12-11T22:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46238100\">Comments</a>"
-  },
-  {
-    "title": "Meta's new A.I. superstars are chafing against the rest of the company",
-    "link": "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html",
-    "source": "Hacker News",
-    "published": "2025-12-10T16:44:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46219987\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46226068\">Comments</a>"
   }
 ]
