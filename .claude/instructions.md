@@ -60,6 +60,7 @@ When working on this project, always adhere to these constraints:
 - Always creates a PR when a feature is done and working, ask for confirmation to create the PR
 
 ## Git Branches
+* Always pull new code from main before creating a new branche
 * Always use an appropriate branch prefixes
 * Choose from one of the following prefixes:
     - feature/ - new functionality
