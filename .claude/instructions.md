@@ -51,6 +51,8 @@ When working on this project, always adhere to these constraints:
 
 ## Git Commits
 
+- Never commit to main
+- Never push to main
 - Use descriptive commit messages
 - Test thoroughly before committing
 - Don't commit secrets or credentials
