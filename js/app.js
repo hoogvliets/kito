@@ -501,9 +501,11 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     async function fetchHackerNews() {
         const url = 'https://news.ycombinator.com/rss';
+        console.log('🔄 Fetching Hacker News from:', url);
 
         try {
             const posts = await fetchSingleFeed(url);
+            console.log('✅ Hacker News fetched successfully, posts:', posts.length);
 
             // Sort by date (newest first)
             posts.sort((a, b) => {
@@ -513,13 +515,15 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             // HN RSS returns full content, limit to 20
-            return posts.slice(0, 20).map(post => ({
+            const result = posts.slice(0, 20).map(post => ({
                 ...post,
                 source: 'Hacker News',
                 author: 'Hacker News'
             }));
+            console.log('✅ Returning', result.length, 'Hacker News items');
+            return result;
         } catch (error) {
-            console.error('Failed to fetch Hacker News:', error);
+            console.error('❌ Failed to fetch Hacker News:', error);
             return [];
         }
     }
@@ -762,10 +766,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderSidebar() {
+        console.log('renderSidebar called, sidebar items:', state.sidebar.length);
+        console.log('Feed pages:', state.feedPages.map(p => p.id));
+
         if (state.sidebar.length === 0) {
+            console.log('⚠️ Sidebar is empty');
             // Render "no updates" to all sidebar containers
             state.feedPages.forEach(page => {
                 const container = document.getElementById(`${page.id}-sidebar-container`);
+                console.log(`  Container for ${page.id}:`, !!container);
                 if (container) {
                     container.innerHTML = '<div class="loading-indicator">No updates.</div>';
                 }
@@ -776,6 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Render to all feed page sidebar containers
         state.feedPages.forEach(page => {
             const container = document.getElementById(`${page.id}-sidebar-container`);
+            console.log(`  Rendering sidebar for ${page.id}, container exists:`, !!container);
             if (!container) return;
 
             container.innerHTML = '';
