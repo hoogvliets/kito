@@ -1278,6 +1278,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             const anchor = linkClone.querySelector('.bookmark-link-text');
                             anchor.textContent = link.title;
                             anchor.href = link.url;
+                            anchor.target = '_blank';
+                            anchor.rel = 'noopener noreferrer';
 
                             // Add favicon
                             const favicon = linkClone.querySelector('.bookmark-favicon');
@@ -1320,6 +1322,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             const siteEl = siteClone.querySelector('.launchpad-item');
 
                             siteEl.href = site.url;
+                            siteEl.target = '_blank';
+                            siteEl.rel = 'noopener noreferrer';
 
                             // Add large favicon
                             const favicon = siteClone.querySelector('.launchpad-favicon');
