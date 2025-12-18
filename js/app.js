@@ -822,7 +822,9 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             container.appendChild(fragment);
+            console.log(`  ✅ Appended ${state.sidebar.length} items to ${page.id} sidebar`);
         });
+        console.log('renderSidebar complete');
     }
 
     function setupInfiniteScroll() {
