@@ -1,19 +1,43 @@
 [
   {
+    "title": "More than half of researchers now use AI for peer review, often against guidance",
+    "link": "https://www.nature.com/articles/d41586-025-04066-5",
+    "source": "Hacker News",
+    "published": "2025-12-18T05:20:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309124\">Comments</a>"
+  },
+  {
+    "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
+    "link": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
+    "source": "Hacker News",
+    "published": "2025-12-18T05:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309039\">Comments</a>"
+  },
+  {
+    "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
+    "link": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
+    "source": "Hacker News",
+    "published": "2025-12-18T04:27:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46308893\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Those making $500/month on side projects in 2025 \u2013 Show and tell",
+    "link": "https://news.ycombinator.com/item?id=46307973",
+    "source": "Hacker News",
+    "published": "2025-12-18T01:36:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46307973\">Comments</a>"
+  },
+  {
     "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
     "link": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
     "source": "Hacker News",
     "published": "2025-12-18T00:25:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46307500\">Comments</a>"
-  },
-  {
-    "title": "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
-    "link": "https://www.nber.org/papers/w34553",
-    "source": "Hacker News",
-    "published": "2025-12-17T23:29:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46307055\">Comments</a>"
   },
   {
     "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
@@ -24,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46306894\">Comments</a>"
   },
   {
-    "title": "Cloudflare Radar 2025 Year in Review",
-    "link": "https://radar.cloudflare.com/year-in-review/2025",
+    "title": "Developers can now submit apps to ChatGPT",
+    "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
     "source": "Hacker News",
-    "published": "2025-12-17T21:44:22+00:00",
+    "published": "2025-12-17T22:27:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46305945\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46306456\">Comments</a>"
   },
   {
     "title": "I got hacked: My Hetzner server started mining Monero",
@@ -48,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46305428\">Comments</a>"
   },
   {
-    "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
-    "link": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
-    "source": "Hacker News",
-    "published": "2025-12-17T20:50:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46305321\">Comments</a>"
-  },
-  {
     "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
     "link": "https://pypi.org/project/wavelet-matrix/",
     "source": "Hacker News",
     "published": "2025-12-17T19:35:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46304413\">Comments</a>"
-  },
-  {
-    "title": "How SQLite is tested",
-    "link": "https://sqlite.org/testing.html",
-    "source": "Hacker News",
-    "published": "2025-12-17T18:15:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46303277\">Comments</a>"
   },
   {
     "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46301921\">Comments</a>"
   },
   {
-    "title": "Launch HN: Kenobi (YC W22) \u2013 Personalize your website for every visitor",
-    "link": "https://news.ycombinator.com/item?id=46301865",
-    "source": "Hacker News",
-    "published": "2025-12-17T16:44:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46301865\">Comments</a>"
-  },
-  {
     "title": "Gemini 3 Flash: Frontier intelligence built for speed",
     "link": "https://blog.google/products/gemini/gemini-3-flash/",
     "source": "Hacker News",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46301346\">Comments</a>"
   },
   {
+    "title": "Show HN: I built a fast RSS reader in Zig",
+    "link": "https://github.com/superstarryeyes/hys",
+    "source": "Hacker News",
+    "published": "2025-12-16T19:55:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46293564\">Comments</a>"
+  },
+  {
+    "title": "Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]",
+    "link": "https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design",
+    "source": "Hacker News",
+    "published": "2025-12-15T17:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46277233\">Comments</a>"
+  },
+  {
     "title": "Working quickly is more important than it seems (2015)",
     "link": "https://jsomers.net/blog/speed-matters",
     "source": "Hacker News",
     "published": "2025-12-15T05:54:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46270918\">Comments</a>"
-  },
-  {
-    "title": "A Cosmic Offense: Elias Canetti's contest against death",
-    "link": "https://www.commonwealmagazine.org/cosmic-offense",
-    "source": "Hacker News",
-    "published": "2025-12-14T21:17:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46267015\">Comments</a>"
   },
   {
     "title": "My payment agent is named George, not stripe-agent",
@@ -150,13 +158,5 @@
     "published": "2025-12-14T15:42:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46263821\">Comments</a>"
-  },
-  {
-    "title": "The Number That Turned Sideways",
-    "link": "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html",
-    "source": "Hacker News",
-    "published": "2025-12-13T11:34:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46253836\">Comments</a>"
   }
 ]
