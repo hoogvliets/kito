@@ -324,25 +324,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- RSS Feed Loading Functions ---
 
     /**
-     * Load feed URLs from YAML config file
-     */
-    async function loadFeedConfig(configPath) {
-        try {
-            const response = await fetch(configPath);
-            if (!response.ok) {
-                console.error(`Failed to load config ${configPath}: HTTP ${response.status}`);
-                return [];
-            }
-            const yamlText = await response.text();
-            const config = jsyaml.load(yamlText);
-            return config.feeds || [];
-        } catch (error) {
-            console.error(`Failed to load config ${configPath}:`, error);
-            return [];
-        }
-    }
-
-    /**
      * Get cached feed data from LocalStorage
      */
     function getCachedFeed(cacheKey, ttl) {
@@ -539,37 +520,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /**
-     * Load feed page configuration from new YAML format
-     */
-    async function loadFeedPageConfig() {
-        try {
-            const response = await fetch('config/feed-pages.yaml');
-            if (!response.ok) {
-                console.log('feed-pages.yaml not found, will attempt migration from legacy config');
-                return null;
-            }
-            const yamlText = await response.text();
-            const config = jsyaml.load(yamlText);
-
-            // Convert to state format
-            return config.pages.map(page => ({
-                id: page.id,
-                name: page.name,
-                order: page.order,
-                feedSources: page.sources || [],
-                data: []
-            }));
-        } catch (error) {
-            console.error('Failed to load feed-pages.yaml:', error);
-            return null;
-        }
-    }
-
-    /**
-     * Initialize feed pages - load config or migrate from legacy
+     * Initialize feed pages from localStorage
      */
     async function initializeFeedPages() {
-        // Try to load from localStorage first
+        // Load from localStorage
         const cached = localStorage.getItem('feed-pages-config');
         if (cached) {
             try {
@@ -587,30 +541,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // Try new format
-        let pages = await loadFeedPageConfig();
-
-        // If new format doesn't exist, migrate from legacy
-        if (!pages) {
-            console.log('Migrating from legacy config files...');
-            const [techFeeds, newsFeeds, ballFeeds] = await Promise.all([
-                loadFeedConfig('config/tech-feed.yaml'),
-                loadFeedConfig('config/news-feed.yaml'),
-                loadFeedConfig('config/ball-feed.yaml')
-            ]);
-
-            pages = [
-                { id: 'tech', name: 'Tech', order: 0, feedSources: techFeeds, data: [] },
-                { id: 'news', name: 'News', order: 1, feedSources: newsFeeds, data: [] },
-                { id: 'ball', name: 'Ball', order: 2, feedSources: ballFeeds, data: [] }
-            ];
-
-            console.log('Migration complete, saving to localStorage');
-        }
-
-        // Save to localStorage for future use
-        saveFeedPageConfig(pages);
-        return pages;
+        // No cached config - return empty array
+        // User can create feed pages via the Config UI
+        console.log('No feed pages configured. Use Config view to create feed pages.');
+        return [];
     }
 
     /**
