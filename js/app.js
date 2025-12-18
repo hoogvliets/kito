@@ -316,6 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isFeedPage) {
             state.filters.source = 'all';
             applyFilters(); // Re-render feed when switching views
+            renderSidebar(); // Re-render sidebar for this feed page
         }
     }
 
