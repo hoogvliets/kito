@@ -1,5 +1,29 @@
 [
   {
+    "title": "RCE via ND6 Router Advertisements in FreeBSD",
+    "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+    "source": "Hacker News",
+    "published": "2025-12-18T08:12:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46310104\">Comments</a>"
+  },
+  {
+    "title": "What is an elliptic curve? (2019)",
+    "link": "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/",
+    "source": "Hacker News",
+    "published": "2025-12-18T06:40:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309571\">Comments</a>"
+  },
+  {
+    "title": "Egyptian Hieroglyphs: Lesson 1",
+    "link": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/",
+    "source": "Hacker News",
+    "published": "2025-12-18T06:08:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309407\">Comments</a>"
+  },
+  {
     "title": "More than half of researchers now use AI for peer review, often against guidance",
     "link": "https://www.nature.com/articles/d41586-025-04066-5",
     "source": "Hacker News",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46309124\">Comments</a>"
   },
   {
-    "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
-    "link": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
+    "title": "'Ghost jobs' are on the rise \u2013 and so are calls to ban them",
+    "link": "https://www.bbc.com/news/articles/clyzvpp8g3vo",
     "source": "Hacker News",
-    "published": "2025-12-18T05:01:00+00:00",
+    "published": "2025-12-18T05:06:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309039\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46309061\">Comments</a>"
   },
   {
     "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46307973\">Comments</a>"
   },
   {
-    "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
-    "link": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
+    "title": "Ask HN: Does anyone understand how Hacker News works?",
+    "link": "https://news.ycombinator.com/item?id=46307306",
     "source": "Hacker News",
-    "published": "2025-12-18T00:25:43+00:00",
+    "published": "2025-12-17T23:58:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46307500\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46307306\">Comments</a>"
   },
   {
     "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
@@ -70,14 +94,6 @@
     "published": "2025-12-17T20:59:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46305428\">Comments</a>"
-  },
-  {
-    "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
-    "link": "https://pypi.org/project/wavelet-matrix/",
-    "source": "Hacker News",
-    "published": "2025-12-17T19:35:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46304413\">Comments</a>"
   },
   {
     "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
@@ -142,21 +158,5 @@
     "published": "2025-12-15T05:54:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46270918\">Comments</a>"
-  },
-  {
-    "title": "My payment agent is named George, not stripe-agent",
-    "link": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
-    "source": "Hacker News",
-    "published": "2025-12-14T18:55:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46265684\">Comments</a>"
-  },
-  {
-    "title": "Zmij: Faster floating point double-to-string conversion",
-    "link": "https://vitaut.net/posts/2025/faster-dtoa/",
-    "source": "Hacker News",
-    "published": "2025-12-14T15:42:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46263821\">Comments</a>"
   }
 ]
