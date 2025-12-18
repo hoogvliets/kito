@@ -541,10 +541,15 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // No cached config - return empty array
-        // User can create feed pages via the Config UI
-        console.log('No feed pages configured. Use Config view to create feed pages.');
-        return [];
+        // No cached config - create default feed page
+        console.log('No feed pages configured. Creating default feed page.');
+        const defaultPages = [
+            { id: 'feeds', name: 'Feeds', order: 0, feedSources: [], data: [] }
+        ];
+
+        // Save default configuration
+        saveFeedPageConfig(defaultPages);
+        return defaultPages;
     }
 
     /**
