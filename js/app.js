@@ -501,6 +501,7 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     async function fetchHackerNews() {
         const url = 'https://news.ycombinator.com/rss';
+
         console.log('🔄 Fetching Hacker News from:', url);
 
         try {
@@ -838,10 +839,14 @@ document.addEventListener('DOMContentLoaded', () => {
         sentinel.id = 'scroll-sentinel';
         sentinel.className = 'loading-indicator';
         sentinel.textContent = 'Loading more...';
-        let container;
-        if (state.currentView === 'news') container = newsFeedContainer;
-        else if (state.currentView === 'ball') container = ballFeedContainer;
-        else container = feedContainer;
+
+        // Use dynamic container lookup for feed pages
+        const container = document.getElementById(`${state.currentView}-feed-container`);
+
+        if (!container) {
+            console.error('Feed container not found for infinite scroll:', state.currentView);
+            return;
+        }
 
         container.appendChild(sentinel);
 
