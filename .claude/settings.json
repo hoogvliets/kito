@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allowedTools": [
+      "Read",
+      "Write(src/**)",
+      "Write(tests/**)",
+      "Bash(uv *)",
+      "Bash(pytest *)",
+      "Bash(git *)"
+    ],
+    "deny": [
+      "Read(.env*)",
+      "Write(.claude/**)",
+      "Read(./secrets/**)",
+      "Write(./config/*)",
+      "Bash(rm -rf *)",
+      "Bash(sudo *)"
+    ]
+  }
+}
