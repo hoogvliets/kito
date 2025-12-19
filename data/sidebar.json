@@ -1,5 +1,21 @@
 [
   {
+    "title": "Show HN: Orbit a systems level programming language that compiles .sh to LLVM",
+    "link": "https://github.com/SIE-Libraries/orbit",
+    "source": "Hacker News",
+    "published": "2025-12-19T08:54:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46323693\">Comments</a>"
+  },
+  {
+    "title": "Making Google Sans Flex",
+    "link": "https://design.google/library/google-sans-flex-font",
+    "source": "Hacker News",
+    "published": "2025-12-19T06:10:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322732\">Comments</a>"
+  },
+  {
     "title": "2026 Apple introducing more ads to increase opportunity in search results",
     "link": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
     "source": "Hacker News",
@@ -8,12 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46322556\">Comments</a>"
   },
   {
-    "title": "Getting bitten by Intel's poor naming scenes",
+    "title": "Getting bitten by Intel's poor naming schemes",
     "link": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
     "source": "Hacker News",
     "published": "2025-12-19T05:35:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46322540\">Comments</a>"
+  },
+  {
+    "title": "Reconstructed Commander Keen 1-3 Source Code",
+    "link": "https://pckf.com/viewtopic.php?t=18248",
+    "source": "Hacker News",
+    "published": "2025-12-19T03:26:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46321982\">Comments</a>"
   },
   {
     "title": "Noclip.website \u2013 A digital museum of video game levels",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46321350\">Comments</a>"
   },
   {
-    "title": "Great ideas in theoretical computer science",
-    "link": "https://www.cs251.com/",
+    "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
+    "link": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
     "source": "Hacker News",
-    "published": "2025-12-18T22:52:06+00:00",
+    "published": "2025-12-18T23:40:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319946\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46320395\">Comments</a>"
   },
   {
     "title": "History LLMs: Models trained exclusively on pre-1913 texts",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46316367\">Comments</a>"
   },
   {
-    "title": "Skills for organizations, partners, the ecosystem",
-    "link": "https://claude.com/blog/organization-skills-and-directory",
-    "source": "Hacker News",
-    "published": "2025-12-18T17:04:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46315414\">Comments</a>"
-  },
-  {
     "title": "Beginning January 2026, all ACM publications will be made open access",
     "link": "https://dl.acm.org/openaccess",
     "source": "Hacker News",
@@ -102,14 +118,6 @@
     "published": "2025-12-16T21:04:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294456\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
-    "link": "https://github.com/vivienhenz24/fuzzy-canary",
-    "source": "Hacker News",
-    "published": "2025-12-16T20:42:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46294144\">Comments</a>"
   },
   {
     "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
@@ -128,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290349\">Comments</a>"
   },
   {
-    "title": "The Code That Revolutionized Orbital Simulation [video]",
-    "link": "https://www.youtube.com/watch?v=nCg3aXn5F3M",
+    "title": "Pingfs: Stores your data in ICMP ping packets",
+    "link": "https://github.com/yarrick/pingfs",
     "source": "Hacker News",
-    "published": "2025-12-14T20:25:25+00:00",
+    "published": "2025-12-14T05:09:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266497\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46260901\">Comments</a>"
+  },
+  {
+    "title": "From Zero to QED: An informal introduction to formality with Lean 4",
+    "link": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+    "source": "Hacker News",
+    "published": "2025-12-13T23:42:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46259343\">Comments</a>"
   },
   {
     "title": "The state of the kernel Rust experiment",
@@ -142,21 +158,5 @@
     "published": "2025-12-13T07:14:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46252712\">Comments</a>"
-  },
-  {
-    "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
-    "link": "https://github.com/fastserial/lite3",
-    "source": "Hacker News",
-    "published": "2025-12-13T02:31:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46251460\">Comments</a>"
-  },
-  {
-    "title": "Telegraph chess: A 19th century tech marvel",
-    "link": "https://spectrum.ieee.org/telegraph-chess",
-    "source": "Hacker News",
-    "published": "2025-12-12T11:59:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46243311\">Comments</a>"
   }
 ]
