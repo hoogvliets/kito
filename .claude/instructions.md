@@ -65,7 +65,7 @@ When working on this project, always adhere to these constraints:
 * Choose from one of the following prefixes:
     - feature/ - new functionality
     - fix/ - bug fixes
-    -ui/ - UI changes
+    - ui/ - UI changes
     - ci/ - CI/CD changes
     - docs/ - documentation
     - refactor/ - code improvements without changing functionality
