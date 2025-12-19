@@ -1,5 +1,8 @@
 # kito - Personal Newsfeed Aggregator
 
+![Tests](https://github.com/hoogvliets/kito/workflows/Unit%20Tests/badge.svg)
+![Code Quality](https://github.com/hoogvliets/kito/workflows/Code%20Quality/badge.svg)
+
 kito is a minimalist, self-hosted personal newsfeed aggregator. It fetches content from Substack RSS feeds and Hacker News, presenting them in a clean, two-column layout. The project is designed to run entirely on GitHub Actions and GitHub Pages, requiring no external server infrastructure.
 
 ## Features
