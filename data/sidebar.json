@@ -1,5 +1,37 @@
 [
   {
+    "title": "Great Ideas in Theoretical Computer Science",
+    "link": "https://www.cs251.com/",
+    "source": "Hacker News",
+    "published": "2025-12-18T22:52:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319946\">Comments</a>"
+  },
+  {
+    "title": "Trained LLMs exclusively on pre-1913 texts",
+    "link": "https://github.com/DGoettlich/history-llms",
+    "source": "Hacker News",
+    "published": "2025-12-18T22:39:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319826\">Comments</a>"
+  },
+  {
+    "title": "1.5 TB of VRAM on Mac Studio \u2013 RDMA over Thunderbolt 5",
+    "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+    "source": "Hacker News",
+    "published": "2025-12-18T22:23:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319657\">Comments</a>"
+  },
+  {
+    "title": "AI vending machine was tricked into giving away everything",
+    "link": "https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything",
+    "source": "Hacker News",
+    "published": "2025-12-18T21:52:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319324\">Comments</a>"
+  },
+  {
     "title": "Delty (YC X25) Is Hiring an ML Engineer",
     "link": "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer",
     "source": "Hacker News",
@@ -8,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46318676\">Comments</a>"
   },
   {
-    "title": "Oliver Sacks put himself into his case studies \u2013 what was the cost?",
-    "link": "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost",
-    "source": "Hacker News",
-    "published": "2025-12-18T20:52:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46318544\">Comments</a>"
-  },
-  {
     "title": "T5Gemma 2: The next generation of encoder-decoder models",
     "link": "https://blog.google/technology/developers/t5gemma-2/",
     "source": "Hacker News",
     "published": "2025-12-18T19:48:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46317657\">Comments</a>"
-  },
-  {
-    "title": "How to hack Discord, Vercel and more with one easy trick",
-    "link": "https://kibty.town/blog/mintlify/",
-    "source": "Hacker News",
-    "published": "2025-12-18T19:41:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46317546\">Comments</a>"
   },
   {
     "title": "The Scottish Highlands, the Appalachians, Atlas are the same mountain range",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46317098\">Comments</a>"
   },
   {
-    "title": "The most banned books in U.S. schools",
-    "link": "https://pen.org/top-52-banned-books-since-2021/",
-    "source": "Hacker News",
-    "published": "2025-12-18T19:02:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46317012\">Comments</a>"
-  },
-  {
     "title": "How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips",
     "link": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
     "source": "Hacker News",
@@ -70,6 +78,14 @@
     "published": "2025-12-18T18:26:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46316533\">Comments</a>"
+  },
+  {
+    "title": "Firefox will have an option to disable all AI features",
+    "link": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
+    "source": "Hacker News",
+    "published": "2025-12-18T18:18:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46316409\">Comments</a>"
   },
   {
     "title": "GPT-5.2-Codex",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46313991\">Comments</a>"
   },
   {
-    "title": "Your job is to deliver code you have proven to work",
-    "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-    "source": "Hacker News",
-    "published": "2025-12-18T14:52:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46313297\">Comments</a>"
-  },
-  {
     "title": "Classical statues were not painted horribly",
     "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
     "source": "Hacker News",
@@ -128,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294456\">Comments</a>"
   },
   {
-    "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog",
+    "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
     "link": "https://github.com/vivienhenz24/fuzzy-canary",
     "source": "Hacker News",
     "published": "2025-12-16T20:42:38+00:00",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294144\">Comments</a>"
   },
   {
-    "title": "Meta Segment Anything Model Audio",
-    "link": "https://ai.meta.com/samaudio/",
+    "title": "I've been writing ring buffers wrong all these years (2016)",
+    "link": "https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/",
     "source": "Hacker News",
-    "published": "2025-12-16T18:26:43+00:00",
+    "published": "2025-12-16T19:11:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46292266\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46292937\">Comments</a>"
   },
   {
     "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
@@ -150,13 +158,5 @@
     "published": "2025-12-16T16:12:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290349\">Comments</a>"
-  },
-  {
-    "title": "How I wrote JustHTML, a Python-based HTML5 parser, using coding agents",
-    "link": "https://friendlybit.com/python/writing-justhtml-with-coding-agents/",
-    "source": "Hacker News",
-    "published": "2025-12-14T16:26:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46264195\">Comments</a>"
   }
 ]
