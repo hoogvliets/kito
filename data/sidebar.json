@@ -1,11 +1,35 @@
 [
   {
-    "title": "Show HN: Orbit a systems level programming language that compiles .sh to LLVM",
-    "link": "https://github.com/SIE-Libraries/orbit",
+    "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
+    "link": "https://github.com/moasq/production-saas-starter",
     "source": "Hacker News",
-    "published": "2025-12-19T08:54:25+00:00",
+    "published": "2025-12-19T11:34:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46323693\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
+    "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
+    "source": "Hacker News",
+    "published": "2025-12-19T11:21:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324579\">Comments</a>"
+  },
+  {
+    "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
+    "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+    "source": "Hacker News",
+    "published": "2025-12-19T11:16:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324543\">Comments</a>"
+  },
+  {
+    "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+    "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+    "source": "Hacker News",
+    "published": "2025-12-19T10:03:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324078\">Comments</a>"
   },
   {
     "title": "Making Google Sans Flex",
@@ -14,14 +38,6 @@
     "published": "2025-12-19T06:10:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46322732\">Comments</a>"
-  },
-  {
-    "title": "2026 Apple introducing more ads to increase opportunity in search results",
-    "link": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
-    "source": "Hacker News",
-    "published": "2025-12-19T05:38:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322556\">Comments</a>"
   },
   {
     "title": "Getting bitten by Intel's poor naming schemes",
@@ -46,22 +62,6 @@
     "published": "2025-12-19T02:20:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46321619\">Comments</a>"
-  },
-  {
-    "title": "SMB Direct \u2013 SMB3 over RDMA \u2013 The Linux Kernel Documentation",
-    "link": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
-    "source": "Hacker News",
-    "published": "2025-12-19T01:42:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46321350\">Comments</a>"
-  },
-  {
-    "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
-    "link": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
-    "source": "Hacker News",
-    "published": "2025-12-18T23:40:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46320395\">Comments</a>"
   },
   {
     "title": "History LLMs: Models trained exclusively on pre-1913 texts",
@@ -120,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294456\">Comments</a>"
   },
   {
-    "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+    "title": "Prompt caching for cheaper LLM tokens",
     "link": "https://ngrok.com/blog/prompt-caching/",
     "source": "Hacker News",
     "published": "2025-12-16T16:32:27+00:00",
@@ -128,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290620\">Comments</a>"
   },
   {
-    "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
-    "link": "https://jgthms.com/picknplace.js/",
+    "title": "Show HN: CommerceTXT \u2013 An open standard for AI shopping context (like llms.txt)",
+    "link": "https://commercetxt.org/",
     "source": "Hacker News",
-    "published": "2025-12-16T16:12:06+00:00",
+    "published": "2025-12-16T15:12:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290349\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46289481\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I implemented generics in my programming language",
+    "link": "https://axe-docs.pages.dev/features/generics/",
+    "source": "Hacker News",
+    "published": "2025-12-15T02:20:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46269673\">Comments</a>"
   },
   {
     "title": "Pingfs: Stores your data in ICMP ping packets",
@@ -150,13 +158,5 @@
     "published": "2025-12-13T23:42:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46259343\">Comments</a>"
-  },
-  {
-    "title": "The state of the kernel Rust experiment",
-    "link": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
-    "source": "Hacker News",
-    "published": "2025-12-13T07:14:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46252712\">Comments</a>"
   }
 ]
