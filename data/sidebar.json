@@ -1,21 +1,5 @@
 [
   {
-    "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-    "link": "https://github.com/moasq/production-saas-starter",
-    "source": "Hacker News",
-    "published": "2025-12-19T11:34:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
-    "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
-    "source": "Hacker News",
-    "published": "2025-12-19T11:21:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324579\">Comments</a>"
-  },
-  {
     "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
     "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
     "source": "Hacker News",
@@ -30,14 +14,6 @@
     "published": "2025-12-19T10:03:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46324078\">Comments</a>"
-  },
-  {
-    "title": "Making Google Sans Flex",
-    "link": "https://design.google/library/google-sans-flex-font",
-    "source": "Hacker News",
-    "published": "2025-12-19T06:10:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322732\">Comments</a>"
   },
   {
     "title": "Getting bitten by Intel's poor naming schemes",
@@ -128,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46290620\">Comments</a>"
   },
   {
-    "title": "Show HN: CommerceTXT \u2013 An open standard for AI shopping context (like llms.txt)",
-    "link": "https://commercetxt.org/",
+    "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
+    "link": "https://jgthms.com/picknplace.js/",
     "source": "Hacker News",
-    "published": "2025-12-16T15:12:37+00:00",
+    "published": "2025-12-16T16:12:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46289481\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290349\">Comments</a>"
+  },
+  {
+    "title": "Designing a Passive Lidar Detector Device",
+    "link": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
+    "source": "Hacker News",
+    "published": "2025-12-15T22:01:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46281355\">Comments</a>"
   },
   {
     "title": "Show HN: I implemented generics in my programming language",
@@ -142,6 +126,14 @@
     "published": "2025-12-15T02:20:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46269673\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Stepped Actions \u2013 distributed workflow orchestration for Rails",
+    "link": "https://github.com/envirobly/stepped",
+    "source": "Hacker News",
+    "published": "2025-12-14T09:29:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46261884\">Comments</a>"
   },
   {
     "title": "Pingfs: Stores your data in ICMP ping packets",
@@ -158,5 +150,13 @@
     "published": "2025-12-13T23:42:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46259343\">Comments</a>"
+  },
+  {
+    "title": "How to think about durable execution",
+    "link": "https://hatchet.run/blog/durable-execution",
+    "source": "Hacker News",
+    "published": "2025-12-12T15:49:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46245238\">Comments</a>"
   }
 ]
