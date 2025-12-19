@@ -1,11 +1,35 @@
 [
   {
+    "title": "2026 Apple introducing more ads to increase opportunity in search results",
+    "link": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
+    "source": "Hacker News",
+    "published": "2025-12-19T05:38:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322556\">Comments</a>"
+  },
+  {
+    "title": "Getting bitten by Intel's poor naming scenes",
+    "link": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+    "source": "Hacker News",
+    "published": "2025-12-19T05:35:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322540\">Comments</a>"
+  },
+  {
     "title": "Noclip.website \u2013 A digital museum of video game levels",
     "link": "https://noclip.website/",
     "source": "Hacker News",
     "published": "2025-12-19T02:20:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46321619\">Comments</a>"
+  },
+  {
+    "title": "SMB Direct \u2013 SMB3 over RDMA \u2013 The Linux Kernel Documentation",
+    "link": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
+    "source": "Hacker News",
+    "published": "2025-12-19T01:42:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46321350\">Comments</a>"
   },
   {
     "title": "Great ideas in theoretical computer science",
@@ -16,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46319946\">Comments</a>"
   },
   {
-    "title": "Trained LLMs exclusively on pre-1913 texts",
+    "title": "History LLMs: Models trained exclusively on pre-1913 texts",
     "link": "https://github.com/DGoettlich/history-llms",
     "source": "Hacker News",
     "published": "2025-12-18T22:39:47+00:00",
@@ -30,30 +54,6 @@
     "published": "2025-12-18T22:23:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46319657\">Comments</a>"
-  },
-  {
-    "title": "AI vending machine was tricked into giving away everything",
-    "link": "https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything",
-    "source": "Hacker News",
-    "published": "2025-12-18T21:52:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46319324\">Comments</a>"
-  },
-  {
-    "title": "Delty (YC X25) Is Hiring an ML Engineer",
-    "link": "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer",
-    "source": "Hacker News",
-    "published": "2025-12-18T21:02:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46318676\">Comments</a>"
-  },
-  {
-    "title": "T5Gemma 2: The next generation of encoder-decoder models",
-    "link": "https://blog.google/technology/developers/t5gemma-2/",
-    "source": "Hacker News",
-    "published": "2025-12-18T19:48:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46317657\">Comments</a>"
   },
   {
     "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
@@ -70,22 +70,6 @@
     "published": "2025-12-18T18:55:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46316907\">Comments</a>"
-  },
-  {
-    "title": "FunctionGemma 270M Model",
-    "link": "https://blog.google/technology/developers/functiongemma/",
-    "source": "Hacker News",
-    "published": "2025-12-18T18:26:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46316533\">Comments</a>"
-  },
-  {
-    "title": "Firefox will have an option to disable all AI features",
-    "link": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
-    "source": "Hacker News",
-    "published": "2025-12-18T18:18:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46316409\">Comments</a>"
   },
   {
     "title": "GPT-5.2-Codex",
@@ -112,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46313991\">Comments</a>"
   },
   {
-    "title": "Classical statues were not painted horribly",
-    "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-    "source": "Hacker News",
-    "published": "2025-12-18T12:28:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46311856\">Comments</a>"
-  },
-  {
     "title": "Texas is suing all of the big TV makers for spying on what you watch",
     "link": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
     "source": "Hacker News",
@@ -136,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294144\">Comments</a>"
   },
   {
-    "title": "Meta Segment Anything Model Audio",
-    "link": "https://ai.meta.com/samaudio/",
+    "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+    "link": "https://ngrok.com/blog/prompt-caching/",
     "source": "Hacker News",
-    "published": "2025-12-16T18:26:43+00:00",
+    "published": "2025-12-16T16:32:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46292266\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46290620\">Comments</a>"
   },
   {
     "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
@@ -158,5 +134,29 @@
     "published": "2025-12-14T20:25:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46266497\">Comments</a>"
+  },
+  {
+    "title": "The state of the kernel Rust experiment",
+    "link": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
+    "source": "Hacker News",
+    "published": "2025-12-13T07:14:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46252712\">Comments</a>"
+  },
+  {
+    "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+    "link": "https://github.com/fastserial/lite3",
+    "source": "Hacker News",
+    "published": "2025-12-13T02:31:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46251460\">Comments</a>"
+  },
+  {
+    "title": "Telegraph chess: A 19th century tech marvel",
+    "link": "https://spectrum.ieee.org/telegraph-chess",
+    "source": "Hacker News",
+    "published": "2025-12-12T11:59:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46243311\">Comments</a>"
   }
 ]
