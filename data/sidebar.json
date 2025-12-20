@@ -1,5 +1,21 @@
 [
   {
+    "title": "Immersa: Open-source Web-based 3D Presentation Tool",
+    "link": "https://github.com/ertugrulcetin/immersa",
+    "source": "Hacker News",
+    "published": "2025-12-20T13:38:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336097\">Comments</a>"
+  },
+  {
+    "title": "Approaching 50 Years of String Theory",
+    "link": "https://www.math.columbia.edu/~woit/wordpress/?p=15401",
+    "source": "Hacker News",
+    "published": "2025-12-20T13:20:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46335994\">Comments</a>"
+  },
+  {
     "title": "Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)",
     "link": "https://news.ycombinator.com/item?id=46335552",
     "source": "Hacker News",
@@ -16,12 +32,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46334990\">Comments</a>"
   },
   {
+    "title": "Reflections on AI at the End of 2025",
+    "link": "https://antirez.com/news/157",
+    "source": "Hacker News",
+    "published": "2025-12-20T09:38:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46334819\">Comments</a>"
+  },
+  {
     "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
     "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
     "source": "Hacker News",
     "published": "2025-12-20T08:36:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46334533\">Comments</a>"
+  },
+  {
+    "title": "A train-sized tunnel is now carrying electricity under South London",
+    "link": "https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/",
+    "source": "Hacker News",
+    "published": "2025-12-20T08:26:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46334483\">Comments</a>"
   },
   {
     "title": "Skills Officially Comes to Codex",
@@ -64,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46333983\">Comments</a>"
   },
   {
-    "title": "The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All",
-    "link": "https://thompson2026.com/blog/deviancy-signal/",
-    "source": "Hacker News",
-    "published": "2025-12-20T05:24:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46333830\">Comments</a>"
-  },
-  {
     "title": "CSS Grid Lanes",
     "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
     "source": "Hacker News",
@@ -80,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46331586\">Comments</a>"
   },
   {
-    "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
-    "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-    "source": "Hacker News",
-    "published": "2025-12-19T18:19:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46329038\">Comments</a>"
-  },
-  {
-    "title": "Graphite is joining Cursor",
-    "link": "https://cursor.com/blog/graphite",
-    "source": "Hacker News",
-    "published": "2025-12-19T15:57:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46327206\">Comments</a>"
-  },
-  {
     "title": "Garage \u2013 An S3 object store so reliable you can run it outside datacenters",
     "link": "https://garagehq.deuxfleurs.fr/",
     "source": "Hacker News",
     "published": "2025-12-19T15:40:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46326984\">Comments</a>"
-  },
-  {
-    "title": "8-bit Bol\u00e9ro",
-    "link": "https://linusakesson.net/music/bolero/index.php",
-    "source": "Hacker News",
-    "published": "2025-12-19T11:38:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324702\">Comments</a>"
   },
   {
     "title": "Mistral OCR 3",
@@ -128,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46301847\">Comments</a>"
   },
   {
-    "title": "Sharp: High performance Node.js image processing/optimization",
-    "link": "https://github.com/lovell/sharp",
+    "title": "Arduino UNO Q bridges high-performance computing with real-time control",
+    "link": "https://www.arduino.cc/product-uno-q/",
     "source": "Hacker News",
-    "published": "2025-12-16T17:36:03+00:00",
+    "published": "2025-12-16T18:02:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291477\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46291870\">Comments</a>"
+  },
+  {
+    "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
+    "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+    "source": "Hacker News",
+    "published": "2025-12-16T12:48:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46287848\">Comments</a>"
+  },
+  {
+    "title": "A proof of concept of a semistable C++ vector container",
+    "link": "https://github.com/joaquintides/semistable_vector",
+    "source": "Hacker News",
+    "published": "2025-12-16T12:18:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46287632\">Comments</a>"
   },
   {
     "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
@@ -142,21 +158,5 @@
     "published": "2025-12-16T03:43:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46284514\">Comments</a>"
-  },
-  {
-    "title": "Fuzix on a Raspberry Pi Pico",
-    "link": "https://ewpratten.com/blog/fuzix-pi-pico",
-    "source": "Hacker News",
-    "published": "2025-12-15T06:31:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46271115\">Comments</a>"
-  },
-  {
-    "title": "Hash tables in Go and advantage of self-hosted compilers",
-    "link": "https://rushter.com/blog/go-and-hashmaps/",
-    "source": "Hacker News",
-    "published": "2025-12-14T19:32:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46266003\">Comments</a>"
   }
 ]
