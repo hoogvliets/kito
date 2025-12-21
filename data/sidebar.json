@@ -1,6 +1,38 @@
 [
   {
-    "title": "'LeBron James of spreadsheets' wins world Microsoft Excel title",
+    "title": "More databases should be single-threaded",
+    "link": "https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/",
+    "source": "Hacker News",
+    "published": "2025-12-20T22:12:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46340117\">Comments</a>"
+  },
+  {
+    "title": "Claude in Chrome",
+    "link": "https://claude.com/chrome",
+    "source": "Hacker News",
+    "published": "2025-12-20T21:26:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46339777\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Jmail \u2013 Google Suite for Epstein files",
+    "link": "https://www.jmail.world",
+    "source": "Hacker News",
+    "published": "2025-12-20T21:00:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46339600\">Comments</a>"
+  },
+  {
+    "title": "MIRA \u2013 An open-source persistent AI entity with memory",
+    "link": "https://github.com/taylorsatula/mira-OSS",
+    "source": "Hacker News",
+    "published": "2025-12-20T20:50:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46339537\">Comments</a>"
+  },
+  {
+    "title": "Ireland\u2019s Diarmuid Early wins world Microsoft Excel title",
     "link": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
     "source": "Hacker News",
     "published": "2025-12-20T19:56:47+00:00",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46339031\">Comments</a>"
   },
   {
-    "title": "I spent a week without IPv4",
+    "title": "I spent a week without IPv4 (2023)",
     "link": "https://www.apalrd.net/posts/2023/network_ipv6/",
     "source": "Hacker News",
     "published": "2025-12-20T18:31:23+00:00",
@@ -22,14 +54,6 @@
     "published": "2025-12-20T18:28:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46338339\">Comments</a>"
-  },
-  {
-    "title": "Mathematicians don't care about foundations",
-    "link": "https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/",
-    "source": "Hacker News",
-    "published": "2025-12-20T18:15:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46338239\">Comments</a>"
   },
   {
     "title": "Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)",
@@ -48,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46338016\">Comments</a>"
   },
   {
-    "title": "OpenSCAD Is Kinda Neat",
+    "title": "OpenSCAD is kinda neat",
     "link": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
     "source": "Hacker News",
     "published": "2025-12-20T17:45:48+00:00",
@@ -62,14 +86,6 @@
     "published": "2025-12-20T16:45:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46337438\">Comments</a>"
-  },
-  {
-    "title": "Why do people leave comments on OpenBenches?",
-    "link": "https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/",
-    "source": "Hacker News",
-    "published": "2025-12-20T16:08:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46337134\">Comments</a>"
   },
   {
     "title": "Go ahead, self-host Postgres",
@@ -88,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46336104\">Comments</a>"
   },
   {
-    "title": "Immersa: Open-source Web-based 3D Presentation Tool",
-    "link": "https://github.com/ertugrulcetin/immersa",
-    "source": "Hacker News",
-    "published": "2025-12-20T13:38:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336097\">Comments</a>"
-  },
-  {
-    "title": "Skills Officially Comes to Codex",
-    "link": "https://developers.openai.com/codex/skills/",
-    "source": "Hacker News",
-    "published": "2025-12-20T08:09:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46334424\">Comments</a>"
-  },
-  {
     "title": "NTP at NIST Boulder Has Lost Power",
     "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
     "source": "Hacker News",
     "published": "2025-12-20T07:39:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46334299\">Comments</a>"
-  },
-  {
-    "title": "CSS Grid Lanes",
-    "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-    "source": "Hacker News",
-    "published": "2025-12-19T22:13:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46331586\">Comments</a>"
   },
   {
     "title": "Log level 'error' should mean that something needs to be fixed",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46287848\">Comments</a>"
   },
   {
-    "title": "Detailed balance in large language model-driven agents",
-    "link": "https://arxiv.org/abs/2512.10047",
+    "title": "How to Write a 21st Century Proof (2011) [pdf]",
+    "link": "https://lamport.azurewebsites.net/pubs/proof.pdf",
     "source": "Hacker News",
-    "published": "2025-12-16T12:17:08+00:00",
+    "published": "2025-12-16T05:46:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46287626\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46285208\">Comments</a>"
+  },
+  {
+    "title": "Italian bears living near villages have evolved to be smaller and less agressive",
+    "link": "https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html",
+    "source": "Hacker News",
+    "published": "2025-12-15T13:30:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46274272\">Comments</a>"
   }
 ]
