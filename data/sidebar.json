@@ -1,11 +1,27 @@
 [
   {
-    "title": "Weight loss jabs: What happens when you stop taking them",
-    "link": "https://www.bbc.com/news/articles/cn98pdpyjz5o",
+    "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
+    "link": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
     "source": "Hacker News",
-    "published": "2025-12-21T19:58:11+00:00",
+    "published": "2025-12-21T21:46:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46347846\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46348847\">Comments</a>"
+  },
+  {
+    "title": "A guide to local coding models",
+    "link": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+    "source": "Hacker News",
+    "published": "2025-12-21T20:55:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46348329\">Comments</a>"
+  },
+  {
+    "title": "Rue: Higher level than Rust, lower level than Go",
+    "link": "https://rue-lang.dev/",
+    "source": "Hacker News",
+    "published": "2025-12-21T20:46:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46348262\">Comments</a>"
   },
   {
     "title": "I can't upgrade to Windows 11, now leave me alone",
@@ -16,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46347108\">Comments</a>"
   },
   {
-    "title": "Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"",
+    "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
     "link": "https://mastodon.online/@mullvadnet/115742530333573065",
     "source": "Hacker News",
     "published": "2025-12-21T18:39:46+00:00",
@@ -32,20 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46346958\">Comments</a>"
   },
   {
-    "title": "Logging Sucks",
-    "link": "https://loggingsucks.com/",
-    "source": "Hacker News",
-    "published": "2025-12-21T18:09:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46346796\">Comments</a>"
-  },
-  {
     "title": "Get an AI code review in 10 seconds",
     "link": "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/",
     "source": "Hacker News",
     "published": "2025-12-21T17:21:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46346391\">Comments</a>"
+  },
+  {
+    "title": "Autoland saves King Air, everyone reported safe",
+    "link": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
+    "source": "Hacker News",
+    "published": "2025-12-21T16:57:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46346214\">Comments</a>"
   },
   {
     "title": "Show HN: Books mentioned on Hacker News in 2025",
@@ -96,38 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46345333\">Comments</a>"
   },
   {
-    "title": "Three Ways to Solve Problems",
-    "link": "https://andreasfragner.com/writing/three-ways-to-solve-problems",
-    "source": "Hacker News",
-    "published": "2025-12-21T14:35:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46345125\">Comments</a>"
-  },
-  {
-    "title": "Show HN: RenderCV \u2013 Open-source CV/resume generator, YAML to PDF",
-    "link": "https://github.com/rendercv/rendercv",
-    "source": "Hacker News",
-    "published": "2025-12-21T13:15:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46344616\">Comments</a>"
-  },
-  {
-    "title": "Coarse Is Better",
-    "link": "https://borretti.me/article/coarse-is-better",
-    "source": "Hacker News",
-    "published": "2025-12-21T12:57:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46344514\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Shittp \u2013 Volatile Dotfiles over SSH",
-    "link": "https://github.com/FOBshippingpoint/shittp",
-    "source": "Hacker News",
-    "published": "2025-12-21T12:33:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46344381\">Comments</a>"
-  },
-  {
     "title": "Ruby website redesigned",
     "link": "https://www.ruby-lang.org/en/",
     "source": "Hacker News",
@@ -136,15 +120,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46342859\">Comments</a>"
   },
   {
-    "title": "Indoor tanning makes youthful skin much older on a genetic level",
-    "link": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
+    "title": "Evaluating chain-of-thought monitorability",
+    "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
     "source": "Hacker News",
-    "published": "2025-12-21T05:21:42+00:00",
+    "published": "2025-12-19T05:49:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46342447\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322631\">Comments</a>"
   },
   {
-    "title": "I Program on the Subway",
+    "title": "Perron: A Static Site Generator for Ruby on Rails",
+    "link": "https://perron-site.statichost.page/",
+    "source": "Hacker News",
+    "published": "2025-12-18T23:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46320353\">Comments</a>"
+  },
+  {
+    "title": "I program on the subway",
     "link": "https://www.scd31.com/posts/programming-on-the-subway",
     "source": "Hacker News",
     "published": "2025-12-16T21:23:18+00:00",
@@ -152,7 +144,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46294694\">Comments</a>"
   },
   {
-    "title": "Show HN: Autograd.c \u2013 a tiny ML framework built from scratch",
+    "title": "I'm just having fun",
+    "link": "https://jyn.dev/i-m-just-having-fun/",
+    "source": "Hacker News",
+    "published": "2025-12-16T11:19:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46287253\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Autograd.c \u2013 A tiny ML framework built from scratch",
     "link": "https://github.com/sueszli/autograd.c",
     "source": "Hacker News",
     "published": "2025-12-16T06:26:01+00:00",
