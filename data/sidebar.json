@@ -1,43 +1,27 @@
 [
   {
-    "title": "The 60 Minutes report that Bari Weiss censored is now internet contraband",
-    "link": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+    "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
+    "link": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
     "source": "Hacker News",
-    "published": "2025-12-23T03:14:46+00:00",
+    "published": "2025-12-23T03:57:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46362032\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46362275\">Comments</a>"
   },
   {
-    "title": "Snitch \u2013 A friendly Netstat alternative for humans",
+    "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
+    "link": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
+    "source": "Hacker News",
+    "published": "2025-12-23T01:49:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361510\">Comments</a>"
+  },
+  {
+    "title": "Snitch \u2013 A friendlier ss/netstat",
     "link": "https://github.com/karol-broda/snitch",
     "source": "Hacker News",
     "published": "2025-12-23T01:03:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46361229\">Comments</a>"
-  },
-  {
-    "title": "Laptop Isn't Ready for LLMs. That's About to Change",
-    "link": "https://spectrum.ieee.org/ai-models-locally",
-    "source": "Hacker News",
-    "published": "2025-12-23T00:12:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360856\">Comments</a>"
-  },
-  {
-    "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
-    "link": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
-    "source": "Hacker News",
-    "published": "2025-12-22T23:23:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360465\">Comments</a>"
-  },
-  {
-    "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-    "link": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-    "source": "Hacker News",
-    "published": "2025-12-22T22:35:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46359996\">Comments</a>"
   },
   {
     "title": "It's Always TCP_NODELAY",
@@ -120,6 +104,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46354970\">Comments</a>"
   },
   {
+    "title": "The biggest CRT ever made: Sony's PVM-4300",
+    "link": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
+    "source": "Hacker News",
+    "published": "2025-12-22T12:54:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46353777\">Comments</a>"
+  },
+  {
+    "title": "The Polyglot NixOS",
+    "link": "https://x86.lol/generic/2025/12/19/polyglot.html",
+    "source": "Hacker News",
+    "published": "2025-12-20T07:39:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46334297\">Comments</a>"
+  },
+  {
     "title": "FPGAs Need a New Future",
     "link": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
     "source": "Hacker News",
@@ -128,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46324269\">Comments</a>"
   },
   {
-    "title": "Show HN: Python SDK \u2013 forecasting with foundation time-series and tabular models",
-    "link": "https://github.com/S-FM/faim-python-client",
+    "title": "Plugins case study: mdBook preprocessors",
+    "link": "https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/",
     "source": "Hacker News",
-    "published": "2025-12-18T11:33:28+00:00",
+    "published": "2025-12-18T12:47:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46311450\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46311993\">Comments</a>"
   },
   {
     "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
