@@ -1,5 +1,29 @@
 [
   {
+    "title": "The 60 Minutes report that Bari Weiss censored is now internet contraband",
+    "link": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+    "source": "Hacker News",
+    "published": "2025-12-23T03:14:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46362032\">Comments</a>"
+  },
+  {
+    "title": "Snitch \u2013 A friendly Netstat alternative for humans",
+    "link": "https://github.com/karol-broda/snitch",
+    "source": "Hacker News",
+    "published": "2025-12-23T01:03:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361229\">Comments</a>"
+  },
+  {
+    "title": "Laptop Isn't Ready for LLMs. That's About to Change",
+    "link": "https://spectrum.ieee.org/ai-models-locally",
+    "source": "Hacker News",
+    "published": "2025-12-23T00:12:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360856\">Comments</a>"
+  },
+  {
     "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
     "link": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
     "source": "Hacker News",
@@ -8,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46360465\">Comments</a>"
   },
   {
-    "title": "NPM Package with 56K Downloads Caught Stealing WhatsApp Messages",
+    "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
     "link": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
     "source": "Hacker News",
     "published": "2025-12-22T22:35:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46359996\">Comments</a>"
-  },
-  {
-    "title": "Tc \u2013 Theodore Calvin's language-agnostic testing framework",
-    "link": "https://github.com/ahoward/tc",
-    "source": "Hacker News",
-    "published": "2025-12-22T22:03:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46359683\">Comments</a>"
   },
   {
     "title": "It's Always TCP_NODELAY",
@@ -38,14 +54,6 @@
     "published": "2025-12-22T19:37:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46357945\">Comments</a>"
-  },
-  {
-    "title": "US blocks all offshore wind construction, says reason is classified",
-    "link": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
-    "source": "Hacker News",
-    "published": "2025-12-22T19:31:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357881\">Comments</a>"
   },
   {
     "title": "The Garbage Collection Handbook",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46357458\">Comments</a>"
   },
   {
-    "title": "Things I learnt about passkeys when building passkeybot",
-    "link": "https://enzom.dev/b/passkeys/",
-    "source": "Hacker News",
-    "published": "2025-12-22T18:58:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357451\">Comments</a>"
-  },
-  {
     "title": "GLM-4.7: Advancing the Coding Capability",
     "link": "https://z.ai/blog/glm-4.7",
     "source": "Hacker News",
@@ -94,14 +94,6 @@
     "published": "2025-12-22T17:01:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46355949\">Comments</a>"
-  },
-  {
-    "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
-    "link": "https://www.useparallel.com/uplane1/careers",
-    "source": "Hacker News",
-    "published": "2025-12-22T17:00:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46355932\">Comments</a>"
   },
   {
     "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
@@ -128,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46354970\">Comments</a>"
   },
   {
-    "title": "The biggest CRT ever made: Sony's PVM-4300",
-    "link": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
-    "source": "Hacker News",
-    "published": "2025-12-22T12:54:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46353777\">Comments</a>"
-  },
-  {
     "title": "FPGAs Need a New Future",
     "link": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
     "source": "Hacker News",
     "published": "2025-12-19T10:29:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46324269\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Python SDK \u2013 forecasting with foundation time-series and tabular models",
+    "link": "https://github.com/S-FM/faim-python-client",
+    "source": "Hacker News",
+    "published": "2025-12-18T11:33:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46311450\">Comments</a>"
   },
   {
     "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
@@ -158,5 +150,13 @@
     "published": "2025-12-17T19:19:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46304195\">Comments</a>"
+  },
+  {
+    "title": "Our New Sam Audio Model Transforms Audio Editing",
+    "link": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
+    "source": "Hacker News",
+    "published": "2025-12-16T20:25:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46293932\">Comments</a>"
   }
 ]
