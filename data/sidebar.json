@@ -1,11 +1,19 @@
 [
   {
-    "title": "What Is (AI) Glaze?",
-    "link": "https://glaze.cs.uchicago.edu/what-is-glaze.html",
+    "title": "Nearly 1 in 4 Americans Think They Have a Personal Social Security Account",
+    "link": "https://www.cato.org/blog/poll-nearly-1-4-americans-think-they-have-personal-social-security-account-3",
     "source": "Hacker News",
-    "published": "2025-12-23T11:07:42+00:00",
+    "published": "2025-12-23T14:40:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364338\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46365641\">Comments</a>"
+  },
+  {
+    "title": "Test, Don't (Just) Verify",
+    "link": "https://alperenkeles.com/posts/test-dont-verify/",
+    "source": "Hacker News",
+    "published": "2025-12-23T12:56:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364973\">Comments</a>"
   },
   {
     "title": "Ryanair fined \u20ac256M over \u2018abusive strategy\u2019 to limit ticket sales by OTAs",
@@ -24,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46364131\">Comments</a>"
   },
   {
-    "title": "What are the best engineering blogs with real-world depth (no fluff)?",
+    "title": "Ask HN: What are the best engineering blogs with real-world depth?",
     "link": "https://news.ycombinator.com/item?id=46363921",
     "source": "Hacker News",
     "published": "2025-12-23T09:50:31+00:00",
@@ -48,20 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46363360\">Comments</a>"
   },
   {
+    "title": "10 years bootstrapped: \u20ac6.5M revenue with a team of 13",
+    "link": "https://www.datocms.com/blog/a-look-back-at-2025",
+    "source": "Hacker News",
+    "published": "2025-12-23T07:50:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46363319\">Comments</a>"
+  },
+  {
     "title": "Show HN: CineCLI \u2013 Browse and torrent movies directly from your terminal",
     "link": "https://github.com/eyeblech/cinecli",
     "source": "Hacker News",
     "published": "2025-12-23T05:17:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46362655\">Comments</a>"
-  },
-  {
-    "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
-    "link": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
-    "source": "Hacker News",
-    "published": "2025-12-23T01:49:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361510\">Comments</a>"
   },
   {
     "title": "Snitch \u2013 A friendlier ss/netstat",
@@ -86,14 +94,6 @@
     "published": "2025-12-22T19:37:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46357945\">Comments</a>"
-  },
-  {
-    "title": "The Garbage Collection Handbook",
-    "link": "https://gchandbook.org/index.html",
-    "source": "Hacker News",
-    "published": "2025-12-22T19:30:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357870\">Comments</a>"
   },
   {
     "title": "The Illustrated Transformer",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46313962\">Comments</a>"
   },
   {
-    "title": "Solving the Problems of HBM-on-Logic",
-    "link": "https://morethanmoore.substack.com/p/solving-the-problems-of-hbm-on-logic",
+    "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
+    "link": "https://github.com/pytorch/executorch",
     "source": "Hacker News",
-    "published": "2025-12-17T16:54:02+00:00",
+    "published": "2025-12-18T13:51:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46302002\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46312621\">Comments</a>"
   },
   {
-    "title": "Our New Sam Audio Model Transforms Audio Editing",
-    "link": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
+    "title": "Partial inlining",
+    "link": "https://xania.org/202512/18-partial-inlining",
     "source": "Hacker News",
-    "published": "2025-12-16T20:25:04+00:00",
+    "published": "2025-12-18T13:39:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46293932\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46312481\">Comments</a>"
   }
 ]
