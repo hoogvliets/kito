@@ -1,5 +1,61 @@
 [
   {
+    "title": "HTTP Caching, a Refresher",
+    "link": "https://danburzo.ro/http-caching-refresher/",
+    "source": "Hacker News",
+    "published": "2025-12-23T19:41:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368616\">Comments</a>"
+  },
+  {
+    "title": "Terrence Malick's Disciples",
+    "link": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
+    "source": "Hacker News",
+    "published": "2025-12-23T19:35:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368557\">Comments</a>"
+  },
+  {
+    "title": "Un-Redactor",
+    "link": "https://github.com/kvthweatt/unredactor",
+    "source": "Hacker News",
+    "published": "2025-12-23T19:26:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368471\">Comments</a>"
+  },
+  {
+    "title": "Help My c64 caught on fire",
+    "link": "https://c0de517e.com/026_c64fire.htm",
+    "source": "Hacker News",
+    "published": "2025-12-23T19:09:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368300\">Comments</a>"
+  },
+  {
+    "title": "An initial analysis of the discovered Unix V4 tape",
+    "link": "https://www.spinellis.gr/blog/20251223/?yc261223",
+    "source": "Hacker News",
+    "published": "2025-12-23T18:22:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367744\">Comments</a>"
+  },
+  {
+    "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+    "link": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+    "source": "Hacker News",
+    "published": "2025-12-23T18:00:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367475\">Comments</a>"
+  },
+  {
+    "title": "Towards a secure peer-to-peer app platform for Clan",
+    "link": "https://clan.lol/blog/towards-app-platform-vmtech/",
+    "source": "Hacker News",
+    "published": "2025-12-23T17:34:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367232\">Comments</a>"
+  },
+  {
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
     "source": "Hacker News",
@@ -8,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46367224\">Comments</a>"
   },
   {
-    "title": "How Did Doge Disrupt So Much While Saving So Little?",
-    "link": "https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html",
-    "source": "Hacker News",
-    "published": "2025-12-23T17:33:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367223\">Comments</a>"
-  },
-  {
-    "title": "Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers",
+    "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
     "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
     "source": "Hacker News",
     "published": "2025-12-23T17:08:34+00:00",
@@ -24,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46366998\">Comments</a>"
   },
   {
-    "title": "Test, don't (just) verify",
+    "title": "Test, don't just verify",
     "link": "https://alperenkeles.com/posts/test-dont-verify/",
     "source": "Hacker News",
     "published": "2025-12-23T12:56:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46364973\">Comments</a>"
-  },
-  {
-    "title": "Ryanair fined \u20ac256M over \u2018abusive strategy\u2019 to limit ticket sales by OTAs",
-    "link": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
-    "source": "Hacker News",
-    "published": "2025-12-23T10:53:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364272\">Comments</a>"
   },
   {
     "title": "Font with Built-In Syntax Highlighting (2024)",
@@ -48,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46364131\">Comments</a>"
   },
   {
-    "title": "Ask HN: What are the best engineering blogs with real-world depth?",
-    "link": "https://news.ycombinator.com/item?id=46363921",
-    "source": "Hacker News",
-    "published": "2025-12-23T09:50:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46363921\">Comments</a>"
-  },
-  {
-    "title": "Carnap \u2013 A formal logic framework for Haskell",
-    "link": "https://carnap.io/",
-    "source": "Hacker News",
-    "published": "2025-12-23T09:17:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46363751\">Comments</a>"
-  },
-  {
     "title": "Instant database clones with PostgreSQL 18",
     "link": "https://boringsql.com/posts/instant-database-clones/",
     "source": "Hacker News",
@@ -72,60 +96,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46363360\">Comments</a>"
   },
   {
-    "title": "Show HN: CineCLI \u2013 Browse and torrent movies directly from your terminal",
-    "link": "https://github.com/eyeblech/cinecli",
+    "title": "Local AI is driving the biggest change in laptops in decades",
+    "link": "https://spectrum.ieee.org/ai-models-locally",
     "source": "Hacker News",
-    "published": "2025-12-23T05:17:50+00:00",
+    "published": "2025-12-23T00:12:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46362655\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360856\">Comments</a>"
   },
   {
-    "title": "Snitch \u2013 A friendlier ss/netstat",
-    "link": "https://github.com/karol-broda/snitch",
+    "title": "Toad is a unified experience for AI in the terminal",
+    "link": "https://willmcgugan.github.io/toad-released/",
     "source": "Hacker News",
-    "published": "2025-12-23T01:03:57+00:00",
+    "published": "2025-12-22T15:12:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361229\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354737\">Comments</a>"
   },
   {
-    "title": "It's Always TCP_NODELAY",
-    "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+    "title": "Lua 5.5",
+    "link": "https://lua.org/versions.html#5.5",
     "source": "Hacker News",
-    "published": "2025-12-22T21:09:59+00:00",
+    "published": "2025-12-22T15:06:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46359120\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354674\">Comments</a>"
   },
   {
-    "title": "The Illustrated Transformer",
-    "link": "https://jalammar.github.io/illustrated-transformer/",
+    "title": "Perfect Software \u2013 Software for an Audience of One",
+    "link": "https://outofdesk.netlify.app/blog/perfect-software",
     "source": "Hacker News",
-    "published": "2025-12-22T19:15:56+00:00",
+    "published": "2025-12-20T07:14:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357675\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Yapi \u2013 FOSS terminal API client for power users",
-    "link": "https://yapi.run/blog/what-is-yapi",
-    "source": "Hacker News",
-    "published": "2025-12-22T08:49:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46352350\">Comments</a>"
-  },
-  {
-    "title": "Dancing around the rhythm space with Euclid",
-    "link": "https://pv.wtf/posts/euclidean-rhythms",
-    "source": "Hacker News",
-    "published": "2025-12-22T08:08:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46352191\">Comments</a>"
-  },
-  {
-    "title": "The Coffee Warehouse",
-    "link": "https://www.scopeofwork.net/the-coffee-warehouse/",
-    "source": "Hacker News",
-    "published": "2025-12-19T20:16:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46330369\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46334206\">Comments</a>"
   },
   {
     "title": "Astrophotography Target Planner: Discover Hidden Nebulas",
@@ -134,6 +134,14 @@
     "published": "2025-12-19T19:44:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46330012\">Comments</a>"
+  },
+  {
+    "title": "What makes you senior",
+    "link": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+    "source": "Hacker News",
+    "published": "2025-12-19T16:34:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46327692\">Comments</a>"
   },
   {
     "title": "Adobe Photoshop 1.0 Source Code (1990)",
@@ -150,13 +158,5 @@
     "published": "2025-12-18T13:51:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46312621\">Comments</a>"
-  },
-  {
-    "title": "Partial inlining",
-    "link": "https://xania.org/202512/18-partial-inlining",
-    "source": "Hacker News",
-    "published": "2025-12-18T13:39:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46312481\">Comments</a>"
   }
 ]
