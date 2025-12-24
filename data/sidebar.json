@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Ultimate Windows Utility (2022)",
+    "link": "https://christitus.com/windows-tool/",
+    "source": "Hacker News",
+    "published": "2025-12-24T10:48:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46374413\">Comments</a>"
+  },
+  {
+    "title": "Permission Systems for Enterprise That Scale",
+    "link": "https://eliocapella.com/blog/permission-systems-for-enterprise/",
+    "source": "Hacker News",
+    "published": "2025-12-24T09:50:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46374117\">Comments</a>"
+  },
+  {
+    "title": "US sanctions EU government officials behind the DSA",
+    "link": "https://mastodon.social/@fj/115773761468906515",
+    "source": "Hacker News",
+    "published": "2025-12-24T09:43:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46374087\">Comments</a>"
+  },
+  {
+    "title": "Google 2025 recap: Research breakthroughs of the year",
+    "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+    "source": "Hacker News",
+    "published": "2025-12-24T09:30:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46374018\">Comments</a>"
+  },
+  {
     "title": "Custom Cross Compiler with Nix",
     "link": "https://www.hobson.space/posts/nixcross/",
     "source": "Hacker News",
@@ -32,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46371730\">Comments</a>"
   },
   {
-    "title": "Could lockfiles just be SBOMs?",
-    "link": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
-    "source": "Hacker News",
-    "published": "2025-12-24T02:10:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46371705\">Comments</a>"
-  },
-  {
-    "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
-    "link": "https://github.com/xyphro/UsbGpib",
-    "source": "Hacker News",
-    "published": "2025-12-24T01:21:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46371429\">Comments</a>"
-  },
-  {
     "title": "Nabokov's guide to foreigners learning Russian",
     "link": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
     "source": "Hacker News",
@@ -62,14 +78,6 @@
     "published": "2025-12-24T00:30:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46371135\">Comments</a>"
-  },
-  {
-    "title": "Is Northern Virginia still the least reliable AWS region?",
-    "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
-    "source": "Hacker News",
-    "published": "2025-12-23T23:12:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46370592\">Comments</a>"
   },
   {
     "title": "Texas app store age verification law blocked by federal judge",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46368946\">Comments</a>"
   },
   {
-    "title": "HTTP Caching, a Refresher",
-    "link": "https://danburzo.ro/http-caching-refresher/",
-    "source": "Hacker News",
-    "published": "2025-12-23T19:41:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368616\">Comments</a>"
-  },
-  {
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
     "source": "Hacker News",
@@ -118,6 +118,14 @@
     "published": "2025-12-22T15:06:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46354674\">Comments</a>"
+  },
+  {
+    "title": "I rebuilt FlashAttention in Triton to understand the performance archaeology",
+    "link": "https://aminediro.com/posts/flash_attn/",
+    "source": "Hacker News",
+    "published": "2025-12-21T10:49:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46343894\">Comments</a>"
   },
   {
     "title": "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46334206\">Comments</a>"
   },
   {
-    "title": "What makes you senior",
-    "link": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+    "title": "Scaling Go Testing with Contract and Scenario Mocks",
+    "link": "https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks",
     "source": "Hacker News",
-    "published": "2025-12-19T16:34:41+00:00",
+    "published": "2025-12-18T18:09:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46327692\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46316295\">Comments</a>"
   },
   {
-    "title": "Life, Death and Mowing",
-    "link": "https://www.cam.ac.uk/stories/lawnmower-poetry",
+    "title": "Show HN: Tonbo \u2013 an embedded database for serverless and edge runtimes",
+    "link": "https://github.com/tonbo-io/tonbo",
     "source": "Hacker News",
-    "published": "2025-12-19T09:58:23+00:00",
+    "published": "2025-12-17T18:41:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324047\">Comments</a>"
-  },
-  {
-    "title": "Learn Lisp/Fennel Programming Against Neovim",
-    "link": "https://github.com/humorless/fennel-fp-neovim",
-    "source": "Hacker News",
-    "published": "2025-12-17T20:09:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46304858\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46303638\">Comments</a>"
   }
 ]
