@@ -1,11 +1,19 @@
 [
   {
-    "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
-    "link": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
+    "title": "Custom Cross Compiler with Nix",
+    "link": "https://www.hobson.space/posts/nixcross/",
     "source": "Hacker News",
-    "published": "2025-12-24T02:21:42+00:00",
+    "published": "2025-12-24T05:31:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46371759\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46372771\">Comments</a>"
+  },
+  {
+    "title": "Don't Become the Machine",
+    "link": "https://armeet.bearblog.dev/becoming-the-machine/",
+    "source": "Hacker News",
+    "published": "2025-12-24T03:34:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46372153\">Comments</a>"
   },
   {
     "title": "Show HN: Turn raw HTML into production-ready images for free",
@@ -32,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46371705\">Comments</a>"
   },
   {
-    "title": "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
-    "link": "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html",
+    "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+    "link": "https://github.com/xyphro/UsbGpib",
     "source": "Hacker News",
-    "published": "2025-12-24T02:01:49+00:00",
+    "published": "2025-12-24T01:21:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46371673\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46371429\">Comments</a>"
   },
   {
     "title": "Nabokov's guide to foreigners learning Russian",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46368616\">Comments</a>"
   },
   {
-    "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
-    "link": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
-    "source": "Hacker News",
-    "published": "2025-12-23T18:00:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367475\">Comments</a>"
-  },
-  {
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46334206\">Comments</a>"
   },
   {
-    "title": "Interactive Fluid Typography",
-    "link": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
+    "title": "What makes you senior",
+    "link": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
     "source": "Hacker News",
-    "published": "2025-12-18T19:56:04+00:00",
+    "published": "2025-12-19T16:34:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46317765\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46327692\">Comments</a>"
   },
   {
-    "title": "Charts in Slides",
-    "link": "https://ia.net/topics/charts-in-slides",
+    "title": "Life, Death and Mowing",
+    "link": "https://www.cam.ac.uk/stories/lawnmower-poetry",
     "source": "Hacker News",
-    "published": "2025-12-17T21:46:04+00:00",
+    "published": "2025-12-19T09:58:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46305974\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46324047\">Comments</a>"
   },
   {
     "title": "Learn Lisp/Fennel Programming Against Neovim",
