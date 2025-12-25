@@ -1,5 +1,13 @@
 [
   {
+    "title": "Python 3.15\u2019s interpreter for Windows x86-64 should hopefully be 15% faster",
+    "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+    "source": "Hacker News",
+    "published": "2025-12-25T13:02:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46384167\">Comments</a>"
+  },
+  {
     "title": "Mattermost restricted access to old messages after 10000 limit is reached",
     "link": "https://github.com/mattermost/mattermost/issues/34271",
     "source": "Hacker News",
@@ -38,6 +46,14 @@
     "published": "2025-12-25T04:13:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46382011\">Comments</a>"
+  },
+  {
+    "title": "Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf]",
+    "link": "https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf",
+    "source": "Hacker News",
+    "published": "2025-12-25T02:47:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46381620\">Comments</a>"
   },
   {
     "title": "Who Watches the Waymos? I do [video]",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46377862\">Comments</a>"
   },
   {
-    "title": "Show HN: Vibium \u2013 Browser automation for AI and humans, by Selenium's creator",
-    "link": "https://github.com/VibiumDev/vibium",
-    "source": "Hacker News",
-    "published": "2025-12-24T17:49:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46377597\">Comments</a>"
-  },
-  {
     "title": "Fabrice Bellard Releases MicroQuickJS",
     "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
     "source": "Hacker News",
@@ -120,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46348971\">Comments</a>"
   },
   {
-    "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
-    "link": "https://blog.partykit.io/posts/using-vectorize-to-build-search/",
+    "title": "The entire New Yorker Archive Is Now Fully Digitized",
+    "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
     "source": "Hacker News",
-    "published": "2025-12-21T16:36:25+00:00",
+    "published": "2025-12-20T14:49:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46346026\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336577\">Comments</a>"
   },
   {
-    "title": "Show HN: Exploring Mathematics with Python",
-    "link": "https://coe.psu.ac.th/ad/explore/",
+    "title": "The Fisher-Yates shuffle is backward",
+    "link": "https://possiblywrong.wordpress.com/2020/12/10/the-fisher-yates-shuffle-is-backward/",
     "source": "Hacker News",
-    "published": "2025-12-19T15:55:30+00:00",
+    "published": "2025-12-20T14:17:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46327191\">Comments</a>"
-  },
-  {
-    "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
-    "link": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
-    "source": "Hacker News",
-    "published": "2025-12-19T06:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46322815\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336364\">Comments</a>"
   },
   {
     "title": "The First Photographs of Snowflakes Discover the Groundbreaking Microphotography",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46319382\">Comments</a>"
   },
   {
-    "title": "JEDEC developing reduced pin count HBM4 standard to enable higher capacity",
-    "link": "https://blocksandfiles.com/2025/12/17/jedec-sphbm4/",
+    "title": "Ask HN: How do I bridge the gap between PhD and SWE experiences?",
+    "link": "https://news.ycombinator.com/item?id=46315658",
     "source": "Hacker News",
-    "published": "2025-12-18T16:11:50+00:00",
+    "published": "2025-12-18T17:20:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46314540\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46315658\">Comments</a>"
   }
 ]
