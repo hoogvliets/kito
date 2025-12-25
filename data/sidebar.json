@@ -1,5 +1,21 @@
 [
   {
+    "title": "URL Pattern API",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API",
+    "source": "Hacker News",
+    "published": "2025-12-25T20:27:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46386835\">Comments</a>"
+  },
+  {
+    "title": "All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)",
+    "link": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
+    "source": "Hacker News",
+    "published": "2025-12-25T18:06:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46386009\">Comments</a>"
+  },
+  {
     "title": "Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)",
     "link": "https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace",
     "source": "Hacker News",
@@ -8,15 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46385600\">Comments</a>"
   },
   {
-    "title": "Ask HN: What is the international distribution/statistics of HN visitors?",
-    "link": "https://news.ycombinator.com/item?id=46385406",
-    "source": "Hacker News",
-    "published": "2025-12-25T16:37:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46385406\">Comments</a>"
-  },
-  {
-    "title": "I Sell Onions on the Internet",
+    "title": "I sell onions on the Internet (2019)",
     "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
     "source": "Hacker News",
     "published": "2025-12-25T16:24:45+00:00",
@@ -24,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46385308\">Comments</a>"
   },
   {
-    "title": "Alzheimer's can be reversed to achieve full neurological recovery in animals",
+    "title": "Alzheimer\u2019s disease can be reversed in animal models: Study",
     "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
     "source": "Hacker News",
     "published": "2025-12-25T15:22:36+00:00",
@@ -48,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46384167\">Comments</a>"
   },
   {
-    "title": "Mattermost restricted access to old messages after 10000 limit is reached",
-    "link": "https://github.com/mattermost/mattermost/issues/34271",
-    "source": "Hacker News",
-    "published": "2025-12-25T11:03:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46383675\">Comments</a>"
-  },
-  {
     "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
     "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
     "source": "Hacker News",
@@ -64,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46383552\">Comments</a>"
   },
   {
-    "title": "Ruby 4.0.0",
-    "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-    "source": "Hacker News",
-    "published": "2025-12-25T04:13:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46382011\">Comments</a>"
-  },
-  {
     "title": "Who Watches the Waymos? I do [video]",
     "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
     "source": "Hacker News",
     "published": "2025-12-25T00:10:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>"
-  },
-  {
-    "title": "Asterisk AI Voice Agent",
-    "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-    "source": "Hacker News",
-    "published": "2025-12-24T23:25:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>"
   },
   {
     "title": "Tell HN: Merry Christmas",
@@ -104,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46380075\">Comments</a>"
   },
   {
+    "title": "Show HN: Lamp Carousel \u2013 DIY kinetic sculpture powered by lamp heat",
+    "link": "https://evan.widloski.com/posts/spinners/",
+    "source": "Hacker News",
+    "published": "2025-12-24T20:56:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46379145\">Comments</a>"
+  },
+  {
     "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
     "link": "https://github.com/antonmedv/textarea",
     "source": "Hacker News",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46378554\">Comments</a>"
   },
   {
-    "title": "Fabrice Bellard: Biography (2009) [pdf]",
-    "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+    "title": "Archiving Git Branches as Tags",
+    "link": "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/",
     "source": "Hacker News",
-    "published": "2025-12-24T18:17:47+00:00",
+    "published": "2025-12-22T18:52:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46377862\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357362\">Comments</a>"
   },
   {
     "title": "The Inner-Platform Effect (2006)",
@@ -128,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46352588\">Comments</a>"
   },
   {
-    "title": "The entire New Yorker Archive Is Now Fully Digitized",
+    "title": "The entire New Yorker archive is now digitized",
     "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
     "source": "Hacker News",
     "published": "2025-12-20T14:49:39+00:00",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46336577\">Comments</a>"
   },
   {
-    "title": "The First Photographs of Snowflakes Discover the Groundbreaking Microphotography",
+    "title": "CUDA Tile Open Sourced",
+    "link": "https://github.com/NVIDIA/cuda-tile",
+    "source": "Hacker News",
+    "published": "2025-12-19T20:49:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46330732\">Comments</a>"
+  },
+  {
+    "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
+    "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
+    "source": "Hacker News",
+    "published": "2025-12-18T23:25:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46320249\">Comments</a>"
+  },
+  {
+    "title": "The First Photographs of Snowflakes Discover the Groundbreaking Microphotography (2017)",
     "link": "https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html",
     "source": "Hacker News",
     "published": "2025-12-18T21:58:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46319382\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: How do I bridge the gap between PhD and SWE experiences?",
-    "link": "https://news.ycombinator.com/item?id=46315658",
-    "source": "Hacker News",
-    "published": "2025-12-18T17:20:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46315658\">Comments</a>"
   },
   {
     "title": "Toys with the highest play-time and lowest clean-up-time",
