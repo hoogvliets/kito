@@ -1,19 +1,67 @@
 [
   {
+    "title": "ICE's interest in high-tech gear raises new questions: 'What is it for?'",
+    "link": "https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:37:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394228\">Comments</a>"
+  },
+  {
+    "title": "C/C++ Embedded Files (2013)",
+    "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:06:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>"
+  },
+  {
+    "title": "ZJIT is now available in Ruby 4.0",
+    "link": "https://railsatscale.com/2025-12-24-launch-zjit/",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:04:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393906\">Comments</a>"
+  },
+  {
+    "title": "Show HN: AutoLISP interpreter in Rust/WASM \u2013 a CAD workflow invented 33 yrs ago",
+    "link": "https://acadlisp.de/noscript.html",
+    "source": "Hacker News",
+    "published": "2025-12-26T15:56:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393271\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Private blogging and journaling with a simulated audience",
+    "link": "https://tempblog-psi.vercel.app/",
+    "source": "Hacker News",
+    "published": "2025-12-26T15:55:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393262\">Comments</a>"
+  },
+  {
+    "title": "High School Student Discovers 1.5M Potential New Astronomical Objects",
+    "link": "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/",
+    "source": "Hacker News",
+    "published": "2025-12-26T15:13:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392815\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
+    "link": "https://github.com/valdanylchuk/xcc700",
+    "source": "Hacker News",
+    "published": "2025-12-26T15:07:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392736\">Comments</a>"
+  },
+  {
     "title": "Rob Pike Goes Nuclear over GenAI",
     "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
     "source": "Hacker News",
     "published": "2025-12-26T14:08:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46392115\">Comments</a>"
-  },
-  {
-    "title": "Undefinable yet Indispensable",
-    "link": "https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary",
-    "source": "Hacker News",
-    "published": "2025-12-26T13:23:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391744\">Comments</a>"
   },
   {
     "title": "LearnixOS",
@@ -56,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391410\">Comments</a>"
   },
   {
-    "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-    "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-    "source": "Hacker News",
-    "published": "2025-12-26T09:43:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390667\">Comments</a>"
-  },
-  {
-    "title": "Building an AI agent inside a 7-year-old Rails monolith",
-    "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-    "source": "Hacker News",
-    "published": "2025-12-26T07:35:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>"
-  },
-  {
     "title": "TurboDiffusion: 100\u2013200\u00d7 Acceleration for Video Diffusion Models",
     "link": "https://github.com/thu-ml/TurboDiffusion",
     "source": "Hacker News",
     "published": "2025-12-26T03:19:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46388907\">Comments</a>"
-  },
-  {
-    "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
-    "link": "https://www.minimaxi.com/news/minimax-m21",
-    "source": "Hacker News",
-    "published": "2025-12-26T01:02:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388213\">Comments</a>"
   },
   {
     "title": "Maybe the default settings are too high",
@@ -112,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46357814\">Comments</a>"
   },
   {
-    "title": "What happened to all the gold Spain got from the New World? (1985)",
-    "link": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
-    "source": "Hacker News",
-    "published": "2025-12-22T07:18:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46352016\">Comments</a>"
-  },
-  {
     "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
     "link": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
     "source": "Hacker News",
@@ -128,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46351836\">Comments</a>"
   },
   {
-    "title": "Show HN: Gaming Couch \u2013 a local multiplayer party game platform for 8 players",
-    "link": "https://gamingcouch.com",
+    "title": "Bedlam Cube Solved (ALL 19,186 solutions)",
+    "link": "http://scottkurowski.com/BedlamCube/",
     "source": "Hacker News",
-    "published": "2025-12-21T13:08:36+00:00",
+    "published": "2025-12-22T01:49:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46344573\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46350510\">Comments</a>"
   },
   {
     "title": "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%",
@@ -142,21 +158,5 @@
     "published": "2025-12-21T12:07:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46344222\">Comments</a>"
-  },
-  {
-    "title": "Understanding the Northern Lights",
-    "link": "https://www.historytoday.com/archive/feature/understanding-northern-lights",
-    "source": "Hacker News",
-    "published": "2025-12-20T05:54:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46333940\">Comments</a>"
-  },
-  {
-    "title": "How to Reproduce This Book with LaTeX",
-    "link": "https://github.com/BenjaminGor/Latex_Notes_Tutorial",
-    "source": "Hacker News",
-    "published": "2025-12-19T14:48:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46326440\">Comments</a>"
   }
 ]
