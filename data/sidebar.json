@@ -1,11 +1,11 @@
 [
   {
-    "title": "Rob Pike Goes Nuclear over GenAI",
-    "link": "https://imgur.com/nUJCI3o",
+    "title": "Building an AI agent inside a 7-year-old Rails monolith",
+    "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
     "source": "Hacker News",
-    "published": "2025-12-26T05:27:05+00:00",
+    "published": "2025-12-26T07:35:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46389444\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>"
   },
   {
     "title": "TurboDiffusion: 100\u2013200\u00d7 Acceleration for Video Diffusion Models",
@@ -64,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46386211\">Comments</a>"
   },
   {
-    "title": "I sell onions on the Internet (2019)",
-    "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-    "source": "Hacker News",
-    "published": "2025-12-25T16:24:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46385308\">Comments</a>"
-  },
-  {
     "title": "Ask HN: What skills do you want to develop or improve in 2026?",
     "link": "https://news.ycombinator.com/item?id=46385197",
     "source": "Hacker News",
     "published": "2025-12-25T16:08:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46385197\">Comments</a>"
-  },
-  {
-    "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
-    "link": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
-    "source": "Hacker News",
-    "published": "2025-12-25T14:20:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46384565\">Comments</a>"
   },
   {
     "title": "Python 3.15\u2019s interpreter for Windows x86-64 should hopefully be 15% faster",
@@ -96,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46384167\">Comments</a>"
   },
   {
+    "title": "Show HN: GeneGuessr \u2013 a daily biology web puzzle",
+    "link": "https://geneguessr.brinedew.bio/",
+    "source": "Hacker News",
+    "published": "2025-12-23T09:40:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46363870\">Comments</a>"
+  },
+  {
     "title": "Paperbacks and TikTok",
     "link": "https://calnewport.com/on-paperbacks-and-tiktok/",
     "source": "Hacker News",
@@ -104,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46358211\">Comments</a>"
   },
   {
-    "title": "The Program 2025 annual review: How much money does an audio drama podcast make?",
-    "link": "https://programaudioseries.com/the-program-results-7/",
+    "title": "Animating Quines for Larva Labs",
+    "link": "https://destroytoday.com/blog/animating-quines-for-larva-labs",
     "source": "Hacker News",
-    "published": "2025-12-22T19:52:10+00:00",
+    "published": "2025-12-22T14:04:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46358166\">Comments</a>"
-  },
-  {
-    "title": "Archiving Git branches as tags",
-    "link": "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/",
-    "source": "Hacker News",
-    "published": "2025-12-22T18:52:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357362\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354187\">Comments</a>"
   },
   {
     "title": "Tachyon: High frequency statistical sampling profiler",
@@ -126,6 +110,14 @@
     "published": "2025-12-22T11:21:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46353257\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Coderive \u2013 Iterating through 1 Quintillion Inside a Loop in just 50ms",
+    "link": "https://github.com/DanexCodr/Coderive",
+    "source": "Hacker News",
+    "published": "2025-12-22T04:00:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46351178\">Comments</a>"
   },
   {
     "title": "Show HN: Gaming Couch \u2013 a local multiplayer party game platform for 8 players",
@@ -142,6 +134,14 @@
     "published": "2025-12-20T14:49:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46336577\">Comments</a>"
+  },
+  {
+    "title": "Lessons from a year of Postgres CDC in production",
+    "link": "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025",
+    "source": "Hacker News",
+    "published": "2025-12-20T01:00:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46332784\">Comments</a>"
   },
   {
     "title": "CUDA Tile Open Sourced",
