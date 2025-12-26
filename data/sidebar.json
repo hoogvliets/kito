@@ -1,11 +1,83 @@
 [
   {
-    "title": "ICE's interest in high-tech gear raises new questions: 'What is it for?'",
-    "link": "https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401",
+    "title": "I Think about Kubernetes",
+    "link": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
     "source": "Hacker News",
-    "published": "2025-12-26T17:37:31+00:00",
+    "published": "2025-12-26T20:44:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394228\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46396043\">Comments</a>"
+  },
+  {
+    "title": "NYC phone ban reveals some students can't read clocks",
+    "link": "https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks",
+    "source": "Hacker News",
+    "published": "2025-12-26T20:18:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395757\">Comments</a>"
+  },
+  {
+    "title": "Gaussian Splatting 3 Ways",
+    "link": "https://github.com/NullandKale/NullSplats",
+    "source": "Hacker News",
+    "published": "2025-12-26T19:23:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395273\">Comments</a>"
+  },
+  {
+    "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+    "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+    "source": "Hacker News",
+    "published": "2025-12-26T19:13:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395184\">Comments</a>"
+  },
+  {
+    "title": "How Lewis Carroll computed determinants",
+    "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+    "source": "Hacker News",
+    "published": "2025-12-26T19:03:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>"
+  },
+  {
+    "title": "MongoBleed",
+    "link": "https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py",
+    "source": "Hacker News",
+    "published": "2025-12-26T18:17:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394620\">Comments</a>"
+  },
+  {
+    "title": "FFmpeg has issued a DMCA takedown on GitHub",
+    "link": "https://twitter.com/FFmpeg/status/2004599109559496984",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:48:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394327\">Comments</a>"
+  },
+  {
+    "title": "A Proclamation Regarding the Restoration of the\u00a0Dash",
+    "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:29:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>"
+  },
+  {
+    "title": "How uv got so fast",
+    "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:13:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393992\">Comments</a>"
+  },
+  {
+    "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+    "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:07:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393936\">Comments</a>"
   },
   {
     "title": "C/C++ Embedded Files (2013)",
@@ -16,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>"
   },
   {
-    "title": "ZJIT is now available in Ruby 4.0",
-    "link": "https://railsatscale.com/2025-12-24-launch-zjit/",
+    "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
+    "link": "https://github.com/pranshuparmar/witr",
     "source": "Hacker News",
-    "published": "2025-12-26T17:04:42+00:00",
+    "published": "2025-12-26T15:20:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393906\">Comments</a>"
-  },
-  {
-    "title": "Show HN: AutoLISP interpreter in Rust/WASM \u2013 a CAD workflow invented 33 yrs ago",
-    "link": "https://acadlisp.de/noscript.html",
-    "source": "Hacker News",
-    "published": "2025-12-26T15:56:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393271\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Private blogging and journaling with a simulated audience",
-    "link": "https://tempblog-psi.vercel.app/",
-    "source": "Hacker News",
-    "published": "2025-12-26T15:55:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393262\">Comments</a>"
-  },
-  {
-    "title": "High School Student Discovers 1.5M Potential New Astronomical Objects",
-    "link": "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/",
-    "source": "Hacker News",
-    "published": "2025-12-26T15:13:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392815\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392910\">Comments</a>"
   },
   {
     "title": "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
@@ -56,7 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46392736\">Comments</a>"
   },
   {
-    "title": "Rob Pike Goes Nuclear over GenAI",
+    "title": "Rob Pike goes nuclear over GenAI",
     "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
     "source": "Hacker News",
     "published": "2025-12-26T14:08:47+00:00",
@@ -72,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391599\">Comments</a>"
   },
   {
+    "title": "Ask HN: What did you read in 2025?",
+    "link": "https://news.ycombinator.com/item?id=46391572",
+    "source": "Hacker News",
+    "published": "2025-12-26T12:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391572\">Comments</a>"
+  },
+  {
     "title": "Package managers keep using Git as a database, it never works out",
     "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
     "source": "Hacker News",
     "published": "2025-12-26T12:46:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391514\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT conversations still lack timestamps after years of requests",
-    "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
-    "source": "Hacker News",
-    "published": "2025-12-26T12:39:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391472\">Comments</a>"
   },
   {
     "title": "Unix \"find\" expressions compiled to bytecode",
@@ -96,67 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391448\">Comments</a>"
   },
   {
-    "title": "I'm a laptop weirdo and that's why I like my new Framework 13",
-    "link": "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/",
+    "title": "Migrating my web analytics from Matomo to Umami",
+    "link": "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/",
     "source": "Hacker News",
-    "published": "2025-12-26T12:27:19+00:00",
+    "published": "2025-12-24T11:08:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46374524\">Comments</a>"
   },
   {
-    "title": "TurboDiffusion: 100\u2013200\u00d7 Acceleration for Video Diffusion Models",
-    "link": "https://github.com/thu-ml/TurboDiffusion",
+    "title": "Perfect Aircrete, Kitchen Ingredients [video]",
+    "link": "https://www.youtube.com/watch?v=z4_GxPHwqkA",
     "source": "Hacker News",
-    "published": "2025-12-26T03:19:49+00:00",
+    "published": "2025-12-20T15:13:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388907\">Comments</a>"
-  },
-  {
-    "title": "Maybe the default settings are too high",
-    "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-    "source": "Hacker News",
-    "published": "2025-12-25T23:13:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46387657\">Comments</a>"
-  },
-  {
-    "title": "Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core",
-    "link": "https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html",
-    "source": "Hacker News",
-    "published": "2025-12-22T22:44:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360080\">Comments</a>"
-  },
-  {
-    "title": "The Algebra of Loans in Rust",
-    "link": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
-    "source": "Hacker News",
-    "published": "2025-12-22T19:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357814\">Comments</a>"
-  },
-  {
-    "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
-    "link": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
-    "source": "Hacker News",
-    "published": "2025-12-22T06:17:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46351836\">Comments</a>"
-  },
-  {
-    "title": "Bedlam Cube Solved (ALL 19,186 solutions)",
-    "link": "http://scottkurowski.com/BedlamCube/",
-    "source": "Hacker News",
-    "published": "2025-12-22T01:49:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46350510\">Comments</a>"
-  },
-  {
-    "title": "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%",
-    "link": "https://www.nature.com/articles/s41586-025-09827-w",
-    "source": "Hacker News",
-    "published": "2025-12-21T12:07:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46344222\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336743\">Comments</a>"
   }
 ]
