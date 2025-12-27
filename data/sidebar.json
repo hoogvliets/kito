@@ -1,19 +1,19 @@
 [
   {
-    "title": "I Think about Kubernetes",
-    "link": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
+    "title": "Exe.dev/",
+    "link": "https://exe.dev/",
     "source": "Hacker News",
-    "published": "2025-12-26T20:44:28+00:00",
+    "published": "2025-12-26T23:42:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46396043\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397609\">Comments</a>"
   },
   {
-    "title": "NYC phone ban reveals some students can't read clocks",
-    "link": "https://gothamist.com/news/nyc-phone-ban-reveals-some-students-cant-read-clocks",
+    "title": "Always Bet on Text",
+    "link": "https://graydon2.dreamwidth.org/193447.html",
     "source": "Hacker News",
-    "published": "2025-12-26T20:18:02+00:00",
+    "published": "2025-12-26T23:09:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395757\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397379\">Comments</a>"
   },
   {
     "title": "Gaussian Splatting 3 Ways",
@@ -32,12 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46395184\">Comments</a>"
   },
   {
-    "title": "How Lewis Carroll computed determinants",
+    "title": "How Lewis Carroll computed determinants (2023)",
     "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
     "source": "Hacker News",
     "published": "2025-12-26T19:03:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>"
+  },
+  {
+    "title": "Drawing with zero-width characters",
+    "link": "https://zw.swerdlow.dev",
+    "source": "Hacker News",
+    "published": "2025-12-26T18:59:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395061\">Comments</a>"
   },
   {
     "title": "MongoBleed",
@@ -56,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46394327\">Comments</a>"
   },
   {
-    "title": "A Proclamation Regarding the Restoration of the\u00a0Dash",
-    "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
-    "source": "Hacker News",
-    "published": "2025-12-26T17:29:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>"
-  },
-  {
     "title": "How uv got so fast",
     "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
     "source": "Hacker News",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46393936\">Comments</a>"
   },
   {
-    "title": "C/C++ Embedded Files (2013)",
-    "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
-    "source": "Hacker News",
-    "published": "2025-12-26T17:06:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>"
-  },
-  {
     "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
     "link": "https://github.com/pranshuparmar/witr",
     "source": "Hacker News",
@@ -102,14 +94,6 @@
     "published": "2025-12-26T15:07:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46392736\">Comments</a>"
-  },
-  {
-    "title": "Rob Pike goes nuclear over GenAI",
-    "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-    "source": "Hacker News",
-    "published": "2025-12-26T14:08:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392115\">Comments</a>"
   },
   {
     "title": "LearnixOS",
@@ -136,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391514\">Comments</a>"
   },
   {
-    "title": "Unix \"find\" expressions compiled to bytecode",
-    "link": "https://nullprogram.com/blog/2025/12/23/",
-    "source": "Hacker News",
-    "published": "2025-12-26T12:35:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391448\">Comments</a>"
-  },
-  {
     "title": "Migrating my web analytics from Matomo to Umami",
     "link": "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/",
     "source": "Hacker News",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46374524\">Comments</a>"
   },
   {
+    "title": "-tucky (2023)",
+    "link": "https://languagelog.ldc.upenn.edu/nll/?p=58650",
+    "source": "Hacker News",
+    "published": "2025-12-24T04:43:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46372532\">Comments</a>"
+  },
+  {
+    "title": "The Best Things and Stuff of 2025",
+    "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+    "source": "Hacker News",
+    "published": "2025-12-23T14:51:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46365726\">Comments</a>"
+  },
+  {
     "title": "Perfect Aircrete, Kitchen Ingredients [video]",
     "link": "https://www.youtube.com/watch?v=z4_GxPHwqkA",
     "source": "Hacker News",
     "published": "2025-12-20T15:13:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46336743\">Comments</a>"
+  },
+  {
+    "title": "Parasites plagued Roman soldiers at Hadrian's Wall",
+    "link": "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/",
+    "source": "Hacker News",
+    "published": "2025-12-19T17:51:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46328725\">Comments</a>"
   }
 ]
