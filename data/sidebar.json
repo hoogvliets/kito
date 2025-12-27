@@ -1,11 +1,27 @@
 [
   {
-    "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
-    "link": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
+    "title": "Show HN: Ez FFmpeg \u2013 Video editing in plain English",
+    "link": "http://npmjs.com/package/ezff",
     "source": "Hacker News",
-    "published": "2025-12-27T03:14:56+00:00",
+    "published": "2025-12-27T08:45:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398752\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46400251\">Comments</a>"
+  },
+  {
+    "title": "More Dynamic Cronjobs",
+    "link": "https://george.mand.is/2025/09/more-dynamic-cronjobs/",
+    "source": "Hacker News",
+    "published": "2025-12-27T06:10:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46399576\">Comments</a>"
+  },
+  {
+    "title": "Pre-commit hooks are fundamentally broken",
+    "link": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
+    "source": "Hacker News",
+    "published": "2025-12-27T03:45:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398906\">Comments</a>"
   },
   {
     "title": "QNX Self-Hosted Developer Desktop",
@@ -40,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46397379\">Comments</a>"
   },
   {
+    "title": "Toys with the highest play-time and lowest clean-up-time",
+    "link": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
+    "source": "Hacker News",
+    "published": "2025-12-26T20:28:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395885\">Comments</a>"
+  },
+  {
     "title": "T-Ruby is Ruby with syntax for types",
     "link": "https://type-ruby.github.io/",
     "source": "Hacker News",
@@ -48,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46395871\">Comments</a>"
   },
   {
-    "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
-    "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
-    "source": "Hacker News",
-    "published": "2025-12-26T19:13:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395184\">Comments</a>"
-  },
-  {
     "title": "How Lewis Carroll computed determinants (2023)",
     "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
     "source": "Hacker News",
     "published": "2025-12-26T19:03:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>"
-  },
-  {
-    "title": "Drawing with zero-width characters",
-    "link": "https://zw.swerdlow.dev",
-    "source": "Hacker News",
-    "published": "2025-12-26T18:59:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395061\">Comments</a>"
   },
   {
     "title": "How uv got so fast",
@@ -96,30 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46392910\">Comments</a>"
   },
   {
-    "title": "LearnixOS",
-    "link": "https://www.learnix-os.com",
-    "source": "Hacker News",
-    "published": "2025-12-26T12:59:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391599\">Comments</a>"
-  },
-  {
-    "title": "Package managers keep using Git as a database, it never works out",
-    "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-    "source": "Hacker News",
-    "published": "2025-12-26T12:46:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391514\">Comments</a>"
-  },
-  {
-    "title": "-tucky (2023)",
-    "link": "https://languagelog.ldc.upenn.edu/nll/?p=58650",
-    "source": "Hacker News",
-    "published": "2025-12-24T04:43:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46372532\">Comments</a>"
-  },
-  {
     "title": "Researchers develop a camera that can focus on different distances at once",
     "link": "https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html",
     "source": "Hacker News",
@@ -136,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46367195\">Comments</a>"
   },
   {
-    "title": "The Best Things and Stuff of 2025",
+    "title": "The best things and stuff of 2025",
     "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
     "source": "Hacker News",
     "published": "2025-12-23T14:51:33+00:00",
@@ -150,6 +134,22 @@
     "published": "2025-12-22T14:44:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46354492\">Comments</a>"
+  },
+  {
+    "title": "Mruby: Ruby for Embedded Systems",
+    "link": "https://github.com/mruby/mruby",
+    "source": "Hacker News",
+    "published": "2025-12-22T05:00:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46351457\">Comments</a>"
+  },
+  {
+    "title": "Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours",
+    "link": "https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md",
+    "source": "Hacker News",
+    "published": "2025-12-21T20:44:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46348251\">Comments</a>"
   },
   {
     "title": "SIMD City: Auto-Vectorisation",
