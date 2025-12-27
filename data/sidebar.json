@@ -1,5 +1,21 @@
 [
   {
+    "title": "Splice a Fibre",
+    "link": "https://react-networks-lib.rackout.net/fibre",
+    "source": "Hacker News",
+    "published": "2025-12-27T11:57:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46401190\">Comments</a>"
+  },
+  {
+    "title": "Cursed Bundler: Using go get to install Ruby Gems",
+    "link": "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html",
+    "source": "Hacker News",
+    "published": "2025-12-27T11:05:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46400927\">Comments</a>"
+  },
+  {
     "title": "Show HN: Ez FFmpeg \u2013 Video editing in plain English",
     "link": "http://npmjs.com/package/ezff",
     "source": "Hacker News",
@@ -8,20 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46400251\">Comments</a>"
   },
   {
-    "title": "More Dynamic Cronjobs",
+    "title": "More dynamic cronjobs",
     "link": "https://george.mand.is/2025/09/more-dynamic-cronjobs/",
     "source": "Hacker News",
     "published": "2025-12-27T06:10:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46399576\">Comments</a>"
-  },
-  {
-    "title": "Pre-commit hooks are fundamentally broken",
-    "link": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
-    "source": "Hacker News",
-    "published": "2025-12-27T03:45:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398906\">Comments</a>"
   },
   {
     "title": "QNX Self-Hosted Developer Desktop",
@@ -56,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46397379\">Comments</a>"
   },
   {
-    "title": "Toys with the highest play-time and lowest clean-up-time",
-    "link": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
-    "source": "Hacker News",
-    "published": "2025-12-26T20:28:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395885\">Comments</a>"
-  },
-  {
-    "title": "T-Ruby is Ruby with syntax for types",
-    "link": "https://type-ruby.github.io/",
-    "source": "Hacker News",
-    "published": "2025-12-26T20:27:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395871\">Comments</a>"
-  },
-  {
     "title": "How Lewis Carroll computed determinants (2023)",
     "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
     "source": "Hacker News",
@@ -96,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46393936\">Comments</a>"
   },
   {
-    "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
-    "link": "https://github.com/pranshuparmar/witr",
+    "title": "Package managers keep using Git as a database, it never works out",
+    "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
     "source": "Hacker News",
-    "published": "2025-12-26T15:20:36+00:00",
+    "published": "2025-12-26T12:46:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392910\">Comments</a>"
-  },
-  {
-    "title": "Researchers develop a camera that can focus on different distances at once",
-    "link": "https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html",
-    "source": "Hacker News",
-    "published": "2025-12-23T21:42:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46369808\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46391514\">Comments</a>"
   },
   {
     "title": "AI Police Reports: Year in Review",
@@ -126,6 +110,22 @@
     "published": "2025-12-23T14:51:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46365726\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mysti \u2013 Claude, Codex, and Gemini debate your code, then synthesize",
+    "link": "https://github.com/DeepMyst/Mysti",
+    "source": "Hacker News",
+    "published": "2025-12-23T13:18:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46365105\">Comments</a>"
+  },
+  {
+    "title": "Some Junk Theorems in Lean",
+    "link": "https://github.com/James-Hanson/junk-theorems-in-lean",
+    "source": "Hacker News",
+    "published": "2025-12-23T11:53:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364567\">Comments</a>"
   },
   {
     "title": "One million (small web) screenshots",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46348251\">Comments</a>"
   },
   {
-    "title": "SIMD City: Auto-Vectorisation",
-    "link": "https://xania.org/202512/20-simd-city",
+    "title": "Intertapes \u2013 collection of found cassette tapes from different locations",
+    "link": "https://intertapes.net/",
     "source": "Hacker News",
-    "published": "2025-12-20T13:25:40+00:00",
+    "published": "2025-12-21T15:29:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46345528\">Comments</a>"
   }
 ]
