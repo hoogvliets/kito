@@ -1,19 +1,19 @@
 [
   {
+    "title": "Apple releases open-source model that instantly turns 2D photos into 3D views",
+    "link": "https://github.com/apple/ml-sharp",
+    "source": "Hacker News",
+    "published": "2025-12-27T12:58:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46401539\">Comments</a>"
+  },
+  {
     "title": "Splice a Fibre",
     "link": "https://react-networks-lib.rackout.net/fibre",
     "source": "Hacker News",
     "published": "2025-12-27T11:57:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46401190\">Comments</a>"
-  },
-  {
-    "title": "Cursed Bundler: Using go get to install Ruby Gems",
-    "link": "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html",
-    "source": "Hacker News",
-    "published": "2025-12-27T11:05:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46400927\">Comments</a>"
   },
   {
     "title": "Show HN: Ez FFmpeg \u2013 Video editing in plain English",
@@ -64,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46397379\">Comments</a>"
   },
   {
-    "title": "How Lewis Carroll computed determinants (2023)",
-    "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
-    "source": "Hacker News",
-    "published": "2025-12-26T19:03:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>"
-  },
-  {
     "title": "How uv got so fast",
     "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
     "source": "Hacker News",
@@ -96,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46391514\">Comments</a>"
   },
   {
-    "title": "AI Police Reports: Year in Review",
-    "link": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
+    "title": "Detect memory leaks of C extensions with psutil and psleak",
+    "link": "https://gmpy.dev/blog/2025/psutil-heap-introspection-apis",
     "source": "Hacker News",
-    "published": "2025-12-23T17:30:15+00:00",
+    "published": "2025-12-24T15:53:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46367195\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46376608\">Comments</a>"
   },
   {
     "title": "The best things and stuff of 2025",
@@ -128,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46364567\">Comments</a>"
   },
   {
-    "title": "One million (small web) screenshots",
-    "link": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
-    "source": "Hacker News",
-    "published": "2025-12-22T14:44:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354492\">Comments</a>"
-  },
-  {
     "title": "Mruby: Ruby for Embedded Systems",
     "link": "https://github.com/mruby/mruby",
     "source": "Hacker News",
@@ -158,5 +142,21 @@
     "published": "2025-12-21T15:29:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46345528\">Comments</a>"
+  },
+  {
+    "title": "Faster practical modular inversion",
+    "link": "https://purplesyringa.moe/blog/faster-practical-modular-inversion/",
+    "source": "Hacker News",
+    "published": "2025-12-21T03:13:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46341904\">Comments</a>"
+  },
+  {
+    "title": "An exploration of playing three generations of windows games on macOS",
+    "link": "https://carette.xyz/posts/deep_dive_into_crossover/",
+    "source": "Hacker News",
+    "published": "2025-12-20T14:53:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46336604\">Comments</a>"
   }
 ]
