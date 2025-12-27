@@ -1,5 +1,45 @@
 [
   {
+    "title": "How we lost communication to entertainment",
+    "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
+    "source": "Hacker News",
+    "published": "2025-12-27T20:15:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46404848\">Comments</a>"
+  },
+  {
+    "title": "Toll roads are spreading in America",
+    "link": "https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america",
+    "source": "Hacker News",
+    "published": "2025-12-27T18:31:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403992\">Comments</a>"
+  },
+  {
+    "title": "Scientists edited genes in a living person and saved his life",
+    "link": "https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/",
+    "source": "Hacker News",
+    "published": "2025-12-27T18:26:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403955\">Comments</a>"
+  },
+  {
+    "title": "Windows 2 for the Apricot PC/Xi",
+    "link": "https://www.ninakalinina.com/notes/win2apri/",
+    "source": "Hacker News",
+    "published": "2025-12-27T18:22:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403915\">Comments</a>"
+  },
+  {
+    "title": "Nvidia's $20B antitrust loophole",
+    "link": "https://ossa-ma.github.io/blog/groq",
+    "source": "Hacker News",
+    "published": "2025-12-27T17:42:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403559\">Comments</a>"
+  },
+  {
     "title": "Janet Jackson had the power to crash laptop computers (2022)",
     "link": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
     "source": "Hacker News",
@@ -16,30 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46403200\">Comments</a>"
   },
   {
-    "title": "VSCode rebrands as \"The open source AI code editor\"",
-    "link": "https://code.visualstudio.com",
-    "source": "Hacker News",
-    "published": "2025-12-27T16:51:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403073\">Comments</a>"
-  },
-  {
-    "title": "This PNG shows a different version when loaded in Chrome than in Safari",
-    "link": "https://lr0.org/blog/p/pngchanges/",
-    "source": "Hacker News",
-    "published": "2025-12-27T16:48:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403048\">Comments</a>"
-  },
-  {
-    "title": "A Century of Noether's Theorem",
-    "link": "https://arxiv.org/abs/1902.01989",
-    "source": "Hacker News",
-    "published": "2025-12-27T15:42:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46402611\">Comments</a>"
-  },
-  {
     "title": "NMH BASIC",
     "link": "https://t3x.org/nmhbasic/index.html",
     "source": "Hacker News",
@@ -54,14 +70,6 @@
     "published": "2025-12-27T13:13:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46401612\">Comments</a>"
-  },
-  {
-    "title": "Apple releases open-source model that instantly turns 2D photos into 3D views",
-    "link": "https://github.com/apple/ml-sharp",
-    "source": "Hacker News",
-    "published": "2025-12-27T12:58:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46401539\">Comments</a>"
   },
   {
     "title": "OrangePi 6 Plus Review",
@@ -88,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46400251\">Comments</a>"
   },
   {
-    "title": "Pre-commit hooks are broken",
-    "link": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
-    "source": "Hacker News",
-    "published": "2025-12-27T03:45:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398906\">Comments</a>"
-  },
-  {
-    "title": "Exe.dev",
-    "link": "https://exe.dev/",
-    "source": "Hacker News",
-    "published": "2025-12-26T23:42:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397609\">Comments</a>"
-  },
-  {
     "title": "How uv got so fast",
     "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
     "source": "Hacker News",
@@ -112,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46393992\">Comments</a>"
   },
   {
-    "title": "Detect memory leaks of C extensions with psutil and psleak",
-    "link": "https://gmpy.dev/blog/2025/psutil-heap-introspection-apis",
+    "title": "Love Actually is around Heathrow (2021)",
+    "link": "https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport",
     "source": "Hacker News",
-    "published": "2025-12-24T15:53:41+00:00",
+    "published": "2025-12-25T01:21:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46376608\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46381236\">Comments</a>"
+  },
+  {
+    "title": "They made me an offer I couldn't refuse (1997)",
+    "link": "https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/",
+    "source": "Hacker News",
+    "published": "2025-12-23T22:38:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46370309\">Comments</a>"
+  },
+  {
+    "title": "Clock synchronization is a nightmare",
+    "link": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+    "source": "Hacker News",
+    "published": "2025-12-23T18:59:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368177\">Comments</a>"
   },
   {
     "title": "Show HN: Mysti \u2013 Claude, Codex, and Gemini debate your code, then synthesize",
@@ -150,13 +158,5 @@
     "published": "2025-12-21T15:29:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46345528\">Comments</a>"
-  },
-  {
-    "title": "Faster practical modular inversion",
-    "link": "https://purplesyringa.moe/blog/faster-practical-modular-inversion/",
-    "source": "Hacker News",
-    "published": "2025-12-21T03:13:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46341904\">Comments</a>"
   }
 ]
