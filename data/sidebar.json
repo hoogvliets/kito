@@ -1,19 +1,43 @@
 [
   {
-    "title": "Ask HN: Anti-AI Open Source License?",
-    "link": "https://news.ycombinator.com/item?id=46411275",
+    "title": "RustOCR \u2013 Now do OCR 5-10x faster than EasyOCR",
+    "link": "https://crates.io/crates/rustocr",
     "source": "Hacker News",
-    "published": "2025-12-28T14:24:59+00:00",
+    "published": "2025-12-28T17:31:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411275\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412717\">Comments</a>"
   },
   {
-    "title": "'PromptQuest' is the worst game of 2025 (trying to make chatbots work)",
-    "link": "https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/",
+    "title": "A \"Prime\" View of HN",
+    "link": "https://dosaygo-studio.github.io/prime-news/index.html",
     "source": "Hacker News",
-    "published": "2025-12-28T13:42:42+00:00",
+    "published": "2025-12-28T17:12:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411040\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412549\">Comments</a>"
+  },
+  {
+    "title": "tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters",
+    "link": "https://man7.org/linux/man-pages/man8/tc-ematch.8.html",
+    "source": "Hacker News",
+    "published": "2025-12-28T16:43:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412327\">Comments</a>"
+  },
+  {
+    "title": "Scientists discover beer bottle in the Mariana Trench (2024)",
+    "link": "https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213",
+    "source": "Hacker News",
+    "published": "2025-12-28T16:29:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412210\">Comments</a>"
+  },
+  {
+    "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
+    "link": "https://arxiv.org/abs/2512.02080",
+    "source": "Hacker News",
+    "published": "2025-12-28T15:02:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411539\">Comments</a>"
   },
   {
     "title": "Langfuse (YC W23) Is Hiring in Berlin, Germany",
@@ -32,7 +56,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46410402\">Comments</a>"
   },
   {
-    "title": "Hungry Fat Cells Could Someday Starve Cancer to Death",
+    "title": "Learn computer graphics from scratch and for free",
+    "link": "https://www.scratchapixel.com",
+    "source": "Hacker News",
+    "published": "2025-12-28T11:08:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410210\">Comments</a>"
+  },
+  {
+    "title": "Hungry Fat Cells Could Someday Starve Cancer",
     "link": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
     "source": "Hacker News",
     "published": "2025-12-28T10:04:42+00:00",
@@ -48,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46408988\">Comments</a>"
   },
   {
-    "title": "C++ says \u201cWe have try. . . finally at home\u201d",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
-    "source": "Hacker News",
-    "published": "2025-12-28T06:42:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46408984\">Comments</a>"
-  },
-  {
     "title": "Calendar",
     "link": "https://neatnik.net/calendar/?year=2026",
     "source": "Hacker News",
     "published": "2025-12-28T05:02:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46408613\">Comments</a>"
-  },
-  {
-    "title": "Dialtone \u2013 AOL 3.0 Server",
-    "link": "https://dialtone.live/",
-    "source": "Hacker News",
-    "published": "2025-12-28T03:40:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46408192\">Comments</a>"
   },
   {
     "title": "Fathers\u2019 choices may be packaged and passed down in sperm RNA",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46407337\">Comments</a>"
   },
   {
-    "title": "Functional programming and reliability: ADTs, safety, critical infrastructure",
-    "link": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
-    "source": "Hacker News",
-    "published": "2025-12-28T00:05:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46406901\">Comments</a>"
-  },
-  {
     "title": "How we lost communication to entertainment",
     "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
     "source": "Hacker News",
@@ -104,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46404848\">Comments</a>"
   },
   {
-    "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
-    "link": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-    "source": "Hacker News",
-    "published": "2025-12-27T19:45:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46404597\">Comments</a>"
-  },
-  {
-    "title": "Gpg.fail",
-    "link": "https://gpg.fail",
-    "source": "Hacker News",
-    "published": "2025-12-27T17:05:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403200\">Comments</a>"
-  },
-  {
     "title": "Floor796",
     "link": "https://floor796.com/",
     "source": "Hacker News",
     "published": "2025-12-27T13:13:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46401612\">Comments</a>"
+  },
+  {
+    "title": "We \"solved\" C10K years ago yet we keep reinventing it (2003)",
+    "link": "https://www.kegel.com/c10k.html",
+    "source": "Hacker News",
+    "published": "2025-12-25T22:35:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46387464\">Comments</a>"
   },
   {
     "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46354282\">Comments</a>"
   },
   {
-    "title": "The Origins of APL (1974) [video]",
-    "link": "https://www.youtube.com/watch?v=8kUQWuK1L4w",
+    "title": "Streaming Uploads with LiveView",
+    "link": "https://fly.io/phoenix-files/streaming-uploads-with-liveview/",
     "source": "Hacker News",
-    "published": "2025-12-22T01:43:29+00:00",
+    "published": "2025-12-22T13:04:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46350476\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46353833\">Comments</a>"
   },
   {
-    "title": "William Golding's Island of Savagery",
-    "link": "https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery",
+    "title": "Never Use Pixelation to Hide Sensitive Text (2014)",
+    "link": "https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/",
     "source": "Hacker News",
-    "published": "2025-12-21T03:18:14+00:00",
+    "published": "2025-12-21T15:15:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46341926\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46345412\">Comments</a>"
   }
 ]
