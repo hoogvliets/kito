@@ -1,5 +1,21 @@
 [
   {
+    "title": "Calendar",
+    "link": "https://neatnik.net/calendar/?year=2026",
+    "source": "Hacker News",
+    "published": "2025-12-28T05:02:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46408613\">Comments</a>"
+  },
+  {
+    "title": "Dialtone \u2013 AOL 3.0 Server",
+    "link": "https://dialtone.live/",
+    "source": "Hacker News",
+    "published": "2025-12-28T03:40:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46408192\">Comments</a>"
+  },
+  {
     "title": "Fathers\u2019 choices may be packaged and passed down in sperm RNA",
     "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
     "source": "Hacker News",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46407337\">Comments</a>"
   },
   {
-    "title": "Functional programming and reliability: ADTs, safety, critical infrastructure",
-    "link": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
-    "source": "Hacker News",
-    "published": "2025-12-28T00:05:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46406901\">Comments</a>"
-  },
-  {
     "title": "7- and 14-segment fonts \"DSEG\"",
     "link": "https://www.keshikan.net/fonts.html",
     "source": "Hacker News",
     "published": "2025-12-27T22:49:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46406213\">Comments</a>"
-  },
-  {
-    "title": "The Dangers of SSL Certificates",
-    "link": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
-    "source": "Hacker News",
-    "published": "2025-12-27T22:41:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46406129\">Comments</a>"
   },
   {
     "title": "Liberating Bluetooth on the ESP32",
@@ -112,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46400251\">Comments</a>"
   },
   {
-    "title": "2025 was the year Xbox died",
-    "link": "https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html",
-    "source": "Hacker News",
-    "published": "2025-12-23T19:03:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46368226\">Comments</a>"
-  },
-  {
     "title": "Clock synchronization is a nightmare",
     "link": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
     "source": "Hacker News",
     "published": "2025-12-23T18:59:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46368177\">Comments</a>"
+  },
+  {
+    "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+    "link": "https://github.com/rex-rs/rex",
+    "source": "Hacker News",
+    "published": "2025-12-23T02:58:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361927\">Comments</a>"
   },
   {
     "title": "Project Vend: Phase Two",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46348367\">Comments</a>"
   },
   {
-    "title": "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
-    "link": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
+    "title": "Interton Video Computer 4000",
+    "link": "https://en.wikipedia.org/wiki/Interton_Video_Computer_4000",
     "source": "Hacker News",
-    "published": "2025-12-21T20:03:03+00:00",
+    "published": "2025-12-21T14:40:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46347893\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46345158\">Comments</a>"
   }
 ]
