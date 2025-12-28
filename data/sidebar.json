@@ -1,11 +1,43 @@
 [
   {
+    "title": "Ask HN: Anti-AI Open Source License?",
+    "link": "https://news.ycombinator.com/item?id=46411275",
+    "source": "Hacker News",
+    "published": "2025-12-28T14:24:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411275\">Comments</a>"
+  },
+  {
+    "title": "'PromptQuest' is the worst game of 2025 (trying to make chatbots work)",
+    "link": "https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/",
+    "source": "Hacker News",
+    "published": "2025-12-28T13:42:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411040\">Comments</a>"
+  },
+  {
     "title": "Langfuse (YC W23) Is Hiring in Berlin, Germany",
     "link": "https://langfuse.com/careers",
     "source": "Hacker News",
     "published": "2025-12-28T12:00:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46410449\">Comments</a>"
+  },
+  {
+    "title": "Building a macOS app to know when my Mac is thermal throttling",
+    "link": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
+    "source": "Hacker News",
+    "published": "2025-12-28T11:51:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410402\">Comments</a>"
+  },
+  {
+    "title": "Hungry Fat Cells Could Someday Starve Cancer to Death",
+    "link": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
+    "source": "Hacker News",
+    "published": "2025-12-28T10:04:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46409928\">Comments</a>"
   },
   {
     "title": "Growing up in \u201c404 Not Found\u201d: China's nuclear city in the Gobi Desert",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46408988\">Comments</a>"
   },
   {
-    "title": "C++ says \u201cWe have try at home\u201d",
+    "title": "C++ says \u201cWe have try. . . finally at home\u201d",
     "link": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
     "source": "Hacker News",
     "published": "2025-12-28T06:42:53+00:00",
@@ -96,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46401612\">Comments</a>"
   },
   {
-    "title": "An experiment in separating identity, memory, and tools",
-    "link": "https://RCRDBL.com",
-    "source": "Hacker News",
-    "published": "2025-12-27T01:42:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398323\">Comments</a>"
-  },
-  {
-    "title": "Hacking a Java Minecraft server with memory overflows [video]",
-    "link": "https://www.youtube.com/watch?v=Zy6Ci-K-0K8",
-    "source": "Hacker News",
-    "published": "2025-12-24T21:53:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46379665\">Comments</a>"
-  },
-  {
     "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
     "link": "https://github.com/rex-rs/rex",
     "source": "Hacker News",
@@ -120,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46361927\">Comments</a>"
   },
   {
-    "title": "I stayed in a $40 capsule hotel (London)",
-    "link": "https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html",
+    "title": "One year of keeping a tada list",
+    "link": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
     "source": "Hacker News",
-    "published": "2025-12-22T19:14:29+00:00",
+    "published": "2025-12-22T14:16:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357654\">Comments</a>"
-  },
-  {
-    "title": "Project Vend: Phase Two",
-    "link": "https://www.anthropic.com/research/project-vend-2",
-    "source": "Hacker News",
-    "published": "2025-12-22T13:44:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354050\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46354282\">Comments</a>"
   },
   {
     "title": "The Origins of APL (1974) [video]",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46350476\">Comments</a>"
   },
   {
-    "title": "Text rendering hates you (2019)",
-    "link": "https://faultlore.com/blah/text-hates-you/",
+    "title": "William Golding's Island of Savagery",
+    "link": "https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery",
     "source": "Hacker News",
-    "published": "2025-12-22T00:14:43+00:00",
+    "published": "2025-12-21T03:18:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46349988\">Comments</a>"
-  },
-  {
-    "title": "Immer \u2013 A library of persistent and immutable data structures written in C++",
-    "link": "https://github.com/arximboldi/immer",
-    "source": "Hacker News",
-    "published": "2025-12-21T20:59:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46348367\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46341926\">Comments</a>"
   }
 ]
