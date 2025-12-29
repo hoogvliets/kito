@@ -1,5 +1,21 @@
 [
   {
+    "title": "Feynman's Hughes Lectures: 950 pages of notes",
+    "link": "https://thehugheslectures.info/the-lectures/",
+    "source": "Hacker News",
+    "published": "2025-12-29T10:43:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46419273\">Comments</a>"
+  },
+  {
+    "title": "Asking Gemini 3 to generate Brainfuck code results in an infinite loop",
+    "link": "https://teodordyakov.github.io/brainfuck-agi/",
+    "source": "Hacker News",
+    "published": "2025-12-29T09:40:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46418966\">Comments</a>"
+  },
+  {
     "title": "Staying ahead of censors in 2025",
     "link": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
     "source": "Hacker News",
@@ -46,22 +62,6 @@
     "published": "2025-12-29T02:47:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46416945\">Comments</a>"
-  },
-  {
-    "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)",
-    "link": "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/",
-    "source": "Hacker News",
-    "published": "2025-12-29T00:01:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415819\">Comments</a>"
-  },
-  {
-    "title": "Spherical Cow",
-    "link": "https://lib.rs/crates/spherical-cow",
-    "source": "Hacker News",
-    "published": "2025-12-28T23:11:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415458\">Comments</a>"
   },
   {
     "title": "As AI gobbles up chips, prices for devices may rise",
@@ -128,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46408988\">Comments</a>"
   },
   {
-    "title": "Formulaic Delimiters in the Iliad and the Odyssey",
-    "link": "https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey",
+    "title": "I asked AI researchers and economists about SWE career strategies given AI",
+    "link": "https://chrisbarber.co/I+asked+AI+researchers+%26+economists+about+SWE+career+strategy+and+the+future+of+AI",
     "source": "Hacker News",
-    "published": "2025-12-27T09:52:03+00:00",
+    "published": "2025-12-27T13:03:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46400564\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46401569\">Comments</a>"
   },
   {
     "title": "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46396824\">Comments</a>"
   },
   {
-    "title": "Line scan camera image processing",
-    "link": "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/",
+    "title": "Koine",
+    "link": "https://github.com/pattern-zones-co/koine",
     "source": "Hacker News",
-    "published": "2025-12-25T10:42:46+00:00",
+    "published": "2025-12-26T04:52:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46383593\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46389325\">Comments</a>"
   },
   {
-    "title": "Formally Verifying Peephole Optimisations in Lean",
-    "link": "https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/",
+    "title": "Best practices for long-run LED strip installs (20\u201350M) to avoid flicker?",
+    "link": "https://news.ycombinator.com/item?id=46383452",
     "source": "Hacker News",
-    "published": "2025-12-23T00:10:36+00:00",
+    "published": "2025-12-25T10:11:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46360844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46383452\">Comments</a>"
   }
 ]
