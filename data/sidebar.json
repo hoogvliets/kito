@@ -1,5 +1,45 @@
 [
   {
+    "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+    "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+    "source": "Hacker News",
+    "published": "2025-12-29T17:57:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46423290\">Comments</a>"
+  },
+  {
+    "title": "Nvidia takes $5B stake in Intel under September agreement",
+    "link": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
+    "source": "Hacker News",
+    "published": "2025-12-29T17:32:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46423010\">Comments</a>"
+  },
+  {
+    "title": "Five Years of Tinygrad",
+    "link": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
+    "source": "Hacker News",
+    "published": "2025-12-29T17:12:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422757\">Comments</a>"
+  },
+  {
+    "title": "GOG is getting acquired by its original co-founder: What it means for you",
+    "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+    "source": "Hacker News",
+    "published": "2025-12-29T16:43:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422412\">Comments</a>"
+  },
+  {
+    "title": "Static Allocation with Zig",
+    "link": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+    "source": "Hacker News",
+    "published": "2025-12-29T16:07:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422009\">Comments</a>"
+  },
+  {
     "title": "Libgodc: Write Go Programs for Sega Dreamcast",
     "link": "https://github.com/drpaneas/libgodc",
     "source": "Hacker News",
@@ -16,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46420453\">Comments</a>"
   },
   {
-    "title": "UK accounting body to halt remote exams amid AI cheating",
-    "link": "https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca",
-    "source": "Hacker News",
-    "published": "2025-12-29T13:06:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46420289\">Comments</a>"
-  },
-  {
     "title": "Kidnapped by Deutsche Bahn",
     "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
     "source": "Hacker News",
@@ -32,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46419970\">Comments</a>"
   },
   {
+    "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+    "link": "https://linuxdaw.org/",
+    "source": "Hacker News",
+    "published": "2025-12-29T12:23:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46419968\">Comments</a>"
+  },
+  {
     "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
     "link": "https://shepherd.com/bboy/2025",
     "source": "Hacker News",
     "published": "2025-12-29T11:58:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46419822\">Comments</a>"
-  },
-  {
-    "title": "Kubernetes egress control with squid proxy",
-    "link": "https://interlaye.red/kubernetes_002degress_002dsquid.html",
-    "source": "Hacker News",
-    "published": "2025-12-29T11:33:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46419659\">Comments</a>"
   },
   {
     "title": "Feynman's Hughes Lectures: 950 pages of notes",
@@ -96,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46416945\">Comments</a>"
   },
   {
-    "title": "As AI gobbles up chips, prices for devices may rise",
-    "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-    "source": "Hacker News",
-    "published": "2025-12-28T22:52:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415338\">Comments</a>"
-  },
-  {
     "title": "What an unprocessed photo looks like",
     "link": "https://maurycyz.com/misc/raw_photo/",
     "source": "Hacker News",
@@ -112,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415225\">Comments</a>"
   },
   {
-    "title": "Researchers discover molecular difference in autistic brains",
-    "link": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
+    "title": "Show HN: Spacelist, a TUI for Aerospace window manager",
+    "link": "https://github.com/magicmark/spacelist",
     "source": "Hacker News",
-    "published": "2025-12-28T22:23:33+00:00",
+    "published": "2025-12-26T23:34:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415129\">Comments</a>"
-  },
-  {
-    "title": "Unity's Mono problem: Why your C# code runs slower than it should",
-    "link": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
-    "source": "Hacker News",
-    "published": "2025-12-28T21:41:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46414819\">Comments</a>"
-  },
-  {
-    "title": "Software engineers should be a little bit cynical",
-    "link": "https://www.seangoedecke.com/a-little-bit-cynical/",
-    "source": "Hacker News",
-    "published": "2025-12-28T21:29:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46414723\">Comments</a>"
-  },
-  {
-    "title": "MongoBleed Explained Simply",
-    "link": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-    "source": "Hacker News",
-    "published": "2025-12-28T21:03:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46414475\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397537\">Comments</a>"
   },
   {
     "title": "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46396824\">Comments</a>"
   },
   {
-    "title": "Golfing Is Not Rowing",
-    "link": "https://taylor.town/golf-vs-rowing",
+    "title": "My coworker's 36 key Corne open-source keyboard setup",
+    "link": "https://nuon.co/blog/nuon-keyboard-culture/",
     "source": "Hacker News",
-    "published": "2025-12-24T21:44:04+00:00",
+    "published": "2025-12-26T15:28:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46379579\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393003\">Comments</a>"
   }
 ]
