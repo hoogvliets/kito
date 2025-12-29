@@ -1,6 +1,14 @@
 [
   {
-    "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award",
+    "title": "You can make up HTML tags",
+    "link": "https://maurycyz.com/misc/make-up-tags/",
+    "source": "Hacker News",
+    "published": "2025-12-29T02:47:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46416945\">Comments</a>"
+  },
+  {
+    "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)",
     "link": "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/",
     "source": "Hacker News",
     "published": "2025-12-29T00:01:26+00:00",
@@ -8,12 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415819\">Comments</a>"
   },
   {
-    "title": "CEOs are hugely expensive. Why not automate them?",
-    "link": "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots",
+    "title": "Fast Cvvdp Implementation in C",
+    "link": "https://github.com/halidecx/fcvvdp",
     "source": "Hacker News",
-    "published": "2025-12-28T23:17:07+00:00",
+    "published": "2025-12-28T23:30:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415488\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415570\">Comments</a>"
   },
   {
     "title": "Spherical Cow",
@@ -24,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415458\">Comments</a>"
   },
   {
-    "title": "Slaughtering Competition Problems with Quantifier Elimination",
+    "title": "Slaughtering Competition Problems with Quantifier Elimination (2021)",
     "link": "https://grossack.site/2021/12/22/qe-competition.html",
     "source": "Hacker News",
     "published": "2025-12-28T23:10:13+00:00",
@@ -40,6 +48,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415426\">Comments</a>"
   },
   {
+    "title": "As AI gobbles up chips, prices for devices may rise",
+    "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+    "source": "Hacker News",
+    "published": "2025-12-28T22:52:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46415338\">Comments</a>"
+  },
+  {
     "title": "What an unprocessed photo looks like",
     "link": "https://maurycyz.com/misc/raw_photo/",
     "source": "Hacker News",
@@ -48,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415225\">Comments</a>"
   },
   {
-    "title": "Researchers Discover Molecular Difference in Autistic Brains",
+    "title": "Researchers discover molecular difference in autistic brains",
     "link": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
     "source": "Hacker News",
     "published": "2025-12-28T22:23:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46415129\">Comments</a>"
-  },
-  {
-    "title": "Dolphin Progress Report: Release 2512",
-    "link": "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/",
-    "source": "Hacker News",
-    "published": "2025-12-28T21:57:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46414916\">Comments</a>"
   },
   {
     "title": "Why I Disappeared \u2013 My week with minimal internet in a remote island chain",
@@ -96,7 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46414475\">Comments</a>"
   },
   {
-    "title": "Stepping down as Mockito maintainer after 10 years",
+    "title": "Stepping down as Mockito maintainer after ten years",
     "link": "https://github.com/mockito/mockito/issues/3777",
     "source": "Hacker News",
     "published": "2025-12-28T20:14:58+00:00",
@@ -128,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46410402\">Comments</a>"
   },
   {
+    "title": "Learn computer graphics from scratch and for free",
+    "link": "https://www.scratchapixel.com",
+    "source": "Hacker News",
+    "published": "2025-12-28T11:08:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410210\">Comments</a>"
+  },
+  {
     "title": "Growing up in \u201c404 Not Found\u201d: China's nuclear city in the Gobi Desert",
     "link": "https://substack.com/inbox/post/182743659",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46408988\">Comments</a>"
   },
   {
-    "title": "Intermission: Battle Pulses",
-    "link": "https://acoup.blog/2025/12/18/intermission-battle-pulses/",
+    "title": "Writing non-English languages with a QWERTY keyboard",
+    "link": "https://altgr-weur.eu/altgr-intl.html",
     "source": "Hacker News",
-    "published": "2025-12-26T07:18:44+00:00",
+    "published": "2025-12-24T23:21:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46389973\">Comments</a>"
-  },
-  {
-    "title": "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
-    "link": "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions",
-    "source": "Hacker News",
-    "published": "2025-12-26T04:57:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46389336\">Comments</a>"
-  },
-  {
-    "title": "Doublespeak: In-Context Representation Hijacking",
-    "link": "https://mentaleap.ai/doublespeak/",
-    "source": "Hacker News",
-    "published": "2025-12-22T19:16:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46357686\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46380377\">Comments</a>"
   }
 ]
