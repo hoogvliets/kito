@@ -1,11 +1,35 @@
 [
   {
-    "title": "CSS-in-JS: The Great Betrayal of Front End Sanity",
-    "link": "https://thenewstack.io/css-in-js-the-great-betrayal-of-frontend-sanity/",
+    "title": "Toro: Deploy Applications as Unikernels",
+    "link": "https://github.com/torokernel/torokernel",
     "source": "Hacker News",
-    "published": "2025-12-30T14:43:45+00:00",
+    "published": "2025-12-30T17:09:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433782\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46435418\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Any example of successful vibe-coded product?",
+    "link": "https://news.ycombinator.com/item?id=46434821",
+    "source": "Hacker News",
+    "published": "2025-12-30T16:18:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46434821\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Tidy Baby is a SET game but with words",
+    "link": "https://tidy.baby",
+    "source": "Hacker News",
+    "published": "2025-12-30T15:57:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46434580\">Comments</a>"
+  },
+  {
+    "title": "What Happened to Abit Motherboards",
+    "link": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
+    "source": "Hacker News",
+    "published": "2025-12-30T14:58:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433915\">Comments</a>"
   },
   {
     "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
@@ -16,31 +40,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46433661\">Comments</a>"
   },
   {
-    "title": "Public Sans \u2013 A strong, neutral typeface",
-    "link": "https://public-sans.digital.gov/",
+    "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
+    "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
     "source": "Hacker News",
-    "published": "2025-12-30T14:23:11+00:00",
+    "published": "2025-12-30T13:55:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433579\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433352\">Comments</a>"
   },
   {
-    "title": "Win32 is the stable Linux ABI",
-    "link": "https://loss32.org/",
-    "source": "Hacker News",
-    "published": "2025-12-30T13:15:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433035\">Comments</a>"
-  },
-  {
-    "title": "No strcpy either",
-    "link": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-    "source": "Hacker News",
-    "published": "2025-12-30T13:14:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433029\">Comments</a>"
-  },
-  {
-    "title": "The British Empire's Resilient Subsea Telegraph Network",
+    "title": "The British empire's resilient subsea telegraph network",
     "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
     "source": "Hacker News",
     "published": "2025-12-30T13:10:56+00:00",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46432311\">Comments</a>"
   },
   {
-    "title": "Netflix: Open Content",
+    "title": "Netflix Open Content",
     "link": "https://opencontent.netflix.com/",
     "source": "Hacker News",
     "published": "2025-12-30T10:11:57+00:00",
@@ -80,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46431560\">Comments</a>"
   },
   {
-    "title": "Go Away Python",
+    "title": "Go away Python",
     "link": "https://lorentz.app/blog-item.html?id=go-shebang",
     "source": "Hacker News",
     "published": "2025-12-30T08:50:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46431028\">Comments</a>"
-  },
-  {
-    "title": "Hacking Washing Machines [video]",
-    "link": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-    "source": "Hacker News",
-    "published": "2025-12-30T01:40:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46428496\">Comments</a>"
   },
   {
     "title": "Stranger Things creator says turn off \"garbage\" settings",
@@ -104,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46427586\">Comments</a>"
   },
   {
-    "title": "ManusAI Joins Meta",
-    "link": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+    "title": "Loss32: Let's Build a Win32/Linux",
+    "link": "https://loss32.org/",
     "source": "Hacker News",
-    "published": "2025-12-29T22:24:22+00:00",
+    "published": "2025-12-29T19:09:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46426534\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46424173\">Comments</a>"
   },
   {
-    "title": "Google is dead. Where do we go now?",
-    "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+    "title": "Five Years of Tinygrad",
+    "link": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
     "source": "Hacker News",
-    "published": "2025-12-29T20:29:26+00:00",
+    "published": "2025-12-29T17:12:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46425198\">Comments</a>"
-  },
-  {
-    "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-    "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-    "source": "Hacker News",
-    "published": "2025-12-29T17:57:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46423290\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422757\">Comments</a>"
   },
   {
     "title": "GOG is getting acquired by its original co-founder",
@@ -134,6 +126,14 @@
     "published": "2025-12-29T16:43:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46422412\">Comments</a>"
+  },
+  {
+    "title": "Optimal Classification Cutoffs",
+    "link": "https://finite-sample.github.io/optimal-classification-cutoffs/",
+    "source": "Hacker News",
+    "published": "2025-12-26T16:49:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393755\">Comments</a>"
   },
   {
     "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46379765\">Comments</a>"
   },
   {
-    "title": "UNIX Fourth Edition",
-    "link": "http://squoze.net/UNIX/v4/README",
+    "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+    "link": "https://www.gkbrk.com/hotel-music",
     "source": "Hacker News",
-    "published": "2025-12-23T10:28:40+00:00",
+    "published": "2025-12-23T15:21:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364136\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46366010\">Comments</a>"
   }
 ]
