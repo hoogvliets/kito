@@ -8,14 +8,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46428496\">Comments</a>"
   },
   {
-    "title": "100x (YC S22) Is Hiring a Front End Engineer",
-    "link": "https://news.ycombinator.com/item?id=46428206",
-    "source": "Hacker News",
-    "published": "2025-12-30T01:00:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46428206\">Comments</a>"
-  },
-  {
     "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
     "link": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
     "source": "Hacker News",
@@ -40,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46427586\">Comments</a>"
   },
   {
+    "title": "I migrated to an almost all-EU stack and saved 500\u20ac per year",
+    "link": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
+    "source": "Hacker News",
+    "published": "2025-12-29T23:50:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46427582\">Comments</a>"
+  },
+  {
     "title": "Parsing Advances",
     "link": "https://matklad.github.io/2025/12/28/parsing-advances.html",
     "source": "Hacker News",
     "published": "2025-12-29T23:29:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46427376\">Comments</a>"
-  },
-  {
-    "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
-    "link": "https://pubs.usgs.gov/fs/farallones/",
-    "source": "Hacker News",
-    "published": "2025-12-29T23:12:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46427181\">Comments</a>"
   },
   {
     "title": "Show HN: Stop Claude Code from forgetting everything",
@@ -78,14 +70,6 @@
     "published": "2025-12-29T20:29:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46425198\">Comments</a>"
-  },
-  {
-    "title": "When someone says they hate your product",
-    "link": "https://www.getflack.com/p/responding-to-negative-feedback",
-    "source": "Hacker News",
-    "published": "2025-12-29T19:30:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46424460\">Comments</a>"
   },
   {
     "title": "The future of software development is software developers",
@@ -128,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46422009\">Comments</a>"
   },
   {
+    "title": "Karpathy on Programming: \u201cI've never felt this much behind\u201d",
+    "link": "https://twitter.com/karpathy/status/2004607146781278521",
+    "source": "Hacker News",
+    "published": "2025-12-26T20:12:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46395714\">Comments</a>"
+  },
+  {
     "title": "Streaming compression beats framed compression",
     "link": "https://bou.ke/blog/compressed/",
     "source": "Hacker News",
@@ -136,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46392382\">Comments</a>"
   },
   {
-    "title": "Show HN: Euclidle \u2013 Guess the Coordinates in N\u2011Dimensional Space",
-    "link": "https://euclidle.com/",
+    "title": "The Signature Flicker",
+    "link": "https://steipete.me/posts/2025/signature-flicker",
     "source": "Hacker News",
-    "published": "2025-12-26T08:09:32+00:00",
+    "published": "2025-12-26T07:56:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390218\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390154\">Comments</a>"
   },
   {
-    "title": "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
-    "link": "https://github.com/kenryu42/claude-code-safety-net",
+    "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
+    "link": "https://fontgenerator.design/symbols",
     "source": "Hacker News",
-    "published": "2025-12-26T03:14:07+00:00",
+    "published": "2025-12-25T15:32:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388882\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46384975\">Comments</a>"
   },
   {
     "title": "Incremental Backups of Gmail Takeouts",
@@ -158,5 +150,13 @@
     "published": "2025-12-25T12:59:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46384153\">Comments</a>"
+  },
+  {
+    "title": "UNIX Fourth Edition",
+    "link": "http://squoze.net/UNIX/v4/README",
+    "source": "Hacker News",
+    "published": "2025-12-23T10:28:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46364136\">Comments</a>"
   }
 ]
