@@ -1,5 +1,61 @@
 [
   {
+    "title": "Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025",
+    "link": "https://arxiv.org/abs/2512.14012",
+    "source": "Hacker News",
+    "published": "2025-12-30T20:06:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437391\">Comments</a>"
+  },
+  {
+    "title": "Everything as Code: How We Manage Our Company in One Monorepo",
+    "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+    "source": "Hacker News",
+    "published": "2025-12-30T20:05:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437381\">Comments</a>"
+  },
+  {
+    "title": "Zpdf: PDF text extraction in Zig \u2013 5x faster than MuPDF",
+    "link": "https://github.com/Lulzx/zpdf",
+    "source": "Hacker News",
+    "published": "2025-12-30T19:57:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437288\">Comments</a>"
+  },
+  {
+    "title": "FediMeteo: A \u20ac4 FreeBSD VPS Became a Global Weather Service",
+    "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+    "source": "Hacker News",
+    "published": "2025-12-30T19:21:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436889\">Comments</a>"
+  },
+  {
+    "title": "A faster heart for F-Droid. Our new server is here",
+    "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+    "source": "Hacker News",
+    "published": "2025-12-30T18:36:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436409\">Comments</a>"
+  },
+  {
+    "title": "Electrolysis can solve one of our biggest contamination problems",
+    "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+    "source": "Hacker News",
+    "published": "2025-12-30T18:08:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436127\">Comments</a>"
+  },
+  {
+    "title": "A Vulnerability in Libsodium",
+    "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+    "source": "Hacker News",
+    "published": "2025-12-30T17:24:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46435614\">Comments</a>"
+  },
+  {
     "title": "Toro: Deploy Applications as Unikernels",
     "link": "https://github.com/torokernel/torokernel",
     "source": "Hacker News",
@@ -8,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46435418\">Comments</a>"
   },
   {
-    "title": "Ask HN: Any example of successful vibe-coded product?",
-    "link": "https://news.ycombinator.com/item?id=46434821",
+    "title": "Show HN: 22 GB of Hacker News in SQLite",
+    "link": "https://hackerbook.dosaygo.com",
     "source": "Hacker News",
-    "published": "2025-12-30T16:18:23+00:00",
+    "published": "2025-12-30T17:01:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46434821\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tidy Baby is a SET game but with words",
-    "link": "https://tidy.baby",
-    "source": "Hacker News",
-    "published": "2025-12-30T15:57:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46434580\">Comments</a>"
-  },
-  {
-    "title": "What Happened to Abit Motherboards",
-    "link": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
-    "source": "Hacker News",
-    "published": "2025-12-30T14:58:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433915\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>"
   },
   {
     "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
@@ -88,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46431560\">Comments</a>"
   },
   {
-    "title": "Go away Python",
-    "link": "https://lorentz.app/blog-item.html?id=go-shebang",
-    "source": "Hacker News",
-    "published": "2025-12-30T08:50:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46431028\">Comments</a>"
-  },
-  {
-    "title": "Stranger Things creator says turn off \"garbage\" settings",
-    "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-    "source": "Hacker News",
-    "published": "2025-12-29T23:50:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46427586\">Comments</a>"
-  },
-  {
     "title": "Loss32: Let's Build a Win32/Linux",
     "link": "https://loss32.org/",
     "source": "Hacker News",
@@ -112,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46424173\">Comments</a>"
   },
   {
-    "title": "Five Years of Tinygrad",
-    "link": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
+    "title": "HTTP Strict Transport Security (HSTS)",
+    "link": "https://hstspreload.org/",
     "source": "Hacker News",
-    "published": "2025-12-29T17:12:20+00:00",
+    "published": "2025-12-29T08:14:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422757\">Comments</a>"
-  },
-  {
-    "title": "GOG is getting acquired by its original co-founder",
-    "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-    "source": "Hacker News",
-    "published": "2025-12-29T16:43:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46422412\">Comments</a>"
-  },
-  {
-    "title": "Optimal Classification Cutoffs",
-    "link": "https://finite-sample.github.io/optimal-classification-cutoffs/",
-    "source": "Hacker News",
-    "published": "2025-12-26T16:49:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393755\">Comments</a>"
-  },
-  {
-    "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
-    "link": "https://fontgenerator.design/symbols",
-    "source": "Hacker News",
-    "published": "2025-12-25T15:32:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46384975\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46418517\">Comments</a>"
   },
   {
     "title": "Postgres extension complements pgvector for performance and scale",
