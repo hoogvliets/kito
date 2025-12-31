@@ -1,11 +1,35 @@
 [
   {
-    "title": "Project ideas to appreciate the art of programming",
-    "link": "https://codecrafters.io/blog/programming-project-ideas",
+    "title": "L1TF Reloaded",
+    "link": "https://github.com/ThijsRay/l1tf_reloaded",
     "source": "Hacker News",
-    "published": "2025-12-30T22:47:36+00:00",
+    "published": "2025-12-31T02:33:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439027\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46440695\">Comments</a>"
+  },
+  {
+    "title": "Readings in Database Systems (5th Edition)",
+    "link": "http://www.redbook.io/",
+    "source": "Hacker News",
+    "published": "2025-12-31T02:01:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46440510\">Comments</a>"
+  },
+  {
+    "title": "Quality of drinking water varies significantly by airline",
+    "link": "https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/",
+    "source": "Hacker News",
+    "published": "2025-12-31T00:03:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439769\">Comments</a>"
+  },
+  {
+    "title": "Show HN: RAMBnB.xyz P2P marketplace for RAM rentals",
+    "link": "https://www.rambnb.xyz",
+    "source": "Hacker News",
+    "published": "2025-12-30T23:32:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439489\">Comments</a>"
   },
   {
     "title": "Honey's Dieselgate: Detecting and tricking testers",
@@ -24,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46438390\">Comments</a>"
   },
   {
-    "title": "Sabotaging Bitcoin",
-    "link": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
-    "source": "Hacker News",
-    "published": "2025-12-30T20:53:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437876\">Comments</a>"
-  },
-  {
     "title": "Professional software developers don't vibe, they control",
     "link": "https://arxiv.org/abs/2512.14012",
     "source": "Hacker News",
     "published": "2025-12-30T20:06:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46437391\">Comments</a>"
-  },
-  {
-    "title": "Everything as code: How we manage our company in one monorepo",
-    "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
-    "source": "Hacker News",
-    "published": "2025-12-30T20:05:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437381\">Comments</a>"
   },
   {
     "title": "Zpdf: PDF text extraction in Zig \u2013 5x faster than MuPDF",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46436828\">Comments</a>"
   },
   {
-    "title": "A faster heart for F-Droid. Our new server is here",
+    "title": "A faster heart for F-Droid",
     "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
     "source": "Hacker News",
     "published": "2025-12-30T18:36:37+00:00",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>"
   },
   {
-    "title": "The British empire's resilient subsea telegraph network",
-    "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-    "source": "Hacker News",
-    "published": "2025-12-30T13:10:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46432999\">Comments</a>"
-  },
-  {
     "title": "Non-Zero-Sum Games",
     "link": "https://nonzerosum.games/",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46416674\">Comments</a>"
   },
   {
+    "title": "Animated AI",
+    "link": "https://animatedai.github.io/",
+    "source": "Hacker News",
+    "published": "2025-12-26T09:34:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46390621\">Comments</a>"
+  },
+  {
     "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
     "link": "https://www.gkbrk.com/hotel-music",
     "source": "Hacker News",
     "published": "2025-12-23T15:21:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46366010\">Comments</a>"
-  },
-  {
-    "title": "Braid Math Article",
-    "link": "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/",
-    "source": "Hacker News",
-    "published": "2025-12-23T02:33:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361766\">Comments</a>"
   }
 ]
