@@ -1,5 +1,37 @@
 [
   {
+    "title": "Activeloop (YC S18) Is Hiring MTS \u2013 Back End Engineer",
+    "link": "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd",
+    "source": "Hacker News",
+    "published": "2025-12-31T12:01:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46443438\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
+    "link": "https://www.quickclip.space/",
+    "source": "Hacker News",
+    "published": "2025-12-31T10:48:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46443077\">Comments</a>"
+  },
+  {
+    "title": "Akin's Laws of Spacecraft Design [pdf]",
+    "link": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
+    "source": "Hacker News",
+    "published": "2025-12-31T10:12:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46442903\">Comments</a>"
+  },
+  {
+    "title": "The rise of industrial software",
+    "link": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+    "source": "Hacker News",
+    "published": "2025-12-31T09:09:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46442597\">Comments</a>"
+  },
+  {
     "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
     "link": "https://exopriors.com/scry",
     "source": "Hacker News",
@@ -8,15 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46442245\">Comments</a>"
   },
   {
-    "title": "Google Opal",
-    "link": "https://opal.google/landing/",
-    "source": "Hacker News",
-    "published": "2025-12-31T03:49:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46441068\">Comments</a>"
-  },
-  {
-    "title": "Readings in Database Systems (5th Edition)",
+    "title": "Readings in Database Systems (5th Edition) (2015)",
     "link": "http://www.redbook.io/",
     "source": "Hacker News",
     "published": "2025-12-31T02:01:53+00:00",
@@ -40,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46438390\">Comments</a>"
   },
   {
-    "title": "Sabotaging Bitcoin",
-    "link": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
-    "source": "Hacker News",
-    "published": "2025-12-30T20:53:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437876\">Comments</a>"
-  },
-  {
-    "title": "Zpdf: PDF text extraction in Zig",
-    "link": "https://github.com/Lulzx/zpdf",
-    "source": "Hacker News",
-    "published": "2025-12-30T19:57:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437288\">Comments</a>"
-  },
-  {
     "title": "FediMeteo: A \u20ac4 FreeBSD VPS Became a Global Weather Service",
     "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
     "source": "Hacker News",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46436409\">Comments</a>"
   },
   {
-    "title": "Electrolysis can solve one of our biggest contamination problems",
-    "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
-    "source": "Hacker News",
-    "published": "2025-12-30T18:08:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436127\">Comments</a>"
-  },
-  {
     "title": "A Vulnerability in Libsodium",
     "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
     "source": "Hacker News",
     "published": "2025-12-30T17:24:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46435614\">Comments</a>"
-  },
-  {
-    "title": "Toro: Deploy Applications as Unikernels",
-    "link": "https://github.com/torokernel/torokernel",
-    "source": "Hacker News",
-    "published": "2025-12-30T17:09:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46435418\">Comments</a>"
   },
   {
     "title": "Show HN: 22 GB of Hacker News in SQLite",
@@ -104,20 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>"
   },
   {
-    "title": "Non-Zero-Sum Games",
-    "link": "https://nonzerosum.games/",
-    "source": "Hacker News",
-    "published": "2025-12-30T11:42:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46432311\">Comments</a>"
-  },
-  {
     "title": "Loss32: Let's Build a Win32/Linux",
     "link": "https://loss32.org/",
     "source": "Hacker News",
     "published": "2025-12-29T19:09:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46424173\">Comments</a>"
+  },
+  {
+    "title": "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
+    "link": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
+    "source": "Hacker News",
+    "published": "2025-12-28T08:10:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46409359\">Comments</a>"
+  },
+  {
+    "title": "The Organists Improvising Soundtracks to Silent Films",
+    "link": "https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films",
+    "source": "Hacker News",
+    "published": "2025-12-27T13:50:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46401849\">Comments</a>"
   },
   {
     "title": "Tixl: Open-source realtime motion graphics",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46389925\">Comments</a>"
   },
   {
-    "title": "What If Heavy Files Felt Heavy?",
-    "link": "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy",
+    "title": "Kitchen Optimizations",
+    "link": "https://www.natemeyvis.com/kitchen-optimizations/",
     "source": "Hacker News",
-    "published": "2025-12-26T01:44:00+00:00",
+    "published": "2025-12-24T16:04:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388445\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46376704\">Comments</a>"
   },
   {
     "title": "'Three norths' alignment about to end",
