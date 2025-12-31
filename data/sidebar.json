@@ -1,11 +1,19 @@
 [
   {
-    "title": "L1TF Reloaded",
-    "link": "https://github.com/ThijsRay/l1tf_reloaded",
+    "title": "Google Opal",
+    "link": "https://opal.google/landing/",
     "source": "Hacker News",
-    "published": "2025-12-31T02:33:50+00:00",
+    "published": "2025-12-31T03:49:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46440695\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46441068\">Comments</a>"
+  },
+  {
+    "title": "LLVM AI tool policy: human in the loop",
+    "link": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+    "source": "Hacker News",
+    "published": "2025-12-31T03:06:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46440833\">Comments</a>"
   },
   {
     "title": "Readings in Database Systems (5th Edition)",
@@ -14,22 +22,6 @@
     "published": "2025-12-31T02:01:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46440510\">Comments</a>"
-  },
-  {
-    "title": "Quality of drinking water varies significantly by airline",
-    "link": "https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/",
-    "source": "Hacker News",
-    "published": "2025-12-31T00:03:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439769\">Comments</a>"
-  },
-  {
-    "title": "Show HN: RAMBnB.xyz P2P marketplace for RAM rentals",
-    "link": "https://www.rambnb.xyz",
-    "source": "Hacker News",
-    "published": "2025-12-30T23:32:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439489\">Comments</a>"
   },
   {
     "title": "Honey's Dieselgate: Detecting and tricking testers",
@@ -48,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46438390\">Comments</a>"
   },
   {
-    "title": "Professional software developers don't vibe, they control",
-    "link": "https://arxiv.org/abs/2512.14012",
+    "title": "Sabotaging Bitcoin",
+    "link": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
     "source": "Hacker News",
-    "published": "2025-12-30T20:06:46+00:00",
+    "published": "2025-12-30T20:53:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437391\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437876\">Comments</a>"
   },
   {
     "title": "Zpdf: PDF text extraction in Zig \u2013 5x faster than MuPDF",
@@ -70,14 +62,6 @@
     "published": "2025-12-30T19:21:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46436889\">Comments</a>"
-  },
-  {
-    "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
-    "link": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
-    "source": "Hacker News",
-    "published": "2025-12-30T19:15:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436828\">Comments</a>"
   },
   {
     "title": "A faster heart for F-Droid",
@@ -150,6 +134,22 @@
     "published": "2025-12-26T09:34:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46390621\">Comments</a>"
+  },
+  {
+    "title": "Odin: Moving Towards a New \"core:OS\"",
+    "link": "https://odin-lang.org/news/moving-towards-a-new-core-os/",
+    "source": "Hacker News",
+    "published": "2025-12-26T07:10:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46389925\">Comments</a>"
+  },
+  {
+    "title": "What If Heavy Files Felt Heavy?",
+    "link": "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy",
+    "source": "Hacker News",
+    "published": "2025-12-26T01:44:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388445\">Comments</a>"
   },
   {
     "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
