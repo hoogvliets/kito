@@ -1,6 +1,38 @@
 [
   {
-    "title": "Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025",
+    "title": "Project ideas to appreciate the art of programming",
+    "link": "https://codecrafters.io/blog/programming-project-ideas",
+    "source": "Hacker News",
+    "published": "2025-12-30T22:47:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439027\">Comments</a>"
+  },
+  {
+    "title": "Honey's Dieselgate: Detecting and tricking testers",
+    "link": "https://vptdigital.com/blog/honey-detecting-testers/",
+    "source": "Hacker News",
+    "published": "2025-12-30T21:59:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46438522\">Comments</a>"
+  },
+  {
+    "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+    "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+    "source": "Hacker News",
+    "published": "2025-12-30T21:44:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46438390\">Comments</a>"
+  },
+  {
+    "title": "Sabotaging Bitcoin",
+    "link": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
+    "source": "Hacker News",
+    "published": "2025-12-30T20:53:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46437876\">Comments</a>"
+  },
+  {
+    "title": "Professional software developers don't vibe, they control",
     "link": "https://arxiv.org/abs/2512.14012",
     "source": "Hacker News",
     "published": "2025-12-30T20:06:46+00:00",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46437391\">Comments</a>"
   },
   {
-    "title": "Everything as Code: How We Manage Our Company in One Monorepo",
+    "title": "Everything as code: How we manage our company in one monorepo",
     "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
     "source": "Hacker News",
     "published": "2025-12-30T20:05:42+00:00",
@@ -30,6 +62,14 @@
     "published": "2025-12-30T19:21:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46436889\">Comments</a>"
+  },
+  {
+    "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
+    "link": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
+    "source": "Hacker News",
+    "published": "2025-12-30T19:15:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46436828\">Comments</a>"
   },
   {
     "title": "A faster heart for F-Droid. Our new server is here",
@@ -72,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>"
   },
   {
-    "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
-    "link": "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497",
-    "source": "Hacker News",
-    "published": "2025-12-30T14:31:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433661\">Comments</a>"
-  },
-  {
-    "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-    "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
-    "source": "Hacker News",
-    "published": "2025-12-30T13:55:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46433352\">Comments</a>"
-  },
-  {
     "title": "The British empire's resilient subsea telegraph network",
     "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
     "source": "Hacker News",
     "published": "2025-12-30T13:10:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46432999\">Comments</a>"
-  },
-  {
-    "title": "Approachable Swift Concurrency",
-    "link": "https://fuckingapproachableswiftconcurrency.com/en/",
-    "source": "Hacker News",
-    "published": "2025-12-30T13:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46432916\">Comments</a>"
-  },
-  {
-    "title": "Times New American: A Tale of Two Fonts",
-    "link": "https://hsu.cy/2025/12/times-new-american/",
-    "source": "Hacker News",
-    "published": "2025-12-30T12:56:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46432862\">Comments</a>"
   },
   {
     "title": "Non-Zero-Sum Games",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46432311\">Comments</a>"
   },
   {
-    "title": "Netflix Open Content",
-    "link": "https://opencontent.netflix.com/",
-    "source": "Hacker News",
-    "published": "2025-12-30T10:11:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46431560\">Comments</a>"
-  },
-  {
     "title": "Loss32: Let's Build a Win32/Linux",
     "link": "https://loss32.org/",
     "source": "Hacker News",
@@ -136,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46424173\">Comments</a>"
   },
   {
-    "title": "HTTP Strict Transport Security (HSTS)",
-    "link": "https://hstspreload.org/",
+    "title": "Mitsubishi Diatone D-160 (1985)",
+    "link": "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html",
     "source": "Hacker News",
-    "published": "2025-12-29T08:14:45+00:00",
+    "published": "2025-12-29T02:08:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46418517\">Comments</a>"
-  },
-  {
-    "title": "Postgres extension complements pgvector for performance and scale",
-    "link": "https://github.com/timescale/pgvectorscale",
-    "source": "Hacker News",
-    "published": "2025-12-24T22:04:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46379765\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46416674\">Comments</a>"
   },
   {
     "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
@@ -158,5 +150,13 @@
     "published": "2025-12-23T15:21:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46366010\">Comments</a>"
+  },
+  {
+    "title": "Braid Math Article",
+    "link": "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/",
+    "source": "Hacker News",
+    "published": "2025-12-23T02:33:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46361766\">Comments</a>"
   }
 ]
