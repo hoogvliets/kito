@@ -1,35 +1,51 @@
 [
   {
+    "title": "Linux is good now; to feel like you actually own your PC, put Linux on it",
+    "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+    "source": "Hacker News",
+    "published": "2026-01-01T20:35:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46457770\">Comments</a>"
+  },
+  {
+    "title": "Dell's version of the DGX Spark fixes pain points",
+    "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+    "source": "Hacker News",
+    "published": "2026-01-01T19:11:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46457027\">Comments</a>"
+  },
+  {
+    "title": "Finland detains ship and its crew after critical undersea cable damaged",
+    "link": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+    "source": "Hacker News",
+    "published": "2026-01-01T18:46:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46456797\">Comments</a>"
+  },
+  {
+    "title": "Building an internal agent: Code-driven vs. LLM-driven workflows",
+    "link": "https://lethain.com/agents-coordinators/",
+    "source": "Hacker News",
+    "published": "2026-01-01T18:34:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46456682\">Comments</a>"
+  },
+  {
+    "title": "Memory Subsystem Optimizations",
+    "link": "https://johnnysswlab.com/memory-subsystem-optimizations/",
+    "source": "Hacker News",
+    "published": "2026-01-01T17:52:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46456215\">Comments</a>"
+  },
+  {
     "title": "Cameras and Lenses (2020)",
     "link": "https://ciechanow.ski/cameras-and-lenses/",
     "source": "Hacker News",
     "published": "2026-01-01T17:18:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46455872\">Comments</a>"
-  },
-  {
-    "title": "European Space Agency hit again as cybercriminals claim 200 GB data up for sale",
-    "link": "https://www.theregister.com/2025/12/31/european_space_agency_hacked/",
-    "source": "Hacker News",
-    "published": "2026-01-01T16:28:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46455330\">Comments</a>"
-  },
-  {
-    "title": "Sony PS5 ROM keys leaked \u2013 jailbreaking could be made easier with BootROM codes",
-    "link": "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:57:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46455053\">Comments</a>"
-  },
-  {
-    "title": "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
-    "link": "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:49:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454977\">Comments</a>"
   },
   {
     "title": "Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP",
@@ -48,23 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454958\">Comments</a>"
   },
   {
-    "title": "Heap Overflow in FFmpeg EXIF",
-    "link": "https://bugs.pwno.io/0014",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:31:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454854\">Comments</a>"
-  },
-  {
-    "title": "ACM Is Now Open Access",
-    "link": "https://www.acm.org/articles/bulletins/2026/january/acm-open-access",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:19:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454763\">Comments</a>"
-  },
-  {
-    "title": "OpenWorkers: Self-Hosted Cloudflare Workers in Rust",
+    "title": "Show HN: OpenWorkers \u2013 Self-hosted Cloudflare workers in Rust",
     "link": "https://openworkers.com/introducing-openworkers",
     "source": "Hacker News",
     "published": "2026-01-01T15:09:06+00:00",
@@ -80,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454587\">Comments</a>"
   },
   {
-    "title": "Python Numbers Every Programmer Should Know",
+    "title": "Python numbers every programmer should know",
     "link": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
     "source": "Hacker News",
     "published": "2026-01-01T14:39:23+00:00",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46453950\">Comments</a>"
   },
   {
-    "title": "Meta made scam ads harder to find instead of removing them",
-    "link": "https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/",
-    "source": "Hacker News",
-    "published": "2026-01-01T12:29:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46453582\">Comments</a>"
-  },
-  {
     "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
     "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
     "source": "Hacker News",
@@ -120,43 +112,51 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46453204\">Comments</a>"
   },
   {
-    "title": "2025: The Year in LLMs",
-    "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+    "title": "I rebooted my social life",
+    "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
     "source": "Hacker News",
-    "published": "2025-12-31T23:54:46+00:00",
+    "published": "2026-01-01T11:01:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46449643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46453114\">Comments</a>"
   },
   {
-    "title": "I canceled my book deal",
-    "link": "https://austinhenley.com/blog/canceledbookdeal.html",
+    "title": "Show HN: Wario Synth \u2013 Turn any song into Game Boy version",
+    "link": "https://www.wario.style",
     "source": "Hacker News",
-    "published": "2025-12-31T18:26:32+00:00",
+    "published": "2026-01-01T10:25:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46446815\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46452916\">Comments</a>"
   },
   {
-    "title": "A font with built-in TeX syntax highlighting",
-    "link": "https://rajeeshknambiar.wordpress.com/2025/12/27/a-font-with-built-in-tex-syntax-highlighting/",
+    "title": "Love your customers",
+    "link": "https://bcantrill.dtrace.org/2025/12/31/love-your-customers/",
     "source": "Hacker News",
-    "published": "2025-12-27T18:01:44+00:00",
+    "published": "2025-12-31T21:27:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46403727\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46448527\">Comments</a>"
   },
   {
-    "title": "Easel Turns One One year of building my own IDE in Clojure",
-    "link": "https://blog.phronemophobic.com/easel-one-year.html",
+    "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
+    "link": "https://github.com/quickemu-project/quickemu",
     "source": "Hacker News",
-    "published": "2025-12-27T14:46:16+00:00",
+    "published": "2025-12-30T08:19:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46402202\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46430815\">Comments</a>"
   },
   {
-    "title": "Ultra-Wide Band: A Transformational Technology for the Internet of Things",
-    "link": "https://www.eetimes.com/ultra-wide-band-a-transformational-technology-for-the-internet-of-things/",
+    "title": "All my Deutschlandtickets gone: Fraud at an industrial scale [video]",
+    "link": "https://media.ccc.de/v/39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale",
     "source": "Hacker News",
-    "published": "2025-12-24T08:58:16+00:00",
+    "published": "2025-12-28T15:54:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46373817\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46411930\">Comments</a>"
+  },
+  {
+    "title": "C-events, yet another event loop, simpler, smaller, faster, safer",
+    "link": "https://zelang-dev.github.io/c-events/",
+    "source": "Hacker News",
+    "published": "2025-12-26T14:06:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392095\">Comments</a>"
   }
 ]
