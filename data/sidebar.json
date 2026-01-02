@@ -1,11 +1,43 @@
 [
   {
+    "title": "10 years of personal finances in plain text files",
+    "link": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+    "source": "Hacker News",
+    "published": "2026-01-02T11:07:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463644\">Comments</a>"
+  },
+  {
+    "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+    "link": "https://lalitm.com/post/one-number-i-trust/",
+    "source": "Hacker News",
+    "published": "2026-01-02T10:25:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463407\">Comments</a>"
+  },
+  {
+    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+    "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+    "source": "Hacker News",
+    "published": "2026-01-02T10:10:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463315\">Comments</a>"
+  },
+  {
     "title": "Going immutable on macOS, using Nix-Darwin",
     "link": "https://carette.xyz/posts/going_immutable_macos/",
     "source": "Hacker News",
     "published": "2026-01-02T08:42:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46462719\">Comments</a>"
+  },
+  {
+    "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+    "link": "https://standardebooks.org/blog/public-domain-day-2026",
+    "source": "Hacker News",
+    "published": "2026-01-02T08:40:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462702\">Comments</a>"
   },
   {
     "title": "Round the tree, yes, but not round the squirrel",
@@ -24,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46462108\">Comments</a>"
   },
   {
-    "title": "I'm a developer for a major food delivery app",
-    "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
-    "source": "Hacker News",
-    "published": "2026-01-02T04:57:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46461563\">Comments</a>"
-  },
-  {
     "title": "Marmot \u2013 A distributed SQLite server with MySQL wire compatible interface",
     "link": "https://github.com/maxpert/marmot",
     "source": "Hacker News",
@@ -46,14 +70,6 @@
     "published": "2026-01-02T01:42:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46460440\">Comments</a>"
-  },
-  {
-    "title": "Extensibility: The \"100% Lisp\" Fallacy",
-    "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
-    "source": "Hacker News",
-    "published": "2026-01-02T01:36:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460394\">Comments</a>"
   },
   {
     "title": "Why users cannot create Issues directly",
@@ -112,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454693\">Comments</a>"
   },
   {
-    "title": "Python numbers every programmer should know",
-    "link": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+    "title": "Beddel Protocol: Sequential Pipeline Executor (YAML)",
+    "link": "https://www.npmjs.com/package/beddel",
     "source": "Hacker News",
-    "published": "2026-01-01T14:39:23+00:00",
+    "published": "2025-12-28T11:58:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454470\">Comments</a>"
-  },
-  {
-    "title": "2025 Letter",
-    "link": "https://danwang.co/2025-letter/",
-    "source": "Hacker News",
-    "published": "2026-01-01T14:32:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454413\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-    "link": "https://enroll.sh",
-    "source": "Hacker News",
-    "published": "2026-01-01T00:23:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46449852\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410443\">Comments</a>"
   },
   {
     "title": "Contact the ISS",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46405463\">Comments</a>"
   },
   {
-    "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
-    "link": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
+    "title": "Square Minus Square \u2013 A coding agent benchmark",
+    "link": "https://aedm.net/blog/square-minus-square-2025-12-22/",
     "source": "Hacker News",
-    "published": "2025-12-27T01:23:08+00:00",
+    "published": "2025-12-26T23:20:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46398235\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397454\">Comments</a>"
   },
   {
     "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
