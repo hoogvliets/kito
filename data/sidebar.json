@@ -1,5 +1,45 @@
 [
   {
+    "title": "Publish (On Your) Own Site, Syndicate Elsewhere",
+    "link": "https://indieweb.org/POSSE",
+    "source": "Hacker News",
+    "published": "2026-01-02T19:48:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46468600\">Comments</a>"
+  },
+  {
+    "title": "Unix v4 (1973) \u2013 Live Terminal",
+    "link": "https://unixv4.dev/",
+    "source": "Hacker News",
+    "published": "2026-01-02T19:18:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46468283\">Comments</a>"
+  },
+  {
+    "title": "TinyTinyTPU: 2\u00d72 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
+    "link": "https://github.com/Alanma23/tinytinyTPU-co",
+    "source": "Hacker News",
+    "published": "2026-01-02T19:13:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46468237\">Comments</a>"
+  },
+  {
+    "title": "Fighting Fire with Fire: Scalable Oral Exams",
+    "link": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
+    "source": "Hacker News",
+    "published": "2026-01-02T18:18:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46467677\">Comments</a>"
+  },
+  {
+    "title": "Accounting for Computer Scientists (2011)",
+    "link": "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+    "source": "Hacker News",
+    "published": "2026-01-02T18:16:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46467651\">Comments</a>"
+  },
+  {
     "title": "Clicks Communicator",
     "link": "https://www.clicksphone.com/en/communicator",
     "source": "Hacker News",
@@ -8,12 +48,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46467057\">Comments</a>"
   },
   {
+    "title": "The rsync algorithm (1996) [pdf]",
+    "link": "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf",
+    "source": "Hacker News",
+    "published": "2026-01-02T16:56:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466734\">Comments</a>"
+  },
+  {
+    "title": "Punkt. Unveils MC03 Smartphone",
+    "link": "https://www.punkt.ch/blogs/news/punkt-unveils-mc03",
+    "source": "Hacker News",
+    "published": "2026-01-02T16:23:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466364\">Comments</a>"
+  },
+  {
     "title": "Ask HN: Who is hiring? (January 2026)",
     "link": "https://news.ycombinator.com/item?id=46466074",
     "source": "Hacker News",
     "published": "2026-01-02T16:00:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46466074\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (January 2026)",
+    "link": "https://news.ycombinator.com/item?id=46466073",
+    "source": "Hacker News",
+    "published": "2026-01-02T16:00:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466073\">Comments</a>"
+  },
+  {
+    "title": "IPv6 just turned 30 and still hasn't taken over the world",
+    "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
+    "source": "Hacker News",
+    "published": "2026-01-02T14:55:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46465327\">Comments</a>"
   },
   {
     "title": "39th Chaos Communication Congress Videos",
@@ -32,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46464235\">Comments</a>"
   },
   {
-    "title": "Show HN: Dealta \u2013 A game-theoretic decentralized trading protocol",
-    "link": "https://github.com/orgs/Dealta-Foundation/repositories",
-    "source": "Hacker News",
-    "published": "2026-01-02T12:31:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464133\">Comments</a>"
-  },
-  {
     "title": "Assorted less(1) tips",
     "link": "https://blog.thechases.com/posts/assorted-less-tips/",
     "source": "Hacker News",
@@ -56,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46463644\">Comments</a>"
   },
   {
-    "title": "A small collection of text-only websites",
-    "link": "https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/",
-    "source": "Hacker News",
-    "published": "2026-01-02T11:06:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463635\">Comments</a>"
-  },
-  {
-    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-    "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-    "source": "Hacker News",
-    "published": "2026-01-02T10:10:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463315\">Comments</a>"
-  },
-  {
     "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
     "link": "https://standardebooks.org/blog/public-domain-day-2026",
     "source": "Hacker News",
     "published": "2026-01-02T08:40:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46462702\">Comments</a>"
-  },
-  {
-    "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
-    "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-    "source": "Hacker News",
-    "published": "2026-01-02T06:48:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462108\">Comments</a>"
-  },
-  {
-    "title": "Happy Public Domain Day 2026",
-    "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-    "source": "Hacker News",
-    "published": "2026-01-02T01:42:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460440\">Comments</a>"
   },
   {
     "title": "Why users cannot create Issues directly",
@@ -104,30 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46460319\">Comments</a>"
   },
   {
-    "title": "A website to destroy all websites",
-    "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-    "source": "Hacker News",
-    "published": "2026-01-01T20:36:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46457784\">Comments</a>"
-  },
-  {
-    "title": "Cameras and Lenses (2020)",
-    "link": "https://ciechanow.ski/cameras-and-lenses/",
-    "source": "Hacker News",
-    "published": "2026-01-01T17:18:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46455872\">Comments</a>"
-  },
-  {
-    "title": "Can I throw a C++ exception from a structured exception?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706",
-    "source": "Hacker News",
-    "published": "2025-12-29T10:28:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46419196\">Comments</a>"
-  },
-  {
     "title": "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
     "link": "https://research.ralfj.de/papers/2026-popl-miri.pdf",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46414152\">Comments</a>"
   },
   {
-    "title": "ThingsBoard: Open-Source IoT Platform",
-    "link": "https://github.com/thingsboard/thingsboard",
+    "title": "C \u2013> Java != Java \u2013> LLM",
+    "link": "http://www.observationalhazard.com/2025/12/c-java-java-llm.html",
     "source": "Hacker News",
-    "published": "2025-12-28T11:19:23+00:00",
+    "published": "2025-12-28T04:40:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410258\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46408510\">Comments</a>"
   },
   {
-    "title": "What You Need to Know Before Touching a Video File",
+    "title": "What you need to know before touching a video file",
     "link": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
     "source": "Hacker News",
     "published": "2025-12-27T19:17:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46404321\">Comments</a>"
-  },
-  {
-    "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
-    "link": "https://en.kaigaiiju.ch/episodes/matz2",
-    "source": "Hacker News",
-    "published": "2025-12-26T17:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393929\">Comments</a>"
   }
 ]
