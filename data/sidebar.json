@@ -1,11 +1,27 @@
 [
   {
-    "title": "A confession from a mainstream food delivery app engineer",
-    "link": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
+    "title": "Going immutable on macOS, using Nix-Darwin",
+    "link": "https://carette.xyz/posts/going_immutable_macos/",
     "source": "Hacker News",
-    "published": "2026-01-02T05:00:25+00:00",
+    "published": "2026-01-02T08:42:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46461578\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462719\">Comments</a>"
+  },
+  {
+    "title": "Round the tree, yes, but not round the squirrel",
+    "link": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
+    "source": "Hacker News",
+    "published": "2026-01-02T08:16:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462592\">Comments</a>"
+  },
+  {
+    "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
+    "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+    "source": "Hacker News",
+    "published": "2026-01-02T06:48:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462108\">Comments</a>"
   },
   {
     "title": "I'm a developer for a major food delivery app",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46460319\">Comments</a>"
   },
   {
-    "title": "WebAssembly as a Python Extension Platform",
-    "link": "https://nullprogram.com/blog/2026/01/01/",
-    "source": "Hacker News",
-    "published": "2026-01-01T22:09:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458624\">Comments</a>"
-  },
-  {
     "title": "Can Bundler be as fast as uv?",
     "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
     "source": "Hacker News",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46457770\">Comments</a>"
   },
   {
-    "title": "Dell's version of the DGX Spark fixes pain points",
-    "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
-    "source": "Hacker News",
-    "published": "2026-01-01T19:11:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46457027\">Comments</a>"
-  },
-  {
     "title": "Cameras and Lenses (2020)",
     "link": "https://ciechanow.ski/cameras-and-lenses/",
     "source": "Hacker News",
@@ -102,14 +102,6 @@
     "published": "2026-01-01T15:49:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454977\">Comments</a>"
-  },
-  {
-    "title": "50% of U.S. vinyl buyers don't own a record player",
-    "link": "https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:45:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454944\">Comments</a>"
   },
   {
     "title": "Show HN: OpenWorkers \u2013 Self-hosted Cloudflare workers in Rust",
@@ -136,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454413\">Comments</a>"
   },
   {
-    "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
-    "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
-    "source": "Hacker News",
-    "published": "2026-01-01T11:17:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46453204\">Comments</a>"
-  },
-  {
     "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
     "link": "https://enroll.sh",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46449852\">Comments</a>"
   },
   {
+    "title": "Contact the ISS",
+    "link": "https://www.ariss.org/contact-the-iss.html",
+    "source": "Hacker News",
+    "published": "2025-12-27T21:35:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46405463\">Comments</a>"
+  },
+  {
     "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
     "link": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
     "source": "Hacker News",
     "published": "2025-12-27T01:23:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46398235\">Comments</a>"
+  },
+  {
+    "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
+    "link": "https://en.kaigaiiju.ch/episodes/matz2",
+    "source": "Hacker News",
+    "published": "2025-12-26T17:07:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46393929\">Comments</a>"
   }
 ]
