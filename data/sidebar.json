@@ -1,11 +1,83 @@
 [
   {
+    "title": "The Netflix Simian Army (2011)",
+    "link": "https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116",
+    "source": "Hacker News",
+    "published": "2026-01-02T14:17:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464953\">Comments</a>"
+  },
+  {
+    "title": "Parental Controls Aren't for Parents",
+    "link": "https://beasthacker.com/til/parental-controls-arent-for-parents.html",
+    "source": "Hacker News",
+    "published": "2026-01-02T13:42:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464652\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OfferGridAI \u2013 side-by-side comparison of real estate offers from PDFs",
+    "link": "https://offergridai.com",
+    "source": "Hacker News",
+    "published": "2026-01-02T13:29:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464529\">Comments</a>"
+  },
+  {
+    "title": "39th Chaos Communication Congress Videos",
+    "link": "https://media.ccc.de/b/congress/2025",
+    "source": "Hacker News",
+    "published": "2026-01-02T13:17:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464426\">Comments</a>"
+  },
+  {
+    "title": "FracturedJson",
+    "link": "https://github.com/j-brooke/FracturedJson/wiki",
+    "source": "Hacker News",
+    "published": "2026-01-02T12:46:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464235\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Dealta \u2013 A game-theoretic decentralized trading protocol",
+    "link": "https://github.com/orgs/Dealta-Foundation/repositories",
+    "source": "Hacker News",
+    "published": "2026-01-02T12:31:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464133\">Comments</a>"
+  },
+  {
+    "title": "Assorted less(1) tips",
+    "link": "https://blog.thechases.com/posts/assorted-less-tips/",
+    "source": "Hacker News",
+    "published": "2026-01-02T12:29:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464120\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a clipboard tool to strip/keep specific formatting like Italics",
+    "link": "https://custompaste.com",
+    "source": "Hacker News",
+    "published": "2026-01-02T12:07:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463992\">Comments</a>"
+  },
+  {
     "title": "10 years of personal finances in plain text files",
     "link": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
     "source": "Hacker News",
     "published": "2026-01-02T11:07:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46463644\">Comments</a>"
+  },
+  {
+    "title": "A small collection of text-only websites",
+    "link": "https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/",
+    "source": "Hacker News",
+    "published": "2026-01-02T11:06:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46463635\">Comments</a>"
   },
   {
     "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
@@ -24,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46463315\">Comments</a>"
   },
   {
-    "title": "Going immutable on macOS, using Nix-Darwin",
-    "link": "https://carette.xyz/posts/going_immutable_macos/",
-    "source": "Hacker News",
-    "published": "2026-01-02T08:42:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462719\">Comments</a>"
-  },
-  {
     "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
     "link": "https://standardebooks.org/blog/public-domain-day-2026",
     "source": "Hacker News",
@@ -40,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46462702\">Comments</a>"
   },
   {
-    "title": "Round the tree, yes, but not round the squirrel",
-    "link": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
-    "source": "Hacker News",
-    "published": "2026-01-02T08:16:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46462592\">Comments</a>"
-  },
-  {
     "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
     "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
     "source": "Hacker News",
     "published": "2026-01-02T06:48:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46462108\">Comments</a>"
-  },
-  {
-    "title": "Marmot \u2013 A distributed SQLite server with MySQL wire compatible interface",
-    "link": "https://github.com/maxpert/marmot",
-    "source": "Hacker News",
-    "published": "2026-01-02T02:21:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460676\">Comments</a>"
   },
   {
     "title": "Happy Public Domain Day 2026",
@@ -80,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46460319\">Comments</a>"
   },
   {
-    "title": "Can Bundler be as fast as uv?",
-    "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-    "source": "Hacker News",
-    "published": "2026-01-01T21:37:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458302\">Comments</a>"
-  },
-  {
     "title": "A website to destroy all websites",
     "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
     "source": "Hacker News",
@@ -96,60 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46457784\">Comments</a>"
   },
   {
-    "title": "Linux is good now",
-    "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+    "title": "Can I throw a C++ exception from a structured exception?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706",
     "source": "Hacker News",
-    "published": "2026-01-01T20:35:11+00:00",
+    "published": "2025-12-29T10:28:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46457770\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46419196\">Comments</a>"
   },
   {
-    "title": "Cameras and Lenses (2020)",
-    "link": "https://ciechanow.ski/cameras-and-lenses/",
+    "title": "What You Need to Know Before Touching a Video File",
+    "link": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
     "source": "Hacker News",
-    "published": "2026-01-01T17:18:01+00:00",
+    "published": "2025-12-27T19:17:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46455872\">Comments</a>"
-  },
-  {
-    "title": "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
-    "link": "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:49:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454977\">Comments</a>"
-  },
-  {
-    "title": "Show HN: OpenWorkers \u2013 Self-hosted Cloudflare workers in Rust",
-    "link": "https://openworkers.com/introducing-openworkers",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:09:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454693\">Comments</a>"
-  },
-  {
-    "title": "Beddel Protocol: Sequential Pipeline Executor (YAML)",
-    "link": "https://www.npmjs.com/package/beddel",
-    "source": "Hacker News",
-    "published": "2025-12-28T11:58:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46410443\">Comments</a>"
-  },
-  {
-    "title": "Contact the ISS",
-    "link": "https://www.ariss.org/contact-the-iss.html",
-    "source": "Hacker News",
-    "published": "2025-12-27T21:35:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46405463\">Comments</a>"
-  },
-  {
-    "title": "Square Minus Square \u2013 A coding agent benchmark",
-    "link": "https://aedm.net/blog/square-minus-square-2025-12-22/",
-    "source": "Hacker News",
-    "published": "2025-12-26T23:20:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46397454\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46404321\">Comments</a>"
   },
   {
     "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
