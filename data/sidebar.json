@@ -1,5 +1,53 @@
 [
   {
+    "title": "DENT: A network operating system (NOS) for everyone else",
+    "link": "https://dent.dev/",
+    "source": "Hacker News",
+    "published": "2026-01-02T02:45:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460831\">Comments</a>"
+  },
+  {
+    "title": "Marmot \u2013 A distributed SQLite server with MySQL wire compatible interface",
+    "link": "https://github.com/maxpert/marmot",
+    "source": "Hacker News",
+    "published": "2026-01-02T02:21:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460676\">Comments</a>"
+  },
+  {
+    "title": "AI Futures Model: Dec 2025 Update",
+    "link": "https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update",
+    "source": "Hacker News",
+    "published": "2026-01-02T01:51:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460496\">Comments</a>"
+  },
+  {
+    "title": "Happy Public Domain Day 2026",
+    "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+    "source": "Hacker News",
+    "published": "2026-01-02T01:42:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460440\">Comments</a>"
+  },
+  {
+    "title": "Extensibility: The \"100% Lisp\" Fallacy",
+    "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+    "source": "Hacker News",
+    "published": "2026-01-02T01:36:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460394\">Comments</a>"
+  },
+  {
+    "title": "Why users cannot create Issues directly",
+    "link": "https://github.com/ghostty-org/ghostty/issues/3558",
+    "source": "Hacker News",
+    "published": "2026-01-02T01:24:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46460319\">Comments</a>"
+  },
+  {
     "title": "WebAssembly as a Python Extension Platform",
     "link": "https://nullprogram.com/blog/2026/01/01/",
     "source": "Hacker News",
@@ -14,14 +62,6 @@
     "published": "2026-01-01T21:37:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46458302\">Comments</a>"
-  },
-  {
-    "title": "Straussian Memes",
-    "link": "https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion",
-    "source": "Hacker News",
-    "published": "2026-01-01T21:24:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458165\">Comments</a>"
   },
   {
     "title": "A website to destroy all websites",
@@ -72,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46454977\">Comments</a>"
   },
   {
-    "title": "50% of U.S. vinyl buyers don't own a record player",
-    "link": "https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:45:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454944\">Comments</a>"
-  },
-  {
     "title": "Show HN: OpenWorkers \u2013 Self-hosted Cloudflare workers in Rust",
     "link": "https://openworkers.com/introducing-openworkers",
     "source": "Hacker News",
@@ -112,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46453204\">Comments</a>"
   },
   {
-    "title": "I rebooted my social life",
-    "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
-    "source": "Hacker News",
-    "published": "2026-01-01T11:01:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46453114\">Comments</a>"
-  },
-  {
     "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
     "link": "https://enroll.sh",
     "source": "Hacker News",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46449852\">Comments</a>"
   },
   {
-    "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
-    "link": "https://github.com/quickemu-project/quickemu",
+    "title": "Gaming on a Receipt Printer [video]",
+    "link": "https://www.youtube.com/watch?v=oEqvYXYI56s",
     "source": "Hacker News",
-    "published": "2025-12-30T08:19:08+00:00",
+    "published": "2025-12-27T22:20:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46430815\">Comments</a>"
-  },
-  {
-    "title": "Bypassing a Clever CD-Check",
-    "link": "https://www.davidschlachter.com/misc/no-cd-patch",
-    "source": "Hacker News",
-    "published": "2025-12-28T17:20:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412631\">Comments</a>"
-  },
-  {
-    "title": "C-events, yet another event loop, simpler, smaller, faster, safer",
-    "link": "https://zelang-dev.github.io/c-events/",
-    "source": "Hacker News",
-    "published": "2025-12-26T14:06:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46392095\">Comments</a>"
-  },
-  {
-    "title": "Moving Images Related to the Apollo Missions, 1967\u20131969",
-    "link": "https://catalog.archives.gov/id/133360601",
-    "source": "Hacker News",
-    "published": "2025-12-26T03:20:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46388912\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46405916\">Comments</a>"
   }
 ]
