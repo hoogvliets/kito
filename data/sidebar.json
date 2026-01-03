@@ -1,5 +1,13 @@
 [
   {
+    "title": "Explosions reported in Venezuelan capital Caracas",
+    "link": "https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas",
+    "source": "Hacker News",
+    "published": "2026-01-03T07:35:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46473623\">Comments</a>"
+  },
+  {
     "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
     "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
     "source": "Hacker News",
@@ -88,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46468283\">Comments</a>"
   },
   {
-    "title": "TinyTinyTPU: 2\u00d72 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
-    "link": "https://github.com/Alanma23/tinytinyTPU-co",
-    "source": "Hacker News",
-    "published": "2026-01-02T19:13:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46468237\">Comments</a>"
-  },
-  {
     "title": "Fighting Fire with Fire: Scalable Oral Exams",
     "link": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46466074\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who wants to be hired? (January 2026)",
-    "link": "https://news.ycombinator.com/item?id=46466073",
-    "source": "Hacker News",
-    "published": "2026-01-02T16:00:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466073\">Comments</a>"
-  },
-  {
     "title": "IPv6 just turned 30 and still hasn't taken over the world",
     "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
     "source": "Hacker News",
     "published": "2026-01-02T14:55:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46465327\">Comments</a>"
+  },
+  {
+    "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
+    "link": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
+    "source": "Hacker News",
+    "published": "2025-12-31T13:00:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46443730\">Comments</a>"
   },
   {
     "title": "The Cost of a Closure in C: The Rest",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46442229\">Comments</a>"
   },
   {
-    "title": "What you need to know before touching a video file",
-    "link": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
+    "title": "Why 451 Is Good for You \u2013 Greylisting Perspectives from the Early Noughties",
+    "link": "https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html",
     "source": "Hacker News",
-    "published": "2025-12-27T19:17:25+00:00",
+    "published": "2025-12-28T21:22:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46404321\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46414653\">Comments</a>"
   },
   {
     "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
