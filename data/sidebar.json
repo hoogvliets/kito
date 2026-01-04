@@ -1,5 +1,37 @@
 [
   {
+    "title": "Learning to Play Tic-Tac-Toe with Jax",
+    "link": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+    "source": "Hacker News",
+    "published": "2026-01-04T05:09:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485130\">Comments</a>"
+  },
+  {
+    "title": "Corundum \u2013 open-source FPGA-based NIC and platform for in-network compute",
+    "link": "https://github.com/corundum/corundum",
+    "source": "Hacker News",
+    "published": "2026-01-04T05:04:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485101\">Comments</a>"
+  },
+  {
+    "title": "Neural Networks: Zero to Hero",
+    "link": "https://karpathy.ai/zero-to-hero.html",
+    "source": "Hacker News",
+    "published": "2026-01-04T05:02:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485090\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Krowdovi \u2013 Video-based indoor navigation on a DePIN creator economy",
+    "link": "https://github.com/daftpixie/krowdovi",
+    "source": "Hacker News",
+    "published": "2026-01-04T04:23:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46484882\">Comments</a>"
+  },
+  {
     "title": "How Thomas Mann Wrote the Magic Mountain",
     "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
     "source": "Hacker News",
@@ -64,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46482877\">Comments</a>"
   },
   {
-    "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
-    "link": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
-    "source": "Hacker News",
-    "published": "2026-01-03T23:14:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46482777\">Comments</a>"
-  },
-  {
-    "title": "The Riven Diffs \u2013 Seeing Riven (1997) Differently",
-    "link": "https://glthr.com/the-riven-diffs-1",
-    "source": "Hacker News",
-    "published": "2026-01-03T23:01:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46482642\">Comments</a>"
-  },
-  {
     "title": "Total monthly number of StackOverflow questions over time",
     "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
     "source": "Hacker News",
@@ -104,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46481849\">Comments</a>"
   },
   {
-    "title": "Xr0 verifier, guarantee the safety of C programs at compile time",
-    "link": "https://xr0.dev",
-    "source": "Hacker News",
-    "published": "2026-01-03T18:10:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46479673\">Comments</a>"
-  },
-  {
-    "title": "The C3 Programming Language",
-    "link": "https://c3-lang.org",
-    "source": "Hacker News",
-    "published": "2026-01-03T16:41:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46478647\">Comments</a>"
-  },
-  {
     "title": "The Most Popular Blogs of Hacker News in 2025",
     "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
     "source": "Hacker News",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46478377\">Comments</a>"
   },
   {
-    "title": "Torch.ts \u2013 building PyTorch in TypeScript from scratch to learn",
-    "link": "https://github.com/13point5/torch.ts",
+    "title": "Odoo: Open-Source ERP",
+    "link": "https://github.com/odoo/odoo",
     "source": "Hacker News",
-    "published": "2025-12-31T08:49:29+00:00",
+    "published": "2025-12-31T00:35:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46442502\">Comments</a>"
-  },
-  {
-    "title": "Language Gives Authority to Weak Ideas",
-    "link": "https://hichvg.substack.com/p/elegance-is-bullshit",
-    "source": "Hacker News",
-    "published": "2025-12-30T01:32:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46428444\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439993\">Comments</a>"
   },
   {
     "title": "The Late Arrival of 16-Bit CP/M \u2013 By Nemanja Trifunovic",
@@ -150,6 +142,14 @@
     "published": "2025-12-29T22:30:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46426614\">Comments</a>"
+  },
+  {
+    "title": "Finger-Nose Stylus for Touch Screens",
+    "link": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
+    "source": "Hacker News",
+    "published": "2025-12-29T19:59:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46424807\">Comments</a>"
   },
   {
     "title": "Ed25519-CLI \u2013 command-line interface for the Ed25519 signature system",
