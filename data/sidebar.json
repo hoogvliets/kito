@@ -1,5 +1,29 @@
 [
   {
+    "title": "Maybe Comments _Should_ Explain 'What'",
+    "link": "https://www.hillelwayne.com/post/what-comments/",
+    "source": "Hacker News",
+    "published": "2026-01-04T10:43:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46486780\">Comments</a>"
+  },
+  {
+    "title": "Anatomy of BoltzGen",
+    "link": "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen",
+    "source": "Hacker News",
+    "published": "2026-01-04T10:28:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46486681\">Comments</a>"
+  },
+  {
+    "title": "The PGP Problem (2019)",
+    "link": "https://www.latacora.com/blog/2019/07/16/the-pgp-problem/",
+    "source": "Hacker News",
+    "published": "2026-01-04T09:11:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46486326\">Comments</a>"
+  },
+  {
     "title": "The Gentle Seduction",
     "link": "http://www.skyhunter.com/marcs/GentleSeduction.html",
     "source": "Hacker News",
@@ -8,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46486135\">Comments</a>"
   },
   {
-    "title": "Pixoo Sign Client for Ruby",
-    "link": "https://github.com/tenderlove/pixoo-rb",
+    "title": "Can I start using Wayland in 2026?",
+    "link": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
     "source": "Hacker News",
-    "published": "2026-01-04T06:54:50+00:00",
+    "published": "2026-01-04T08:11:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485629\">Comments</a>"
-  },
-  {
-    "title": "Learning to Play Tic-Tac-Toe with Jax",
-    "link": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
-    "source": "Hacker News",
-    "published": "2026-01-04T05:09:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485130\">Comments</a>"
-  },
-  {
-    "title": "Corundum \u2013 open-source FPGA-based NIC and platform for in-network compute",
-    "link": "https://github.com/corundum/corundum",
-    "source": "Hacker News",
-    "published": "2026-01-04T05:04:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485101\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485989\">Comments</a>"
   },
   {
     "title": "Neural Networks: Zero to Hero",
@@ -38,14 +46,6 @@
     "published": "2026-01-04T05:02:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46485090\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Claude Reflect \u2013 Auto-turn Claude corrections into project config",
-    "link": "https://github.com/BayramAnnakov/claude-reflect",
-    "source": "Hacker News",
-    "published": "2026-01-04T04:31:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46484933\">Comments</a>"
   },
   {
     "title": "Gershwin-desktop: OS X-like Desktop Environment based on GNUStep",
@@ -70,14 +70,6 @@
     "published": "2026-01-04T01:21:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46483776\">Comments</a>"
-  },
-  {
-    "title": "The Great Gatsby is the most misunderstood novel (2021)",
-    "link": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
-    "source": "Hacker News",
-    "published": "2026-01-04T01:15:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46483729\">Comments</a>"
   },
   {
     "title": "Corroded: Illegal Rust",
@@ -128,6 +120,30 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46478377\">Comments</a>"
   },
   {
+    "title": "The First Video Game Came Long Before Pong",
+    "link": "https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262",
+    "source": "Hacker News",
+    "published": "2025-12-31T00:10:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46439816\">Comments</a>"
+  },
+  {
+    "title": "From silicon to Darude \u2013 Sandstorm: breaking famous synthesizer DSPs [video]",
+    "link": "https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps",
+    "source": "Hacker News",
+    "published": "2025-12-30T21:31:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46438258\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Replacing my OS process scheduler with an LLM",
+    "link": "https://github.com/mprajyothreddy/brainkernel",
+    "source": "Hacker News",
+    "published": "2025-12-30T16:47:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46435142\">Comments</a>"
+  },
+  {
     "title": "The Late Arrival of 16-Bit CP/M",
     "link": "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46426614\">Comments</a>"
   },
   {
-    "title": "Finger-Nose Stylus for Touch Screens (2011)",
-    "link": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
-    "source": "Hacker News",
-    "published": "2025-12-29T19:59:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46424807\">Comments</a>"
-  },
-  {
     "title": "GDI Effects from the PC cracking scene",
     "link": "https://gdimayhem.temari.fr/index.php?p=all",
     "source": "Hacker News",
     "published": "2025-12-29T19:10:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46424186\">Comments</a>"
-  },
-  {
-    "title": "Ed25519-CLI \u2013 command-line interface for the Ed25519 signature system",
-    "link": "https://lib25519.cr.yp.to/ed25519-cli.html",
-    "source": "Hacker News",
-    "published": "2025-12-28T16:12:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46412070\">Comments</a>"
   }
 ]
