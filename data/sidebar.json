@@ -1,19 +1,27 @@
 [
   {
+    "title": "It's hard to justify Tahoe icons",
+    "link": "https://tonsky.me/blog/tahoe-icons/",
+    "source": "Hacker News",
+    "published": "2026-01-05T11:51:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497712\">Comments</a>"
+  },
+  {
+    "title": "Anna's Archive Loses .Org Domain After Surprise Suspension",
+    "link": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
+    "source": "Hacker News",
+    "published": "2026-01-05T10:23:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497164\">Comments</a>"
+  },
+  {
     "title": "Decorative Cryptography",
     "link": "https://www.dlp.rip/decorative-cryptography",
     "source": "Hacker News",
     "published": "2026-01-05T08:29:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46496494\">Comments</a>"
-  },
-  {
-    "title": "Inducing self-NSFW classification in image models to prevent deepfakes edits",
-    "link": "https://news.ycombinator.com/item?id=46496357",
-    "source": "Hacker News",
-    "published": "2026-01-05T08:02:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46496357\">Comments</a>"
   },
   {
     "title": "Databases in 2025: A Year in Review",
@@ -64,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46491749\">Comments</a>"
   },
   {
-    "title": "Claude Code On-the-Go",
-    "link": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
-    "source": "Hacker News",
-    "published": "2026-01-04T19:48:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491486\">Comments</a>"
-  },
-  {
     "title": "Lessons from 14 years at Google",
     "link": "https://addyosmani.com/blog/21-lessons/",
     "source": "Hacker News",
     "published": "2026-01-04T15:23:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46488819\">Comments</a>"
-  },
-  {
-    "title": "Show HN: An interactive guide to how browsers work",
-    "link": "https://howbrowserswork.com/",
-    "source": "Hacker News",
-    "published": "2026-01-04T15:08:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46488654\">Comments</a>"
   },
   {
     "title": "Web development is fun again",
@@ -112,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46488278\">Comments</a>"
   },
   {
+    "title": "Revisiting the original Roomba and its simple architecture",
+    "link": "https://robotsinplainenglish.com/e/2025-12-27-roomba.html",
+    "source": "Hacker News",
+    "published": "2026-01-03T04:53:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46472930\">Comments</a>"
+  },
+  {
     "title": "I charged $18k for a Static HTML Page (2019)",
     "link": "https://idiallo.com/blog/18000-dollars-static-web-page",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46469877\">Comments</a>"
   },
   {
+    "title": "Ask HN: Help with LLVM",
+    "link": "https://news.ycombinator.com/item?id=46465866",
+    "source": "Hacker News",
+    "published": "2026-01-02T15:44:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46465866\">Comments</a>"
+  },
+  {
     "title": "Monads in C# (Part 2): Result",
     "link": "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/",
     "source": "Hacker News",
     "published": "2026-01-01T18:45:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46456787\">Comments</a>"
-  },
-  {
-    "title": "Why Microsoft Store Discontinued Support for Office Apps",
-    "link": "https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/",
-    "source": "Hacker News",
-    "published": "2026-01-01T15:27:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454824\">Comments</a>"
   },
   {
     "title": "Logos Language Guide: Compile English to Rust",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46448356\">Comments</a>"
   },
   {
-    "title": "How to translate a ROM: The mysteries of the game cartridge [video]",
-    "link": "https://www.youtube.com/watch?v=XDg73E1n5-g",
+    "title": "Show HN: Circuit Artist \u2013 Circuit simulator with propagation animation, rewind",
+    "link": "https://github.com/lets-all-be-stupid-forever/circuit-artist",
     "source": "Hacker News",
-    "published": "2025-12-31T01:10:05+00:00",
+    "published": "2025-12-31T16:12:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46440188\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46445412\">Comments</a>"
   }
 ]
