@@ -1,5 +1,77 @@
 [
   {
+    "title": "Pentagon moves to punish Democratic senator over 'seditious video'",
+    "link": "https://news.ycombinator.com/item?id=46504159",
+    "source": "Hacker News",
+    "published": "2026-01-05T20:29:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46504454\">Comments</a>"
+  },
+  {
+    "title": "O-Ring Automation",
+    "link": "https://www.nber.org/papers/w34639",
+    "source": "Hacker News",
+    "published": "2026-01-05T19:41:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46503685\">Comments</a>"
+  },
+  {
+    "title": "Refactoring \u2013 Not on the backlog (2014)",
+    "link": "https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/",
+    "source": "Hacker News",
+    "published": "2026-01-05T19:23:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46503439\">Comments</a>"
+  },
+  {
+    "title": "X blames users for Grok-generated CSAM; no fixes announced",
+    "link": "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/",
+    "source": "Hacker News",
+    "published": "2026-01-05T19:07:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46503199\">Comments</a>"
+  },
+  {
+    "title": "Pipe Dreams \u2013 The life and times of Yahoo Pipes (2023)",
+    "link": "https://retool.com/pipes",
+    "source": "Hacker News",
+    "published": "2026-01-05T18:55:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46503006\">Comments</a>"
+  },
+  {
+    "title": "Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly",
+    "link": "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw",
+    "source": "Hacker News",
+    "published": "2026-01-05T18:35:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502736\">Comments</a>"
+  },
+  {
+    "title": "The meek did inherit the Earth, at least among ants",
+    "link": "https://www.nytimes.com/2025/12/19/science/ants-exoskeletons-weak.html",
+    "source": "Hacker News",
+    "published": "2026-01-05T18:33:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502709\">Comments</a>"
+  },
+  {
+    "title": "Utopian Scholastic",
+    "link": "https://wol.fm/blog/utopian-scholastic.html",
+    "source": "Hacker News",
+    "published": "2026-01-05T18:29:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502652\">Comments</a>"
+  },
+  {
+    "title": "Sega co-founder David Rosen has died",
+    "link": "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies",
+    "source": "Hacker News",
+    "published": "2026-01-05T18:00:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502239\">Comments</a>"
+  },
+  {
     "title": "Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)",
     "link": "https://github.com/Cerelog-ESP-EEG/ESP-EEG",
     "source": "Hacker News",
@@ -8,52 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46502051\">Comments</a>"
   },
   {
-    "title": "Calibrating My Turtle",
-    "link": "https://clabs.org/blog/CalibratingMyTurtle",
+    "title": "So, you want to chunk really fast?",
+    "link": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
     "source": "Hacker News",
-    "published": "2026-01-05T17:41:17+00:00",
+    "published": "2026-01-05T17:19:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501987\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501665\">Comments</a>"
   },
   {
-    "title": "A Web Developer Posted a Payment Shaming Message on Their Client's Site",
-    "link": "https://joseph-smith.co.uk/",
-    "source": "Hacker News",
-    "published": "2026-01-05T17:40:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501975\">Comments</a>"
-  },
-  {
-    "title": "How Y Combinator made it smart to trust founders",
-    "link": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
-    "source": "Hacker News",
-    "published": "2026-01-05T17:20:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501677\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tailsnitch \u2013 A Security Auditor for Tailscale",
+    "title": "Show HN: Tailsnitch \u2013 A security auditor for Tailscale",
     "link": "https://github.com/Adversis/tailsnitch",
     "source": "Hacker News",
     "published": "2026-01-05T16:47:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46501137\">Comments</a>"
-  },
-  {
-    "title": "Sandboxing Untrusted Python",
-    "link": "https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c",
-    "source": "Hacker News",
-    "published": "2026-01-05T16:11:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46500510\">Comments</a>"
-  },
-  {
-    "title": "CSS sucks because we don't bother learning it (2022)",
-    "link": "https://idiallo.com/blog/learn-css",
-    "source": "Hacker News",
-    "published": "2026-01-05T15:37:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46500022\">Comments</a>"
   },
   {
     "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
@@ -62,14 +102,6 @@
     "published": "2026-01-05T15:34:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46499983\">Comments</a>"
-  },
-  {
-    "title": "RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids",
-    "link": "https://news.ycombinator.com/item?id=46499976",
-    "source": "Hacker News",
-    "published": "2026-01-05T15:34:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46499976\">Comments</a>"
   },
   {
     "title": "Show HN: DoNotNotify \u2013 log and intelligently block notifications on Android",
@@ -88,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46498658\">Comments</a>"
   },
   {
-    "title": "All AI Videos Are Harmful (2025)",
-    "link": "https://idiallo.com/blog/all-ai-videos-are-harmful",
-    "source": "Hacker News",
-    "published": "2026-01-05T13:44:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46498651\">Comments</a>"
-  },
-  {
     "title": "It's hard to justify Tahoe icons",
     "link": "https://tonsky.me/blog/tahoe-icons/",
     "source": "Hacker News",
     "published": "2026-01-05T11:51:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46497712\">Comments</a>"
-  },
-  {
-    "title": "Cigarette smoke effect using shaders",
-    "link": "https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke",
-    "source": "Hacker News",
-    "published": "2026-01-05T11:32:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497589\">Comments</a>"
-  },
-  {
-    "title": "Anna's Archive loses .org domain after surprise suspension",
-    "link": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
-    "source": "Hacker News",
-    "published": "2026-01-05T10:23:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497164\">Comments</a>"
-  },
-  {
-    "title": "Decorative Cryptography",
-    "link": "https://www.dlp.rip/decorative-cryptography",
-    "source": "Hacker News",
-    "published": "2026-01-05T08:29:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46496494\">Comments</a>"
   },
   {
     "title": "Databases in 2025: A Year in Review",
@@ -136,27 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46496103\">Comments</a>"
   },
   {
-    "title": "A spider web unlike any seen before",
-    "link": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
+    "title": "Try to take my position: The best promotion advice I ever got",
+    "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
     "source": "Hacker News",
-    "published": "2026-01-05T07:06:22+00:00",
+    "published": "2026-01-02T15:56:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46496054\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466027\">Comments</a>"
   },
   {
-    "title": "Lessons from 14 years at Google",
-    "link": "https://addyosmani.com/blog/21-lessons/",
+    "title": "Pebble Round 2",
+    "link": "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever",
     "source": "Hacker News",
-    "published": "2026-01-04T15:23:54+00:00",
+    "published": "2026-01-02T14:56:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46488819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46465335\">Comments</a>"
   },
   {
-    "title": "Show HN: Circuit Artist \u2013 Circuit simulator with propagation animation, rewind",
-    "link": "https://github.com/lets-all-be-stupid-forever/circuit-artist",
+    "title": "Selective Applicative Functors",
+    "link": "https://blog.veritates.love/selective_applicatives_theoretical_basis.html",
     "source": "Hacker News",
-    "published": "2025-12-31T16:12:20+00:00",
+    "published": "2025-12-31T04:07:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46445412\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46441154\">Comments</a>"
   }
 ]
