@@ -46,6 +46,20 @@ Zero-infrastructure personal newsfeed aggregator and customizable dashboard. Run
 
 ## Quick Start
 
+### Option 1: Using Devcontainer (Recommended)
+
+The easiest way to get started is using the devcontainer:
+
+1. Open the project in VS Code
+2. Install the "Dev Containers" extension
+3. Press `F1` and select "Dev Containers: Reopen in Container"
+4. Once the container is ready, run: `npm run dev`
+5. Visit http://localhost:8000
+
+See [.devcontainer/README.md](.devcontainer/README.md) for more details.
+
+### Option 2: Local Setup
+
 ```bash
 # Clone the repository
 git clone https://github.com/hoogvliets/kito.git
@@ -58,7 +72,7 @@ npm install
 npm test
 
 # Start local development server
-python3 -m http.server 8000
+npm run dev
 ```
 
 Visit http://localhost:8000
@@ -89,6 +103,15 @@ Visit http://localhost:8000
 ```
 
 ## Development
+
+### Local Development Server
+
+```bash
+# Start the development server
+npm run dev
+```
+
+The app will be available at http://localhost:8000
 
 ### Running Tests
 
