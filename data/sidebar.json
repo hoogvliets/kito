@@ -1,5 +1,53 @@
 [
   {
+    "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
+    "link": "https://philippdubach.com/standalone/hn-sentiment/",
+    "source": "Hacker News",
+    "published": "2026-01-06T14:45:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46512881\">Comments</a>"
+  },
+  {
+    "title": "Why German Strings Are Everywhere?",
+    "link": "https://cedardb.com/blog/german_strings/",
+    "source": "Hacker News",
+    "published": "2026-01-06T13:30:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511981\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
+    "link": "https://news.ycombinator.com/item?id=46511578",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:47:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511578\">Comments</a>"
+  },
+  {
+    "title": "C Is Best",
+    "link": "https://sqlite.org/whyc.html",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:33:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511470\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
+    "link": "https://blgardner.github.io/prism.tools/",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:33:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511469\">Comments</a>"
+  },
+  {
+    "title": "System: Control your Mac from anywhere using natural language",
+    "link": "https://system.surf/",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:04:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511298\">Comments</a>"
+  },
+  {
     "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
     "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
     "source": "Hacker News",
@@ -14,6 +62,14 @@
     "published": "2026-01-06T10:13:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46510625\">Comments</a>"
+  },
+  {
+    "title": "Tube trains could navigate the Underground using the rules of Quantum Physics",
+    "link": "https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/",
+    "source": "Hacker News",
+    "published": "2026-01-06T08:26:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46509967\">Comments</a>"
   },
   {
     "title": "enclose.horse",
@@ -48,60 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46506994\">Comments</a>"
   },
   {
-    "title": "Strange.website",
-    "link": "https://strange.website/",
-    "source": "Hacker News",
-    "published": "2026-01-05T23:19:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46506596\">Comments</a>"
-  },
-  {
     "title": "There were BGP anomalies during the Venezuela blackout",
     "link": "https://loworbitsecurity.com/radar/radar16/",
     "source": "Hacker News",
     "published": "2026-01-05T21:05:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46504963\">Comments</a>"
-  },
-  {
-    "title": "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
-    "link": "https://brave.com/privacy-updates/36-adblock-memory-reduction/",
-    "source": "Hacker News",
-    "published": "2026-01-05T17:34:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501894\">Comments</a>"
-  },
-  {
-    "title": "How Y Combinator made it smart to trust founders",
-    "link": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
-    "source": "Hacker News",
-    "published": "2026-01-05T17:20:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501677\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tailsnitch \u2013 A security auditor for Tailscale",
-    "link": "https://github.com/Adversis/tailsnitch",
-    "source": "Hacker News",
-    "published": "2026-01-05T16:47:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46501137\">Comments</a>"
-  },
-  {
-    "title": "I switched from VSCode to Zed",
-    "link": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
-    "source": "Hacker News",
-    "published": "2026-01-05T13:52:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46498735\">Comments</a>"
-  },
-  {
-    "title": "Databases in 2025: A Year in Review",
-    "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-    "source": "Hacker News",
-    "published": "2026-01-05T07:14:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46496103\">Comments</a>"
   },
   {
     "title": "Six-decade math puzzle solved by Korean mathematician",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46491129\">Comments</a>"
   },
   {
-    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
-    "link": "https://arxiv.org/abs/1803.03635",
+    "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
+    "link": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
     "source": "Hacker News",
-    "published": "2026-01-02T22:53:53+00:00",
+    "published": "2026-01-02T21:18:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46470513\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46469473\">Comments</a>"
   },
   {
     "title": "Try to take my position: The best promotion advice I ever got",
@@ -142,14 +150,6 @@
     "published": "2026-01-02T03:01:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46460930\">Comments</a>"
-  },
-  {
-    "title": "Welcome to Gas Town",
-    "link": "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
-    "source": "Hacker News",
-    "published": "2026-01-01T22:36:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458936\">Comments</a>"
   },
   {
     "title": "Shipping at Inference-Speed",
