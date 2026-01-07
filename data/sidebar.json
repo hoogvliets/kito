@@ -1,35 +1,59 @@
 [
   {
+    "title": "LaTeX Coffee Stains [pdf]",
+    "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+    "source": "Hacker News",
+    "published": "2026-01-07T14:46:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46526933\">Comments</a>"
+  },
+  {
+    "title": "Everyone hates OneDrive, Microsofts cloud app that steals and deletes files",
+    "link": "https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T13:54:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46526376\">Comments</a>"
+  },
+  {
+    "title": "Show HN: KeelTest \u2013 AI-driven VS Code unit test generator with bug discovery",
+    "link": "https://keelcode.dev/keeltest",
+    "source": "Hacker News",
+    "published": "2026-01-07T13:22:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46526088\">Comments</a>"
+  },
+  {
+    "title": "A4 Paper Stories",
+    "link": "https://susam.net/a4-paper-stories.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T12:54:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525888\">Comments</a>"
+  },
+  {
+    "title": "\u201cStop Designing Languages. Write Libraries Instead\u201d (2016)",
+    "link": "https://lbstanza.org/purpose_of_programming_languages.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T12:29:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525640\">Comments</a>"
+  },
+  {
+    "title": "The Eric and Wendy Schmidt Observatory System",
+    "link": "https://www.schmidtsciences.org/schmidt-observatory-system/",
+    "source": "Hacker News",
+    "published": "2026-01-07T12:19:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525542\">Comments</a>"
+  },
+  {
     "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
     "link": "https://www.optery.com/careers/",
     "source": "Hacker News",
     "published": "2026-01-07T12:00:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46525394\">Comments</a>"
-  },
-  {
-    "title": "Firefox extension to redirect x.com to xcancel.com",
-    "link": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
-    "source": "Hacker News",
-    "published": "2026-01-07T10:53:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524873\">Comments</a>"
-  },
-  {
-    "title": "On the slow death of scaling",
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
-    "source": "Hacker News",
-    "published": "2026-01-07T03:48:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46522308\">Comments</a>"
-  },
-  {
-    "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
-    "link": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
-    "source": "Hacker News",
-    "published": "2026-01-07T00:44:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46521029\">Comments</a>"
   },
   {
     "title": "Electronic nose for indoor mold detection and identification",
@@ -48,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46520926\">Comments</a>"
   },
   {
-    "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
-    "link": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
-    "source": "Hacker News",
-    "published": "2026-01-06T21:46:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46519326\">Comments</a>"
-  },
-  {
-    "title": "Oral microbiome sequencing after taking probiotics",
-    "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
-    "source": "Hacker News",
-    "published": "2026-01-06T21:10:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518804\">Comments</a>"
-  },
-  {
     "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
     "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
     "source": "Hacker News",
     "published": "2026-01-06T20:55:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46518573\">Comments</a>"
-  },
-  {
-    "title": "Calling All Hackers: How money works (2024)",
-    "link": "https://phrack.org/issues/71/17",
-    "source": "Hacker News",
-    "published": "2026-01-06T20:24:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518129\">Comments</a>"
   },
   {
     "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
@@ -104,7 +104,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46514677\">Comments</a>"
   },
   {
-    "title": "Formal Methods Only Solve Half My Problems",
+    "title": "Quake Brutalist Jam III",
+    "link": "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/",
+    "source": "Hacker News",
+    "published": "2026-01-04T20:24:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491808\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Comet MCP \u2013 Give Claude Code a browser that can click",
+    "link": "https://github.com/hanzili/comet-mcp",
+    "source": "Hacker News",
+    "published": "2026-01-04T00:48:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46483550\">Comments</a>"
+  },
+  {
+    "title": "Formal methods only solve half my problems",
     "link": "https://brooker.co.za/blog/2022/06/02/formal.html",
     "source": "Hacker News",
     "published": "2026-01-03T06:49:52+00:00",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46470017\">Comments</a>"
   },
   {
-    "title": "I wanted a camera that doesn't exist, so I built it",
-    "link": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+    "title": "The first new compass since 1936",
+    "link": "https://www.youtube.com/watch?v=eiDhbZ8-BZI",
     "source": "Hacker News",
-    "published": "2026-01-02T17:04:03+00:00",
+    "published": "2026-01-02T13:46:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466843\">Comments</a>"
-  },
-  {
-    "title": "Investigating and fixing a nasty clone bug",
-    "link": "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html",
-    "source": "Hacker News",
-    "published": "2026-01-02T14:42:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46465206\">Comments</a>"
-  },
-  {
-    "title": "What *is* code? (2015)",
-    "link": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-    "source": "Hacker News",
-    "published": "2026-01-01T22:08:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458610\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464689\">Comments</a>"
   },
   {
     "title": "Sergey Brin's Unretirement",
