@@ -1,11 +1,83 @@
 [
   {
-    "title": "How Spotify Made Me Self Host",
-    "link": "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/",
+    "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
+    "link": "https://hecate.pink/blog/2026/trans-flag-emoji/",
     "source": "Hacker News",
-    "published": "2026-01-06T19:50:35+00:00",
+    "published": "2026-01-07T00:22:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46517636\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46520879\">Comments</a>"
+  },
+  {
+    "title": "Space Forge plans to manufacture semiconductors from space",
+    "link": "https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/",
+    "source": "Hacker News",
+    "published": "2026-01-07T00:06:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46520754\">Comments</a>"
+  },
+  {
+    "title": "Vulnerability in Ruby that has existed since 2002",
+    "link": "https://nastystereo.com/security/ruby-pack.html",
+    "source": "Hacker News",
+    "published": "2026-01-06T23:46:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46520566\">Comments</a>"
+  },
+  {
+    "title": "Show HN: GPU Cuckoo Filter \u2013 faster queries than Blocked Bloom, with deletion",
+    "link": "https://github.com/tdortman/cuckoo-filter",
+    "source": "Hacker News",
+    "published": "2026-01-06T22:33:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46519771\">Comments</a>"
+  },
+  {
+    "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+    "link": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+    "source": "Hacker News",
+    "published": "2026-01-06T21:46:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46519326\">Comments</a>"
+  },
+  {
+    "title": "Laylo (YC S20) \u2013 Head of Growth (Organic and Partners and Loops and AI) \u2013 Remote US",
+    "link": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth",
+    "source": "Hacker News",
+    "published": "2026-01-06T21:44:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46519303\">Comments</a>"
+  },
+  {
+    "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
+    "link": "https://arxiv.org/abs/2512.09882",
+    "source": "Hacker News",
+    "published": "2026-01-06T21:23:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518996\">Comments</a>"
+  },
+  {
+    "title": "Oral microbiome sequencing after taking probiotics",
+    "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+    "source": "Hacker News",
+    "published": "2026-01-06T21:10:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518804\">Comments</a>"
+  },
+  {
+    "title": "A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time",
+    "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+    "source": "Hacker News",
+    "published": "2026-01-06T20:55:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518573\">Comments</a>"
+  },
+  {
+    "title": "Calling All Hackers: How money works (2024)",
+    "link": "https://phrack.org/issues/71/17",
+    "source": "Hacker News",
+    "published": "2026-01-06T20:24:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46518129\">Comments</a>"
   },
   {
     "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
@@ -32,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46516559\">Comments</a>"
   },
   {
-    "title": "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
-    "link": "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web",
-    "source": "Hacker News",
-    "published": "2026-01-06T18:19:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46516267\">Comments</a>"
-  },
-  {
     "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
     "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
     "source": "Hacker News",
@@ -48,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46516137\">Comments</a>"
   },
   {
-    "title": "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
-    "link": "https://arxiv.org/abs/2512.20687",
+    "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+    "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
     "source": "Hacker News",
-    "published": "2026-01-06T18:02:01+00:00",
+    "published": "2026-01-06T18:00:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46515987\">Comments</a>"
-  },
-  {
-    "title": "Dude, where's my supersonic jet?",
-    "link": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
-    "source": "Hacker News",
-    "published": "2026-01-06T17:59:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46515936\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46515948\">Comments</a>"
   },
   {
     "title": "Launch HN: Tamarind Bio (YC W24) \u2013 AI Inference Provider for Drug Discovery",
@@ -72,39 +128,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46515777\">Comments</a>"
   },
   {
-    "title": "Show HN: Stash \u2013 Sync Markdown Files with Apple Notes via CLI",
-    "link": "https://github.com/shakedlokits/stash",
+    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+    "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
     "source": "Hacker News",
-    "published": "2026-01-06T16:57:15+00:00",
+    "published": "2026-01-06T17:45:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46514874\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46515696\">Comments</a>"
   },
   {
-    "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
-    "link": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
-    "source": "Hacker News",
-    "published": "2026-01-06T16:53:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46514816\">Comments</a>"
-  },
-  {
-    "title": "Loongarch Improvements with Box64",
-    "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
-    "source": "Hacker News",
-    "published": "2026-01-06T16:52:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46514807\">Comments</a>"
-  },
-  {
-    "title": "Why is the Gmail app 700 MB?",
-    "link": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
-    "source": "Hacker News",
-    "published": "2026-01-06T16:46:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46514692\">Comments</a>"
-  },
-  {
-    "title": "Vienam bans unskippable ads",
+    "title": "Vietnam bans unskippable ads",
     "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
     "source": "Hacker News",
     "published": "2026-01-06T16:45:42+00:00",
@@ -112,44 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46514677\">Comments</a>"
   },
   {
-    "title": "Show HN: Mantic.sh \u2013 Search 480k files in 0.46s without embeddings",
-    "link": "https://github.com/marcoaapfortes/Mantic.sh",
+    "title": "Building a rain predictor on a C64 with 1985's \"XPER,\" expert system software",
+    "link": "https://stonetools.ghost.io/xper-c64/",
     "source": "Hacker News",
-    "published": "2026-01-06T13:48:27+00:00",
+    "published": "2026-01-02T23:53:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46512182\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
-    "link": "https://blgardner.github.io/prism.tools/",
-    "source": "Hacker News",
-    "published": "2026-01-06T12:33:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511469\">Comments</a>"
-  },
-  {
-    "title": "enclose.horse",
-    "link": "https://enclose.horse/",
-    "source": "Hacker News",
-    "published": "2026-01-06T06:01:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46509211\">Comments</a>"
-  },
-  {
-    "title": "Show HN: llmgame.ai \u2013 The Wikipedia Game but with LLMs",
-    "link": "https://www.llmgame.ai",
-    "source": "Hacker News",
-    "published": "2026-01-06T03:07:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46508299\">Comments</a>"
-  },
-  {
-    "title": "I wanted a camera that doesn't exist \u2013 so I built it",
-    "link": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
-    "source": "Hacker News",
-    "published": "2026-01-02T17:04:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46466843\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46471001\">Comments</a>"
   },
   {
     "title": "Spherical Snake",
