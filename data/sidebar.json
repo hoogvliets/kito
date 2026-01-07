@@ -1,11 +1,51 @@
 [
   {
+    "title": "Claude Code CLI Broken",
+    "link": "https://github.com/anthropics/claude-code/issues/16673",
+    "source": "Hacker News",
+    "published": "2026-01-07T20:25:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46532075\">Comments</a>"
+  },
+  {
+    "title": "Tailscale state file encryption no longer enabled by default",
+    "link": "https://tailscale.com/changelog",
+    "source": "Hacker News",
+    "published": "2026-01-07T20:16:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531925\">Comments</a>"
+  },
+  {
+    "title": "Claude Code Emergent Behavior: When Skills Combine",
+    "link": "https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T20:06:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531794\">Comments</a>"
+  },
+  {
+    "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
+    "link": "https://socket.dev/blog/npm-to-implement-staged-publishing",
+    "source": "Hacker News",
+    "published": "2026-01-07T18:31:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46530448\">Comments</a>"
+  },
+  {
     "title": "A tab hoarder's journey to sanity",
     "link": "https://twitter.com/borisandcrispin/status/2008709479068794989",
     "source": "Hacker News",
     "published": "2026-01-07T17:54:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46529797\">Comments</a>"
+  },
+  {
+    "title": "Eat Real Food",
+    "link": "https://realfood.gov",
+    "source": "Hacker News",
+    "published": "2026-01-07T17:22:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46529237\">Comments</a>"
   },
   {
     "title": "Health care data breach affects over 600k patients, Illinois agency says",
@@ -16,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46528353\">Comments</a>"
   },
   {
-    "title": "BillG the Manager",
+    "title": "BillG the Manager (2021)",
     "link": "https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager",
     "source": "Hacker News",
     "published": "2026-01-07T16:18:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46528192\">Comments</a>"
-  },
-  {
-    "title": "The Case for Nushell (2023)",
-    "link": "https://www.sophiajt.com/case-for-nushell/",
-    "source": "Hacker News",
-    "published": "2026-01-07T16:15:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46528142\">Comments</a>"
   },
   {
     "title": "Building voice agents with Nvidia open models",
@@ -48,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46527950\">Comments</a>"
   },
   {
-    "title": "Many Hells of WebDAV: Writing a Client/Server in Go",
+    "title": "Many hells of WebDAV",
     "link": "https://candid.dev/blog/many-hells-of-webdav",
     "source": "Hacker News",
     "published": "2026-01-07T15:50:50+00:00",
@@ -56,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46527775\">Comments</a>"
   },
   {
-    "title": "Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years",
-    "link": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+    "title": "The Target forensics lab (2024)",
+    "link": "https://thehorizonsun.com/features/2024/04/11/the-target-forensics-lab/",
     "source": "Hacker News",
-    "published": "2026-01-07T15:46:07+00:00",
+    "published": "2026-01-07T15:41:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46527706\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46527645\">Comments</a>"
   },
   {
     "title": "Shipmap.org",
@@ -104,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46525888\">Comments</a>"
   },
   {
-    "title": "\u201cStop Designing Languages. Write Libraries Instead\u201d (2016)",
-    "link": "https://lbstanza.org/purpose_of_programming_languages.html",
+    "title": "Polymarket refuses to pay bets that US would 'invade' Venezuela",
+    "link": "https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666",
     "source": "Hacker News",
-    "published": "2026-01-07T12:29:11+00:00",
+    "published": "2026-01-07T02:25:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525640\">Comments</a>"
-  },
-  {
-    "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
-    "link": "https://www.optery.com/careers/",
-    "source": "Hacker News",
-    "published": "2026-01-07T12:00:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525394\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Free and local browser tool for designing gear models for 3D printing",
-    "link": "https://gears.dmtrkovalenko.dev",
-    "source": "Hacker News",
-    "published": "2026-01-07T08:42:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524036\">Comments</a>"
-  },
-  {
-    "title": "Quake Brutalist Jam III",
-    "link": "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/",
-    "source": "Hacker News",
-    "published": "2026-01-04T20:24:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491808\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46521773\">Comments</a>"
   },
   {
     "title": "Show HN: I built a \"Do not disturb\" Device for my home office",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46477961\">Comments</a>"
   },
   {
-    "title": "Becoming a Centenarian",
-    "link": "https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian",
+    "title": "Native Amiga Filesystems on macOS / Linux / Windows with FUSE",
+    "link": "https://github.com/reinauer/amifuse",
     "source": "Hacker News",
-    "published": "2026-01-03T02:42:10+00:00",
+    "published": "2026-01-03T07:46:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46472258\">Comments</a>"
-  },
-  {
-    "title": "Sergey Brin's Unretirement",
-    "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
-    "source": "Hacker News",
-    "published": "2026-01-01T09:30:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46452641\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46473726\">Comments</a>"
   }
 ]
