@@ -1,5 +1,61 @@
 [
   {
+    "title": "Chinese AI models have lagged the US frontier by 7 months on average since 2023",
+    "link": "https://epoch.ai/data-insights/us-vs-china-eci",
+    "source": "Hacker News",
+    "published": "2026-01-08T17:40:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543933\">Comments</a>"
+  },
+  {
+    "title": "ICE's Tool to Monitor Phones in Neighborhoods",
+    "link": "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/",
+    "source": "Hacker News",
+    "published": "2026-01-08T17:01:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543420\">Comments</a>"
+  },
+  {
+    "title": "Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers",
+    "link": "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer",
+    "source": "Hacker News",
+    "published": "2026-01-08T17:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543403\">Comments</a>"
+  },
+  {
+    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+    "link": "https://arxiv.org/abs/2512.24617",
+    "source": "Hacker News",
+    "published": "2026-01-08T16:31:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542982\">Comments</a>"
+  },
+  {
+    "title": "Iran Goes Into IPv6 Blackout",
+    "link": "https://radar.cloudflare.com/routing/ir",
+    "source": "Hacker News",
+    "published": "2026-01-08T16:11:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542683\">Comments</a>"
+  },
+  {
+    "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
+    "link": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
+    "source": "Hacker News",
+    "published": "2026-01-08T15:18:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542015\">Comments</a>"
+  },
+  {
+    "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
+    "link": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+    "source": "Hacker News",
+    "published": "2026-01-08T15:07:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46541892\">Comments</a>"
+  },
+  {
     "title": "Show HN: DeepDream for Video with Temporal Consistency",
     "link": "https://github.com/jeremicna/deepdream-video-pytorch",
     "source": "Hacker News",
@@ -14,14 +70,6 @@
     "published": "2026-01-08T13:02:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46540498\">Comments</a>"
-  },
-  {
-    "title": "Mothers (YC X26) Is Hiring",
-    "link": "https://jobs.ashbyhq.com/9-mothers",
-    "source": "Hacker News",
-    "published": "2026-01-08T12:00:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46540078\">Comments</a>"
   },
   {
     "title": "A closer look at a BGP anomaly in Venezuela",
@@ -40,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46537489\">Comments</a>"
   },
   {
-    "title": "Go.sum is not a lockfile",
-    "link": "https://words.filippo.io/gosum/",
-    "source": "Hacker News",
-    "published": "2026-01-08T04:10:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46537095\">Comments</a>"
-  },
-  {
     "title": "Open Infrastructure Map",
     "link": "https://openinframap.org",
     "source": "Hacker News",
@@ -64,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46536340\">Comments</a>"
   },
   {
-    "title": "Tailscale state file encryption no longer enabled by default",
-    "link": "https://tailscale.com/changelog",
-    "source": "Hacker News",
-    "published": "2026-01-07T20:16:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531925\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT Health",
-    "link": "https://openai.com/index/introducing-chatgpt-health/",
-    "source": "Hacker News",
-    "published": "2026-01-07T19:29:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531280\">Comments</a>"
-  },
-  {
     "title": "Eat Real Food",
     "link": "https://realfood.gov",
     "source": "Hacker News",
     "published": "2026-01-07T17:22:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46529237\">Comments</a>"
-  },
-  {
-    "title": "How Google got its groove back and edged ahead of OpenAI",
-    "link": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
-    "source": "Hacker News",
-    "published": "2026-01-07T16:29:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46528389\">Comments</a>"
   },
   {
     "title": "Shipmap.org",
@@ -104,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46527161\">Comments</a>"
   },
   {
-    "title": "LaTeX Coffee Stains (2021) [pdf]",
-    "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+    "title": "I used Lego to design a farm for people who are blind \u2013 like me",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
     "source": "Hacker News",
-    "published": "2026-01-07T14:46:31+00:00",
+    "published": "2026-01-05T18:02:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46526933\">Comments</a>"
-  },
-  {
-    "title": "The Q, K, V Matrices",
-    "link": "https://arpitbhayani.me/blogs/qkv-matrices/",
-    "source": "Hacker News",
-    "published": "2026-01-07T08:18:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46523887\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502269\">Comments</a>"
   },
   {
     "title": "The Napoleon Technique: Postponing things to increase productivity",
@@ -128,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46493785\">Comments</a>"
   },
   {
-    "title": "Anyone have experiences with Audio Induction Loops?",
-    "link": "https://en.wikipedia.org/wiki/Audio_induction_loop",
+    "title": "Signals vs. Query-Based Compilers",
+    "link": "https://marvinh.dev/blog/signals-vs-query-based-compilers/",
     "source": "Hacker News",
-    "published": "2026-01-04T21:23:27+00:00",
+    "published": "2026-01-04T19:26:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46492401\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491264\">Comments</a>"
   },
   {
     "title": "The price of fame? Mortality risk among famous singers",
@@ -150,13 +158,5 @@
     "published": "2026-01-02T19:24:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46468338\">Comments</a>"
-  },
-  {
-    "title": "Lessons from Hash Table Merging",
-    "link": "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338",
-    "source": "Hacker News",
-    "published": "2026-01-02T12:51:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464270\">Comments</a>"
   }
 ]
