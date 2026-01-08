@@ -1,35 +1,91 @@
 [
   {
-    "title": "Chinese AI models have lagged the US frontier by 7 months on average since 2023",
-    "link": "https://epoch.ai/data-insights/us-vs-china-eci",
+    "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+    "link": "https://www.mux.com/jobs",
     "source": "Hacker News",
-    "published": "2026-01-08T17:40:02+00:00",
+    "published": "2026-01-08T21:01:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543933\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546413\">Comments</a>"
   },
   {
-    "title": "ICE's Tool to Monitor Phones in Neighborhoods",
-    "link": "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/",
+    "title": "Texas First State to End American Bar Association oversight of law schools",
+    "link": "https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation",
     "source": "Hacker News",
-    "published": "2026-01-08T17:01:58+00:00",
+    "published": "2026-01-08T20:44:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543420\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546188\">Comments</a>"
   },
   {
-    "title": "Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers",
-    "link": "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer",
+    "title": "Steve Jobs was \"a truly rotten person\" (2018)",
+    "link": "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html",
     "source": "Hacker News",
-    "published": "2026-01-08T17:01:00+00:00",
+    "published": "2026-01-08T20:42:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543403\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546177\">Comments</a>"
   },
   {
-    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
-    "link": "https://arxiv.org/abs/2512.24617",
+    "title": "How to Code Claude Code in 200 Lines of Code",
+    "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
     "source": "Hacker News",
-    "published": "2026-01-08T16:31:29+00:00",
+    "published": "2026-01-08T19:54:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542982\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46545620\">Comments</a>"
+  },
+  {
+    "title": "Task-free intelligence testing of LLMs",
+    "link": "https://www.marble.onl/posts/tapping/index.html",
+    "source": "Hacker News",
+    "published": "2026-01-08T19:51:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46545587\">Comments</a>"
+  },
+  {
+    "title": "Google AI Studio is now sponsoring Tailwind CSS",
+    "link": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+    "source": "Hacker News",
+    "published": "2026-01-08T19:09:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46545077\">Comments</a>"
+  },
+  {
+    "title": "The Unreasonable Effectiveness of the Fourier Transform",
+    "link": "https://joshuawise.com/resources/ofdm/",
+    "source": "Hacker News",
+    "published": "2026-01-08T19:00:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544981\">Comments</a>"
+  },
+  {
+    "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+    "link": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+    "source": "Hacker News",
+    "published": "2026-01-08T18:29:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544610\">Comments</a>"
+  },
+  {
+    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+    "link": "https://github.com/richhickson/claudecodeusage",
+    "source": "Hacker News",
+    "published": "2026-01-08T18:24:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544524\">Comments</a>"
+  },
+  {
+    "title": "IBM AI ('Bob') Downloads and Executes Malware",
+    "link": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+    "source": "Hacker News",
+    "published": "2026-01-08T18:19:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544454\">Comments</a>"
+  },
+  {
+    "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+    "link": "https://sakana.ai/drq/",
+    "source": "Hacker News",
+    "published": "2026-01-08T16:16:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542761\">Comments</a>"
   },
   {
     "title": "Iran Goes Into IPv6 Blackout",
@@ -40,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46542683\">Comments</a>"
   },
   {
-    "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
-    "link": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
-    "source": "Hacker News",
-    "published": "2026-01-08T15:18:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542015\">Comments</a>"
-  },
-  {
     "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
     "link": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
     "source": "Hacker News",
     "published": "2026-01-08T15:07:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46541892\">Comments</a>"
-  },
-  {
-    "title": "Show HN: DeepDream for Video with Temporal Consistency",
-    "link": "https://github.com/jeremicna/deepdream-video-pytorch",
-    "source": "Hacker News",
-    "published": "2026-01-08T13:21:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46540660\">Comments</a>"
   },
   {
     "title": "The Jeff Dean Facts",
@@ -88,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46537489\">Comments</a>"
   },
   {
-    "title": "Open Infrastructure Map",
-    "link": "https://openinframap.org",
+    "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+    "link": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
     "source": "Hacker News",
-    "published": "2026-01-08T03:31:12+00:00",
+    "published": "2026-01-08T04:39:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46536866\">Comments</a>"
-  },
-  {
-    "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-    "link": "https://pebblebed.com/blog/kernel-bugs",
-    "source": "Hacker News",
-    "published": "2026-01-08T02:18:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46536340\">Comments</a>"
-  },
-  {
-    "title": "Eat Real Food",
-    "link": "https://realfood.gov",
-    "source": "Hacker News",
-    "published": "2026-01-07T17:22:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46529237\">Comments</a>"
-  },
-  {
-    "title": "Shipmap.org",
-    "link": "https://www.shipmap.org/",
-    "source": "Hacker News",
-    "published": "2026-01-07T15:03:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46527161\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46537253\">Comments</a>"
   },
   {
     "title": "I used Lego to design a farm for people who are blind \u2013 like me",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46502269\">Comments</a>"
   },
   {
-    "title": "The Napoleon Technique: Postponing things to increase productivity",
-    "link": "https://effectiviology.com/napoleon/",
+    "title": "Intellectual Junkyards",
+    "link": "https://www.forester-notes.org/QHXS/index.xml",
     "source": "Hacker News",
-    "published": "2026-01-05T00:07:44+00:00",
+    "published": "2026-01-05T04:25:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46493785\">Comments</a>"
-  },
-  {
-    "title": "Signals vs. Query-Based Compilers",
-    "link": "https://marvinh.dev/blog/signals-vs-query-based-compilers/",
-    "source": "Hacker News",
-    "published": "2026-01-04T19:26:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491264\">Comments</a>"
-  },
-  {
-    "title": "The price of fame? Mortality risk among famous singers",
-    "link": "https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589",
-    "source": "Hacker News",
-    "published": "2026-01-04T12:11:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46487224\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46495319\">Comments</a>"
   },
   {
     "title": "Lights and Shadows (2020)",
