@@ -1,5 +1,21 @@
 [
   {
+    "title": "Show HN: DeepDream for Video with Temporal Consistency",
+    "link": "https://github.com/jeremicna/deepdream-video-pytorch",
+    "source": "Hacker News",
+    "published": "2026-01-08T13:21:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46540660\">Comments</a>"
+  },
+  {
+    "title": "The Jeff Dean Facts",
+    "link": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+    "source": "Hacker News",
+    "published": "2026-01-08T13:02:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46540498\">Comments</a>"
+  },
+  {
     "title": "Mothers (YC X26) Is Hiring",
     "link": "https://jobs.ashbyhq.com/9-mothers",
     "source": "Hacker News",
@@ -48,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46536340\">Comments</a>"
   },
   {
-    "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
-    "link": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
-    "source": "Hacker News",
-    "published": "2026-01-08T00:48:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535515\">Comments</a>"
-  },
-  {
-    "title": "Play Aardwolf MUD",
-    "link": "https://www.aardwolf.com/",
-    "source": "Hacker News",
-    "published": "2026-01-07T23:31:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46534777\">Comments</a>"
-  },
-  {
     "title": "Tailscale state file encryption no longer enabled by default",
     "link": "https://tailscale.com/changelog",
     "source": "Hacker News",
@@ -78,14 +78,6 @@
     "published": "2026-01-07T19:29:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46531280\">Comments</a>"
-  },
-  {
-    "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
-    "link": "https://socket.dev/blog/npm-to-implement-staged-publishing",
-    "source": "Hacker News",
-    "published": "2026-01-07T18:31:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46530448\">Comments</a>"
   },
   {
     "title": "Eat Real Food",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46492401\">Comments</a>"
   },
   {
-    "title": "GLSL Web CRT Shader",
-    "link": "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/",
+    "title": "The price of fame? Mortality risk among famous singers",
+    "link": "https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589",
     "source": "Hacker News",
-    "published": "2026-01-04T19:22:23+00:00",
+    "published": "2026-01-04T12:11:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491219\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46487224\">Comments</a>"
+  },
+  {
+    "title": "Lights and Shadows (2020)",
+    "link": "https://ciechanow.ski/lights-and-shadows/",
+    "source": "Hacker News",
+    "published": "2026-01-02T19:24:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46468338\">Comments</a>"
   },
   {
     "title": "Lessons from Hash Table Merging",
