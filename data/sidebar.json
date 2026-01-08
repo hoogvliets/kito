@@ -1,19 +1,27 @@
 [
   {
+    "title": "A closer look at a BGP anomaly in Venezuela",
+    "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+    "source": "Hacker News",
+    "published": "2026-01-08T06:46:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46538001\">Comments</a>"
+  },
+  {
+    "title": "AI misses nearly one-third of breast cancers, study finds",
+    "link": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+    "source": "Hacker News",
+    "published": "2026-01-08T06:43:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46537983\">Comments</a>"
+  },
+  {
     "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
     "link": "https://patchouli.readthedocs.io/en/latest/",
     "source": "Hacker News",
     "published": "2026-01-08T05:20:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46537489\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection",
-    "link": "https://zenodo.org/records/18177320",
-    "source": "Hacker News",
-    "published": "2026-01-08T05:15:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46537459\">Comments</a>"
   },
   {
     "title": "Go.sum is not a lockfile",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46536866\">Comments</a>"
   },
   {
-    "title": "Chase to become new issuer of Apple Card",
-    "link": "https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card",
-    "source": "Hacker News",
-    "published": "2026-01-08T03:29:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46536848\">Comments</a>"
-  },
-  {
     "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
     "link": "https://pebblebed.com/blog/kernel-bugs",
     "source": "Hacker News",
@@ -56,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46535540\">Comments</a>"
   },
   {
-    "title": "Fighting back against biometric surveillance at Wegmans",
-    "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+    "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
+    "link": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
     "source": "Hacker News",
-    "published": "2026-01-08T00:48:11+00:00",
+    "published": "2026-01-08T00:48:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535514\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535515\">Comments</a>"
   },
   {
     "title": "Play Aardwolf MUD",
@@ -78,6 +78,14 @@
     "published": "2026-01-07T20:16:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46531925\">Comments</a>"
+  },
+  {
+    "title": "ChatGPT Health",
+    "link": "https://openai.com/index/introducing-chatgpt-health/",
+    "source": "Hacker News",
+    "published": "2026-01-07T19:29:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531280\">Comments</a>"
   },
   {
     "title": "US will ban Wall Street investors from buying single-family homes",
@@ -128,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46523887\">Comments</a>"
   },
   {
-    "title": "Reading Without Limits or Expectations",
-    "link": "https://www.carolinecrampton.com/reading-without-limits-or-expectations/",
+    "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+    "link": "https://effectiviology.com/napoleon/",
     "source": "Hacker News",
-    "published": "2026-01-05T20:50:44+00:00",
+    "published": "2026-01-05T00:07:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46504761\">Comments</a>"
-  },
-  {
-    "title": "Solo ASIC tapeout on a budget: detailed write up",
-    "link": "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/",
-    "source": "Hacker News",
-    "published": "2026-01-05T14:56:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46499469\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46493785\">Comments</a>"
   },
   {
     "title": "GLSL Web CRT Shader",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46491219\">Comments</a>"
   },
   {
-    "title": "How dependabot works",
-    "link": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html",
+    "title": "Lessons from Hash Table Merging",
+    "link": "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338",
     "source": "Hacker News",
-    "published": "2026-01-02T23:44:04+00:00",
+    "published": "2026-01-02T12:51:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46470927\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46464270\">Comments</a>"
   }
 ]
