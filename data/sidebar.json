@@ -1,27 +1,51 @@
 [
   {
+    "title": "Show HN: IceRaidsNearMe \u2013 Real-time, crowdsourced map of immigration enforcement",
+    "link": "https://iceraidsnearme.com/",
+    "source": "Hacker News",
+    "published": "2026-01-08T03:30:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46536862\">Comments</a>"
+  },
+  {
+    "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+    "link": "https://pebblebed.com/blog/kernel-bugs",
+    "source": "Hacker News",
+    "published": "2026-01-08T02:18:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46536340\">Comments</a>"
+  },
+  {
+    "title": "Musashi: Motorola 680x0 emulator written in C",
+    "link": "https://github.com/kstenerud/Musashi",
+    "source": "Hacker News",
+    "published": "2026-01-08T00:51:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535540\">Comments</a>"
+  },
+  {
+    "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
+    "link": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
+    "source": "Hacker News",
+    "published": "2026-01-08T00:48:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535515\">Comments</a>"
+  },
+  {
+    "title": "Fighting back against biometric surveillance at Wegmans",
+    "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+    "source": "Hacker News",
+    "published": "2026-01-08T00:48:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535514\">Comments</a>"
+  },
+  {
     "title": "Play Aardwolf MUD",
     "link": "https://www.aardwolf.com/",
     "source": "Hacker News",
     "published": "2026-01-07T23:31:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46534777\">Comments</a>"
-  },
-  {
-    "title": "ICE Is Going on a Surveillance Shopping Spree",
-    "link": "https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree",
-    "source": "Hacker News",
-    "published": "2026-01-07T23:11:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46534581\">Comments</a>"
-  },
-  {
-    "title": "2026 Predictions Scorecard",
-    "link": "https://rodneybrooks.com/predictions-scorecard-2026-january-01/",
-    "source": "Hacker News",
-    "published": "2026-01-07T21:40:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46533343\">Comments</a>"
   },
   {
     "title": "Tailscale state file encryption no longer enabled by default",
@@ -48,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46531068\">Comments</a>"
   },
   {
+    "title": "Show HN: I visualized the entire history of Citi Bike in the browser",
+    "link": "https://bikemap.nyc/",
+    "source": "Hacker News",
+    "published": "2026-01-07T18:57:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46530832\">Comments</a>"
+  },
+  {
     "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
     "link": "https://socket.dev/blog/npm-to-implement-staged-publishing",
     "source": "Hacker News",
@@ -70,14 +102,6 @@
     "published": "2026-01-07T16:28:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46528353\">Comments</a>"
-  },
-  {
-    "title": "Creators of Tailwind laid off 75% of their engineering team",
-    "link": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-    "source": "Hacker News",
-    "published": "2026-01-07T16:02:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46527950\">Comments</a>"
   },
   {
     "title": "Shipmap.org",
@@ -104,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46526740\">Comments</a>"
   },
   {
-    "title": "A4 Paper Stories",
-    "link": "https://susam.net/a4-paper-stories.html",
-    "source": "Hacker News",
-    "published": "2026-01-07T12:54:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525888\">Comments</a>"
-  },
-  {
     "title": "The Q, K, V Matrices",
     "link": "https://arpitbhayani.me/blogs/qkv-matrices/",
     "source": "Hacker News",
@@ -120,36 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46523887\">Comments</a>"
   },
   {
-    "title": "LMArena is a cancer on AI",
-    "link": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
+    "title": "Solo ASIC tapeout on a budget: detailed write up",
+    "link": "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/",
     "source": "Hacker News",
-    "published": "2026-01-07T04:40:48+00:00",
+    "published": "2026-01-05T14:56:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46522632\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46499469\">Comments</a>"
   },
   {
-    "title": "Native Amiga Filesystems on macOS / Linux / Windows with FUSE",
-    "link": "https://github.com/reinauer/amifuse",
+    "title": "How dependabot works",
+    "link": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html",
     "source": "Hacker News",
-    "published": "2026-01-03T07:46:02+00:00",
+    "published": "2026-01-02T23:44:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46473726\">Comments</a>"
-  },
-  {
-    "title": "What *is* code? (2015)",
-    "link": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-    "source": "Hacker News",
-    "published": "2026-01-01T22:08:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46458610\">Comments</a>"
-  },
-  {
-    "title": "Michel Siffre\u2019s self-experiments in a cave with no light (2018)",
-    "link": "https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/",
-    "source": "Hacker News",
-    "published": "2026-01-01T18:07:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46456364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46470927\">Comments</a>"
   },
   {
     "title": "We found cryptography bugs in the elliptic library using Wycheproof",
