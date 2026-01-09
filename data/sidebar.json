@@ -1,6 +1,14 @@
 [
   {
-    "title": "What Happened to WebAssembly",
+    "title": "MCP is a fad",
+    "link": "https://tombedor.dev/mcp-is-a-fad/",
+    "source": "Hacker News",
+    "published": "2026-01-09T10:27:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46552254\">Comments</a>"
+  },
+  {
+    "title": "What happened to WebAssembly",
     "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
     "source": "Hacker News",
     "published": "2026-01-09T07:38:30+00:00",
@@ -24,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46550895\">Comments</a>"
   },
   {
-    "title": "Do not mistake a resilient global economy for populist success",
-    "link": "https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success",
+    "title": "Show HN: Executable Markdown files with Unix pipes",
+    "link": "https://news.ycombinator.com/item?id=46549444",
     "source": "Hacker News",
-    "published": "2026-01-09T06:43:27+00:00",
+    "published": "2026-01-09T02:29:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46550777\">Comments</a>"
-  },
-  {
-    "title": "The No Fakes Act has a \u201cfingerprinting\u201d trap that kills open source?",
-    "link": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
-    "source": "Hacker News",
-    "published": "2026-01-09T05:01:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46550231\">Comments</a>"
-  },
-  {
-    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
-    "link": "https://github.com/anomalyco/opencode/issues/7410",
-    "source": "Hacker News",
-    "published": "2026-01-09T03:44:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549823\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549444\">Comments</a>"
   },
   {
     "title": "Why I left iNaturalist",
@@ -88,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46545620\">Comments</a>"
   },
   {
-    "title": "The Unreasonable Effectiveness of the Fourier Transform",
+    "title": "The unreasonable effectiveness of the Fourier transform",
     "link": "https://joshuawise.com/resources/ofdm/",
     "source": "Hacker News",
     "published": "2026-01-08T19:00:28+00:00",
@@ -120,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46540498\">Comments</a>"
   },
   {
-    "title": "Mysterious Victorian-era shoes are washing up on a beach in wales",
-    "link": "https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/",
+    "title": "Why is there a tiny hole in the airplane window? (2023)",
+    "link": "https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes",
     "source": "Hacker News",
-    "published": "2026-01-06T06:34:45+00:00",
+    "published": "2026-01-04T19:31:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46509376\">Comments</a>"
-  },
-  {
-    "title": "On Getting Hacked",
-    "link": "https://ahmeto.com/post/on-getting-hacked",
-    "source": "Hacker News",
-    "published": "2026-01-05T12:26:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497989\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46491330\">Comments</a>"
   },
   {
     "title": "Hacking a Casio F-91W digital watch (2023)",
@@ -150,6 +134,22 @@
     "published": "2026-01-04T09:58:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46486545\">Comments</a>"
+  },
+  {
+    "title": "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
+    "link": "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c",
+    "source": "Hacker News",
+    "published": "2026-01-03T16:34:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46478558\">Comments</a>"
+  },
+  {
+    "title": "1ML for non-specialists: introduction",
+    "link": "https://pithlessly.github.io/1ml-intro",
+    "source": "Hacker News",
+    "published": "2026-01-02T22:32:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46470293\">Comments</a>"
   },
   {
     "title": "Photographing the hidden world of slime mould",
