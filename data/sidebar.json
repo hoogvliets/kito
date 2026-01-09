@@ -1,5 +1,21 @@
 [
   {
+    "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
+    "link": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
+    "source": "Hacker News",
+    "published": "2026-01-09T05:01:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46550231\">Comments</a>"
+  },
+  {
+    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+    "link": "https://github.com/anomalyco/opencode/issues/7410",
+    "source": "Hacker News",
+    "published": "2026-01-09T03:44:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549823\">Comments</a>"
+  },
+  {
     "title": "Show HN: Executable Markdown files with Unix pipes",
     "link": "https://news.ycombinator.com/item?id=46549444",
     "source": "Hacker News",
@@ -8,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46549444\">Comments</a>"
   },
   {
-    "title": "Why I Left iNaturalist",
+    "title": "Why I left iNaturalist",
     "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
     "source": "Hacker News",
     "published": "2026-01-09T01:17:51+00:00",
@@ -30,22 +46,6 @@
     "published": "2026-01-08T21:17:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46546614\">Comments</a>"
-  },
-  {
-    "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
-    "link": "https://www.mux.com/jobs",
-    "source": "Hacker News",
-    "published": "2026-01-08T21:01:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546413\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A geofence-based social network app 6 years in development",
-    "link": "https://www.localvideoapp.com",
-    "source": "Hacker News",
-    "published": "2026-01-08T20:56:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546349\">Comments</a>"
   },
   {
     "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
@@ -88,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46544610\">Comments</a>"
   },
   {
-    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
-    "link": "https://github.com/richhickson/claudecodeusage",
-    "source": "Hacker News",
-    "published": "2026-01-08T18:24:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544524\">Comments</a>"
-  },
-  {
     "title": "He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B",
     "link": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
     "source": "Hacker News",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46537253\">Comments</a>"
   },
   {
-    "title": "Pole of Inaccessibility",
-    "link": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+    "title": "Dell admits consumers don't care about AI PCs",
+    "link": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
     "source": "Hacker News",
-    "published": "2026-01-03T23:21:26+00:00",
+    "published": "2026-01-07T15:46:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46482844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46527706\">Comments</a>"
   },
   {
-    "title": "Anti-cheat evolution in Windows 11",
-    "link": "https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/",
+    "title": "On Getting Hacked",
+    "link": "https://ahmeto.com/post/on-getting-hacked",
     "source": "Hacker News",
-    "published": "2026-01-03T19:38:38+00:00",
+    "published": "2026-01-05T12:26:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46480664\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46497989\">Comments</a>"
+  },
+  {
+    "title": "Hacking a Casio F-91W digital watch (2023)",
+    "link": "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15",
+    "source": "Hacker News",
+    "published": "2026-01-04T16:05:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46489232\">Comments</a>"
   },
   {
     "title": "Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)",
