@@ -1,5 +1,21 @@
 [
   {
+    "title": "Embassy: Modern embedded framework, using Rust and async",
+    "link": "https://github.com/embassy-rs/embassy",
+    "source": "Hacker News",
+    "published": "2026-01-08T23:00:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46547740\">Comments</a>"
+  },
+  {
+    "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi",
+    "link": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
+    "source": "Hacker News",
+    "published": "2026-01-08T21:17:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546614\">Comments</a>"
+  },
+  {
     "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
     "link": "https://www.mux.com/jobs",
     "source": "Hacker News",
@@ -8,20 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46546413\">Comments</a>"
   },
   {
-    "title": "Texas First State to End American Bar Association oversight of law schools",
-    "link": "https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation",
+    "title": "Show HN: A geofence-based social network app 6 years in development",
+    "link": "https://www.localvideoapp.com",
     "source": "Hacker News",
-    "published": "2026-01-08T20:44:08+00:00",
+    "published": "2026-01-08T20:56:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546188\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546349\">Comments</a>"
   },
   {
-    "title": "Steve Jobs was \"a truly rotten person\" (2018)",
-    "link": "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html",
+    "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+    "link": "https://github.com/samuel-vitorino/sopro",
     "source": "Hacker News",
-    "published": "2026-01-08T20:42:52+00:00",
+    "published": "2026-01-08T20:37:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546177\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46546113\">Comments</a>"
   },
   {
     "title": "How to Code Claude Code in 200 Lines of Code",
@@ -30,14 +46,6 @@
     "published": "2026-01-08T19:54:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46545620\">Comments</a>"
-  },
-  {
-    "title": "Task-free intelligence testing of LLMs",
-    "link": "https://www.marble.onl/posts/tapping/index.html",
-    "source": "Hacker News",
-    "published": "2026-01-08T19:51:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46545587\">Comments</a>"
   },
   {
     "title": "Google AI Studio is now sponsoring Tailwind CSS",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46544524\">Comments</a>"
   },
   {
-    "title": "IBM AI ('Bob') Downloads and Executes Malware",
-    "link": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
-    "source": "Hacker News",
-    "published": "2026-01-08T18:19:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46544454\">Comments</a>"
-  },
-  {
     "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
     "link": "https://sakana.ai/drq/",
     "source": "Hacker News",
@@ -88,16 +88,16 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46542761\">Comments</a>"
   },
   {
-    "title": "Iran Goes Into IPv6 Blackout",
-    "link": "https://radar.cloudflare.com/routing/ir",
+    "title": "AI coding assistants are getting worse?",
+    "link": "https://spectrum.ieee.org/ai-coding-degrades",
     "source": "Hacker News",
-    "published": "2026-01-08T16:11:48+00:00",
+    "published": "2026-01-08T15:20:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542683\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46542036\">Comments</a>"
   },
   {
-    "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
-    "link": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+    "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
+    "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
     "source": "Hacker News",
     "published": "2026-01-08T15:07:57+00:00",
     "author": "Hacker News",
@@ -112,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46540498\">Comments</a>"
   },
   {
-    "title": "A closer look at a BGP anomaly in Venezuela",
-    "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-    "source": "Hacker News",
-    "published": "2026-01-08T06:46:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46538001\">Comments</a>"
-  },
-  {
-    "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-    "link": "https://patchouli.readthedocs.io/en/latest/",
-    "source": "Hacker News",
-    "published": "2026-01-08T05:20:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46537489\">Comments</a>"
-  },
-  {
     "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
     "link": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
     "source": "Hacker News",
@@ -136,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46537253\">Comments</a>"
   },
   {
-    "title": "I used Lego to design a farm for people who are blind \u2013 like me",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
+    "title": "PgX \u2013 Debug Postgres performance in the context of your application code",
+    "link": "https://docs.base14.io/blog/introducing-pgx/",
     "source": "Hacker News",
-    "published": "2026-01-05T18:02:53+00:00",
+    "published": "2026-01-07T05:10:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46502269\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46522841\">Comments</a>"
   },
   {
-    "title": "Intellectual Junkyards",
-    "link": "https://www.forester-notes.org/QHXS/index.xml",
+    "title": "Learning to Play Tic-Tac-Toe with Jax",
+    "link": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
     "source": "Hacker News",
-    "published": "2026-01-05T04:25:34+00:00",
+    "published": "2026-01-04T05:09:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46495319\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46485130\">Comments</a>"
+  },
+  {
+    "title": "Pole of Inaccessibility",
+    "link": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+    "source": "Hacker News",
+    "published": "2026-01-03T23:21:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46482844\">Comments</a>"
   },
   {
     "title": "Lights and Shadows (2020)",
@@ -158,5 +150,13 @@
     "published": "2026-01-02T19:24:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46468338\">Comments</a>"
+  },
+  {
+    "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
+    "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
+    "source": "Hacker News",
+    "published": "2026-01-01T13:58:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46454160\">Comments</a>"
   }
 ]
