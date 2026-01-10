@@ -1,22 +1,6 @@
 [
   {
-    "title": "Caltrain shows why every region should be moving toward regional rail",
-    "link": "https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/",
-    "source": "Hacker News",
-    "published": "2026-01-10T00:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46561302\">Comments</a>"
-  },
-  {
-    "title": "See it with your lying ears",
-    "link": "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears",
-    "source": "Hacker News",
-    "published": "2026-01-10T00:23:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46561286\">Comments</a>"
-  },
-  {
-    "title": "Erdos problem #728 was solved more or less autonomously by AI",
+    "title": "\u201cErdos problem #728 was solved more or less autonomously by AI\u201d",
     "link": "https://mathstodon.xyz/@tao/115855840223258103",
     "source": "Hacker News",
     "published": "2026-01-09T22:39:15+00:00",
@@ -24,15 +8,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46560445\">Comments</a>"
   },
   {
-    "title": "QtNat \u2013 Open you port with Qt UPnP",
-    "link": "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/",
+    "title": "Deno has made its PyPI distribution official",
+    "link": "https://github.com/denoland/deno/issues/31254",
     "source": "Hacker News",
-    "published": "2026-01-09T20:17:07+00:00",
+    "published": "2026-01-09T21:41:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46558739\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46559761\">Comments</a>"
   },
   {
-    "title": "RTX 5090 and Raspberry Pi: Can It Game?",
+    "title": "RTX 5090 and Raspberry Pi: Can it game?",
     "link": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
     "source": "Hacker News",
     "published": "2026-01-09T19:33:47+00:00",
@@ -46,14 +30,6 @@
     "published": "2026-01-09T19:15:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557879\">Comments</a>"
-  },
-  {
-    "title": "Show HN: EuConform \u2013 Offline-first EU AI Act compliance tool (open source)",
-    "link": "https://github.com/Hiepler/EuConform",
-    "source": "Hacker News",
-    "published": "2026-01-09T19:11:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557823\">Comments</a>"
   },
   {
     "title": "JavaScript Demos in 140 Characters",
@@ -72,20 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557352\">Comments</a>"
   },
   {
+    "title": "My article on why AI is great (or terrible) or how to use it",
+    "link": "https://matthewrocklin.com/ai-zealotry/",
+    "source": "Hacker News",
+    "published": "2026-01-09T18:17:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557057\">Comments</a>"
+  },
+  {
     "title": "Show HN: Scroll Wikipedia like TikTok",
     "link": "https://quack.sdan.io",
     "source": "Hacker News",
     "published": "2026-01-09T18:15:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557029\">Comments</a>"
-  },
-  {
-    "title": "Replit (YC W18) Is Hiring",
-    "link": "https://jobs.ashbyhq.com/replit",
-    "source": "Hacker News",
-    "published": "2026-01-09T18:00:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46556822\">Comments</a>"
   },
   {
     "title": "How Markdown took over the world",
@@ -112,12 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46555807\">Comments</a>"
   },
   {
-    "title": "Amiga Pointer Archive",
-    "link": "https://heckmeck.de/pointers/",
+    "title": "Cloudflare CEO on the Italy fines",
+    "link": "https://twitter.com/eastdakota/status/2009654937303896492",
     "source": "Hacker News",
-    "published": "2026-01-09T15:29:37+00:00",
+    "published": "2026-01-09T16:46:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46554897\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46555760\">Comments</a>"
+  },
+  {
+    "title": "Kagi releases alpha version of Orion for Linux",
+    "link": "https://help.kagi.com/orion/misc/linux-status.html",
+    "source": "Hacker News",
+    "published": "2026-01-09T12:54:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46553343\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A website that auctions itself daily",
+    "link": "https://www.thedailyauction.com/",
+    "source": "Hacker News",
+    "published": "2026-01-09T01:59:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549231\">Comments</a>"
   },
   {
     "title": "Scientists discover oldest poison, on 60k-year-old arrows",
@@ -128,20 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46547962\">Comments</a>"
   },
   {
-    "title": "Ragdoll Mayhem Maker \u2013 a physics-based level editor for my indie game",
-    "link": "https://ragdollmayhemmaker.com/",
+    "title": "Robotopia: A 3D, first-person, talking simulator",
+    "link": "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first",
     "source": "Hacker News",
-    "published": "2026-01-07T12:01:30+00:00",
+    "published": "2026-01-08T19:55:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46545636\">Comments</a>"
   },
   {
-    "title": "The (likely?) cheapest home-made Michelson interferometer",
-    "link": "https://guille.site/posts/3d-printed-michelson/",
+    "title": "Show HN: Miditui \u2013 a terminal app/UI for MIDI composing, mixing, and playback",
+    "link": "https://github.com/minimaxir/miditui",
     "source": "Hacker News",
-    "published": "2026-01-04T20:49:19+00:00",
+    "published": "2026-01-08T16:57:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46492019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543359\">Comments</a>"
+  },
+  {
+    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
+    "link": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:44:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511555\">Comments</a>"
+  },
+  {
+    "title": "Favorite Tech Museums",
+    "link": "https://aresluna.org/fav-tech-museums/",
+    "source": "Hacker News",
+    "published": "2026-01-05T20:14:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46504220\">Comments</a>"
   },
   {
     "title": "How will the miracle happen today?",
@@ -150,13 +158,5 @@
     "published": "2026-01-04T16:32:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46489514\">Comments</a>"
-  },
-  {
-    "title": "Design duality and the expression problem (2018)",
-    "link": "https://www.tedinski.com/2018/02/27/the-expression-problem.html",
-    "source": "Hacker News",
-    "published": "2026-01-03T20:21:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46481124\">Comments</a>"
   }
 ]
