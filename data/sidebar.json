@@ -1,5 +1,29 @@
 [
   {
+    "title": "You probably don't need Oh My Zsh",
+    "link": "https://rushter.com/blog/zsh-shell/",
+    "source": "Hacker News",
+    "published": "2026-01-10T04:35:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46562790\">Comments</a>"
+  },
+  {
+    "title": "OLED, Not for Me",
+    "link": "https://nuxx.net/blog/2026/01/09/oled-not-for-me/",
+    "source": "Hacker News",
+    "published": "2026-01-10T03:52:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46562583\">Comments</a>"
+  },
+  {
+    "title": "Maine's black market for baby eels",
+    "link": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
+    "source": "Hacker News",
+    "published": "2026-01-10T02:56:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46562301\">Comments</a>"
+  },
+  {
     "title": "\u201cErdos problem #728 was solved more or less autonomously by AI\u201d",
     "link": "https://mathstodon.xyz/@tao/115855840223258103",
     "source": "Hacker News",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46560445\">Comments</a>"
   },
   {
-    "title": "Deno has made its PyPI distribution official",
-    "link": "https://github.com/denoland/deno/issues/31254",
+    "title": "Start your meetings at 5 minutes past",
+    "link": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
     "source": "Hacker News",
-    "published": "2026-01-09T21:41:27+00:00",
+    "published": "2026-01-09T22:19:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46559761\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46560217\">Comments</a>"
   },
   {
     "title": "RTX 5090 and Raspberry Pi: Can it game?",
@@ -40,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557489\">Comments</a>"
   },
   {
-    "title": "Turn a single image into a navigable 3D Gaussian Splat with depth",
-    "link": "https://lab.revelium.studio/ml-sharp",
-    "source": "Hacker News",
-    "published": "2026-01-09T18:38:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557352\">Comments</a>"
-  },
-  {
     "title": "My article on why AI is great (or terrible) or how to use it",
     "link": "https://matthewrocklin.com/ai-zealotry/",
     "source": "Hacker News",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46556695\">Comments</a>"
   },
   {
-    "title": "Show HN: I made a memory game to teach you to play piano by ear",
-    "link": "https://lend-me-your-ears.specr.net",
-    "source": "Hacker News",
-    "published": "2026-01-09T17:17:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46556210\">Comments</a>"
-  },
-  {
     "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
     "link": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
     "source": "Hacker News",
@@ -94,22 +102,6 @@
     "published": "2026-01-09T16:46:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46555760\">Comments</a>"
-  },
-  {
-    "title": "Kagi releases alpha version of Orion for Linux",
-    "link": "https://help.kagi.com/orion/misc/linux-status.html",
-    "source": "Hacker News",
-    "published": "2026-01-09T12:54:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46553343\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A website that auctions itself daily",
-    "link": "https://www.thedailyauction.com/",
-    "source": "Hacker News",
-    "published": "2026-01-09T01:59:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549231\">Comments</a>"
   },
   {
     "title": "Scientists discover oldest poison, on 60k-year-old arrows",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46543359\">Comments</a>"
   },
   {
+    "title": "Changes to Android Open Source Project",
+    "link": "https://source.android.com/",
+    "source": "Hacker News",
+    "published": "2026-01-07T09:35:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524379\">Comments</a>"
+  },
+  {
     "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
     "link": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46511555\">Comments</a>"
   },
   {
-    "title": "Favorite Tech Museums",
-    "link": "https://aresluna.org/fav-tech-museums/",
-    "source": "Hacker News",
-    "published": "2026-01-05T20:14:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46504220\">Comments</a>"
-  },
-  {
     "title": "How will the miracle happen today?",
     "link": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
     "source": "Hacker News",
     "published": "2026-01-04T16:32:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46489514\">Comments</a>"
+  },
+  {
+    "title": "Alien: Braun Aromaster KF 20 Coffee Makers (2012)",
+    "link": "http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html",
+    "source": "Hacker News",
+    "published": "2026-01-03T08:08:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46473897\">Comments</a>"
   }
 ]
