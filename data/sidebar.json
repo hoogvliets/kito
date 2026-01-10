@@ -1,5 +1,45 @@
 [
   {
+    "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
+    "link": "https://up.codes/careers?utm_source=HN",
+    "source": "Hacker News",
+    "published": "2026-01-10T17:01:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567458\">Comments</a>"
+  },
+  {
+    "title": "AI is a business model stress test",
+    "link": "https://dri.es/ai-is-a-business-model-stress-test",
+    "source": "Hacker News",
+    "published": "2026-01-10T16:56:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567392\">Comments</a>"
+  },
+  {
+    "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
+    "link": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
+    "source": "Hacker News",
+    "published": "2026-01-10T16:36:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567138\">Comments</a>"
+  },
+  {
+    "title": "Open Chaos: A self-evolving open-source project",
+    "link": "https://www.openchaos.dev/",
+    "source": "Hacker News",
+    "published": "2026-01-10T16:03:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46566812\">Comments</a>"
+  },
+  {
+    "title": "I replaced Windows with Linux and everything's going great",
+    "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+    "source": "Hacker News",
+    "published": "2026-01-10T15:26:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46566465\">Comments</a>"
+  },
+  {
     "title": "UK government exempting itself from cyber law inspires little confidence",
     "link": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
     "source": "Hacker News",
@@ -8,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46565731\">Comments</a>"
   },
   {
-    "title": "NASA announces unprecedented return of sick ISS astronaut and crew",
-    "link": "https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues",
+    "title": "Show HN: Yuanzai World \u2013 LLM RPGs with branching world-lines",
+    "link": "https://www.yuanzai.world/",
     "source": "Hacker News",
-    "published": "2026-01-10T13:44:21+00:00",
+    "published": "2026-01-10T12:48:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46565695\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46565265\">Comments</a>"
   },
   {
     "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
@@ -40,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46564696\">Comments</a>"
   },
   {
-    "title": "Beating the Tutorial",
-    "link": "https://elliotmorris.net/blog-a-day-3-beating-the-tutorial",
-    "source": "Hacker News",
-    "published": "2026-01-10T09:56:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46564323\">Comments</a>"
-  },
-  {
     "title": "Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text",
     "link": "https://karl-voit.at/2017/09/23/orgmode-as-markup-only/",
     "source": "Hacker News",
     "published": "2026-01-10T09:15:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46564116\">Comments</a>"
-  },
-  {
-    "title": "Oh My Zsh adds bloat",
-    "link": "https://rushter.com/blog/zsh-shell/",
-    "source": "Hacker News",
-    "published": "2026-01-10T04:35:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46562790\">Comments</a>"
   },
   {
     "title": "\u201cErdos problem #728 was solved more or less autonomously by AI\u201d",
@@ -72,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46560445\">Comments</a>"
   },
   {
-    "title": "Start your meetings at 5 minutes past",
-    "link": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
-    "source": "Hacker News",
-    "published": "2026-01-09T22:19:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46560217\">Comments</a>"
-  },
-  {
     "title": "JavaScript Demos in 140 Characters",
     "link": "https://beta.dwitter.net",
     "source": "Hacker News",
@@ -88,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557489\">Comments</a>"
   },
   {
-    "title": "How Markdown took over the world",
-    "link": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
+    "title": "Httpz \u2013 Zero-Allocation HTTP/1.1 Parser for OxCaml",
+    "link": "https://github.com/avsm/httpz",
     "source": "Hacker News",
-    "published": "2026-01-09T17:52:20+00:00",
+    "published": "2026-01-07T10:02:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46556695\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT Health is a marketplace, guess who is the product?",
-    "link": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
-    "source": "Hacker News",
-    "published": "2026-01-08T14:40:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46541533\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524554\">Comments</a>"
   },
   {
     "title": "Changes to Android Open Source Project",
@@ -128,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46511555\">Comments</a>"
   },
   {
+    "title": "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
+    "link": "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html",
+    "source": "Hacker News",
+    "published": "2026-01-06T05:07:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46508956\">Comments</a>"
+  },
+  {
     "title": "Ask HN: What's a standard way for apps to request text completion as a service?",
     "link": "https://news.ycombinator.com/item?id=46506261",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46506261\">Comments</a>"
   },
   {
-    "title": "How will the miracle happen today?",
-    "link": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
-    "source": "Hacker News",
-    "published": "2026-01-04T16:32:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46489514\">Comments</a>"
-  },
-  {
     "title": "Reverse Engineering the Epson FilmScan 200 for Classic Mac",
     "link": "https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/",
     "source": "Hacker News",
     "published": "2026-01-03T08:26:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46474065\">Comments</a>"
-  },
-  {
-    "title": "Alien: Braun Aromaster KF 20 Coffee Makers (2012)",
-    "link": "http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html",
-    "source": "Hacker News",
-    "published": "2026-01-03T08:08:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46473897\">Comments</a>"
   }
 ]
