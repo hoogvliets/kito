@@ -1,11 +1,43 @@
 [
   {
+    "title": "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
+    "link": "https://github.com/rustmailer/bichon",
+    "source": "Hacker News",
+    "published": "2026-01-10T19:29:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46569075\">Comments</a>"
+  },
+  {
+    "title": "Finding and Fixing Ghostty's Largest Memory Leak",
+    "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+    "source": "Hacker News",
+    "published": "2026-01-10T18:58:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46568794\">Comments</a>"
+  },
+  {
+    "title": "Rats caught on camera hunting flying bats",
+    "link": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
+    "source": "Hacker News",
+    "published": "2026-01-10T18:44:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46568662\">Comments</a>"
+  },
+  {
     "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
     "link": "https://up.codes/careers?utm_source=HN",
     "source": "Hacker News",
     "published": "2026-01-10T17:01:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46567458\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I used Claude Code to discover connections between 100 books",
+    "link": "https://trails.pieterma.es/",
+    "source": "Hacker News",
+    "published": "2026-01-10T16:56:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567400\">Comments</a>"
   },
   {
     "title": "AI is a business model stress test",
@@ -16,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46567392\">Comments</a>"
   },
   {
-    "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
-    "link": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
+    "title": "Drones that recharge directly on transmission lines",
+    "link": "https://www.ycombinator.com/companies/voltair",
     "source": "Hacker News",
-    "published": "2026-01-10T16:36:56+00:00",
+    "published": "2026-01-10T16:43:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567138\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46567218\">Comments</a>"
   },
   {
     "title": "Open Chaos: A self-evolving open-source project",
@@ -48,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46565731\">Comments</a>"
   },
   {
-    "title": "Show HN: Yuanzai World \u2013 LLM RPGs with branching world-lines",
-    "link": "https://www.yuanzai.world/",
-    "source": "Hacker News",
-    "published": "2026-01-10T12:48:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46565265\">Comments</a>"
-  },
-  {
     "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
     "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
     "source": "Hacker News",
@@ -70,14 +94,6 @@
     "published": "2026-01-10T11:23:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46564762\">Comments</a>"
-  },
-  {
-    "title": "Allow me to introduce, the Citroen C15",
-    "link": "https://eupolicy.social/@jmaris/115860595238097654",
-    "source": "Hacker News",
-    "published": "2026-01-10T11:12:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46564696\">Comments</a>"
   },
   {
     "title": "Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text",
@@ -96,12 +112,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46560445\">Comments</a>"
   },
   {
-    "title": "JavaScript Demos in 140 Characters",
-    "link": "https://beta.dwitter.net",
+    "title": "Side-by-side comparison of how AI models answer moral dilemmas",
+    "link": "https://civai.org/p/ai-values",
     "source": "Hacker News",
-    "published": "2026-01-09T18:48:30+00:00",
+    "published": "2026-01-08T21:53:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557489\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46547024\">Comments</a>"
+  },
+  {
+    "title": "ChatGPT Health is a marketplace, guess who is the product?",
+    "link": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+    "source": "Hacker News",
+    "published": "2026-01-08T14:40:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46541533\">Comments</a>"
+  },
+  {
+    "title": "ASCII-Driven Development",
+    "link": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+    "source": "Hacker News",
+    "published": "2026-01-08T08:18:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46538628\">Comments</a>"
+  },
+  {
+    "title": "Distributed Denial of Secrets",
+    "link": "https://ddosecrets.com/",
+    "source": "Hacker News",
+    "published": "2026-01-08T00:05:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46535143\">Comments</a>"
   },
   {
     "title": "Httpz \u2013 Zero-Allocation HTTP/1.1 Parser for OxCaml",
@@ -112,51 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46524554\">Comments</a>"
   },
   {
-    "title": "Changes to Android Open Source Project",
-    "link": "https://source.android.com/",
+    "title": "Bindless Oriented Graphics Programming",
+    "link": "https://alextardif.com/BindlessProgramming.html",
     "source": "Hacker News",
-    "published": "2026-01-07T09:35:46+00:00",
+    "published": "2026-01-07T08:44:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524379\">Comments</a>"
-  },
-  {
-    "title": "Creating Embroidered Charts with R and ImageMagick",
-    "link": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick",
-    "source": "Hacker News",
-    "published": "2026-01-06T14:33:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46512743\">Comments</a>"
-  },
-  {
-    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
-    "link": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
-    "source": "Hacker News",
-    "published": "2026-01-06T12:44:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511555\">Comments</a>"
-  },
-  {
-    "title": "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
-    "link": "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html",
-    "source": "Hacker News",
-    "published": "2026-01-06T05:07:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46508956\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: What's a standard way for apps to request text completion as a service?",
-    "link": "https://news.ycombinator.com/item?id=46506261",
-    "source": "Hacker News",
-    "published": "2026-01-05T22:51:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46506261\">Comments</a>"
-  },
-  {
-    "title": "Reverse Engineering the Epson FilmScan 200 for Classic Mac",
-    "link": "https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/",
-    "source": "Hacker News",
-    "published": "2026-01-03T08:26:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46474065\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524051\">Comments</a>"
   }
 ]
