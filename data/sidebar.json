@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Concise TypeScript Book",
+    "link": "https://github.com/gibbok/typescript-book",
+    "source": "Hacker News",
+    "published": "2026-01-11T05:42:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46573001\">Comments</a>"
+  },
+  {
+    "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+    "link": "https://www.bbc.com/news/articles/c623r47d67lo",
+    "source": "Hacker News",
+    "published": "2026-01-11T04:45:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572769\">Comments</a>"
+  },
+  {
+    "title": "My Home Fibre Network Disintegrated",
+    "link": "https://alienchow.dev/post/fibre_disintegration/",
+    "source": "Hacker News",
+    "published": "2026-01-11T04:19:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572679\">Comments</a>"
+  },
+  {
+    "title": "Workers at Redmond SpaceX lab exposed to toxic chemicals",
+    "link": "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5",
+    "source": "Hacker News",
+    "published": "2026-01-11T03:15:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572392\">Comments</a>"
+  },
+  {
     "title": "Show HN: VAM Seek \u2013 2D video navigation grid, 15KB, zero server load",
     "link": "https://github.com/unhaya/vam-seek",
     "source": "Hacker News",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46571980\">Comments</a>"
   },
   {
-    "title": "Bob Weir has died",
-    "link": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
-    "source": "Hacker News",
-    "published": "2026-01-11T01:04:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46571707\">Comments</a>"
-  },
-  {
     "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
     "link": "https://news.ycombinator.com/item?id=46571149",
     "source": "Hacker News",
@@ -54,14 +78,6 @@
     "published": "2026-01-10T19:54:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46569312\">Comments</a>"
-  },
-  {
-    "title": "Code Is Clay",
-    "link": "https://campedersen.com/code-is-clay",
-    "source": "Hacker News",
-    "published": "2026-01-10T19:43:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46569225\">Comments</a>"
   },
   {
     "title": "Show HN: Play poker with LLMs, or watch them play against each other",
@@ -112,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46565132\">Comments</a>"
   },
   {
-    "title": "Datadog, thank you for blocking us",
-    "link": "https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us",
-    "source": "Hacker News",
-    "published": "2026-01-09T19:44:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46558284\">Comments</a>"
-  },
-  {
     "title": "Code and Let Live",
     "link": "https://fly.io/blog/code-and-let-live/",
     "source": "Hacker News",
     "published": "2026-01-09T19:11:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557825\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT Health is a marketplace, guess who is the product?",
-    "link": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
-    "source": "Hacker News",
-    "published": "2026-01-08T14:40:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46541533\">Comments</a>"
   },
   {
     "title": "CPU Counters on Apple Silicon: article + tool",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46525236\">Comments</a>"
   },
   {
+    "title": "An Experimental Approach to Printf in HLSL",
+    "link": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T09:53:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46524483\">Comments</a>"
+  },
+  {
     "title": "Brands upset Buy For Me is featuring their products on Amazon without permission",
     "link": "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/",
     "source": "Hacker News",
     "published": "2026-01-07T02:32:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46521823\">Comments</a>"
-  },
-  {
-    "title": "Show HN: mcpc \u2013 Universal command-line client for Model Context Protocol (MCP)",
-    "link": "https://github.com/apify/mcp-cli",
-    "source": "Hacker News",
-    "published": "2026-01-06T15:05:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46513163\">Comments</a>"
   }
 ]
