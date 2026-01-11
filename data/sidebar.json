@@ -1,19 +1,43 @@
 [
   {
+    "title": "AI industry insiders launch site to poison the data that feeds them",
+    "link": "https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/",
+    "source": "Hacker News",
+    "published": "2026-01-11T17:05:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46577464\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What Are You Working On? (January 2026)",
+    "link": "https://news.ycombinator.com/item?id=46577242",
+    "source": "Hacker News",
+    "published": "2026-01-11T16:43:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46577242\">Comments</a>"
+  },
+  {
+    "title": "Replace the Retiring Windows XP with Linux",
+    "link": "https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/",
+    "source": "Hacker News",
+    "published": "2026-01-11T16:20:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46577019\">Comments</a>"
+  },
+  {
+    "title": "Instagram data breach reportedly exposed the personal info of 17.5M users",
+    "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+    "source": "Hacker News",
+    "published": "2026-01-11T15:07:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46576337\">Comments</a>"
+  },
+  {
     "title": "Happy 50th Birthday KIM-1",
     "link": "https://github.com/netzherpes/KIM1-Demo",
     "source": "Hacker News",
     "published": "2026-01-11T13:55:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46575804\">Comments</a>"
-  },
-  {
-    "title": "Iran Shuts Down Starlink Internet for First Time",
-    "link": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/",
-    "source": "Hacker News",
-    "published": "2026-01-11T12:37:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46575224\">Comments</a>"
   },
   {
     "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46572679\">Comments</a>"
   },
   {
-    "title": "Show HN: Ferrite \u2013 Markdown editor in Rust with native Mermaid diagram rendering",
-    "link": "https://github.com/OlaProeis/Ferrite",
-    "source": "Hacker News",
-    "published": "2026-01-11T01:50:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46571980\">Comments</a>"
-  },
-  {
     "title": "Finding and fixing Ghostty's largest memory leak",
     "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "source": "Hacker News",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46567400\">Comments</a>"
   },
   {
-    "title": "Show HN: Porting xv6 to HiFive Unmatched board",
-    "link": "https://github.com/eyengin/xv6-riscv-unmatched",
-    "source": "Hacker News",
-    "published": "2026-01-10T14:07:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46565833\">Comments</a>"
-  },
-  {
     "title": "You are not required to close your <p>, <li>, <img>, or <br> tags in HTML",
     "link": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
     "source": "Hacker News",
     "published": "2026-01-09T20:43:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46559065\">Comments</a>"
-  },
-  {
-    "title": "Code and Let Live",
-    "link": "https://fly.io/blog/code-and-let-live/",
-    "source": "Hacker News",
-    "published": "2026-01-09T19:11:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557825\">Comments</a>"
   },
   {
     "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46525271\">Comments</a>"
   },
   {
-    "title": "CPU Counters on Apple Silicon: article + tool",
-    "link": "https://blog.bugsiki.dev/posts/apple-pmu/",
-    "source": "Hacker News",
-    "published": "2026-01-07T11:39:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525236\">Comments</a>"
-  },
-  {
     "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
     "link": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
     "source": "Hacker News",
     "published": "2026-01-06T18:57:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46516807\">Comments</a>"
+  },
+  {
+    "title": "Dell Admits It Made a Mistake When It Abandoned XPS",
+    "link": "https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053",
+    "source": "Hacker News",
+    "published": "2026-01-06T12:49:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46511592\">Comments</a>"
   }
 ]
