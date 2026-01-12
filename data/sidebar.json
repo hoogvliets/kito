@@ -1,19 +1,27 @@
 [
   {
-    "title": "Xfce is great",
-    "link": "https://rubenerd.com/xfce-is-great/",
+    "title": "Fossil versus Git",
+    "link": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
     "source": "Hacker News",
-    "published": "2026-01-12T04:39:26+00:00",
+    "published": "2026-01-12T10:10:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46584173\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586385\">Comments</a>"
   },
   {
-    "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
-    "link": "https://www.bbc.com/news/articles/clyndv7zd20o",
+    "title": "Lightpanda migrate DOM implementation to Zig",
+    "link": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
     "source": "Hacker News",
-    "published": "2026-01-12T02:58:01+00:00",
+    "published": "2026-01-12T09:42:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46583464\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586179\">Comments</a>"
+  },
+  {
+    "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
+    "link": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
+    "source": "Hacker News",
+    "published": "2026-01-12T09:10:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46585947\">Comments</a>"
   },
   {
     "title": "Uncrossy",
@@ -22,14 +30,6 @@
     "published": "2026-01-12T01:39:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46582762\">Comments</a>"
-  },
-  {
-    "title": "Gadget Exposed a Spy Camera [video]",
-    "link": "https://www.youtube.com/watch?v=1reman2waLs",
-    "source": "Hacker News",
-    "published": "2026-01-12T00:15:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46582033\">Comments</a>"
   },
   {
     "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
@@ -96,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46577242\">Comments</a>"
   },
   {
-    "title": "Don't fall into the anti-AI hype",
-    "link": "https://antirez.com/news/158",
-    "source": "Hacker News",
-    "published": "2026-01-11T10:26:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46574276\">Comments</a>"
-  },
-  {
-    "title": "Garbage collection is contrarian",
-    "link": "https://trynova.dev/blog/garbage-collection-is-contrarian",
-    "source": "Hacker News",
-    "published": "2026-01-09T21:15:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46559452\">Comments</a>"
-  },
-  {
     "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
     "link": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
     "source": "Hacker News",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46526896\">Comments</a>"
   },
   {
-    "title": "Conbini Wars \u2013 map of Japanese convenience store ratios",
+    "title": "XMPP and Metadata",
+    "link": "https://blog.mathieui.net/xmpp-and-metadata.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T06:25:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46523226\">Comments</a>"
+  },
+  {
+    "title": "Conbini Wars \u2013 Map of Japanese convenience store ratios",
     "link": "https://conbini.kikkia.dev/",
     "source": "Hacker News",
     "published": "2026-01-06T22:31:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46519756\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DevicePrint \u2013 device fingerprinting without cookies",
+    "link": "https://news.ycombinator.com/item?id=46517654",
+    "source": "Hacker News",
+    "published": "2026-01-06T19:51:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46517654\">Comments</a>"
   },
   {
     "title": "Insights into Claude Opus 4.5 from Pok\u00e9mon",
