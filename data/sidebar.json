@@ -1,11 +1,67 @@
 [
   {
-    "title": "Fossil versus Git",
-    "link": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
+    "title": "Keychron's Nape Pro turns your keyboard into a laptop\u2011style trackball rig",
+    "link": "https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/",
     "source": "Hacker News",
-    "published": "2026-01-12T10:10:05+00:00",
+    "published": "2026-01-12T14:50:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586385\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46589279\">Comments</a>"
+  },
+  {
+    "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
+    "link": "https://taylorkolasinski.com/notes/mhc-reproduction/",
+    "source": "Hacker News",
+    "published": "2026-01-12T13:57:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46588572\">Comments</a>"
+  },
+  {
+    "title": "Ireland fast tracks Bill to criminalise harmful voice or image misuse",
+    "link": "https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/",
+    "source": "Hacker News",
+    "published": "2026-01-12T13:38:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46588319\">Comments</a>"
+  },
+  {
+    "title": "Windows 8 Desktop Environment for Linux",
+    "link": "https://github.com/er-bharat/Win8DE",
+    "source": "Hacker News",
+    "published": "2026-01-12T13:22:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46588132\">Comments</a>"
+  },
+  {
+    "title": "Floppy disks turn out to be the greatest TV remote for kids",
+    "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+    "source": "Hacker News",
+    "published": "2026-01-12T13:07:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587934\">Comments</a>"
+  },
+  {
+    "title": "Zen-C: Write like a high-level language, run like C",
+    "link": "https://github.com/z-libs/Zen-C",
+    "source": "Hacker News",
+    "published": "2026-01-12T12:57:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587804\">Comments</a>"
+  },
+  {
+    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
+    "link": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
+    "source": "Hacker News",
+    "published": "2026-01-12T12:29:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587536\">Comments</a>"
+  },
+  {
+    "title": "Launch a Debugging Terminal into GitHub Actions",
+    "link": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
+    "source": "Hacker News",
+    "published": "2026-01-12T12:25:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587498\">Comments</a>"
   },
   {
     "title": "Lightpanda migrate DOM implementation to Zig",
@@ -24,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46585947\">Comments</a>"
   },
   {
-    "title": "Uncrossy",
-    "link": "https://uncrossy.com/",
-    "source": "Hacker News",
-    "published": "2026-01-12T01:39:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46582762\">Comments</a>"
-  },
-  {
     "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
     "link": "https://iczelia.net/posts/snake-polyglot/",
     "source": "Hacker News",
     "published": "2026-01-11T22:14:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46580864\">Comments</a>"
-  },
-  {
-    "title": "The next two years of software engineering",
-    "link": "https://addyosmani.com/blog/next-two-years/",
-    "source": "Hacker News",
-    "published": "2026-01-11T22:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46580703\">Comments</a>"
   },
   {
     "title": "CLI agents make self-hosting on a home server easier and fun",
@@ -56,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46580326\">Comments</a>"
   },
   {
-    "title": "FUSE is All You Need \u2013 Giving agents access to anything via filesystems",
-    "link": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
-    "source": "Hacker News",
-    "published": "2026-01-11T21:12:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46580136\">Comments</a>"
-  },
-  {
     "title": "The struggle of resizing windows on macOS Tahoe",
     "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
     "source": "Hacker News",
     "published": "2026-01-11T20:47:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46579864\">Comments</a>"
-  },
-  {
-    "title": "Sampling at negative temperature",
-    "link": "https://cavendishlabs.org/blog/negative-temperature/",
-    "source": "Hacker News",
-    "published": "2026-01-11T20:01:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46579374\">Comments</a>"
   },
   {
     "title": "iCloud Photos Downloader",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46578921\">Comments</a>"
   },
   {
-    "title": "Ask HN: What are you working on? (January 2026)",
-    "link": "https://news.ycombinator.com/item?id=46577242",
-    "source": "Hacker News",
-    "published": "2026-01-11T16:43:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46577242\">Comments</a>"
-  },
-  {
     "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
     "link": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
     "source": "Hacker News",
@@ -104,28 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46553137\">Comments</a>"
   },
   {
-    "title": "Perfectly Replicating Coca Cola [video]",
-    "link": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
-    "source": "Hacker News",
-    "published": "2026-01-08T17:09:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543509\">Comments</a>"
-  },
-  {
-    "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
-    "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-    "source": "Hacker News",
-    "published": "2026-01-08T10:34:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46539478\">Comments</a>"
-  },
-  {
     "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
     "link": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
     "source": "Hacker News",
     "published": "2026-01-07T14:43:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46526896\">Comments</a>"
+  },
+  {
+    "title": "Show HN: 30k IKEA items in flat text",
+    "link": "https://huggingface.co/datasets/tsazan/ikea-us-commercetxt",
+    "source": "Hacker News",
+    "published": "2026-01-07T14:35:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46526809\">Comments</a>"
+  },
+  {
+    "title": "Personal thoughts/notes from working on Zootopia 2",
+    "link": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
+    "source": "Hacker News",
+    "published": "2026-01-07T12:29:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525639\">Comments</a>"
   },
   {
     "title": "XMPP and Metadata",
@@ -142,21 +158,5 @@
     "published": "2026-01-06T22:31:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46519756\">Comments</a>"
-  },
-  {
-    "title": "Show HN: DevicePrint \u2013 device fingerprinting without cookies",
-    "link": "https://news.ycombinator.com/item?id=46517654",
-    "source": "Hacker News",
-    "published": "2026-01-06T19:51:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46517654\">Comments</a>"
-  },
-  {
-    "title": "Insights into Claude Opus 4.5 from Pok\u00e9mon",
-    "link": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
-    "source": "Hacker News",
-    "published": "2026-01-06T17:41:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46515625\">Comments</a>"
   }
 ]
