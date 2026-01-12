@@ -1,5 +1,13 @@
 [
   {
+    "title": "XFCE Is Great",
+    "link": "https://rubenerd.com/xfce-is-great/",
+    "source": "Hacker News",
+    "published": "2026-01-12T04:39:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46584173\">Comments</a>"
+  },
+  {
     "title": "Show HN: An LLM-optimized programming language",
     "link": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
     "source": "Hacker News",
@@ -8,12 +16,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46583581\">Comments</a>"
   },
   {
-    "title": "Code is cheap now, but software isn't",
-    "link": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
+    "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+    "link": "https://www.bbc.com/news/articles/clyndv7zd20o",
     "source": "Hacker News",
-    "published": "2026-01-12T02:51:04+00:00",
+    "published": "2026-01-12T02:58:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46583410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46583464\">Comments</a>"
+  },
+  {
+    "title": "Uncrossy",
+    "link": "https://uncrossy.com/",
+    "source": "Hacker News",
+    "published": "2026-01-12T01:39:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46582762\">Comments</a>"
   },
   {
     "title": "Which programming languages are most token-efficient?",
@@ -32,20 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46582033\">Comments</a>"
   },
   {
-    "title": "I'd tell you a UDP joke\u2026",
-    "link": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
-    "source": "Hacker News",
-    "published": "2026-01-11T22:20:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46580946\">Comments</a>"
-  },
-  {
     "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
     "link": "https://iczelia.net/posts/snake-polyglot/",
     "source": "Hacker News",
     "published": "2026-01-11T22:14:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46580864\">Comments</a>"
+  },
+  {
+    "title": "The next two years of software engineering",
+    "link": "https://addyosmani.com/blog/next-two-years/",
+    "source": "Hacker News",
+    "published": "2026-01-11T22:00:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46580703\">Comments</a>"
   },
   {
     "title": "CLI agents make self-hosting on a home server easier and fun",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46578921\">Comments</a>"
   },
   {
-    "title": "Gentoo Linux 2025 Review",
-    "link": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-    "source": "Hacker News",
-    "published": "2026-01-11T11:38:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46574769\">Comments</a>"
-  },
-  {
     "title": "Don't fall into the anti-AI hype",
     "link": "https://antirez.com/news/158",
     "source": "Hacker News",
@@ -104,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46574276\">Comments</a>"
   },
   {
-    "title": "Moving Scratch generation to Python on browser",
-    "link": "https://kushaldas.in/posts/introducing-ektupy.html",
+    "title": "Garbage collection is contrarian",
+    "link": "https://trynova.dev/blog/garbage-collection-is-contrarian",
     "source": "Hacker News",
-    "published": "2026-01-09T08:29:25+00:00",
+    "published": "2026-01-09T21:15:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46551352\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46559452\">Comments</a>"
+  },
+  {
+    "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+    "link": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+    "source": "Hacker News",
+    "published": "2026-01-09T12:23:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46553137\">Comments</a>"
   },
   {
     "title": "Perfectly Replicating Coca Cola [video]",
@@ -126,22 +142,6 @@
     "published": "2026-01-08T10:34:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46539478\">Comments</a>"
-  },
-  {
-    "title": "The Taming of Collection Scans",
-    "link": "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/",
-    "source": "Hacker News",
-    "published": "2026-01-07T16:46:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46528683\">Comments</a>"
-  },
-  {
-    "title": "Ping: The Secrets of Successful Virtual Communication",
-    "link": "https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363",
-    "source": "Hacker News",
-    "published": "2026-01-07T12:33:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46525677\">Comments</a>"
   },
   {
     "title": "Elo \u2013 A data expression language which compiles to JavaScript, Ruby, and SQL",
