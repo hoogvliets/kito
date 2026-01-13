@@ -1,11 +1,35 @@
 [
   {
-    "title": "Chromium Has Merged JpegXL",
-    "link": "https://chromium-review.googlesource.com/c/chromium/src/+/7184969",
+    "title": "Network of Scottish X accounts go dark amid Iran blackout",
+    "link": "https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/",
     "source": "Hacker News",
-    "published": "2026-01-13T06:42:49+00:00",
+    "published": "2026-01-13T11:19:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46597927\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46599574\">Comments</a>"
+  },
+  {
+    "title": "Show HN: An iOS budget app I've been maintaining since 2011",
+    "link": "https://primoco.me/en/",
+    "source": "Hacker News",
+    "published": "2026-01-13T10:44:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46599341\">Comments</a>"
+  },
+  {
+    "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
+    "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
+    "source": "Hacker News",
+    "published": "2026-01-13T10:03:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46599079\">Comments</a>"
+  },
+  {
+    "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
+    "link": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
+    "source": "Hacker News",
+    "published": "2026-01-13T09:47:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46598991\">Comments</a>"
   },
   {
     "title": "Text-Based Web Browsers",
@@ -48,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46591708\">Comments</a>"
   },
   {
-    "title": "Show HN: AI in SolidWorks",
-    "link": "https://www.trylad.com",
-    "source": "Hacker News",
-    "published": "2026-01-12T16:56:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46591100\">Comments</a>"
-  },
-  {
     "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
     "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
     "source": "Hacker News",
     "published": "2026-01-12T16:04:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46590280\">Comments</a>"
-  },
-  {
-    "title": "Apple picks Gemini to power Siri",
-    "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-    "source": "Hacker News",
-    "published": "2026-01-12T15:22:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46589675\">Comments</a>"
   },
   {
     "title": "Date is out, Temporal is in",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46587934\">Comments</a>"
   },
   {
-    "title": "Anthropic made a mistake in cutting off third-party clients",
-    "link": "https://archaeologist.dev/artifacts/anthropic",
-    "source": "Hacker News",
-    "published": "2026-01-12T10:57:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586766\">Comments</a>"
-  },
-  {
     "title": "Unauthenticated remote code execution in OpenCode",
     "link": "https://cy.md/opencode-rce/",
     "source": "Hacker News",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46557733\">Comments</a>"
   },
   {
+    "title": "Deconstructing the LuaJIT Pseudo Memory Leak",
+    "link": "https://blog.openresty.com/en/luajit-plus/",
+    "source": "Hacker News",
+    "published": "2026-01-09T18:23:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46557146\">Comments</a>"
+  },
+  {
+    "title": "Designing an IPv6-native P2P transport \u2013 lessons from building I6P",
+    "link": "https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73",
+    "source": "Hacker News",
+    "published": "2026-01-09T15:17:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46554775\">Comments</a>"
+  },
+  {
     "title": "Implementing a web server in a single printf() call (2014)",
     "link": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
     "source": "Hacker News",
     "published": "2026-01-09T03:24:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46549714\">Comments</a>"
-  },
-  {
-    "title": "Zirgen: Compiler for a Domain-Specific Language",
-    "link": "https://github.com/risc0/zirgen",
-    "source": "Hacker News",
-    "published": "2026-01-09T01:29:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46549039\">Comments</a>"
   },
   {
     "title": "Some ecologists fear their field is losing touch with nature",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46540126\">Comments</a>"
   },
   {
-    "title": "Git Rebase for the Terrified",
-    "link": "https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/",
+    "title": "The Inevitable Rise of the Art TV",
+    "link": "https://www.wired.com/story/art-frame-tv-trends/",
     "source": "Hacker News",
-    "published": "2026-01-07T19:03:24+00:00",
+    "published": "2026-01-07T19:40:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46530920\">Comments</a>"
-  },
-  {
-    "title": "Kafka Inc",
-    "link": "https://libertiesjournal.com/online-articles/kafkainc/",
-    "source": "Hacker News",
-    "published": "2026-01-07T18:18:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46530236\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46531425\">Comments</a>"
   }
 ]
