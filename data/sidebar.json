@@ -1,14 +1,22 @@
 [
   {
-    "title": "Update on age requirements for apps distributed in Texas",
-    "link": "https://developer.apple.com/news/?id=8jzbigf4",
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
     "source": "Hacker News",
-    "published": "2026-01-12T20:27:34+00:00",
+    "published": "2026-01-12T23:05:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46593819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46595419\">Comments</a>"
   },
   {
-    "title": "Fabrice Bellard's TS Zip",
+    "title": "F2 (YC S25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
+    "source": "Hacker News",
+    "published": "2026-01-12T22:30:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46595130\">Comments</a>"
+  },
+  {
+    "title": "Fabrice Bellard's TS Zip (2024)",
     "link": "https://www.bellard.org/ts_zip/",
     "source": "Hacker News",
     "published": "2026-01-12T20:26:47+00:00",
@@ -30,30 +38,6 @@
     "published": "2026-01-12T19:27:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46593022\">Comments</a>"
-  },
-  {
-    "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
-    "link": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
-    "source": "Hacker News",
-    "published": "2026-01-12T18:41:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46592461\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Fall asleep by watching JavaScript load",
-    "link": "https://github.com/sarusso/bedtime",
-    "source": "Hacker News",
-    "published": "2026-01-12T18:36:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46592376\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Yolobox \u2013 Run AI coding agents with full sudo without nuking home dir",
-    "link": "https://github.com/finbarr/yolobox",
-    "source": "Hacker News",
-    "published": "2026-01-12T18:34:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46592344\">Comments</a>"
   },
   {
     "title": "Postal Arbitrage",
@@ -78,14 +62,6 @@
     "published": "2026-01-12T16:56:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46591100\">Comments</a>"
-  },
-  {
-    "title": "Building a 25 Gbit/s workstation for the SCION Association",
-    "link": "https://github.com/scionassociation/blog-25gbit-workstation",
-    "source": "Hacker News",
-    "published": "2026-01-12T16:20:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46590541\">Comments</a>"
   },
   {
     "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
@@ -136,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46587934\">Comments</a>"
   },
   {
-    "title": "Zen-C: Write like a high-level language, run like C",
-    "link": "https://github.com/z-libs/Zen-C",
+    "title": "Anthropic made a mistake in cutting off third-party clients",
+    "link": "https://archaeologist.dev/artifacts/anthropic",
     "source": "Hacker News",
-    "published": "2026-01-12T12:57:44+00:00",
+    "published": "2026-01-12T10:57:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587804\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586766\">Comments</a>"
   },
   {
     "title": "Unauthenticated remote code execution in OpenCode",
@@ -150,6 +126,30 @@
     "published": "2026-01-11T22:33:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46581095\">Comments</a>"
+  },
+  {
+    "title": "What old tennis players teach us (2017)",
+    "link": "https://www.raphkoster.com/2017/09/22/31098/",
+    "source": "Hacker News",
+    "published": "2026-01-08T16:50:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46543257\">Comments</a>"
+  },
+  {
+    "title": "'I rarely get outside': scientists ditch fieldwork in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-025-04150-w",
+    "source": "Hacker News",
+    "published": "2026-01-08T12:07:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46540126\">Comments</a>"
+  },
+  {
+    "title": "GitHub: A case study in link maintenance and 404 pages (2013)",
+    "link": "https://chrismorgan.info/blog/github-links-case-study/",
+    "source": "Hacker News",
+    "published": "2026-01-07T16:36:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46528502\">Comments</a>"
   },
   {
     "title": "Perlsecret \u2013 Perl secret operators and constants",
