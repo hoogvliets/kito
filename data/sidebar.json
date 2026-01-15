@@ -1,11 +1,27 @@
 [
   {
-    "title": "Anthropic Explicitly Blocking OpenCode",
-    "link": "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e",
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "link": "https://creepylink.com/",
     "source": "Hacker News",
-    "published": "2026-01-15T00:04:24+00:00",
+    "published": "2026-01-15T03:28:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46625918\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46627652\">Comments</a>"
+  },
+  {
+    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+    "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+    "source": "Hacker News",
+    "published": "2026-01-15T01:45:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626836\">Comments</a>"
+  },
+  {
+    "title": "Furiosa: 3.5x efficiency over H100s",
+    "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+    "source": "Hacker News",
+    "published": "2026-01-15T00:53:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626410\">Comments</a>"
   },
   {
     "title": "ChromaDB Explorer",
@@ -14,6 +30,14 @@
     "published": "2026-01-14T22:30:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46624731\">Comments</a>"
+  },
+  {
+    "title": "Crafting Interpreters",
+    "link": "https://craftinginterpreters.com/",
+    "source": "Hacker News",
+    "published": "2026-01-14T22:26:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46624658\">Comments</a>"
   },
   {
     "title": "Scaling long-running autonomous coding",
@@ -48,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46622328\">Comments</a>"
   },
   {
-    "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
-    "link": "https://news.ycombinator.com/item?id=46620990",
-    "source": "Hacker News",
-    "published": "2026-01-14T19:06:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46620990\">Comments</a>"
-  },
-  {
     "title": "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
     "link": "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html",
     "source": "Hacker News",
     "published": "2026-01-14T18:49:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46620673\">Comments</a>"
-  },
-  {
-    "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
-    "link": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
-    "source": "Hacker News",
-    "published": "2026-01-14T17:20:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46618901\">Comments</a>"
   },
   {
     "title": "Ask HN: Share your personal website",
@@ -112,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46616481\">Comments</a>"
   },
   {
-    "title": "I hate GitHub Actions with passion",
-    "link": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
+    "title": "You Need a Kitchen Slide Rule",
+    "link": "https://entropicthoughts.com/kitchen-slide-rule",
     "source": "Hacker News",
-    "published": "2026-01-14T10:53:13+00:00",
+    "published": "2026-01-13T15:40:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46614558\">Comments</a>"
-  },
-  {
-    "title": "The hunt for a stolen Jackson Pollock",
-    "link": "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/",
-    "source": "Hacker News",
-    "published": "2026-01-14T08:21:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46613624\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46602411\">Comments</a>"
   },
   {
     "title": "Why some clothes shrink in the wash and how to unshrink them",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46566974\">Comments</a>"
   },
   {
-    "title": "Rubik's Cube in Prolog \u2013 Order",
-    "link": "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7",
-    "source": "Hacker News",
-    "published": "2026-01-10T11:32:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46564818\">Comments</a>"
-  },
-  {
     "title": "Show HN: WebTiles \u2013 create a tiny 250x250 website with neighbors around you",
     "link": "https://webtiles.kicya.net/",
     "source": "Hacker News",
     "published": "2026-01-10T00:32:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46561341\">Comments</a>"
+  },
+  {
+    "title": "How can I build a simple pulse generator to demonstrate transmission lines",
+    "link": "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines",
+    "source": "Hacker News",
+    "published": "2026-01-09T11:02:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46552534\">Comments</a>"
   }
 ]
