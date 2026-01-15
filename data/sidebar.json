@@ -1,14 +1,54 @@
 [
   {
-    "title": "Denmark's struggle to break up with Silicon Valley",
-    "link": "https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/",
+    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+    "link": "https://www.ycombinator.com/companies/aviator/jobs",
     "source": "Hacker News",
-    "published": "2026-01-15T17:55:59+00:00",
+    "published": "2026-01-15T21:00:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636445\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46639248\">Comments</a>"
   },
   {
-    "title": "CVEs Affecting the Svelte Ecosystem",
+    "title": "Linux boxes via SSH: suspended when disconected",
+    "link": "https://shellbox.dev/",
+    "source": "Hacker News",
+    "published": "2026-01-15T20:20:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46638629\">Comments</a>"
+  },
+  {
+    "title": "UK offshore wind prices come in 40% cheaper than gas in record auction",
+    "link": "https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/",
+    "source": "Hacker News",
+    "published": "2026-01-15T19:00:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46637399\">Comments</a>"
+  },
+  {
+    "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+    "link": "https://github.com/juicedata/juicefs",
+    "source": "Hacker News",
+    "published": "2026-01-15T18:45:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46637165\">Comments</a>"
+  },
+  {
+    "title": "\u2018ELITE\u2019: The Palantir app ICE uses to find neighborhoods to raid",
+    "link": "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+    "source": "Hacker News",
+    "published": "2026-01-15T18:42:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46637127\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: One IP, multiple unrealistic locations worldwide hitting my website",
+    "link": "https://news.ycombinator.com/item?id=46636861",
+    "source": "Hacker News",
+    "published": "2026-01-15T18:25:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636861\">Comments</a>"
+  },
+  {
+    "title": "CVEs affecting the Svelte ecosystem",
     "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
     "source": "Hacker News",
     "published": "2026-01-15T17:51:24+00:00",
@@ -16,12 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>"
   },
   {
-    "title": "GitHub Incident",
-    "link": "https://www.githubstatus.com/incidents/q987xpbqjbpl",
+    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
+    "link": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
     "source": "Hacker News",
-    "published": "2026-01-15T17:00:38+00:00",
+    "published": "2026-01-15T17:30:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46635550\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636093\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: How can we solve the loneliness epidemic?",
+    "link": "https://news.ycombinator.com/item?id=46635345",
+    "source": "Hacker News",
+    "published": "2026-01-15T16:49:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46635345\">Comments</a>"
   },
   {
     "title": "Design and Implementation of Sprites",
@@ -40,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46633574\">Comments</a>"
   },
   {
-    "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
+    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
     "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "source": "Hacker News",
     "published": "2026-01-15T15:02:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46633488\">Comments</a>"
-  },
-  {
-    "title": "OBS Studio 32.1.0 Beta 1 available",
-    "link": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1",
-    "source": "Hacker News",
-    "published": "2026-01-15T14:57:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46633429\">Comments</a>"
-  },
-  {
-    "title": "Show HN: TinyCity \u2013 A tiny city SIM for MicroPython (Thumby micro console)",
-    "link": "https://github.com/chrisdiana/TinyCity",
-    "source": "Hacker News",
-    "published": "2026-01-15T14:11:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46632768\">Comments</a>"
   },
   {
     "title": "25 Years of Wikipedia",
@@ -72,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46632023\">Comments</a>"
   },
   {
-    "title": "Jiga (YC W21) Is Hiring Full Stack Engineers",
-    "link": "https://jiga.io/about-us",
+    "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
+    "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
     "source": "Hacker News",
-    "published": "2026-01-15T12:00:37+00:00",
+    "published": "2026-01-15T09:54:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46631276\">Comments</a>"
-  },
-  {
-    "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
-    "link": "https://nothings.org/gamedev/thief_rendering.html",
-    "source": "Hacker News",
-    "published": "2026-01-15T10:59:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46630798\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46630369\">Comments</a>"
   },
   {
     "title": "The URL shortener that makes your links look as suspicious as possible",
@@ -96,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46627652\">Comments</a>"
   },
   {
-    "title": "Claude Cowork exfiltrates files",
-    "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "title": "Show HN: Tabstack \u2013 Browser infrastructure for AI agents (by Mozilla)",
+    "link": "https://news.ycombinator.com/item?id=46620358",
     "source": "Hacker News",
-    "published": "2026-01-14T20:12:25+00:00",
+    "published": "2026-01-14T18:33:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46622328\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46620358\">Comments</a>"
   },
   {
     "title": "Claude is good at assembling blocks, but still falls apart at creating them",
@@ -110,14 +134,6 @@
     "published": "2026-01-14T16:26:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46618042\">Comments</a>"
-  },
-  {
-    "title": "Show HN: ContextFort \u2013 Visibility and controls for browser agents",
-    "link": "https://contextfort.ai/",
-    "source": "Hacker News",
-    "published": "2026-01-14T09:22:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46614015\">Comments</a>"
   },
   {
     "title": "Inside The Internet Archive's Infrastructure",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46613304\">Comments</a>"
   },
   {
-    "title": "First impressions of Claude Cowork",
-    "link": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "source": "Hacker News",
-    "published": "2026-01-14T06:14:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612919\">Comments</a>"
-  },
-  {
     "title": "Show HN: OpenWork \u2013 an open-source alternative to Claude Cowork",
     "link": "https://github.com/different-ai/openwork",
     "source": "Hacker News",
     "published": "2026-01-14T04:55:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46612494\">Comments</a>"
-  },
-  {
-    "title": "Annual Reboot: 52 Questions to Reflect and Reset",
-    "link": "https://elacrain.com/writing/annual-review/",
-    "source": "Hacker News",
-    "published": "2026-01-11T20:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46579617\">Comments</a>"
   }
 ]
