@@ -1,5 +1,53 @@
 [
   {
+    "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
+    "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+    "source": "Hacker News",
+    "published": "2026-01-15T15:02:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46633488\">Comments</a>"
+  },
+  {
+    "title": "Nvidia Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next",
+    "link": "https://www.techpowerup.com/345224/nvidia-reportedly-ends-geforce-rtx-5070-ti-production-rtx-5060-ti-16-gb-next",
+    "source": "Hacker News",
+    "published": "2026-01-15T14:24:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46632955\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TinyCity \u2013 A tiny city SIM for MicroPython (Thumby micro console)",
+    "link": "https://github.com/chrisdiana/TinyCity",
+    "source": "Hacker News",
+    "published": "2026-01-15T14:11:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46632768\">Comments</a>"
+  },
+  {
+    "title": "Programming, Evolved: Lessons and Observations",
+    "link": "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md",
+    "source": "Hacker News",
+    "published": "2026-01-15T13:18:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46632039\">Comments</a>"
+  },
+  {
+    "title": "French Court Orders Popular VPNs to Block More Pirate Sites, Despite Opposition",
+    "link": "https://torrentfreak.com/french-court-orders-popular-vpns-to-block-more-pirate-sites-despite-opposition/",
+    "source": "Hacker News",
+    "published": "2026-01-15T13:15:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46632004\">Comments</a>"
+  },
+  {
+    "title": "The 500k-ton typo: Why data center copper math doesn't add up",
+    "link": "https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/",
+    "source": "Hacker News",
+    "published": "2026-01-15T12:53:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46631728\">Comments</a>"
+  },
+  {
     "title": "Jiga (YC W21) Is Hiring Full Stack Engineers",
     "link": "https://jiga.io/about-us",
     "source": "Hacker News",
@@ -8,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46631276\">Comments</a>"
   },
   {
-    "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
-    "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+    "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
+    "link": "https://nothings.org/gamedev/thief_rendering.html",
     "source": "Hacker News",
-    "published": "2026-01-15T09:54:10+00:00",
+    "published": "2026-01-15T10:59:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46630369\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46630798\">Comments</a>"
   },
   {
     "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
@@ -24,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>"
   },
   {
-    "title": "A letter to those who fired tech writers because of AI",
-    "link": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
-    "source": "Hacker News",
-    "published": "2026-01-15T07:58:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46629474\">Comments</a>"
-  },
-  {
     "title": "Show HN: MailPilot \u2013 Freedom to go anywhere while your agents work",
     "link": "https://news.ycombinator.com/item?id=46629191",
     "source": "Hacker News",
@@ -40,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46629191\">Comments</a>"
   },
   {
-    "title": "Handy \u2013 Free open source speech-to-text app",
-    "link": "https://github.com/cjpais/Handy",
+    "title": "Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs",
+    "link": "https://cinegraphs.ai/",
     "source": "Hacker News",
-    "published": "2026-01-15T05:23:18+00:00",
+    "published": "2026-01-15T05:15:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46628397\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46628336\">Comments</a>"
   },
   {
     "title": "The URL shortener that makes your links look as suspicious as possible",
@@ -56,60 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46627652\">Comments</a>"
   },
   {
-    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
-    "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
-    "source": "Hacker News",
-    "published": "2026-01-15T01:45:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626836\">Comments</a>"
-  },
-  {
-    "title": "Furiosa: 3.5x efficiency over H100s",
-    "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
-    "source": "Hacker News",
-    "published": "2026-01-15T00:53:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626410\">Comments</a>"
-  },
-  {
-    "title": "New Safari developer tools provide insight into CSS Grid Lanes",
-    "link": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
-    "source": "Hacker News",
-    "published": "2026-01-15T00:34:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626210\">Comments</a>"
-  },
-  {
-    "title": "Scaling long-running autonomous coding",
-    "link": "https://cursor.com/blog/scaling-agents",
-    "source": "Hacker News",
-    "published": "2026-01-14T22:18:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46624541\">Comments</a>"
-  },
-  {
     "title": "Claude Cowork exfiltrates files",
     "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
     "source": "Hacker News",
     "published": "2026-01-14T20:12:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46622328\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Sparrow-1 \u2013 Audio-native model for human-level turn-taking without ASR",
-    "link": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-    "source": "Hacker News",
-    "published": "2026-01-14T18:01:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46619614\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: What did you find out or explore today?",
-    "link": "https://news.ycombinator.com/item?id=46619464",
-    "source": "Hacker News",
-    "published": "2026-01-14T17:54:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46619464\">Comments</a>"
   },
   {
     "title": "Ask HN: Share your personal website",
@@ -120,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46618714\">Comments</a>"
   },
   {
-    "title": "Project SkyWatch (a.k.a. Wescam at Home)",
-    "link": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
-    "source": "Hacker News",
-    "published": "2026-01-14T16:54:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46618503\">Comments</a>"
-  },
-  {
     "title": "Ask HN: How are you doing RAG locally?",
     "link": "https://news.ycombinator.com/item?id=46616529",
     "source": "Hacker News",
@@ -136,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46616529\">Comments</a>"
   },
   {
-    "title": "The <Geolocation> HTML Element",
-    "link": "https://developer.chrome.com/blog/geolocation-html-element",
+    "title": "Impeccable Style",
+    "link": "https://impeccable.style",
     "source": "Hacker News",
-    "published": "2026-01-14T05:35:20+00:00",
+    "published": "2026-01-12T12:03:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612711\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46587284\">Comments</a>"
   },
   {
     "title": "Z80 Mem\u00adber\u00adship Card",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46584523\">Comments</a>"
   },
   {
+    "title": "Investing with GIFs: A Visual Guide",
+    "link": "https://www.ft.com/content/9b1ff0b8-a1e8-4869-8d61-620c5ed32d35",
+    "source": "Hacker News",
+    "published": "2026-01-10T14:38:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46566065\">Comments</a>"
+  },
+  {
     "title": "San Remo Pasta Measurer",
     "link": "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/",
     "source": "Hacker News",
     "published": "2026-01-09T19:39:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46558224\">Comments</a>"
+  },
+  {
+    "title": "Test your square brackets",
+    "link": "https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html",
+    "source": "Hacker News",
+    "published": "2026-01-09T13:23:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46553556\">Comments</a>"
   }
 ]
