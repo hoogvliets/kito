@@ -1,5 +1,37 @@
 [
   {
+    "title": "Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer",
+    "source": "Hacker News",
+    "published": "2026-01-15T08:59:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46629957\">Comments</a>"
+  },
+  {
+    "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+    "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+    "source": "Hacker News",
+    "published": "2026-01-15T08:23:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>"
+  },
+  {
+    "title": "Have Taken Up Farming",
+    "link": "https://dylan.gr/1768295794",
+    "source": "Hacker News",
+    "published": "2026-01-15T08:12:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46629610\">Comments</a>"
+  },
+  {
+    "title": "Handy \u2013 Free open source speech-to-text app",
+    "link": "https://github.com/cjpais/Handy",
+    "source": "Hacker News",
+    "published": "2026-01-15T05:23:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46628397\">Comments</a>"
+  },
+  {
     "title": "The URL shortener that makes your links look as suspicious as possible",
     "link": "https://creepylink.com/",
     "source": "Hacker News",
@@ -16,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46626836\">Comments</a>"
   },
   {
-    "title": "Ask HN: What is the best way to provide continuous context to models?",
-    "link": "https://news.ycombinator.com/item?id=46626639",
-    "source": "Hacker News",
-    "published": "2026-01-15T01:20:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46626639\">Comments</a>"
-  },
-  {
     "title": "Furiosa: 3.5x efficiency over H100s",
     "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
     "source": "Hacker News",
@@ -38,14 +62,6 @@
     "published": "2026-01-15T00:34:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46626210\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Weird archive.today behavior?",
-    "link": "https://news.ycombinator.com/item?id=46624740",
-    "source": "Hacker News",
-    "published": "2026-01-14T22:30:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46624740\">Comments</a>"
   },
   {
     "title": "Scaling long-running autonomous coding",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46616529\">Comments</a>"
   },
   {
-    "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
-    "link": "https://www.sparkfun.com/official-response",
+    "title": "The <Geolocation> HTML Element",
+    "link": "https://developer.chrome.com/blog/geolocation-html-element",
     "source": "Hacker News",
-    "published": "2026-01-14T14:34:57+00:00",
+    "published": "2026-01-14T05:35:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46616488\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612711\">Comments</a>"
   },
   {
-    "title": "Show HN: Webctl \u2013 Browser automation for agents based on CLI instead of MCP",
-    "link": "https://github.com/cosinusalpha/webctl",
+    "title": "Desperately Seeking Squircles (2018)",
+    "link": "https://www.figma.com/blog/desperately-seeking-squircles/",
     "source": "Hacker News",
-    "published": "2026-01-14T14:34:40+00:00",
+    "published": "2026-01-11T20:08:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46616481\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46579451\">Comments</a>"
   },
   {
-    "title": "Why some clothes shrink in the wash and how to unshrink them",
-    "link": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
+    "title": "Bare metal programming with RISC-V guide (2023)",
+    "link": "https://popovicu.com/posts/bare-metal-programming-risc-v/",
     "source": "Hacker News",
-    "published": "2026-01-11T02:58:36+00:00",
+    "published": "2026-01-10T11:38:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572307\">Comments</a>"
-  },
-  {
-    "title": "Show HN: WebTiles \u2013 create a tiny 250x250 website with neighbors around you",
-    "link": "https://webtiles.kicya.net/",
-    "source": "Hacker News",
-    "published": "2026-01-10T00:32:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46561341\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ever wanted to look at yourself in Braille?",
-    "link": "https://github.com/NishantJoshi00/dith",
-    "source": "Hacker News",
-    "published": "2026-01-09T07:43:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46551065\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46564866\">Comments</a>"
   }
 ]
