@@ -1,5 +1,13 @@
 [
   {
+    "title": "Building a better Bugbot",
+    "link": "https://cursor.com/blog/building-bugbot",
+    "source": "Hacker News",
+    "published": "2026-01-16T06:52:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46643737\">Comments</a>"
+  },
+  {
     "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
     "link": "https://www.bbc.com/news/articles/cly56w0p9e1o",
     "source": "Hacker News",
@@ -16,14 +24,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46642560\">Comments</a>"
   },
   {
-    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
-    "link": "https://github.com/bolt-foundry/gambit",
-    "source": "Hacker News",
-    "published": "2026-01-16T00:13:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46641362\">Comments</a>"
-  },
-  {
     "title": "My Gripes with Prolog",
     "link": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
     "source": "Hacker News",
@@ -32,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46641348\">Comments</a>"
   },
   {
-    "title": "List of Individual Trees",
+    "title": "List of individual trees",
     "link": "https://en.wikipedia.org/wiki/List_of_individual_trees",
     "source": "Hacker News",
     "published": "2026-01-16T00:05:01+00:00",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46637165\">Comments</a>"
   },
   {
-    "title": "CVEs affecting the Svelte ecosystem",
-    "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
-    "source": "Hacker News",
-    "published": "2026-01-15T17:51:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>"
-  },
-  {
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "link": "https://news.ycombinator.com/item?id=46635345",
     "source": "Hacker News",
@@ -102,14 +94,6 @@
     "published": "2026-01-15T15:02:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46633488\">Comments</a>"
-  },
-  {
-    "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
-    "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-    "source": "Hacker News",
-    "published": "2026-01-15T09:54:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46630369\">Comments</a>"
   },
   {
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
@@ -136,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46613324\">Comments</a>"
   },
   {
-    "title": "First impressions of Claude Cowork",
-    "link": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "source": "Hacker News",
-    "published": "2026-01-14T06:14:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612919\">Comments</a>"
-  },
-  {
     "title": "Show HN: OpenWork \u2013 An open-source alternative to Claude Cowork",
     "link": "https://github.com/different-ai/openwork",
     "source": "Hacker News",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46612494\">Comments</a>"
   },
   {
+    "title": "Show HN: Timberlogs \u2013 Drop-in structured logging for TypeScript",
+    "link": "https://news.ycombinator.com/item?id=46605671",
+    "source": "Hacker News",
+    "published": "2026-01-13T18:43:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46605671\">Comments</a>"
+  },
+  {
     "title": "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
     "link": "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat",
     "source": "Hacker News",
     "published": "2026-01-12T13:32:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588243\">Comments</a>"
+  },
+  {
+    "title": "Primecoin and Cunningham Prime Chains",
+    "link": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
+    "source": "Hacker News",
+    "published": "2026-01-11T16:30:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46577105\">Comments</a>"
+  },
+  {
+    "title": "What a Programmer Does (1967) [pdf]",
+    "link": "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf",
+    "source": "Hacker News",
+    "published": "2026-01-11T02:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572089\">Comments</a>"
   }
 ]
