@@ -1,19 +1,51 @@
 [
   {
+    "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+    "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+    "source": "Hacker News",
+    "published": "2026-01-16T03:10:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46642560\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare threatens Italy exit over \u20ac14M fine",
+    "link": "https://ioplus.nl/en/posts/cloudflare-threatens-italy-exit-over-14m-fine",
+    "source": "Hacker News",
+    "published": "2026-01-16T02:59:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46642504\">Comments</a>"
+  },
+  {
+    "title": "SETI Home Flags 100 Signals After Sorting 12B Others",
+    "link": "https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/",
+    "source": "Hacker News",
+    "published": "2026-01-16T02:45:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46642414\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Reversing YouTube\u2019s \u201cMost Replayed\u201d Graph",
+    "link": "https://priyavr.at/blog/reversing-most-replayed/",
+    "source": "Hacker News",
+    "published": "2026-01-16T02:06:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46642173\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+    "link": "https://github.com/bolt-foundry/gambit",
+    "source": "Hacker News",
+    "published": "2026-01-16T00:13:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46641362\">Comments</a>"
+  },
+  {
     "title": "My Gripes with Prolog",
     "link": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
     "source": "Hacker News",
     "published": "2026-01-16T00:11:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46641348\">Comments</a>"
-  },
-  {
-    "title": "Why senior engineers let bad projects fail",
-    "link": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-    "source": "Hacker News",
-    "published": "2026-01-15T22:33:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46640366\">Comments</a>"
   },
   {
     "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
@@ -56,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46637165\">Comments</a>"
   },
   {
-    "title": "Show HN: Control Claude permissions using a cloud-based decision table UI",
-    "link": "https://github.com/rulebricks/claude-code-guardrails",
-    "source": "Hacker News",
-    "published": "2026-01-15T18:21:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636786\">Comments</a>"
-  },
-  {
     "title": "CVEs affecting the Svelte ecosystem",
     "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
     "source": "Hacker News",
@@ -96,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46630369\">Comments</a>"
   },
   {
-    "title": "Use of Bayesian methodology in clinical trials of drug and biological products [pdf]",
-    "link": "https://www.fda.gov/media/190505/download",
-    "source": "Hacker News",
-    "published": "2026-01-15T07:36:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46629295\">Comments</a>"
-  },
-  {
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
     "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
     "source": "Hacker News",
@@ -128,15 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46613324\">Comments</a>"
   },
   {
-    "title": "First impressions of Claude Cowork",
-    "link": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "source": "Hacker News",
-    "published": "2026-01-14T06:14:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612919\">Comments</a>"
-  },
-  {
-    "title": "Show HN: OpenWork \u2013 an open-source alternative to Claude Cowork",
+    "title": "Show HN: OpenWork \u2013 An open-source alternative to Claude Cowork",
     "link": "https://github.com/different-ai/openwork",
     "source": "Hacker News",
     "published": "2026-01-14T04:55:04+00:00",
@@ -150,13 +158,5 @@
     "published": "2026-01-12T13:32:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588243\">Comments</a>"
-  },
-  {
-    "title": "A Unique Performance Optimization for a 3D Geometry Language",
-    "link": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
-    "source": "Hacker News",
-    "published": "2026-01-11T07:59:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46573566\">Comments</a>"
   }
 ]
