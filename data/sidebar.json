@@ -1,19 +1,83 @@
 [
   {
-    "title": "You have three minutes to escape the perpetual underclass \u2013 geohot",
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html",
+    "title": "The 600-year-old origins of the word 'hello'",
+    "link": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
     "source": "Hacker News",
-    "published": "2026-01-17T08:23:44+00:00",
+    "published": "2026-01-17T11:51:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656256\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46657296\">Comments</a>"
   },
   {
-    "title": "Every data centre is a U.S. military base",
-    "link": "https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/",
+    "title": "Architecture for Disposable Systems",
+    "link": "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/",
     "source": "Hacker News",
-    "published": "2026-01-17T07:43:21+00:00",
+    "published": "2026-01-17T11:18:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656100\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46657141\">Comments</a>"
+  },
+  {
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "link": "https://alexharri.com/blog/ascii-rendering",
+    "source": "Hacker News",
+    "published": "2026-01-17T11:15:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46657122\">Comments</a>"
+  },
+  {
+    "title": "AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0",
+    "link": "https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/",
+    "source": "Hacker News",
+    "published": "2026-01-17T11:09:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46657088\">Comments</a>"
+  },
+  {
+    "title": "PCs refuse to shut down after Microsoft patch",
+    "link": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
+    "source": "Hacker News",
+    "published": "2026-01-17T10:51:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656998\">Comments</a>"
+  },
+  {
+    "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
+    "link": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+    "source": "Hacker News",
+    "published": "2026-01-17T10:29:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656911\">Comments</a>"
+  },
+  {
+    "title": "US electricity demand surged in 2025 \u2013 solar handled 61% of it",
+    "link": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+    "source": "Hacker News",
+    "published": "2026-01-17T10:28:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656903\">Comments</a>"
+  },
+  {
+    "title": "Map To Poster \u2013 Create Art of your favourite city",
+    "link": "https://github.com/originalankur/maptoposter",
+    "source": "Hacker News",
+    "published": "2026-01-17T10:13:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656834\">Comments</a>"
+  },
+  {
+    "title": "ClickHouse Acquires Langfuse",
+    "link": "https://langfuse.com/blog/joining-clickhouse",
+    "source": "Hacker News",
+    "published": "2026-01-17T09:15:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656552\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+    "link": "https://github.com/PABannier/WSIStreamer",
+    "source": "Hacker News",
+    "published": "2026-01-17T08:46:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46656358\">Comments</a>"
   },
   {
     "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
@@ -24,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46654749\">Comments</a>"
   },
   {
-    "title": "Keifu \u2013 A TUI for navigating commit graphs with color and clarity",
-    "link": "https://github.com/trasta298/keifu",
-    "source": "Hacker News",
-    "published": "2026-01-17T00:32:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46654085\">Comments</a>"
-  },
-  {
     "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
     "link": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
     "source": "Hacker News",
@@ -40,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46653721\">Comments</a>"
   },
   {
-    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-    "link": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+    "title": "The Dilbert Afterlife",
+    "link": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
     "source": "Hacker News",
-    "published": "2026-01-16T21:42:24+00:00",
+    "published": "2026-01-16T23:03:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46652617\">Comments</a>"
-  },
-  {
-    "title": "Reading across books with Claude Code",
-    "link": "https://pieterma.es/syntopic-reading-claude/",
-    "source": "Hacker News",
-    "published": "2026-01-16T18:49:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46650347\">Comments</a>"
-  },
-  {
-    "title": "STFU",
-    "link": "https://github.com/Pankajtanwarbanna/stfu",
-    "source": "Hacker News",
-    "published": "2026-01-16T17:32:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46649142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46653388\">Comments</a>"
   },
   {
     "title": "East Germany balloon escape",
@@ -70,14 +110,6 @@
     "published": "2026-01-16T17:16:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46648916\">Comments</a>"
-  },
-  {
-    "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-    "link": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
-    "source": "Hacker News",
-    "published": "2026-01-16T17:14:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46648885\">Comments</a>"
   },
   {
     "title": "6-Day and IP Address Certificates Are Generally Available",
@@ -104,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46646645\">Comments</a>"
   },
   {
-    "title": "Show HN: Tusk Drift \u2013 Turn production traffic into API tests",
-    "link": "https://github.com/Use-Tusk/tusk-drift-cli",
-    "source": "Hacker News",
-    "published": "2026-01-15T18:54:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46637322\">Comments</a>"
-  },
-  {
     "title": "LLM Structured Outputs Handbook",
     "link": "https://nanonets.com/cookbooks/structured-llm-outputs",
     "source": "Hacker News",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46630816\">Comments</a>"
   },
   {
-    "title": "Beebo, a wave simulator written in C",
-    "link": "https://git.sr.ht/~willowf/beebo/",
+    "title": "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
+    "link": "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless",
     "source": "Hacker News",
-    "published": "2026-01-14T05:26:20+00:00",
+    "published": "2026-01-14T12:01:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46612661\">Comments</a>"
-  },
-  {
-    "title": "Experts Warn of Growing Parrot Crisis in Canada",
-    "link": "https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/",
-    "source": "Hacker News",
-    "published": "2026-01-12T16:12:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46590404\">Comments</a>"
-  },
-  {
-    "title": "IKEA for Software",
-    "link": "https://tommaso-girotto.co/blog/an-ikea-for-software",
-    "source": "Hacker News",
-    "published": "2026-01-12T11:18:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46586940\">Comments</a>"
-  },
-  {
-    "title": "Which is \"Bouba\", and which is \"Kiki\"? [video]",
-    "link": "https://www.youtube.com/watch?v=1TDIAObsqcs",
-    "source": "Hacker News",
-    "published": "2026-01-11T04:37:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572742\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46615084\">Comments</a>"
   }
 ]
