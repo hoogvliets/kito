@@ -1,14 +1,30 @@
 [
   {
-    "title": "LWN is currently under the heaviest scraper attack seen yet",
-    "link": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
+    "title": "Left in the cold: Study finds most renters shut out of energy-saving upgrades",
+    "link": "https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades",
     "source": "Hacker News",
-    "published": "2026-01-16T20:37:31+00:00",
+    "published": "2026-01-16T23:35:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46651887\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46653653\">Comments</a>"
   },
   {
-    "title": "Slop Is Everywhere for Those with Eyes to See",
+    "title": "Re: Mix: open-source repairable blender",
+    "link": "https://github.com/openfunkHQ/reMix",
+    "source": "Hacker News",
+    "published": "2026-01-16T22:49:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46653270\">Comments</a>"
+  },
+  {
+    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+    "link": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+    "source": "Hacker News",
+    "published": "2026-01-16T21:42:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46652617\">Comments</a>"
+  },
+  {
+    "title": "Slop is everywhere for those with eyes to see",
     "link": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
     "source": "Hacker News",
     "published": "2026-01-16T20:03:10+00:00",
@@ -24,22 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46650347\">Comments</a>"
   },
   {
-    "title": "Our approach to advertising",
-    "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
-    "source": "Hacker News",
-    "published": "2026-01-16T18:02:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46649577\">Comments</a>"
-  },
-  {
-    "title": "Emoji Use in the Electronic Health Record is Increasing",
-    "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883",
-    "source": "Hacker News",
-    "published": "2026-01-16T17:56:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46649489\">Comments</a>"
-  },
-  {
     "title": "STFU",
     "link": "https://github.com/Pankajtanwarbanna/stfu",
     "source": "Hacker News",
@@ -48,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46649142\">Comments</a>"
   },
   {
-    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-    "link": "https://www.ycombinator.com/companies/zep-ai/jobs/",
+    "title": "East Germany balloon escape",
+    "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
     "source": "Hacker News",
-    "published": "2026-01-16T17:00:29+00:00",
+    "published": "2026-01-16T17:16:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46648714\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46648916\">Comments</a>"
   },
   {
     "title": "Launch HN: Indy (YC S21) \u2013 A support app designed for ADHD brains",
@@ -72,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46647491\">Comments</a>"
   },
   {
-    "title": "Read_once(), Write_once(), but Not for Rust",
-    "link": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-    "source": "Hacker News",
-    "published": "2026-01-16T15:04:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46647059\">Comments</a>"
-  },
-  {
-    "title": "Cursor's latest \"browser experiment\" implied success without evidence",
+    "title": "Cursor's latest \u201cbrowser experiment\u201d implied success without evidence",
     "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
     "source": "Hacker News",
     "published": "2026-01-16T14:37:49+00:00",
@@ -104,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46646263\">Comments</a>"
   },
   {
-    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-    "link": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+    "title": "Patching the Wii News Channel to serve local news (2025)",
+    "link": "https://raulnegron.me/2025/wii-news-pr/",
     "source": "Hacker News",
-    "published": "2026-01-16T13:39:31+00:00",
+    "published": "2026-01-16T12:58:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46646226\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46645941\">Comments</a>"
   },
   {
     "title": "Just the Browser",
@@ -128,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46645176\">Comments</a>"
   },
   {
-    "title": "The Alignment Game",
-    "link": "https://dmvaldman.github.io/alignment-game/",
+    "title": "LLM Structured Outputs Handbook",
+    "link": "https://nanonets.com/cookbooks/structured-llm-outputs",
     "source": "Hacker News",
-    "published": "2026-01-15T23:56:26+00:00",
+    "published": "2026-01-15T16:46:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46641216\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46635309\">Comments</a>"
   },
   {
-    "title": "Show HN: 1Code \u2013 Open-source Cursor-like UI for Claude Code",
-    "link": "https://github.com/21st-dev/1code",
+    "title": "HTTP RateLimit Headers",
+    "link": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
     "source": "Hacker News",
-    "published": "2026-01-15T19:20:48+00:00",
+    "published": "2026-01-14T16:29:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46637723\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46618105\">Comments</a>"
+  },
+  {
+    "title": "An Ode to the Return of Wysiwyg",
+    "link": "https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/",
+    "source": "Hacker News",
+    "published": "2026-01-13T17:07:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46603947\">Comments</a>"
   },
   {
     "title": "Lock-Picking Robot",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588379\">Comments</a>"
   },
   {
-    "title": "Elasticsearch was never a database",
-    "link": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
+    "title": "Show HN: B-IR \u2013 An LLM-optimized programming language",
+    "link": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
     "source": "Hacker News",
-    "published": "2026-01-11T20:54:47+00:00",
+    "published": "2026-01-12T03:11:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46579954\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46583581\">Comments</a>"
   }
 ]
