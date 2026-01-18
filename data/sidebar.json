@@ -1,15 +1,23 @@
 [
   {
-    "title": "OpenAI could reportedly run out of cash by mid-2027",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances",
+    "title": "MIT's Computer Systems Security (2024)",
+    "link": "https://css.csail.mit.edu/6.858/2024/",
     "source": "Hacker News",
-    "published": "2026-01-17T23:47:45+00:00",
+    "published": "2026-01-18T00:09:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663341\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663507\">Comments</a>"
+  },
+  {
+    "title": "IRISC: An ARMv7 assembly interpreter and computer architecture simulator",
+    "link": "https://polysoftit.co.uk/irisc-web/",
+    "source": "Hacker News",
+    "published": "2026-01-18T00:05:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663467\">Comments</a>"
   },
   {
     "title": "If you put Apple icons in reverse it looks like someone getting good at design",
-    "link": "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1",
+    "link": "https://mastodon.social/@heliographe_studio/115890819509545391",
     "source": "Hacker News",
     "published": "2026-01-17T23:47:16+00:00",
     "author": "Hacker News",
@@ -24,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46662662\">Comments</a>"
   },
   {
-    "title": "If writing the code is the easy part, why would I want someone else to write it?",
-    "link": "https://tldraw.dev/blog/stay-away-from-my-trash",
+    "title": "Show HN: Speed Miners \u2013 A tiny RTS resource mini-game",
+    "link": "https://speedminers.fun/",
     "source": "Hacker News",
-    "published": "2026-01-17T21:40:58+00:00",
+    "published": "2026-01-17T21:40:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662401\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662399\">Comments</a>"
   },
   {
     "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
@@ -46,6 +54,14 @@
     "published": "2026-01-17T20:44:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46661897\">Comments</a>"
+  },
+  {
+    "title": "What twenty years of DevOps has failed to do",
+    "link": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it",
+    "source": "Hacker News",
+    "published": "2026-01-17T19:21:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46661132\">Comments</a>"
   },
   {
     "title": "The thing that brought me joy",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46659550\">Comments</a>"
   },
   {
-    "title": "There's no single best way to store information",
-    "link": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
-    "source": "Hacker News",
-    "published": "2026-01-17T16:17:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46659219\">Comments</a>"
-  },
-  {
     "title": "The recurring dream of replacing developers",
     "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
     "source": "Hacker News",
@@ -96,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46657122\">Comments</a>"
   },
   {
-    "title": "Counterfactual evaluation for recommendation systems",
-    "link": "https://eugeneyan.com/writing/counterfactual-evaluation/",
-    "source": "Hacker News",
-    "published": "2026-01-17T05:20:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46655524\">Comments</a>"
-  },
-  {
-    "title": "East Germany balloon escape",
-    "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-    "source": "Hacker News",
-    "published": "2026-01-16T17:16:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46648916\">Comments</a>"
-  },
-  {
     "title": "Xous Operating System",
     "link": "https://xous.dev/",
     "source": "Hacker News",
@@ -120,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46619059\">Comments</a>"
   },
   {
+    "title": "How London cracked mobile phone coverage on the Underground",
+    "link": "https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/",
+    "source": "Hacker News",
+    "published": "2026-01-13T07:37:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46598244\">Comments</a>"
+  },
+  {
     "title": "We put Claude Code in Rollercoaster Tycoon",
     "link": "https://labs.ramp.com/rct",
     "source": "Hacker News",
     "published": "2026-01-12T14:28:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588972\">Comments</a>"
-  },
-  {
-    "title": "Common misunderstandings about large software companies",
-    "link": "https://philipotoole.com/common-misunderstandings-about-large-software-companies/",
-    "source": "Hacker News",
-    "published": "2026-01-12T06:38:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46584880\">Comments</a>"
   },
   {
     "title": "M8SBC-486 (Homebrew 486 computer)",
@@ -158,5 +150,13 @@
     "published": "2026-01-11T14:36:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46576091\">Comments</a>"
+  },
+  {
+    "title": "Why Object of Arrays beat interleaved arrays: a JavaScript performance issue",
+    "link": "https://www.royalbhati.com/posts/js-array-vs-typedarray",
+    "source": "Hacker News",
+    "published": "2026-01-11T12:05:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46574989\">Comments</a>"
   }
 ]
