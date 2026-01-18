@@ -1,5 +1,37 @@
 [
   {
+    "title": "Keystone (YC S25) Is Hiring",
+    "link": "https://news.ycombinator.com/item?id=46667101",
+    "source": "Hacker News",
+    "published": "2026-01-18T12:00:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46667101\">Comments</a>"
+  },
+  {
+    "title": "Starting from scratch: Training a 30M Topological Transformer",
+    "link": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
+    "source": "Hacker News",
+    "published": "2026-01-18T11:39:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46666963\">Comments</a>"
+  },
+  {
+    "title": "Consent-O-Matic",
+    "link": "https://github.com/cavi-au/Consent-O-Matic",
+    "source": "Hacker News",
+    "published": "2026-01-18T09:35:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46666283\">Comments</a>"
+  },
+  {
+    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "link": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+    "source": "Hacker News",
+    "published": "2026-01-18T08:58:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46666085\">Comments</a>"
+  },
+  {
     "title": "Iconify: Library of Open Source Icons",
     "link": "https://icon-sets.iconify.design/",
     "source": "Hacker News",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46665393\">Comments</a>"
   },
   {
-    "title": "Spirit of ThinkPad",
+    "title": "ThinkNext Design",
     "link": "https://thinknextdesign.com/home.html",
     "source": "Hacker News",
     "published": "2026-01-18T06:27:24+00:00",
@@ -24,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46665310\">Comments</a>"
   },
   {
-    "title": "jQuery 4.0.0 Released",
+    "title": "jQuery 4",
     "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
     "source": "Hacker News",
     "published": "2026-01-18T04:23:28+00:00",
@@ -40,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46664638\">Comments</a>"
   },
   {
-    "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
-    "link": "https://twitter.com/neelsomani/status/2012695714187325745",
-    "source": "Hacker News",
-    "published": "2026-01-18T03:48:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664631\">Comments</a>"
-  },
-  {
     "title": "Profession by Isaac Asimov",
     "link": "https://www.abelard.org/asimov.php",
     "source": "Hacker News",
     "published": "2026-01-18T02:17:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46664195\">Comments</a>"
-  },
-  {
-    "title": "Data Activation Thoughts",
-    "link": "https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/",
-    "source": "Hacker News",
-    "published": "2026-01-18T00:49:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663731\">Comments</a>"
   },
   {
     "title": "If you put Apple icons in reverse it looks like someone getting good at design",
@@ -112,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46657122\">Comments</a>"
   },
   {
-    "title": "Podcasting Could Use a Good Asteroid",
-    "link": "https://www.joanwestenberg.com/podcasting-could-use-a-good-asteroid/",
+    "title": "Building a better Bugbot",
+    "link": "https://cursor.com/blog/building-bugbot",
     "source": "Hacker News",
-    "published": "2026-01-16T04:50:11+00:00",
+    "published": "2026-01-16T06:52:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46643092\">Comments</a>"
-  },
-  {
-    "title": "Xous Operating System",
-    "link": "https://xous.dev/",
-    "source": "Hacker News",
-    "published": "2026-01-14T17:29:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46619059\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46643737\">Comments</a>"
   },
   {
     "title": "The grab list: how museums decide what to save in a disaster",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46616077\">Comments</a>"
   },
   {
-    "title": "How London cracked mobile phone coverage on the Underground",
-    "link": "https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/",
+    "title": "Five Practical Lessons for Serving Models with Triton Inference Server",
+    "link": "https://talperry.com/en/posts/genai/triton-inference-server/",
     "source": "Hacker News",
-    "published": "2026-01-13T07:37:47+00:00",
+    "published": "2026-01-13T15:27:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46598244\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46602218\">Comments</a>"
   },
   {
     "title": "We put Claude Code in Rollercoaster Tycoon",
@@ -150,13 +158,5 @@
     "published": "2026-01-12T14:28:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588972\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: When has a \"dumb\" solution beaten a sophisticated one for you?",
-    "link": "https://news.ycombinator.com/item?id=46572329",
-    "source": "Hacker News",
-    "published": "2026-01-11T03:02:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46572329\">Comments</a>"
   }
 ]
