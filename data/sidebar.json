@@ -1,19 +1,59 @@
 [
   {
-    "title": "MIT's Computer Systems Security (2024)",
+    "title": "jQuery 4.0.0 Released",
+    "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+    "source": "Hacker News",
+    "published": "2026-01-18T04:23:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664755\">Comments</a>"
+  },
+  {
+    "title": "Lopado\u00adtemacho\u00adselacho\u00adgaleo\u00adkranio\u00adleipsano\u00addrim\u00adhypo\u00adtrimmato\u00adsilphio\u00adkarab",
+    "link": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
+    "source": "Hacker News",
+    "published": "2026-01-18T03:49:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664638\">Comments</a>"
+  },
+  {
+    "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+    "link": "https://twitter.com/neelsomani/status/2012695714187325745",
+    "source": "Hacker News",
+    "published": "2026-01-18T03:48:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664631\">Comments</a>"
+  },
+  {
+    "title": "How scientists are using Claude to accelerate research and discovery",
+    "link": "https://www.anthropic.com/news/accelerating-scientific-research",
+    "source": "Hacker News",
+    "published": "2026-01-18T03:22:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664540\">Comments</a>"
+  },
+  {
+    "title": "Profession by Isaac Asimov",
+    "link": "https://www.abelard.org/asimov.php",
+    "source": "Hacker News",
+    "published": "2026-01-18T02:17:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664195\">Comments</a>"
+  },
+  {
+    "title": "Dark Mode vs. Light Mode: Which Is Better?",
+    "link": "https://www.nngroup.com/articles/dark-mode/",
+    "source": "Hacker News",
+    "published": "2026-01-18T01:55:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46664079\">Comments</a>"
+  },
+  {
+    "title": "Computer Systems Security 6.566 / Spring 2024",
     "link": "https://css.csail.mit.edu/6.858/2024/",
     "source": "Hacker News",
     "published": "2026-01-18T00:09:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46663507\">Comments</a>"
-  },
-  {
-    "title": "IRISC: An ARMv7 assembly interpreter and computer architecture simulator",
-    "link": "https://polysoftit.co.uk/irisc-web/",
-    "source": "Hacker News",
-    "published": "2026-01-18T00:05:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663467\">Comments</a>"
   },
   {
     "title": "If you put Apple icons in reverse it looks like someone getting good at design",
@@ -24,52 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46663338\">Comments</a>"
   },
   {
-    "title": "Light Mode InFFFFFFlation",
-    "link": "https://willhbr.net/2025/10/20/light-mode-infffffflation/",
+    "title": "No knives, only cook knives",
+    "link": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
     "source": "Hacker News",
-    "published": "2026-01-17T22:19:25+00:00",
+    "published": "2026-01-17T23:38:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662662\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663268\">Comments</a>"
   },
   {
-    "title": "Show HN: Speed Miners \u2013 A tiny RTS resource mini-game",
-    "link": "https://speedminers.fun/",
-    "source": "Hacker News",
-    "published": "2026-01-17T21:40:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662399\">Comments</a>"
-  },
-  {
-    "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
-    "link": "https://github.com/chunkhound/chunkhound",
-    "source": "Hacker News",
-    "published": "2026-01-17T21:03:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662078\">Comments</a>"
-  },
-  {
-    "title": "A programming language based on grammatical cases of Turkish",
+    "title": "Kip: A programming language based on grammatical cases of Turkish",
     "link": "https://github.com/kip-dili/kip",
     "source": "Hacker News",
     "published": "2026-01-17T20:44:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46661897\">Comments</a>"
-  },
-  {
-    "title": "What twenty years of DevOps has failed to do",
-    "link": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it",
-    "source": "Hacker News",
-    "published": "2026-01-17T19:21:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46661132\">Comments</a>"
-  },
-  {
-    "title": "The thing that brought me joy",
-    "link": "https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/",
-    "source": "Hacker News",
-    "published": "2026-01-17T18:42:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46660663\">Comments</a>"
   },
   {
     "title": "Raising money fucked me up",
@@ -78,14 +86,6 @@
     "published": "2026-01-17T18:29:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46660543\">Comments</a>"
-  },
-  {
-    "title": "An Elizabethan mansion's secrets for staying warm",
-    "link": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-    "source": "Hacker News",
-    "published": "2026-01-17T16:53:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46659550\">Comments</a>"
   },
   {
     "title": "The recurring dream of replacing developers",
@@ -102,6 +102,14 @@
     "published": "2026-01-17T11:15:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46657122\">Comments</a>"
+  },
+  {
+    "title": "Podcasting Could Use a Good Asteroid",
+    "link": "https://www.joanwestenberg.com/podcasting-could-use-a-good-asteroid/",
+    "source": "Hacker News",
+    "published": "2026-01-16T04:50:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46643092\">Comments</a>"
   },
   {
     "title": "Xous Operating System",
@@ -128,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46588972\">Comments</a>"
   },
   {
-    "title": "M8SBC-486 (Homebrew 486 computer)",
-    "link": "https://maniek86.xyz/projects/m8sbc_486.php",
+    "title": "Claude Shannon's randomness-guessing machine",
+    "link": "https://www.loper-os.org/bad-at-entropy/manmach.html",
     "source": "Hacker News",
-    "published": "2026-01-11T18:58:19+00:00",
+    "published": "2026-01-12T14:03:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46578601\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46588660\">Comments</a>"
   },
   {
     "title": "The Olivetti Company",
@@ -142,14 +150,6 @@
     "published": "2026-01-11T15:33:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46576581\">Comments</a>"
-  },
-  {
-    "title": "Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line",
-    "link": "https://belowthesurface.amsterdam/en/vondsten",
-    "source": "Hacker News",
-    "published": "2026-01-11T14:36:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46576091\">Comments</a>"
   },
   {
     "title": "Why Object of Arrays beat interleaved arrays: a JavaScript performance issue",
