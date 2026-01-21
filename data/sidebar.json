@@ -1,11 +1,27 @@
 [
   {
+    "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+    "link": "https://github.com/ef1500/libbbf",
+    "source": "Hacker News",
+    "published": "2026-01-21T04:27:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46701114\">Comments</a>"
+  },
+  {
     "title": "Disaster planning for regular folks (2015)",
     "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
     "source": "Hacker News",
     "published": "2026-01-21T03:38:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46700809\">Comments</a>"
+  },
+  {
+    "title": "Anthropic's original take home assignment open sourced",
+    "link": "https://github.com/anthropics/original_performance_takehome",
+    "source": "Hacker News",
+    "published": "2026-01-21T02:54:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700594\">Comments</a>"
   },
   {
     "title": "Who owns Rudolph's nose?",
@@ -16,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46699597\">Comments</a>"
   },
   {
-    "title": "Claude Chill: Fix Claude Code's flickering in terminal",
-    "link": "https://github.com/davidbeesley/claude-chill",
-    "source": "Hacker News",
-    "published": "2026-01-20T23:26:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46699072\">Comments</a>"
-  },
-  {
     "title": "California is free of drought for the first time in 25 years",
     "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
     "source": "Hacker News",
     "published": "2026-01-20T22:39:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46698660\">Comments</a>"
+  },
+  {
+    "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
+    "link": "https://spectrum.ieee.org/lunar-radio-telescope",
+    "source": "Hacker News",
+    "published": "2026-01-20T22:36:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46698623\">Comments</a>"
   },
   {
     "title": "Provably unmasking malicious behavior through execution traces",
@@ -72,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46696357\">Comments</a>"
   },
   {
+    "title": "IPv6 is not insecure because it lacks a NAT",
+    "link": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
+    "source": "Hacker News",
+    "published": "2026-01-20T19:03:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46696303\">Comments</a>"
+  },
+  {
     "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
     "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
     "source": "Hacker News",
     "published": "2026-01-20T18:16:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>"
-  },
-  {
-    "title": "'The old order is not coming back,' Carney says in speech at Davos",
-    "link": "https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725",
-    "source": "Hacker News",
-    "published": "2026-01-20T17:08:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46694482\">Comments</a>"
   },
   {
     "title": "The Unix Pipe Card Game",
@@ -112,30 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46692116\">Comments</a>"
   },
   {
-    "title": "Running Claude Code dangerously (safely)",
-    "link": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-    "source": "Hacker News",
-    "published": "2026-01-20T11:58:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690907\">Comments</a>"
-  },
-  {
-    "title": "I'm addicted to being useful",
-    "link": "https://www.seangoedecke.com/addicted-to-being-useful/",
-    "source": "Hacker News",
-    "published": "2026-01-20T10:47:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690402\">Comments</a>"
-  },
-  {
-    "title": "RCS for Business",
-    "link": "https://developers.google.com/business-communications/rcs-business-messaging",
-    "source": "Hacker News",
-    "published": "2026-01-20T04:14:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46687841\">Comments</a>"
-  },
-  {
     "title": "Building Robust Helm Charts",
     "link": "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-01-19T06:30:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46675630\">Comments</a>"
+  },
+  {
+    "title": "The GDB JIT Interface",
+    "link": "https://bernsteinbear.com/blog/gdb-jit/",
+    "source": "Hacker News",
+    "published": "2026-01-16T15:27:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46647358\">Comments</a>"
   },
   {
     "title": "Proof of Concept to Test Humanoid Robots",
