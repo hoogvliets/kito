@@ -1,5 +1,45 @@
 [
   {
+    "title": "FreeBSD",
+    "link": "https://docs.freebsd.org/en/books/handbook/",
+    "source": "Hacker News",
+    "published": "2026-01-21T20:49:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46711346\">Comments</a>"
+  },
+  {
+    "title": "Linux from Scratch",
+    "link": "https://www.linuxfromscratch.org/lfs/view/stable/",
+    "source": "Hacker News",
+    "published": "2026-01-21T18:44:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46709727\">Comments</a>"
+  },
+  {
+    "title": "TeraWave Satellite Communications Network",
+    "link": "https://www.blueorigin.com/terawave",
+    "source": "Hacker News",
+    "published": "2026-01-21T18:31:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46709548\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Rails UI",
+    "link": "https://railsui.com/",
+    "source": "Hacker News",
+    "published": "2026-01-21T18:31:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46709543\">Comments</a>"
+  },
+  {
+    "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+    "source": "Hacker News",
+    "published": "2026-01-21T18:05:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46709179\">Comments</a>"
+  },
+  {
     "title": "Show HN: Company hiring trends and insights from job postings",
     "link": "https://jobswithgpt.com/company-profiles/",
     "source": "Hacker News",
@@ -8,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46708990\">Comments</a>"
   },
   {
-    "title": "illumos",
-    "link": "https://illumos.org/",
+    "title": "Slouching Towards Bethlehem \u2013 Joan Didion (1967)",
+    "link": "https://www.saturdayeveningpost.com/2017/06/didion/",
     "source": "Hacker News",
-    "published": "2026-01-21T17:39:42+00:00",
+    "published": "2026-01-21T17:36:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708766\">Comments</a>"
   },
   {
     "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
@@ -40,12 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46708096\">Comments</a>"
   },
   {
-    "title": "JPEG XL Demo Page",
+    "title": "JPEG XL Test Page",
     "link": "https://tildeweb.nl/~michiel/jxl/",
     "source": "Hacker News",
     "published": "2026-01-21T16:38:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46708032\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
+    "link": "https://news.ycombinator.com/item?id=46707699",
+    "source": "Hacker News",
+    "published": "2026-01-21T16:14:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46707699\">Comments</a>"
   },
   {
     "title": "Claude's New Constitution",
@@ -72,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46706906\">Comments</a>"
   },
   {
-    "title": "Show HN: See the carbon impact of your cloud as you code",
-    "link": "https://dashboard.infracost.io/",
-    "source": "Hacker News",
-    "published": "2026-01-21T15:04:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46706668\">Comments</a>"
-  },
-  {
     "title": "Show HN: ChartGPU \u2013 WebGPU-powered charting library (1M points at 60fps)",
     "link": "https://github.com/ChartGPU/ChartGPU",
     "source": "Hacker News",
     "published": "2026-01-21T14:54:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46706528\">Comments</a>"
-  },
-  {
-    "title": "Swedish Alecta has sold off an estimated $8B of US Treasury Bonds",
-    "link": "https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/",
-    "source": "Hacker News",
-    "published": "2026-01-21T13:13:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705256\">Comments</a>"
   },
   {
     "title": "Nested Code Fences in Markdown",
@@ -104,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46705201\">Comments</a>"
   },
   {
-    "title": "EU\u2013INC \u2013 A new pan-European legal entity",
-    "link": "https://www.eu-inc.org/",
-    "source": "Hacker News",
-    "published": "2026-01-21T10:49:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46703763\">Comments</a>"
-  },
-  {
     "title": "Can you slim macOS down?",
     "link": "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/",
     "source": "Hacker News",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46702411\">Comments</a>"
   },
   {
-    "title": "Anthropic's original take home assignment open sourced",
-    "link": "https://github.com/anthropics/original_performance_takehome",
+    "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+    "link": "https://github.com/soegaard/webracket",
     "source": "Hacker News",
-    "published": "2026-01-21T02:54:32+00:00",
+    "published": "2026-01-17T21:23:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700594\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662247\">Comments</a>"
   },
   {
-    "title": "TPM on Embedded Systems: Pitfalls and Caveats to Watch Out For",
-    "link": "https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/",
+    "title": "Letting Claude Play Text Adventures",
+    "link": "https://borretti.me/article/letting-claude-play-text-adventures",
     "source": "Hacker News",
-    "published": "2026-01-19T09:45:55+00:00",
+    "published": "2026-01-16T21:02:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46676919\">Comments</a>"
-  },
-  {
-    "title": "Beowulf's opening \"What\" is no interjection",
-    "link": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
-    "source": "Hacker News",
-    "published": "2026-01-19T06:19:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46675583\">Comments</a>"
-  },
-  {
-    "title": "RTS for Agents",
-    "link": "https://www.getagentcraft.com/",
-    "source": "Hacker News",
-    "published": "2026-01-16T18:20:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46649853\">Comments</a>"
-  },
-  {
-    "title": "What Is a PC Compatible?",
-    "link": "https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/",
-    "source": "Hacker News",
-    "published": "2026-01-15T17:48:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636362\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46652173\">Comments</a>"
   }
 ]
