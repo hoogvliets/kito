@@ -1,19 +1,35 @@
 [
   {
+    "title": "Disaster planning for regular folks (2015)",
+    "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+    "source": "Hacker News",
+    "published": "2026-01-21T03:38:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700809\">Comments</a>"
+  },
+  {
+    "title": "Who owns Rudolph's nose?",
+    "link": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+    "source": "Hacker News",
+    "published": "2026-01-21T00:21:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46699597\">Comments</a>"
+  },
+  {
+    "title": "Claude Chill: Fix Claude Code's flickering in terminal",
+    "link": "https://github.com/davidbeesley/claude-chill",
+    "source": "Hacker News",
+    "published": "2026-01-20T23:26:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46699072\">Comments</a>"
+  },
+  {
     "title": "California is free of drought for the first time in 25 years",
     "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
     "source": "Hacker News",
     "published": "2026-01-20T22:39:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46698660\">Comments</a>"
-  },
-  {
-    "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
-    "link": "https://spectrum.ieee.org/lunar-radio-telescope",
-    "source": "Hacker News",
-    "published": "2026-01-20T22:36:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46698623\">Comments</a>"
   },
   {
     "title": "Provably unmasking malicious behavior through execution traces",
@@ -40,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46698061\">Comments</a>"
   },
   {
-    "title": "Inside the secret world of Japanese snack bars",
-    "link": "https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars",
-    "source": "Hacker News",
-    "published": "2026-01-20T21:34:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46698038\">Comments</a>"
-  },
-  {
     "title": "Our approach to age prediction",
     "link": "https://openai.com/index/our-approach-to-age-prediction/",
     "source": "Hacker News",
@@ -64,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46696357\">Comments</a>"
   },
   {
-    "title": "Maintenance: Of Everything, Part One",
-    "link": "https://press.stripe.com/maintenance-part-one",
-    "source": "Hacker News",
-    "published": "2026-01-20T19:01:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46696276\">Comments</a>"
-  },
-  {
     "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
     "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
     "source": "Hacker News",
@@ -80,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>"
   },
   {
-    "title": "Electricity use of AI coding agents",
-    "link": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+    "title": "'The old order is not coming back,' Carney says in speech at Davos",
+    "link": "https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725",
     "source": "Hacker News",
-    "published": "2026-01-20T18:02:02+00:00",
+    "published": "2026-01-20T17:08:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46695415\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46694482\">Comments</a>"
   },
   {
     "title": "The Unix Pipe Card Game",
@@ -102,14 +102,6 @@
     "published": "2026-01-20T16:38:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46693959\">Comments</a>"
-  },
-  {
-    "title": "Cloudflare zero-day: Accessing any host globally",
-    "link": "https://fearsoff.org/research/cloudflare-acme",
-    "source": "Hacker News",
-    "published": "2026-01-20T16:25:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46693728\">Comments</a>"
   },
   {
     "title": "Unconventional PostgreSQL Optimizations",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46676708\">Comments</a>"
   },
   {
-    "title": "Are Arrays Functions?",
+    "title": "Are arrays functions?",
     "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
     "source": "Hacker News",
     "published": "2026-01-19T06:30:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46675630\">Comments</a>"
+  },
+  {
+    "title": "Proof of Concept to Test Humanoid Robots",
+    "link": "https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/",
+    "source": "Hacker News",
+    "published": "2026-01-15T21:07:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46639325\">Comments</a>"
   }
 ]
