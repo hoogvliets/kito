@@ -1,5 +1,85 @@
 [
   {
+    "title": "Show HN: Company hiring trends and insights from job postings",
+    "link": "https://jobswithgpt.com/company-profiles/",
+    "source": "Hacker News",
+    "published": "2026-01-21T17:52:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708990\">Comments</a>"
+  },
+  {
+    "title": "illumos",
+    "link": "https://illumos.org/",
+    "source": "Hacker News",
+    "published": "2026-01-21T17:39:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>"
+  },
+  {
+    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+    "link": "https://blog.kagi.com/waiting-dawn-search",
+    "source": "Hacker News",
+    "published": "2026-01-21T17:28:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708678\">Comments</a>"
+  },
+  {
+    "title": "Autonomous (YC F25) is hiring \u2013 AI-native financial advisor at 0% advisory fees",
+    "link": "https://atg.science/",
+    "source": "Hacker News",
+    "published": "2026-01-21T17:00:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708315\">Comments</a>"
+  },
+  {
+    "title": "PicoPCMCIA \u2013 a PCMCIA development board for retro-computing enthusiasts",
+    "link": "https://www.yyzkevin.com/picopcmcia/",
+    "source": "Hacker News",
+    "published": "2026-01-21T16:43:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708096\">Comments</a>"
+  },
+  {
+    "title": "JPEG XL Demo Page",
+    "link": "https://tildeweb.nl/~michiel/jxl/",
+    "source": "Hacker News",
+    "published": "2026-01-21T16:38:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46708032\">Comments</a>"
+  },
+  {
+    "title": "Claude's New Constitution",
+    "link": "https://www.anthropic.com/news/claude-new-constitution",
+    "source": "Hacker News",
+    "published": "2026-01-21T16:04:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46707572\">Comments</a>"
+  },
+  {
+    "title": "SmartOS",
+    "link": "https://docs.smartos.org/",
+    "source": "Hacker News",
+    "published": "2026-01-21T15:23:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46706947\">Comments</a>"
+  },
+  {
+    "title": "Skip Is Now Free and Open Source",
+    "link": "https://skip.dev/blog/skip-is-free/",
+    "source": "Hacker News",
+    "published": "2026-01-21T15:20:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46706906\">Comments</a>"
+  },
+  {
+    "title": "Show HN: See the carbon impact of your cloud as you code",
+    "link": "https://dashboard.infracost.io/",
+    "source": "Hacker News",
+    "published": "2026-01-21T15:04:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46706668\">Comments</a>"
+  },
+  {
     "title": "Show HN: ChartGPU \u2013 WebGPU-powered charting library (1M points at 60fps)",
     "link": "https://github.com/ChartGPU/ChartGPU",
     "source": "Hacker News",
@@ -8,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46706528\">Comments</a>"
   },
   {
-    "title": "Comic-Con Bans AI Art After Artist Pushback",
-    "link": "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/",
+    "title": "Swedish Alecta has sold off an estimated $8B of US Treasury Bonds",
+    "link": "https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/",
     "source": "Hacker News",
-    "published": "2026-01-21T14:12:32+00:00",
+    "published": "2026-01-21T13:13:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705952\">Comments</a>"
-  },
-  {
-    "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
-    "link": "https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
-    "source": "Hacker News",
-    "published": "2026-01-21T13:52:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705715\">Comments</a>"
-  },
-  {
-    "title": "How AI Destroys Institutions",
-    "link": "https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/",
-    "source": "Hacker News",
-    "published": "2026-01-21T13:42:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705256\">Comments</a>"
   },
   {
     "title": "Nested Code Fences in Markdown",
@@ -40,60 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46705201\">Comments</a>"
   },
   {
-    "title": "Vibecoding #2",
-    "link": "https://matklad.github.io/2026/01/20/vibecoding-2.html",
+    "title": "EU\u2013INC \u2013 A new pan-European legal entity",
+    "link": "https://www.eu-inc.org/",
     "source": "Hacker News",
-    "published": "2026-01-21T12:46:27+00:00",
+    "published": "2026-01-21T10:49:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46704943\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46703763\">Comments</a>"
   },
   {
-    "title": "Stories removed from the Hacker News Front Page, updated in real time (2024)",
-    "link": "https://github.com/vitoplantamura/HackerNewsRemovals",
+    "title": "Can you slim macOS down?",
+    "link": "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/",
     "source": "Hacker News",
-    "published": "2026-01-21T12:11:11+00:00",
+    "published": "2026-01-21T07:48:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46704555\">Comments</a>"
-  },
-  {
-    "title": "Hightouch (YC S19) Is Hiring",
-    "link": "https://hightouch.com/careers",
-    "source": "Hacker News",
-    "published": "2026-01-21T12:02:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46704465\">Comments</a>"
-  },
-  {
-    "title": "Nukeproof: Manifesto for European Data Sovereignty",
-    "link": "https://nukeproof.org/",
-    "source": "Hacker News",
-    "published": "2026-01-21T11:44:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46704310\">Comments</a>"
-  },
-  {
-    "title": "SETI@home is in hiberation",
-    "link": "https://setiathome.berkeley.edu/",
-    "source": "Hacker News",
-    "published": "2026-01-21T09:49:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46703301\">Comments</a>"
-  },
-  {
-    "title": "The percentage of Show HN posts is increasing, but their scores are decreasing",
-    "link": "https://snubi.net/posts/Show-HN/",
-    "source": "Hacker News",
-    "published": "2026-01-21T07:09:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46702099\">Comments</a>"
-  },
-  {
-    "title": "cURL removes bug bounties",
-    "link": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
-    "source": "Hacker News",
-    "published": "2026-01-21T06:07:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46701733\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46702411\">Comments</a>"
   },
   {
     "title": "Anthropic's original take home assignment open sourced",
@@ -104,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46700594\">Comments</a>"
   },
   {
-    "title": "RSS.Social \u2013 the latest and best from small sites across the web",
-    "link": "https://rss.social/",
+    "title": "TPM on Embedded Systems: Pitfalls and Caveats to Watch Out For",
+    "link": "https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/",
     "source": "Hacker News",
-    "published": "2026-01-21T02:36:44+00:00",
+    "published": "2026-01-19T09:45:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700503\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46676919\">Comments</a>"
   },
   {
-    "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
-    "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+    "title": "Beowulf's opening \"What\" is no interjection",
+    "link": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
     "source": "Hacker News",
-    "published": "2026-01-20T18:16:09+00:00",
+    "published": "2026-01-19T06:19:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>"
-  },
-  {
-    "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-    "link": "https://elliotarledge.com/blog/batmobile",
-    "source": "Hacker News",
-    "published": "2026-01-18T01:29:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663931\">Comments</a>"
-  },
-  {
-    "title": "EmuDevz: A game about developing emulators",
-    "link": "https://afska.github.io/emudevz/",
-    "source": "Hacker News",
-    "published": "2026-01-17T21:57:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46662515\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46675583\">Comments</a>"
   },
   {
     "title": "RTS for Agents",
@@ -142,14 +150,6 @@
     "published": "2026-01-16T18:20:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46649853\">Comments</a>"
-  },
-  {
-    "title": "Finding Matrices that you can multiply wrong, right",
-    "link": "https://www.hgreer.com/BadMatrixMultiply/",
-    "source": "Hacker News",
-    "published": "2026-01-15T18:19:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46636766\">Comments</a>"
   },
   {
     "title": "What Is a PC Compatible?",
