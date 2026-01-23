@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ghostty's AI Policy",
+    "link": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+    "source": "Hacker News",
+    "published": "2026-01-23T09:50:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46730504\">Comments</a>"
+  },
+  {
+    "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+    "link": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
+    "source": "Hacker News",
+    "published": "2026-01-23T09:24:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46730346\">Comments</a>"
+  },
+  {
+    "title": "Replacing Protobuf with Rust to go 5 times faster",
+    "link": "https://pgdog.dev/blog/replace-protobuf-with-rust",
+    "source": "Hacker News",
+    "published": "2026-01-23T09:03:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46730214\">Comments</a>"
+  },
+  {
     "title": "Proton Spam and the AI Consent Problem",
     "link": "https://dbushell.com/2026/01/22/proton-spam/",
     "source": "Hacker News",
@@ -22,14 +46,6 @@
     "published": "2026-01-23T02:24:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46727587\">Comments</a>"
-  },
-  {
-    "title": "Stunnel",
-    "link": "https://www.stunnel.org/",
-    "source": "Hacker News",
-    "published": "2026-01-23T00:30:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46726916\">Comments</a>"
   },
   {
     "title": "Improving the usability of C libraries in Swift",
@@ -104,28 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46719222\">Comments</a>"
   },
   {
-    "title": "Show HN: Txt2plotter \u2013 True centerline vectors from Flux.2 for pen plotters",
-    "link": "https://github.com/malvarezcastillo/txt2plotter",
+    "title": "AI Is a Horse (2024)",
+    "link": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
     "source": "Hacker News",
-    "published": "2026-01-19T21:57:03+00:00",
+    "published": "2026-01-20T00:20:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46685064\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46686402\">Comments</a>"
   },
   {
-    "title": "Turso is an in-process SQL database, compatible with SQLite",
-    "link": "https://github.com/tursodatabase/turso",
+    "title": "Our collective obsession with boredom: Interview with a boredom lab researcher",
+    "link": "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/",
     "source": "Hacker News",
-    "published": "2026-01-19T11:04:47+00:00",
+    "published": "2026-01-19T20:30:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46677583\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46684097\">Comments</a>"
   },
   {
-    "title": "Writing First, Tooling Second",
-    "link": "https://susam.net/writing-first-tooling-second.html",
+    "title": "Show HN: AskUCP \u2013 UCP protocol explorer showing all products on Shopify",
+    "link": "https://askucp.com/",
     "source": "Hacker News",
-    "published": "2026-01-19T06:51:58+00:00",
+    "published": "2026-01-19T08:29:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46675745\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46676324\">Comments</a>"
   },
   {
     "title": "TI-99/4A: Leaning More on the Firmware",
@@ -142,21 +158,5 @@
     "published": "2026-01-18T22:16:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46672713\">Comments</a>"
-  },
-  {
-    "title": "A gaming success story: how Warhammer became one of Britain's biggest companies",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies",
-    "source": "Hacker News",
-    "published": "2026-01-18T19:31:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46671286\">Comments</a>"
-  },
-  {
-    "title": "Project Mercury and the Sofar Bomb",
-    "link": "https://www.thequantumcat.space/p/project-mercury-and-the-sofar-bomb",
-    "source": "Hacker News",
-    "published": "2026-01-18T11:51:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46667039\">Comments</a>"
   }
 ]
