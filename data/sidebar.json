@@ -1,5 +1,21 @@
 [
   {
+    "title": "Neko: History of a Software Pet (2022)",
+    "link": "https://eliotakira.com/neko/",
+    "source": "Hacker News",
+    "published": "2026-01-23T21:01:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46737865\">Comments</a>"
+  },
+  {
+    "title": "Unrolling the Codex Agent Loop",
+    "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+    "source": "Hacker News",
+    "published": "2026-01-23T20:42:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46737630\">Comments</a>"
+  },
+  {
     "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
     "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
     "source": "Hacker News",
@@ -16,6 +32,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735511\">Comments</a>"
   },
   {
+    "title": "Route leak incident on January 22, 2026",
+    "link": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
+    "source": "Hacker News",
+    "published": "2026-01-23T17:54:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735489\">Comments</a>"
+  },
+  {
     "title": "Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.",
     "link": "https://www.easy3dmaps.com/gallery",
     "source": "Hacker News",
@@ -24,7 +48,31 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735231\">Comments</a>"
   },
   {
-    "title": "Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale",
+    "title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
+    "link": "https://markgascoyne.co.uk/posts/ebpf-bng/",
+    "source": "Hacker News",
+    "published": "2026-01-23T17:29:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735179\">Comments</a>"
+  },
+  {
+    "title": "Nobody likes lag: How to make low-latency dev sandboxes",
+    "link": "https://www.compyle.ai/blog/nobody-likes-lag/",
+    "source": "Hacker News",
+    "published": "2026-01-23T17:26:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735139\">Comments</a>"
+  },
+  {
+    "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
+    "link": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+    "source": "Hacker News",
+    "published": "2026-01-23T17:26:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735133\">Comments</a>"
+  },
+  {
+    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
     "link": "https://maggieappleton.com/gastown",
     "source": "Hacker News",
     "published": "2026-01-23T16:19:18+00:00",
@@ -32,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46734302\">Comments</a>"
   },
   {
-    "title": "Three RCEs in Ilias Learning Management System",
-    "link": "https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce",
+    "title": "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
+    "link": "https://huggingface.co/blog/waypoint-1",
     "source": "Hacker News",
-    "published": "2026-01-23T15:48:54+00:00",
+    "published": "2026-01-23T15:03:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46733899\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46733301\">Comments</a>"
   },
   {
     "title": "KORG phase8 \u2013 Acoustic Synthesizer",
@@ -56,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46732213\">Comments</a>"
   },
   {
-    "title": "European Alternatives",
-    "link": "https://european-alternatives.eu",
-    "source": "Hacker News",
-    "published": "2026-01-23T13:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46731976\">Comments</a>"
-  },
-  {
-    "title": "What has Docker become?",
-    "link": "https://tuananh.net/2026/01/20/what-has-docker-become/",
-    "source": "Hacker News",
-    "published": "2026-01-23T12:36:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46731748\">Comments</a>"
-  },
-  {
     "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
     "link": "https://github.com/ramonvermeulen/whosthere",
     "source": "Hacker News",
@@ -86,14 +118,6 @@
     "published": "2026-01-23T10:39:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46730885\">Comments</a>"
-  },
-  {
-    "title": "Updates to our web search products and  Programmable Search Engine capabilities",
-    "link": "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html",
-    "source": "Hacker News",
-    "published": "2026-01-23T09:38:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46730436\">Comments</a>"
   },
   {
     "title": "Proton Spam and the AI Consent Problem",
@@ -112,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46728808\">Comments</a>"
   },
   {
-    "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
-    "link": "https://cannoneyed.com/isometric-nyc/",
+    "title": "Floating-Point Printing and Parsing Can Be Simple and Fast",
+    "link": "https://research.swtch.com/fp",
     "source": "Hacker News",
-    "published": "2026-01-22T16:52:35+00:00",
+    "published": "2026-01-19T22:21:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>"
-  },
-  {
-    "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-    "link": "https://gptzero.me/news/neurips/",
-    "source": "Hacker News",
-    "published": "2026-01-22T15:20:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46720395\">Comments</a>"
-  },
-  {
-    "title": "Flying with Photons: Rendering Novel Views of Propagating Light",
-    "link": "https://anaghmalik.com/FlyingWithPhotons/",
-    "source": "Hacker News",
-    "published": "2026-01-20T03:28:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46687603\">Comments</a>"
-  },
-  {
-    "title": "AI is a horse (2024)",
-    "link": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-    "source": "Hacker News",
-    "published": "2026-01-20T00:20:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46686402\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46685317\">Comments</a>"
   },
   {
     "title": "Show HN: Zsweep \u2013 Play Minesweeper using only Vim motions",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46667849\">Comments</a>"
   },
   {
-    "title": "Kotlin's Rich Errors: Native, Typed Errors Without Exceptions",
-    "link": "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/",
+    "title": "Gold Fever Cold and the True Adventures of Jack London in the Wild",
+    "link": "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/",
     "source": "Hacker News",
-    "published": "2026-01-18T12:45:11+00:00",
+    "published": "2026-01-18T13:09:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46667397\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46667545\">Comments</a>"
   }
 ]
