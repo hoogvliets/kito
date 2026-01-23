@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bugs Apple Loves",
+    "link": "https://www.bugsappleloves.com",
+    "source": "Hacker News",
+    "published": "2026-01-23T02:24:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46727587\">Comments</a>"
+  },
+  {
+    "title": "Stunnel",
+    "link": "https://www.stunnel.org/",
+    "source": "Hacker News",
+    "published": "2026-01-23T00:30:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46726916\">Comments</a>"
+  },
+  {
     "title": "Why medieval city-builder video games are historically inaccurate (2020)",
     "link": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
     "source": "Hacker News",
@@ -24,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46725632\">Comments</a>"
   },
   {
-    "title": "Viking Ship Museum in Denmark announces the discovery of the largest cog",
-    "link": "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/",
+    "title": "Scaling PostgreSQL to power 800M ChatGPT users",
+    "link": "https://openai.com/index/scaling-postgresql/",
     "source": "Hacker News",
-    "published": "2026-01-22T21:43:14+00:00",
+    "published": "2026-01-22T21:24:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46725522\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46725300\">Comments</a>"
   },
   {
     "title": "Capital One to acquire Brex for $5.15B",
@@ -46,14 +62,6 @@
     "published": "2026-01-22T19:27:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46723990\">Comments</a>"
-  },
-  {
-    "title": "'Active' sitting is better for brain health: review of studies",
-    "link": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
-    "source": "Hacker News",
-    "published": "2026-01-22T19:03:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46723694\">Comments</a>"
   },
   {
     "title": "I was banned from Claude for scaffolding a Claude.md file?",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46719222\">Comments</a>"
   },
   {
-    "title": "'Askers' vs. 'Guessers' (2010)",
-    "link": "https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/",
-    "source": "Hacker News",
-    "published": "2026-01-22T11:40:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46717960\">Comments</a>"
-  },
-  {
     "title": "Turso is an in-process SQL database, compatible with SQLite",
     "link": "https://github.com/tursodatabase/turso",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46672713\">Comments</a>"
   },
   {
-    "title": "Compiling Scheme to WebAssembly",
-    "link": "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/",
-    "source": "Hacker News",
-    "published": "2026-01-17T23:29:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46663200\">Comments</a>"
-  },
-  {
     "title": "My first year in sales as technical founder",
     "link": "https://www.fabiandietrich.com/blog/first-year-in-sales.html",
     "source": "Hacker News",
     "published": "2026-01-17T19:24:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46661167\">Comments</a>"
+  },
+  {
+    "title": "What Is Control Flow Analysis for Lambda Calculus? \u2013 Iowa Type Theory Commute",
+    "link": "https://rss.buzzsprout.com/728558.rss",
+    "source": "Hacker News",
+    "published": "2026-01-16T19:05:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46650627\">Comments</a>"
   }
 ]
