@@ -1,19 +1,27 @@
 [
   {
+    "title": "I built a light that reacts to radio waves [video]",
+    "link": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+    "source": "Hacker News",
+    "published": "2026-01-23T05:34:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46728808\">Comments</a>"
+  },
+  {
+    "title": "Talking to LLMs has improved my thinking",
+    "link": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
+    "source": "Hacker News",
+    "published": "2026-01-23T03:52:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46728197\">Comments</a>"
+  },
+  {
     "title": "Bugs Apple Loves",
     "link": "https://www.bugsappleloves.com",
     "source": "Hacker News",
     "published": "2026-01-23T02:24:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46727587\">Comments</a>"
-  },
-  {
-    "title": "Stunnel",
-    "link": "https://www.stunnel.org/",
-    "source": "Hacker News",
-    "published": "2026-01-23T00:30:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46726916\">Comments</a>"
   },
   {
     "title": "Why medieval city-builder video games are historically inaccurate (2020)",
@@ -30,14 +38,6 @@
     "published": "2026-01-22T23:34:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46726526\">Comments</a>"
-  },
-  {
-    "title": "Anthropic Economic Index economic primitives",
-    "link": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-    "source": "Hacker News",
-    "published": "2026-01-22T21:54:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46725632\">Comments</a>"
   },
   {
     "title": "Scaling PostgreSQL to power 800M ChatGPT users",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46723384\">Comments</a>"
   },
   {
-    "title": "Recent discoveries on the acquisition of the highest levels of human performance",
-    "link": "https://www.science.org/doi/abs/10.1126/science.adt7790",
-    "source": "Hacker News",
-    "published": "2026-01-22T18:01:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46722853\">Comments</a>"
-  },
-  {
     "title": "CSS Optical Illusions",
     "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
     "source": "Hacker News",
@@ -88,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46722570\">Comments</a>"
   },
   {
-    "title": "Composing APIs and CLIs in the LLM era",
-    "link": "https://walters.app/blog/composing-apis-clis",
+    "title": "Launch HN: Constellation Space (YC W26) \u2013 AI for satellite mission assurance",
+    "link": "https://news.ycombinator.com/item?id=46721933",
     "source": "Hacker News",
-    "published": "2026-01-22T17:14:04+00:00",
+    "published": "2026-01-22T17:03:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46722074\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46721933\">Comments</a>"
   },
   {
     "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
@@ -136,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46677583\">Comments</a>"
   },
   {
+    "title": "Writing First, Tooling Second",
+    "link": "https://susam.net/writing-first-tooling-second.html",
+    "source": "Hacker News",
+    "published": "2026-01-19T06:51:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46675745\">Comments</a>"
+  },
+  {
+    "title": "TI-99/4A: Leaning More on the Firmware",
+    "link": "https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/",
+    "source": "Hacker News",
+    "published": "2026-01-18T23:19:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46673216\">Comments</a>"
+  },
+  {
     "title": "Your app subscription is now my weekend project",
     "link": "https://rselbach.com/your-sub-is-now-my-weekend-project",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46672713\">Comments</a>"
   },
   {
-    "title": "My first year in sales as technical founder",
-    "link": "https://www.fabiandietrich.com/blog/first-year-in-sales.html",
+    "title": "Captive Wi-Fi",
+    "link": "https://en.wikipedia.org/wiki/Captive_portal",
     "source": "Hacker News",
-    "published": "2026-01-17T19:24:28+00:00",
+    "published": "2026-01-18T16:27:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46661167\">Comments</a>"
-  },
-  {
-    "title": "What Is Control Flow Analysis for Lambda Calculus? \u2013 Iowa Type Theory Commute",
-    "link": "https://rss.buzzsprout.com/728558.rss",
-    "source": "Hacker News",
-    "published": "2026-01-16T19:05:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46650627\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46669120\">Comments</a>"
   }
 ]
