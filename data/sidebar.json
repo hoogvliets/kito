@@ -1,11 +1,51 @@
 [
   {
-    "title": "Ask HN: May an Agent accepts a license to produce a build?",
-    "link": "https://news.ycombinator.com/item?id=46743867",
+    "title": "Gmail Spam Detection Down",
+    "link": "https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en",
     "source": "Hacker News",
-    "published": "2026-01-24T14:31:58+00:00",
+    "published": "2026-01-24T17:33:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46743867\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46745591\">Comments</a>"
+  },
+  {
+    "title": "December in Servo: multiple windows, proxy support, better caching, and more",
+    "link": "https://servo.org/blog/2026/01/23/december-in-servo/",
+    "source": "Hacker News",
+    "published": "2026-01-24T17:03:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46745259\">Comments</a>"
+  },
+  {
+    "title": "Tao Te Ching \u2013 Translated by Ursula K. Le Guin",
+    "link": "https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md",
+    "source": "Hacker News",
+    "published": "2026-01-24T17:01:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46745233\">Comments</a>"
+  },
+  {
+    "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
+    "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+    "source": "Hacker News",
+    "published": "2026-01-24T17:00:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46745224\">Comments</a>"
+  },
+  {
+    "title": "Are we all plagiarists now?",
+    "link": "https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now",
+    "source": "Hacker News",
+    "published": "2026-01-24T16:34:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46744968\">Comments</a>"
+  },
+  {
+    "title": "Claude Code's new hidden feature: Swarms",
+    "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+    "source": "Hacker News",
+    "published": "2026-01-24T14:35:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46743908\">Comments</a>"
   },
   {
     "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
@@ -56,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46742362\">Comments</a>"
   },
   {
-    "title": "Modetc: Move your dotfiles from kernel space",
-    "link": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
-    "source": "Hacker News",
-    "published": "2026-01-24T08:16:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46741929\">Comments</a>"
-  },
-  {
     "title": "80386 Multiplication and Division",
     "link": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
     "source": "Hacker News",
     "published": "2026-01-24T06:11:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46741482\">Comments</a>"
-  },
-  {
-    "title": "\u201cLet people help\u201d \u2013 Advice that made a big difference to a grieving widow",
-    "link": "https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow",
-    "source": "Hacker News",
-    "published": "2026-01-24T03:20:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46740748\">Comments</a>"
   },
   {
     "title": "Unrolling the Codex agent loop",
@@ -88,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46737630\">Comments</a>"
   },
   {
-    "title": "Banned C++ features in Chromium",
-    "link": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
+    "title": "Maze Algorithms (2017)",
+    "link": "http://www.jamisbuck.org/mazes/",
     "source": "Hacker News",
-    "published": "2026-01-23T20:27:58+00:00",
+    "published": "2026-01-23T20:07:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46737447\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46737202\">Comments</a>"
   },
   {
     "title": "Proof of Corn",
@@ -104,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735511\">Comments</a>"
   },
   {
-    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-    "link": "https://maggieappleton.com/gastown",
-    "source": "Hacker News",
-    "published": "2026-01-23T16:19:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46734302\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Coi \u2013 A language that compiles to WASM, beats React/Vue",
-    "link": "https://news.ycombinator.com/item?id=46696283",
-    "source": "Hacker News",
-    "published": "2026-01-20T19:01:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46696283\">Comments</a>"
-  },
-  {
     "title": "Internet Archive's Storage",
     "link": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
     "source": "Hacker News",
@@ -128,35 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46694618\">Comments</a>"
   },
   {
-    "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-    "link": "https://bloomberg.github.io/crane/",
+    "title": "When employees feel slighted, they work less",
+    "link": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
     "source": "Hacker News",
-    "published": "2026-01-20T09:08:22+00:00",
+    "published": "2026-01-20T12:28:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46689631\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46691108\">Comments</a>"
   },
   {
-    "title": "Management Time: Who's Got the Monkey? [pdf]",
-    "link": "https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf",
+    "title": "6 Years Building Video Players. 9B Requests. Starting Over",
+    "link": "https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over",
     "source": "Hacker News",
-    "published": "2026-01-20T05:10:39+00:00",
+    "published": "2026-01-20T08:34:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46688133\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46689342\">Comments</a>"
   },
   {
-    "title": "Some C habits I employ for the modern day",
-    "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+    "title": "How I Became a Quant [pdf]",
+    "link": "https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf",
     "source": "Hacker News",
-    "published": "2026-01-19T08:03:46+00:00",
+    "published": "2026-01-19T04:21:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46676125\">Comments</a>"
-  },
-  {
-    "title": "Traintrackr \u2013 Live LED Maps",
-    "link": "https://www.traintrackr.co.uk/",
-    "source": "Hacker News",
-    "published": "2026-01-19T07:53:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46676061\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46675030\">Comments</a>"
   }
 ]
