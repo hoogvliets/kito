@@ -1,6 +1,6 @@
 [
   {
-    "title": "Caroline Ellison Former Alameda CEO Released from Prison After 440 Days",
+    "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
     "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
     "source": "Hacker News",
     "published": "2026-01-24T02:59:42+00:00",
@@ -8,15 +8,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46740644\">Comments</a>"
   },
   {
-    "title": "The Internet Doesn't Suck: Blame Big Tech, Not the Internet",
-    "link": "https://riverseeber.net/blog/post/the-internet-doesnt-suck/",
-    "source": "Hacker News",
-    "published": "2026-01-24T01:41:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46740280\">Comments</a>"
-  },
-  {
-    "title": "Open-source self-driving for 325 car models from 27 brands",
+    "title": "Comma openpilot \u2013 Open source driver-assistance",
     "link": "https://comma.ai",
     "source": "Hacker News",
     "published": "2026-01-24T01:00:50+00:00",
@@ -30,14 +22,6 @@
     "published": "2026-01-24T01:00:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46740028\">Comments</a>"
-  },
-  {
-    "title": "Wilson Lin on FastRender: a browser built by parallel agents",
-    "link": "https://simonwillison.net/2026/Jan/23/fastrender/",
-    "source": "Hacker News",
-    "published": "2026-01-23T22:28:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46738853\">Comments</a>"
   },
   {
     "title": "Mental Models (2018)",
@@ -104,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46734302\">Comments</a>"
   },
   {
-    "title": "The tech monoculture is finally breaking",
-    "link": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
-    "source": "Hacker News",
-    "published": "2026-01-23T15:26:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46733624\">Comments</a>"
-  },
-  {
     "title": "KORG phase8 \u2013 Acoustic Synthesizer",
     "link": "https://www.korg.com/us/products/dj/phase8/",
     "source": "Hacker News",
@@ -144,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46729368\">Comments</a>"
   },
   {
+    "title": "Internet Archive's Storage",
+    "link": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
+    "source": "Hacker News",
+    "published": "2026-01-20T17:16:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46694618\">Comments</a>"
+  },
+  {
+    "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
+    "link": "https://bloomberg.github.io/crane/",
+    "source": "Hacker News",
+    "published": "2026-01-20T09:08:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46689631\">Comments</a>"
+  },
+  {
     "title": "Losing 1\u00bd Million Lines of Go",
     "link": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-01-19T08:03:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46676125\">Comments</a>"
+  },
+  {
+    "title": "Air traffic control: the IBM 9020",
+    "link": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
+    "source": "Hacker News",
+    "published": "2026-01-19T02:37:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46674482\">Comments</a>"
   }
 ]
