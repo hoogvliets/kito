@@ -1,5 +1,37 @@
 [
   {
+    "title": "We X-Rayed a Suspicious FTDI USB Cable",
+    "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+    "source": "Hacker News",
+    "published": "2026-01-24T23:55:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46749053\">Comments</a>"
+  },
+  {
+    "title": "Europe wants to end its dangerous reliance on US internet technology",
+    "link": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
+    "source": "Hacker News",
+    "published": "2026-01-24T23:21:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46748771\">Comments</a>"
+  },
+  {
+    "title": "I don't write code anymore \u2013 I sculpt it",
+    "link": "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/",
+    "source": "Hacker News",
+    "published": "2026-01-24T21:49:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46748077\">Comments</a>"
+  },
+  {
+    "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+    "link": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+    "source": "Hacker News",
+    "published": "2026-01-24T21:24:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46747827\">Comments</a>"
+  },
+  {
     "title": "First Design Engineer Hire \u2013 Build Games at Gym Class (YC W22)",
     "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
     "source": "Hacker News",
@@ -16,36 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46747366\">Comments</a>"
   },
   {
-    "title": "Show HN: JSciPy \u2013 SciPy-inspired signal processing library for Java and Android",
-    "link": "https://github.com/hissain/jscipy",
-    "source": "Hacker News",
-    "published": "2026-01-24T20:31:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46747351\">Comments</a>"
-  },
-  {
     "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
     "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
     "source": "Hacker News",
     "published": "2026-01-24T20:03:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46747119\">Comments</a>"
-  },
-  {
-    "title": "Why Does Destroying Resources via TF Suck?",
-    "link": "https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck",
-    "source": "Hacker News",
-    "published": "2026-01-24T19:53:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46747022\">Comments</a>"
-  },
-  {
-    "title": "Bye Bye Gmail",
-    "link": "https://m24tom.com/bye-bye-gmail/show",
-    "source": "Hacker News",
-    "published": "2026-01-24T19:44:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46746946\">Comments</a>"
   },
   {
     "title": "Agent orchestration for the timid",
@@ -88,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46745922\">Comments</a>"
   },
   {
+    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
+    "link": "https://news.ycombinator.com/item?id=46744807",
+    "source": "Hacker News",
+    "published": "2026-01-24T16:16:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46744807\">Comments</a>"
+  },
+  {
     "title": "Memory layout in Zig with formulas",
     "link": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
     "source": "Hacker News",
     "published": "2026-01-24T15:57:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46744647\">Comments</a>"
-  },
-  {
-    "title": "The Kept and the Killed (2022)",
-    "link": "https://publicdomainreview.org/essay/the-kept-and-the-killed/",
-    "source": "Hacker News",
-    "published": "2026-01-24T15:50:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46744569\">Comments</a>"
   },
   {
     "title": "Claude Code's new hidden feature: Swarms",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46741923\">Comments</a>"
   },
   {
-    "title": "Maze Algorithms (2017)",
-    "link": "http://www.jamisbuck.org/mazes/",
+    "title": "High-bandwidth flash progress and future",
+    "link": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
     "source": "Hacker News",
-    "published": "2026-01-23T20:07:49+00:00",
+    "published": "2026-01-21T02:17:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46737202\">Comments</a>"
-  },
-  {
-    "title": "Microservices for the Benefits, Not the Hustle",
-    "link": "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3",
-    "source": "Hacker News",
-    "published": "2026-01-21T13:03:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705134\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700384\">Comments</a>"
   },
   {
     "title": "Small Kafka: Tansu and SQLite on a free t3.micro",
