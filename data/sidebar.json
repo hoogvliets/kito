@@ -1,6 +1,46 @@
 [
   {
-    "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+    "title": "AI Tribalism",
+    "link": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
+    "source": "Hacker News",
+    "published": "2026-01-25T21:01:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758175\">Comments</a>"
+  },
+  {
+    "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+    "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+    "source": "Hacker News",
+    "published": "2026-01-25T20:39:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757944\">Comments</a>"
+  },
+  {
+    "title": "I was right about ATProto key management",
+    "link": "https://notes.nora.codes/atproto-again/",
+    "source": "Hacker News",
+    "published": "2026-01-25T19:31:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757357\">Comments</a>"
+  },
+  {
+    "title": "Spanish track was fractured before high-speed train disaster, report finds",
+    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+    "source": "Hacker News",
+    "published": "2026-01-25T19:12:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757162\">Comments</a>"
+  },
+  {
+    "title": "First, make me care",
+    "link": "https://gwern.net/blog/2026/make-me-care",
+    "source": "Hacker News",
+    "published": "2026-01-25T19:03:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>"
+  },
+  {
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
     "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
     "source": "Hacker News",
     "published": "2026-01-25T17:36:19+00:00",
@@ -24,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
   },
   {
-    "title": "Show HN: Netfence \u2013 Like Envoy for eBPF Filters",
-    "link": "https://github.com/danthegoodman1/netfence",
-    "source": "Hacker News",
-    "published": "2026-01-25T15:13:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46754724\">Comments</a>"
-  },
-  {
-    "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
-    "link": "https://www.phoronix.com/news/Wine-Staging-11.1",
-    "source": "Hacker News",
-    "published": "2026-01-25T14:42:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46754427\">Comments</a>"
-  },
-  {
     "title": "Web-based image editor modeled after Deluxe Paint",
     "link": "https://github.com/steffest/DPaint-js",
     "source": "Hacker News",
@@ -54,14 +78,6 @@
     "published": "2026-01-25T12:22:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753484\">Comments</a>"
-  },
-  {
-    "title": "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
-    "link": "https://jobs.ashbyhq.com/Nango",
-    "source": "Hacker News",
-    "published": "2026-01-25T12:02:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753336\">Comments</a>"
   },
   {
     "title": "Show HN: Bonsplit \u2013 Tabs and splits for native macOS apps",
@@ -80,23 +96,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753078\">Comments</a>"
   },
   {
-    "title": "Bridging the Gap Between PLECS and SPICE",
-    "link": "https://erickschulz.dev/posts/plecs-spice/",
+    "title": "150k lines of vibe coded Elixir: The good, the bad and the ugly",
+    "link": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly",
     "source": "Hacker News",
-    "published": "2026-01-25T10:44:08+00:00",
+    "published": "2026-01-25T10:54:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752841\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752907\">Comments</a>"
   },
   {
-    "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-    "link": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
-    "source": "Hacker News",
-    "published": "2026-01-25T09:22:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752261\">Comments</a>"
-  },
-  {
-    "title": "A flawed paper in Management Science has been cited more than 6,000 times",
+    "title": "A flawed paper in management science has been cited more than 6k times",
     "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
     "source": "Hacker News",
     "published": "2026-01-25T09:04:30+00:00",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46751826\">Comments</a>"
   },
   {
-    "title": "World\u2019s most powerful literary critic is on TikTok",
-    "link": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
-    "source": "Hacker News",
-    "published": "2026-01-25T06:06:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46751231\">Comments</a>"
-  },
-  {
     "title": "ANN v3: 200ms p99 query latency over 100B vectors",
     "link": "https://turbopuffer.com/blog/ann-v3",
     "source": "Hacker News",
@@ -128,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46710747\">Comments</a>"
   },
   {
-    "title": "Social Dynamics at Arm's Length",
-    "link": "https://www.jenn.site/social-truths-at-arms-length/",
+    "title": "Show HN: Fence \u2013 Sandbox CLI commands with network/filesystem restrictions",
+    "link": "https://github.com/Use-Tusk/fence",
     "source": "Hacker News",
-    "published": "2026-01-21T15:30:34+00:00",
+    "published": "2026-01-20T18:05:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46707062\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46695467\">Comments</a>"
   },
   {
-    "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-    "link": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
+    "title": "Publishing on the ATmosphere",
+    "link": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
     "source": "Hacker News",
-    "published": "2026-01-20T16:10:01+00:00",
+    "published": "2026-01-20T12:33:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46693460\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46691152\">Comments</a>"
+  },
+  {
+    "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
+    "link": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
+    "source": "Hacker News",
+    "published": "2026-01-20T09:41:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46689895\">Comments</a>"
   },
   {
     "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
@@ -150,13 +158,5 @@
     "published": "2026-01-20T07:04:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46688804\">Comments</a>"
-  },
-  {
-    "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
-    "link": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth",
-    "source": "Hacker News",
-    "published": "2026-01-20T06:10:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46688476\">Comments</a>"
   }
 ]
