@@ -1,27 +1,59 @@
 [
   {
+    "title": "Why is it legal and ok when big corp. straight tries to scam a user?",
+    "link": "https://news.ycombinator.com/item?id=46750577",
+    "source": "Hacker News",
+    "published": "2026-01-25T04:01:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750577\">Comments</a>"
+  },
+  {
+    "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
+    "link": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
+    "source": "Hacker News",
+    "published": "2026-01-25T03:41:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750470\">Comments</a>"
+  },
+  {
+    "title": "nvidia-smi hangs indefinitely after ~66 days",
+    "link": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+    "source": "Hacker News",
+    "published": "2026-01-25T03:33:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750425\">Comments</a>"
+  },
+  {
+    "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+    "source": "Hacker News",
+    "published": "2026-01-25T03:17:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750358\">Comments</a>"
+  },
+  {
+    "title": "Two Weeks Until Tapeout",
+    "link": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+    "source": "Hacker News",
+    "published": "2026-01-25T01:25:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46749671\">Comments</a>"
+  },
+  {
+    "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+    "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+    "source": "Hacker News",
+    "published": "2026-01-25T00:14:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46749198\">Comments</a>"
+  },
+  {
     "title": "We X-Rayed a Suspicious FTDI USB Cable",
     "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
     "source": "Hacker News",
     "published": "2026-01-24T23:55:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46749053\">Comments</a>"
-  },
-  {
-    "title": "Europe wants to end its dangerous reliance on US internet technology",
-    "link": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
-    "source": "Hacker News",
-    "published": "2026-01-24T23:21:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46748771\">Comments</a>"
-  },
-  {
-    "title": "I don't write code anymore \u2013 I sculpt it",
-    "link": "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/",
-    "source": "Hacker News",
-    "published": "2026-01-24T21:49:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46748077\">Comments</a>"
   },
   {
     "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
@@ -56,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46747119\">Comments</a>"
   },
   {
-    "title": "Agent orchestration for the timid",
-    "link": "https://substack.com/inbox/post/185649875",
-    "source": "Hacker News",
-    "published": "2026-01-24T19:25:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46746681\">Comments</a>"
-  },
-  {
-    "title": "JSON-render: LLM-based JSON-to-UI tool",
-    "link": "https://json-render.dev/",
-    "source": "Hacker News",
-    "published": "2026-01-24T19:12:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46746570\">Comments</a>"
-  },
-  {
     "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
     "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
     "source": "Hacker News",
@@ -80,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46746476\">Comments</a>"
   },
   {
-    "title": "Understanding Rust Closures",
-    "link": "https://antoine.vandecreme.net/blog/rust-closures/",
-    "source": "Hacker News",
-    "published": "2026-01-24T18:42:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46746266\">Comments</a>"
-  },
-  {
     "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 \u2013 Performance Comparison",
     "link": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
     "source": "Hacker News",
     "published": "2026-01-24T18:06:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46745922\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-    "link": "https://news.ycombinator.com/item?id=46744807",
-    "source": "Hacker News",
-    "published": "2026-01-24T16:16:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46744807\">Comments</a>"
   },
   {
     "title": "Memory layout in Zig with formulas",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46742389\">Comments</a>"
   },
   {
-    "title": "Doing gigabit Ethernet over my British phone wires",
-    "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+    "title": "Draig, a Welsh Programming Language",
+    "link": "https://raku.land/zef:l10n/L10N::CY",
     "source": "Hacker News",
-    "published": "2026-01-24T10:14:31+00:00",
+    "published": "2026-01-22T16:27:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46742362\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46721421\">Comments</a>"
   },
   {
-    "title": "Shared Claude: A website controlled by the public",
-    "link": "https://sharedclaude.com/",
+    "title": "Show HN: Semantic search engine for Studio Ghibli movie",
+    "link": "https://ghibli-search.anini.workers.dev/",
     "source": "Hacker News",
-    "published": "2026-01-24T08:15:02+00:00",
+    "published": "2026-01-21T14:01:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46741923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705830\">Comments</a>"
   },
   {
     "title": "High-bandwidth flash progress and future",
