@@ -1,11 +1,43 @@
 [
   {
-    "title": "Clawdbot - open source personal AI assistant",
-    "link": "https://github.com/clawdbot/clawdbot",
+    "title": "The Browser Is the Sandbox",
+    "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
     "source": "Hacker News",
-    "published": "2026-01-26T00:27:41+00:00",
+    "published": "2026-01-26T05:23:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46760237\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46762150\">Comments</a>"
+  },
+  {
+    "title": "Iran's internet blackout may become permanent, with access for elites only",
+    "link": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+    "source": "Hacker News",
+    "published": "2026-01-26T04:18:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761822\">Comments</a>"
+  },
+  {
+    "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+    "link": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
+    "source": "Hacker News",
+    "published": "2026-01-26T03:40:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761614\">Comments</a>"
+  },
+  {
+    "title": "SF Microclimates",
+    "link": "https://microclimates.solofounders.com/",
+    "source": "Hacker News",
+    "published": "2026-01-26T02:38:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761219\">Comments</a>"
+  },
+  {
+    "title": "Video Games as Art",
+    "link": "https://gwern.net/video-game-art",
+    "source": "Hacker News",
+    "published": "2026-01-26T02:07:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46760998\">Comments</a>"
   },
   {
     "title": "Scientists identify brain waves that define the limits of 'you'",
@@ -14,14 +46,6 @@
     "published": "2026-01-26T00:10:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A small programming language where everything is pass-by-value",
-    "link": "https://github.com/Jcparkyn/herd",
-    "source": "Hacker News",
-    "published": "2026-01-25T23:01:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759520\">Comments</a>"
   },
   {
     "title": "Case study: Creative math \u2013 How AI fakes proofs",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46758450\">Comments</a>"
   },
   {
-    "title": "Oneplus phone update introduces hardware anti-rollback",
-    "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
-    "source": "Hacker News",
-    "published": "2026-01-25T20:39:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757944\">Comments</a>"
-  },
-  {
     "title": "Spanish track was fractured before high-speed train disaster, report finds",
     "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
     "source": "Hacker News",
@@ -80,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46756427\">Comments</a>"
   },
   {
-    "title": "ICE using Palantir tool that feeds on Medicaid data",
-    "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-    "source": "Hacker News",
-    "published": "2026-01-25T17:36:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756117\">Comments</a>"
-  },
-  {
     "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
     "link": "https://www.diljitpr.net/blog-post-postgresql-dlq",
     "source": "Hacker News",
@@ -104,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
   },
   {
-    "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
-    "link": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
-    "source": "Hacker News",
-    "published": "2026-01-25T14:55:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46754522\">Comments</a>"
-  },
-  {
     "title": "Web-based image editor modeled after Deluxe Paint",
     "link": "https://github.com/steffest/DPaint-js",
     "source": "Hacker News",
     "published": "2026-01-25T12:54:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753708\">Comments</a>"
-  },
-  {
-    "title": "Doom has been ported to an earbud",
-    "link": "https://doombuds.com",
-    "source": "Hacker News",
-    "published": "2026-01-25T12:22:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753484\">Comments</a>"
   },
   {
     "title": "The Science of Fermentation [audio]",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46733306\">Comments</a>"
   },
   {
+    "title": "Building a Real-Time HN Display for $15",
+    "link": "https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff",
+    "source": "Hacker News",
+    "published": "2026-01-22T14:52:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46719958\">Comments</a>"
+  },
+  {
     "title": "Delta single handle ball faucets (1963)",
     "link": "https://archive.org/details/DeltaSingleHandleBallFaucets",
     "source": "Hacker News",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46714981\">Comments</a>"
   },
   {
-    "title": "Turbopack: Building faster by building less",
-    "link": "https://nextjs.org/blog/turbopack-incremental-computation",
+    "title": "Integrating WebView with Nature Programming Language",
+    "link": "https://nature-lang.org/blog/20260121",
     "source": "Hacker News",
-    "published": "2026-01-20T18:49:20+00:00",
+    "published": "2026-01-21T13:20:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46696111\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705337\">Comments</a>"
   },
   {
     "title": "Guix for Development",
