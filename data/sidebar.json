@@ -8,6 +8,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46760237\">Comments</a>"
   },
   {
+    "title": "Scientists identify brain waves that define the limits of 'you'",
+    "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+    "source": "Hacker News",
+    "published": "2026-01-26T00:10:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>"
+  },
+  {
     "title": "Show HN: A small programming language where everything is pass-by-value",
     "link": "https://github.com/Jcparkyn/herd",
     "source": "Hacker News",
@@ -24,6 +32,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46759352\">Comments</a>"
   },
   {
+    "title": "The future of software engineering is SRE",
+    "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
+    "source": "Hacker News",
+    "published": "2026-01-25T22:18:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759063\">Comments</a>"
+  },
+  {
     "title": "The '3.5% rule': How a small minority can change the world (2019)",
     "link": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
     "source": "Hacker News",
@@ -38,22 +54,6 @@
     "published": "2026-01-25T20:39:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46757944\">Comments</a>"
-  },
-  {
-    "title": "I was right about ATProto key management",
-    "link": "https://notes.nora.codes/atproto-again/",
-    "source": "Hacker News",
-    "published": "2026-01-25T19:31:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757357\">Comments</a>"
-  },
-  {
-    "title": "The behavioral cost of personalized pricing",
-    "link": "https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing",
-    "source": "Hacker News",
-    "published": "2026-01-25T19:19:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757224\">Comments</a>"
   },
   {
     "title": "Spanish track was fractured before high-speed train disaster, report finds",
@@ -78,6 +78,14 @@
     "published": "2026-01-25T18:06:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46756427\">Comments</a>"
+  },
+  {
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "source": "Hacker News",
+    "published": "2026-01-25T17:36:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756117\">Comments</a>"
   },
   {
     "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
@@ -120,36 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753484\">Comments</a>"
   },
   {
-    "title": "A flawed paper in management science has been cited more than 6k times",
-    "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+    "title": "The Science of Fermentation [audio]",
+    "link": "https://www.bbc.co.uk/programmes/m002pqg6",
     "source": "Hacker News",
-    "published": "2026-01-25T09:04:30+00:00",
+    "published": "2026-01-23T15:03:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752151\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46733306\">Comments</a>"
   },
   {
-    "title": "Introduction to PostgreSQL Indexes",
-    "link": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
+    "title": "Delta single handle ball faucets (1963)",
+    "link": "https://archive.org/details/DeltaSingleHandleBallFaucets",
     "source": "Hacker News",
-    "published": "2026-01-25T08:07:03+00:00",
+    "published": "2026-01-22T03:37:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46751826\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46714981\">Comments</a>"
   },
   {
-    "title": "Infinite pancakes, anyone?",
-    "link": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
+    "title": "Turbopack: Building faster by building less",
+    "link": "https://nextjs.org/blog/turbopack-incremental-computation",
     "source": "Hacker News",
-    "published": "2026-01-22T13:23:09+00:00",
+    "published": "2026-01-20T18:49:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46718923\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: How do you keep system context from rotting over time?",
-    "link": "https://news.ycombinator.com/item?id=46693985",
-    "source": "Hacker News",
-    "published": "2026-01-20T16:40:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46693985\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46696111\">Comments</a>"
   },
   {
     "title": "Guix for Development",
