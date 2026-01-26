@@ -1,14 +1,38 @@
 [
   {
-    "title": "AI Tribalism",
-    "link": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
+    "title": "Clawdbot - open source personal AI assistant",
+    "link": "https://github.com/clawdbot/clawdbot",
     "source": "Hacker News",
-    "published": "2026-01-25T21:01:37+00:00",
+    "published": "2026-01-26T00:27:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758175\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46760237\">Comments</a>"
   },
   {
-    "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+    "title": "Show HN: A small programming language where everything is pass-by-value",
+    "link": "https://github.com/Jcparkyn/herd",
+    "source": "Hacker News",
+    "published": "2026-01-25T23:01:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759520\">Comments</a>"
+  },
+  {
+    "title": "Case study: Creative math \u2013 How AI fakes proofs",
+    "link": "https://tomaszmachnik.pl/case-study-math-en.html",
+    "source": "Hacker News",
+    "published": "2026-01-25T22:44:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759352\">Comments</a>"
+  },
+  {
+    "title": "The '3.5% rule': How a small minority can change the world (2019)",
+    "link": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+    "source": "Hacker News",
+    "published": "2026-01-25T21:27:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758450\">Comments</a>"
+  },
+  {
+    "title": "Oneplus phone update introduces hardware anti-rollback",
     "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
     "source": "Hacker News",
     "published": "2026-01-25T20:39:25+00:00",
@@ -22,6 +46,14 @@
     "published": "2026-01-25T19:31:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46757357\">Comments</a>"
+  },
+  {
+    "title": "The behavioral cost of personalized pricing",
+    "link": "https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing",
+    "source": "Hacker News",
+    "published": "2026-01-25T19:19:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757224\">Comments</a>"
   },
   {
     "title": "Spanish track was fractured before high-speed train disaster, report finds",
@@ -40,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>"
   },
   {
-    "title": "ICE using Palantir tool that feeds on Medicaid data",
-    "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+    "link": "https://www.lighthouses.app/",
     "source": "Hacker News",
-    "published": "2026-01-25T17:36:19+00:00",
+    "published": "2026-01-25T18:06:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756117\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756427\">Comments</a>"
   },
   {
     "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
@@ -64,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
   },
   {
+    "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+    "link": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+    "source": "Hacker News",
+    "published": "2026-01-25T14:55:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46754522\">Comments</a>"
+  },
+  {
     "title": "Web-based image editor modeled after Deluxe Paint",
     "link": "https://github.com/steffest/DPaint-js",
     "source": "Hacker News",
@@ -78,30 +118,6 @@
     "published": "2026-01-25T12:22:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753484\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Bonsplit \u2013 Tabs and splits for native macOS apps",
-    "link": "https://bonsplit.alasdairmonk.com",
-    "source": "Hacker News",
-    "published": "2026-01-25T11:56:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753301\">Comments</a>"
-  },
-  {
-    "title": "Show HN: TUI for managing XDG default applications",
-    "link": "https://github.com/mitjafelicijan/xdgctl",
-    "source": "Hacker News",
-    "published": "2026-01-25T11:19:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753078\">Comments</a>"
-  },
-  {
-    "title": "150k lines of vibe coded Elixir: The good, the bad and the ugly",
-    "link": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly",
-    "source": "Hacker News",
-    "published": "2026-01-25T10:54:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752907\">Comments</a>"
   },
   {
     "title": "A flawed paper in management science has been cited more than 6k times",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46751826\">Comments</a>"
   },
   {
-    "title": "ANN v3: 200ms p99 query latency over 100B vectors",
-    "link": "https://turbopuffer.com/blog/ann-v3",
+    "title": "Infinite pancakes, anyone?",
+    "link": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
     "source": "Hacker News",
-    "published": "2026-01-21T19:58:59+00:00",
+    "published": "2026-01-22T13:23:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46710747\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46718923\">Comments</a>"
   },
   {
-    "title": "Show HN: Fence \u2013 Sandbox CLI commands with network/filesystem restrictions",
-    "link": "https://github.com/Use-Tusk/fence",
+    "title": "Ask HN: How do you keep system context from rotting over time?",
+    "link": "https://news.ycombinator.com/item?id=46693985",
     "source": "Hacker News",
-    "published": "2026-01-20T18:05:03+00:00",
+    "published": "2026-01-20T16:40:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46695467\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46693985\">Comments</a>"
   },
   {
-    "title": "Publishing on the ATmosphere",
-    "link": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
+    "title": "Guix for Development",
+    "link": "https://dthompson.us/posts/guix-for-development.html",
     "source": "Hacker News",
-    "published": "2026-01-20T12:33:32+00:00",
+    "published": "2026-01-20T11:15:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46691152\">Comments</a>"
-  },
-  {
-    "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
-    "link": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
-    "source": "Hacker News",
-    "published": "2026-01-20T09:41:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46689895\">Comments</a>"
-  },
-  {
-    "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-    "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-    "source": "Hacker News",
-    "published": "2026-01-20T07:04:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46688804\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690592\">Comments</a>"
   }
 ]
