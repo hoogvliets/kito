@@ -1,11 +1,83 @@
 [
   {
-    "title": "Show HN posts p/month more than doubled in the last year",
-    "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
+    "title": "Cop-assisted extortion of DWI arrestees in New Mexico include getting them drunk",
+    "link": "https://reason.com/2026/01/23/cop-assisted-extortion-of-dwi-arrestees-in-new-mexico-included-getting-them-drunk/",
     "source": "Hacker News",
-    "published": "2026-01-26T11:16:17+00:00",
+    "published": "2026-01-26T15:09:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46764284\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46766560\">Comments</a>"
+  },
+  {
+    "title": "Exactitude in Science \u2013 Borges (1946) [pdf]",
+    "link": "https://kwarc.info/teaching/TDM/Borges.pdf",
+    "source": "Hacker News",
+    "published": "2026-01-26T14:44:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46766229\">Comments</a>"
+  },
+  {
+    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+    "link": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+    "source": "Hacker News",
+    "published": "2026-01-26T14:27:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46766031\">Comments</a>"
+  },
+  {
+    "title": "Apple introduces new AirTag with longer range and improved findability",
+    "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+    "source": "Hacker News",
+    "published": "2026-01-26T14:10:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765819\">Comments</a>"
+  },
+  {
+    "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+    "link": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+    "source": "Hacker News",
+    "published": "2026-01-26T13:58:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765694\">Comments</a>"
+  },
+  {
+    "title": "After two years of vibecoding, I'm back to writing by hand",
+    "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+    "source": "Hacker News",
+    "published": "2026-01-26T13:36:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765460\">Comments</a>"
+  },
+  {
+    "title": "Transfering Files with gRPC",
+    "link": "https://kreya.app/blog/transfering-files-with-grpc/",
+    "source": "Hacker News",
+    "published": "2026-01-26T13:17:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765273\">Comments</a>"
+  },
+  {
+    "title": "Vibe coding kills open source",
+    "link": "https://arxiv.org/abs/2601.15494",
+    "source": "Hacker News",
+    "published": "2026-01-26T13:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765120\">Comments</a>"
+  },
+  {
+    "title": "TSMC Risk",
+    "link": "https://stratechery.com/2026/tsmc-risk/",
+    "source": "Hacker News",
+    "published": "2026-01-26T11:07:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46764223\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Only 1 LLM can fly a drone",
+    "link": "https://github.com/kxzk/snapbench",
+    "source": "Hacker News",
+    "published": "2026-01-26T11:00:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46764170\">Comments</a>"
   },
   {
     "title": "MapLibre Tile: a modern and efficient vector tile format",
@@ -14,14 +86,6 @@
     "published": "2026-01-26T10:19:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46763864\">Comments</a>"
-  },
-  {
-    "title": "San Francisco Graffiti",
-    "link": "https://walzr.com/sf-graffiti",
-    "source": "Hacker News",
-    "published": "2026-01-26T10:02:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46763721\">Comments</a>"
   },
   {
     "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
@@ -40,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46762150\">Comments</a>"
   },
   {
-    "title": "Video Games as Art",
-    "link": "https://gwern.net/video-game-art",
-    "source": "Hacker News",
-    "published": "2026-01-26T02:07:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46760998\">Comments</a>"
-  },
-  {
     "title": "Scientists identify brain waves that define the limits of 'you'",
     "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
     "source": "Hacker News",
     "published": "2026-01-26T00:10:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>"
-  },
-  {
-    "title": "Case study: Creative math \u2013 How AI fakes proofs",
-    "link": "https://tomaszmachnik.pl/case-study-math-en.html",
-    "source": "Hacker News",
-    "published": "2026-01-25T22:44:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759352\">Comments</a>"
-  },
-  {
-    "title": "The future of software engineering is SRE",
-    "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
-    "source": "Hacker News",
-    "published": "2026-01-25T22:18:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759063\">Comments</a>"
-  },
-  {
-    "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
-    "link": "https://www.nature.com/articles/s41598-026-35389-6",
-    "source": "Hacker News",
-    "published": "2026-01-25T21:44:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758644\">Comments</a>"
   },
   {
     "title": "First, make me care",
@@ -88,52 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>"
   },
   {
-    "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-    "link": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-    "source": "Hacker News",
-    "published": "2026-01-25T15:51:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46755115\">Comments</a>"
-  },
-  {
     "title": "A macOS app that blurs your screen when you slouch",
     "link": "https://github.com/tldev/posturr",
     "source": "Hacker News",
     "published": "2026-01-25T15:34:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
-  },
-  {
-    "title": "The Science of Fermentation [audio]",
-    "link": "https://www.bbc.co.uk/programmes/m002pqg6",
-    "source": "Hacker News",
-    "published": "2026-01-23T15:03:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46733306\">Comments</a>"
-  },
-  {
-    "title": "Emissary, a fast open-source Java messaging library",
-    "link": "https://github.com/joel-jeremy/emissary",
-    "source": "Hacker News",
-    "published": "2026-01-22T18:15:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46723049\">Comments</a>"
-  },
-  {
-    "title": "SFPark: Interactive map of SF parking regulations",
-    "link": "https://hugues.betakappaphi.com/2026/01/21/sfpark/",
-    "source": "Hacker News",
-    "published": "2026-01-22T15:58:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46720987\">Comments</a>"
-  },
-  {
-    "title": "Building a Real-Time HN Display for $15",
-    "link": "https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff",
-    "source": "Hacker News",
-    "published": "2026-01-22T14:52:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46719958\">Comments</a>"
   },
   {
     "title": "Things I've learned in my 10 years as an engineering manager",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46709270\">Comments</a>"
   },
   {
+    "title": "Blade Runner Costume Design (2020)",
+    "link": "https://costumedesignarchive.blogspot.com/2020/12/blade-runner-1982.html",
+    "source": "Hacker News",
+    "published": "2026-01-21T02:34:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46700489\">Comments</a>"
+  },
+  {
+    "title": "Wind Chime Length Calculator (2022)",
+    "link": "https://www.snyderfamily.com/chimecalcs/",
+    "source": "Hacker News",
+    "published": "2026-01-20T22:17:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46698456\">Comments</a>"
+  },
+  {
     "title": "Text Is King",
     "link": "https://www.experimental-history.com/p/text-is-king",
     "source": "Hacker News",
     "published": "2026-01-20T21:57:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46698264\">Comments</a>"
-  },
-  {
-    "title": "A static site generator written in POSIX shell",
-    "link": "https://aashvik.com/posts/shell-ssg/",
-    "source": "Hacker News",
-    "published": "2026-01-20T10:56:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690463\">Comments</a>"
   }
 ]
