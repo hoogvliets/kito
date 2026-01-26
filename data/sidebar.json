@@ -1,6 +1,14 @@
 [
   {
-    "title": "The Browser Is the Sandbox",
+    "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
+    "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
+    "source": "Hacker News",
+    "published": "2026-01-26T07:41:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46762882\">Comments</a>"
+  },
+  {
+    "title": "The browser is the sandbox",
     "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
     "source": "Hacker News",
     "published": "2026-01-26T05:23:01+00:00",
@@ -24,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46761614\">Comments</a>"
   },
   {
-    "title": "SF Microclimates",
-    "link": "https://microclimates.solofounders.com/",
+    "title": "You can just port things to Cloudflare Workers",
+    "link": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
     "source": "Hacker News",
-    "published": "2026-01-26T02:38:55+00:00",
+    "published": "2026-01-26T02:41:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761219\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761239\">Comments</a>"
   },
   {
     "title": "Video Games as Art",
@@ -48,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>"
   },
   {
+    "title": "Ask HN: DDD was a great debugger \u2013 what would a modern equivalent look like?",
+    "link": "https://news.ycombinator.com/item?id=46759387",
+    "source": "Hacker News",
+    "published": "2026-01-25T22:47:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759387\">Comments</a>"
+  },
+  {
     "title": "Case study: Creative math \u2013 How AI fakes proofs",
     "link": "https://tomaszmachnik.pl/case-study-math-en.html",
     "source": "Hacker News",
@@ -64,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46759063\">Comments</a>"
   },
   {
-    "title": "The '3.5% rule': How a small minority can change the world (2019)",
-    "link": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
-    "source": "Hacker News",
-    "published": "2026-01-25T21:27:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758450\">Comments</a>"
-  },
-  {
-    "title": "Spanish track was fractured before high-speed train disaster, report finds",
-    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
-    "source": "Hacker News",
-    "published": "2026-01-25T19:12:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46757162\">Comments</a>"
-  },
-  {
     "title": "First, make me care",
     "link": "https://gwern.net/blog/2026/make-me-care",
     "source": "Hacker News",
     "published": "2026-01-25T19:03:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>"
-  },
-  {
-    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
-    "link": "https://www.lighthouses.app/",
-    "source": "Hacker News",
-    "published": "2026-01-25T18:06:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756427\">Comments</a>"
   },
   {
     "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
   },
   {
-    "title": "Web-based image editor modeled after Deluxe Paint",
-    "link": "https://github.com/steffest/DPaint-js",
+    "title": "Compiling models to megakernels",
+    "link": "https://blog.luminal.com/p/compiling-models-to-megakernels",
     "source": "Hacker News",
-    "published": "2026-01-25T12:54:53+00:00",
+    "published": "2026-01-25T05:12:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753708\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750951\">Comments</a>"
   },
   {
     "title": "The Science of Fermentation [audio]",
@@ -126,6 +118,14 @@
     "published": "2026-01-23T15:03:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46733306\">Comments</a>"
+  },
+  {
+    "title": "The Post Correspondence Programming Language: Domino-oriented Programming (2015)",
+    "link": "https://davidlazar.github.io/PCPL/",
+    "source": "Hacker News",
+    "published": "2026-01-22T19:54:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46724348\">Comments</a>"
   },
   {
     "title": "Building a Real-Time HN Display for $15",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46714981\">Comments</a>"
   },
   {
-    "title": "Integrating WebView with Nature Programming Language",
-    "link": "https://nature-lang.org/blog/20260121",
+    "title": "Things I've learned in my 10 years as an engineering manager",
+    "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
     "source": "Hacker News",
-    "published": "2026-01-21T13:20:53+00:00",
+    "published": "2026-01-21T18:11:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46705337\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46709270\">Comments</a>"
   },
   {
-    "title": "Guix for Development",
-    "link": "https://dthompson.us/posts/guix-for-development.html",
+    "title": "A static site generator written in POSIX shell",
+    "link": "https://aashvik.com/posts/shell-ssg/",
     "source": "Hacker News",
-    "published": "2026-01-20T11:15:33+00:00",
+    "published": "2026-01-20T10:56:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690592\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46690463\">Comments</a>"
   }
 ]
