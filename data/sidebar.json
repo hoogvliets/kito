@@ -1,5 +1,29 @@
 [
   {
+    "title": "Show HN posts p/month more than doubled in the last year",
+    "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
+    "source": "Hacker News",
+    "published": "2026-01-26T11:16:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46764284\">Comments</a>"
+  },
+  {
+    "title": "MapLibre Tile: a modern and efficient vector tile format",
+    "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
+    "source": "Hacker News",
+    "published": "2026-01-26T10:19:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46763864\">Comments</a>"
+  },
+  {
+    "title": "San Francisco Graffiti",
+    "link": "https://walzr.com/sf-graffiti",
+    "source": "Hacker News",
+    "published": "2026-01-26T10:02:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46763721\">Comments</a>"
+  },
+  {
     "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
     "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
     "source": "Hacker News",
@@ -14,30 +38,6 @@
     "published": "2026-01-26T05:23:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46762150\">Comments</a>"
-  },
-  {
-    "title": "Iran's internet blackout may become permanent, with access for elites only",
-    "link": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
-    "source": "Hacker News",
-    "published": "2026-01-26T04:18:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761822\">Comments</a>"
-  },
-  {
-    "title": "Environmentalists worry Google behind bid to control Oregon town's water",
-    "link": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
-    "source": "Hacker News",
-    "published": "2026-01-26T03:40:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761614\">Comments</a>"
-  },
-  {
-    "title": "You can just port things to Cloudflare Workers",
-    "link": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
-    "source": "Hacker News",
-    "published": "2026-01-26T02:41:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46761239\">Comments</a>"
   },
   {
     "title": "Video Games as Art",
@@ -56,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46760099\">Comments</a>"
   },
   {
-    "title": "Ask HN: DDD was a great debugger \u2013 what would a modern equivalent look like?",
-    "link": "https://news.ycombinator.com/item?id=46759387",
-    "source": "Hacker News",
-    "published": "2026-01-25T22:47:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46759387\">Comments</a>"
-  },
-  {
     "title": "Case study: Creative math \u2013 How AI fakes proofs",
     "link": "https://tomaszmachnik.pl/case-study-math-en.html",
     "source": "Hacker News",
@@ -78,6 +70,14 @@
     "published": "2026-01-25T22:18:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46759063\">Comments</a>"
+  },
+  {
+    "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
+    "link": "https://www.nature.com/articles/s41598-026-35389-6",
+    "source": "Hacker News",
+    "published": "2026-01-25T21:44:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758644\">Comments</a>"
   },
   {
     "title": "First, make me care",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46754944\">Comments</a>"
   },
   {
-    "title": "Compiling models to megakernels",
-    "link": "https://blog.luminal.com/p/compiling-models-to-megakernels",
-    "source": "Hacker News",
-    "published": "2026-01-25T05:12:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750951\">Comments</a>"
-  },
-  {
     "title": "The Science of Fermentation [audio]",
     "link": "https://www.bbc.co.uk/programmes/m002pqg6",
     "source": "Hacker News",
@@ -120,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46733306\">Comments</a>"
   },
   {
-    "title": "The Post Correspondence Programming Language: Domino-oriented Programming (2015)",
-    "link": "https://davidlazar.github.io/PCPL/",
+    "title": "Emissary, a fast open-source Java messaging library",
+    "link": "https://github.com/joel-jeremy/emissary",
     "source": "Hacker News",
-    "published": "2026-01-22T19:54:06+00:00",
+    "published": "2026-01-22T18:15:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46724348\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46723049\">Comments</a>"
+  },
+  {
+    "title": "SFPark: Interactive map of SF parking regulations",
+    "link": "https://hugues.betakappaphi.com/2026/01/21/sfpark/",
+    "source": "Hacker News",
+    "published": "2026-01-22T15:58:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46720987\">Comments</a>"
   },
   {
     "title": "Building a Real-Time HN Display for $15",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46719958\">Comments</a>"
   },
   {
-    "title": "Delta single handle ball faucets (1963)",
-    "link": "https://archive.org/details/DeltaSingleHandleBallFaucets",
-    "source": "Hacker News",
-    "published": "2026-01-22T03:37:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46714981\">Comments</a>"
-  },
-  {
     "title": "Things I've learned in my 10 years as an engineering manager",
     "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
     "source": "Hacker News",
     "published": "2026-01-21T18:11:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46709270\">Comments</a>"
+  },
+  {
+    "title": "Text Is King",
+    "link": "https://www.experimental-history.com/p/text-is-king",
+    "source": "Hacker News",
+    "published": "2026-01-20T21:57:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46698264\">Comments</a>"
   },
   {
     "title": "A static site generator written in POSIX shell",
