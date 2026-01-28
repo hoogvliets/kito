@@ -1,5 +1,21 @@
 [
   {
+    "title": "Airfoil (2024)",
+    "link": "https://ciechanow.ski/airfoil/",
+    "source": "Hacker News",
+    "published": "2026-01-28T14:32:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795908\">Comments</a>"
+  },
+  {
+    "title": "Microsoft forced me to switch to Linux",
+    "link": "https://www.himthe.dev/blog/microsoft-to-linux",
+    "source": "Hacker News",
+    "published": "2026-01-28T14:28:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795864\">Comments</a>"
+  },
+  {
     "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
     "link": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
     "source": "Hacker News",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46793693\">Comments</a>"
   },
   {
-    "title": "Devuan \u2013 Debian Without Systemd",
-    "link": "https://www.devuan.org/",
+    "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
+    "link": "https://hcs64.com/video-boy-vue/",
     "source": "Hacker News",
-    "published": "2026-01-28T08:58:28+00:00",
+    "published": "2026-01-28T08:32:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792783\">Comments</a>"
-  },
-  {
-    "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
-    "link": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
-    "source": "Hacker News",
-    "published": "2026-01-28T08:02:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792370\">Comments</a>"
-  },
-  {
-    "title": "Make.ts",
-    "link": "https://matklad.github.io/2026/01/27/make-ts.html",
-    "source": "Hacker News",
-    "published": "2026-01-28T07:35:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792194\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792572\">Comments</a>"
   },
   {
     "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
@@ -48,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46791742\">Comments</a>"
   },
   {
-    "title": "Parametric CAD in Rust",
-    "link": "https://campedersen.com/vcad",
+    "title": "A verification layer for browser agents: Amazon case study",
+    "link": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
     "source": "Hacker News",
-    "published": "2026-01-27T20:36:14+00:00",
+    "published": "2026-01-28T02:08:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46786196\">Comments</a>"
-  },
-  {
-    "title": "Lennart Poettering, Christian Brauner founded a new company",
-    "link": "https://amutable.com/about",
-    "source": "Hacker News",
-    "published": "2026-01-27T18:57:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46784572\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46790127\">Comments</a>"
   },
   {
     "title": "Prism",
@@ -80,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46781530\">Comments</a>"
   },
   {
-    "title": "Xfwl4 \u2013 The Roadmap for a Xfce Wayland Compositor",
-    "link": "https://alexxcons.github.io/blogpost_15.html",
+    "title": "Show HN: Build Web Automations via Demonstration",
+    "link": "https://www.notte.cc/launch-week-i/demonstrate-mode",
     "source": "Hacker News",
-    "published": "2026-01-27T13:25:53+00:00",
+    "published": "2026-01-27T13:48:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779645\">Comments</a>"
-  },
-  {
-    "title": "Doing the thing is doing the thing",
-    "link": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-    "source": "Hacker News",
-    "published": "2026-01-27T06:17:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46776155\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779864\">Comments</a>"
   },
   {
     "title": "A few random notes from Claude coding quite a bit last few weeks",
@@ -112,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46756311\">Comments</a>"
   },
   {
-    "title": "Aperture: Senior QA (2004-2005)",
-    "link": "https://substack.techreflect.org/p/aperture-senior-qa-2004-2005",
+    "title": "I Made a MIT Licensed Mecrisp-Stellaris Language Server",
+    "link": "https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html",
     "source": "Hacker News",
-    "published": "2026-01-25T11:40:34+00:00",
+    "published": "2026-01-25T09:08:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753199\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752172\">Comments</a>"
   },
   {
     "title": "Rust\u2019s Standard Library on the GPU",
@@ -126,6 +110,22 @@
     "published": "2026-01-24T04:49:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46741150\">Comments</a>"
+  },
+  {
+    "title": "Package Management Is a Wicked Problem",
+    "link": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
+    "source": "Hacker News",
+    "published": "2026-01-24T04:24:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46741045\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Dwm.tmux \u2013 a dwm-inspired window manager for tmux",
+    "link": "https://github.com/saysjonathan/dwm.tmux",
+    "source": "Hacker News",
+    "published": "2026-01-24T00:15:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46739704\">Comments</a>"
   },
   {
     "title": "There's only one Woz, but we can all learn from him",
