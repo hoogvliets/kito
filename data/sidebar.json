@@ -1,5 +1,69 @@
 [
   {
+    "title": "What does Werner Herzog's nihilist penguin teach us about life?",
+    "link": "https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world",
+    "source": "Hacker News",
+    "published": "2026-01-28T20:43:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46801225\">Comments</a>"
+  },
+  {
+    "title": "Native Linux VST plugin directory",
+    "link": "https://linuxmusic.rocks",
+    "source": "Hacker News",
+    "published": "2026-01-28T19:59:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46800737\">Comments</a>"
+  },
+  {
+    "title": "Native Instruments enters into insolvency proceedings",
+    "link": "https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html",
+    "source": "Hacker News",
+    "published": "2026-01-28T19:51:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46800645\">Comments</a>"
+  },
+  {
+    "title": "Who sets the Doomsday Clock?",
+    "link": "https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/",
+    "source": "Hacker News",
+    "published": "2026-01-28T19:48:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46800623\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Cursor for Userscripts",
+    "link": "https://github.com/chebykinn/browser-code",
+    "source": "Hacker News",
+    "published": "2026-01-28T19:39:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46800484\">Comments</a>"
+  },
+  {
+    "title": "Trying to craft AI images that are worth displaying to end users",
+    "link": "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/",
+    "source": "Hacker News",
+    "published": "2026-01-28T19:24:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46800303\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+    "link": "https://github.com/jmuncor/sherlock",
+    "source": "Hacker News",
+    "published": "2026-01-28T18:52:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46799898\">Comments</a>"
+  },
+  {
+    "title": "Computer History Museum Launches Digital Portal to Its Collection",
+    "link": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+    "source": "Hacker News",
+    "published": "2026-01-28T17:54:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46798994\">Comments</a>"
+  },
+  {
     "title": "Mousefood \u2013 Build embedded terminal UIs for microcontrollers",
     "link": "https://github.com/ratatui/mousefood",
     "source": "Hacker News",
@@ -8,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46798402\">Comments</a>"
   },
   {
-    "title": "Show HN: I Built a Sandbox for Agents",
-    "link": "https://github.com/vrn21/bouvet.com",
+    "title": "Spinning around: Please don't \u2013 Common problems with spin locks",
+    "link": "https://www.siliceum.com/en/blog/post/spinning-around/",
     "source": "Hacker News",
-    "published": "2026-01-28T16:50:43+00:00",
+    "published": "2026-01-28T16:48:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46797895\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46797868\">Comments</a>"
   },
   {
     "title": "Oban, the job processing framework from Elixir, has come to Python",
@@ -22,6 +86,14 @@
     "published": "2026-01-28T16:32:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46797594\">Comments</a>"
+  },
+  {
+    "title": "Amazon cuts 16k jobs",
+    "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+    "source": "Hacker News",
+    "published": "2026-01-28T15:39:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46796745\">Comments</a>"
   },
   {
     "title": "Airfoil (2024)",
@@ -40,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46795864\">Comments</a>"
   },
   {
-    "title": "Show HN: I built a small browser engine from scratch in C++",
-    "link": "https://github.com/beginner-jhj/mini_browser",
+    "title": "If you tax them, will they leave?",
+    "link": "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/",
     "source": "Hacker News",
-    "published": "2026-01-28T14:03:28+00:00",
+    "published": "2026-01-28T12:30:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795540\">Comments</a>"
-  },
-  {
-    "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
-    "source": "Hacker News",
-    "published": "2026-01-28T12:00:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46794231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46794472\">Comments</a>"
   },
   {
     "title": "Show HN: The HN Arcade",
@@ -64,23 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46793693\">Comments</a>"
   },
   {
-    "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
-    "link": "https://hcs64.com/video-boy-vue/",
-    "source": "Hacker News",
-    "published": "2026-01-28T08:32:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792572\">Comments</a>"
-  },
-  {
-    "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
-    "link": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
-    "source": "Hacker News",
-    "published": "2026-01-28T06:21:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46791742\">Comments</a>"
-  },
-  {
-    "title": "Android's full desktop interface leaks: New status bar, Chrome Extensions",
+    "title": "Android's desktop interface leaks",
     "link": "https://9to5google.com/2026/01/27/android-desktop-leak/",
     "source": "Hacker News",
     "published": "2026-01-28T03:34:45+00:00",
@@ -88,68 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46790740\">Comments</a>"
   },
   {
-    "title": "A verification layer for browser agents: Amazon case study",
-    "link": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
+    "title": "I have written gemma3 inference in pure C",
+    "link": "https://github.com/robitec97/gemma3.c",
     "source": "Hacker News",
-    "published": "2026-01-28T02:08:14+00:00",
+    "published": "2026-01-26T14:05:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46790127\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46765772\">Comments</a>"
   },
   {
-    "title": "Prism",
-    "link": "https://openai.com/index/introducing-prism",
+    "title": "The Five Levels: From Spicy Autocomplete to the Software Factory",
+    "link": "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/",
     "source": "Hacker News",
-    "published": "2026-01-27T18:03:10+00:00",
+    "published": "2026-01-23T22:55:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46783752\">Comments</a>"
-  },
-  {
-    "title": "A few random notes from Claude coding quite a bit last few weeks",
-    "link": "https://twitter.com/karpathy/status/2015883857489522876",
-    "source": "Hacker News",
-    "published": "2026-01-26T21:09:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46771564\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
-    "link": "https://github.com/trycua/cua",
-    "source": "Hacker News",
-    "published": "2026-01-26T17:46:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46768906\">Comments</a>"
-  },
-  {
-    "title": "Immanuel 'the K\u00f6nigsberg clock' Kant (2015)",
-    "link": "https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker",
-    "source": "Hacker News",
-    "published": "2026-01-25T16:06:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46755278\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Dwm.tmux \u2013 a dwm-inspired window manager for tmux",
-    "link": "https://github.com/saysjonathan/dwm.tmux",
-    "source": "Hacker News",
-    "published": "2026-01-24T00:15:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46739704\">Comments</a>"
-  },
-  {
-    "title": "There's only one Woz, but we can all learn from him",
-    "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-    "source": "Hacker News",
-    "published": "2026-01-23T17:48:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735407\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Extracting React apps from Figma Make's undocumented binary format",
-    "link": "https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html",
-    "source": "Hacker News",
-    "published": "2026-01-23T05:07:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46728659\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46739117\">Comments</a>"
   },
   {
     "title": "I Overengineered a Spinning Top",
