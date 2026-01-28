@@ -1,19 +1,35 @@
 [
   {
-    "title": "Super Monkey Ball ported to a website",
-    "link": "https://monkeyball-online.pages.dev/",
+    "title": "I Stopped Following the News",
+    "link": "https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/",
     "source": "Hacker News",
-    "published": "2026-01-28T01:44:25+00:00",
+    "published": "2026-01-28T08:33:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46789961\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792580\">Comments</a>"
   },
   {
-    "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
-    "link": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+    "title": "ASML firing 1700 people, mostly managers",
+    "link": "https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/",
     "source": "Hacker News",
-    "published": "2026-01-28T01:38:15+00:00",
+    "published": "2026-01-28T08:02:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46789913\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792370\">Comments</a>"
+  },
+  {
+    "title": "Make.ts",
+    "link": "https://matklad.github.io/2026/01/27/make-ts.html",
+    "source": "Hacker News",
+    "published": "2026-01-28T07:35:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792194\">Comments</a>"
+  },
+  {
+    "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+    "link": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+    "source": "Hacker News",
+    "published": "2026-01-28T06:21:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46791742\">Comments</a>"
   },
   {
     "title": "Parametric CAD in Rust",
@@ -32,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46786183\">Comments</a>"
   },
   {
-    "title": "Try text scaling support in Chrome Canary",
-    "link": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
-    "source": "Hacker News",
-    "published": "2026-01-27T19:20:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46784977\">Comments</a>"
-  },
-  {
     "title": "Lennart Poettering, Christian Brauner founded a new company",
     "link": "https://amutable.com/about",
     "source": "Hacker News",
@@ -54,14 +62,6 @@
     "published": "2026-01-27T18:03:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46783752\">Comments</a>"
-  },
-  {
-    "title": "FBI is investigating Minnesota Signal chats tracking ICE",
-    "link": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
-    "source": "Hacker News",
-    "published": "2026-01-27T17:32:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46783254\">Comments</a>"
   },
   {
     "title": "AI2: Open Coding Agents",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46741150\">Comments</a>"
   },
   {
-    "title": "I found the perfect yearly calendar (for me)",
-    "link": "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me",
+    "title": "There's only one Woz, but we can all learn from him",
+    "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
     "source": "Hacker News",
-    "published": "2026-01-23T23:12:19+00:00",
+    "published": "2026-01-23T17:48:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46739257\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735407\">Comments</a>"
   },
   {
     "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735152\">Comments</a>"
   },
   {
-    "title": "Extremophile molds are invading art museums",
-    "link": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+    "title": "SVG Path Editor",
+    "link": "https://yqnn.github.io/svg-path-editor/",
     "source": "Hacker News",
-    "published": "2026-01-23T12:05:11+00:00",
+    "published": "2026-01-22T23:06:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46731513\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46726269\">Comments</a>"
   }
 ]
