@@ -1,5 +1,29 @@
 [
   {
+    "title": "Mousefood \u2013 Build embedded terminal UIs for microcontrollers",
+    "link": "https://github.com/ratatui/mousefood",
+    "source": "Hacker News",
+    "published": "2026-01-28T17:20:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46798402\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I Built a Sandbox for Agents",
+    "link": "https://github.com/vrn21/bouvet.com",
+    "source": "Hacker News",
+    "published": "2026-01-28T16:50:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46797895\">Comments</a>"
+  },
+  {
+    "title": "Oban, the job processing framework from Elixir, has come to Python",
+    "link": "https://www.dimamik.com/posts/oban_py/",
+    "source": "Hacker News",
+    "published": "2026-01-28T16:32:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46797594\">Comments</a>"
+  },
+  {
     "title": "Airfoil (2024)",
     "link": "https://ciechanow.ski/airfoil/",
     "source": "Hacker News",
@@ -14,6 +38,14 @@
     "published": "2026-01-28T14:28:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46795864\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a small browser engine from scratch in C++",
+    "link": "https://github.com/beginner-jhj/mini_browser",
+    "source": "Hacker News",
+    "published": "2026-01-28T14:03:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795540\">Comments</a>"
   },
   {
     "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
@@ -48,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46791742\">Comments</a>"
   },
   {
+    "title": "Android's full desktop interface leaks: New status bar, Chrome Extensions",
+    "link": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+    "source": "Hacker News",
+    "published": "2026-01-28T03:34:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46790740\">Comments</a>"
+  },
+  {
     "title": "A verification layer for browser agents: Amazon case study",
     "link": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
     "source": "Hacker News",
@@ -64,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46783752\">Comments</a>"
   },
   {
-    "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-    "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-    "source": "Hacker News",
-    "published": "2026-01-27T15:46:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46781530\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Build Web Automations via Demonstration",
-    "link": "https://www.notte.cc/launch-week-i/demonstrate-mode",
-    "source": "Hacker News",
-    "published": "2026-01-27T13:48:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779864\">Comments</a>"
-  },
-  {
     "title": "A few random notes from Claude coding quite a bit last few weeks",
     "link": "https://twitter.com/karpathy/status/2015883857489522876",
     "source": "Hacker News",
@@ -88,36 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46771564\">Comments</a>"
   },
   {
-    "title": "Thirty Years of the Square Kilometre Array",
-    "link": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
+    "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
+    "link": "https://github.com/trycua/cua",
     "source": "Hacker News",
-    "published": "2026-01-25T17:53:49+00:00",
+    "published": "2026-01-26T17:46:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46756311\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46768906\">Comments</a>"
   },
   {
-    "title": "I Made a MIT Licensed Mecrisp-Stellaris Language Server",
-    "link": "https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html",
+    "title": "Immanuel 'the K\u00f6nigsberg clock' Kant (2015)",
+    "link": "https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker",
     "source": "Hacker News",
-    "published": "2026-01-25T09:08:57+00:00",
+    "published": "2026-01-25T16:06:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46752172\">Comments</a>"
-  },
-  {
-    "title": "Rust\u2019s Standard Library on the GPU",
-    "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-    "source": "Hacker News",
-    "published": "2026-01-24T04:49:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46741150\">Comments</a>"
-  },
-  {
-    "title": "Package Management Is a Wicked Problem",
-    "link": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
-    "source": "Hacker News",
-    "published": "2026-01-24T04:24:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46741045\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46755278\">Comments</a>"
   },
   {
     "title": "Show HN: Dwm.tmux \u2013 a dwm-inspired window manager for tmux",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735407\">Comments</a>"
   },
   {
-    "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-    "link": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
+    "title": "Show HN: Extracting React apps from Figma Make's undocumented binary format",
+    "link": "https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html",
     "source": "Hacker News",
-    "published": "2026-01-23T17:27:48+00:00",
+    "published": "2026-01-23T05:07:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735152\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46728659\">Comments</a>"
   },
   {
-    "title": "Pandas 3.0",
-    "link": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
+    "title": "I Overengineered a Spinning Top",
+    "link": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
     "source": "Hacker News",
-    "published": "2026-01-23T16:45:47+00:00",
+    "published": "2026-01-23T03:32:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46734641\">Comments</a>"
-  },
-  {
-    "title": "SVG Path Editor",
-    "link": "https://yqnn.github.io/svg-path-editor/",
-    "source": "Hacker News",
-    "published": "2026-01-22T23:06:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46726269\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46728070\">Comments</a>"
   }
 ]
