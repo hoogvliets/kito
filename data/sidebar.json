@@ -1,13 +1,5 @@
 [
   {
-    "title": "Is coding dead because AI has taken over it?",
-    "link": "https://www.jehuamanna.com/blog/2026/is-coding-dead/",
-    "source": "Hacker News",
-    "published": "2026-01-28T01:59:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46790068\">Comments</a>"
-  },
-  {
     "title": "Super Monkey Ball ported to a website",
     "link": "https://monkeyball-online.pages.dev/",
     "source": "Hacker News",
@@ -16,12 +8,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46789961\">Comments</a>"
   },
   {
-    "title": "AI found 12 vulnerabilities in OpenSSL",
+    "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
     "link": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
     "source": "Hacker News",
     "published": "2026-01-28T01:38:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46789913\">Comments</a>"
+  },
+  {
+    "title": "Parametric CAD in Rust",
+    "link": "https://campedersen.com/vcad",
+    "source": "Hacker News",
+    "published": "2026-01-27T20:36:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46786196\">Comments</a>"
   },
   {
     "title": "Time Station Emulator",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46781444\">Comments</a>"
   },
   {
-    "title": "Show HN: Fuzzy Studio \u2013 Apply live effects to videos/camera",
-    "link": "https://fuzzy.ulyssepence.com/",
-    "source": "Hacker News",
-    "published": "2026-01-27T15:16:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46781090\">Comments</a>"
-  },
-  {
     "title": "Xfwl4 \u2013 The Roadmap for a Xfce Wayland Compositor",
     "link": "https://alexxcons.github.io/blogpost_15.html",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-01-23T17:27:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46735152\">Comments</a>"
+  },
+  {
+    "title": "Extremophile molds are invading art museums",
+    "link": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+    "source": "Hacker News",
+    "published": "2026-01-23T12:05:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46731513\">Comments</a>"
   }
 ]
