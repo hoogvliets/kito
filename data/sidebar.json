@@ -1,19 +1,91 @@
 [
   {
-    "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
-    "link": "https://kerkour.com/turso-sqlite",
+    "title": "AI's Impact on Engineering Jobs May Be Different Than Expected",
+    "link": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/",
     "source": "Hacker News",
-    "published": "2026-01-29T14:51:56+00:00",
+    "published": "2026-01-29T18:00:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46813834\">Comments</a>"
   },
   {
-    "title": "How to Choose Colors for Your CLI Applications",
+    "title": "Project Genie: Interactive worlds generated in real-time",
+    "link": "https://labs.google/projectgenie",
+    "source": "Hacker News",
+    "published": "2026-01-29T17:06:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46813002\">Comments</a>"
+  },
+  {
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "source": "Hacker News",
+    "published": "2026-01-29T17:02:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812933\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: AgentMail (YC S25) \u2013 An API that gives agents their own email inboxes",
+    "link": "https://news.ycombinator.com/item?id=46812608",
+    "source": "Hacker News",
+    "published": "2026-01-29T16:42:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812608\">Comments</a>"
+  },
+  {
+    "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+    "link": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+    "source": "Hacker News",
+    "published": "2026-01-29T16:12:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812173\">Comments</a>"
+  },
+  {
+    "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+    "link": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+    "source": "Hacker News",
+    "published": "2026-01-29T16:11:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812159\">Comments</a>"
+  },
+  {
+    "title": "Heating homes with the largest particle accelerator",
+    "link": "https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator",
+    "source": "Hacker News",
+    "published": "2026-01-29T15:49:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46811762\">Comments</a>"
+  },
+  {
+    "title": "Is the RAM shortage killing small VPS hosts?",
+    "link": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
+    "source": "Hacker News",
+    "published": "2026-01-29T15:42:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46811664\">Comments</a>"
+  },
+  {
+    "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
+    "link": "https://quesma.com/blog/introducing-otel-bench/",
+    "source": "Hacker News",
+    "published": "2026-01-29T15:37:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46811588\">Comments</a>"
+  },
+  {
+    "title": "How to Choose Colors for Your CLI Applications (2023)",
     "link": "https://blog.xoria.org/terminal-colors/",
     "source": "Hacker News",
     "published": "2026-01-29T14:49:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810904\">Comments</a>"
+  },
+  {
+    "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+    "link": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+    "source": "Hacker News",
+    "published": "2026-01-29T14:43:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810828\">Comments</a>"
   },
   {
     "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
@@ -24,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810536\">Comments</a>"
   },
   {
-    "title": "The Anti-Hat Riots of 1973",
-    "link": "https://www.marginalia.nu/weird-ai-crap/hats/",
+    "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
+    "link": "https://ipsj.ixsq.nii.ac.jp/records/229345",
     "source": "Hacker News",
-    "published": "2026-01-29T14:13:42+00:00",
+    "published": "2026-01-29T14:03:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810465\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810337\">Comments</a>"
   },
   {
     "title": "Claude Code Daily Benchmarks for Degradation Tracking",
@@ -40,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810282\">Comments</a>"
   },
   {
-    "title": "A lot of population numbers are fake",
-    "link": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+    "title": "The Sovereign Tech Fund Invests in Scala",
+    "link": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
     "source": "Hacker News",
-    "published": "2026-01-29T13:36:54+00:00",
+    "published": "2026-01-29T12:42:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810027\">Comments</a>"
-  },
-  {
-    "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-    "link": "https://blog.ncase.me/on-depression/",
-    "source": "Hacker News",
-    "published": "2026-01-29T10:35:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46808251\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46809420\">Comments</a>"
   },
   {
     "title": "Europe\u2019s next-generation weather satellite sends back first images",
@@ -64,30 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46806773\">Comments</a>"
   },
   {
-    "title": "We can\u2019t send mail farther than 500 miles (2002)",
-    "link": "https://web.mit.edu/jemorris/humor/500-miles",
-    "source": "Hacker News",
-    "published": "2026-01-29T03:58:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46805665\">Comments</a>"
-  },
-  {
-    "title": "Maine\u2019s \u2018Lobster Lady\u2019 who fished for nearly a century dies aged 105",
-    "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-    "source": "Hacker News",
-    "published": "2026-01-29T02:11:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46804854\">Comments</a>"
-  },
-  {
-    "title": "Render Mermaid diagrams as SVGs or ASCII art",
-    "link": "https://github.com/lukilabs/beautiful-mermaid",
-    "source": "Hacker News",
-    "published": "2026-01-29T02:08:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46804828\">Comments</a>"
-  },
-  {
     "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
     "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
     "source": "Hacker News",
@@ -96,67 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46801419\">Comments</a>"
   },
   {
-    "title": "Airfoil (2024)",
-    "link": "https://ciechanow.ski/airfoil/",
+    "title": "Making niche solutions is the point",
+    "link": "https://ntietz.com/blog/making-niche-solutions-is-the-point/",
     "source": "Hacker News",
-    "published": "2026-01-28T14:32:30+00:00",
+    "published": "2026-01-26T21:56:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795908\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46772132\">Comments</a>"
   },
   {
-    "title": "Show HN: ShapedQL \u2013 A SQL engine for multi-stage ranking and RAG",
-    "link": "https://playground.shaped.ai",
+    "title": "Computing Sharding with Einsum",
+    "link": "https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/",
     "source": "Hacker News",
-    "published": "2026-01-27T13:54:09+00:00",
+    "published": "2026-01-25T13:54:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779922\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46754097\">Comments</a>"
   },
   {
-    "title": "Decompiling Xbox games using PDB debug info",
-    "link": "https://i686.me/blog/csplit/",
+    "title": "EmulatorJS",
+    "link": "https://github.com/EmulatorJS/EmulatorJS",
     "source": "Hacker News",
-    "published": "2026-01-26T17:42:18+00:00",
+    "published": "2026-01-23T06:26:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46768845\">Comments</a>"
-  },
-  {
-    "title": "Mecha Comet \u2013 Open Modular Linux Handheld Computer",
-    "link": "https://mecha.so/comet",
-    "source": "Hacker News",
-    "published": "2026-01-25T21:44:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46758652\">Comments</a>"
-  },
-  {
-    "title": "Xmake: A cross-platform build utility based on Lua",
-    "link": "https://xmake.io/",
-    "source": "Hacker News",
-    "published": "2026-01-25T11:12:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46753037\">Comments</a>"
-  },
-  {
-    "title": "Apt-bundle: brew bundle for apt",
-    "link": "https://github.com/apt-bundle/apt-bundle",
-    "source": "Hacker News",
-    "published": "2026-01-25T06:34:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46751382\">Comments</a>"
-  },
-  {
-    "title": "Building a High-Performance Rotating Bloom Filter in Java",
-    "link": "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf",
-    "source": "Hacker News",
-    "published": "2026-01-25T02:50:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750220\">Comments</a>"
-  },
-  {
-    "title": "Tea Chemistry (1997)",
-    "link": "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf",
-    "source": "Hacker News",
-    "published": "2026-01-23T19:37:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46736804\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46729139\">Comments</a>"
   }
 ]
