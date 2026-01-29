@@ -1,11 +1,51 @@
 [
   {
-    "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
-    "link": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+    "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
+    "link": "https://kerkour.com/turso-sqlite",
     "source": "Hacker News",
-    "published": "2026-01-29T12:03:13+00:00",
+    "published": "2026-01-29T14:51:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46809069\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810950\">Comments</a>"
+  },
+  {
+    "title": "How to Choose Colors for Your CLI Applications",
+    "link": "https://blog.xoria.org/terminal-colors/",
+    "source": "Hacker News",
+    "published": "2026-01-29T14:49:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810904\">Comments</a>"
+  },
+  {
+    "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
+    "link": "https://www.breakmeifyoucan.com/",
+    "source": "Hacker News",
+    "published": "2026-01-29T14:20:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810536\">Comments</a>"
+  },
+  {
+    "title": "The Anti-Hat Riots of 1973",
+    "link": "https://www.marginalia.nu/weird-ai-crap/hats/",
+    "source": "Hacker News",
+    "published": "2026-01-29T14:13:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810465\">Comments</a>"
+  },
+  {
+    "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+    "link": "https://marginlab.ai/trackers/claude-code/",
+    "source": "Hacker News",
+    "published": "2026-01-29T13:59:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810282\">Comments</a>"
+  },
+  {
+    "title": "A lot of population numbers are fake",
+    "link": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+    "source": "Hacker News",
+    "published": "2026-01-29T13:36:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810027\">Comments</a>"
   },
   {
     "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
@@ -14,14 +54,6 @@
     "published": "2026-01-29T10:35:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46808251\">Comments</a>"
-  },
-  {
-    "title": "OpenAI\u2019s unit economics",
-    "link": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
-    "source": "Hacker News",
-    "published": "2026-01-29T08:11:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46807201\">Comments</a>"
   },
   {
     "title": "Europe\u2019s next-generation weather satellite sends back first images",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46804828\">Comments</a>"
   },
   {
-    "title": "Tesla ending Models S and X production",
-    "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-    "source": "Hacker News",
-    "published": "2026-01-28T22:53:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46802867\">Comments</a>"
-  },
-  {
     "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
     "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
     "source": "Hacker News",
     "published": "2026-01-28T20:59:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46801419\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-    "link": "https://github.com/jmuncor/sherlock",
-    "source": "Hacker News",
-    "published": "2026-01-28T18:52:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46799898\">Comments</a>"
-  },
-  {
-    "title": "Mousefood \u2013 Build embedded terminal UIs for microcontrollers",
-    "link": "https://github.com/ratatui/mousefood",
-    "source": "Hacker News",
-    "published": "2026-01-28T17:20:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46798402\">Comments</a>"
   },
   {
     "title": "Airfoil (2024)",
@@ -96,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46795908\">Comments</a>"
   },
   {
-    "title": "Android\u2019s desktop interface leaks",
-    "link": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+    "title": "Show HN: ShapedQL \u2013 A SQL engine for multi-stage ranking and RAG",
+    "link": "https://playground.shaped.ai",
     "source": "Hacker News",
-    "published": "2026-01-28T03:34:45+00:00",
+    "published": "2026-01-27T13:54:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46790740\">Comments</a>"
-  },
-  {
-    "title": "Trinity large: An open 400B sparse MoE model",
-    "link": "https://www.arcee.ai/blog/trinity-large",
-    "source": "Hacker News",
-    "published": "2026-01-28T00:57:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46789561\">Comments</a>"
-  },
-  {
-    "title": "How London became the rest of the world\u2019s startup capital",
-    "link": "https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital",
-    "source": "Hacker News",
-    "published": "2026-01-28T00:16:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46789180\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779922\">Comments</a>"
   },
   {
     "title": "Decompiling Xbox games using PDB debug info",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46753037\">Comments</a>"
   },
   {
-    "title": "Winapp, the Windows App Development CLI",
-    "link": "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/",
+    "title": "Apt-bundle: brew bundle for apt",
+    "link": "https://github.com/apt-bundle/apt-bundle",
     "source": "Hacker News",
-    "published": "2026-01-23T21:28:43+00:00",
+    "published": "2026-01-25T06:34:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46738178\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46751382\">Comments</a>"
+  },
+  {
+    "title": "Building a High-Performance Rotating Bloom Filter in Java",
+    "link": "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf",
+    "source": "Hacker News",
+    "published": "2026-01-25T02:50:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46750220\">Comments</a>"
   },
   {
     "title": "Tea Chemistry (1997)",
