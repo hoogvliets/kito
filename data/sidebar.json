@@ -1,5 +1,37 @@
 [
   {
+    "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
+    "link": "https://docs.pangolin.net/careers/join-us",
+    "source": "Hacker News",
+    "published": "2026-01-30T12:11:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46823544\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Cicada \u2013 a scripting language that integrates with C",
+    "link": "https://github.com/heltilda/cicada",
+    "source": "Hacker News",
+    "published": "2026-01-30T12:07:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46823498\">Comments</a>"
+  },
+  {
+    "title": "Track Your Routine \u2013 Open-source app for task management",
+    "link": "https://github.com/MSF01/TYR",
+    "source": "Hacker News",
+    "published": "2026-01-30T11:52:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46823358\">Comments</a>"
+  },
+  {
+    "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+    "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+    "source": "Hacker News",
+    "published": "2026-01-30T10:14:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46822632\">Comments</a>"
+  },
+  {
     "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
     "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
     "source": "Hacker News",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46821774\">Comments</a>"
   },
   {
-    "title": "How AI Impacts Skill Formation",
-    "link": "https://arxiv.org/abs/2601.20245",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
     "source": "Hacker News",
-    "published": "2026-01-30T07:06:47+00:00",
+    "published": "2026-01-30T06:19:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821360\">Comments</a>"
-  },
-  {
-    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
-    "link": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
-    "source": "Hacker News",
-    "published": "2026-01-30T07:00:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821326\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821134\">Comments</a>"
   },
   {
     "title": "How AI assistance impacts the formation of coding skills",
@@ -38,14 +62,6 @@
     "published": "2026-01-30T05:14:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46820783\">Comments</a>"
-  },
-  {
-    "title": "The Dank Case for Scrolling Window Managers",
-    "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
-    "source": "Hacker News",
-    "published": "2026-01-30T04:17:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46820468\">Comments</a>"
   },
   {
     "title": "Moltbook",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46816357\">Comments</a>"
   },
   {
-    "title": "Flameshot",
-    "link": "https://github.com/flameshot-org/flameshot",
-    "source": "Hacker News",
-    "published": "2026-01-29T19:30:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46815297\">Comments</a>"
-  },
-  {
     "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
     "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
     "source": "Hacker News",
@@ -128,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810282\">Comments</a>"
   },
   {
-    "title": "AGENTS.md outperforms skills in our agent evals",
-    "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-    "source": "Hacker News",
-    "published": "2026-01-29T13:08:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46809708\">Comments</a>"
-  },
-  {
-    "title": "Nannou \u2013 A creative coding framework for Rust",
-    "link": "https://github.com/nannou-org/nannou",
-    "source": "Hacker News",
-    "published": "2026-01-27T18:27:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46784130\">Comments</a>"
-  },
-  {
     "title": "Doin' It with a 555: One Chip to Rule Them All",
     "link": "https://aashvik.com/posts/555-revolution/",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-01-27T08:03:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46776848\">Comments</a>"
+  },
+  {
+    "title": "The Engineer who invented the Mars Rover Suspension in his garage [video]",
+    "link": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
+    "source": "Hacker News",
+    "published": "2026-01-27T00:08:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46773655\">Comments</a>"
   }
 ]
