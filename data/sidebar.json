@@ -1,19 +1,19 @@
 [
   {
-    "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+    "title": "Two days of oatmeal reduce cholesterol level",
+    "link": "https://www.uni-bonn.de/en/news/017-2026",
+    "source": "Hacker News",
+    "published": "2026-01-30T02:16:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46819809\">Comments</a>"
+  },
+  {
+    "title": "Software is mostly all you need",
     "link": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
     "source": "Hacker News",
     "published": "2026-01-29T23:06:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46818154\">Comments</a>"
-  },
-  {
-    "title": "Employers, please use postmarked letters for job applications",
-    "link": "https://soapstone.mradford.com/employers-use-letters-for-job-applications/",
-    "source": "Hacker News",
-    "published": "2026-01-29T22:49:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46817963\">Comments</a>"
   },
   {
     "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
@@ -24,12 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46817813\">Comments</a>"
   },
   {
-    "title": "Cutting Up Curved Things (With Math)",
+    "title": "Cutting Up Curved Things",
     "link": "https://campedersen.com/tessellation",
     "source": "Hacker News",
     "published": "2026-01-29T22:34:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46817764\">Comments</a>"
+  },
+  {
+    "title": "Backseat Software",
+    "link": "https://blog.mikeswanson.com/backseat-software/",
+    "source": "Hacker News",
+    "published": "2026-01-29T22:10:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46817452\">Comments</a>"
   },
   {
     "title": "The WiFi only works when it's raining (2024)",
@@ -56,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46814743\">Comments</a>"
   },
   {
-    "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
-    "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+    "title": "My Mom and Dr. DeepSeek (2025)",
+    "link": "https://restofworld.org/2025/ai-chatbot-china-sick/",
     "source": "Hacker News",
-    "published": "2026-01-29T18:48:09+00:00",
+    "published": "2026-01-29T18:45:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814614\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814569\">Comments</a>"
   },
   {
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46812608\">Comments</a>"
   },
   {
-    "title": "Drug trio found to block tumour resistance in pancreatic cancer",
-    "link": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
-    "source": "Hacker News",
-    "published": "2026-01-29T16:11:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812159\">Comments</a>"
-  },
-  {
     "title": "Is the RAM shortage killing small VPS hosts?",
     "link": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
     "source": "Hacker News",
@@ -96,7 +96,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46811664\">Comments</a>"
   },
   {
-    "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+    "title": "Deep dive into Turso, the \u201cSQLite rewrite in Rust\u201d",
+    "link": "https://kerkour.com/turso-sqlite",
+    "source": "Hacker News",
+    "published": "2026-01-29T14:51:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810950\">Comments</a>"
+  },
+  {
+    "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
     "link": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
     "source": "Hacker News",
     "published": "2026-01-29T14:43:07+00:00",
@@ -128,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810027\">Comments</a>"
   },
   {
-    "title": "Compressed Agents.md > Agent Skills",
+    "title": "AGENTS.md outperforms skills in our agent evals",
     "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
     "source": "Hacker News",
     "published": "2026-01-29T13:08:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46809708\">Comments</a>"
+  },
+  {
+    "title": "CISA\u2019s acting head uploaded sensitive files into public version of ChatGPT",
+    "link": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+    "source": "Hacker News",
+    "published": "2026-01-27T21:02:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46786672\">Comments</a>"
   },
   {
     "title": "The Value of Things",
@@ -142,21 +158,5 @@
     "published": "2026-01-25T10:31:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46752754\">Comments</a>"
-  },
-  {
-    "title": "Where to Sleep in LAX",
-    "link": "https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax",
-    "source": "Hacker News",
-    "published": "2026-01-23T17:17:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46735023\">Comments</a>"
-  },
-  {
-    "title": "The Rise and Impending Fall of the Dental Cavity",
-    "link": "https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the",
-    "source": "Hacker News",
-    "published": "2026-01-23T10:32:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46730826\">Comments</a>"
   }
 ]
