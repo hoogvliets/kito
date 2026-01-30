@@ -1,5 +1,45 @@
 [
   {
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "source": "Hacker News",
+    "published": "2026-01-30T08:09:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821774\">Comments</a>"
+  },
+  {
+    "title": "How AI Impacts Skill Formation",
+    "link": "https://arxiv.org/abs/2601.20245",
+    "source": "Hacker News",
+    "published": "2026-01-30T07:06:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821360\">Comments</a>"
+  },
+  {
+    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+    "link": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
+    "source": "Hacker News",
+    "published": "2026-01-30T07:00:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46821326\">Comments</a>"
+  },
+  {
+    "title": "How AI assistance impacts the formation of coding skills",
+    "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "source": "Hacker News",
+    "published": "2026-01-30T05:41:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46820924\">Comments</a>"
+  },
+  {
+    "title": "OpenClaw \u2013 Moltbot Renamed Again",
+    "link": "https://openclaw.ai/blog/introducing-openclaw",
+    "source": "Hacker News",
+    "published": "2026-01-30T05:14:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46820783\">Comments</a>"
+  },
+  {
     "title": "The Dank Case for Scrolling Window Managers",
     "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
     "source": "Hacker News",
@@ -40,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46817452\">Comments</a>"
   },
   {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "source": "Hacker News",
+    "published": "2026-01-29T21:02:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46816539\">Comments</a>"
+  },
+  {
     "title": "The WiFi only works when it's raining (2024)",
     "link": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
     "source": "Hacker News",
@@ -64,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46814743\">Comments</a>"
   },
   {
-    "title": "My Mom and Dr. DeepSeek (2025)",
-    "link": "https://restofworld.org/2025/ai-chatbot-china-sick/",
-    "source": "Hacker News",
-    "published": "2026-01-29T18:45:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814569\">Comments</a>"
-  },
-  {
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "source": "Hacker News",
     "published": "2026-01-29T17:02:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46812933\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: AgentMail (YC S25) \u2013 An API that gives agents their own email inboxes",
-    "link": "https://news.ycombinator.com/item?id=46812608",
-    "source": "Hacker News",
-    "published": "2026-01-29T16:42:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812608\">Comments</a>"
-  },
-  {
-    "title": "Is the RAM shortage killing small VPS hosts?",
-    "link": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
-    "source": "Hacker News",
-    "published": "2026-01-29T15:42:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46811664\">Comments</a>"
   },
   {
     "title": "Claude Code daily benchmarks for degradation tracking",
@@ -104,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46810282\">Comments</a>"
   },
   {
-    "title": "A lot of population numbers are fake",
-    "link": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
-    "source": "Hacker News",
-    "published": "2026-01-29T13:36:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46810027\">Comments</a>"
-  },
-  {
     "title": "AGENTS.md outperforms skills in our agent evals",
     "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
     "source": "Hacker News",
     "published": "2026-01-29T13:08:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46809708\">Comments</a>"
-  },
-  {
-    "title": "CISA\u2019s acting head uploaded sensitive files into public version of ChatGPT",
-    "link": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
-    "source": "Hacker News",
-    "published": "2026-01-27T21:02:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46786672\">Comments</a>"
   },
   {
     "title": "Nannou \u2013 A creative coding framework for Rust",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46780891\">Comments</a>"
   },
   {
-    "title": "The Home Computer Hybrids: Atari, TI, and the FCC",
-    "link": "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/",
+    "title": "Software Pump and Dump",
+    "link": "http://tautvilas.lt/software-pump-and-dump/",
     "source": "Hacker News",
-    "published": "2026-01-26T19:35:30+00:00",
+    "published": "2026-01-27T08:03:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46770411\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ourguide \u2013 OS wide task guidance system that shows you where to click",
-    "link": "https://ourguide.ai",
-    "source": "Hacker News",
-    "published": "2026-01-26T18:19:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46769422\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46776848\">Comments</a>"
   }
 ]
