@@ -1,11 +1,43 @@
 [
   {
-    "title": "Swift is a more convenient Rust",
+    "title": "Apple-1 Computer Prototype Board #0 sold for $2.75M",
+    "link": "https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/",
+    "source": "Hacker News",
+    "published": "2026-02-01T02:25:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46843037\">Comments</a>"
+  },
+  {
+    "title": "List animals until failure",
+    "link": "https://rose.systems/animalist/",
+    "source": "Hacker News",
+    "published": "2026-02-01T01:03:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46842603\">Comments</a>"
+  },
+  {
+    "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
+    "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+    "source": "Hacker News",
+    "published": "2026-02-01T00:00:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46842178\">Comments</a>"
+  },
+  {
+    "title": "Swift is a more convenient Rust (2023)",
     "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
     "source": "Hacker News",
     "published": "2026-01-31T22:05:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46841374\">Comments</a>"
+  },
+  {
+    "title": "Best of Moltbook",
+    "link": "https://www.astralcodexten.com/p/best-of-moltbook",
+    "source": "Hacker News",
+    "published": "2026-01-31T21:16:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46840938\">Comments</a>"
   },
   {
     "title": "Generative AI and Wikipedia editing: What we learned in 2025",
@@ -16,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46840924\">Comments</a>"
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer",
+    "title": "Outsourcing thinking",
+    "link": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
     "source": "Hacker News",
-    "published": "2026-01-31T21:00:56+00:00",
+    "published": "2026-01-31T21:06:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46840801\">Comments</a>"
-  },
-  {
-    "title": "The Spacecraft That Wouldn't Die",
-    "link": "https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera",
-    "source": "Hacker News",
-    "published": "2026-01-31T20:56:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46840753\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46840865\">Comments</a>"
   },
   {
     "title": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
@@ -40,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46840698\">Comments</a>"
   },
   {
-    "title": "In Praise Of \u2013Dry-Run",
+    "title": "In praise of \u2013dry-run",
     "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
     "source": "Hacker News",
     "published": "2026-01-31T20:42:13+00:00",
@@ -64,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46840219\">Comments</a>"
   },
   {
-    "title": "Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland",
-    "link": "https://github.com/noctalia-dev/noctalia-shell",
-    "source": "Hacker News",
-    "published": "2026-01-31T19:58:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46840179\">Comments</a>"
-  },
-  {
     "title": "Show HN: Minimal \u2013 Open-Source Community driven Hardened Container Images",
     "link": "https://github.com/rtvkiz/minimal",
     "source": "Hacker News",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46839215\">Comments</a>"
   },
   {
-    "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
-    "link": "https://genode.org/about/index",
-    "source": "Hacker News",
-    "published": "2026-01-31T18:03:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46838981\">Comments</a>"
-  },
-  {
     "title": "Mobile carriers can get your GPS location",
     "link": "https://an.dywa.ng/carrier-gnss.html",
     "source": "Hacker News",
@@ -104,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46838597\">Comments</a>"
   },
   {
-    "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
+    "title": "Finland looks to introduce Australia-style ban on social media",
     "link": "https://yle.fi/a/74-20207494",
     "source": "Hacker News",
     "published": "2026-01-31T17:06:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46838417\">Comments</a>"
-  },
-  {
-    "title": "Giving up upstream-ing my patches and feel free to pick them up",
-    "link": "https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html",
-    "source": "Hacker News",
-    "published": "2026-01-31T10:53:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46835454\">Comments</a>"
   },
   {
     "title": "Wikipedia: Sandbox",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46815209\">Comments</a>"
   },
   {
+    "title": "pg_tracing: Distributed Tracing for PostgreSQL",
+    "link": "https://github.com/DataDog/pg_tracing",
+    "source": "Hacker News",
+    "published": "2026-01-29T00:36:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46804009\">Comments</a>"
+  },
+  {
     "title": "Scientist who helped eradicate smallpox dies at age 89",
     "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46793313\">Comments</a>"
   },
   {
-    "title": "CPython Internals Explained",
-    "link": "https://github.com/zpoint/CPython-Internals",
+    "title": "Opentrees.org (2024)",
+    "link": "https://opentrees.org/#pos=1/-37.8/145",
     "source": "Hacker News",
-    "published": "2026-01-27T14:07:37+00:00",
+    "published": "2026-01-27T21:33:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46780086\">Comments</a>"
-  },
-  {
-    "title": "Writing a .NET Garbage Collector in C# \u2013 Part 6: Mark and Sweep",
-    "link": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
-    "source": "Hacker News",
-    "published": "2026-01-27T12:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46779061\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46787211\">Comments</a>"
   }
 ]
