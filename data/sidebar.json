@@ -1,19 +1,83 @@
 [
   {
+    "title": "The Codex App",
+    "link": "https://openai.com/index/introducing-the-codex-app/",
+    "source": "Hacker News",
+    "published": "2026-02-02T18:02:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>"
+  },
+  {
+    "title": "Advancing AI Benchmarking with Game Arena",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+    "source": "Hacker News",
+    "published": "2026-02-02T17:49:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>"
+  },
+  {
+    "title": "Linux From Scratch Ends SysVinit Support",
+    "link": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+    "source": "Hacker News",
+    "published": "2026-02-02T17:45:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858829\">Comments</a>"
+  },
+  {
+    "title": "Being sane in insane places (1973) [pdf]",
+    "link": "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF",
+    "source": "Hacker News",
+    "published": "2026-02-02T17:43:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858802\">Comments</a>"
+  },
+  {
+    "title": "Todd C. Miller \u2013 sudo Maintainer for over 30 years",
+    "link": "https://www.millert.dev/",
+    "source": "Hacker News",
+    "published": "2026-02-02T17:25:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858577\">Comments</a>"
+  },
+  {
+    "title": "Hacking Moltbook: The AI Social Network Any Human Can Control",
+    "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+    "source": "Hacker News",
+    "published": "2026-02-02T16:08:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857615\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (February 2026)",
+    "link": "https://news.ycombinator.com/item?id=46857488",
+    "source": "Hacker News",
+    "published": "2026-02-02T16:01:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857488\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (February 2026)",
+    "link": "https://news.ycombinator.com/item?id=46857487",
+    "source": "Hacker News",
+    "published": "2026-02-02T16:01:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857487\">Comments</a>"
+  },
+  {
+    "title": "Kernighan on Programming",
+    "link": "https://news.ycombinator.com/item?id=46857444",
+    "source": "Hacker News",
+    "published": "2026-02-02T15:57:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857444\">Comments</a>"
+  },
+  {
     "title": "Geologists may have solved mystery of Green River's 'uphill' route",
     "link": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
     "source": "Hacker News",
     "published": "2026-02-02T13:29:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46855803\">Comments</a>"
-  },
-  {
-    "title": "MaliciousCorgi: AI Extensions send your code to China",
-    "link": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
-    "source": "Hacker News",
-    "published": "2026-02-02T12:59:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855527\">Comments</a>"
   },
   {
     "title": "Nano-vLLM: How a vLLM-style inference engine works",
@@ -32,52 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>"
   },
   {
-    "title": "Termux",
-    "link": "https://github.com/termux/termux-app",
-    "source": "Hacker News",
-    "published": "2026-02-02T11:03:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>"
-  },
-  {
     "title": "My fast zero-allocation webserver using OxCaml",
     "link": "https://anil.recoil.org/notes/oxcaml-httpz",
     "source": "Hacker News",
     "published": "2026-02-02T10:45:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>"
-  },
-  {
-    "title": "Library of Juggling",
-    "link": "https://libraryofjuggling.com/",
-    "source": "Hacker News",
-    "published": "2026-02-02T07:58:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46853552\">Comments</a>"
-  },
-  {
-    "title": "Apple's MacBook Pro DFU port documentation is wrong",
-    "link": "https://lapcatsoftware.com/articles/2026/2/1.html",
-    "source": "Hacker News",
-    "published": "2026-02-02T03:29:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46852096\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Wikipedia as a doomscrollable social media feed",
-    "link": "https://xikipedia.org",
-    "source": "Hacker News",
-    "published": "2026-02-02T00:12:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850803\">Comments</a>"
-  },
-  {
-    "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
-    "link": "https://github.com/gavrielc/nanoclaw",
-    "source": "Hacker News",
-    "published": "2026-02-01T22:49:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850205\">Comments</a>"
   },
   {
     "title": "Defeating a 40-year-old copy protection dongle",
@@ -96,44 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46849258\">Comments</a>"
   },
   {
-    "title": "Ian's Shoelace Site",
-    "link": "https://www.fieggen.com/shoelace/",
+    "title": "IsoCoaster \u2013 Theme Park Builder",
+    "link": "https://iso-coaster.com/",
     "source": "Hacker News",
-    "published": "2026-02-01T18:38:04+00:00",
+    "published": "2026-01-30T17:11:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46848231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46826991\">Comments</a>"
   },
   {
-    "title": "Apple I Advertisement (1976)",
-    "link": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+    "title": "Solvingn the Santa Claus concurrency puzzle with a model checker",
+    "link": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
     "source": "Hacker News",
-    "published": "2026-02-01T17:36:57+00:00",
+    "published": "2026-01-30T13:55:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46847780\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46824398\">Comments</a>"
   },
   {
-    "title": "Adventure Game Studio: OSS software for creating adventure games",
-    "link": "https://www.adventuregamestudio.co.uk/",
+    "title": "They lied to you. Building software is hard",
+    "link": "https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard",
     "source": "Hacker News",
-    "published": "2026-02-01T13:56:56+00:00",
+    "published": "2026-01-30T12:33:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46846252\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-    "link": "https://github.com/rustrum/apate",
-    "source": "Hacker News",
-    "published": "2026-02-01T10:29:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845097\">Comments</a>"
-  },
-  {
-    "title": "Hypergrowth isn\u2019t always easy",
-    "link": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
-    "source": "Hacker News",
-    "published": "2026-01-30T21:17:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46830026\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46823725\">Comments</a>"
   },
   {
     "title": "4x faster network file sync with rclone (vs rsync) (2025)",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46820142\">Comments</a>"
   },
   {
-    "title": "Ratchets in software development (2021)",
-    "link": "https://qntm.org/ratchet",
+    "title": "Valanza \u2013 my Unix way for weight tracking and anlysis",
+    "link": "https://github.com/paolomarrone/valanza",
     "source": "Hacker News",
-    "published": "2026-01-29T18:31:48+00:00",
+    "published": "2026-01-29T15:08:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814340\">Comments</a>"
-  },
-  {
-    "title": "Best Gas Masks",
-    "link": "https://www.theverge.com/policy/868571/best-gas-masks",
-    "source": "Hacker News",
-    "published": "2026-01-29T18:01:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46813867\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46811207\">Comments</a>"
   }
 ]
