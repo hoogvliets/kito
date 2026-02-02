@@ -1,11 +1,51 @@
 [
   {
-    "title": "1-Click RCE to steal your Moltbot data and keys",
-    "link": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
+    "title": "Time Machine-style Backups with rsync (2018)",
+    "link": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
     "source": "Hacker News",
-    "published": "2026-02-01T19:47:47+00:00",
+    "published": "2026-02-02T00:00:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46848769\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850709\">Comments</a>"
+  },
+  {
+    "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
+    "link": "https://github.com/gavrielc/nanoclaw",
+    "source": "Hacker News",
+    "published": "2026-02-01T22:49:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850205\">Comments</a>"
+  },
+  {
+    "title": "Treasures found on HS2 route stored in secret warehouse",
+    "link": "https://www.bbc.com/news/articles/c93v21q5xdvo",
+    "source": "Hacker News",
+    "published": "2026-02-01T22:14:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849926\">Comments</a>"
+  },
+  {
+    "title": "Defeating a 40-year-old copy protection dongle",
+    "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+    "source": "Hacker News",
+    "published": "2026-02-01T21:30:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849567\">Comments</a>"
+  },
+  {
+    "title": "My thousand dollar iPhone can't do math",
+    "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+    "source": "Hacker News",
+    "published": "2026-02-01T20:51:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849258\">Comments</a>"
+  },
+  {
+    "title": "Building Your Own Efficient uint128 in C++",
+    "link": "https://solidean.com/blog/2026/building-your-own-u128/",
+    "source": "Hacker News",
+    "published": "2026-02-01T20:40:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849154\">Comments</a>"
   },
   {
     "title": "TIL: Apple Broke Time Machine Again on Tahoe",
@@ -32,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46848260\">Comments</a>"
   },
   {
-    "title": "Towards a science of scaling agent systems: When and why agent systems work",
-    "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-    "source": "Hacker News",
-    "published": "2026-02-01T18:00:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46847958\">Comments</a>"
-  },
-  {
     "title": "A Crisis comes to Wordle: Reusing old words",
     "link": "https://forkingmad.blog/wordle-crisis/",
     "source": "Hacker News",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46847780\">Comments</a>"
   },
   {
-    "title": "English professors double down on requiring printed copies of readings",
-    "link": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
-    "source": "Hacker News",
-    "published": "2026-02-01T15:58:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46847039\">Comments</a>"
-  },
-  {
     "title": "Adventure Game Studio: OSS software for creating adventure games",
     "link": "https://www.adventuregamestudio.co.uk/",
     "source": "Hacker News",
     "published": "2026-02-01T13:56:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46846252\">Comments</a>"
-  },
-  {
-    "title": "Amiga Unix (Amix)",
-    "link": "https://www.amigaunix.com/doku.php/home",
-    "source": "Hacker News",
-    "published": "2026-02-01T10:57:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845244\">Comments</a>"
-  },
-  {
-    "title": "FOSDEM 2026 \u2013 Open-Source Conference in Brussels \u2013 Day#1 Recap",
-    "link": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-    "source": "Hacker News",
-    "published": "2026-02-01T10:30:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845103\">Comments</a>"
   },
   {
     "title": "Netbird \u2013 Open Source Zero Trust Networking",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46844822\">Comments</a>"
   },
   {
-    "title": "The Book of PF, 4th edition",
-    "link": "https://nostarch.com/book-of-pf-4th-edition",
-    "source": "Hacker News",
-    "published": "2026-02-01T07:50:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844350\">Comments</a>"
-  },
-  {
     "title": "Efficient String Compression for Modern Database Systems",
     "link": "https://cedardb.com/blog/string_compression/",
     "source": "Hacker News",
@@ -128,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46820874\">Comments</a>"
   },
   {
-    "title": "Show HN: \u00c6THRA \u2013 Writing Music as Code",
-    "link": "https://news.ycombinator.com/item?id=46820691",
+    "title": "Founding is a snowball",
+    "link": "https://blog.bawolf.com/p/founding-is-a-snowball",
     "source": "Hacker News",
-    "published": "2026-01-30T04:59:37+00:00",
+    "published": "2026-01-29T18:46:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46820691\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814581\">Comments</a>"
   },
   {
     "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46812795\">Comments</a>"
   },
   {
+    "title": "Troublemaker: The fierce, unruly life of Jessica Mitford",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things",
+    "source": "Hacker News",
+    "published": "2026-01-28T20:56:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46801383\">Comments</a>"
+  },
+  {
     "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
     "link": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
     "source": "Hacker News",
     "published": "2026-01-27T20:57:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46786575\">Comments</a>"
-  },
-  {
-    "title": "Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.",
-    "link": "https://collections.leventhalmap.org/search/commonwealth:3f463773q",
-    "source": "Hacker News",
-    "published": "2026-01-27T16:44:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46782462\">Comments</a>"
   }
 ]
