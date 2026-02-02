@@ -1,11 +1,59 @@
 [
   {
-    "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
-    "link": "https://www.wired.com/story/the-red-bull-leaks/",
+    "title": "EU must become a 'genuine federation' to avoid deindustrialisation and decline",
+    "link": "https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says",
     "source": "Hacker News",
-    "published": "2026-02-02T05:10:59+00:00",
+    "published": "2026-02-02T12:08:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46852660\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855059\">Comments</a>"
+  },
+  {
+    "title": "Applications where agents are first-class citizens",
+    "link": "https://every.to/guides/agent-native",
+    "source": "Hacker News",
+    "published": "2026-02-02T11:59:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855003\">Comments</a>"
+  },
+  {
+    "title": "Claude Code is suddenly everywhere inside Microsoft",
+    "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+    "source": "Hacker News",
+    "published": "2026-02-02T11:58:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>"
+  },
+  {
+    "title": "Microsoft is walking back Windows 11's AI overload",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+    "source": "Hacker News",
+    "published": "2026-02-02T11:52:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46854951\">Comments</a>"
+  },
+  {
+    "title": "Termux",
+    "link": "https://github.com/termux/termux-app",
+    "source": "Hacker News",
+    "published": "2026-02-02T11:03:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>"
+  },
+  {
+    "title": "My (very) fast zero-allocation webserver using OxCaml",
+    "link": "https://anil.recoil.org/notes/oxcaml-httpz",
+    "source": "Hacker News",
+    "published": "2026-02-02T10:45:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>"
+  },
+  {
+    "title": "EU launches government satcom program in sovereignty push",
+    "link": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+    "source": "Hacker News",
+    "published": "2026-02-02T08:59:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46853888\">Comments</a>"
   },
   {
     "title": "Apple's MacBook Pro DFU port documentation is wrong",
@@ -30,22 +78,6 @@
     "published": "2026-02-02T00:12:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46850803\">Comments</a>"
-  },
-  {
-    "title": "Time Machine-style Backups with rsync (2018)",
-    "link": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
-    "source": "Hacker News",
-    "published": "2026-02-02T00:00:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850709\">Comments</a>"
-  },
-  {
-    "title": "Two kinds of AI users are emerging",
-    "link": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
-    "source": "Hacker News",
-    "published": "2026-02-01T23:45:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46850588\">Comments</a>"
   },
   {
     "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
@@ -80,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46849258\">Comments</a>"
   },
   {
-    "title": "Building Your Own Efficient uint128 in C++",
-    "link": "https://solidean.com/blog/2026/building-your-own-u128/",
-    "source": "Hacker News",
-    "published": "2026-02-01T20:40:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849154\">Comments</a>"
-  },
-  {
     "title": "Ian's Shoelace Site",
     "link": "https://www.fieggen.com/shoelace/",
     "source": "Hacker News",
@@ -112,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46846252\">Comments</a>"
   },
   {
+    "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
+    "link": "https://github.com/rustrum/apate",
+    "source": "Hacker News",
+    "published": "2026-02-01T10:29:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845097\">Comments</a>"
+  },
+  {
     "title": "Contracts in Nix",
     "link": "https://sraka.xyz/posts/contracts.html",
     "source": "Hacker News",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46844466\">Comments</a>"
   },
   {
-    "title": "Efficient String Compression for Modern Database Systems",
-    "link": "https://cedardb.com/blog/string_compression/",
-    "source": "Hacker News",
-    "published": "2026-01-30T16:02:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46826011\">Comments</a>"
-  },
-  {
-    "title": "Rev Up the Viral Factories",
-    "link": "https://www.science.org/content/blog-post/rev-viral-factories",
-    "source": "Hacker News",
-    "published": "2026-01-30T11:02:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46822961\">Comments</a>"
-  },
-  {
-    "title": "Founding is a snowball",
-    "link": "https://blog.bawolf.com/p/founding-is-a-snowball",
-    "source": "Hacker News",
-    "published": "2026-01-29T18:46:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46814581\">Comments</a>"
-  },
-  {
     "title": "Ratchets in Software Development",
     "link": "https://qntm.org/ratchet",
     "source": "Hacker News",
     "published": "2026-01-29T18:31:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46814340\">Comments</a>"
-  },
-  {
-    "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
-    "link": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-    "source": "Hacker News",
-    "published": "2026-01-29T16:54:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46812795\">Comments</a>"
   }
 ]
