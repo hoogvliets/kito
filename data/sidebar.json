@@ -1,11 +1,99 @@
 [
   {
-    "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
-    "link": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+    "title": "Xcode 26.3 unlocks the power of agentic coding",
+    "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
     "source": "Hacker News",
-    "published": "2026-02-03T14:35:25+00:00",
+    "published": "2026-02-03T18:04:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871473\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46874619\">Comments</a>"
+  },
+  {
+    "title": "I made 20 GDPR deletion requests. 12 were ignored",
+    "link": "https://nikolak.com/gdpr-failure/",
+    "source": "Hacker News",
+    "published": "2026-02-03T17:48:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46874345\">Comments</a>"
+  },
+  {
+    "title": "Deno Sandbox",
+    "link": "https://deno.com/blog/introducing-deno-sandbox",
+    "source": "Hacker News",
+    "published": "2026-02-03T17:33:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46874097\">Comments</a>"
+  },
+  {
+    "title": "Defining Safe Hardware Design [pdf]",
+    "link": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
+    "source": "Hacker News",
+    "published": "2026-02-03T17:12:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873790\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
+    "link": "https://octosphere.social/",
+    "source": "Hacker News",
+    "published": "2026-02-03T17:11:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873782\">Comments</a>"
+  },
+  {
+    "title": "221 Cannon Road Is Not for Sale",
+    "link": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:56:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873574\">Comments</a>"
+  },
+  {
+    "title": "Show HN: PII-Shield \u2013 Log Sanitization Sidecar with JSON Integrity (Go, Entropy)",
+    "link": "https://github.com/aragossa/pii-shield",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:40:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873308\">Comments</a>"
+  },
+  {
+    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+    "link": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:39:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873294\">Comments</a>"
+  },
+  {
+    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+    "link": "https://github.com/j178/prek",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:29:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873138\">Comments</a>"
+  },
+  {
+    "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
+    "link": "https://github.com/ambonvik/cimba",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:09:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872818\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Modelence (YC S25) \u2013 App Builder with TypeScript / MongoDB Framework",
+    "link": "https://news.ycombinator.com/item?id=46872733",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:03:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872733\">Comments</a>"
+  },
+  {
+    "title": "Qwen3-Coder-Next",
+    "link": "https://qwen.ai/blog?id=qwen3-coder-next",
+    "source": "Hacker News",
+    "published": "2026-02-03T16:01:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872706\">Comments</a>"
   },
   {
     "title": "Show HN: Sandboxing untrusted code using WebAssembly",
@@ -16,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46871387\">Comments</a>"
   },
   {
-    "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
-    "link": "https://github.com/RAIL-Suite/RAIL",
-    "source": "Hacker News",
-    "published": "2026-02-03T14:16:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871251\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Is there anyone here who still uses slide rules?",
-    "link": "https://news.ycombinator.com/item?id=46871179",
-    "source": "Hacker News",
-    "published": "2026-02-03T14:10:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871179\">Comments</a>"
-  },
-  {
     "title": "Agent Skills",
     "link": "https://agentskills.io/home",
     "source": "Hacker News",
     "published": "2026-02-03T14:09:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46871173\">Comments</a>"
-  },
-  {
-    "title": "Show HN: difi \u2013 A Git diff TUI with Neovim integration (written in Go)",
-    "link": "https://github.com/oug-t/difi",
-    "source": "Hacker News",
-    "published": "2026-02-03T13:47:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46870917\">Comments</a>"
   },
   {
     "title": "Bunny Database",
@@ -72,76 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>"
   },
   {
-    "title": "Show HN: Safe-now.live \u2013 Ultra-light emergency info site (<10KB)",
-    "link": "https://safe-now.live",
-    "source": "Hacker News",
-    "published": "2026-02-03T09:06:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868479\">Comments</a>"
-  },
-  {
-    "title": "LNAI \u2013 Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-    "link": "https://github.com/KrystianJonca/lnai",
-    "source": "Hacker News",
-    "published": "2026-02-03T08:45:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868318\">Comments</a>"
-  },
-  {
     "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
     "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
     "source": "Hacker News",
     "published": "2026-02-03T04:33:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>"
-  },
-  {
-    "title": "Banning lead in gas worked. The proof is in our hair",
-    "link": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-    "source": "Hacker News",
-    "published": "2026-02-03T01:52:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46865275\">Comments</a>"
-  },
-  {
-    "title": "How does misalignment scale with model intelligence and task complexity?",
-    "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-    "source": "Hacker News",
-    "published": "2026-02-03T00:28:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>"
-  },
-  {
-    "title": "GitHub experience various partial-outages/degradations",
-    "link": "https://www.githubstatus.com?todayis=2026-02-02",
-    "source": "Hacker News",
-    "published": "2026-02-02T21:28:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46861842\">Comments</a>"
-  },
-  {
-    "title": "Anki ownership transferred to AnkiHub",
-    "link": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-    "source": "Hacker News",
-    "published": "2026-02-02T20:48:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46861313\">Comments</a>"
-  },
-  {
-    "title": "The Codex App",
-    "link": "https://openai.com/index/introducing-the-codex-app/",
-    "source": "Hacker News",
-    "published": "2026-02-02T18:02:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>"
-  },
-  {
-    "title": "Todd C. Miller \u2013 Sudo maintainer for over 30 years",
-    "link": "https://www.millert.dev/",
-    "source": "Hacker News",
-    "published": "2026-02-02T17:25:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858577\">Comments</a>"
   },
   {
     "title": "Heritability of intrinsic human life span is about 50%",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845650\">Comments</a>"
   },
   {
-    "title": "See how many words you have written in Hacker News comments",
-    "link": "https://serjaimelannister.github.io/hn-words/",
+    "title": "The Everdeck: A Universal Card System (2019)",
+    "link": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
     "source": "Hacker News",
-    "published": "2026-01-30T19:54:52+00:00",
+    "published": "2026-01-28T14:38:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46829029\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46795961\">Comments</a>"
   }
 ]
