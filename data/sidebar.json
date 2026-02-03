@@ -1,6 +1,62 @@
 [
   {
-    "title": "Emerge Career (YC S22) Is Hiring a Founding Product Designer",
+    "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+    "link": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+    "source": "Hacker News",
+    "published": "2026-02-03T14:35:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871473\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Sandboxing untrusted code using WebAssembly",
+    "link": "https://github.com/mavdol/capsule",
+    "source": "Hacker News",
+    "published": "2026-02-03T14:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871387\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
+    "link": "https://github.com/RAIL-Suite/RAIL",
+    "source": "Hacker News",
+    "published": "2026-02-03T14:16:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871251\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Is there anyone here who still uses slide rules?",
+    "link": "https://news.ycombinator.com/item?id=46871179",
+    "source": "Hacker News",
+    "published": "2026-02-03T14:10:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871179\">Comments</a>"
+  },
+  {
+    "title": "Agent Skills",
+    "link": "https://agentskills.io/home",
+    "source": "Hacker News",
+    "published": "2026-02-03T14:09:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46871173\">Comments</a>"
+  },
+  {
+    "title": "Show HN: difi \u2013 A Git diff TUI with Neovim integration (written in Go)",
+    "link": "https://github.com/oug-t/difi",
+    "source": "Hacker News",
+    "published": "2026-02-03T13:47:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46870917\">Comments</a>"
+  },
+  {
+    "title": "Bunny Database",
+    "link": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+    "source": "Hacker News",
+    "published": "2026-02-03T12:13:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46870015\">Comments</a>"
+  },
+  {
+    "title": "Emerge Career (YC S22) is hiring a product designer",
     "link": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
     "source": "Hacker News",
     "published": "2026-02-03T12:00:23+00:00",
@@ -14,14 +70,6 @@
     "published": "2026-02-03T09:37:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>"
-  },
-  {
-    "title": "Rentahuman \u2013 The Meatspace Layer for AI",
-    "link": "https://rentahuman.ai",
-    "source": "Hacker News",
-    "published": "2026-02-03T09:30:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868675\">Comments</a>"
   },
   {
     "title": "Show HN: Safe-now.live \u2013 Ultra-light emergency info site (<10KB)",
@@ -40,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868318\">Comments</a>"
   },
   {
-    "title": "Show HN: Minikv \u2013 Distributed key-value and object store in Rust (Raft, S3 API)",
-    "link": "https://github.com/whispem/minikv",
-    "source": "Hacker News",
-    "published": "2026-02-03T08:00:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867947\">Comments</a>"
-  },
-  {
     "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
     "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
     "source": "Hacker News",
@@ -56,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>"
   },
   {
+    "title": "Banning lead in gas worked. The proof is in our hair",
+    "link": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+    "source": "Hacker News",
+    "published": "2026-02-03T01:52:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46865275\">Comments</a>"
+  },
+  {
     "title": "How does misalignment scale with model intelligence and task complexity?",
     "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
     "source": "Hacker News",
     "published": "2026-02-03T00:28:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>"
-  },
-  {
-    "title": "xAI joins SpaceX",
-    "link": "https://www.spacex.com/updates#xai-joins-spacex",
-    "source": "Hacker News",
-    "published": "2026-02-02T21:51:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46862170\">Comments</a>"
   },
   {
     "title": "GitHub experience various partial-outages/degradations",
@@ -104,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46858577\">Comments</a>"
   },
   {
-    "title": "Hacking Moltbook",
-    "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+    "title": "Heritability of intrinsic human life span is about 50%",
+    "link": "https://www.science.org/doi/10.1126/science.adz1187",
     "source": "Hacker News",
-    "published": "2026-02-02T16:08:36+00:00",
+    "published": "2026-02-01T12:13:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857615\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Who is hiring? (February 2026)",
-    "link": "https://news.ycombinator.com/item?id=46857488",
-    "source": "Hacker News",
-    "published": "2026-02-02T16:01:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46857488\">Comments</a>"
-  },
-  {
-    "title": "Archive.today is directing a DDoS attack against my blog?",
-    "link": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-    "source": "Hacker News",
-    "published": "2026-02-01T05:11:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46843805\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845650\">Comments</a>"
   },
   {
     "title": "See how many words you have written in Hacker News comments",
@@ -134,29 +158,5 @@
     "published": "2026-01-30T19:54:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46829029\">Comments</a>"
-  },
-  {
-    "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
-    "link": "https://tamikothiel.com/cm/cm-tshirt.html",
-    "source": "Hacker News",
-    "published": "2026-01-30T09:10:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46822177\">Comments</a>"
-  },
-  {
-    "title": "Why The Jetsons still matters (2012)",
-    "link": "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/",
-    "source": "Hacker News",
-    "published": "2026-01-29T20:19:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46815995\">Comments</a>"
-  },
-  {
-    "title": "Carnegie Mellon Unversity Computer Club FTP Server",
-    "link": "http://128.237.157.9/pub/",
-    "source": "Hacker News",
-    "published": "2026-01-29T05:59:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46806346\">Comments</a>"
   }
 ]
