@@ -1,5 +1,37 @@
 [
   {
+    "title": "A case study in PDF forensics: The Epstein PDFs",
+    "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+    "source": "Hacker News",
+    "published": "2026-02-04T14:46:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886440\">Comments</a>"
+  },
+  {
+    "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+    "link": "https://arxiv.org/abs/2602.00294",
+    "source": "Hacker News",
+    "published": "2026-02-04T14:33:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886265\">Comments</a>"
+  },
+  {
+    "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+    "link": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+    "source": "Hacker News",
+    "published": "2026-02-04T14:31:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886237\">Comments</a>"
+  },
+  {
+    "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+    "link": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
+    "source": "Hacker News",
+    "published": "2026-02-04T14:27:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886191\">Comments</a>"
+  },
+  {
     "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
     "link": "https://github.com/bethington/ghidra-mcp",
     "source": "Hacker News",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46875228\">Comments</a>"
   },
   {
-    "title": "Xcode 26.3 \u2013 Developers can leverage coding agents directly in Xcode",
-    "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-    "source": "Hacker News",
-    "published": "2026-02-03T18:04:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46874619\">Comments</a>"
-  },
-  {
     "title": "Deno Sandbox",
     "link": "https://deno.com/blog/introducing-deno-sandbox",
     "source": "Hacker News",
@@ -48,28 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46874097\">Comments</a>"
   },
   {
-    "title": "221 Cannon is Not For Sale",
-    "link": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-    "source": "Hacker News",
-    "published": "2026-02-03T16:56:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873574\">Comments</a>"
-  },
-  {
-    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-    "link": "https://github.com/j178/prek",
-    "source": "Hacker News",
-    "published": "2026-02-03T16:29:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873138\">Comments</a>"
-  },
-  {
     "title": "New York\u2019s budget bill would require \u201cblocking technology\u201d on all 3D printers",
     "link": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
     "source": "Hacker News",
     "published": "2026-02-03T15:51:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46872540\">Comments</a>"
+  },
+  {
+    "title": "A sane but bull case on Clawdbot / OpenClaw",
+    "link": "https://brandon.wang/2026/clawdbot",
+    "source": "Hacker News",
+    "published": "2026-02-03T15:47:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872465\">Comments</a>"
   },
   {
     "title": "Agent Skills",
@@ -88,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868998\">Comments</a>"
   },
   {
+    "title": "The fax numbers of the beast, and other mathematical sports",
+    "link": "https://cabinetmagazine.org/issues/57/wertheim.php",
+    "source": "Hacker News",
+    "published": "2026-02-03T07:41:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867799\">Comments</a>"
+  },
+  {
     "title": "Lessons learned shipping 500 units of my first hardware product",
     "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
     "source": "Hacker News",
@@ -104,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46847690\">Comments</a>"
   },
   {
-    "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
-    "link": "https://foxmoss.com/blog/kurrat/",
+    "title": "Coding Agent VMs on NixOS with Microvm.nix",
+    "link": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
     "source": "Hacker News",
-    "published": "2026-02-01T06:53:42+00:00",
+    "published": "2026-02-01T08:02:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844157\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844410\">Comments</a>"
   },
   {
     "title": "High-Altitude Adventure with a DIY Pico Balloon",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46840558\">Comments</a>"
   },
   {
-    "title": "The Mathematics of Tuning Systems",
-    "link": "https://math.ucr.edu/home/baez/tuning_talk/",
+    "title": "Old Insurance Maps \u2013 Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
+    "link": "https://oldinsurancemaps.net/",
     "source": "Hacker News",
-    "published": "2026-01-31T09:04:08+00:00",
+    "published": "2026-01-27T23:18:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46834810\">Comments</a>"
-  },
-  {
-    "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
-    "link": "https://spritely.institute/goblins/",
-    "source": "Hacker News",
-    "published": "2026-01-31T02:05:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46832606\">Comments</a>"
-  },
-  {
-    "title": "How watercolor brushes are made (2015)",
-    "link": "https://www.handprint.com/HP/WCL/brush1.html",
-    "source": "Hacker News",
-    "published": "2026-01-28T17:27:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46798556\">Comments</a>"
-  },
-  {
-    "title": "Exploring Different Keyboard Sensing Technologies",
-    "link": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
-    "source": "Hacker News",
-    "published": "2026-01-28T08:21:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46792506\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46788588\">Comments</a>"
   }
 ]
