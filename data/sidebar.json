@@ -1,35 +1,35 @@
 [
   {
-    "title": "As Rocks May Think",
-    "link": "https://evjang.com/2026/02/04/rocks.html",
+    "title": "A few CPU hardware bugs",
+    "link": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
     "source": "Hacker News",
-    "published": "2026-02-04T22:50:34+00:00",
+    "published": "2026-02-05T03:39:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46893018\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46895388\">Comments</a>"
   },
   {
-    "title": "A real-world benchmark for AI code review",
-    "link": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+    "title": "Child prodigies rarely become elite performers",
+    "link": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
     "source": "Hacker News",
-    "published": "2026-02-04T21:13:17+00:00",
+    "published": "2026-02-05T02:17:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46891860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46894815\">Comments</a>"
   },
   {
-    "title": "Show HN: Morph \u2013 Videos of AI testing your PR, embedded in GitHub",
-    "link": "https://morphllm.com/products/glance",
+    "title": "OpenClaw is what Apple intelligence should have been",
+    "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
     "source": "Hacker News",
-    "published": "2026-02-04T21:10:55+00:00",
+    "published": "2026-02-05T00:28:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46891827\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>"
   },
   {
-    "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-    "link": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+    "title": "Why More Companies Are Recognizing the Benefits of Keeping Older Employees",
+    "link": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
     "source": "Hacker News",
-    "published": "2026-02-04T21:08:35+00:00",
+    "published": "2026-02-04T23:26:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46891794\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46893411\">Comments</a>"
   },
   {
     "title": "Claude Code for Infrastructure",
@@ -56,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46888441\">Comments</a>"
   },
   {
-    "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
-    "link": "https://www.runconverge.com/careers/product-engineer",
+    "title": "Postgres Postmaster does not scale",
+    "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
     "source": "Hacker News",
-    "published": "2026-02-04T17:01:14+00:00",
+    "published": "2026-02-04T16:30:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46888331\">Comments</a>"
-  },
-  {
-    "title": "RS-SDK: Drive RuneScape with Claude Code",
-    "link": "https://github.com/MaxBittker/rs-sdk",
-    "source": "Hacker News",
-    "published": "2026-02-04T16:47:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46888142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46887893\">Comments</a>"
   },
   {
     "title": "Microsoft's Copilot chatbot is running into problems",
@@ -80,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46887564\">Comments</a>"
   },
   {
-    "title": "Arcan-A12: Weaving a Different Web",
-    "link": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
-    "source": "Hacker News",
-    "published": "2026-02-04T15:50:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46887326\">Comments</a>"
-  },
-  {
     "title": "Voxtral Transcribe 2",
     "link": "https://mistral.ai/news/voxtral-transcribe-2",
     "source": "Hacker News",
     "published": "2026-02-04T15:08:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46886735\">Comments</a>"
+  },
+  {
+    "title": "A case study in PDF forensics: The Epstein PDFs",
+    "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+    "source": "Hacker News",
+    "published": "2026-02-04T14:46:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886440\">Comments</a>"
   },
   {
     "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
@@ -112,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46877278\">Comments</a>"
   },
   {
-    "title": "A sane but bull case on Clawdbot / OpenClaw",
-    "link": "https://brandon.wang/2026/clawdbot",
+    "title": "Show HN: Bunqueue \u2013 Job queue for Bun using SQLite instead of Redis",
+    "link": "https://github.com/egeominotti/bunqueue",
     "source": "Hacker News",
-    "published": "2026-02-03T15:47:10+00:00",
+    "published": "2026-02-02T01:55:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872465\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46851518\">Comments</a>"
+  },
+  {
+    "title": "Lily Programming Language",
+    "link": "https://lily-lang.org",
+    "source": "Hacker News",
+    "published": "2026-02-01T21:53:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46849753\">Comments</a>"
   },
   {
     "title": "Claude Code: connect to a local model when your quota runs out",
@@ -136,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845642\">Comments</a>"
   },
   {
-    "title": "Data Poems",
-    "link": "https://dr.eamer.dev/datavis/poems/",
-    "source": "Hacker News",
-    "published": "2026-02-01T12:06:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845617\">Comments</a>"
-  },
-  {
     "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
     "link": "https://sqldef.github.io/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845239\">Comments</a>"
   },
   {
-    "title": "Coding Agent VMs on NixOS with Microvm.nix",
-    "link": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+    "title": "Listen to Understand",
+    "link": "https://talk.bradwoods.io/blog/listen-to-understand/",
     "source": "Hacker News",
-    "published": "2026-02-01T08:02:46+00:00",
+    "published": "2026-02-01T10:49:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845203\">Comments</a>"
+  },
+  {
+    "title": "How not to securely erase a NVME drive (2022)",
+    "link": "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/",
+    "source": "Hacker News",
+    "published": "2026-01-31T23:01:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46841776\">Comments</a>"
   }
 ]
