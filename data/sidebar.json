@@ -1,5 +1,61 @@
 [
   {
+    "title": "LinkedIn checks for 2953 browser extensions",
+    "link": "https://github.com/mdp/linkedin-extension-fingerprinting",
+    "source": "Hacker News",
+    "published": "2026-02-05T20:00:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46904361\">Comments</a>"
+  },
+  {
+    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+    "link": "https://www.anthropic.com/engineering/building-c-compiler",
+    "source": "Hacker News",
+    "published": "2026-02-05T19:07:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903616\">Comments</a>"
+  },
+  {
+    "title": "My AI Adoption Journey",
+    "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "source": "Hacker News",
+    "published": "2026-02-05T19:04:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903558\">Comments</a>"
+  },
+  {
+    "title": "Ardour 9.0 Released",
+    "link": "https://ardour.org/whatsnew.html",
+    "source": "Hacker News",
+    "published": "2026-02-05T18:30:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903001\">Comments</a>"
+  },
+  {
+    "title": "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
+    "link": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting",
+    "source": "Hacker News",
+    "published": "2026-02-05T18:25:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46902909\">Comments</a>"
+  },
+  {
+    "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+    "link": "https://arxiv.org/abs/2512.04124",
+    "source": "Hacker News",
+    "published": "2026-02-05T18:21:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46902855\">Comments</a>"
+  },
+  {
+    "title": "A small, shared skill library by builders, for builders. (human and agent)",
+    "link": "https://github.com/PsiACE/skills",
+    "source": "Hacker News",
+    "published": "2026-02-05T18:17:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46902789\">Comments</a>"
+  },
+  {
     "title": "GPT-5.3-Codex",
     "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
     "source": "Hacker News",
@@ -8,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46902638\">Comments</a>"
   },
   {
-    "title": "Unsealed Court Documents Show Teen Addiction Was Big Tech's \"Top Priority\"",
-    "link": "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/",
-    "source": "Hacker News",
-    "published": "2026-02-05T18:00:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46902512\">Comments</a>"
-  },
-  {
-    "title": "Claude Code Agent Teams",
+    "title": "Orchestrate teams of Claude Code sessions",
     "link": "https://code.claude.com/docs/en/agent-teams",
     "source": "Hacker News",
     "published": "2026-02-05T17:49:54+00:00",
@@ -40,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46902223\">Comments</a>"
   },
   {
-    "title": "Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)",
+    "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
     "link": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
     "source": "Hacker News",
     "published": "2026-02-05T17:00:07+00:00",
@@ -48,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46901768\">Comments</a>"
   },
   {
-    "title": "European Commission Trials Matrix to Replace Teams",
-    "link": "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/",
+    "title": "Hypernetworks: Neural Networks for Hierarchical Data",
+    "link": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
     "source": "Hacker News",
-    "published": "2026-02-05T16:33:56+00:00",
+    "published": "2026-02-05T16:55:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46901452\">Comments</a>"
-  },
-  {
-    "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
-    "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
-    "source": "Hacker News",
-    "published": "2026-02-05T14:11:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899808\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46901716\">Comments</a>"
   },
   {
     "title": "The New Collabora Office for Desktop",
@@ -80,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46899132\">Comments</a>"
   },
   {
-    "title": "GB Renewables Map",
-    "link": "https://renewables-map.robinhawkes.com/",
-    "source": "Hacker News",
-    "published": "2026-02-05T12:48:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899066\">Comments</a>"
-  },
-  {
-    "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
-    "link": "https://github.com/HKUDS/nanobot",
-    "source": "Hacker News",
-    "published": "2026-02-05T09:39:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897737\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
-    "link": "https://github.com/vkazanov/elcity",
-    "source": "Hacker News",
-    "published": "2026-02-05T08:46:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897332\">Comments</a>"
-  },
-  {
     "title": "Don't rent the cloud, own instead",
     "link": "https://blog.comma.ai/datacenter/",
     "source": "Hacker News",
@@ -120,36 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>"
   },
   {
-    "title": "Making Ferrite Core Inductors at Home",
-    "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/",
+    "title": "MenuetOS \u2013 a GUI OS that boots from a single floppy disk",
+    "link": "https://www.menuetos.net/",
     "source": "Hacker News",
-    "published": "2026-02-02T12:07:46+00:00",
+    "published": "2026-02-03T07:03:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855057\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867526\">Comments</a>"
   },
   {
-    "title": "Programming Patterns: The Story of the Jacquard Loom",
-    "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "link": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
     "source": "Hacker News",
-    "published": "2026-02-01T15:43:15+00:00",
+    "published": "2026-02-01T16:31:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46846940\">Comments</a>"
-  },
-  {
-    "title": "Simply Scheme: Introducing Computer Science (1999)",
-    "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
-    "source": "Hacker News",
-    "published": "2026-02-01T12:35:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845790\">Comments</a>"
-  },
-  {
-    "title": "A Broken Heart",
-    "link": "https://allenpike.com/2026/a-broken-heart/",
-    "source": "Hacker News",
-    "published": "2026-02-01T07:58:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844393\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46847297\">Comments</a>"
   },
   {
     "title": "150 MB Minimal FreeBSD Installation",
