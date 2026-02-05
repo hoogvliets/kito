@@ -1,11 +1,51 @@
 [
   {
-    "title": "Modernizing Linux swapping: introducing the swap table",
-    "link": "https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
+    "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
+    "link": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
     "source": "Hacker News",
-    "published": "2026-02-05T06:58:43+00:00",
+    "published": "2026-02-05T12:00:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46896586\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46898713\">Comments</a>"
+  },
+  {
+    "title": "The Missing Layer",
+    "link": "https://yagmin.com/blog/the-missing-layer/",
+    "source": "Hacker News",
+    "published": "2026-02-05T10:46:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46898223\">Comments</a>"
+  },
+  {
+    "title": "Battle-Testing Lynx at Allegro",
+    "link": "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html",
+    "source": "Hacker News",
+    "published": "2026-02-05T09:49:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897810\">Comments</a>"
+  },
+  {
+    "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
+    "link": "https://github.com/HKUDS/nanobot",
+    "source": "Hacker News",
+    "published": "2026-02-05T09:39:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897737\">Comments</a>"
+  },
+  {
+    "title": "Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]",
+    "link": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf",
+    "source": "Hacker News",
+    "published": "2026-02-05T09:38:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897732\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
+    "link": "https://github.com/vkazanov/elcity",
+    "source": "Hacker News",
+    "published": "2026-02-05T08:46:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897332\">Comments</a>"
   },
   {
     "title": "Don't rent the cloud, own instead",
@@ -22,14 +62,6 @@
     "published": "2026-02-05T05:22:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>"
-  },
-  {
-    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
-    "link": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
-    "source": "Hacker News",
-    "published": "2026-02-05T05:18:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46895950\">Comments</a>"
   },
   {
     "title": "A few CPU hardware bugs",
@@ -64,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46889703\">Comments</a>"
   },
   {
-    "title": "Building a 24-bit arcade CRT display adapter from scratch",
-    "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-    "source": "Hacker News",
-    "published": "2026-02-04T17:35:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46888795\">Comments</a>"
-  },
-  {
     "title": "AI is killing B2B SaaS",
     "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
     "source": "Hacker News",
     "published": "2026-02-04T17:09:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46888441\">Comments</a>"
-  },
-  {
-    "title": "Postgres Postmaster does not scale",
-    "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
-    "source": "Hacker News",
-    "published": "2026-02-04T16:30:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46887893\">Comments</a>"
   },
   {
     "title": "Microsoft's Copilot chatbot is running into problems",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46887564\">Comments</a>"
   },
   {
-    "title": "Voxtral Transcribe 2",
-    "link": "https://mistral.ai/news/voxtral-transcribe-2",
-    "source": "Hacker News",
-    "published": "2026-02-04T15:08:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46886735\">Comments</a>"
-  },
-  {
     "title": "A case study in PDF forensics: The Epstein PDFs",
     "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
     "source": "Hacker News",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46886440\">Comments</a>"
   },
   {
-    "title": "Adobe Animate will be discontinued effective March 1, 2026",
-    "link": "https://helpx.adobe.com/uk/animate/kb/end-of-life.html",
+    "title": "Making Ferrite Core Inductors at Home",
+    "link": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/",
     "source": "Hacker News",
-    "published": "2026-02-02T22:14:02+00:00",
+    "published": "2026-02-02T12:07:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46862574\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855057\">Comments</a>"
   },
   {
     "title": "I built a search engine to index the un-indexable parts of Telegram",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845845\">Comments</a>"
   },
   {
-    "title": "Remarkable Pro Colors",
-    "link": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-    "source": "Hacker News",
-    "published": "2026-02-01T12:12:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845642\">Comments</a>"
-  },
-  {
     "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
     "link": "https://sqldef.github.io/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845239\">Comments</a>"
   },
   {
-    "title": "Why S7 Scheme? (2020)",
-    "link": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
+    "title": "A Broken Heart",
+    "link": "https://allenpike.com/2026/a-broken-heart/",
     "source": "Hacker News",
-    "published": "2026-01-31T11:35:36+00:00",
+    "published": "2026-02-01T07:58:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46835677\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46844393\">Comments</a>"
   }
 ]
