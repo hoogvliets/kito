@@ -1,11 +1,51 @@
 [
   {
+    "title": "The New Collabora Office for Desktop",
+    "link": "https://www.collaboraonline.com/collabora-office/",
+    "source": "Hacker News",
+    "published": "2026-02-05T13:47:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899591\">Comments</a>"
+  },
+  {
+    "title": "Company as Code",
+    "link": "https://blog.42futures.com/p/company-as-code",
+    "source": "Hacker News",
+    "published": "2026-02-05T12:56:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899132\">Comments</a>"
+  },
+  {
+    "title": "CIA to Sunset the World Factbook",
+    "link": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724",
+    "source": "Hacker News",
+    "published": "2026-02-05T12:53:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899100\">Comments</a>"
+  },
+  {
+    "title": "GB Renewables Map",
+    "link": "https://renewables-map.robinhawkes.com/",
+    "source": "Hacker News",
+    "published": "2026-02-05T12:48:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46899066\">Comments</a>"
+  },
+  {
     "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
     "link": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
     "source": "Hacker News",
     "published": "2026-02-05T12:00:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46898713\">Comments</a>"
+  },
+  {
+    "title": "Top downloaded skill in ClawHub contains malware",
+    "link": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+    "source": "Hacker News",
+    "published": "2026-02-05T11:45:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46898615\">Comments</a>"
   },
   {
     "title": "The Missing Layer",
@@ -16,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46898223\">Comments</a>"
   },
   {
-    "title": "Battle-Testing Lynx at Allegro",
-    "link": "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html",
-    "source": "Hacker News",
-    "published": "2026-02-05T09:49:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897810\">Comments</a>"
-  },
-  {
     "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
     "link": "https://github.com/HKUDS/nanobot",
     "source": "Hacker News",
     "published": "2026-02-05T09:39:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46897737\">Comments</a>"
-  },
-  {
-    "title": "Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]",
-    "link": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf",
-    "source": "Hacker News",
-    "published": "2026-02-05T09:38:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46897732\">Comments</a>"
   },
   {
     "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
@@ -64,52 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>"
   },
   {
-    "title": "A few CPU hardware bugs",
-    "link": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
-    "source": "Hacker News",
-    "published": "2026-02-05T03:39:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46895388\">Comments</a>"
-  },
-  {
     "title": "Wirth's Revenge",
     "link": "https://jmoiron.net/blog/wirths-revenge/",
     "source": "Hacker News",
     "published": "2026-02-05T03:38:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46895381\">Comments</a>"
-  },
-  {
-    "title": "OpenClaw is what Apple intelligence should have been",
-    "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-    "source": "Hacker News",
-    "published": "2026-02-05T00:28:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>"
-  },
-  {
-    "title": "Claude Code for Infrastructure",
-    "link": "https://www.fluid.sh/",
-    "source": "Hacker News",
-    "published": "2026-02-04T18:34:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46889703\">Comments</a>"
-  },
-  {
-    "title": "AI is killing B2B SaaS",
-    "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
-    "source": "Hacker News",
-    "published": "2026-02-04T17:09:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46888441\">Comments</a>"
-  },
-  {
-    "title": "Microsoft's Copilot chatbot is running into problems",
-    "link": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-    "source": "Hacker News",
-    "published": "2026-02-04T16:08:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46887564\">Comments</a>"
   },
   {
     "title": "A case study in PDF forensics: The Epstein PDFs",
@@ -128,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46855057\">Comments</a>"
   },
   {
-    "title": "I built a search engine to index the un-indexable parts of Telegram",
-    "link": "https://telehunt.org",
+    "title": "Programming Patterns: The Story of the Jacquard Loom",
+    "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom",
     "source": "Hacker News",
-    "published": "2026-02-01T17:12:47+00:00",
+    "published": "2026-02-01T15:43:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46847603\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46846940\">Comments</a>"
   },
   {
     "title": "Claude Code: connect to a local model when your quota runs out",
@@ -142,6 +126,14 @@
     "published": "2026-02-01T12:43:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46845845\">Comments</a>"
+  },
+  {
+    "title": "Simply Scheme: Introducing Computer Science (1999)",
+    "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
+    "source": "Hacker News",
+    "published": "2026-02-01T12:35:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46845790\">Comments</a>"
   },
   {
     "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
@@ -158,5 +150,13 @@
     "published": "2026-02-01T07:58:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46844393\">Comments</a>"
+  },
+  {
+    "title": "Improving Unnesting of Complex Queries [pdf]",
+    "link": "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf",
+    "source": "Hacker News",
+    "published": "2026-01-31T18:09:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46839036\">Comments</a>"
   }
 ]
