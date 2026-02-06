@@ -1,22 +1,54 @@
 [
   {
-    "title": "Uber Found Liable in Rape by Driver, Setting Stage for Cases",
-    "link": "https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html",
+    "title": "Masked namespace vulnerability in Temporal",
+    "link": "https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986",
     "source": "Hacker News",
-    "published": "2026-02-06T17:29:39+00:00",
+    "published": "2026-02-06T20:04:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46915646\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46917477\">Comments</a>"
   },
   {
-    "title": "Bits About Money: Fraud Investigation Is Believing Your Lying Eyes",
-    "link": "https://www.bitsaboutmoney.com/archive/fraud-investigation/",
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "link": "https://vecti.com",
     "source": "Hacker News",
-    "published": "2026-02-06T17:24:32+00:00",
+    "published": "2026-02-06T19:27:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46915587\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46917033\">Comments</a>"
   },
   {
-    "title": "The Waymo World Model: A New Frontier for Autonomous Driving Simulation",
+    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+    "link": "https://eljojo.github.io/rememory/",
+    "source": "Hacker News",
+    "published": "2026-02-06T18:51:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46916609\">Comments</a>"
+  },
+  {
+    "title": "How to effectively write quality code with AI",
+    "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "source": "Hacker News",
+    "published": "2026-02-06T18:49:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46916586\">Comments</a>"
+  },
+  {
+    "title": "Show HN: BioTradingArena \u2013 Benchmark for LLMs to predict biotech stock movements",
+    "link": "https://www.biotradingarena.com/hn",
+    "source": "Hacker News",
+    "published": "2026-02-06T17:11:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46915427\">Comments</a>"
+  },
+  {
+    "title": "I spent 5 years in DevOps \u2013 Solutions engineering gave me what I was missing",
+    "link": "https://infisical.com/blog/devops-to-solutions-engineering",
+    "source": "Hacker News",
+    "published": "2026-02-06T16:45:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46915102\">Comments</a>"
+  },
+  {
+    "title": "The Waymo World Model",
     "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
     "source": "Hacker News",
     "published": "2026-02-06T16:20:42+00:00",
@@ -30,6 +62,14 @@
     "published": "2026-02-06T15:40:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46914159\">Comments</a>"
+  },
+  {
+    "title": "An Update on Heroku",
+    "link": "https://www.heroku.com/blog/an-update-on-heroku/",
+    "source": "Hacker News",
+    "published": "2026-02-06T15:20:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46913903\">Comments</a>"
   },
   {
     "title": "Microsoft open-sources LiteBox, a security-focused library OS",
@@ -56,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46911901\">Comments</a>"
   },
   {
-    "title": "TikTok's 'Addictive Design' Found to Be Illegal in Europe",
-    "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-    "source": "Hacker News",
-    "published": "2026-02-06T12:11:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911869\">Comments</a>"
-  },
-  {
-    "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
-    "link": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-    "source": "Hacker News",
-    "published": "2026-02-06T10:26:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911170\">Comments</a>"
-  },
-  {
     "title": "A new bill in New York would require disclaimers on AI-generated news content",
     "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
     "source": "Hacker News",
@@ -88,36 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46909468\">Comments</a>"
   },
   {
-    "title": "Systems Thinking",
-    "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+    "title": "Show HN: Smooth CLI \u2013 Token-efficient browser for AI agents",
+    "link": "https://docs.smooth.sh/cli/overview",
     "source": "Hacker News",
-    "published": "2026-02-06T05:24:36+00:00",
+    "published": "2026-02-05T16:13:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46909439\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46901233\">Comments</a>"
   },
   {
-    "title": "Animated Engines",
-    "link": "https://animatedengines.com/",
+    "title": "Claude Composer",
+    "link": "https://www.josh.ing/blog/claude-composer",
     "source": "Hacker News",
-    "published": "2026-02-05T20:20:04+00:00",
+    "published": "2026-02-04T20:59:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46904645\">Comments</a>"
-  },
-  {
-    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-    "link": "https://www.anthropic.com/engineering/building-c-compiler",
-    "source": "Hacker News",
-    "published": "2026-02-05T19:07:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903616\">Comments</a>"
-  },
-  {
-    "title": "My AI Adoption Journey",
-    "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-    "source": "Hacker News",
-    "published": "2026-02-05T19:04:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903558\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46891689\">Comments</a>"
   },
   {
     "title": "Understanding Neural Network, Visually",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46870514\">Comments</a>"
   },
   {
-    "title": "DNS Explained \u2013 How Domain Names Get Resolved",
-    "link": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
+    "title": "Planetary Roller Screws",
+    "link": "https://www.humanityslastmachine.com/#planetary-roller-screws",
     "source": "Hacker News",
-    "published": "2026-02-03T09:43:36+00:00",
+    "published": "2026-02-03T08:59:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868803\">Comments</a>"
-  },
-  {
-    "title": "The overlooked evolution of the humble car door handle",
-    "link": "https://newatlas.com/automotive/evolution-car-door-handle/",
-    "source": "Hacker News",
-    "published": "2026-02-03T08:24:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868435\">Comments</a>"
   },
   {
     "title": "The Monad Called Free",
