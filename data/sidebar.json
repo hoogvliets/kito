@@ -1,5 +1,37 @@
 [
   {
+    "title": "Show HN: Agent Arena \u2013 Test How Manipulation-Proof Your AI Agent Is",
+    "link": "https://wiz.jock.pl/experiments/agent-arena/",
+    "source": "Hacker News",
+    "published": "2026-02-06T12:12:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911873\">Comments</a>"
+  },
+  {
+    "title": "US Immigration on the Easiest Setting",
+    "link": "https://pluralistic.net/2026/02/06/doge-ball/#n-600",
+    "source": "Hacker News",
+    "published": "2026-02-06T11:03:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911417\">Comments</a>"
+  },
+  {
+    "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
+    "link": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
+    "source": "Hacker News",
+    "published": "2026-02-06T10:26:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911170\">Comments</a>"
+  },
+  {
+    "title": "A new bill in New York would require disclaimers on AI-generated news content",
+    "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+    "source": "Hacker News",
+    "published": "2026-02-06T09:56:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46910963\">Comments</a>"
+  },
+  {
     "title": "Things Unix can do atomically (2010)",
     "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
     "source": "Hacker News",
@@ -24,52 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46909037\">Comments</a>"
   },
   {
-    "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
-    "link": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-    "source": "Hacker News",
-    "published": "2026-02-06T03:25:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46908700\">Comments</a>"
-  },
-  {
-    "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
-    "link": "https://vespalec.com/blog/tower-of-flaws/",
-    "source": "Hacker News",
-    "published": "2026-02-06T03:22:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46908671\">Comments</a>"
-  },
-  {
-    "title": "GitHub Actions is slowly killing engineering teams",
-    "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-    "source": "Hacker News",
-    "published": "2026-02-06T02:58:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46908491\">Comments</a>"
-  },
-  {
     "title": "The RCE that AMD won't fix",
     "link": "https://mrbruh.com/amd/",
     "source": "Hacker News",
     "published": "2026-02-05T23:29:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46906947\">Comments</a>"
-  },
-  {
-    "title": "Review of 1984 by Isaac Asimov (1980)",
-    "link": "https://www.newworker.org/ncptrory/1984.htm",
-    "source": "Hacker News",
-    "published": "2026-02-05T21:39:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46905761\">Comments</a>"
-  },
-  {
-    "title": "The time I didn't meet Jeffrey Epstein",
-    "link": "https://scottaaronson.blog/?p=9534",
-    "source": "Hacker News",
-    "published": "2026-02-05T19:29:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46903929\">Comments</a>"
   },
   {
     "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
@@ -112,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46890335\">Comments</a>"
   },
   {
-    "title": "MenuetOS \u2013 a GUI OS that boots from a single floppy disk",
-    "link": "https://www.menuetos.net/",
+    "title": "Sealos \u2013 AI Native Cloud Cloud Operating System",
+    "link": "https://github.com/labring/sealos",
     "source": "Hacker News",
-    "published": "2026-02-03T07:03:34+00:00",
+    "published": "2026-02-03T10:11:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867526\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46869024\">Comments</a>"
+  },
+  {
+    "title": "DNS Explained \u2013 How Domain Names Get Resolved",
+    "link": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
+    "source": "Hacker News",
+    "published": "2026-02-03T09:43:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868803\">Comments</a>"
+  },
+  {
+    "title": "Coding Agents and Use Cases",
+    "link": "https://justsitandgrin.im/posts/coding-agents-use-cases/",
+    "source": "Hacker News",
+    "published": "2026-02-03T08:41:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868275\">Comments</a>"
   },
   {
     "title": "Stay Away from My Trash",
@@ -134,14 +142,6 @@
     "published": "2026-02-03T06:26:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46867271\">Comments</a>"
-  },
-  {
-    "title": "How to carry more than your own bodyweight (2025)",
-    "link": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
-    "source": "Hacker News",
-    "published": "2026-02-03T02:55:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46865849\">Comments</a>"
   },
   {
     "title": "Animated Knots",
