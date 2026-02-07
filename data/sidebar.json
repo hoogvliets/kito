@@ -1,5 +1,53 @@
 [
   {
+    "title": "British drivers over 70 to face eye tests every three years",
+    "link": "https://www.bbc.com/news/articles/c205nxy0p31o",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:55:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924813\">Comments</a>"
+  },
+  {
+    "title": "Al Lowe on model trains, funny deaths and working with Disney",
+    "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:52:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924790\">Comments</a>"
+  },
+  {
+    "title": "StrongDM's AI team build serious software without even looking at the code",
+    "link": "https://simonwillison.net/2026/Feb/7/software-factory/",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:41:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924711\">Comments</a>"
+  },
+  {
+    "title": "First Proof",
+    "link": "https://arxiv.org/abs/2602.05192",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:25:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924591\">Comments</a>"
+  },
+  {
+    "title": "Software Factories and the Agentic Moment",
+    "link": "https://factory.strongdm.ai/",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:05:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924426\">Comments</a>"
+  },
+  {
+    "title": "Stories from 25 Years of Software Development",
+    "link": "https://susam.net/twenty-five-years-of-computing.html",
+    "source": "Hacker News",
+    "published": "2026-02-07T14:42:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924264\">Comments</a>"
+  },
+  {
     "title": "France's homegrown open source online office suite",
     "link": "https://github.com/suitenumerique",
     "source": "Hacker News",
@@ -56,68 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46918429\">Comments</a>"
   },
   {
-    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-    "link": "https://github.com/pydantic/monty",
-    "source": "Hacker News",
-    "published": "2026-02-06T21:16:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918254\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-    "link": "https://vecti.com",
-    "source": "Hacker News",
-    "published": "2026-02-06T19:27:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46917033\">Comments</a>"
-  },
-  {
-    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-    "link": "https://eljojo.github.io/rememory/",
-    "source": "Hacker News",
-    "published": "2026-02-06T18:51:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46916609\">Comments</a>"
-  },
-  {
     "title": "The Waymo World Model",
     "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
     "source": "Hacker News",
     "published": "2026-02-06T16:20:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46914785\">Comments</a>"
-  },
-  {
-    "title": "Sheldon Brown's Bicycle Technical Info",
-    "link": "https://www.sheldonbrown.com/",
-    "source": "Hacker News",
-    "published": "2026-02-06T15:40:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46914159\">Comments</a>"
-  },
-  {
-    "title": "Hackers (1995) Animated Experience",
-    "link": "https://hackers-1995.vercel.app/",
-    "source": "Hacker News",
-    "published": "2026-02-06T13:49:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46912800\">Comments</a>"
-  },
-  {
-    "title": "Making geo joins faster with H3 indexes",
-    "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-    "source": "Hacker News",
-    "published": "2026-02-05T11:19:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46898473\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Kappal \u2013 CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-    "link": "https://github.com/sandys/kappal",
-    "source": "Hacker News",
-    "published": "2026-02-05T05:41:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46896105\">Comments</a>"
   },
   {
     "title": "Start all of your commands with a comma (2009)",
@@ -128,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46890814\">Comments</a>"
   },
   {
-    "title": "Ga68, a GNU Algol 68 Compiler",
-    "link": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
+    "title": "A Fresh Look at IBM 3270 Information Display System",
+    "link": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
     "source": "Hacker News",
-    "published": "2026-02-03T15:38:24+00:00",
+    "published": "2026-02-03T16:40:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46872319\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873322\">Comments</a>"
   },
   {
-    "title": "Cross-Region MSK Replication: K2K vs. MirrorMaker2",
-    "link": "https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf",
+    "title": "Where did all the starships go?",
+    "link": "https://www.datawrapper.de/blog/science-fiction-decline",
     "source": "Hacker News",
-    "published": "2026-02-03T09:42:10+00:00",
+    "published": "2026-02-03T13:27:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868787\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46870694\">Comments</a>"
   },
   {
     "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868343\">Comments</a>"
   },
   {
-    "title": "What Is Ruliology?",
-    "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+    "title": "72M Points of Interest",
+    "link": "https://tech.marksblogg.com/overture-places-pois.html",
     "source": "Hacker News",
-    "published": "2026-02-03T06:40:40+00:00",
+    "published": "2026-02-02T16:40:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867361\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858042\">Comments</a>"
+  },
+  {
+    "title": "Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop",
+    "link": "https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/",
+    "source": "Hacker News",
+    "published": "2026-02-02T13:12:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855645\">Comments</a>"
   }
 ]
