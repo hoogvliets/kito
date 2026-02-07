@@ -1,11 +1,43 @@
 [
   {
-    "title": "Masked namespace vulnerability in Temporal",
-    "link": "https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986",
+    "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+    "link": "https://github.com/phreda4/r3",
     "source": "Hacker News",
-    "published": "2026-02-06T20:04:55+00:00",
+    "published": "2026-02-06T22:10:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46917477\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918824\">Comments</a>"
+  },
+  {
+    "title": "Early Christian Writings",
+    "link": "https://earlychristianwritings.com/",
+    "source": "Hacker News",
+    "published": "2026-02-06T22:00:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918727\">Comments</a>"
+  },
+  {
+    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+    "link": "https://openciv3.org/",
+    "source": "Hacker News",
+    "published": "2026-02-06T21:51:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918612\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "link": "https://github.com/valdanylchuk/breezydemo",
+    "source": "Hacker News",
+    "published": "2026-02-06T21:33:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918429\">Comments</a>"
+  },
+  {
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "link": "https://github.com/pydantic/monty",
+    "source": "Hacker News",
+    "published": "2026-02-06T21:16:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918254\">Comments</a>"
   },
   {
     "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
@@ -30,14 +62,6 @@
     "published": "2026-02-06T18:49:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46916586\">Comments</a>"
-  },
-  {
-    "title": "Show HN: BioTradingArena \u2013 Benchmark for LLMs to predict biotech stock movements",
-    "link": "https://www.biotradingarena.com/hn",
-    "source": "Hacker News",
-    "published": "2026-02-06T17:11:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46915427\">Comments</a>"
   },
   {
     "title": "I spent 5 years in DevOps \u2013 Solutions engineering gave me what I was missing",
@@ -80,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46913793\">Comments</a>"
   },
   {
+    "title": "FORTH?\u00a0Really!?",
+    "link": "https://rescrv.net/w/2026/02/06/associative",
+    "source": "Hacker News",
+    "published": "2026-02-06T13:54:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46912843\">Comments</a>"
+  },
+  {
     "title": "Hackers (1995) Animated Experience",
     "link": "https://hackers-1995.vercel.app/",
     "source": "Hacker News",
@@ -88,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46912800\">Comments</a>"
   },
   {
-    "title": "I now assume that all ads on Apple news are scams",
-    "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+    "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+    "link": "https://red.anthropic.com/2026/zero-days/",
     "source": "Hacker News",
-    "published": "2026-02-06T12:16:43+00:00",
+    "published": "2026-02-05T17:50:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911901\">Comments</a>"
-  },
-  {
-    "title": "A new bill in New York would require disclaimers on AI-generated news content",
-    "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-    "source": "Hacker News",
-    "published": "2026-02-06T09:56:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46910963\">Comments</a>"
-  },
-  {
-    "title": "Things Unix can do atomically (2010)",
-    "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-    "source": "Hacker News",
-    "published": "2026-02-06T05:29:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46909468\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Smooth CLI \u2013 Token-efficient browser for AI agents",
-    "link": "https://docs.smooth.sh/cli/overview",
-    "source": "Hacker News",
-    "published": "2026-02-05T16:13:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46901233\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46902374\">Comments</a>"
   },
   {
     "title": "Claude Composer",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46870514\">Comments</a>"
   },
   {
-    "title": "Planetary Roller Screws",
-    "link": "https://www.humanityslastmachine.com/#planetary-roller-screws",
+    "title": "A century of hair samples proves leaded gas ban worked",
+    "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
     "source": "Hacker News",
-    "published": "2026-02-03T08:59:59+00:00",
+    "published": "2026-02-03T05:38:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868435\">Comments</a>"
-  },
-  {
-    "title": "The Monad Called Free",
-    "link": "http://blog.sigfpe.com/2014/04/the-monad-called-free.html",
-    "source": "Hacker News",
-    "published": "2026-02-02T20:02:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46860623\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46866937\">Comments</a>"
   }
 ]
