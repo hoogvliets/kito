@@ -1,11 +1,43 @@
 [
   {
-    "title": "British drivers over 70 to face eye tests every three years",
-    "link": "https://www.bbc.com/news/articles/c205nxy0p31o",
+    "title": "Microsoft Account bugs locked me out of Notepad \u2013 are Thin Clients ruining PCs?",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
     "source": "Hacker News",
-    "published": "2026-02-07T15:55:54+00:00",
+    "published": "2026-02-07T19:51:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924813\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46927098\">Comments</a>"
+  },
+  {
+    "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+    "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+    "source": "Hacker News",
+    "published": "2026-02-07T19:07:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926576\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
+    "link": "https://github.com/Momciloo/fun-with-clip-path",
+    "source": "Hacker News",
+    "published": "2026-02-07T17:45:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46925811\">Comments</a>"
+  },
+  {
+    "title": "I write games in C (yes, C)",
+    "link": "https://jonathanwhiting.com/writing/blog/games_in_c/",
+    "source": "Hacker News",
+    "published": "2026-02-07T17:45:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46925808\">Comments</a>"
+  },
+  {
+    "title": "SectorC: A C Compiler in 512 bytes",
+    "link": "https://xorvoid.com/sectorc.html",
+    "source": "Hacker News",
+    "published": "2026-02-07T17:39:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46925741\">Comments</a>"
   },
   {
     "title": "Al Lowe on model trains, funny deaths and working with Disney",
@@ -14,30 +46,6 @@
     "published": "2026-02-07T15:52:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46924790\">Comments</a>"
-  },
-  {
-    "title": "StrongDM's AI team build serious software without even looking at the code",
-    "link": "https://simonwillison.net/2026/Feb/7/software-factory/",
-    "source": "Hacker News",
-    "published": "2026-02-07T15:41:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924711\">Comments</a>"
-  },
-  {
-    "title": "First Proof",
-    "link": "https://arxiv.org/abs/2602.05192",
-    "source": "Hacker News",
-    "published": "2026-02-07T15:25:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924591\">Comments</a>"
-  },
-  {
-    "title": "Software Factories and the Agentic Moment",
-    "link": "https://factory.strongdm.ai/",
-    "source": "Hacker News",
-    "published": "2026-02-07T15:05:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924426\">Comments</a>"
   },
   {
     "title": "Stories from 25 Years of Software Development",
@@ -65,7 +73,7 @@
   },
   {
     "title": "Reinforcement Learning from Human Feedback",
-    "link": "https://arxiv.org/abs/2504.12501",
+    "link": "https://rlhfbook.com/",
     "source": "Hacker News",
     "published": "2026-02-07T12:53:39+00:00",
     "author": "Hacker News",
@@ -78,6 +86,14 @@
     "published": "2026-02-07T12:18:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46923254\">Comments</a>"
+  },
+  {
+    "title": "The AI boom is causing shortages everywhere else",
+    "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+    "source": "Hacker News",
+    "published": "2026-02-07T11:21:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46922969\">Comments</a>"
   },
   {
     "title": "Vocal Guide \u2013 belt sing without killing yourself",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46918612\">Comments</a>"
   },
   {
-    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-    "link": "https://github.com/valdanylchuk/breezydemo",
-    "source": "Hacker News",
-    "published": "2026-02-06T21:33:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46918429\">Comments</a>"
-  },
-  {
     "title": "The Waymo World Model",
     "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
     "source": "Hacker News",
@@ -120,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46890814\">Comments</a>"
   },
   {
+    "title": "The F Word",
+    "link": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
+    "source": "Hacker News",
+    "published": "2026-02-04T15:34:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46887084\">Comments</a>"
+  },
+  {
+    "title": "Selection Rather Than Prediction",
+    "link": "https://voratiq.com/blog/selection-rather-than-prediction/",
+    "source": "Hacker News",
+    "published": "2026-02-03T23:31:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46878942\">Comments</a>"
+  },
+  {
     "title": "A Fresh Look at IBM 3270 Information Display System",
     "link": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
     "source": "Hacker News",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46873322\">Comments</a>"
   },
   {
-    "title": "Where did all the starships go?",
-    "link": "https://www.datawrapper.de/blog/science-fiction-decline",
-    "source": "Hacker News",
-    "published": "2026-02-03T13:27:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46870694\">Comments</a>"
-  },
-  {
-    "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-    "link": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-    "source": "Hacker News",
-    "published": "2026-02-03T08:49:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868343\">Comments</a>"
-  },
-  {
     "title": "72M Points of Interest",
     "link": "https://tech.marksblogg.com/overture-places-pois.html",
     "source": "Hacker News",
     "published": "2026-02-02T16:40:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46858042\">Comments</a>"
-  },
-  {
-    "title": "Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop",
-    "link": "https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/",
-    "source": "Hacker News",
-    "published": "2026-02-02T13:12:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855645\">Comments</a>"
   }
 ]
