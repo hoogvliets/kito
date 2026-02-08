@@ -1,27 +1,35 @@
 [
   {
-    "title": "Why there is no official statement from Substack about the data leak",
+    "title": "DoNotNotify is now Open Source",
+    "link": "https://donotnotify.com/opensource.html",
+    "source": "Hacker News",
+    "published": "2026-02-08T07:39:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46932192\">Comments</a>"
+  },
+  {
+    "title": "LineageOS 23.2",
+    "link": "https://lineageos.org/Changelog-31/",
+    "source": "Hacker News",
+    "published": "2026-02-08T05:33:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46931595\">Comments</a>"
+  },
+  {
+    "title": "Roger Ebert Reviews \"The Shawshank Redemption\" (1999)",
+    "link": "https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994",
+    "source": "Hacker News",
+    "published": "2026-02-08T05:25:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46931559\">Comments</a>"
+  },
+  {
+    "title": "Substack confirms data breach affects users\u2019 email addresses and phone numbers",
     "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
     "source": "Hacker News",
     "published": "2026-02-08T04:34:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46931347\">Comments</a>"
-  },
-  {
-    "title": "Bye Bye Humanity: The Potential AMOC Collapse",
-    "link": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
-    "source": "Hacker News",
-    "published": "2026-02-08T03:20:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46931026\">Comments</a>"
-  },
-  {
-    "title": "Vouch",
-    "link": "https://twitter.com/mitchellh/status/2020252149117313349",
-    "source": "Hacker News",
-    "published": "2026-02-08T03:09:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46930961\">Comments</a>"
   },
   {
     "title": "Haskell for all: Beyond agentic coding",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46925741\">Comments</a>"
   },
   {
-    "title": "Al Lowe on model trains, funny deaths and working with Disney",
-    "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-    "source": "Hacker News",
-    "published": "2026-02-07T15:52:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924790\">Comments</a>"
-  },
-  {
     "title": "First Proof",
     "link": "https://arxiv.org/abs/2602.05192",
     "source": "Hacker News",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46897407\">Comments</a>"
   },
   {
-    "title": "Start all of your commands with a comma (2009)",
-    "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+    "title": "uLauncher",
+    "link": "https://github.com/jrpie/launcher",
     "source": "Hacker News",
-    "published": "2026-02-04T19:59:12+00:00",
+    "published": "2026-02-03T11:41:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46890814\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
-    "link": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
-    "source": "Hacker News",
-    "published": "2026-02-04T11:13:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46884412\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46869713\">Comments</a>"
   },
   {
     "title": "LLMs as the new high level language",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46868928\">Comments</a>"
   },
   {
-    "title": "Total surface area required to fuel the world with solar (2009)",
-    "link": "https://landartgenerator.org/blagi/archives/127",
+    "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
+    "link": "https://aosabook.org/en/v1/bdb.html",
     "source": "Hacker News",
-    "published": "2026-02-03T08:42:10+00:00",
+    "published": "2026-02-02T20:37:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868282\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46861158\">Comments</a>"
+  },
+  {
+    "title": "Moroccan sardine prices to stabilise via new measures: officials",
+    "link": "https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/",
+    "source": "Hacker News",
+    "published": "2026-02-02T13:33:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46855852\">Comments</a>"
   }
 ]
