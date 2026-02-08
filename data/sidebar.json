@@ -1,6 +1,62 @@
 [
   {
-    "title": "Dave Farber has passed away",
+    "title": "Washington imposes 'terrorist-grade sanctions' on Francesca Albanese, ICC judges",
+    "link": "https://thecradle.co/articles-id/35816",
+    "source": "Hacker News",
+    "published": "2026-02-08T14:49:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934660\">Comments</a>"
+  },
+  {
+    "title": "RFC 3092 \u2013 Etymology of \"Foo\" (2001)",
+    "link": "https://datatracker.ietf.org/doc/html/rfc3092",
+    "source": "Hacker News",
+    "published": "2026-02-08T14:32:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934499\">Comments</a>"
+  },
+  {
+    "title": "AI fatigue Is real and nobody talks about it",
+    "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+    "source": "Hacker News",
+    "published": "2026-02-08T14:19:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934404\">Comments</a>"
+  },
+  {
+    "title": "I am happier writing code by hand",
+    "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+    "source": "Hacker News",
+    "published": "2026-02-08T14:12:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934344\">Comments</a>"
+  },
+  {
+    "title": "Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates",
+    "source": "Hacker News",
+    "published": "2026-02-08T13:48:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934165\">Comments</a>"
+  },
+  {
+    "title": "GitHub Agentic Workflows",
+    "link": "https://github.github.io/gh-aw/",
+    "source": "Hacker News",
+    "published": "2026-02-08T13:40:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934107\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs",
+    "link": "https://cinegraphs.ai/",
+    "source": "Hacker News",
+    "published": "2026-02-08T12:00:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933515\">Comments</a>"
+  },
+  {
+    "title": "Dave Farber has died",
     "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
     "source": "Hacker News",
     "published": "2026-02-08T11:38:57+00:00",
@@ -8,7 +64,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933401\">Comments</a>"
   },
   {
-    "title": "(AI) Slop Terrifies Me",
+    "title": "Why E cores make Apple silicon fast",
+    "link": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
+    "source": "Hacker News",
+    "published": "2026-02-08T11:31:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933365\">Comments</a>"
+  },
+  {
+    "title": "Slop Terrifies Me",
     "link": "https://ezhik.jp/ai-slop-terrifies-me/",
     "source": "Hacker News",
     "published": "2026-02-08T10:31:35+00:00",
@@ -16,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933067\">Comments</a>"
   },
   {
-    "title": "In the Australian outback, we're listening for nuclear tests",
-    "link": "https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478",
+    "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
+    "link": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
     "source": "Hacker News",
-    "published": "2026-02-08T09:44:55+00:00",
+    "published": "2026-02-08T10:13:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46932845\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46932985\">Comments</a>"
   },
   {
     "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
@@ -32,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46932678\">Comments</a>"
   },
   {
-    "title": "Matchlock: Linux-based sandboxing for AI agents",
+    "title": "Matchlock \u2013 Secures AI agent workloads with a Linux-based sandbox",
     "link": "https://github.com/jingkaihe/matchlock",
     "source": "Hacker News",
     "published": "2026-02-08T08:07:55+00:00",
@@ -48,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46932192\">Comments</a>"
   },
   {
-    "title": "Haskell for all: Beyond agentic coding",
+    "title": "Beyond agentic coding",
     "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
     "source": "Hacker News",
     "published": "2026-02-08T01:55:09+00:00",
@@ -64,63 +128,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46930391\">Comments</a>"
   },
   {
-    "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
-    "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+    "title": "Show HN: It took 4 years to sell my startup. I wrote a book about it",
+    "link": "https://derekyan.com/ma-book/",
     "source": "Hacker News",
-    "published": "2026-02-07T19:07:27+00:00",
+    "published": "2026-02-04T16:56:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926576\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46888258\">Comments</a>"
   },
   {
-    "title": "Speed up responses with fast mode",
-    "link": "https://code.claude.com/docs/en/fast-mode",
-    "source": "Hacker News",
-    "published": "2026-02-07T18:08:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926043\">Comments</a>"
-  },
-  {
-    "title": "SectorC: A C Compiler in 512 bytes (2023)",
-    "link": "https://xorvoid.com/sectorc.html",
-    "source": "Hacker News",
-    "published": "2026-02-07T17:39:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46925741\">Comments</a>"
-  },
-  {
-    "title": "Software factories and the agentic moment",
-    "link": "https://factory.strongdm.ai/",
-    "source": "Hacker News",
-    "published": "2026-02-07T15:05:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924426\">Comments</a>"
-  },
-  {
-    "title": "Stories from 25 Years of Software Development",
-    "link": "https://susam.net/twenty-five-years-of-computing.html",
-    "source": "Hacker News",
-    "published": "2026-02-07T14:42:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924264\">Comments</a>"
-  },
-  {
-    "title": "Hoot: Scheme on WebAssembly",
-    "link": "https://www.spritely.institute/hoot/",
-    "source": "Hacker News",
-    "published": "2026-02-07T12:18:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923254\">Comments</a>"
-  },
-  {
-    "title": "Vocal Guide \u2013 belt sing without killing yourself",
-    "link": "https://jesperordrup.github.io/vocal-guide/",
-    "source": "Hacker News",
-    "published": "2026-02-07T07:37:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46922049\">Comments</a>"
-  },
-  {
-    "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
+    "title": "Rabbit Ear \"Origami\": programmable origami in the browser",
     "link": "https://rabbitear.org/book/origami.html",
     "source": "Hacker News",
     "published": "2026-02-04T14:57:38+00:00",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46886569\">Comments</a>"
   },
   {
-    "title": "uLauncher",
-    "link": "https://github.com/jrpie/launcher",
+    "title": "A11yJSON: A standard to describe the accessibility of the physical world",
+    "link": "https://sozialhelden.github.io/a11yjson/",
     "source": "Hacker News",
-    "published": "2026-02-03T11:41:11+00:00",
+    "published": "2026-02-03T10:21:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46869713\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46869113\">Comments</a>"
   },
   {
-    "title": "LLMs as the new high level language",
-    "link": "https://federicopereiro.com/llm-high/",
+    "title": "Kolakoski Sequence",
+    "link": "https://en.wikipedia.org/wiki/Kolakoski_sequence",
     "source": "Hacker News",
-    "published": "2026-02-03T10:00:03+00:00",
+    "published": "2026-02-02T18:31:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46868928\">Comments</a>"
-  },
-  {
-    "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
-    "link": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-    "source": "Hacker News",
-    "published": "2026-02-03T08:06:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46867997\">Comments</a>"
-  },
-  {
-    "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-    "link": "https://aosabook.org/en/v1/bdb.html",
-    "source": "Hacker News",
-    "published": "2026-02-02T20:37:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46861158\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46859433\">Comments</a>"
   }
 ]
