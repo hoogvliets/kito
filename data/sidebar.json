@@ -1,11 +1,27 @@
 [
   {
-    "title": "Microsoft Account bugs locked me out of Notepad \u2013 are Thin Clients ruining PCs?",
-    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
+    "title": "The silent death of Good Code",
+    "link": "https://amit.prasad.me/blog/rip-good-code",
     "source": "Hacker News",
-    "published": "2026-02-07T19:51:56+00:00",
+    "published": "2026-02-07T23:23:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46927098\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46929391\">Comments</a>"
+  },
+  {
+    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+    "source": "Hacker News",
+    "published": "2026-02-07T22:25:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46928810\">Comments</a>"
+  },
+  {
+    "title": "Tiny C Compiler",
+    "link": "https://bellard.org/tcc/",
+    "source": "Hacker News",
+    "published": "2026-02-07T21:45:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46928435\">Comments</a>"
   },
   {
     "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
@@ -16,6 +32,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46926576\">Comments</a>"
   },
   {
+    "title": "Speed up responses with fast mode",
+    "link": "https://code.claude.com/docs/en/fast-mode",
+    "source": "Hacker News",
+    "published": "2026-02-07T18:08:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926043\">Comments</a>"
+  },
+  {
     "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
     "link": "https://github.com/Momciloo/fun-with-clip-path",
     "source": "Hacker News",
@@ -24,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46925811\">Comments</a>"
   },
   {
-    "title": "I write games in C (yes, C)",
+    "title": "I write games in C (yes, C) (2016)",
     "link": "https://jonathanwhiting.com/writing/blog/games_in_c/",
     "source": "Hacker News",
     "published": "2026-02-07T17:45:25+00:00",
@@ -48,6 +72,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46924790\">Comments</a>"
   },
   {
+    "title": "First Proof",
+    "link": "https://arxiv.org/abs/2602.05192",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:25:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924591\">Comments</a>"
+  },
+  {
+    "title": "Software factories and the agentic moment",
+    "link": "https://factory.strongdm.ai/",
+    "source": "Hacker News",
+    "published": "2026-02-07T15:05:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924426\">Comments</a>"
+  },
+  {
     "title": "Stories from 25 Years of Software Development",
     "link": "https://susam.net/twenty-five-years-of-computing.html",
     "source": "Hacker News",
@@ -56,44 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46924264\">Comments</a>"
   },
   {
-    "title": "France's homegrown open source online office suite",
-    "link": "https://github.com/suitenumerique",
-    "source": "Hacker News",
-    "published": "2026-02-07T13:34:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923736\">Comments</a>"
-  },
-  {
-    "title": "Coding agents have replaced every framework I used",
-    "link": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-    "source": "Hacker News",
-    "published": "2026-02-07T13:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923543\">Comments</a>"
-  },
-  {
-    "title": "Reinforcement Learning from Human Feedback",
-    "link": "https://rlhfbook.com/",
-    "source": "Hacker News",
-    "published": "2026-02-07T12:53:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923463\">Comments</a>"
-  },
-  {
     "title": "Hoot: Scheme on WebAssembly",
     "link": "https://www.spritely.institute/hoot/",
     "source": "Hacker News",
     "published": "2026-02-07T12:18:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46923254\">Comments</a>"
-  },
-  {
-    "title": "The AI boom is causing shortages everywhere else",
-    "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-    "source": "Hacker News",
-    "published": "2026-02-07T11:21:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46922969\">Comments</a>"
   },
   {
     "title": "Vocal Guide \u2013 belt sing without killing yourself",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46918612\">Comments</a>"
   },
   {
-    "title": "The Waymo World Model",
-    "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-    "source": "Hacker News",
-    "published": "2026-02-06T16:20:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46914785\">Comments</a>"
-  },
-  {
     "title": "Start all of your commands with a comma (2009)",
     "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
     "source": "Hacker News",
@@ -136,7 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46887084\">Comments</a>"
   },
   {
-    "title": "Selection Rather Than Prediction",
+    "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+    "link": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
+    "source": "Hacker News",
+    "published": "2026-02-04T11:13:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46884412\">Comments</a>"
+  },
+  {
+    "title": "Selection rather than prediction",
     "link": "https://voratiq.com/blog/selection-rather-than-prediction/",
     "source": "Hacker News",
     "published": "2026-02-03T23:31:05+00:00",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46878942\">Comments</a>"
   },
   {
-    "title": "A Fresh Look at IBM 3270 Information Display System",
-    "link": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
+    "title": "Eigen: Building a Workspace",
+    "link": "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/",
     "source": "Hacker News",
-    "published": "2026-02-03T16:40:52+00:00",
+    "published": "2026-02-03T10:58:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46873322\">Comments</a>"
-  },
-  {
-    "title": "72M Points of Interest",
-    "link": "https://tech.marksblogg.com/overture-places-pois.html",
-    "source": "Hacker News",
-    "published": "2026-02-02T16:40:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46858042\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46869353\">Comments</a>"
   }
 ]
