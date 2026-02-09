@@ -1,6 +1,54 @@
 [
   {
-    "title": "The Markets of Old London",
+    "title": "America Has a Tungsten Problem",
+    "link": "https://www.noleary.com/blog/posts/1",
+    "source": "Hacker News",
+    "published": "2026-02-09T20:49:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46951057\">Comments</a>"
+  },
+  {
+    "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+    "link": "https://blog.prosody.im/2026-letsencrypt-changes/",
+    "source": "Hacker News",
+    "published": "2026-02-09T20:31:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46950780\">Comments</a>"
+  },
+  {
+    "title": "MIT Living Wage Calculator",
+    "link": "https://livingwage.mit.edu/",
+    "source": "Hacker News",
+    "published": "2026-02-09T19:50:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46950152\">Comments</a>"
+  },
+  {
+    "title": "An articulated archer automaton [video]",
+    "link": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
+    "source": "Hacker News",
+    "published": "2026-02-09T19:32:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46949864\">Comments</a>"
+  },
+  {
+    "title": "Luce: First Electric Ferrari. Designed by LoveFrom",
+    "link": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+    "source": "Hacker News",
+    "published": "2026-02-09T19:19:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46949642\">Comments</a>"
+  },
+  {
+    "title": "Another GitHub outage in the same day",
+    "link": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+    "source": "Hacker News",
+    "published": "2026-02-09T19:07:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46949452\">Comments</a>"
+  },
+  {
+    "title": "The Markets of Old London (2024)",
     "link": "https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/",
     "source": "Hacker News",
     "published": "2026-02-09T18:20:56+00:00",
@@ -16,6 +64,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46948273\">Comments</a>"
   },
   {
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+    "source": "Hacker News",
+    "published": "2026-02-09T17:09:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46947777\">Comments</a>"
+  },
+  {
     "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
     "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
     "source": "Hacker News",
@@ -24,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46947096\">Comments</a>"
   },
   {
-    "title": "GitHub is down again",
-    "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-    "source": "Hacker News",
-    "published": "2026-02-09T16:12:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46946827\">Comments</a>"
-  },
-  {
     "title": "Why is the sky blue?",
     "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
     "source": "Hacker News",
     "published": "2026-02-09T15:39:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46946401\">Comments</a>"
+  },
+  {
+    "title": "Sandboxels",
+    "link": "https://neal.fun/sandboxels/",
+    "source": "Hacker News",
+    "published": "2026-02-09T15:31:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46946308\">Comments</a>"
   },
   {
     "title": "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
@@ -56,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46945663\">Comments</a>"
   },
   {
-    "title": "Long-Sought Proof Tames Some of Math's Unruliest Equations",
-    "link": "https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/",
-    "source": "Hacker News",
-    "published": "2026-02-09T14:36:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945641\">Comments</a>"
-  },
-  {
-    "title": "AT&T, Verizon blocking release of Salt Typhoon security assessment reports",
-    "link": "https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/",
-    "source": "Hacker News",
-    "published": "2026-02-09T14:22:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945497\">Comments</a>"
-  },
-  {
     "title": "UEFI Bindings for JavaScript",
     "link": "https://codeberg.org/smnx/promethee",
     "source": "Hacker News",
@@ -88,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46945235\">Comments</a>"
   },
   {
-    "title": "Show HN: Algorithmically Finding the Longest Line of Sight on Earth",
+    "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
     "link": "https://alltheviews.world",
     "source": "Hacker News",
     "published": "2026-02-09T10:05:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46943568\">Comments</a>"
-  },
-  {
-    "title": "Nobody knows how the whole system works",
-    "link": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-    "source": "Hacker News",
-    "published": "2026-02-09T05:28:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46941882\">Comments</a>"
-  },
-  {
-    "title": "Art of Roads in Games",
-    "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-    "source": "Hacker News",
-    "published": "2026-02-08T21:05:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46938511\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: What are you working on? (February 2026)",
-    "link": "https://news.ycombinator.com/item?id=46937696",
-    "source": "Hacker News",
-    "published": "2026-02-08T19:35:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46937696\">Comments</a>"
-  },
-  {
-    "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
-    "link": "https://znah.net/graphs/",
-    "source": "Hacker News",
-    "published": "2026-02-08T13:18:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933955\">Comments</a>"
-  },
-  {
-    "title": "Vouch",
-    "link": "https://github.com/mitchellh/vouch",
-    "source": "Hacker News",
-    "published": "2026-02-08T03:09:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46930961\">Comments</a>"
   },
   {
     "title": "The Traffic Mimes of Bogot\u00e1",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46895089\">Comments</a>"
   },
   {
-    "title": "Medieval Monks Wrote over Ancient Star Catalog \u2013 Particle Accel Reveals Original",
-    "link": "https://www.smithsonianmag.com/smart-news/medieval-monks-wrote-over-a-copy-of-an-ancient-star-catalog-now-a-particle-accelerator-is-revealing-the-long-lost-original-text-180988123/",
+    "title": "How I've run major projects (2025)",
+    "link": "https://www.benkuhn.net/pjm/",
     "source": "Hacker News",
-    "published": "2026-02-04T12:53:23+00:00",
+    "published": "2026-02-03T22:38:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46885249\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46878373\">Comments</a>"
   },
   {
     "title": "Information Is Beautiful",
