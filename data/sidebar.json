@@ -1,11 +1,35 @@
 [
   {
+    "title": "NanoClaw now supports Claude's Agent Swarms in containers",
+    "link": "https://twitter.com/Gavriel_Cohen/status/2020701159175155874",
+    "source": "Hacker News",
+    "published": "2026-02-09T03:34:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46941280\">Comments</a>"
+  },
+  {
+    "title": "Every book recommended on the Odd Lots Discord",
+    "link": "https://odd-lots-books.netlify.app/",
+    "source": "Hacker News",
+    "published": "2026-02-08T23:27:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46939685\">Comments</a>"
+  },
+  {
     "title": "AI makes the easy part easier and the hard part harder",
     "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
     "source": "Hacker News",
     "published": "2026-02-08T23:13:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46939593\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+    "link": "https://bobbiec.github.io/cistercian-font.html",
+    "source": "Hacker News",
+    "published": "2026-02-08T22:39:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46939312\">Comments</a>"
   },
   {
     "title": "Toma (YC W24) Is Hiring Founding Engineers",
@@ -24,12 +48,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46939187\">Comments</a>"
   },
   {
+    "title": "Stop Generating, Start Thinking",
+    "link": "https://localghost.dev/blog/stop-generating-start-thinking/",
+    "source": "Hacker News",
+    "published": "2026-02-08T21:58:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46938958\">Comments</a>"
+  },
+  {
     "title": "Shifts in U.S. Social Media Use, 2020\u20132024: Decline, Fragmentation, Polarization (2025)",
     "link": "https://arxiv.org/abs/2510.25417",
     "source": "Hacker News",
     "published": "2026-02-08T21:52:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46938903\">Comments</a>"
+  },
+  {
+    "title": "Art of Roads in Games",
+    "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+    "source": "Hacker News",
+    "published": "2026-02-08T21:05:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46938511\">Comments</a>"
   },
   {
     "title": "More Mac malware from Google search",
@@ -80,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46936828\">Comments</a>"
   },
   {
-    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
+    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson\u2019s Mars books",
     "link": "https://underhillgame.com/",
     "source": "Hacker News",
     "published": "2026-02-08T17:08:30+00:00",
@@ -88,63 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46936237\">Comments</a>"
   },
   {
-    "title": "Omega-3 is inversely related to risk of early-onset dementia",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
-    "source": "Hacker News",
-    "published": "2026-02-08T16:47:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46935991\">Comments</a>"
-  },
-  {
-    "title": "I put a real-time 3D shader on the Game Boy Color",
-    "link": "https://blog.otterstack.com/posts/202512-gbshader/",
-    "source": "Hacker News",
-    "published": "2026-02-08T16:28:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46935791\">Comments</a>"
-  },
-  {
-    "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
-    "link": "https://habr.com/en/articles/446238/",
-    "source": "Hacker News",
-    "published": "2026-02-08T14:40:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934579\">Comments</a>"
-  },
-  {
-    "title": "RFC 3092 \u2013 Etymology of \"Foo\" (2001)",
-    "link": "https://datatracker.ietf.org/doc/html/rfc3092",
-    "source": "Hacker News",
-    "published": "2026-02-08T14:32:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934499\">Comments</a>"
-  },
-  {
-    "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-    "link": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
-    "source": "Hacker News",
-    "published": "2026-02-08T14:02:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934266\">Comments</a>"
-  },
-  {
-    "title": "GitHub Agentic Workflows",
-    "link": "https://github.github.io/gh-aw/",
-    "source": "Hacker News",
-    "published": "2026-02-08T13:40:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934107\">Comments</a>"
-  },
-  {
-    "title": "Dave Farber has died",
-    "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
-    "source": "Hacker News",
-    "published": "2026-02-08T11:38:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933401\">Comments</a>"
-  },
-  {
-    "title": "Quartz Crystals",
+    "title": "Quartz crystals",
     "link": "https://www.pa3fwm.nl/technotes/tn13a.html",
     "source": "Hacker News",
     "published": "2026-02-08T08:26:36+00:00",
@@ -158,5 +142,21 @@
     "published": "2026-02-08T03:09:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46930961\">Comments</a>"
+  },
+  {
+    "title": "Cooking with Glasses",
+    "link": "https://macwright.com/2025/09/21/cooking-with-glasses",
+    "source": "Hacker News",
+    "published": "2026-02-05T15:07:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46900447\">Comments</a>"
+  },
+  {
+    "title": "Custom Firmware for the MZ-RH1 \u2013 Ready for Testing",
+    "link": "https://sir68k.re/posts/rh1-firmware-available/",
+    "source": "Hacker News",
+    "published": "2026-02-04T13:57:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46885841\">Comments</a>"
   }
 ]
