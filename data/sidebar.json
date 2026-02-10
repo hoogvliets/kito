@@ -1,11 +1,19 @@
 [
   {
-    "title": "Brutalist Southbank Centre Listed",
-    "link": "https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals",
+    "title": "Show HN: Pipelock \u2013 All-in-one security harness for AI coding agents",
+    "link": "https://github.com/luckyPipewrench/pipelock",
     "source": "Hacker News",
-    "published": "2026-02-10T07:10:37+00:00",
+    "published": "2026-02-10T12:04:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46956322\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46958597\">Comments</a>"
+  },
+  {
+    "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+    "link": "https://code.idtech.space/fn/hl2",
+    "source": "Hacker News",
+    "published": "2026-02-10T11:21:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46958231\">Comments</a>"
   },
   {
     "title": "Frontier AI agents violate ethical constraints 30\u201350% of time, pressured by KPIs",
@@ -54,14 +62,6 @@
     "published": "2026-02-09T22:01:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46952118\">Comments</a>"
-  },
-  {
-    "title": "America has a tungsten problem",
-    "link": "https://www.noleary.com/blog/posts/1",
-    "source": "Hacker News",
-    "published": "2026-02-09T20:49:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46951057\">Comments</a>"
   },
   {
     "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46945663\">Comments</a>"
   },
   {
-    "title": "UEFI Bindings for JavaScript",
-    "link": "https://codeberg.org/smnx/promethee",
-    "source": "Hacker News",
-    "published": "2026-02-09T14:07:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945348\">Comments</a>"
-  },
-  {
     "title": "Eight more months of agents",
     "link": "https://crawshaw.io/blog/eight-more-months-of-agents",
     "source": "Hacker News",
     "published": "2026-02-08T11:00:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933223\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+    "link": "https://elysiajs.com/internal/jit-compiler",
+    "source": "Hacker News",
+    "published": "2026-02-08T10:22:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933022\">Comments</a>"
   },
   {
     "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46932911\">Comments</a>"
   },
   {
-    "title": "The original vi is a product of its time (and its time has passed)",
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime",
+    "title": "Show HN: Total Recall \u2013 write-gated memory for Claude Code",
+    "link": "https://github.com/davegoldblatt/total-recall",
     "source": "Hacker News",
-    "published": "2026-02-08T06:53:29+00:00",
+    "published": "2026-02-05T23:56:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46931923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46907183\">Comments</a>"
   }
 ]
