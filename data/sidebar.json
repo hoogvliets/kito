@@ -1,43 +1,35 @@
 [
   {
-    "title": "Show HN: Clawe \u2013 open-source Trello for agent teams",
-    "link": "https://github.com/getclawe/clawe",
+    "title": "The Day the Telnet Died",
+    "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
     "source": "Hacker News",
-    "published": "2026-02-10T20:17:45+00:00",
+    "published": "2026-02-10T22:20:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46966209\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46967772\">Comments</a>"
   },
   {
-    "title": "China's Data Center Boom: A View from Zhangjiakou (2025)",
-    "link": "https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from",
+    "title": "The Falkirk Wheel",
+    "link": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
     "source": "Hacker News",
-    "published": "2026-02-10T19:19:56+00:00",
+    "published": "2026-02-10T20:42:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46965345\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46966605\">Comments</a>"
   },
   {
-    "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
-    "link": "https://livedocs.com",
+    "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+    "link": "https://github.com/tambo-ai/tambo",
     "source": "Hacker News",
-    "published": "2026-02-10T18:09:14+00:00",
+    "published": "2026-02-10T20:16:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46964162\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46966182\">Comments</a>"
   },
   {
-    "title": "The switch to Linux and the beginning of my self-hosting journey",
-    "link": "https://hazemkrimi.tech/blog/linux-self-hosting-journey/",
+    "title": "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
     "source": "Hacker News",
-    "published": "2026-02-10T18:09:10+00:00",
+    "published": "2026-02-10T19:25:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46964159\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
-    "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
-    "source": "Hacker News",
-    "published": "2026-02-10T17:52:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963887\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46965440\">Comments</a>"
   },
   {
     "title": "Markdown CLI viewer with VI keybindings",
@@ -56,6 +48,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46963804\">Comments</a>"
   },
   {
+    "title": "Show HN: Stripe-no-webhooks \u2013 Sync your Stripe data to your Postgres DB",
+    "link": "https://github.com/pretzelai/stripe-no-webhooks",
+    "source": "Hacker News",
+    "published": "2026-02-10T17:14:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963177\">Comments</a>"
+  },
+  {
     "title": "The Singularity will occur on a Tuesday",
     "link": "https://campedersen.com/singularity",
     "source": "Hacker News",
@@ -72,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46962641\">Comments</a>"
   },
   {
-    "title": "Mathematicians disagree on the essential structure of the complex numbers",
+    "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
     "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
     "source": "Hacker News",
     "published": "2026-02-10T16:36:30+00:00",
@@ -96,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46961345\">Comments</a>"
   },
   {
-    "title": "Oxide raises $200M Series C",
-    "link": "https://oxide.computer/blog/our-200m-series-c",
-    "source": "Hacker News",
-    "published": "2026-02-10T14:20:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46960036\">Comments</a>"
-  },
-  {
     "title": "Simplifying Vulkan one subsystem at a time",
     "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
     "source": "Hacker News",
     "published": "2026-02-10T13:26:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46959418\">Comments</a>"
+  },
+  {
+    "title": "The Feynman Lectures on Physics (1961-1964)",
+    "link": "https://www.feynmanlectures.caltech.edu/",
+    "source": "Hacker News",
+    "published": "2026-02-10T11:36:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46958345\">Comments</a>"
   },
   {
     "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46957198\">Comments</a>"
   },
   {
-    "title": "The Evolution of Bengt Betj\u00e4nt",
-    "link": "https://andonlabs.com/blog/evolution-of-bengt",
-    "source": "Hacker News",
-    "published": "2026-02-10T03:24:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46954974\">Comments</a>"
-  },
-  {
     "title": "A brief history of oral peptides",
     "link": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
     "source": "Hacker News",
     "published": "2026-02-09T21:23:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46951573\">Comments</a>"
+  },
+  {
+    "title": "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
+    "link": "https://github.com/eigenpal/docx-js-editor",
+    "source": "Hacker News",
+    "published": "2026-02-09T16:33:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46947229\">Comments</a>"
   },
   {
     "title": "The Little Learner: A Straight Line to Deep Learning",
