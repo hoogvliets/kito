@@ -1,35 +1,51 @@
 [
   {
+    "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
+    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+    "source": "Hacker News",
+    "published": "2026-02-11T09:04:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46972610\">Comments</a>"
+  },
+  {
+    "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+    "link": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+    "source": "Hacker News",
+    "published": "2026-02-11T08:43:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46972471\">Comments</a>"
+  },
+  {
+    "title": "Communities Are Not Fungible",
+    "link": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+    "source": "Hacker News",
+    "published": "2026-02-11T07:42:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46972056\">Comments</a>"
+  },
+  {
+    "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+    "link": "https://www.workatastartup.com/jobs/90016",
+    "source": "Hacker News",
+    "published": "2026-02-11T07:00:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46971794\">Comments</a>"
+  },
+  {
+    "title": "Windows Notepad App Remote Code Execution Vulnerability",
+    "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+    "source": "Hacker News",
+    "published": "2026-02-11T06:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46971516\">Comments</a>"
+  },
+  {
     "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
     "link": "https://news.ycombinator.com/item?id=46971287",
     "source": "Hacker News",
     "published": "2026-02-11T05:40:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46971287\">Comments</a>"
-  },
-  {
-    "title": "Stay Hungry, Stay Foolish (2005)",
-    "link": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
-    "source": "Hacker News",
-    "published": "2026-02-11T05:32:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46971248\">Comments</a>"
-  },
-  {
-    "title": "A simpler way to remove explicit images from Search",
-    "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
-    "source": "Hacker News",
-    "published": "2026-02-11T04:15:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46970752\">Comments</a>"
-  },
-  {
-    "title": "Rivian R2: Electric Mid-Size SUV",
-    "link": "https://rivian.com/r2",
-    "source": "Hacker News",
-    "published": "2026-02-11T01:00:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46969399\">Comments</a>"
   },
   {
     "title": "Fun With Pinball",
@@ -46,14 +62,6 @@
     "published": "2026-02-10T22:20:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46967772\">Comments</a>"
-  },
-  {
-    "title": "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
-    "source": "Hacker News",
-    "published": "2026-02-10T19:25:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46965440\">Comments</a>"
   },
   {
     "title": "The Singularity will occur on a Tuesday",
@@ -86,14 +94,6 @@
     "published": "2026-02-10T13:26:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46959418\">Comments</a>"
-  },
-  {
-    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-    "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-    "source": "Hacker News",
-    "published": "2026-02-10T11:42:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46958399\">Comments</a>"
   },
   {
     "title": "The Feynman Lectures on Physics (1961-1964)",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933444\">Comments</a>"
   },
   {
-    "title": "Willow \u2013 Protocols for an uncertain future [video]",
-    "link": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+    "title": "Show HN: CodeMic",
+    "link": "https://codemic.io/#hn",
     "source": "Hacker News",
-    "published": "2026-02-08T08:52:50+00:00",
+    "published": "2026-02-08T10:42:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46932581\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933135\">Comments</a>"
   },
   {
     "title": "Flirt: The Native Backend",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46923009\">Comments</a>"
   },
   {
-    "title": "Lessons you will learn living in a snowy place",
-    "link": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
+    "title": "Signy: Signed URLs for Small Devices",
+    "link": "https://github.com/golioth/signy",
     "source": "Hacker News",
-    "published": "2026-02-06T14:49:25+00:00",
+    "published": "2026-02-06T11:25:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46913489\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46911581\">Comments</a>"
   }
 ]
