@@ -1,6 +1,62 @@
 [
   {
-    "title": "Polis: Open-source platform to find common ground at scale",
+    "title": "Welcoming Discord users amidst the challenge of Age Verification",
+    "link": "https://matrix.org/blog/2026/02/welcome-discord/",
+    "source": "Hacker News",
+    "published": "2026-02-12T20:57:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46995046\">Comments</a>"
+  },
+  {
+    "title": "Realfood.gov includes a Grok search box",
+    "link": "https://realfood.gov/#answers",
+    "source": "Hacker News",
+    "published": "2026-02-12T20:47:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46994907\">Comments</a>"
+  },
+  {
+    "title": "What's the difference between a \"disc\" and a \"disk\"?",
+    "link": "https://support.apple.com/en-gb/100749",
+    "source": "Hacker News",
+    "published": "2026-02-12T20:27:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46994636\">Comments</a>"
+  },
+  {
+    "title": "I was insulted today \u2013 AI style",
+    "link": "https://forkingmad.blog/insulted-today-ai/",
+    "source": "Hacker News",
+    "published": "2026-02-12T20:27:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46994633\">Comments</a>"
+  },
+  {
+    "title": "Rari \u2013 Rust-powered React framework",
+    "link": "https://rari.build/",
+    "source": "Hacker News",
+    "published": "2026-02-12T19:15:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46993596\">Comments</a>"
+  },
+  {
+    "title": "How to Have a Bad Career \u2013\u00a0David Patterson (2016) [video]",
+    "link": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+    "source": "Hacker News",
+    "published": "2026-02-12T19:01:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46993397\">Comments</a>"
+  },
+  {
+    "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+    "link": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "source": "Hacker News",
+    "published": "2026-02-12T18:58:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46993345\">Comments</a>"
+  },
+  {
+    "title": "Polis: Open-source platform for large-scale civic deliberation",
     "link": "https://pol.is/home2",
     "source": "Hacker News",
     "published": "2026-02-12T18:23:20+00:00",
@@ -40,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46991240\">Comments</a>"
   },
   {
-    "title": "MiniMax M2.5 released: 80.2% in SWE-bench Verified",
-    "link": "https://www.minimax.io/news/minimax-m25",
-    "source": "Hacker News",
-    "published": "2026-02-12T16:51:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46991154\">Comments</a>"
-  },
-  {
-    "title": "Show HN: 20+ Claude Code agents coordinating on real work (open source)",
-    "link": "https://github.com/mutable-state-inc/lean-collab",
-    "source": "Hacker News",
-    "published": "2026-02-12T16:23:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46990733\">Comments</a>"
-  },
-  {
     "title": "An AI agent published a hit piece on me",
     "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "source": "Hacker News",
@@ -64,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46990729\">Comments</a>"
   },
   {
-    "title": "Beginning autonomous operations with the 6th-generation Waymo Driver",
+    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
     "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
     "source": "Hacker News",
     "published": "2026-02-12T16:10:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46990578\">Comments</a>"
-  },
-  {
-    "title": "US businesses and consumers pay 90% of tariff costs, New York Fed says",
-    "link": "https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d",
-    "source": "Hacker News",
-    "published": "2026-02-12T15:32:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46990056\">Comments</a>"
   },
   {
     "title": "A brief history of barbed wire fence telephone networks (2024)",
@@ -96,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46989217\">Comments</a>"
   },
   {
-    "title": "Culture Is the Mass-Synchronization of Framings",
-    "link": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
-    "source": "Hacker News",
-    "published": "2026-02-12T14:17:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46989124\">Comments</a>"
-  },
-  {
-    "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
-    "link": "https://lwn.net/Articles/1055590/",
-    "source": "Hacker News",
-    "published": "2026-02-12T14:17:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46989117\">Comments</a>"
-  },
-  {
     "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
     "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "source": "Hacker News",
     "published": "2026-02-12T13:30:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46988596\">Comments</a>"
-  },
-  {
-    "title": "Run Pebble OS in Browser via WASM",
-    "link": "https://ericmigi.github.io/pebble-qemu-wasm/",
-    "source": "Hacker News",
-    "published": "2026-02-12T13:16:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46988462\">Comments</a>"
   },
   {
     "title": "Apache Arrow is 10 years old",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46988438\">Comments</a>"
   },
   {
-    "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
-    "link": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
-    "source": "Hacker News",
-    "published": "2026-02-12T12:23:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46987919\">Comments</a>"
-  },
-  {
     "title": "Warcraft III Peon Voice Notifications for Claude Code",
     "link": "https://github.com/tonyyont/peon-ping",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46985151\">Comments</a>"
   },
   {
-    "title": "1D Cellular Automata Playground",
-    "link": "https://paraschopra.github.io/1d-ca/",
+    "title": "Partial 8-Piece Tablebase",
+    "link": "https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC",
     "source": "Hacker News",
-    "published": "2026-02-09T08:03:02+00:00",
+    "published": "2026-02-09T12:09:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46942785\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46944376\">Comments</a>"
   }
 ]
