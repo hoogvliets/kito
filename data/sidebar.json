@@ -1,6 +1,30 @@
 [
   {
-    "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+    "title": "The Problem with LLMs",
+    "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+    "source": "Hacker News",
+    "published": "2026-02-12T02:03:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46984021\">Comments</a>"
+  },
+  {
+    "title": "Heroku is not dead",
+    "link": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+    "source": "Hacker News",
+    "published": "2026-02-12T00:20:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46983196\">Comments</a>"
+  },
+  {
+    "title": "From 34% to 96%: The Porting Initiative Delivers \u2013 Hologram v0.7.0",
+    "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+    "source": "Hacker News",
+    "published": "2026-02-11T23:54:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46982943\">Comments</a>"
+  },
+  {
+    "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
     "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
     "source": "Hacker News",
     "published": "2026-02-11T23:37:11+00:00",
@@ -16,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46982421\">Comments</a>"
   },
   {
-    "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
+    "title": "Covering electricity price increases from our data centers",
+    "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
+    "source": "Hacker News",
+    "published": "2026-02-11T21:12:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46981058\">Comments</a>"
+  },
+  {
+    "title": "Reports of Telnet's death have been greatly exaggerated",
     "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
     "source": "Hacker News",
     "published": "2026-02-11T20:20:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46980355\">Comments</a>"
-  },
-  {
-    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-    "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-    "source": "Hacker News",
-    "published": "2026-02-11T19:50:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46979936\">Comments</a>"
   },
   {
     "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
@@ -38,22 +62,6 @@
     "published": "2026-02-11T19:39:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46979781\">Comments</a>"
-  },
-  {
-    "title": "Components will kill pages",
-    "link": "https://bitsandbytes.dev/posts/components-will-kill-pages",
-    "source": "Hacker News",
-    "published": "2026-02-11T19:27:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46979604\">Comments</a>"
-  },
-  {
-    "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-    "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-    "source": "Hacker News",
-    "published": "2026-02-11T18:43:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46978966\">Comments</a>"
   },
   {
     "title": "Claude Code is being dumbed down?",
@@ -104,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46974515\">Comments</a>"
   },
   {
-    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+    "title": "Using an engineering notebook",
+    "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
     "source": "Hacker News",
-    "published": "2026-02-11T09:04:00+00:00",
+    "published": "2026-02-09T19:29:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46972610\">Comments</a>"
-  },
-  {
-    "title": "We rendered and embedded one million CAD files",
-    "link": "https://cad-search-three.vercel.app/",
-    "source": "Hacker News",
-    "published": "2026-02-10T23:12:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46968374\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46949814\">Comments</a>"
   },
   {
     "title": "Text classification with Python 3.14's ZSTD module",
@@ -128,7 +128,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46942864\">Comments</a>"
   },
   {
-    "title": "\"Nothing\" is the secret to structuring your work",
+    "title": "Deobfuscation and Analysis of Ring-1.io",
+    "link": "https://back.engineering/blog/04/02/2026/",
+    "source": "Hacker News",
+    "published": "2026-02-08T19:09:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46937427\">Comments</a>"
+  },
+  {
+    "title": "\u201cNothing\u201d is the secret to structuring your work",
     "link": "https://www.vangemert.dev/blog/nothing",
     "source": "Hacker News",
     "published": "2026-02-08T12:01:50+00:00",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933529\">Comments</a>"
   },
   {
-    "title": "GLM-OCR \u2013 A multimodal OCR model for complex document understanding",
-    "link": "https://github.com/zai-org/GLM-OCR",
+    "title": "Kanchipuram Saris and Thinking Machines",
+    "link": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
     "source": "Hacker News",
-    "published": "2026-02-07T14:15:36+00:00",
+    "published": "2026-02-07T06:19:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46924075\">Comments</a>"
-  },
-  {
-    "title": "Hacking the last Z80 computer \u2013 FOSDEM 2026 [video]",
-    "link": "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/",
-    "source": "Hacker News",
-    "published": "2026-02-07T13:09:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923554\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46921757\">Comments</a>"
   },
   {
     "title": "WiFi Could Become an Invisible Mass Surveillance System",
