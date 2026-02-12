@@ -1,5 +1,21 @@
 [
   {
+    "title": "From specification to stress test: a weekend with Claude",
+    "link": "https://www.juxt.pro/blog/from-specification-to-stress-test/",
+    "source": "Hacker News",
+    "published": "2026-02-12T09:06:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46986496\">Comments</a>"
+  },
+  {
+    "title": "65 Lines of Markdown, a Claude Code Sensation",
+    "link": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
+    "source": "Hacker News",
+    "published": "2026-02-12T07:52:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46986001\">Comments</a>"
+  },
+  {
     "title": "Warcraft III Peon Voice Notifications for Claude Code",
     "link": "https://github.com/tonyyont/peon-ping",
     "source": "Hacker News",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46985147\">Comments</a>"
   },
   {
-    "title": "How to Make a Living as an Artist",
+    "title": "How to make a living as an artist",
     "link": "https://essays.fnnch.com/make-a-living",
     "source": "Hacker News",
     "published": "2026-02-12T03:56:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46984735\">Comments</a>"
-  },
-  {
-    "title": "The Problem with LLMs",
-    "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
-    "source": "Hacker News",
-    "published": "2026-02-12T02:03:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46984021\">Comments</a>"
-  },
-  {
-    "title": "From 34% to 96%: The Porting Initiative Delivers \u2013 Hologram v0.7.0",
-    "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-    "source": "Hacker News",
-    "published": "2026-02-11T23:54:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46982943\">Comments</a>"
   },
   {
     "title": "Discord/Twitch/Snapchat age verification bypass",
@@ -48,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46982421\">Comments</a>"
   },
   {
-    "title": "Covering electricity price increases from our data centers",
-    "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
-    "source": "Hacker News",
-    "published": "2026-02-11T21:12:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46981058\">Comments</a>"
-  },
-  {
     "title": "Reports of Telnet's death have been greatly exaggerated",
     "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
     "source": "Hacker News",
     "published": "2026-02-11T20:20:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46980355\">Comments</a>"
-  },
-  {
-    "title": "Claude Code is being dumbed down?",
-    "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "source": "Hacker News",
-    "published": "2026-02-11T18:23:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46978710\">Comments</a>"
   },
   {
     "title": "NetNewsWire Turns 23",
@@ -112,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46949814\">Comments</a>"
   },
   {
+    "title": "HeyWhatsThat",
+    "link": "https://www.heywhatsthat.com/faq.html",
+    "source": "Hacker News",
+    "published": "2026-02-09T14:57:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945907\">Comments</a>"
+  },
+  {
     "title": "Text classification with Python 3.14's ZSTD module",
     "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
     "source": "Hacker News",
@@ -136,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46933529\">Comments</a>"
   },
   {
-    "title": "The Other Markov's Inequality",
+    "title": "The other Markov's inequality",
     "link": "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/",
     "source": "Hacker News",
     "published": "2026-02-08T02:03:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46930602\">Comments</a>"
+  },
+  {
+    "title": "RISC-V Vector Primer",
+    "link": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
+    "source": "Hacker News",
+    "published": "2026-02-07T11:38:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923051\">Comments</a>"
   },
   {
     "title": "Kanchipuram Saris and Thinking Machines",
@@ -152,7 +152,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46921757\">Comments</a>"
   },
   {
-    "title": "WiFi Could Become an Invisible Mass Surveillance System",
+    "title": "WiFi could become an invisible mass surveillance system",
     "link": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
     "source": "Hacker News",
     "published": "2026-02-07T01:16:42+00:00",
