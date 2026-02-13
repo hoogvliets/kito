@@ -1,11 +1,35 @@
 [
   {
-    "title": "Dario Amodei \u2013 \"We are near the end of the exponential\"",
-    "link": "https://www.dwarkesh.com/p/dario-amodei-2",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "link": "https://openai.com/index/new-result-theoretical-physics/",
     "source": "Hacker News",
-    "published": "2026-02-13T17:55:27+00:00",
+    "published": "2026-02-13T19:20:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005565\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+    "link": "https://cloudrouter.dev/",
+    "source": "Hacker News",
+    "published": "2026-02-13T19:02:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006393\">Comments</a>"
+  },
+  {
+    "title": "The Sharp PC-2000 Computer Boombox from 1979",
+    "link": "https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/",
+    "source": "Hacker News",
+    "published": "2026-02-13T18:35:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006055\">Comments</a>"
+  },
+  {
+    "title": "Building a TUI is easy now",
+    "link": "https://hatchet.run/blog/tuis-are-easy-now",
+    "source": "Hacker News",
+    "published": "2026-02-13T17:50:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
   },
   {
     "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
@@ -16,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47005081\">Comments</a>"
   },
   {
-    "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
-    "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+    "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
+    "link": "https://github.com/nearai/ironclaw",
     "source": "Hacker News",
-    "published": "2026-02-13T16:11:08+00:00",
+    "published": "2026-02-13T16:10:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004319\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004312\">Comments</a>"
   },
   {
     "title": "Open Source Is Not About You (2018)",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47002825\">Comments</a>"
   },
   {
-    "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
-    "link": "http://qualify.gauntletAI.com",
-    "source": "Hacker News",
-    "published": "2026-02-13T12:32:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47001968\">Comments</a>"
-  },
-  {
     "title": "Monosketch",
     "link": "https://monosketch.io/",
     "source": "Hacker News",
@@ -80,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46997008\">Comments</a>"
   },
   {
-    "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-    "link": "https://news.ycombinator.com/item?id=46996490",
+    "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
+    "link": "https://www.moltis.org",
     "source": "Hacker News",
-    "published": "2026-02-12T22:58:58+00:00",
+    "published": "2026-02-12T19:15:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46996490\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46993587\">Comments</a>"
   },
   {
     "title": "GPT\u20115.3\u2011Codex\u2011Spark",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46992553\">Comments</a>"
   },
   {
-    "title": "Gemini 3 Deep Think",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-    "source": "Hacker News",
-    "published": "2026-02-12T16:55:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46991240\">Comments</a>"
-  },
-  {
     "title": "Faster Than Dijkstra?",
     "link": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
     "source": "Hacker News",
@@ -112,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46954637\">Comments</a>"
   },
   {
-    "title": "Syd: Writing an application kernel in Rust [video]",
-    "link": "https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/",
+    "title": "Do Metaprojects",
+    "link": "https://taylor.town/wealth-001",
     "source": "Hacker News",
-    "published": "2026-02-09T06:27:34+00:00",
+    "published": "2026-02-09T14:39:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46942170\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945696\">Comments</a>"
+  },
+  {
+    "title": "gRPC: From service definition to wire format",
+    "link": "https://kreya.app/blog/grpc-deep-dive/",
+    "source": "Hacker News",
+    "published": "2026-02-09T12:17:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46944430\">Comments</a>"
   },
   {
     "title": "Sandwich Bill of Materials",
@@ -128,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46939613\">Comments</a>"
   },
   {
-    "title": "Advanced Aerial Robotics Made Simple",
-    "link": "https://www.drehmflight.com",
-    "source": "Hacker News",
-    "published": "2026-02-08T15:10:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934860\">Comments</a>"
-  },
-  {
     "title": "Green\u2019s Dictionary of Slang - Five hundred years of the vulgar tongue",
     "link": "https://greensdictofslang.com/",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46931482\">Comments</a>"
   },
   {
-    "title": "Implementing Auto Tiling with Just 5 Tiles",
-    "link": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
+    "title": "Font Rendering from First Principles",
+    "link": "https://mccloskeybr.com/articles/font_rendering.html",
     "source": "Hacker News",
-    "published": "2026-02-08T01:37:36+00:00",
+    "published": "2026-02-08T00:58:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46930461\">Comments</a>"
-  },
-  {
-    "title": "An open replacement for the IBM 3174 Establishment Controller",
-    "link": "https://github.com/lowobservable/oec",
-    "source": "Hacker News",
-    "published": "2026-02-07T18:39:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926299\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46930181\">Comments</a>"
   }
 ]
