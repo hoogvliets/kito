@@ -1,11 +1,27 @@
 [
   {
-    "title": "Show HN: I speak 5 languages. Duolingo taught me none. So I built lairner",
-    "link": "https://lairner.com",
+    "title": "Dario Amodei \u2013 \"We are near the end of the exponential\"",
+    "link": "https://www.dwarkesh.com/p/dario-amodei-2",
     "source": "Hacker News",
-    "published": "2026-02-13T15:11:52+00:00",
+    "published": "2026-02-13T17:55:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003596\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005565\">Comments</a>"
+  },
+  {
+    "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+    "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+    "source": "Hacker News",
+    "published": "2026-02-13T17:13:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005081\">Comments</a>"
+  },
+  {
+    "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+    "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+    "source": "Hacker News",
+    "published": "2026-02-13T16:11:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004319\">Comments</a>"
   },
   {
     "title": "Open Source Is Not About You (2018)",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47001871\">Comments</a>"
   },
   {
-    "title": "MinIO repository is no longer maintained",
-    "link": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-    "source": "Hacker News",
-    "published": "2026-02-13T07:46:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47000041\">Comments</a>"
-  },
-  {
     "title": "MMAcevedo aka Lena by qntm",
     "link": "https://qntm.org/mmacevedo",
     "source": "Hacker News",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46991240\">Comments</a>"
   },
   {
-    "title": "An AI agent published a hit piece on me",
-    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-    "source": "Hacker News",
-    "published": "2026-02-12T16:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46990729\">Comments</a>"
-  },
-  {
     "title": "Faster Than Dijkstra?",
     "link": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
     "source": "Hacker News",
@@ -112,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46954637\">Comments</a>"
   },
   {
-    "title": "Particle Lenia",
-    "link": "https://znah.net/lenia/",
+    "title": "Syd: Writing an application kernel in Rust [video]",
+    "link": "https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/",
     "source": "Hacker News",
-    "published": "2026-02-08T20:15:19+00:00",
+    "published": "2026-02-09T06:27:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46938084\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46942170\">Comments</a>"
+  },
+  {
+    "title": "Sandwich Bill of Materials",
+    "link": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+    "source": "Hacker News",
+    "published": "2026-02-08T23:15:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46939613\">Comments</a>"
   },
   {
     "title": "Advanced Aerial Robotics Made Simple",
@@ -126,14 +134,6 @@
     "published": "2026-02-08T15:10:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46934860\">Comments</a>"
-  },
-  {
-    "title": "Cache Monet",
-    "link": "https://cachemonet.com",
-    "source": "Hacker News",
-    "published": "2026-02-08T10:22:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46933020\">Comments</a>"
   },
   {
     "title": "Green\u2019s Dictionary of Slang - Five hundred years of the vulgar tongue",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46930461\">Comments</a>"
   },
   {
-    "title": "We interfaced single-threaded C++ with multi-threaded Rust",
-    "link": "https://antithesis.com/blog/2026/rust_cpp/",
+    "title": "An open replacement for the IBM 3174 Establishment Controller",
+    "link": "https://github.com/lowobservable/oec",
     "source": "Hacker News",
-    "published": "2026-02-07T13:45:47+00:00",
+    "published": "2026-02-07T18:39:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46923825\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46926299\">Comments</a>"
   }
 ]
