@@ -1,19 +1,43 @@
 [
   {
+    "title": "Golf game built last night with Claude Code, Svelte and ThreeJS",
+    "link": "https://www.the-golf-is-golfing.com",
+    "source": "Hacker News",
+    "published": "2026-02-14T14:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014704\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Sameshi \u2013 a ~1200 Elo chess engine that fits within 2KB",
+    "link": "https://github.com/datavorous/sameshi",
+    "source": "Hacker News",
+    "published": "2026-02-14T13:47:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014500\">Comments</a>"
+  },
+  {
+    "title": "Ooh.directory: a place to find good blogs that interest you",
+    "link": "https://ooh.directory/",
+    "source": "Hacker News",
+    "published": "2026-02-14T13:40:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014449\">Comments</a>"
+  },
+  {
+    "title": "How many registers does an x86-64 CPU have? (2020)",
+    "link": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+    "source": "Hacker News",
+    "published": "2026-02-14T13:33:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014405\">Comments</a>"
+  },
+  {
     "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
     "link": "https://infosec.exchange/@mttaggart/116065340523529645",
     "source": "Hacker News",
     "published": "2026-02-14T09:28:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47013059\">Comments</a>"
-  },
-  {
-    "title": "YouTube as Storage",
-    "link": "https://github.com/PulseBeat02/yt-media-storage",
-    "source": "Hacker News",
-    "published": "2026-02-14T09:10:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012964\">Comments</a>"
   },
   {
     "title": "Zig \u2013 io_uring and Grand Central Dispatch std.Io implementations landed",
@@ -32,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47012312\">Comments</a>"
   },
   {
-    "title": "Backblaze Drive Stats for 2025",
-    "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-    "source": "Hacker News",
-    "published": "2026-02-14T04:35:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47011602\">Comments</a>"
-  },
-  {
     "title": "Show HN: SQL-tap \u2013 Real-time SQL traffic viewer for PostgreSQL and MySQL",
     "link": "https://github.com/mickamy/sql-tap",
     "source": "Hacker News",
     "published": "2026-02-14T04:27:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47011567\">Comments</a>"
-  },
-  {
-    "title": "NPMX \u2013 a fast, modern browser for the NPM registry",
-    "link": "https://npmx.dev",
-    "source": "Hacker News",
-    "published": "2026-02-14T02:14:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47010823\">Comments</a>"
   },
   {
     "title": "Show HN: Data Engineering Book \u2013 An open source, community-driven guide",
@@ -64,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47008163\">Comments</a>"
   },
   {
-    "title": "The EU moves to kill infinite scrolling",
-    "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-    "source": "Hacker News",
-    "published": "2026-02-13T20:52:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47007656\">Comments</a>"
-  },
-  {
     "title": "GPT-5.2 derives a new result in theoretical physics",
     "link": "https://openai.com/index/new-result-theoretical-physics/",
     "source": "Hacker News",
     "published": "2026-02-13T19:20:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>"
-  },
-  {
-    "title": "Building a TUI is easy now",
-    "link": "https://hatchet.run/blog/tuis-are-easy-now",
-    "source": "Hacker News",
-    "published": "2026-02-13T17:50:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
   },
   {
     "title": "Babylon 5 is now free to watch on YouTube",
@@ -104,20 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46983873\">Comments</a>"
   },
   {
-    "title": "The Three Year Myth",
-    "link": "https://green.spacedino.net/the-three-year-myth/",
+    "title": "What color are your bits? (2004)",
+    "link": "https://ansuz.sooke.bc.ca/entry/23",
     "source": "Hacker News",
-    "published": "2026-02-10T19:51:38+00:00",
+    "published": "2026-02-11T05:37:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46965829\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46971273\">Comments</a>"
   },
   {
-    "title": "Gradient.horse",
-    "link": "https://gradient.horse",
+    "title": "The mathematics of compression in database systems",
+    "link": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
     "source": "Hacker News",
-    "published": "2026-02-10T04:13:49+00:00",
+    "published": "2026-02-10T17:07:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46955311\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963047\">Comments</a>"
+  },
+  {
+    "title": "Code Storage by the Pierre Computer Company",
+    "link": "https://code.storage/",
+    "source": "Hacker News",
+    "published": "2026-02-10T10:12:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46957629\">Comments</a>"
   },
   {
     "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
@@ -126,6 +126,14 @@
     "published": "2026-02-10T02:44:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46954696\">Comments</a>"
+  },
+  {
+    "title": "The Sling: Humanity's Forgotten Power",
+    "link": "https://www.slinging.org/",
+    "source": "Hacker News",
+    "published": "2026-02-09T21:13:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46951430\">Comments</a>"
   },
   {
     "title": "How the Little Guy Moved",
@@ -150,13 +158,5 @@
     "published": "2026-02-08T17:46:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46936671\">Comments</a>"
-  },
-  {
-    "title": "Font Rendering from First Principles",
-    "link": "https://mccloskeybr.com/articles/font_rendering.html",
-    "source": "Hacker News",
-    "published": "2026-02-08T00:58:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46930181\">Comments</a>"
   }
 ]
