@@ -1,5 +1,21 @@
 [
   {
+    "title": "Zig \u2013 io_uring and Grand Central Dispatch std.Io implementations landed",
+    "link": "https://ziglang.org/devlog/2026/#2026-02-13",
+    "source": "Hacker News",
+    "published": "2026-02-14T08:22:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012717\">Comments</a>"
+  },
+  {
+    "title": "Cogram (YC W22) \u2013 Hiring former technical founders",
+    "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+    "source": "Hacker News",
+    "published": "2026-02-14T07:00:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012312\">Comments</a>"
+  },
+  {
     "title": "Backblaze Drive Stats for 2025",
     "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
     "source": "Hacker News",
@@ -22,22 +38,6 @@
     "published": "2026-02-14T02:14:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47010823\">Comments</a>"
-  },
-  {
-    "title": "What dating apps are optimizing. Hint: It isn't love",
-    "link": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
-    "source": "Hacker News",
-    "published": "2026-02-14T01:27:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47010406\">Comments</a>"
-  },
-  {
-    "title": "OpenAI has deleted the word 'safely' from its mission",
-    "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-    "source": "Hacker News",
-    "published": "2026-02-13T22:17:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47008560\">Comments</a>"
   },
   {
     "title": "Show HN: Data Engineering Book \u2013 An open source, community-driven guide",
@@ -64,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>"
   },
   {
-    "title": "I'm not worried about AI job loss",
-    "link": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-    "source": "Hacker News",
-    "published": "2026-02-13T19:13:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006513\">Comments</a>"
-  },
-  {
     "title": "Building a TUI is easy now",
     "link": "https://hatchet.run/blog/tuis-are-easy-now",
     "source": "Hacker News",
@@ -88,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47001871\">Comments</a>"
   },
   {
-    "title": "WolfSSL sucks too, so now what?",
-    "link": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+    "title": "Babylon 5 is now free to watch on YouTube",
+    "link": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
     "source": "Hacker News",
-    "published": "2026-02-13T10:18:56+00:00",
+    "published": "2026-02-13T08:49:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47001095\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47000505\">Comments</a>"
   },
   {
     "title": "Common Lisp Screenshots: today's CL applications in action",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46967147\">Comments</a>"
   },
   {
-    "title": "Marginal Revolution",
-    "link": "https://sebastiangaliani.substack.com/p/marginal-revolution",
+    "title": "The Three Year Myth",
+    "link": "https://green.spacedino.net/the-three-year-myth/",
     "source": "Hacker News",
-    "published": "2026-02-10T17:39:29+00:00",
+    "published": "2026-02-10T19:51:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963672\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46965829\">Comments</a>"
   },
   {
     "title": "Gradient.horse",
@@ -134,6 +126,14 @@
     "published": "2026-02-10T02:44:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46954696\">Comments</a>"
+  },
+  {
+    "title": "How the Little Guy Moved",
+    "link": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+    "source": "Hacker News",
+    "published": "2026-02-09T17:30:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46948097\">Comments</a>"
   },
   {
     "title": "gRPC: From service definition to wire format",
