@@ -1,11 +1,67 @@
 [
   {
+    "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+    "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+    "source": "Hacker News",
+    "published": "2026-02-14T00:00:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47009582\">Comments</a>"
+  },
+  {
+    "title": "The evolution of OpenAI's mission statement",
+    "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+    "source": "Hacker News",
+    "published": "2026-02-13T23:43:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47009416\">Comments</a>"
+  },
+  {
+    "title": "OpenAI has deleted the word 'safely' from its mission",
+    "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+    "source": "Hacker News",
+    "published": "2026-02-13T22:17:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47008560\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Data Engineering Book \u2013 An open source, community-driven guide",
+    "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "source": "Hacker News",
+    "published": "2026-02-13T21:35:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47008163\">Comments</a>"
+  },
+  {
+    "title": "The EU moves to kill infinite scrolling",
+    "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+    "source": "Hacker News",
+    "published": "2026-02-13T20:52:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47007656\">Comments</a>"
+  },
+  {
+    "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
+    "link": "https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/",
+    "source": "Hacker News",
+    "published": "2026-02-13T19:41:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006843\">Comments</a>"
+  },
+  {
     "title": "GPT-5.2 derives a new result in theoretical physics",
     "link": "https://openai.com/index/new-result-theoretical-physics/",
     "source": "Hacker News",
     "published": "2026-02-13T19:20:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>"
+  },
+  {
+    "title": "I'm not worried about AI job loss",
+    "link": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+    "source": "Hacker News",
+    "published": "2026-02-13T19:13:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006513\">Comments</a>"
   },
   {
     "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
@@ -16,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47006393\">Comments</a>"
   },
   {
-    "title": "The Sharp PC-2000 Computer Boombox from 1979",
-    "link": "https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/",
-    "source": "Hacker News",
-    "published": "2026-02-13T18:35:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006055\">Comments</a>"
-  },
-  {
     "title": "Building a TUI is easy now",
     "link": "https://hatchet.run/blog/tuis-are-easy-now",
     "source": "Hacker News",
@@ -32,44 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
   },
   {
-    "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
-    "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+    "title": "How did the Maya survive?",
+    "link": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
     "source": "Hacker News",
-    "published": "2026-02-13T17:13:01+00:00",
+    "published": "2026-02-13T14:36:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47005081\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003214\">Comments</a>"
   },
   {
-    "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
-    "link": "https://github.com/nearai/ironclaw",
-    "source": "Hacker News",
-    "published": "2026-02-13T16:10:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004312\">Comments</a>"
-  },
-  {
-    "title": "Open Source Is Not About You (2018)",
-    "link": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-    "source": "Hacker News",
-    "published": "2026-02-13T14:36:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003219\">Comments</a>"
-  },
-  {
-    "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
+    "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to\u00a0Android",
     "link": "https://ios-countdown.win/",
     "source": "Hacker News",
     "published": "2026-02-13T14:21:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47003064\">Comments</a>"
-  },
-  {
-    "title": "Zed editor switching graphics lib from blade to wgpu",
-    "link": "https://github.com/zed-industries/zed/pull/46758",
-    "source": "Hacker News",
-    "published": "2026-02-13T14:03:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47002825\">Comments</a>"
   },
   {
     "title": "Monosketch",
@@ -80,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47001871\">Comments</a>"
   },
   {
-    "title": "MMAcevedo aka Lena by qntm",
-    "link": "https://qntm.org/mmacevedo",
+    "title": "CSS-Doodle",
+    "link": "https://css-doodle.com/",
     "source": "Hacker News",
-    "published": "2026-02-13T05:24:40+00:00",
+    "published": "2026-02-13T08:02:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46999224\">Comments</a>"
-  },
-  {
-    "title": "Resizing windows on macOS Tahoe \u2013 the saga continues",
-    "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-    "source": "Hacker News",
-    "published": "2026-02-12T23:52:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46997008\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47000164\">Comments</a>"
   },
   {
     "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
@@ -104,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46993587\">Comments</a>"
   },
   {
-    "title": "GPT\u20115.3\u2011Codex\u2011Spark",
-    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "title": "Common Lisp Screenshots: today's CL applications in action",
+    "link": "http://www.lisp-screenshots.org",
     "source": "Hacker News",
-    "published": "2026-02-12T18:06:09+00:00",
+    "published": "2026-02-12T01:44:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46992553\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46983873\">Comments</a>"
   },
   {
-    "title": "Faster Than Dijkstra?",
-    "link": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+    "title": "Gradient.horse",
+    "link": "https://gradient.horse",
     "source": "Hacker News",
-    "published": "2026-02-10T02:36:34+00:00",
+    "published": "2026-02-10T04:13:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46954637\">Comments</a>"
-  },
-  {
-    "title": "Do Metaprojects",
-    "link": "https://taylor.town/wealth-001",
-    "source": "Hacker News",
-    "published": "2026-02-09T14:39:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46945696\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46955311\">Comments</a>"
   },
   {
     "title": "gRPC: From service definition to wire format",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46944430\">Comments</a>"
   },
   {
-    "title": "Sandwich Bill of Materials",
-    "link": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+    "title": "Advanced Aerial Robotics Made Simple",
+    "link": "https://www.drehmflight.com",
     "source": "Hacker News",
-    "published": "2026-02-08T23:15:54+00:00",
+    "published": "2026-02-08T15:10:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46939613\">Comments</a>"
-  },
-  {
-    "title": "Green\u2019s Dictionary of Slang - Five hundred years of the vulgar tongue",
-    "link": "https://greensdictofslang.com/",
-    "source": "Hacker News",
-    "published": "2026-02-08T05:10:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46931482\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934860\">Comments</a>"
   },
   {
     "title": "Font Rendering from First Principles",
