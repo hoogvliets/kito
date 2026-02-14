@@ -1,11 +1,67 @@
 [
   {
-    "title": "Golf game built last night with Claude Code, Svelte and ThreeJS",
-    "link": "https://www.the-golf-is-golfing.com",
+    "title": "Show HN: Arcmark \u2013 macOS bookmark manager that attaches to browser as sidebar",
+    "link": "https://github.com/Geek-1001/arcmark",
     "source": "Hacker News",
-    "published": "2026-02-14T14:15:33+00:00",
+    "published": "2026-02-14T16:55:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014704\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47016058\">Comments</a>"
+  },
+  {
+    "title": "Stoat removes all LLM-generated code following user criticism",
+    "link": "https://github.com/orgs/stoatchat/discussions/1022",
+    "source": "Hacker News",
+    "published": "2026-02-14T16:54:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47016050\">Comments</a>"
+  },
+  {
+    "title": "Amsterdam Compiler Kit",
+    "link": "https://github.com/davidgiven/ack",
+    "source": "Hacker News",
+    "published": "2026-02-14T16:50:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47016008\">Comments</a>"
+  },
+  {
+    "title": "A Review of M Disc Archival Capability. With long term testing results",
+    "link": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+    "source": "Hacker News",
+    "published": "2026-02-14T16:07:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47015579\">Comments</a>"
+  },
+  {
+    "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+    "link": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+    "source": "Hacker News",
+    "published": "2026-02-14T15:49:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47015406\">Comments</a>"
+  },
+  {
+    "title": "Vim 9.2 Released",
+    "link": "https://www.vim.org/vim-9.2-released.php",
+    "source": "Hacker News",
+    "published": "2026-02-14T15:39:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47015330\">Comments</a>"
+  },
+  {
+    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+    "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+    "source": "Hacker News",
+    "published": "2026-02-14T15:35:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47015294\">Comments</a>"
+  },
+  {
+    "title": "7zip.com Is Serving Malware",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+    "source": "Hacker News",
+    "published": "2026-02-14T14:58:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014995\">Comments</a>"
   },
   {
     "title": "Show HN: Sameshi \u2013 a ~1200 Elo chess engine that fits within 2KB",
@@ -24,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47014449\">Comments</a>"
   },
   {
-    "title": "How many registers does an x86-64 CPU have? (2020)",
-    "link": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
-    "source": "Hacker News",
-    "published": "2026-02-14T13:33:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014405\">Comments</a>"
-  },
-  {
     "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
     "link": "https://infosec.exchange/@mttaggart/116065340523529645",
     "source": "Hacker News",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47012717\">Comments</a>"
   },
   {
-    "title": "Cogram (YC W22) \u2013 Hiring former technical founders",
-    "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
-    "source": "Hacker News",
-    "published": "2026-02-14T07:00:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012312\">Comments</a>"
-  },
-  {
     "title": "Show HN: SQL-tap \u2013 Real-time SQL traffic viewer for PostgreSQL and MySQL",
     "link": "https://github.com/mickamy/sql-tap",
     "source": "Hacker News",
     "published": "2026-02-14T04:27:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47011567\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Data Engineering Book \u2013 An open source, community-driven guide",
-    "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-    "source": "Hacker News",
-    "published": "2026-02-13T21:35:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47008163\">Comments</a>"
-  },
-  {
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "link": "https://openai.com/index/new-result-theoretical-physics/",
-    "source": "Hacker News",
-    "published": "2026-02-13T19:20:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006594\">Comments</a>"
   },
   {
     "title": "Babylon 5 is now free to watch on YouTube",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47000505\">Comments</a>"
   },
   {
-    "title": "Common Lisp Screenshots: today's CL applications in action",
-    "link": "http://www.lisp-screenshots.org",
-    "source": "Hacker News",
-    "published": "2026-02-12T01:44:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46983873\">Comments</a>"
-  },
-  {
     "title": "What color are your bits? (2004)",
     "link": "https://ansuz.sooke.bc.ca/entry/23",
     "source": "Hacker News",
@@ -104,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46971273\">Comments</a>"
   },
   {
-    "title": "The mathematics of compression in database systems",
-    "link": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+    "title": "Shades of Halftone",
+    "link": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
     "source": "Hacker News",
-    "published": "2026-02-10T17:07:17+00:00",
+    "published": "2026-02-10T13:35:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963047\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46959531\">Comments</a>"
   },
   {
     "title": "Code Storage by the Pierre Computer Company",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46951430\">Comments</a>"
   },
   {
-    "title": "How the Little Guy Moved",
-    "link": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+    "title": "Ask HN: How to get started with robotics as a hobbyist?",
+    "link": "https://news.ycombinator.com/item?id=46934622",
     "source": "Hacker News",
-    "published": "2026-02-09T17:30:27+00:00",
+    "published": "2026-02-08T14:44:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46948097\">Comments</a>"
-  },
-  {
-    "title": "The World of Harmonics \u2013 With a Coffee, Guitar and Synth",
-    "link": "https://mynoise.net/vlog.php?ep=20260204",
-    "source": "Hacker News",
-    "published": "2026-02-09T12:53:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46944716\">Comments</a>"
-  },
-  {
-    "title": "Understanding the Go Compiler: The Linker",
-    "link": "https://internals-for-interns.com/posts/the-go-linker/",
-    "source": "Hacker News",
-    "published": "2026-02-08T17:46:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46936671\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934622\">Comments</a>"
   }
 ]
