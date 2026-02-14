@@ -1,5 +1,21 @@
 [
   {
+    "title": "Backblaze Drive Stats for 2025",
+    "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+    "source": "Hacker News",
+    "published": "2026-02-14T04:35:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47011602\">Comments</a>"
+  },
+  {
+    "title": "Show HN: SQL-tap \u2013 Real-time SQL traffic viewer for PostgreSQL and MySQL",
+    "link": "https://github.com/mickamy/sql-tap",
+    "source": "Hacker News",
+    "published": "2026-02-14T04:27:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47011567\">Comments</a>"
+  },
+  {
     "title": "NPMX \u2013 a fast, modern browser for the NPM registry",
     "link": "https://npmx.dev",
     "source": "Hacker News",
@@ -14,14 +30,6 @@
     "published": "2026-02-14T01:27:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47010406\">Comments</a>"
-  },
-  {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 More Things Have Happened",
-    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "source": "Hacker News",
-    "published": "2026-02-14T00:37:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47009949\">Comments</a>"
   },
   {
     "title": "OpenAI has deleted the word 'safely' from its mission",
@@ -64,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47006513\">Comments</a>"
   },
   {
-    "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-    "link": "https://cloudrouter.dev/",
-    "source": "Hacker News",
-    "published": "2026-02-13T19:02:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006393\">Comments</a>"
-  },
-  {
     "title": "Building a TUI is easy now",
     "link": "https://hatchet.run/blog/tuis-are-easy-now",
     "source": "Hacker News",
@@ -80,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
   },
   {
-    "title": "How did the Maya survive?",
-    "link": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-    "source": "Hacker News",
-    "published": "2026-02-13T14:36:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003214\">Comments</a>"
-  },
-  {
     "title": "Monosketch",
     "link": "https://monosketch.io/",
     "source": "Hacker News",
     "published": "2026-02-13T12:18:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47001871\">Comments</a>"
+  },
+  {
+    "title": "WolfSSL sucks too, so now what?",
+    "link": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+    "source": "Hacker News",
+    "published": "2026-02-13T10:18:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47001095\">Comments</a>"
   },
   {
     "title": "Common Lisp Screenshots: today's CL applications in action",
@@ -112,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46967147\">Comments</a>"
   },
   {
+    "title": "Marginal Revolution",
+    "link": "https://sebastiangaliani.substack.com/p/marginal-revolution",
+    "source": "Hacker News",
+    "published": "2026-02-10T17:39:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46963672\">Comments</a>"
+  },
+  {
     "title": "Gradient.horse",
     "link": "https://gradient.horse",
     "source": "Hacker News",
@@ -128,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46954696\">Comments</a>"
   },
   {
-    "title": "The Blurred Line Between Video Calling and Live Streaming Software",
-    "link": "https://www.red5.net/blog/between-video-calling-and-live-streaming-software/",
-    "source": "Hacker News",
-    "published": "2026-02-09T20:41:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46950925\">Comments</a>"
-  },
-  {
     "title": "gRPC: From service definition to wire format",
     "link": "https://kreya.app/blog/grpc-deep-dive/",
     "source": "Hacker News",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46944430\">Comments</a>"
   },
   {
-    "title": "Advanced Aerial Robotics Made Simple",
-    "link": "https://www.drehmflight.com",
+    "title": "Understanding the Go Compiler: The Linker",
+    "link": "https://internals-for-interns.com/posts/the-go-linker/",
     "source": "Hacker News",
-    "published": "2026-02-08T15:10:30+00:00",
+    "published": "2026-02-08T17:46:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46934860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46936671\">Comments</a>"
   },
   {
     "title": "Font Rendering from First Principles",
