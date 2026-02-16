@@ -1,19 +1,19 @@
 [
   {
-    "title": "Pink noise reduces REM sleep and may harm sleep quality",
-    "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+    "title": "Arm wants a bigger slice of the chip business",
+    "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
     "source": "Hacker News",
-    "published": "2026-02-16T00:35:12+00:00",
+    "published": "2026-02-16T02:36:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47030271\">Comments</a>"
   },
   {
-    "title": "Why I don't think AGI is imminent",
-    "link": "https://dlants.me/agi-not-imminent.html",
+    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+    "link": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
     "source": "Hacker News",
-    "published": "2026-02-15T23:34:18+00:00",
+    "published": "2026-02-16T00:26:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47028923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47029339\">Comments</a>"
   },
   {
     "title": "Error payloads in Zig",
@@ -64,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47026186\">Comments</a>"
   },
   {
-    "title": "Towards Autonomous Mathematics Research",
-    "link": "https://arxiv.org/abs/2602.10177",
-    "source": "Hacker News",
-    "published": "2026-02-15T18:35:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47026134\">Comments</a>"
-  },
-  {
     "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
     "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
     "source": "Hacker News",
@@ -86,14 +78,6 @@
     "published": "2026-02-15T18:04:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025851\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Klaw.sh \u2013\u00a0Kubernetes for AI agents",
-    "link": "https://github.com/klawsh/klaw.sh",
-    "source": "Hacker News",
-    "published": "2026-02-15T17:22:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47025478\">Comments</a>"
   },
   {
     "title": "LT6502: A 6502-based homebrew laptop",
@@ -120,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025085\">Comments</a>"
   },
   {
-    "title": "I fixed Windows native development",
-    "link": "https://marler8997.github.io/blog/fixed-windows/",
+    "title": "Gwtar: A static efficient single-file HTML format",
+    "link": "https://gwern.net/gwtar",
     "source": "Hacker News",
-    "published": "2026-02-15T11:25:26+00:00",
+    "published": "2026-02-15T15:37:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47022891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>"
   },
   {
     "title": "I gave Claude access to my pen plotter",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46993014\">Comments</a>"
   },
   {
+    "title": "Language a Wood for Thought: Susan Howe's Work",
+    "link": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
+    "source": "Hacker News",
+    "published": "2026-02-11T23:07:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46982509\">Comments</a>"
+  },
+  {
     "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
     "link": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
     "source": "Hacker News",
     "published": "2026-02-11T21:03:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46980930\">Comments</a>"
+  },
+  {
+    "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
+    "link": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+    "source": "Hacker News",
+    "published": "2026-02-11T17:13:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46977678\">Comments</a>"
   }
 ]
