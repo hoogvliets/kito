@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+    "link": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "source": "Hacker News",
+    "published": "2026-02-16T11:06:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47033622\">Comments</a>"
+  },
+  {
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "link": "https://github.com/unicode-org/message-format-wg",
+    "source": "Hacker News",
+    "published": "2026-02-16T10:26:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47033328\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "link": "https://qwen.ai/blog?id=qwen3.5",
+    "source": "Hacker News",
+    "published": "2026-02-16T09:32:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47032876\">Comments</a>"
+  },
+  {
     "title": "picol: A Tcl interpreter in 500 lines of code",
     "link": "https://github.com/antirez/picol",
     "source": "Hacker News",
@@ -38,14 +62,6 @@
     "published": "2026-02-16T00:26:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47029339\">Comments</a>"
-  },
-  {
-    "title": "Error payloads in Zig",
-    "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
-    "source": "Hacker News",
-    "published": "2026-02-15T23:08:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>"
   },
   {
     "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>"
   },
   {
-    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-    "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-    "source": "Hacker News",
-    "published": "2026-02-15T17:10:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>"
-  },
-  {
     "title": "I gave Claude access to my pen plotter",
     "link": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
     "source": "Hacker News",
@@ -128,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46999285\">Comments</a>"
   },
   {
-    "title": "Show HN: Solving Sudoku reasoning via Energy Geometric models",
-    "link": "https://www.davisgeometric.com/index.html",
+    "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+    "link": "https://github.com/preservim/vim-pencil",
     "source": "Hacker News",
-    "published": "2026-02-12T09:22:54+00:00",
+    "published": "2026-02-13T00:35:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46986604\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46997356\">Comments</a>"
+  },
+  {
+    "title": "Rolling your own serverless OCR in 40 lines of code",
+    "link": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+    "source": "Hacker News",
+    "published": "2026-02-12T13:23:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46988538\">Comments</a>"
   },
   {
     "title": "1,300-year-old world chronicle unearthed in Sinai",
@@ -142,21 +158,5 @@
     "published": "2026-02-12T04:01:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46984768\">Comments</a>"
-  },
-  {
-    "title": "Databases should contain their own Metadata \u2013 Use SQL Everywhere",
-    "link": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-    "source": "Hacker News",
-    "published": "2026-02-11T15:36:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46976256\">Comments</a>"
-  },
-  {
-    "title": "Lost Soviet Moon Lander May Have Been Found",
-    "link": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
-    "source": "Hacker News",
-    "published": "2026-02-11T15:03:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46975822\">Comments</a>"
   }
 ]
