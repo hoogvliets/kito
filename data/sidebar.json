@@ -1,5 +1,13 @@
 [
   {
+    "title": "Building SQLite with a small swarm",
+    "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+    "source": "Hacker News",
+    "published": "2026-02-16T05:38:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47031268\">Comments</a>"
+  },
+  {
     "title": "Arm wants a bigger slice of the chip business",
     "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
     "source": "Hacker News",
@@ -38,22 +46,6 @@
     "published": "2026-02-15T21:54:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>"
-  },
-  {
-    "title": "GNU Pies \u2013 Program Invocation and Execution Supervisor",
-    "link": "https://www.gnu.org.ua/software/pies/",
-    "source": "Hacker News",
-    "published": "2026-02-15T20:53:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47027427\">Comments</a>"
-  },
-  {
-    "title": "Show HN: VOOG \u2013 Moog-style polyphonic synthesizer in Python with tkinter GUI",
-    "link": "https://github.com/gpasquero/voog",
-    "source": "Hacker News",
-    "published": "2026-02-15T19:40:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47026768\">Comments</a>"
   },
   {
     "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
@@ -104,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025085\">Comments</a>"
   },
   {
-    "title": "Gwtar: A static efficient single-file HTML format",
-    "link": "https://gwern.net/gwtar",
+    "title": "How long do job postings stay open?",
+    "link": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
     "source": "Hacker News",
-    "published": "2026-02-15T15:37:06+00:00",
+    "published": "2026-02-14T22:35:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47019102\">Comments</a>"
   },
   {
     "title": "I gave Claude access to my pen plotter",
@@ -136,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46993014\">Comments</a>"
   },
   {
-    "title": "Language a Wood for Thought: Susan Howe's Work",
-    "link": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
-    "source": "Hacker News",
-    "published": "2026-02-11T23:07:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46982509\">Comments</a>"
-  },
-  {
     "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
     "link": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
     "source": "Hacker News",
@@ -158,5 +142,21 @@
     "published": "2026-02-11T17:13:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46977678\">Comments</a>"
+  },
+  {
+    "title": "Databases should contain their own Metadata \u2013 Use SQL Everywhere",
+    "link": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
+    "source": "Hacker News",
+    "published": "2026-02-11T15:36:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46976256\">Comments</a>"
+  },
+  {
+    "title": "Why does aluminum foil have one shiny side and one with a matte finish?",
+    "link": "https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html",
+    "source": "Hacker News",
+    "published": "2026-02-11T13:35:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46974763\">Comments</a>"
   }
 ]
