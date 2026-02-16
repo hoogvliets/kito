@@ -1,11 +1,51 @@
 [
   {
-    "title": "iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life",
-    "link": "https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/",
+    "title": "I guess I kinda get why people hate AI",
+    "link": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
     "source": "Hacker News",
-    "published": "2026-02-16T14:50:48+00:00",
+    "published": "2026-02-16T17:22:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035718\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037628\">Comments</a>"
+  },
+  {
+    "title": "WebMCP Proposal",
+    "link": "https://webmachinelearning.github.io/webmcp/",
+    "source": "Hacker News",
+    "published": "2026-02-16T17:08:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037501\">Comments</a>"
+  },
+  {
+    "title": "How to take a photo with scotch tape (lensless imaging) [video]",
+    "link": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+    "source": "Hacker News",
+    "published": "2026-02-16T16:55:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037313\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Simple org-mode web adapter",
+    "link": "https://github.com/SpaceTurth/Org-Web-Adapter",
+    "source": "Hacker News",
+    "published": "2026-02-16T16:19:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47036891\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Maths, CS and AI Compendium",
+    "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "source": "Hacker News",
+    "published": "2026-02-16T15:15:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47036063\">Comments</a>"
+  },
+  {
+    "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+    "link": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+    "source": "Hacker News",
+    "published": "2026-02-16T14:48:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035679\">Comments</a>"
   },
   {
     "title": "What Your Bluetooth Devices Reveal About You",
@@ -40,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47034713\">Comments</a>"
   },
   {
-    "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
-    "link": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+    "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+    "link": "https://github.com/nineties/planckforth",
     "source": "Hacker News",
-    "published": "2026-02-16T12:28:31+00:00",
+    "published": "2026-02-16T11:44:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47034192\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47033875\">Comments</a>"
   },
   {
     "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
@@ -80,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47031580\">Comments</a>"
   },
   {
-    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-    "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-    "source": "Hacker News",
-    "published": "2026-02-15T22:17:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>"
-  },
-  {
     "title": "I\u2019m joining OpenAI",
     "link": "https://steipete.me/posts/2026/openclaw",
     "source": "Hacker News",
@@ -104,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025851\">Comments</a>"
   },
   {
-    "title": "LT6502: A 6502-based homebrew laptop",
-    "link": "https://github.com/TechPaula/LT6502",
-    "source": "Hacker News",
-    "published": "2026-02-15T17:12:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>"
-  },
-  {
     "title": "Ghidra by NSA",
     "link": "https://github.com/NationalSecurityAgency/ghidra",
     "source": "Hacker News",
@@ -120,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47011548\">Comments</a>"
   },
   {
-    "title": "How DSQL makes sure sequences scale",
-    "link": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
+    "title": "Looks: A Halide Mark III Preview",
+    "link": "https://www.lux.camera/mark-iii-looks/",
     "source": "Hacker News",
-    "published": "2026-02-13T22:10:45+00:00",
+    "published": "2026-02-14T00:46:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47008512\">Comments</a>"
-  },
-  {
-    "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-    "link": "https://blog.exe.dev/expensively-quadratic",
-    "source": "Hacker News",
-    "published": "2026-02-13T07:44:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47000034\">Comments</a>"
-  },
-  {
-    "title": "Vim-pencil: Rethinking Vim as a tool for writing",
-    "link": "https://github.com/preservim/vim-pencil",
-    "source": "Hacker News",
-    "published": "2026-02-13T00:35:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46997356\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47010018\">Comments</a>"
   },
   {
     "title": "Rolling your own serverless OCR in 40 lines of code",
@@ -150,13 +158,5 @@
     "published": "2026-02-12T13:23:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=46988538\">Comments</a>"
-  },
-  {
-    "title": "1,300-year-old world chronicle unearthed in Sinai",
-    "link": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-    "source": "Hacker News",
-    "published": "2026-02-12T04:01:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=46984768\">Comments</a>"
   }
 ]
