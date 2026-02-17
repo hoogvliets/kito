@@ -1,6 +1,54 @@
 [
   {
-    "title": "Turing Labs (YC W20) Is Hiring \u2013 GTM Sales Hacker",
+    "title": "Show HN: Journey \u2013 A Custom 2D ECS Game Engine Written in Rust and WGPU",
+    "link": "https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md",
+    "source": "Hacker News",
+    "published": "2026-02-16T23:41:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041841\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+    "link": "https://forestrydiary.com/",
+    "source": "Hacker News",
+    "published": "2026-02-16T23:40:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041836\">Comments</a>"
+  },
+  {
+    "title": "Running NanoClaw in a Docker Shell Sandbox",
+    "link": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+    "source": "Hacker News",
+    "published": "2026-02-16T22:53:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041456\">Comments</a>"
+  },
+  {
+    "title": "Rise of the Triforce",
+    "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "source": "Hacker News",
+    "published": "2026-02-16T21:24:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47040524\">Comments</a>"
+  },
+  {
+    "title": "Study: Self-generated Agent Skills are useless",
+    "link": "https://arxiv.org/abs/2602.12670",
+    "source": "Hacker News",
+    "published": "2026-02-16T21:15:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47040430\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+    "link": "https://github.com/zachlatta/freeflow",
+    "source": "Hacker News",
+    "published": "2026-02-16T21:10:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47040375\">Comments</a>"
+  },
+  {
+    "title": "Turing Labs (YC W20) Is Hiring \u2013 Founding GTM Sales Hacker",
     "link": "https://news.ycombinator.com/item?id=47040268",
     "source": "Hacker News",
     "published": "2026-02-16T21:00:13+00:00",
@@ -32,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47039478\">Comments</a>"
   },
   {
-    "title": "Fff.nvim \u2013 Typo-resistant code search",
-    "link": "https://github.com/dmtrKovalenko/fff.nvim",
-    "source": "Hacker News",
-    "published": "2026-02-16T19:52:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47039440\">Comments</a>"
-  },
-  {
     "title": "Show HN: 2D Coulomb Gas Simulator",
     "link": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
     "source": "Hacker News",
@@ -48,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47039044\">Comments</a>"
   },
   {
-    "title": "Use protocols, not services",
-    "link": "https://notnotp.com/notes/use-protocols-not-services/",
+    "title": "Neurons outside the brain",
+    "link": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
     "source": "Hacker News",
-    "published": "2026-02-16T18:44:58+00:00",
+    "published": "2026-02-16T18:54:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038588\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038731\">Comments</a>"
   },
   {
     "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
@@ -62,54 +102,6 @@
     "published": "2026-02-16T18:41:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47038546\">Comments</a>"
-  },
-  {
-    "title": "\"Token anxiety\", a slot machine by any other name",
-    "link": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-    "source": "Hacker News",
-    "published": "2026-02-16T18:23:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038318\">Comments</a>"
-  },
-  {
-    "title": "The Long Tail of LLM-Assisted Decompilation",
-    "link": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
-    "source": "Hacker News",
-    "published": "2026-02-16T18:19:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038270\">Comments</a>"
-  },
-  {
-    "title": "Privilege is bad grammar",
-    "link": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-    "source": "Hacker News",
-    "published": "2026-02-16T18:05:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038125\">Comments</a>"
-  },
-  {
-    "title": "WebMCP Proposal",
-    "link": "https://webmachinelearning.github.io/webmcp/",
-    "source": "Hacker News",
-    "published": "2026-02-16T17:08:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037501\">Comments</a>"
-  },
-  {
-    "title": "How to take a photo with scotch tape (lensless imaging) [video]",
-    "link": "https://www.youtube.com/watch?v=97f0nfU5Px0",
-    "source": "Hacker News",
-    "published": "2026-02-16T16:55:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037313\">Comments</a>"
-  },
-  {
-    "title": "History of AT&T Long Lines",
-    "link": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-    "source": "Hacker News",
-    "published": "2026-02-16T16:22:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47036921\">Comments</a>"
   },
   {
     "title": "What your Bluetooth devices reveal",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47031334\">Comments</a>"
   },
   {
+    "title": "PascalABC.net",
+    "link": "https://pascalabc.net:443/en",
+    "source": "Hacker News",
+    "published": "2026-02-14T16:52:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47016024\">Comments</a>"
+  },
+  {
     "title": "PCB Rework and Repair Guide [pdf]",
     "link": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47014460\">Comments</a>"
   },
   {
-    "title": "Ghidra by NSA",
-    "link": "https://github.com/NationalSecurityAgency/ghidra",
-    "source": "Hacker News",
-    "published": "2026-02-14T04:24:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47011548\">Comments</a>"
-  },
-  {
     "title": "Visual Introduction to PyTorch",
     "link": "https://0byte.io/articles/pytorch_introduction.html",
     "source": "Hacker News",
     "published": "2026-02-13T12:59:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47002231\">Comments</a>"
+  },
+  {
+    "title": "Nvidia with unusually fast coding model on plate-sized chips",
+    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+    "source": "Hacker News",
+    "published": "2026-02-12T23:37:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=46996852\">Comments</a>"
   }
 ]
