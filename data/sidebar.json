@@ -1,5 +1,133 @@
 [
   {
+    "title": "Claude Sonnet 4.6",
+    "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:48:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47050488\">Comments</a>"
+  },
+  {
+    "title": "Climbing Mount Fuji visualized through milestone stamps",
+    "link": "https://fuji.halfof8.com/",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:29:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47050227\">Comments</a>"
+  },
+  {
+    "title": "Can a Computer Science Student Be Taught to Design Hardware?",
+    "link": "https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:29:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47050211\">Comments</a>"
+  },
+  {
+    "title": "Gentoo on Codeberg",
+    "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:21:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47050067\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+    "link": "https://docs.continue.dev",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:08:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049848\">Comments</a>"
+  },
+  {
+    "title": "Chess engines do weird stuff",
+    "link": "https://girl.surgery/chess",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:07:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049845\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+    "link": "https://sonarly.com/",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:03:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049776\">Comments</a>"
+  },
+  {
+    "title": "Trata (YC W25) Is Hiring Founding Engineers (NYC)",
+    "link": "https://news.ycombinator.com/item?id=47049744",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:01:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049744\">Comments</a>"
+  },
+  {
+    "title": "Show HN: 6cy \u2013 Experimental streaming archive format with per-block codecs",
+    "link": "https://github.com/byte271/6cy",
+    "source": "Hacker News",
+    "published": "2026-02-17T17:01:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049743\">Comments</a>"
+  },
+  {
+    "title": "So you want to build a tunnel",
+    "link": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:59:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049718\">Comments</a>"
+  },
+  {
+    "title": "Async/Await on the GPU",
+    "link": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:53:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049628\">Comments</a>"
+  },
+  {
+    "title": "HackMyClaw",
+    "link": "https://hackmyclaw.com/",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:48:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049573\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+    "link": "https://vertex.flowlogix.ai",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:45:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049520\">Comments</a>"
+  },
+  {
+    "title": "Using go fix to modernize Go code",
+    "link": "https://go.dev/blog/gofix",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:42:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049479\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "link": "https://mage-bench.com/",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:22:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049227\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I wrote a technical history book on Lisp",
+    "link": "https://berksoft.ca/gol/",
+    "source": "Hacker News",
+    "published": "2026-02-17T15:43:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47048733\">Comments</a>"
+  },
+  {
     "title": "I converted 2D conventional flight tracking into 3D",
     "link": "https://aeris.edbn.me/?city=SFO",
     "source": "Hacker News",
@@ -8,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47048004\">Comments</a>"
   },
   {
-    "title": "Undo in Vi and Its Successors",
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews",
+    "title": "Is Show HN dead? No, but it's drowning",
+    "link": "https://www.arthurcnops.blog/death-of-show-hn/",
     "source": "Hacker News",
-    "published": "2026-02-17T13:47:56+00:00",
+    "published": "2026-02-17T10:29:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47047443\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47045804\">Comments</a>"
   },
   {
     "title": "GrapheneOS \u2013 Break Free from Google and Apple",
@@ -24,139 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47045612\">Comments</a>"
   },
   {
-    "title": "Xbox UI Portfolio Site",
-    "link": "https://gabrielcabrera.co/",
+    "title": "Don't pass on small block ciphers",
+    "link": "https://00f.net/2026/02/10/small-block-ciphers/",
     "source": "Hacker News",
-    "published": "2026-02-17T05:53:31+00:00",
+    "published": "2026-02-15T00:32:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47044179\">Comments</a>"
-  },
-  {
-    "title": "Poor Deming never stood a chance",
-    "link": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
-    "source": "Hacker News",
-    "published": "2026-02-17T02:13:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042895\">Comments</a>"
-  },
-  {
-    "title": "Rise of the Triforce",
-    "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-    "source": "Hacker News",
-    "published": "2026-02-16T21:24:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47040524\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
-    "link": "https://github.com/zachlatta/freeflow",
-    "source": "Hacker News",
-    "published": "2026-02-16T21:10:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47040375\">Comments</a>"
-  },
-  {
-    "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-    "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-    "source": "Hacker News",
-    "published": "2026-02-16T18:41:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038546\">Comments</a>"
-  },
-  {
-    "title": "\"Token anxiety\", a slot machine by any other name",
-    "link": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-    "source": "Hacker News",
-    "published": "2026-02-16T18:23:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038318\">Comments</a>"
-  },
-  {
-    "title": "What your Bluetooth devices reveal",
-    "link": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-    "source": "Hacker News",
-    "published": "2026-02-16T14:39:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035560\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Glitchy camera \u2013 a circuit-bent camera simulator in the browser",
-    "link": "https://glitchycam.com",
-    "source": "Hacker News",
-    "published": "2026-02-16T11:57:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47033954\">Comments</a>"
-  },
-  {
-    "title": "Four Column ASCII (2017)",
-    "link": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-    "source": "Hacker News",
-    "published": "2026-02-15T09:15:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47022270\">Comments</a>"
-  },
-  {
-    "title": "Hamming Distance for Hybrid Search in SQLite",
-    "link": "https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/",
-    "source": "Hacker News",
-    "published": "2026-02-15T07:21:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47021711\">Comments</a>"
-  },
-  {
-    "title": "A Programmer's Loss of Identity",
-    "link": "https://ratfactor.com/tech-nope2",
-    "source": "Hacker News",
-    "published": "2026-02-14T15:41:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47015342\">Comments</a>"
-  },
-  {
-    "title": "A deep dive into Apple's .car file format",
-    "link": "https://dbg.re/posts/car-file-format/",
-    "source": "Hacker News",
-    "published": "2026-02-14T12:18:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47014002\">Comments</a>"
-  },
-  {
-    "title": "Rendering the Visible Spectrum",
-    "link": "https://brandonli.net/spectra/doc/",
-    "source": "Hacker News",
-    "published": "2026-02-14T08:56:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012895\">Comments</a>"
-  },
-  {
-    "title": "Ghidra by NSA",
-    "link": "https://github.com/NationalSecurityAgency/ghidra",
-    "source": "Hacker News",
-    "published": "2026-02-14T04:24:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47011548\">Comments</a>"
-  },
-  {
-    "title": "Rethinking High-School Science Fairs",
-    "link": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
-    "source": "Hacker News",
-    "published": "2026-02-13T18:37:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47006080\">Comments</a>"
-  },
-  {
-    "title": "How teaching molecules to think is revealing what a 'mind' is",
-    "link": "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/",
-    "source": "Hacker News",
-    "published": "2026-02-13T16:37:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004629\">Comments</a>"
-  },
-  {
-    "title": "Visual introduction to PyTorch",
-    "link": "https://0byte.io/articles/pytorch_introduction.html",
-    "source": "Hacker News",
-    "published": "2026-02-13T12:59:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47002231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47019902\">Comments</a>"
   }
 ]
