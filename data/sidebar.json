@@ -1,5 +1,13 @@
 [
   {
+    "title": "Slopware AI: Ship Garbage Even Faster",
+    "link": "https://slopware.ai/",
+    "source": "Hacker News",
+    "published": "2026-02-17T08:44:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47045124\">Comments</a>"
+  },
+  {
     "title": "SvarDOS \u2013 an open-source DOS distribution",
     "link": "http://svardos.org/",
     "source": "Hacker News",
@@ -8,12 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47044293\">Comments</a>"
   },
   {
-    "title": "Thinking Hard Burns Almost No Calories\u2013But Destroys Your Next Workout",
-    "link": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+    "title": "Poor Deming never stood a chance",
+    "link": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
     "source": "Hacker News",
-    "published": "2026-02-17T01:55:50+00:00",
+    "published": "2026-02-17T02:13:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042766\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042895\">Comments</a>"
   },
   {
     "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
@@ -22,14 +30,6 @@
     "published": "2026-02-17T01:01:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47042396\">Comments</a>"
-  },
-  {
-    "title": "Building for an audience of one: starting and finishing side projects with AI",
-    "link": "https://codemade.net/blog/building-for-one/",
-    "source": "Hacker News",
-    "published": "2026-02-17T00:00:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041973\">Comments</a>"
   },
   {
     "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
@@ -56,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47040524\">Comments</a>"
   },
   {
-    "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+    "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
     "link": "https://github.com/zachlatta/freeflow",
     "source": "Hacker News",
     "published": "2026-02-16T21:10:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47040375\">Comments</a>"
-  },
-  {
-    "title": "Testing Postgres race conditions with synchronization barriers",
-    "link": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-    "source": "Hacker News",
-    "published": "2026-02-16T20:23:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47039834\">Comments</a>"
   },
   {
     "title": "State of Show HN: 2025",
@@ -104,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47034087\">Comments</a>"
   },
   {
+    "title": "Show HN: Glitchy camera \u2013 a circuit-bent camera simulator in the browser",
+    "link": "https://glitchycam.com",
+    "source": "Hacker News",
+    "published": "2026-02-16T11:57:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47033954\">Comments</a>"
+  },
+  {
     "title": "Four Column ASCII (2017)",
     "link": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
     "source": "Hacker News",
@@ -112,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47022270\">Comments</a>"
   },
   {
-    "title": "A Deep Dive into Apple's .car File Format",
+    "title": "A deep dive into Apple's .car file format",
     "link": "https://dbg.re/posts/car-file-format/",
     "source": "Hacker News",
     "published": "2026-02-14T12:18:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47014002\">Comments</a>"
+  },
+  {
+    "title": "Rendering the Visible Spectrum",
+    "link": "https://brandonli.net/spectra/doc/",
+    "source": "Hacker News",
+    "published": "2026-02-14T08:56:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47012895\">Comments</a>"
   },
   {
     "title": "DBASE on the Kaypro II",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47011548\">Comments</a>"
   },
   {
-    "title": "What every compiler writer should know about programmers (2015) [pdf]",
-    "link": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
+    "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+    "link": "https://github.com/matt1398/claude-devtools",
     "source": "Hacker News",
-    "published": "2026-02-13T14:21:41+00:00",
+    "published": "2026-02-13T16:43:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003071\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47004712\">Comments</a>"
   },
   {
-    "title": "Visual Introduction to PyTorch",
+    "title": "Visual introduction to PyTorch",
     "link": "https://0byte.io/articles/pytorch_introduction.html",
     "source": "Hacker News",
     "published": "2026-02-13T12:59:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47002231\">Comments</a>"
-  },
-  {
-    "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
-    "link": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
-    "source": "Hacker News",
-    "published": "2026-02-13T09:17:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47000708\">Comments</a>"
   }
 ]
