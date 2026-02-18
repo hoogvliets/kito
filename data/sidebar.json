@@ -1,27 +1,75 @@
 [
   {
-    "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-    "link": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
+    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+    "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
     "source": "Hacker News",
-    "published": "2026-02-18T18:09:27+00:00",
+    "published": "2026-02-18T21:00:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47064105\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47066310\">Comments</a>"
   },
   {
-    "title": "Warren Buffett dumps $1.7B of Amazon stock",
-    "link": "https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/",
+    "title": "There is unequivocal evidence that Earth is warming",
+    "link": "https://science.nasa.gov/climate-change/evidence/",
     "source": "Hacker News",
-    "published": "2026-02-18T17:56:08+00:00",
+    "published": "2026-02-18T20:09:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47063950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065678\">Comments</a>"
   },
   {
-    "title": "Arizona Bill Requires Age Verification for All Apps",
-    "link": "https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app",
+    "title": "Show HN: Strava for Claude Code",
+    "link": "https://straude.com/",
     "source": "Hacker News",
-    "published": "2026-02-18T17:38:46+00:00",
+    "published": "2026-02-18T19:48:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47063724\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065425\">Comments</a>"
+  },
+  {
+    "title": "R3forth: A concatenative language derived from ColorForth",
+    "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "source": "Hacker News",
+    "published": "2026-02-18T19:28:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065179\">Comments</a>"
+  },
+  {
+    "title": "A solver for Semantle",
+    "link": "https://victoriaritvo.com/blog/semantle-solver/",
+    "source": "Hacker News",
+    "published": "2026-02-18T19:25:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065146\">Comments</a>"
+  },
+  {
+    "title": "What Every Experimenter Must Know About Randomization",
+    "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+    "source": "Hacker News",
+    "published": "2026-02-18T19:02:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47064845\">Comments</a>"
+  },
+  {
+    "title": "Cosmologically Unique IDs",
+    "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "source": "Hacker News",
+    "published": "2026-02-18T18:37:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47064490\">Comments</a>"
+  },
+  {
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+    "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "source": "Hacker News",
+    "published": "2026-02-18T18:04:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47064047\">Comments</a>"
+  },
+  {
+    "title": "The Perils of ISBN",
+    "link": "https://rygoldstein.com/posts/perils-of-isbn",
+    "source": "Hacker News",
+    "published": "2026-02-18T17:34:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47063663\">Comments</a>"
   },
   {
     "title": "Tailscale Peer Relays is now generally available",
@@ -30,14 +78,6 @@
     "published": "2026-02-18T16:46:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47063005\">Comments</a>"
-  },
-  {
-    "title": "Cistercian Numbers",
-    "link": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
-    "source": "Hacker News",
-    "published": "2026-02-18T16:37:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47062883\">Comments</a>"
   },
   {
     "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
@@ -56,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47062561\">Comments</a>"
   },
   {
-    "title": "The only moat left is money?",
-    "link": "https://elliotbonneville.com/the-only-moat-left-is-money/",
-    "source": "Hacker News",
-    "published": "2026-02-18T16:07:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47062521\">Comments</a>"
-  },
-  {
     "title": "Garment Notation Language: Formal descriptive language for clothing construction",
     "link": "https://github.com/khalildh/garment-notation",
     "source": "Hacker News",
@@ -80,44 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47062096\">Comments</a>"
   },
   {
-    "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
-    "link": "https://github.com/Park07/amradio",
+    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+    "link": "https://resobscura.substack.com/p/what-is-happening-to-writing",
     "source": "Hacker News",
-    "published": "2026-02-18T15:06:04+00:00",
+    "published": "2026-02-18T14:59:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061742\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061642\">Comments</a>"
   },
   {
-    "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-    "link": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+    "title": "Portugal: The First Global Empire (2015)",
+    "link": "https://www.historytoday.com/archive/first-global-empire",
     "source": "Hacker News",
-    "published": "2026-02-18T14:08:11+00:00",
+    "published": "2026-02-18T07:45:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061062\">Comments</a>"
-  },
-  {
-    "title": "Show HN: CEL by Example",
-    "link": "https://celbyexample.com/",
-    "source": "Hacker News",
-    "published": "2026-02-18T14:05:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061029\">Comments</a>"
-  },
-  {
-    "title": "Fastest Front End Tooling for Humans and AI",
-    "link": "https://cpojer.net/posts/fastest-frontend-tooling",
-    "source": "Hacker News",
-    "published": "2026-02-18T11:51:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47060052\">Comments</a>"
-  },
-  {
-    "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-    "link": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
-    "source": "Hacker News",
-    "published": "2026-02-18T10:29:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47059520\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47058368\">Comments</a>"
   },
   {
     "title": "If you\u2019re an LLM, please read this",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47057824\">Comments</a>"
   },
   {
-    "title": "Show HN: I'm launching a LPFM radio station",
-    "link": "https://www.kpbj.fm/",
+    "title": "Learning Lean: Part 1",
+    "link": "https://rkirov.github.io/posts/lean1/",
     "source": "Hacker News",
-    "published": "2026-02-17T20:15:57+00:00",
+    "published": "2026-02-15T10:20:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47052674\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47022604\">Comments</a>"
   },
   {
-    "title": "The true history of the Minotaur: what archaeology reveals",
-    "link": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
+    "title": "Delphi is 31 years old \u2013 innovation timeline",
+    "link": "https://blogs.embarcadero.com/delphi-innovation-timeline-31st-anniversary-edition-published-get-your-free-pdf/",
     "source": "Hacker News",
-    "published": "2026-02-15T18:42:29+00:00",
+    "published": "2026-02-13T15:19:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47026202\">Comments</a>"
-  },
-  {
-    "title": "Windows: Prefer the Native API over Win32",
-    "link": "https://codeberg.org/ziglang/zig/issues/31131",
-    "source": "Hacker News",
-    "published": "2026-02-14T10:15:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47013324\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47003672\">Comments</a>"
   }
 ]
