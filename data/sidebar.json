@@ -1,19 +1,67 @@
 [
   {
-    "title": "Show HN: An encrypted, local, cross-platform journaling app",
+    "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
+    "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "source": "Hacker News",
+    "published": "2026-02-19T14:52:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>"
+  },
+  {
+    "title": "Against Theory-Motivated Experimentation",
+    "link": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
+    "source": "Hacker News",
+    "published": "2026-02-19T14:26:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074083\">Comments</a>"
+  },
+  {
+    "title": "Famous Signatures Through History",
+    "link": "https://signatory.app/#famous-signatures",
+    "source": "Hacker News",
+    "published": "2026-02-19T13:49:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47073684\">Comments</a>"
+  },
+  {
+    "title": "C++26: Std:Is_within_lifetime",
+    "link": "https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime",
+    "source": "Hacker News",
+    "published": "2026-02-19T13:47:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47073663\">Comments</a>"
+  },
+  {
+    "title": "Pebble Production: February Update",
+    "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "source": "Hacker News",
+    "published": "2026-02-19T12:36:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47073112\">Comments</a>"
+  },
+  {
+    "title": "Coding Tricks Used in the C64 Game Seawolves",
+    "link": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+    "source": "Hacker News",
+    "published": "2026-02-19T12:24:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47073044\">Comments</a>"
+  },
+  {
+    "title": "Paged Out Issue #8 [pdf]",
+    "link": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "source": "Hacker News",
+    "published": "2026-02-19T12:13:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072968\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
     "link": "https://github.com/fjrevoredo/mini-diarium",
     "source": "Hacker News",
     "published": "2026-02-19T11:54:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47072863\">Comments</a>"
-  },
-  {
-    "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
-    "link": "https://github.com/sstraust/shannonmax",
-    "source": "Hacker News",
-    "published": "2026-02-19T11:15:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072603\">Comments</a>"
   },
   {
     "title": "Bridging Elixir and Python with Oban",
@@ -38,22 +86,6 @@
     "published": "2026-02-19T06:43:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47070680\">Comments</a>"
-  },
-  {
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "link": "https://code.claude.com/docs/en/legal-and-compliance",
-    "source": "Hacker News",
-    "published": "2026-02-19T02:52:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069299\">Comments</a>"
-  },
-  {
-    "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
-    "link": "https://static.stepfun.com/blog/step-3.5-flash/",
-    "source": "Hacker News",
-    "published": "2026-02-19T02:32:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069179\">Comments</a>"
   },
   {
     "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
@@ -88,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47064490\">Comments</a>"
   },
   {
-    "title": "Tailscale Peer Relays is now generally available",
-    "link": "https://tailscale.com/blog/peer-relays-ga",
-    "source": "Hacker News",
-    "published": "2026-02-18T16:46:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47063005\">Comments</a>"
-  },
-  {
-    "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-    "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-    "source": "Hacker News",
-    "published": "2026-02-18T16:28:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47062748\">Comments</a>"
-  },
-  {
-    "title": "Lilush \u2013 LuaJIT static runtime and shell",
-    "link": "https://lilush.link/",
-    "source": "Hacker News",
-    "published": "2026-02-17T00:14:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042065\">Comments</a>"
-  },
-  {
     "title": "The Mongol Khans of Medieval France",
     "link": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
     "source": "Hacker News",
     "published": "2026-02-16T22:27:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47041225\">Comments</a>"
-  },
-  {
-    "title": "Fff.nvim \u2013 Typo-resistant code search",
-    "link": "https://github.com/dmtrKovalenko/fff.nvim",
-    "source": "Hacker News",
-    "published": "2026-02-16T19:52:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47039440\">Comments</a>"
   },
   {
     "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47038032\">Comments</a>"
   },
   {
-    "title": "Visualizing the ARM64 Instruction Set (2024)",
-    "link": "https://zyedidia.github.io/blog/posts/6-arm64/",
+    "title": "-fbounds-safety: Enforcing bounds safety for C",
+    "link": "https://clang.llvm.org/docs/BoundsSafety.html",
     "source": "Hacker News",
-    "published": "2026-02-15T23:20:04+00:00",
+    "published": "2026-02-16T14:05:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47028803\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035088\">Comments</a>"
   },
   {
     "title": "Voith Schneider Propeller",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47027171\">Comments</a>"
   },
   {
-    "title": "How to choose between Hindley-Milner and bidirectional typing",
-    "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+    "title": "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
+    "link": "https://crimede-coder.com/blogposts/2026/LLMsForMortals",
     "source": "Hacker News",
-    "published": "2026-02-15T18:07:44+00:00",
+    "published": "2026-02-15T13:12:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47025885\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47023391\">Comments</a>"
   }
 ]
