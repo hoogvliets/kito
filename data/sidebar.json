@@ -1,11 +1,27 @@
 [
   {
-    "title": "European Tech Alternatives",
-    "link": "https://eutechmap.com/map",
+    "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
+    "link": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
     "source": "Hacker News",
-    "published": "2026-02-19T05:07:37+00:00",
+    "published": "2026-02-19T06:54:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070743\">Comments</a>"
+  },
+  {
+    "title": "US funding for global internet freedom 'effectively gutted'",
+    "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+    "source": "Hacker News",
+    "published": "2026-02-19T06:41:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070658\">Comments</a>"
+  },
+  {
+    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+    "link": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
+    "source": "Hacker News",
+    "published": "2026-02-19T06:09:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070446\">Comments</a>"
   },
   {
     "title": "Show HN: A Lisp where each function call runs a Docker container",
@@ -14,14 +30,6 @@
     "published": "2026-02-19T04:19:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47069876\">Comments</a>"
-  },
-  {
-    "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
-    "link": "https://blackboard.sh/blog/electrobun-v1/",
-    "source": "Hacker News",
-    "published": "2026-02-19T03:46:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069650\">Comments</a>"
   },
   {
     "title": "Anthropic officially bans using subscription auth for third party use",
@@ -64,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47068320\">Comments</a>"
   },
   {
+    "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+    "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
+    "source": "Hacker News",
+    "published": "2026-02-18T22:47:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067496\">Comments</a>"
+  },
+  {
     "title": "Sizing chaos",
     "link": "https://pudding.cool/2026/02/womens-sizing/",
     "source": "Hacker News",
@@ -78,14 +94,6 @@
     "published": "2026-02-18T20:54:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47066241\">Comments</a>"
-  },
-  {
-    "title": "R3forth: A concatenative language derived from ColorForth",
-    "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-    "source": "Hacker News",
-    "published": "2026-02-18T19:28:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065179\">Comments</a>"
   },
   {
     "title": "Cosmologically Unique IDs",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47064047\">Comments</a>"
   },
   {
-    "title": "The Perils of ISBN",
-    "link": "https://rygoldstein.com/posts/perils-of-isbn",
-    "source": "Hacker News",
-    "published": "2026-02-18T17:34:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47063663\">Comments</a>"
-  },
-  {
     "title": "Tailscale Peer Relays is now generally available",
     "link": "https://tailscale.com/blog/peer-relays-ga",
     "source": "Hacker News",
@@ -128,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47062748\">Comments</a>"
   },
   {
+    "title": "Fff.nvim \u2013 Typo-resistant code search",
+    "link": "https://github.com/dmtrKovalenko/fff.nvim",
+    "source": "Hacker News",
+    "published": "2026-02-16T19:52:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47039440\">Comments</a>"
+  },
+  {
+    "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+    "link": "https://tempus-word.de/en/index",
+    "source": "Hacker News",
+    "published": "2026-02-16T18:44:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038578\">Comments</a>"
+  },
+  {
     "title": "Visualizing the ARM64 Instruction Set (2024)",
     "link": "https://zyedidia.github.io/blog/posts/6-arm64/",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47028803\">Comments</a>"
   },
   {
-    "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+    "title": "How to choose between Hindley-Milner and bidirectional typing",
     "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
     "source": "Hacker News",
     "published": "2026-02-15T18:07:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47025885\">Comments</a>"
-  },
-  {
-    "title": "Making a font with ligatures to display thirteenth-century monk numerals",
-    "link": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-    "source": "Hacker News",
-    "published": "2026-02-15T15:44:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47024585\">Comments</a>"
-  },
-  {
-    "title": "A Pok\u00e9mon of a Different Color",
-    "link": "https://matthew.verive.me/blog/color/",
-    "source": "Hacker News",
-    "published": "2026-02-15T10:40:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47022704\">Comments</a>"
   }
 ]
