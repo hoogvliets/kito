@@ -1,5 +1,21 @@
 [
   {
+    "title": "European Tech Alternatives",
+    "link": "https://eutechmap.com/map",
+    "source": "Hacker News",
+    "published": "2026-02-19T05:07:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070142\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A Lisp where each function call runs a Docker container",
+    "link": "https://github.com/a11ce/docker-lisp",
+    "source": "Hacker News",
+    "published": "2026-02-19T04:19:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069876\">Comments</a>"
+  },
+  {
     "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
     "link": "https://blackboard.sh/blog/electrobun-v1/",
     "source": "Hacker News",
@@ -48,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47068320\">Comments</a>"
   },
   {
-    "title": "Closing this as we are no longer pursuing Swift adoption",
-    "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-    "source": "Hacker News",
-    "published": "2026-02-18T23:08:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067678\">Comments</a>"
-  },
-  {
     "title": "Sizing chaos",
     "link": "https://pudding.cool/2026/02/womens-sizing/",
     "source": "Hacker News",
     "published": "2026-02-18T21:18:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47066552\">Comments</a>"
-  },
-  {
-    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-    "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-    "source": "Hacker News",
-    "published": "2026-02-18T21:00:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47066310\">Comments</a>"
   },
   {
     "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
@@ -128,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47062748\">Comments</a>"
   },
   {
+    "title": "Visualizing the ARM64 Instruction Set (2024)",
+    "link": "https://zyedidia.github.io/blog/posts/6-arm64/",
+    "source": "Hacker News",
+    "published": "2026-02-15T23:20:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47028803\">Comments</a>"
+  },
+  {
     "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
     "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
     "source": "Hacker News",
@@ -142,14 +150,6 @@
     "published": "2026-02-15T15:44:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47024585\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Respectlytics \u2013 Open-source, privacy-first mobile analytics (MIT+AGPL)",
-    "link": "https://github.com/respectlytics/respectlytics",
-    "source": "Hacker News",
-    "published": "2026-02-15T13:14:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47023401\">Comments</a>"
   },
   {
     "title": "A Pok\u00e9mon of a Different Color",
