@@ -1,11 +1,43 @@
 [
   {
-    "title": "AI Makes You Boring",
-    "link": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "title": "Overall, the colorectal cancer story is encouraging",
+    "link": "https://www.hankgreen.com/crc",
     "source": "Hacker News",
-    "published": "2026-02-19T18:12:16+00:00",
+    "published": "2026-02-19T20:32:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47076966\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078840\">Comments</a>"
+  },
+  {
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "source": "Hacker News",
+    "published": "2026-02-19T19:55:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
+  },
+  {
+    "title": "Micropayments as a reality check for news sites",
+    "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+    "source": "Hacker News",
+    "published": "2026-02-19T19:42:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078167\">Comments</a>"
+  },
+  {
+    "title": "Techno-cynics are wounded techno-optimists",
+    "link": "https://aftermath.site/anthropic-claude-ai-leftist-technology/",
+    "source": "Hacker News",
+    "published": "2026-02-19T19:07:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47077731\">Comments</a>"
+  },
+  {
+    "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+    "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+    "source": "Hacker News",
+    "published": "2026-02-19T18:31:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47077245\">Comments</a>"
   },
   {
     "title": "A terminal weather app with ASCII animations driven by real-time weather data",
@@ -16,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47076659\">Comments</a>"
   },
   {
-    "title": "Choosing a Language Based on Its Syntax?",
-    "link": "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/",
+    "title": "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
+    "link": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
     "source": "Hacker News",
-    "published": "2026-02-19T16:56:52+00:00",
+    "published": "2026-02-19T16:07:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075934\">Comments</a>"
-  },
-  {
-    "title": "Gemini 3.1 Pro",
-    "link": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-    "source": "Hacker News",
-    "published": "2026-02-19T16:14:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075318\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075245\">Comments</a>"
   },
   {
     "title": "Show HN: Micasa \u2013 track your house from the terminal",
@@ -40,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47075124\">Comments</a>"
   },
   {
-    "title": "Dinosaur Food: 100M year old foods we still eat today (2022)",
-    "link": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-    "source": "Hacker News",
-    "published": "2026-02-19T15:30:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074869\">Comments</a>"
-  },
-  {
-    "title": "Gemini 3.1 Pro Preview",
-    "link": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1",
+    "title": "Gemini 3.1 Pro",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
     "source": "Hacker News",
     "published": "2026-02-19T15:19:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47074735\">Comments</a>"
-  },
-  {
-    "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
-    "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-    "source": "Hacker News",
-    "published": "2026-02-19T14:52:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>"
   },
   {
     "title": "Measuring AI agent autonomy in practice",
@@ -96,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47072968\">Comments</a>"
   },
   {
+    "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+    "link": "https://github.com/fjrevoredo/mini-diarium",
+    "source": "Hacker News",
+    "published": "2026-02-19T11:54:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072863\">Comments</a>"
+  },
+  {
     "title": "Bridging Elixir and Python with Oban",
     "link": "https://oban.pro/articles/bridging-with-oban",
     "source": "Hacker News",
@@ -112,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47072444\">Comments</a>"
   },
   {
-    "title": "Sizing chaos",
-    "link": "https://pudding.cool/2026/02/womens-sizing/",
+    "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+    "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
     "source": "Hacker News",
-    "published": "2026-02-18T21:18:20+00:00",
+    "published": "2026-02-18T22:25:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47066552\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067270\">Comments</a>"
+  },
+  {
+    "title": "Level of Detail",
+    "link": "https://phinze.com/writing/level-of-detail",
+    "source": "Hacker News",
+    "published": "2026-02-17T16:14:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049121\">Comments</a>"
+  },
+  {
+    "title": "My 1981 adventure game is now a multimedia extravaganza",
+    "link": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
+    "source": "Hacker News",
+    "published": "2026-02-16T22:35:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041294\">Comments</a>"
   },
   {
     "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
@@ -126,37 +158,5 @@
     "published": "2026-02-16T17:57:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47038032\">Comments</a>"
-  },
-  {
-    "title": "Zero downtime migrations at Petabyte scale",
-    "link": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
-    "source": "Hacker News",
-    "published": "2026-02-16T17:35:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037781\">Comments</a>"
-  },
-  {
-    "title": "-fbounds-safety: Enforcing bounds safety for C",
-    "link": "https://clang.llvm.org/docs/BoundsSafety.html",
-    "source": "Hacker News",
-    "published": "2026-02-16T14:05:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035088\">Comments</a>"
-  },
-  {
-    "title": "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
-    "link": "https://crimede-coder.com/blogposts/2026/LLMsForMortals",
-    "source": "Hacker News",
-    "published": "2026-02-15T13:12:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47023391\">Comments</a>"
-  },
-  {
-    "title": "Arrays in Forth",
-    "link": "https://www.forth.org/svfig/Len/arrays.htm",
-    "source": "Hacker News",
-    "published": "2026-02-15T10:08:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47022527\">Comments</a>"
   }
 ]
