@@ -1,35 +1,43 @@
 [
   {
-    "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
-    "link": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
+    "title": "Show HN: An encrypted, local, cross-platform journaling app",
+    "link": "https://github.com/fjrevoredo/mini-diarium",
     "source": "Hacker News",
-    "published": "2026-02-19T06:54:28+00:00",
+    "published": "2026-02-19T11:54:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070743\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072863\">Comments</a>"
   },
   {
-    "title": "US funding for global internet freedom 'effectively gutted'",
-    "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+    "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+    "link": "https://github.com/sstraust/shannonmax",
     "source": "Hacker News",
-    "published": "2026-02-19T06:41:14+00:00",
+    "published": "2026-02-19T11:15:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070658\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072603\">Comments</a>"
   },
   {
-    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
-    "link": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
+    "title": "Bridging Elixir and Python with Oban",
+    "link": "https://oban.pro/articles/bridging-with-oban",
     "source": "Hacker News",
-    "published": "2026-02-19T06:09:58+00:00",
+    "published": "2026-02-19T11:07:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070446\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072539\">Comments</a>"
   },
   {
-    "title": "Show HN: A Lisp where each function call runs a Docker container",
-    "link": "https://github.com/a11ce/docker-lisp",
+    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+    "link": "https://makie.org/website/blogposts/raytracing/",
     "source": "Hacker News",
-    "published": "2026-02-19T04:19:20+00:00",
+    "published": "2026-02-19T10:55:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069876\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072444\">Comments</a>"
+  },
+  {
+    "title": "Old School Visual Effects: The Cloud Tank (2010)",
+    "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+    "source": "Hacker News",
+    "published": "2026-02-19T06:43:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47070680\">Comments</a>"
   },
   {
     "title": "Anthropic officially bans using subscription auth for third party use",
@@ -40,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47069299\">Comments</a>"
   },
   {
-    "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+    "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
     "link": "https://static.stepfun.com/blog/step-3.5-flash/",
     "source": "Hacker News",
     "published": "2026-02-19T02:32:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47069179\">Comments</a>"
-  },
-  {
-    "title": "Minecraft Java is switching from OpenGL to Vulkan",
-    "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-    "source": "Hacker News",
-    "published": "2026-02-19T01:55:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47068948\">Comments</a>"
   },
   {
     "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
@@ -62,22 +62,6 @@
     "published": "2026-02-19T01:46:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47068890\">Comments</a>"
-  },
-  {
-    "title": "How AI is affecting productivity and jobs in Europe",
-    "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-    "source": "Hacker News",
-    "published": "2026-02-19T00:22:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47068320\">Comments</a>"
-  },
-  {
-    "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
-    "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
-    "source": "Hacker News",
-    "published": "2026-02-18T22:47:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067496\">Comments</a>"
   },
   {
     "title": "Sizing chaos",
@@ -104,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47064490\">Comments</a>"
   },
   {
-    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-    "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-    "source": "Hacker News",
-    "published": "2026-02-18T18:04:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47064047\">Comments</a>"
-  },
-  {
     "title": "Tailscale Peer Relays is now generally available",
     "link": "https://tailscale.com/blog/peer-relays-ga",
     "source": "Hacker News",
@@ -128,6 +104,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47062748\">Comments</a>"
   },
   {
+    "title": "Lilush \u2013 LuaJIT static runtime and shell",
+    "link": "https://lilush.link/",
+    "source": "Hacker News",
+    "published": "2026-02-17T00:14:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042065\">Comments</a>"
+  },
+  {
+    "title": "The Mongol Khans of Medieval France",
+    "link": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+    "source": "Hacker News",
+    "published": "2026-02-16T22:27:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47041225\">Comments</a>"
+  },
+  {
     "title": "Fff.nvim \u2013 Typo-resistant code search",
     "link": "https://github.com/dmtrKovalenko/fff.nvim",
     "source": "Hacker News",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47039440\">Comments</a>"
   },
   {
-    "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
-    "link": "https://tempus-word.de/en/index",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
     "source": "Hacker News",
-    "published": "2026-02-16T18:44:12+00:00",
+    "published": "2026-02-16T17:57:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038578\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038032\">Comments</a>"
   },
   {
     "title": "Visualizing the ARM64 Instruction Set (2024)",
@@ -150,6 +142,14 @@
     "published": "2026-02-15T23:20:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47028803\">Comments</a>"
+  },
+  {
+    "title": "Voith Schneider Propeller",
+    "link": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+    "source": "Hacker News",
+    "published": "2026-02-15T20:22:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47027171\">Comments</a>"
   },
   {
     "title": "How to choose between Hindley-Milner and bidirectional typing",
