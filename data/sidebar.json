@@ -1,11 +1,35 @@
 [
   {
-    "title": "Single vaccine could protect against all coughs, colds and flus",
-    "link": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
+    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+    "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
     "source": "Hacker News",
-    "published": "2026-02-19T22:08:24+00:00",
+    "published": "2026-02-20T03:05:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47080267\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083145\">Comments</a>"
+  },
+  {
+    "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+    "link": "https://github.com/tmustier/pi-for-excel",
+    "source": "Hacker News",
+    "published": "2026-02-20T02:20:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082854\">Comments</a>"
+  },
+  {
+    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+    "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+    "source": "Hacker News",
+    "published": "2026-02-20T01:33:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082548\">Comments</a>"
+  },
+  {
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "source": "Hacker News",
+    "published": "2026-02-20T01:28:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082496\">Comments</a>"
   },
   {
     "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
@@ -14,30 +38,6 @@
     "published": "2026-02-19T21:30:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47079718\">Comments</a>"
-  },
-  {
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
-    "link": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "source": "Hacker News",
-    "published": "2026-02-19T20:56:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47079222\">Comments</a>"
-  },
-  {
-    "title": "Overall, the colorectal cancer story is encouraging",
-    "link": "https://www.hankgreen.com/crc",
-    "source": "Hacker News",
-    "published": "2026-02-19T20:32:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078840\">Comments</a>"
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "source": "Hacker News",
-    "published": "2026-02-19T19:55:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
   },
   {
     "title": "Micropayments as a reality check for news sites",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>"
   },
   {
-    "title": "Measuring AI agent autonomy in practice",
-    "link": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "source": "Hacker News",
-    "published": "2026-02-19T14:14:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47073947\">Comments</a>"
-  },
-  {
     "title": "Pebble Production: February Update",
     "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
     "source": "Hacker News",
@@ -120,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47072968\">Comments</a>"
   },
   {
-    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-    "link": "https://makie.org/website/blogposts/raytracing/",
-    "source": "Hacker News",
-    "published": "2026-02-19T10:55:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072444\">Comments</a>"
-  },
-  {
     "title": "US plans online portal to bypass content bans in Europe and elsewhere",
     "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
     "source": "Hacker News",
     "published": "2026-02-18T22:25:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47067270\">Comments</a>"
+  },
+  {
+    "title": "A Famous Enigma: On Alexandre Koj\u00e8ve",
+    "link": "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/",
+    "source": "Hacker News",
+    "published": "2026-02-18T07:42:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47058350\">Comments</a>"
+  },
+  {
+    "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+    "link": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+    "source": "Hacker News",
+    "published": "2026-02-17T03:23:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47043345\">Comments</a>"
   },
   {
     "title": "My 1981 adventure game is now a multimedia extravaganza",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47041294\">Comments</a>"
   },
   {
-    "title": "Type-based alias analysis in the Toy Optimizer",
-    "link": "https://bernsteinbear.com/blog/toy-tbaa/",
+    "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+    "link": "https://cormullion.github.io/Lindenmayer.jl/stable/",
     "source": "Hacker News",
-    "published": "2026-02-16T18:37:39+00:00",
+    "published": "2026-02-16T14:49:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038491\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035698\">Comments</a>"
   },
   {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-    "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "title": "A beginner's guide to split keyboards",
+    "link": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
     "source": "Hacker News",
-    "published": "2026-02-16T17:57:46+00:00",
+    "published": "2026-02-16T00:31:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47038032\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47029368\">Comments</a>"
   }
 ]
