@@ -1,11 +1,27 @@
 [
   {
+    "title": "\"Made in EU\" \u2013 Building a Startup on European Infrastructure",
+    "link": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+    "source": "Hacker News",
+    "published": "2026-02-20T09:02:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085483\">Comments</a>"
+  },
+  {
     "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
     "link": "https://github.com/olvvier/apple-silicon-accelerometer",
     "source": "Hacker News",
     "published": "2026-02-20T05:06:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47084000\">Comments</a>"
+  },
+  {
+    "title": "Fast KV Compaction via Attention Matching",
+    "link": "https://arxiv.org/abs/2602.16284",
+    "source": "Hacker News",
+    "published": "2026-02-20T04:46:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083882\">Comments</a>"
   },
   {
     "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
@@ -32,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47083145\">Comments</a>"
   },
   {
-    "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
     "link": "https://github.com/tmustier/pi-for-excel",
     "source": "Hacker News",
     "published": "2026-02-20T02:20:06+00:00",
@@ -40,12 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47082854\">Comments</a>"
   },
   {
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-    "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+    "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
     "source": "Hacker News",
-    "published": "2026-02-20T01:28:47+00:00",
+    "published": "2026-02-20T01:33:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082496\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082548\">Comments</a>"
+  },
+  {
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "source": "Hacker News",
+    "published": "2026-02-19T19:55:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
   },
   {
     "title": "Micropayments as a reality check for news sites",
@@ -54,14 +78,6 @@
     "published": "2026-02-19T19:42:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47078167\">Comments</a>"
-  },
-  {
-    "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
-    "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
-    "source": "Hacker News",
-    "published": "2026-02-19T18:31:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47077245\">Comments</a>"
   },
   {
     "title": "A terminal weather app with ASCII animations driven by real-time weather data",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>"
   },
   {
-    "title": "Paged Out Issue #8 [pdf]",
-    "link": "https://pagedout.institute/download/PagedOut_008.pdf",
-    "source": "Hacker News",
-    "published": "2026-02-19T12:13:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47072968\">Comments</a>"
-  },
-  {
     "title": "US plans online portal to bypass content bans in Europe and elsewhere",
     "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
     "source": "Hacker News",
@@ -112,15 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47067270\">Comments</a>"
   },
   {
-    "title": "A Famous Enigma: On Alexandre Koj\u00e8ve",
-    "link": "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/",
-    "source": "Hacker News",
-    "published": "2026-02-18T07:42:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47058350\">Comments</a>"
-  },
-  {
-    "title": "FreeCAD is an open-source parametric 3D modeler",
+    "title": "FreeCAD",
     "link": "https://www.freecad.org/index.php",
     "source": "Hacker News",
     "published": "2026-02-17T12:57:38+00:00",
@@ -128,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47047010\">Comments</a>"
   },
   {
-    "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+    "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
     "link": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
     "source": "Hacker News",
     "published": "2026-02-17T03:23:16+00:00",
@@ -136,15 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47043345\">Comments</a>"
   },
   {
-    "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
-    "link": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+    "title": "Show HN: Write native binary web apps with TypeScript and Express",
+    "link": "https://github.com/tsoniclang/express",
     "source": "Hacker News",
-    "published": "2026-02-16T14:49:24+00:00",
+    "published": "2026-02-16T14:07:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035112\">Comments</a>"
   },
   {
-    "title": "Defer Available in GCC and Clang",
+    "title": "Defer available in gcc and clang",
     "link": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
     "source": "Hacker News",
     "published": "2026-02-16T05:27:35+00:00",
