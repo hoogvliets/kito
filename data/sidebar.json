@@ -1,5 +1,45 @@
 [
   {
+    "title": "I found a Vulnerability. They found a Lawyer",
+    "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+    "source": "Hacker News",
+    "published": "2026-02-20T19:19:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47092578\">Comments</a>"
+  },
+  {
+    "title": "Testing Super Mario Using a Behavior Model Autonomously",
+    "link": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
+    "source": "Hacker News",
+    "published": "2026-02-20T19:04:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47092348\">Comments</a>"
+  },
+  {
+    "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+    "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+    "source": "Hacker News",
+    "published": "2026-02-20T18:42:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47092006\">Comments</a>"
+  },
+  {
+    "title": "Facebook is cooked",
+    "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
+    "source": "Hacker News",
+    "published": "2026-02-20T18:25:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47091748\">Comments</a>"
+  },
+  {
+    "title": "Blue light filters don't work \u2013 controlling total luminance is a better bet",
+    "link": "https://www.neuroai.science/p/blue-light-filters-dont-work",
+    "source": "Hacker News",
+    "published": "2026-02-20T18:14:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47091606\">Comments</a>"
+  },
+  {
     "title": "Making frontier cybersecurity capabilities available to defenders",
     "link": "https://www.anthropic.com/news/claude-code-security",
     "source": "Hacker News",
@@ -8,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47091469\">Comments</a>"
   },
   {
-    "title": "F-Droid: \"Keep Android Open\"",
+    "title": "Keep Android Open",
     "link": "https://f-droid.org/2026/02/20/twif.html",
     "source": "Hacker News",
     "published": "2026-02-20T17:58:51+00:00",
@@ -30,14 +70,6 @@
     "published": "2026-02-20T17:02:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47090610\">Comments</a>"
-  },
-  {
-    "title": "No Skill. No Taste",
-    "link": "https://blog.kinglycrow.com/no-skill-no-taste/",
-    "source": "Hacker News",
-    "published": "2026-02-20T16:13:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47089907\">Comments</a>"
   },
   {
     "title": "Trump's global tariffs struck down by US Supreme Court",
@@ -62,14 +94,6 @@
     "published": "2026-02-20T14:03:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47088181\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-    "link": "https://github.com/IronsideXXVI/Hacker-News",
-    "source": "Hacker News",
-    "published": "2026-02-20T14:02:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088166\">Comments</a>"
   },
   {
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
@@ -112,30 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47085387\">Comments</a>"
   },
   {
-    "title": "Web Components: The Framework-Free Renaissance",
-    "link": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-    "source": "Hacker News",
-    "published": "2026-02-20T08:45:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085370\">Comments</a>"
-  },
-  {
-    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-    "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
-    "source": "Hacker News",
-    "published": "2026-02-20T04:15:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083648\">Comments</a>"
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "source": "Hacker News",
-    "published": "2026-02-19T19:55:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
-  },
-  {
     "title": "The Popper Principle",
     "link": "https://theamericanscholar.org/the-popper-principle/",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47072849\">Comments</a>"
   },
   {
-    "title": "Visible Spectra of the Elements",
-    "link": "https://atomic-spectra.net/",
+    "title": "Do you want to build a community where users search or hang? (2021)",
+    "link": "https://www.mooreds.com/wordpress/archives/3486",
     "source": "Hacker News",
-    "published": "2026-02-17T12:54:04+00:00",
+    "published": "2026-02-17T14:58:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046981\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47048181\">Comments</a>"
   },
   {
-    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
-    "link": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+    "title": "How to Review an AUR Package",
+    "link": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
     "source": "Hacker News",
-    "published": "2026-02-16T02:58:55+00:00",
+    "published": "2026-02-17T07:34:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47030387\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47044700\">Comments</a>"
   }
 ]
