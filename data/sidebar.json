@@ -1,11 +1,59 @@
 [
   {
-    "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
-    "link": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
+    "title": "Child's Play: Tech's new generation and the end of thinking",
+    "link": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
     "source": "Hacker News",
-    "published": "2026-02-20T12:01:14+00:00",
+    "published": "2026-02-20T14:48:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086946\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088685\">Comments</a>"
+  },
+  {
+    "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+    "link": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+    "source": "Hacker News",
+    "published": "2026-02-20T14:03:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088181\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+    "link": "https://github.com/IronsideXXVI/Hacker-News",
+    "source": "Hacker News",
+    "published": "2026-02-20T14:02:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088166\">Comments</a>"
+  },
+  {
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "source": "Hacker News",
+    "published": "2026-02-20T13:51:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088037\">Comments</a>"
+  },
+  {
+    "title": "Mothers (YC X26) Is Hiring",
+    "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+    "source": "Hacker News",
+    "published": "2026-02-20T13:44:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47087954\">Comments</a>"
+  },
+  {
+    "title": "PayPal discloses data breach that exposed user info for 6 months",
+    "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+    "source": "Hacker News",
+    "published": "2026-02-20T13:22:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47087719\">Comments</a>"
+  },
+  {
+    "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+    "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+    "source": "Hacker News",
+    "published": "2026-02-20T12:04:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086980\">Comments</a>"
   },
   {
     "title": "Minions \u2013 Stripe's Coding Agents Part 2",
@@ -64,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47084000\">Comments</a>"
   },
   {
-    "title": "Fast KV Compaction via Attention Matching",
-    "link": "https://arxiv.org/abs/2602.16284",
-    "source": "Hacker News",
-    "published": "2026-02-20T04:46:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083882\">Comments</a>"
-  },
-  {
     "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
     "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
     "source": "Hacker News",
     "published": "2026-02-20T04:15:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47083648\">Comments</a>"
-  },
-  {
-    "title": "Pi for Excel: AI sidebar add-in for Excel",
-    "link": "https://github.com/tmustier/pi-for-excel",
-    "source": "Hacker News",
-    "published": "2026-02-20T02:20:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082854\">Comments</a>"
   },
   {
     "title": "AI is not a coworker, it's an exoskeleton",
@@ -96,44 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
   },
   {
-    "title": "Show HN: Micasa \u2013 track your house from the terminal",
-    "link": "https://micasa.dev",
-    "source": "Hacker News",
-    "published": "2026-02-19T15:54:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075124\">Comments</a>"
-  },
-  {
     "title": "Gemini 3.1 Pro",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
     "source": "Hacker News",
     "published": "2026-02-19T15:19:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47074735\">Comments</a>"
-  },
-  {
-    "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-    "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-    "source": "Hacker News",
-    "published": "2026-02-18T22:25:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067270\">Comments</a>"
-  },
-  {
-    "title": "Notes on Clarifying Man Pages",
-    "link": "https://jvns.ca/blog/2026/02/18/man-pages/",
-    "source": "Hacker News",
-    "published": "2026-02-18T20:30:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065972\">Comments</a>"
-  },
-  {
-    "title": "FreeCAD",
-    "link": "https://www.freecad.org/index.php",
-    "source": "Hacker News",
-    "published": "2026-02-17T12:57:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47047010\">Comments</a>"
   },
   {
     "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47031197\">Comments</a>"
   },
   {
-    "title": "A beginner's guide to split keyboards",
-    "link": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+    "link": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
     "source": "Hacker News",
-    "published": "2026-02-16T00:31:01+00:00",
+    "published": "2026-02-16T02:58:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47029368\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47030387\">Comments</a>"
   }
 ]
