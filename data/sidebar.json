@@ -1,11 +1,59 @@
 [
   {
-    "title": "\"Made in EU\" \u2013 Building a Startup on European Infrastructure",
+    "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
+    "link": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
+    "source": "Hacker News",
+    "published": "2026-02-20T12:01:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086946\">Comments</a>"
+  },
+  {
+    "title": "Minions \u2013 Stripe's Coding Agents Part 2",
+    "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+    "source": "Hacker News",
+    "published": "2026-02-20T11:20:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086557\">Comments</a>"
+  },
+  {
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "source": "Hacker News",
+    "published": "2026-02-20T10:32:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086181\">Comments</a>"
+  },
+  {
+    "title": "I tried building my startup entirely on European infrastructure",
     "link": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
     "source": "Hacker News",
     "published": "2026-02-20T09:02:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47085483\">Comments</a>"
+  },
+  {
+    "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+    "link": "https://jimmyhmiller.com/learn-codebase-visualizer",
+    "source": "Hacker News",
+    "published": "2026-02-20T08:52:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085425\">Comments</a>"
+  },
+  {
+    "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+    "link": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
+    "source": "Hacker News",
+    "published": "2026-02-20T08:48:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085387\">Comments</a>"
+  },
+  {
+    "title": "Web Components: The Framework-Free Renaissance",
+    "link": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+    "source": "Hacker News",
+    "published": "2026-02-20T08:45:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085370\">Comments</a>"
   },
   {
     "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
@@ -24,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47083882\">Comments</a>"
   },
   {
-    "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-    "link": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
-    "source": "Hacker News",
-    "published": "2026-02-20T04:27:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083735\">Comments</a>"
-  },
-  {
     "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
     "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
     "source": "Hacker News",
     "published": "2026-02-20T04:15:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47083648\">Comments</a>"
-  },
-  {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
-    "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-    "source": "Hacker News",
-    "published": "2026-02-20T03:05:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47083145\">Comments</a>"
   },
   {
     "title": "Pi for Excel: AI sidebar add-in for Excel",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47082854\">Comments</a>"
   },
   {
-    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-    "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
-    "source": "Hacker News",
-    "published": "2026-02-20T01:33:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47082548\">Comments</a>"
-  },
-  {
     "title": "AI is not a coworker, it's an exoskeleton",
     "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
     "source": "Hacker News",
     "published": "2026-02-19T19:55:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47078324\">Comments</a>"
-  },
-  {
-    "title": "Micropayments as a reality check for news sites",
-    "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
-    "source": "Hacker News",
-    "published": "2026-02-19T19:42:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078167\">Comments</a>"
-  },
-  {
-    "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-    "link": "https://github.com/Veirt/weathr",
-    "source": "Hacker News",
-    "published": "2026-02-19T17:47:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47076659\">Comments</a>"
   },
   {
     "title": "Show HN: Micasa \u2013 track your house from the terminal",
@@ -104,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47074735\">Comments</a>"
   },
   {
-    "title": "America vs. Singapore: You can't save your way out of economic shocks",
-    "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-    "source": "Hacker News",
-    "published": "2026-02-19T14:52:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074389\">Comments</a>"
-  },
-  {
     "title": "US plans online portal to bypass content bans in Europe and elsewhere",
     "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
     "source": "Hacker News",
     "published": "2026-02-18T22:25:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47067270\">Comments</a>"
+  },
+  {
+    "title": "Notes on Clarifying Man Pages",
+    "link": "https://jvns.ca/blog/2026/02/18/man-pages/",
+    "source": "Hacker News",
+    "published": "2026-02-18T20:30:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47065972\">Comments</a>"
   },
   {
     "title": "FreeCAD",
@@ -134,14 +142,6 @@
     "published": "2026-02-17T03:23:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47043345\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Write native binary web apps with TypeScript and Express",
-    "link": "https://github.com/tsoniclang/express",
-    "source": "Hacker News",
-    "published": "2026-02-16T14:07:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47035112\">Comments</a>"
   },
   {
     "title": "Defer available in gcc and clang",
