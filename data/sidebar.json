@@ -1,11 +1,43 @@
 [
   {
-    "title": "macOS's Little-Known Command-Line Sandboxing Tool",
+    "title": "What Not to Write on Your Security Clearance Form",
+    "link": "https://milk.com/wall-o-shame/security_clearance.html",
+    "source": "Hacker News",
+    "published": "2026-02-21T17:08:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47102576\">Comments</a>"
+  },
+  {
+    "title": "The Nekonomicon \u2013 Nekochan.net Archive, Updated",
+    "link": "http://nekonomicon.irixnet.org/",
+    "source": "Hacker News",
+    "published": "2026-02-21T16:27:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47102208\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Iron-Wolf \u2013 Wolfenstein 3D source port in Rust",
+    "link": "https://github.com/Ragnaroek/iron-wolf",
+    "source": "Hacker News",
+    "published": "2026-02-21T15:52:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47101890\">Comments</a>"
+  },
+  {
+    "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
     "link": "https://igorstechnoclub.com/sandbox-exec/",
     "source": "Hacker News",
     "published": "2026-02-21T14:34:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47101200\">Comments</a>"
+  },
+  {
+    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+    "link": "https://www.koreaherald.com/article/10679206",
+    "source": "Hacker News",
+    "published": "2026-02-21T14:32:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47101171\">Comments</a>"
   },
   {
     "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
@@ -48,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47098245\">Comments</a>"
   },
   {
-    "title": "What Is OAuth?",
-    "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-    "source": "Hacker News",
-    "published": "2026-02-21T01:33:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096520\">Comments</a>"
-  },
-  {
     "title": "CERN rebuilt the original browser from 1989 (2019)",
     "link": "https://worldwideweb.cern.ch",
     "source": "Hacker News",
@@ -78,14 +102,6 @@
     "published": "2026-02-20T19:19:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47092578\">Comments</a>"
-  },
-  {
-    "title": "Every company building your AI assistant is now an ad company",
-    "link": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-    "source": "Hacker News",
-    "published": "2026-02-20T18:55:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47092203\">Comments</a>"
   },
   {
     "title": "Wikipedia deprecates Archive.today, starts removing archive links",
@@ -120,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47088037\">Comments</a>"
   },
   {
-    "title": "Approaches to writing two-sentence journal entries",
-    "link": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
+    "title": "How far back in time can you understand English?",
+    "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
     "source": "Hacker News",
-    "published": "2026-02-17T21:11:28+00:00",
+    "published": "2026-02-18T14:56:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47053410\">Comments</a>"
-  },
-  {
-    "title": "The bare minimum for syncing Git repos",
-    "link": "https://alexwlchan.net/2026/bare-git/",
-    "source": "Hacker News",
-    "published": "2026-02-17T17:35:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47050308\">Comments</a>"
-  },
-  {
-    "title": "Understanding Std:Shared_mutex from C++17",
-    "link": "https://www.cppstories.com/2026/shared_mutex/",
-    "source": "Hacker News",
-    "published": "2026-02-17T16:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47049499\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061614\">Comments</a>"
   },
   {
     "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47047027\">Comments</a>"
   },
   {
-    "title": "Gitas \u2013 A tool for Git account switching",
-    "link": "https://github.com/letmutex/gitas",
+    "title": "Permacomputing",
+    "link": "https://wiki.xxiivv.com/site/permacomputing.html",
     "source": "Hacker News",
-    "published": "2026-02-17T08:51:41+00:00",
+    "published": "2026-02-17T12:40:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47045175\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046858\">Comments</a>"
   }
 ]
