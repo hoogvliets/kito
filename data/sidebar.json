@@ -1,14 +1,30 @@
 [
   {
-    "title": "Be Wary of Bluesky",
-    "link": "https://kevinak.se/blog/be-wary-of-bluesky",
+    "title": "Excessive token usage in Claude Code",
+    "link": "https://github.com/anthropics/claude-code/issues/16856",
     "source": "Hacker News",
-    "published": "2026-02-20T23:35:33+00:00",
+    "published": "2026-02-21T02:40:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47095597\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096937\">Comments</a>"
   },
   {
-    "title": "CERN rebuilt the original browser from 1989",
+    "title": "What Is OAuth?",
+    "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+    "source": "Hacker News",
+    "published": "2026-02-21T01:33:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096520\">Comments</a>"
+  },
+  {
+    "title": "Cord: Coordinating Trees of AI Agents",
+    "link": "https://www.june.kim/cord",
+    "source": "Hacker News",
+    "published": "2026-02-21T01:27:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096466\">Comments</a>"
+  },
+  {
+    "title": "CERN rebuilt the original browser from 1989 (2019)",
     "link": "https://worldwideweb.cern.ch",
     "source": "Hacker News",
     "published": "2026-02-20T23:19:12+00:00",
@@ -22,6 +38,14 @@
     "published": "2026-02-20T22:50:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47095134\">Comments</a>"
+  },
+  {
+    "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
+    "link": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
+    "source": "Hacker News",
+    "published": "2026-02-20T22:27:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47094877\">Comments</a>"
   },
   {
     "title": "Turn Dependabot Off",
@@ -88,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47091606\">Comments</a>"
   },
   {
-    "title": "Uncovering insiders and alpha on Polymarket with AI",
-    "link": "https://twitter.com/peterjliu/status/2024901585806225723",
-    "source": "Hacker News",
-    "published": "2026-02-20T18:11:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47091557\">Comments</a>"
-  },
-  {
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "link": "https://www.anthropic.com/news/claude-code-security",
-    "source": "Hacker News",
-    "published": "2026-02-20T18:03:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47091469\">Comments</a>"
-  },
-  {
     "title": "Keep Android Open",
     "link": "https://f-droid.org/2026/02/20/twif.html",
     "source": "Hacker News",
     "published": "2026-02-20T17:58:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>"
-  },
-  {
-    "title": "Lil' Fun Langs",
-    "link": "https://taylor.town/scrapscript-000",
-    "source": "Hacker News",
-    "published": "2026-02-20T17:34:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>"
   },
   {
     "title": "Trump's global tariffs struck down by US Supreme Court",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47088037\">Comments</a>"
   },
   {
-    "title": "The path to ubiquitous AI (17k tokens/sec)",
-    "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "title": "Index, Count, Offset, Size",
+    "link": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
     "source": "Hacker News",
-    "published": "2026-02-20T10:32:52+00:00",
+    "published": "2026-02-18T08:20:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47086181\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47058584\">Comments</a>"
   },
   {
     "title": "The true story behind the Toronto mystery tunnel",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47055261\">Comments</a>"
   },
   {
-    "title": "Building a model that visualizes strategic golf",
-    "link": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+    "title": "Show HN: PIrateRF \u2013 Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter",
+    "link": "https://github.com/psyb0t/piraterf",
     "source": "Hacker News",
-    "published": "2026-02-16T17:15:27+00:00",
+    "published": "2026-02-17T14:00:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47037568\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47047559\">Comments</a>"
   }
 ]
