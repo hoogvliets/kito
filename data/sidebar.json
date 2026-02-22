@@ -1,5 +1,21 @@
 [
   {
+    "title": "Back to FreeBSD: Part 1",
+    "link": "https://hypha.pub/back-to-freebsd-part-1",
+    "source": "Hacker News",
+    "published": "2026-02-22T07:16:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47108989\">Comments</a>"
+  },
+  {
+    "title": "What's the best way to learn a new language?",
+    "link": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+    "source": "Hacker News",
+    "published": "2026-02-22T07:14:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47108977\">Comments</a>"
+  },
+  {
     "title": "Japanese Woodblock Print Search",
     "link": "https://ukiyo-e.org/",
     "source": "Hacker News",
@@ -48,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47103931\">Comments</a>"
   },
   {
-    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
     "link": "https://www.anuragk.com/blog/posts/Taalas.html",
     "source": "Hacker News",
     "published": "2026-02-21T19:07:20+00:00",
@@ -56,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47103661\">Comments</a>"
   },
   {
-    "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
-    "link": "https://github.com/a-e-k/canvas_ity",
-    "source": "Hacker News",
-    "published": "2026-02-21T18:50:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47103506\">Comments</a>"
-  },
-  {
-    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+    "title": "Toyota\u2019s hydrogen-powered Mirai has experienced rapid depreciation",
     "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
     "source": "Hacker News",
     "published": "2026-02-21T18:09:24+00:00",
@@ -80,28 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47101171\">Comments</a>"
   },
   {
+    "title": "Show HN: Elecxzy \u2013 A lightweight, Lisp-free Emacs-like editor in Electron",
+    "link": "https://github.com/kurouna/elecxzy",
+    "source": "Hacker News",
+    "published": "2026-02-21T12:49:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47100328\">Comments</a>"
+  },
+  {
     "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "link": "https://github.com/tnm/zclaw",
     "source": "Hacker News",
     "published": "2026-02-21T12:37:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47100232\">Comments</a>"
-  },
-  {
-    "title": "Coccinelle: Source-to-source transformation tool",
-    "link": "https://github.com/coccinelle/coccinelle",
-    "source": "Hacker News",
-    "published": "2026-02-21T08:26:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47098669\">Comments</a>"
-  },
-  {
-    "title": "I verified my LinkedIn identity. Here's what I handed over",
-    "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "source": "Hacker News",
-    "published": "2026-02-21T07:06:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47098245\">Comments</a>"
   },
   {
     "title": "Claws are now a new layer on top of LLM agents",
@@ -120,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47096167\">Comments</a>"
   },
   {
+    "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
+    "link": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
+    "source": "Hacker News",
+    "published": "2026-02-19T15:14:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074671\">Comments</a>"
+  },
+  {
     "title": "How far back in time can you understand English?",
     "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
     "source": "Hacker News",
@@ -128,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47061614\">Comments</a>"
   },
   {
-    "title": "Carelessness versus Craftsmanship in Cryptography",
+    "title": "Carelessness versus craftsmanship in cryptography",
     "link": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
     "source": "Hacker News",
     "published": "2026-02-18T12:34:52+00:00",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47060334\">Comments</a>"
   },
   {
-    "title": "Scientists discover recent tectonic activity on the moon",
-    "link": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+    "title": "Unreal Numbers",
+    "link": "https://lcamtuf.substack.com/p/unreal-numbers",
     "source": "Hacker News",
-    "published": "2026-02-17T19:13:37+00:00",
+    "published": "2026-02-17T12:40:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47051709\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046853\">Comments</a>"
   },
   {
     "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
@@ -150,13 +158,5 @@
     "published": "2026-02-17T11:01:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47046070\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
-    "link": "https://yuyz0112.github.io/glitch-art-maker/",
-    "source": "Hacker News",
-    "published": "2026-02-17T06:35:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47044369\">Comments</a>"
   }
 ]
