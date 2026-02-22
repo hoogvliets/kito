@@ -1,5 +1,29 @@
 [
   {
+    "title": "Fix Your Tools",
+    "link": "https://ochagavia.nl/blog/fix-your-tools/",
+    "source": "Hacker News",
+    "published": "2026-02-22T16:12:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112174\">Comments</a>"
+  },
+  {
+    "title": "Show HN: 3D Mahjong, Built in CSS",
+    "link": "https://voxjong.com",
+    "source": "Hacker News",
+    "published": "2026-02-22T15:53:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111981\">Comments</a>"
+  },
+  {
+    "title": "Xweather Live \u2013 Interactive global vector weather map",
+    "link": "https://live.xweather.com/",
+    "source": "Hacker News",
+    "published": "2026-02-22T15:12:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111626\">Comments</a>"
+  },
+  {
     "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
     "link": "https://quesma.com/blog/introducing-binaryaudit/",
     "source": "Hacker News",
@@ -16,36 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47111400\">Comments</a>"
   },
   {
+    "title": "Git's Magic Files",
+    "link": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+    "source": "Hacker News",
+    "published": "2026-02-22T14:21:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111218\">Comments</a>"
+  },
+  {
     "title": "Iran students stage first large anti-government protests since deadly crackdown",
     "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
     "source": "Hacker News",
     "published": "2026-02-22T13:59:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47111067\">Comments</a>"
-  },
-  {
-    "title": "I put New Zealand behind a $1 paywall",
-    "link": "https://rename.world/",
-    "source": "Hacker News",
-    "published": "2026-02-22T13:57:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111042\">Comments</a>"
-  },
-  {
-    "title": "Volatility: The volatile memory forensic extraction framework",
-    "link": "https://github.com/volatilityfoundation/volatility3",
-    "source": "Hacker News",
-    "published": "2026-02-22T13:20:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110781\">Comments</a>"
-  },
-  {
-    "title": "The Dance Floor Is Disappearing in a Sea of Phones",
-    "link": "https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture",
-    "source": "Hacker News",
-    "published": "2026-02-22T12:41:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110549\">Comments</a>"
   },
   {
     "title": "Attention Media \u2260 Social Networks",
@@ -88,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>"
   },
   {
-    "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
-    "link": "https://www.science.org/doi/10.1126/science.adq7188",
-    "source": "Hacker News",
-    "published": "2026-02-21T21:51:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>"
-  },
-  {
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "link": "https://github.com/xaskasdf/ntransformer",
     "source": "Hacker News",
@@ -112,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47103661\">Comments</a>"
   },
   {
-    "title": "The Four-Color Theorem 1852\u20131976",
-    "link": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "link": "https://github.com/tnm/zclaw",
     "source": "Hacker News",
-    "published": "2026-02-21T12:32:06+00:00",
+    "published": "2026-02-21T12:37:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47100190\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47100232\">Comments</a>"
   },
   {
     "title": "Gamedate \u2013 A site to revive dead multiplayer games",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47061614\">Comments</a>"
   },
   {
-    "title": "Unreal Numbers",
-    "link": "https://lcamtuf.substack.com/p/unreal-numbers",
+    "title": "Monkey Patching in VBA",
+    "link": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
     "source": "Hacker News",
-    "published": "2026-02-17T12:40:10+00:00",
+    "published": "2026-02-18T10:29:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046853\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47059516\">Comments</a>"
   },
   {
     "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
