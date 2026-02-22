@@ -1,5 +1,37 @@
 [
   {
+    "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+    "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+    "source": "Hacker News",
+    "published": "2026-02-22T03:24:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47107819\">Comments</a>"
+  },
+  {
+    "title": "Japanese Woodblock Print Search",
+    "link": "https://ukiyo-e.org/",
+    "source": "Hacker News",
+    "published": "2026-02-22T03:18:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>"
+  },
+  {
+    "title": "Palantir's secret weapon isn't AI \u2013 it's Ontology. An open-source deep dive",
+    "link": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+    "source": "Hacker News",
+    "published": "2026-02-22T02:29:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47107512\">Comments</a>"
+  },
+  {
+    "title": "A Botnet Accidentally Destroyed I2P",
+    "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+    "source": "Hacker News",
+    "published": "2026-02-22T01:08:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47106985\">Comments</a>"
+  },
+  {
     "title": "How I use Claude Code: Separation of planning and execution",
     "link": "https://boristane.com/blog/how-i-use-claude-code/",
     "source": "Hacker News",
@@ -8,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>"
   },
   {
-    "title": "Are compilers deterministic?",
-    "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-    "source": "Hacker News",
-    "published": "2026-02-22T00:21:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>"
-  },
-  {
     "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
     "link": "https://www.science.org/doi/10.1126/science.adq7188",
     "source": "Hacker News",
     "published": "2026-02-21T21:51:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>"
-  },
-  {
-    "title": "Why is Claude an Electron app?",
-    "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-    "source": "Hacker News",
-    "published": "2026-02-21T21:28:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47104973\">Comments</a>"
   },
   {
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
@@ -46,14 +62,6 @@
     "published": "2026-02-21T20:10:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47104185\">Comments</a>"
-  },
-  {
-    "title": "Inputlag.science \u2013 Repository of knowledge about input lag in gaming",
-    "link": "https://inputlag.science",
-    "source": "Hacker News",
-    "published": "2026-02-21T19:41:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47103945\">Comments</a>"
   },
   {
     "title": "Parse, Don't Validate and Type-Driven Design in Rust",
@@ -80,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47103136\">Comments</a>"
   },
   {
-    "title": "Personal Statement of a CIA Analyst",
-    "link": "https://antipolygraph.org/statements/statement-038.shtml",
-    "source": "Hacker News",
-    "published": "2026-02-21T17:49:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47102975\">Comments</a>"
-  },
-  {
-    "title": "What not to write on your security clearance form (1988)",
-    "link": "https://milk.com/wall-o-shame/security_clearance.html",
-    "source": "Hacker News",
-    "published": "2026-02-21T17:08:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47102576\">Comments</a>"
-  },
-  {
     "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "link": "https://www.koreaherald.com/article/10679206",
     "source": "Hacker News",
@@ -120,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47098296\">Comments</a>"
   },
   {
-    "title": "I verified my LinkedIn identity. Here's what I handed over",
-    "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "source": "Hacker News",
-    "published": "2026-02-21T07:06:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47098245\">Comments</a>"
-  },
-  {
     "title": "Claws are now a new layer on top of LLM agents",
     "link": "https://twitter.com/karpathy/status/2024987174077432126",
     "source": "Hacker News",
     "published": "2026-02-21T00:56:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47096253\">Comments</a>"
+  },
+  {
+    "title": "Gamedate \u2013 A site to revive dead multiplayer games",
+    "link": "https://gamedate.org/",
+    "source": "Hacker News",
+    "published": "2026-02-21T00:44:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096167\">Comments</a>"
+  },
+  {
+    "title": "Forward propagation of errors through time",
+    "link": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
+    "source": "Hacker News",
+    "published": "2026-02-19T09:23:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47071770\">Comments</a>"
   },
   {
     "title": "How far back in time can you understand English?",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47061614\">Comments</a>"
   },
   {
-    "title": "I Don't Like Magic",
-    "link": "https://adactio.com/journal/22399",
+    "title": "Scientists discover recent tectonic activity on the moon",
+    "link": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
     "source": "Hacker News",
-    "published": "2026-02-18T09:42:40+00:00",
+    "published": "2026-02-17T19:13:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47059147\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47051709\">Comments</a>"
   },
   {
-    "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
-    "link": "https://dl.acm.org/doi/full/10.1145/3689761",
+    "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+    "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
     "source": "Hacker News",
-    "published": "2026-02-17T01:57:40+00:00",
+    "published": "2026-02-17T11:01:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47042779\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046070\">Comments</a>"
   }
 ]
