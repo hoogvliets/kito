@@ -1,6 +1,102 @@
 [
   {
-    "title": "Fix Your Tools",
+    "title": "Spain has blocked access to freedom.gov",
+    "link": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+    "source": "Hacker News",
+    "published": "2026-02-22T20:17:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114235\">Comments</a>"
+  },
+  {
+    "title": "Factory-built housing hasn't taken off in California",
+    "link": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:33:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113892\">Comments</a>"
+  },
+  {
+    "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
+    "link": "https://github.com/olserra/symplex",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:20:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113793\">Comments</a>"
+  },
+  {
+    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+    "link": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:18:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113769\">Comments</a>"
+  },
+  {
+    "title": "NanoClaw Moved from Apple Containers to Docker",
+    "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:12:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113731\">Comments</a>"
+  },
+  {
+    "title": "I built Timeframe, our family e-paper dashboard",
+    "link": "https://hawksley.org/2026/02/17/timeframe.html",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:12:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113728\">Comments</a>"
+  },
+  {
+    "title": "Loops is a federated, open-source TikTok",
+    "link": "https://joinloops.org/",
+    "source": "Hacker News",
+    "published": "2026-02-22T18:56:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113618\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Local-First Linux MicroVMs for macOS",
+    "link": "https://shuru.run",
+    "source": "Hacker News",
+    "published": "2026-02-22T18:50:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113567\">Comments</a>"
+  },
+  {
+    "title": "Linuxulator on FreeBSD Feels Like Magic",
+    "link": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+    "source": "Hacker News",
+    "published": "2026-02-22T18:45:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113527\">Comments</a>"
+  },
+  {
+    "title": "Fresh File Explorer \u2013 VS Code extension for navigating recent work",
+    "link": "https://github.com/FreHu/vscode-fresh-file-explorer",
+    "source": "Hacker News",
+    "published": "2026-02-22T18:20:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113325\">Comments</a>"
+  },
+  {
+    "title": "Hello Worg, the Org-Mode Community",
+    "link": "https://orgmode.org/worg/",
+    "source": "Hacker News",
+    "published": "2026-02-22T17:39:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112925\">Comments</a>"
+  },
+  {
+    "title": "Emulated Windows 3.11 in the Browser",
+    "link": "https://pieter.com/",
+    "source": "Hacker News",
+    "published": "2026-02-22T17:37:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112892\">Comments</a>"
+  },
+  {
+    "title": "Fix your tools",
     "link": "https://ochagavia.nl/blog/fix-your-tools/",
     "source": "Hacker News",
     "published": "2026-02-22T16:12:31+00:00",
@@ -24,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47111626\">Comments</a>"
   },
   {
-    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-    "link": "https://quesma.com/blog/introducing-binaryaudit/",
-    "source": "Hacker News",
-    "published": "2026-02-22T14:50:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111440\">Comments</a>"
-  },
-  {
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "source": "Hacker News",
-    "published": "2026-02-22T14:44:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111400\">Comments</a>"
-  },
-  {
     "title": "Git's Magic Files",
     "link": "https://nesbitt.io/2026/02/05/git-magic-files.html",
     "source": "Hacker News",
     "published": "2026-02-22T14:21:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47111218\">Comments</a>"
-  },
-  {
-    "title": "Iran students stage first large anti-government protests since deadly crackdown",
-    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
-    "source": "Hacker News",
-    "published": "2026-02-22T13:59:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111067\">Comments</a>"
   },
   {
     "title": "Attention Media \u2260 Social Networks",
@@ -64,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47110515\">Comments</a>"
   },
   {
-    "title": "What Is a Database Transaction?",
+    "title": "What is a database transaction?",
     "link": "https://planetscale.com/blog/database-transactions",
     "source": "Hacker News",
     "published": "2026-02-22T12:28:41+00:00",
@@ -80,83 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47108989\">Comments</a>"
   },
   {
-    "title": "Japanese Woodblock Print Search",
-    "link": "https://ukiyo-e.org/",
+    "title": "Write-Only Code",
+    "link": "https://www.heavybit.com/library/article/write-only-code",
     "source": "Hacker News",
-    "published": "2026-02-22T03:18:36+00:00",
+    "published": "2026-02-17T11:40:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>"
-  },
-  {
-    "title": "How I use Claude Code: Separation of planning and execution",
-    "link": "https://boristane.com/blog/how-i-use-claude-code/",
-    "source": "Hacker News",
-    "published": "2026-02-22T00:29:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-    "link": "https://github.com/xaskasdf/ntransformer",
-    "source": "Hacker News",
-    "published": "2026-02-21T20:57:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47104667\">Comments</a>"
-  },
-  {
-    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
-    "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "source": "Hacker News",
-    "published": "2026-02-21T19:07:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47103661\">Comments</a>"
-  },
-  {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "link": "https://github.com/tnm/zclaw",
-    "source": "Hacker News",
-    "published": "2026-02-21T12:37:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47100232\">Comments</a>"
-  },
-  {
-    "title": "Gamedate \u2013 A site to revive dead multiplayer games",
-    "link": "https://gamedate.org/",
-    "source": "Hacker News",
-    "published": "2026-02-21T00:44:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47096167\">Comments</a>"
-  },
-  {
-    "title": "ReferenceFinder: Find coordinates on a piece of paper with only folds",
-    "link": "https://mutsuntsai.github.io/reference-finder/",
-    "source": "Hacker News",
-    "published": "2026-02-19T04:27:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47069918\">Comments</a>"
-  },
-  {
-    "title": "How far back in time can you understand English?",
-    "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-    "source": "Hacker News",
-    "published": "2026-02-18T14:56:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47061614\">Comments</a>"
-  },
-  {
-    "title": "Monkey Patching in VBA",
-    "link": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
-    "source": "Hacker News",
-    "published": "2026-02-18T10:29:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47059516\">Comments</a>"
-  },
-  {
-    "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-    "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-    "source": "Hacker News",
-    "published": "2026-02-17T11:01:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046070\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046433\">Comments</a>"
   }
 ]
