@@ -1,5 +1,37 @@
 [
   {
+    "title": "Freemediaheckyeah",
+    "link": "https://fmhy.net/",
+    "source": "Hacker News",
+    "published": "2026-02-23T03:35:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47117780\">Comments</a>"
+  },
+  {
+    "title": "The JavaScript Oxidation Compiler",
+    "link": "https://oxc.rs/",
+    "source": "Hacker News",
+    "published": "2026-02-23T02:49:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47117459\">Comments</a>"
+  },
+  {
+    "title": "Agentic Software Engineering Book",
+    "link": "https://agenticse-book.github.io/",
+    "source": "Hacker News",
+    "published": "2026-02-23T02:41:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47117408\">Comments</a>"
+  },
+  {
+    "title": "Aqua: A CLI message tool for AI agents",
+    "link": "https://github.com/quailyquaily/aqua",
+    "source": "Hacker News",
+    "published": "2026-02-23T02:07:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47117169\">Comments</a>"
+  },
+  {
     "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
     "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
     "source": "Hacker News",
@@ -16,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47115575\">Comments</a>"
   },
   {
-    "title": "Music Discovery",
-    "link": "https://www.secondtrack.co/",
-    "source": "Hacker News",
-    "published": "2026-02-22T21:06:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114672\">Comments</a>"
-  },
-  {
     "title": "Show HN: CIA World Factbook Archive (1990\u20132025), searchable and exportable",
     "link": "https://cia-factbook-archive.fly.dev/",
     "source": "Hacker News",
@@ -32,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47114530\">Comments</a>"
   },
   {
-    "title": "The Tears of Donald Knuth",
-    "link": "https://cacm.acm.org/opinion/the-tears-of-donald-knuth/",
-    "source": "Hacker News",
-    "published": "2026-02-22T19:54:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114054\">Comments</a>"
-  },
-  {
     "title": "Six Math Essentials",
     "link": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
     "source": "Hacker News",
     "published": "2026-02-22T19:21:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47113796\">Comments</a>"
-  },
-  {
-    "title": "NanoClaw moved from Apple Containers to Docker",
-    "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-    "source": "Hacker News",
-    "published": "2026-02-22T19:12:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113731\">Comments</a>"
   },
   {
     "title": "I built Timeframe, our family e-paper dashboard",
@@ -88,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47113527\">Comments</a>"
   },
   {
-    "title": "Fresh File Explorer \u2013 VS Code extension for navigating recent work",
-    "link": "https://github.com/FreHu/vscode-fresh-file-explorer",
-    "source": "Hacker News",
-    "published": "2026-02-22T18:20:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113325\">Comments</a>"
-  },
-  {
-    "title": "Hello Worg, the Org-Mode Community",
-    "link": "https://orgmode.org/worg/",
-    "source": "Hacker News",
-    "published": "2026-02-22T17:39:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112925\">Comments</a>"
-  },
-  {
     "title": "Emulated Windows 3.11 in the Browser",
     "link": "https://pieter.com/",
     "source": "Hacker News",
@@ -128,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47111400\">Comments</a>"
   },
   {
-    "title": "Attention Media \u2260 Social Networks",
-    "link": "https://susam.net/attention-media-vs-social-networks.html",
+    "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
+    "link": "https://thelexicans.wordpress.com/2020/04/05/38223/",
     "source": "Hacker News",
-    "published": "2026-02-22T12:36:46+00:00",
+    "published": "2026-02-21T20:16:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110515\">Comments</a>"
-  },
-  {
-    "title": "What is a database transaction?",
-    "link": "https://planetscale.com/blog/database-transactions",
-    "source": "Hacker News",
-    "published": "2026-02-22T12:28:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110473\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47104251\">Comments</a>"
   },
   {
     "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47088005\">Comments</a>"
   },
   {
-    "title": "Keybee: A Keyboard Designed for Smartphones",
-    "link": "https://keybeekeyboard.com/",
+    "title": "The Musidex: A physical music library for the streaming era",
+    "link": "https://hannahilea.com/blog/musidex/",
     "source": "Hacker News",
-    "published": "2026-02-19T14:45:55+00:00",
+    "published": "2026-02-19T16:42:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074321\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075716\">Comments</a>"
+  },
+  {
+    "title": "My journey to the microwave alternate timeline",
+    "link": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+    "source": "Hacker News",
+    "published": "2026-02-18T21:59:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067031\">Comments</a>"
+  },
+  {
+    "title": "How to train your program verifier",
+    "link": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+    "source": "Hacker News",
+    "published": "2026-02-18T21:10:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47066446\">Comments</a>"
   }
 ]
