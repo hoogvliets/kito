@@ -1,27 +1,43 @@
 [
   {
-    "title": "What it means that Ubuntu is using Rust",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+    "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
+    "link": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
     "source": "Hacker News",
-    "published": "2026-02-23T17:15:14+00:00",
+    "published": "2026-02-23T21:00:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125286\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47128740\">Comments</a>"
   },
   {
-    "title": "Hadrius (YC W23) Is Hiring Designers Who Code",
-    "link": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer",
+    "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
     "source": "Hacker News",
-    "published": "2026-02-23T17:00:43+00:00",
+    "published": "2026-02-23T20:05:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125026\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47127986\">Comments</a>"
   },
   {
-    "title": "AI is destroying open source, and it's not even good yet [video]",
-    "link": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
+    "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
+    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
     "source": "Hacker News",
-    "published": "2026-02-23T17:00:15+00:00",
+    "published": "2026-02-23T19:23:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47127396\">Comments</a>"
+  },
+  {
+    "title": "Americans are destroying Flock surveillance cameras",
+    "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+    "source": "Hacker News",
+    "published": "2026-02-23T19:04:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47127081\">Comments</a>"
+  },
+  {
+    "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
+    "link": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+    "source": "Hacker News",
+    "published": "2026-02-23T17:18:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125349\">Comments</a>"
   },
   {
     "title": "A simple web we own",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47123631\">Comments</a>"
   },
   {
-    "title": "Anthropic Education the AI Fluency Index",
-    "link": "https://www.anthropic.com/research/AI-fluency-index",
-    "source": "Hacker News",
-    "published": "2026-02-23T15:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47123590\">Comments</a>"
-  },
-  {
     "title": "The peculiar case of Japanese web design (2022)",
     "link": "https://sabrinas.space",
     "source": "Hacker News",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>"
   },
   {
-    "title": "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
-    "link": "https://github.com/JeffBezanson/femtolisp",
-    "source": "Hacker News",
-    "published": "2026-02-23T12:38:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47121539\">Comments</a>"
-  },
-  {
-    "title": "Ladybird Browser adopts Rust",
+    "title": "Ladybird adopts Rust",
     "link": "https://ladybird.org/posts/adopting-rust/",
     "source": "Hacker News",
     "published": "2026-02-23T11:29:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47120899\">Comments</a>"
-  },
-  {
-    "title": "SETI@home: Data Acquisition and Front-End Processing (2025)",
-    "link": "https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7",
-    "source": "Hacker News",
-    "published": "2026-02-23T09:58:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47120201\">Comments</a>"
   },
   {
     "title": "Elsevier shuts down its finance journal citation cartel",
@@ -134,6 +126,14 @@
     "published": "2026-02-20T13:33:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47087838\">Comments</a>"
+  },
+  {
+    "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
+    "link": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
+    "source": "Hacker News",
+    "published": "2026-02-20T07:59:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085061\">Comments</a>"
   },
   {
     "title": "0 A.D. Release 28: Boiorix",
