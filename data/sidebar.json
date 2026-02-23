@@ -1,38 +1,54 @@
 [
   {
-    "title": "Spain has blocked access to freedom.gov",
-    "link": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+    "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
     "source": "Hacker News",
-    "published": "2026-02-22T20:17:12+00:00",
+    "published": "2026-02-22T23:07:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114235\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47115805\">Comments</a>"
   },
   {
-    "title": "Factory-built housing hasn't taken off in California",
-    "link": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+    "title": "Using the new bridges of FreeBSD 15",
+    "link": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
     "source": "Hacker News",
-    "published": "2026-02-22T19:33:22+00:00",
+    "published": "2026-02-22T22:42:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113892\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47115575\">Comments</a>"
   },
   {
-    "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
-    "link": "https://github.com/olserra/symplex",
+    "title": "Music Discovery",
+    "link": "https://www.secondtrack.co/",
     "source": "Hacker News",
-    "published": "2026-02-22T19:20:59+00:00",
+    "published": "2026-02-22T21:06:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113793\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114672\">Comments</a>"
   },
   {
-    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
-    "link": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+    "title": "Show HN: CIA World Factbook Archive (1990\u20132025), searchable and exportable",
+    "link": "https://cia-factbook-archive.fly.dev/",
     "source": "Hacker News",
-    "published": "2026-02-22T19:18:03+00:00",
+    "published": "2026-02-22T20:50:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113769\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114530\">Comments</a>"
   },
   {
-    "title": "NanoClaw Moved from Apple Containers to Docker",
+    "title": "The Tears of Donald Knuth",
+    "link": "https://cacm.acm.org/opinion/the-tears-of-donald-knuth/",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:54:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114054\">Comments</a>"
+  },
+  {
+    "title": "Six Math Essentials",
+    "link": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+    "source": "Hacker News",
+    "published": "2026-02-22T19:21:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113796\">Comments</a>"
+  },
+  {
+    "title": "NanoClaw moved from Apple Containers to Docker",
     "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
     "source": "Hacker News",
     "published": "2026-02-22T19:12:50+00:00",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47112174\">Comments</a>"
   },
   {
-    "title": "Show HN: 3D Mahjong, Built in CSS",
-    "link": "https://voxjong.com",
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
     "source": "Hacker News",
-    "published": "2026-02-22T15:53:02+00:00",
+    "published": "2026-02-22T14:44:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111981\">Comments</a>"
-  },
-  {
-    "title": "Xweather Live \u2013 Interactive global vector weather map",
-    "link": "https://live.xweather.com/",
-    "source": "Hacker News",
-    "published": "2026-02-22T15:12:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111626\">Comments</a>"
-  },
-  {
-    "title": "Git's Magic Files",
-    "link": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-    "source": "Hacker News",
-    "published": "2026-02-22T14:21:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111218\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111400\">Comments</a>"
   },
   {
     "title": "Attention Media \u2260 Social Networks",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47110473\">Comments</a>"
   },
   {
-    "title": "Back to FreeBSD: Part 1",
-    "link": "https://hypha.pub/back-to-freebsd-part-1",
+    "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
+    "link": "https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md",
     "source": "Hacker News",
-    "published": "2026-02-22T07:16:27+00:00",
+    "published": "2026-02-20T13:48:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47108989\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088005\">Comments</a>"
   },
   {
-    "title": "Write-Only Code",
-    "link": "https://www.heavybit.com/library/article/write-only-code",
+    "title": "Keybee: A Keyboard Designed for Smartphones",
+    "link": "https://keybeekeyboard.com/",
     "source": "Hacker News",
-    "published": "2026-02-17T11:40:14+00:00",
+    "published": "2026-02-19T14:45:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47046433\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47074321\">Comments</a>"
   }
 ]
