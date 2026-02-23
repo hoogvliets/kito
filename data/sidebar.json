@@ -1,11 +1,51 @@
 [
   {
+    "title": "The peculiar case of Japanese web design",
+    "link": "https://sabrinas.space",
+    "source": "Hacker News",
+    "published": "2026-02-23T14:28:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47122789\">Comments</a>"
+  },
+  {
+    "title": "The Age Verification Trap, Verifying age undermines everyone's data protection",
+    "link": "https://spectrum.ieee.org/age-verification",
+    "source": "Hacker News",
+    "published": "2026-02-23T14:22:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>"
+  },
+  {
+    "title": "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
+    "link": "https://github.com/JeffBezanson/femtolisp",
+    "source": "Hacker News",
+    "published": "2026-02-23T12:38:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47121539\">Comments</a>"
+  },
+  {
+    "title": "Facebook's Fascination with My Robots.txt",
+    "link": "https://blog.nytsoi.net/2026/02/23/facebook-robots-txt",
+    "source": "Hacker News",
+    "published": "2026-02-23T12:01:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47121210\">Comments</a>"
+  },
+  {
     "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
     "link": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
     "source": "Hacker News",
     "published": "2026-02-23T11:44:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47121029\">Comments</a>"
+  },
+  {
+    "title": "Don't host email yourself \u2013 your reminder in 2026",
+    "link": "https://www.coinerella.com/dont-host-email-yourself-your-reminder-in-2026/",
+    "source": "Hacker News",
+    "published": "2026-02-23T11:29:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47120901\">Comments</a>"
   },
   {
     "title": "Ladybird Browser adopts Rust",
@@ -24,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47120201\">Comments</a>"
   },
   {
-    "title": "QRTape \u2013 Audio Playback from Paper Tape with Computer Vision (2021)",
-    "link": "http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html",
+    "title": "Hacker News.love \u2013 22 projects Hacker News didn't love",
+    "link": "https://hackernews.love/",
     "source": "Hacker News",
-    "published": "2026-02-23T09:57:33+00:00",
+    "published": "2026-02-23T09:56:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47120196\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47120188\">Comments</a>"
   },
   {
     "title": "Show HN: AI Timeline \u2013 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
@@ -64,30 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47119210\">Comments</a>"
   },
   {
-    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-    "link": "https://bitmovin.com/careers/8023403002/",
-    "source": "Hacker News",
-    "published": "2026-02-23T07:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47118990\">Comments</a>"
-  },
-  {
-    "title": "The JavaScript Oxidation Compiler",
-    "link": "https://oxc.rs/",
-    "source": "Hacker News",
-    "published": "2026-02-23T02:49:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47117459\">Comments</a>"
-  },
-  {
-    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-    "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-    "source": "Hacker News",
-    "published": "2026-02-22T23:07:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47115805\">Comments</a>"
-  },
-  {
     "title": "Show HN: CIA World Factbook Archive (1990\u20132025), searchable and exportable",
     "link": "https://cia-factbook-archive.fly.dev/",
     "source": "Hacker News",
@@ -112,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47113618\">Comments</a>"
   },
   {
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "title": "Pipelined Relational Query Language, Pronounced \"Prequel\"",
+    "link": "https://prql-lang.org/",
     "source": "Hacker News",
-    "published": "2026-02-22T14:44:42+00:00",
+    "published": "2026-02-21T12:02:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47111400\">Comments</a>"
-  },
-  {
-    "title": "The Oracle of Bacon: Thirty Years Later",
-    "link": "https://3quarksdaily.com/3quarksdaily/2026/02/the-oracle-of-bacon-thirty-years-later.html",
-    "source": "Hacker News",
-    "published": "2026-02-20T12:58:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47087443\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47099980\">Comments</a>"
   },
   {
     "title": "0 A.D. Release 28: Boiorix",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47078112\">Comments</a>"
   },
   {
+    "title": "What Is a Centipawn Advantage?",
+    "link": "https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/",
+    "source": "Hacker News",
+    "published": "2026-02-19T18:40:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47077358\">Comments</a>"
+  },
+  {
     "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
     "link": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
     "source": "Hacker News",
     "published": "2026-02-19T16:23:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47075455\">Comments</a>"
-  },
-  {
-    "title": "My journey to the microwave alternate timeline",
-    "link": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
-    "source": "Hacker News",
-    "published": "2026-02-18T21:59:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47067031\">Comments</a>"
-  },
-  {
-    "title": "A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident",
-    "link": "https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident",
-    "source": "Hacker News",
-    "published": "2026-02-18T13:42:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47060835\">Comments</a>"
   }
 ]
