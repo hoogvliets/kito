@@ -56,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47130860\">Comments</a>"
   },
   {
-    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+    "title": "Making Wolfram tech available as a foundation tool for LLM systems",
     "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
     "source": "Hacker News",
     "published": "2026-02-23T22:11:34+00:00",
@@ -73,19 +73,19 @@
   },
   {
     "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
-    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334",
     "source": "Hacker News",
     "published": "2026-02-23T20:05:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47127986\">Comments</a>"
   },
   {
-    "title": "What it means that Ubuntu is using Rust",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+    "title": "The Missing Semester of Your CS Education \u2013 Revised for 2026",
+    "link": "https://missing.csail.mit.edu/",
     "source": "Hacker News",
-    "published": "2026-02-23T17:15:14+00:00",
+    "published": "2026-02-23T16:02:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125286\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47124171\">Comments</a>"
   },
   {
     "title": "A simple web we own",
@@ -120,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>"
   },
   {
-    "title": "Ladybird adopts Rust, with help from AI",
-    "link": "https://ladybird.org/posts/adopting-rust/",
-    "source": "Hacker News",
-    "published": "2026-02-23T11:29:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47120899\">Comments</a>"
-  },
-  {
-    "title": "Genetic underpinnings of chills from art and music",
-    "link": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002",
-    "source": "Hacker News",
-    "published": "2026-02-23T06:35:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47118838\">Comments</a>"
-  },
-  {
     "title": "Unsung heroes: Flickr's URLs scheme",
     "link": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
     "source": "Hacker News",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47100714\">Comments</a>"
   },
   {
+    "title": "A distributed queue in a single JSON file on object storage",
+    "link": "https://turbopuffer.com/blog/object-storage-queue",
+    "source": "Hacker News",
+    "published": "2026-02-21T10:31:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47099401\">Comments</a>"
+  },
+  {
+    "title": "ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives",
+    "link": "https://github.com/redruM0381/ATAboy",
+    "source": "Hacker News",
+    "published": "2026-02-21T00:18:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47095972\">Comments</a>"
+  },
+  {
+    "title": "\u039bProlog: Logic programming in higher-order logic",
+    "link": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
+    "source": "Hacker News",
+    "published": "2026-02-20T23:02:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47095266\">Comments</a>"
+  },
+  {
     "title": "Diode \u2013 Build, program, and simulate hardware",
     "link": "https://www.withdiode.com/",
     "source": "Hacker News",
     "published": "2026-02-20T22:14:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47094768\">Comments</a>"
-  },
-  {
-    "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
-    "link": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
-    "source": "Hacker News",
-    "published": "2026-02-19T20:55:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47079208\">Comments</a>"
   }
 ]
