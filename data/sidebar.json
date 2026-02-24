@@ -1,11 +1,59 @@
 [
   {
+    "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+    "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+    "source": "Hacker News",
+    "published": "2026-02-23T22:55:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47130208\">Comments</a>"
+  },
+  {
+    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+    "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+    "source": "Hacker News",
+    "published": "2026-02-23T22:11:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47129727\">Comments</a>"
+  },
+  {
+    "title": "You are not supposed to install OpenClaw on your personal computer",
+    "link": "https://twitter.com/i/status/2025987544853188836",
+    "source": "Hacker News",
+    "published": "2026-02-23T22:05:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47129647\">Comments</a>"
+  },
+  {
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+    "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "source": "Hacker News",
+    "published": "2026-02-23T21:44:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47129361\">Comments</a>"
+  },
+  {
     "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
     "link": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
     "source": "Hacker News",
     "published": "2026-02-23T21:00:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47128740\">Comments</a>"
+  },
+  {
+    "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
+    "link": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
+    "source": "Hacker News",
+    "published": "2026-02-23T20:53:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47128631\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Babyshark \u2013 Wireshark made easy (terminal UI for PCAPs)",
+    "link": "https://github.com/vignesh07/babyshark",
+    "source": "Hacker News",
+    "published": "2026-02-23T20:45:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47128535\">Comments</a>"
   },
   {
     "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
@@ -24,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47127396\">Comments</a>"
   },
   {
-    "title": "Americans are destroying Flock surveillance cameras",
-    "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+    "title": "The Rise of Eyes Began with Just One",
+    "link": "https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html",
     "source": "Hacker News",
-    "published": "2026-02-23T19:04:34+00:00",
+    "published": "2026-02-23T17:27:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47127081\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125484\">Comments</a>"
   },
   {
     "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
@@ -64,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47123631\">Comments</a>"
   },
   {
-    "title": "The peculiar case of Japanese web design (2022)",
-    "link": "https://sabrinas.space",
-    "source": "Hacker News",
-    "published": "2026-02-23T14:28:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47122789\">Comments</a>"
-  },
-  {
     "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
     "link": "https://spectrum.ieee.org/age-verification",
     "source": "Hacker News",
@@ -104,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47119274\">Comments</a>"
   },
   {
-    "title": "Benchmarks for concurrent hash map implementations in Go",
-    "link": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-    "source": "Hacker News",
-    "published": "2026-02-22T18:28:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47113401\">Comments</a>"
-  },
-  {
     "title": "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
     "link": "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows",
     "source": "Hacker News",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47100612\">Comments</a>"
   },
   {
-    "title": "The Lighthouse: How extreme isolation transforms the body and mind",
-    "link": "https://www.newscientist.com/article/2231732-the-lighthouse-how-extreme-isolation-transforms-the-body-and-mind/",
+    "title": "What is f(x) \u2264 g(x) + O(1)? Inequalities With Asymptotics",
+    "link": "https://jamesoswald.dev/posts/bigoinequality/",
     "source": "Hacker News",
-    "published": "2026-02-20T13:33:03+00:00",
+    "published": "2026-02-20T13:55:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47087838\">Comments</a>"
-  },
-  {
-    "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
-    "link": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
-    "source": "Hacker News",
-    "published": "2026-02-20T07:59:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47085061\">Comments</a>"
-  },
-  {
-    "title": "0 A.D. Release 28: Boiorix",
-    "link": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
-    "source": "Hacker News",
-    "published": "2026-02-19T19:37:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47078112\">Comments</a>"
-  },
-  {
-    "title": "Emulating Goto in Scheme with Continuations",
-    "link": "https://terezi.pyrope.net/ccgoto/",
-    "source": "Hacker News",
-    "published": "2026-02-19T17:58:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47076789\">Comments</a>"
-  },
-  {
-    "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
-    "link": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-    "source": "Hacker News",
-    "published": "2026-02-19T16:23:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47075455\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47088076\">Comments</a>"
   }
 ]
