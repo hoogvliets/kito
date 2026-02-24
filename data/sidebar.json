@@ -1,5 +1,77 @@
 [
   {
+    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+    "link": "https://vmfunc.re/blog/persona/",
+    "source": "Hacker News",
+    "published": "2026-02-24T18:23:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47140632\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
+    "link": "https://news.ycombinator.com/item?id=47140332",
+    "source": "Hacker News",
+    "published": "2026-02-24T18:01:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47140332\">Comments</a>"
+  },
+  {
+    "title": "Open Letter to Google on Mandatory Developer Registration for App Distribution",
+    "link": "https://keepandroidopen.org/open-letter/",
+    "source": "Hacker News",
+    "published": "2026-02-24T17:21:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139765\">Comments</a>"
+  },
+  {
+    "title": "Denver dumps Flock, awards contract to Axon",
+    "link": "https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8",
+    "source": "Hacker News",
+    "published": "2026-02-24T17:16:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139690\">Comments</a>"
+  },
+  {
+    "title": "I'm helping my dog vibe code games",
+    "link": "https://www.calebleak.com/posts/dog-game/",
+    "source": "Hacker News",
+    "published": "2026-02-24T17:15:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139675\">Comments</a>"
+  },
+  {
+    "title": "Cardiorespiratory fitness is associated with lower anger and anxiety",
+    "link": "https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X",
+    "source": "Hacker News",
+    "published": "2026-02-24T17:03:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139519\">Comments</a>"
+  },
+  {
+    "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+    "link": "https://jobs.ashbyhq.com/verge-genomics",
+    "source": "Hacker News",
+    "published": "2026-02-24T17:00:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139475\">Comments</a>"
+  },
+  {
+    "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
+    "link": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+    "source": "Hacker News",
+    "published": "2026-02-24T16:40:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139224\">Comments</a>"
+  },
+  {
+    "title": "Stripe valued at $159B, 2025 annual letter",
+    "link": "https://stripe.com/newsroom/news/stripe-2025-update",
+    "source": "Hacker News",
+    "published": "2026-02-24T14:37:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137711\">Comments</a>"
+  },
+  {
     "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
     "link": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
     "source": "Hacker News",
@@ -8,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47136611\">Comments</a>"
   },
   {
-    "title": "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+    "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
     "link": "https://wordglyph.xyz/one-piece-at-a-time",
     "source": "Hacker News",
     "published": "2026-02-24T13:03:51+00:00",
@@ -24,68 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47136537\">Comments</a>"
   },
   {
-    "title": "Discord cuts ties with Peter Thiel-backed verification software",
-    "link": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+    "title": "Samsung Upcycle Promise",
+    "link": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
     "source": "Hacker News",
-    "published": "2026-02-24T11:59:14+00:00",
+    "published": "2026-02-23T17:14:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47136036\">Comments</a>"
-  },
-  {
-    "title": "Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r",
-    "link": "https://github.com/FirebirdSQL/decimal-java",
-    "source": "Hacker News",
-    "published": "2026-02-24T09:15:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47134779\">Comments</a>"
-  },
-  {
-    "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
-    "link": "https://github.com/GreatScott/enveil",
-    "source": "Hacker News",
-    "published": "2026-02-24T05:04:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47133055\">Comments</a>"
-  },
-  {
-    "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-    "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-    "source": "Hacker News",
-    "published": "2026-02-24T03:10:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47132388\">Comments</a>"
-  },
-  {
-    "title": "Show HN: X86CSS \u2013 An x86 CPU emulator written in CSS",
-    "link": "https://lyra.horse/x86css/",
-    "source": "Hacker News",
-    "published": "2026-02-24T02:27:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47132102\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-    "link": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-    "source": "Hacker News",
-    "published": "2026-02-24T00:38:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47131225\">Comments</a>"
-  },
-  {
-    "title": "I Ported Coreboot to the ThinkPad X270",
-    "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-    "source": "Hacker News",
-    "published": "2026-02-23T23:58:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47130860\">Comments</a>"
-  },
-  {
-    "title": "Making Wolfram tech available as a foundation tool for LLM systems",
-    "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-    "source": "Hacker News",
-    "published": "2026-02-23T22:11:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47129727\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125263\">Comments</a>"
   },
   {
     "title": "The Missing Semester of Your CS Education \u2013 Revised for 2026",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47123689\">Comments</a>"
   },
   {
-    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-    "link": "https://spectrum.ieee.org/age-verification",
-    "source": "Hacker News",
-    "published": "2026-02-23T14:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>"
-  },
-  {
     "title": "We installed a single turnstile to feel secure",
     "link": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47114678\">Comments</a>"
   },
   {
-    "title": "Unsung heroes: Flickr's URLs scheme",
-    "link": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
+    "title": "Extending C with Prolog (1994)",
+    "link": "https://www.amzi.com/articles/irq_expert_system.htm",
     "source": "Hacker News",
-    "published": "2026-02-21T13:36:45+00:00",
+    "published": "2026-02-22T16:10:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47100714\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112148\">Comments</a>"
   },
   {
     "title": "A distributed queue in a single JSON file on object storage",
@@ -134,14 +142,6 @@
     "published": "2026-02-21T10:31:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47099401\">Comments</a>"
-  },
-  {
-    "title": "Tiny QR code achieved using electron microscope technology",
-    "link": "https://newatlas.com/technology/smallest-qr-code-bacteria-tu-wien/",
-    "source": "Hacker News",
-    "published": "2026-02-21T04:08:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47097405\">Comments</a>"
   },
   {
     "title": "\u03bbProlog: Logic programming in higher-order logic",
