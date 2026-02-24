@@ -1,11 +1,43 @@
 [
   {
-    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-    "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
+    "link": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
     "source": "Hacker News",
-    "published": "2026-02-24T05:47:23+00:00",
+    "published": "2026-02-24T13:04:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47133313\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47136611\">Comments</a>"
+  },
+  {
+    "title": "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+    "link": "https://wordglyph.xyz/one-piece-at-a-time",
+    "source": "Hacker News",
+    "published": "2026-02-24T13:03:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47136604\">Comments</a>"
+  },
+  {
+    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+    "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+    "source": "Hacker News",
+    "published": "2026-02-24T12:58:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47136537\">Comments</a>"
+  },
+  {
+    "title": "Discord cuts ties with Peter Thiel-backed verification software",
+    "link": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+    "source": "Hacker News",
+    "published": "2026-02-24T11:59:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47136036\">Comments</a>"
+  },
+  {
+    "title": "Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r",
+    "link": "https://github.com/FirebirdSQL/decimal-java",
+    "source": "Hacker News",
+    "published": "2026-02-24T09:15:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47134779\">Comments</a>"
   },
   {
     "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
@@ -14,14 +46,6 @@
     "published": "2026-02-24T05:04:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47133055\">Comments</a>"
-  },
-  {
-    "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
-    "link": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-    "source": "Hacker News",
-    "published": "2026-02-24T04:04:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47132721\">Comments</a>"
   },
   {
     "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
@@ -64,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47129727\">Comments</a>"
   },
   {
-    "title": "\u201cCar Wash\u201d test with 53 models",
-    "link": "https://opper.ai/blog/car-wash-test",
-    "source": "Hacker News",
-    "published": "2026-02-23T20:16:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47128138\">Comments</a>"
-  },
-  {
-    "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
-    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334",
-    "source": "Hacker News",
-    "published": "2026-02-23T20:05:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47127986\">Comments</a>"
-  },
-  {
     "title": "The Missing Semester of Your CS Education \u2013 Revised for 2026",
     "link": "https://missing.csail.mit.edu/",
     "source": "Hacker News",
     "published": "2026-02-23T16:02:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47124171\">Comments</a>"
-  },
-  {
-    "title": "A simple web we own",
-    "link": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-    "source": "Hacker News",
-    "published": "2026-02-23T16:01:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47124149\">Comments</a>"
   },
   {
     "title": "Terence Tao, at 8 years old (1984) [pdf]",
@@ -104,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47123689\">Comments</a>"
   },
   {
-    "title": "Show HN: PgDog \u2013 Scale Postgres without changing the app",
-    "link": "https://github.com/pgdogdev/pgdog",
-    "source": "Hacker News",
-    "published": "2026-02-23T15:33:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47123631\">Comments</a>"
-  },
-  {
     "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
     "link": "https://spectrum.ieee.org/age-verification",
     "source": "Hacker News",
     "published": "2026-02-23T14:22:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47122715\">Comments</a>"
+  },
+  {
+    "title": "We installed a single turnstile to feel secure",
+    "link": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+    "source": "Hacker News",
+    "published": "2026-02-22T21:07:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114678\">Comments</a>"
   },
   {
     "title": "Unsung heroes: Flickr's URLs scheme",
@@ -136,15 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47099401\">Comments</a>"
   },
   {
-    "title": "ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives",
-    "link": "https://github.com/redruM0381/ATAboy",
+    "title": "Tiny QR code achieved using electron microscope technology",
+    "link": "https://newatlas.com/technology/smallest-qr-code-bacteria-tu-wien/",
     "source": "Hacker News",
-    "published": "2026-02-21T00:18:31+00:00",
+    "published": "2026-02-21T04:08:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47095972\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47097405\">Comments</a>"
   },
   {
-    "title": "\u039bProlog: Logic programming in higher-order logic",
+    "title": "\u03bbProlog: Logic programming in higher-order logic",
     "link": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
     "source": "Hacker News",
     "published": "2026-02-20T23:02:08+00:00",
