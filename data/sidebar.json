@@ -1,27 +1,27 @@
 [
   {
-    "title": "Show HN: Context Mode \u2013 315 KB of MCP output becomes 5.4 KB in Claude Code",
-    "link": "https://github.com/mksglu/claude-context-mode",
+    "title": "LLM=True",
+    "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
     "source": "Hacker News",
-    "published": "2026-02-25T06:23:30+00:00",
+    "published": "2026-02-25T09:05:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47148025\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47149151\">Comments</a>"
   },
   {
-    "title": "Anthropic Drops Flagship Safety Pledge",
-    "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+    "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
+    "link": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
     "source": "Hacker News",
-    "published": "2026-02-25T01:08:46+00:00",
+    "published": "2026-02-25T06:45:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47145963\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47148159\">Comments</a>"
   },
   {
-    "title": "Corgi Labs (YC W23) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+    "title": "Turing Completeness of GNU find",
+    "link": "https://arxiv.org/abs/2602.20762",
     "source": "Hacker News",
-    "published": "2026-02-25T01:01:02+00:00",
+    "published": "2026-02-25T05:16:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47145911\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47147609\">Comments</a>"
   },
   {
     "title": "Amazon accused of widespread scheme to inflate prices across the economy",
@@ -32,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47145907\">Comments</a>"
   },
   {
-    "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+    "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
     "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
     "source": "Hacker News",
     "published": "2026-02-24T22:46:23+00:00",
@@ -96,20 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47140042\">Comments</a>"
   },
   {
-    "title": "Hugging Face Skills",
-    "link": "https://github.com/huggingface/skills",
-    "source": "Hacker News",
-    "published": "2026-02-24T17:30:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47139902\">Comments</a>"
-  },
-  {
     "title": "I'm helping my dog vibe code games",
     "link": "https://www.calebleak.com/posts/dog-game/",
     "source": "Hacker News",
     "published": "2026-02-24T17:15:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47139675\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+    "link": "https://shouldhavebought.com/",
+    "source": "Hacker News",
+    "published": "2026-02-24T15:50:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47138631\">Comments</a>"
+  },
+  {
+    "title": "Sovereignty in a System Prompt",
+    "link": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
+    "source": "Hacker News",
+    "published": "2026-02-24T13:38:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137013\">Comments</a>"
   },
   {
     "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
@@ -120,43 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47136604\">Comments</a>"
   },
   {
+    "title": "Show HN: Scheme-langserver \u2013 Digest incomplete code with static analysis",
+    "link": "https://github.com/ufo5260987423/scheme-langserver",
+    "source": "Hacker News",
+    "published": "2026-02-24T06:53:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47133716\">Comments</a>"
+  },
+  {
+    "title": "Meta problem with URPF our bundle in Boca raton",
+    "link": "https://metafixthis.com/",
+    "source": "Hacker News",
+    "published": "2026-02-24T00:12:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47130997\">Comments</a>"
+  },
+  {
+    "title": "Japanese Death Poems",
+    "link": "https://www.secretorum.life/p/japanese-death-poems-part-3",
+    "source": "Hacker News",
+    "published": "2026-02-22T20:08:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47114165\">Comments</a>"
+  },
+  {
     "title": "Cl-kawa: Scheme on Java on Common Lisp",
     "link": "https://github.com/atgreen/cl-kawa",
     "source": "Hacker News",
     "published": "2026-02-22T12:12:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47110384\">Comments</a>"
-  },
-  {
-    "title": "Aesthetics of single threading",
-    "link": "https://ta.fo/aesthetics-of-single-threading/",
-    "source": "Hacker News",
-    "published": "2026-02-21T20:14:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47104227\">Comments</a>"
-  },
-  {
-    "title": "3D-Printed electric motor via multi-modal, multi-material extrusion",
-    "link": "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185",
-    "source": "Hacker News",
-    "published": "2026-02-21T19:08:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47103668\">Comments</a>"
-  },
-  {
-    "title": "Georgian wine culture dates back, uninterrupted, approximately 8k years",
-    "link": "https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/",
-    "source": "Hacker News",
-    "published": "2026-02-20T19:37:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47092809\">Comments</a>"
-  },
-  {
-    "title": "Justifying Text-Wrap: Pretty",
-    "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-    "source": "Hacker News",
-    "published": "2026-02-19T18:29:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47077215\">Comments</a>"
   }
 ]
