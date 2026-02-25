@@ -1,11 +1,43 @@
 [
   {
-    "title": "The Pentagon Threatens Anthropic",
-    "link": "https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic",
+    "title": "An autopsy of AI-generated 3D slop",
+    "link": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
     "source": "Hacker News",
-    "published": "2026-02-25T17:49:27+00:00",
+    "published": "2026-02-25T21:05:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154983\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157841\">Comments</a>"
+  },
+  {
+    "title": "I made MCP cheaper",
+    "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+    "source": "Hacker News",
+    "published": "2026-02-25T20:29:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157398\">Comments</a>"
+  },
+  {
+    "title": "Jimi Hendrix was a systems engineer",
+    "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+    "source": "Hacker News",
+    "published": "2026-02-25T20:16:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>"
+  },
+  {
+    "title": "Devirtualization and Static Polymorphism",
+    "link": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
+    "source": "Hacker News",
+    "published": "2026-02-25T18:41:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155811\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I ported Tree-sitter to Go",
+    "link": "https://github.com/odvcencio/gotreesitter",
+    "source": "Hacker News",
+    "published": "2026-02-25T18:28:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155597\">Comments</a>"
   },
   {
     "title": "om",
@@ -16,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47154971\">Comments</a>"
   },
   {
-    "title": "Sandboxes won't save you from OpenClaw",
-    "link": "https://tachyon.so/blog/sandboxes-wont-save-you",
+    "title": "Windows 11 Notepad to support Markdown",
+    "link": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
     "source": "Hacker News",
-    "published": "2026-02-25T17:37:04+00:00",
+    "published": "2026-02-25T17:14:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154803\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154399\">Comments</a>"
   },
   {
     "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
@@ -32,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47154246\">Comments</a>"
   },
   {
-    "title": "Racket v9.1",
-    "link": "https://blog.racket-lang.org/2026/02/racket-v9-1.html",
-    "source": "Hacker News",
-    "published": "2026-02-25T16:47:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154042\">Comments</a>"
-  },
-  {
     "title": "Following 35% growth, solar has passed hydro on US grid",
     "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
     "source": "Hacker News",
     "published": "2026-02-25T16:44:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47154009\">Comments</a>"
+  },
+  {
+    "title": "The Misuses of the University",
+    "link": "https://www.publicbooks.org/the-misuses-of-the-university/",
+    "source": "Hacker News",
+    "published": "2026-02-25T16:38:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47153924\">Comments</a>"
   },
   {
     "title": "Bus stop balancing is fast, cheap, and effective",
@@ -64,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47152982\">Comments</a>"
   },
   {
-    "title": "New accounts on HN 10x more likely to use em-dashes",
-    "link": "https://www.marginalia.nu/weird-ai-crap/hn/",
+    "title": "Show HN: Respectify \u2013 a comment moderator that teaches people to argue better",
+    "link": "https://respectify.org/",
     "source": "Hacker News",
-    "published": "2026-02-25T14:37:21+00:00",
+    "published": "2026-02-25T14:21:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47152085\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Django Control Room \u2013 All Your Tools Inside the Django Admin",
-    "link": "https://github.com/yassi/dj-control-room",
-    "source": "Hacker News",
-    "published": "2026-02-25T14:31:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151995\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151842\">Comments</a>"
   },
   {
     "title": "Launch HN: TeamOut (YC W22) \u2013 AI agent for planning company retreats",
@@ -96,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47151233\">Comments</a>"
   },
   {
-    "title": "Danish government agency to ditch Microsoft software (2025)",
-    "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+    "link": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
     "source": "Hacker News",
-    "published": "2026-02-25T10:16:22+00:00",
+    "published": "2026-02-25T13:07:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47149701\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A real-time strategy game that AI agents can play",
-    "link": "https://llmskirmish.com/",
-    "source": "Hacker News",
-    "published": "2026-02-25T10:02:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47149586\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151000\">Comments</a>"
   },
   {
     "title": "Claude Code Remote Control",
@@ -118,6 +134,14 @@
     "published": "2026-02-25T07:22:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47148454\">Comments</a>"
+  },
+  {
+    "title": "Learnings from 4 months of Image-Video VAE experiments",
+    "link": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
+    "source": "Hacker News",
+    "published": "2026-02-24T18:59:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47141107\">Comments</a>"
   },
   {
     "title": "Large-Scale Online Deanonymization with LLMs",
@@ -134,29 +158,5 @@
     "published": "2026-02-22T22:42:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47115574\">Comments</a>"
-  },
-  {
-    "title": "PL/0",
-    "link": "https://en.wikipedia.org/wiki/PL/0",
-    "source": "Hacker News",
-    "published": "2026-02-22T12:33:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110491\">Comments</a>"
-  },
-  {
-    "title": "Text-Based Google Directions",
-    "link": "https://gdir.telae.net/",
-    "source": "Hacker News",
-    "published": "2026-02-21T17:10:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47102610\">Comments</a>"
-  },
-  {
-    "title": "Topological Naming Problem",
-    "link": "https://wiki.freecad.org/Topological_naming_problem",
-    "source": "Hacker News",
-    "published": "2026-02-21T04:16:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47097446\">Comments</a>"
   }
 ]
