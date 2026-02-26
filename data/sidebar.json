@@ -1,19 +1,59 @@
 [
   {
-    "title": "Origin of the rule that swap size should be 2x of the physical memory",
-    "link": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
+    "title": "Self-improving software won't produce Skynet",
+    "link": "https://contalign.jefflunt.com/self-improving-software/",
     "source": "Hacker News",
-    "published": "2026-02-25T23:09:33+00:00",
+    "published": "2026-02-26T03:36:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47159364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47161498\">Comments</a>"
   },
   {
-    "title": "First Website",
+    "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+    "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+    "source": "Hacker News",
+    "published": "2026-02-26T02:43:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>"
+  },
+  {
+    "title": "Show HN: ZSE \u2013 Open-source LLM inference engine with 3.9s cold starts",
+    "link": "https://github.com/Zyora-Dev/zse",
+    "source": "Hacker News",
+    "published": "2026-02-26T01:15:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47160526\">Comments</a>"
+  },
+  {
+    "title": "Tech companies shouldn't be bullied into doing surveillance",
+    "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+    "source": "Hacker News",
+    "published": "2026-02-26T00:37:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47160226\">Comments</a>"
+  },
+  {
+    "title": "First Website (1992)",
     "link": "https://info.cern.ch",
     "source": "Hacker News",
     "published": "2026-02-25T23:02:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47159302\">Comments</a>"
+  },
+  {
+    "title": "How will OpenAI compete?",
+    "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "source": "Hacker News",
+    "published": "2026-02-25T22:29:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47158975\">Comments</a>"
+  },
+  {
+    "title": "An autopsy of AI-generated 3D slop",
+    "link": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+    "source": "Hacker News",
+    "published": "2026-02-25T21:05:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157841\">Comments</a>"
   },
   {
     "title": "Making MCP cheaper via CLI",
@@ -32,12 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>"
   },
   {
-    "title": "Show HN: I ported Tree-sitter to Go",
-    "link": "https://github.com/odvcencio/gotreesitter",
+    "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
+    "link": "https://vibrantlabs.com/blog/pa-bench",
     "source": "Hacker News",
-    "published": "2026-02-25T18:28:37+00:00",
+    "published": "2026-02-25T20:11:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155597\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157160\">Comments</a>"
+  },
+  {
+    "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+    "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+    "source": "Hacker News",
+    "published": "2026-02-25T19:54:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47156925\">Comments</a>"
   },
   {
     "title": "The Om Programming Language",
@@ -56,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47154399\">Comments</a>"
   },
   {
-    "title": "Following 35% growth, solar has passed hydro on US grid",
-    "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
-    "source": "Hacker News",
-    "published": "2026-02-25T16:44:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154009\">Comments</a>"
-  },
-  {
-    "title": "The Misuses of the University",
-    "link": "https://www.publicbooks.org/the-misuses-of-the-university/",
-    "source": "Hacker News",
-    "published": "2026-02-25T16:38:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47153924\">Comments</a>"
-  },
-  {
     "title": "Bus stop balancing is fast, cheap, and effective",
     "link": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
     "source": "Hacker News",
     "published": "2026-02-25T16:31:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47153798\">Comments</a>"
-  },
-  {
-    "title": "GNU Texmacs",
-    "link": "https://www.texmacs.org/tmweb/home/welcome.en.html",
-    "source": "Hacker News",
-    "published": "2026-02-25T15:37:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47152982\">Comments</a>"
   },
   {
     "title": "Show HN: Respectify \u2013 A comment moderator that teaches people to argue better",
@@ -96,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47151842\">Comments</a>"
   },
   {
-    "title": "Claude Code Remote Control",
-    "link": "https://code.claude.com/docs/en/remote-control",
-    "source": "Hacker News",
-    "published": "2026-02-25T07:22:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47148454\">Comments</a>"
-  },
-  {
-    "title": "Learnings from 4 months of Image-Video VAE experiments",
-    "link": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
-    "source": "Hacker News",
-    "published": "2026-02-24T18:59:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47141107\">Comments</a>"
-  },
-  {
     "title": "Large-Scale Online Deanonymization with LLMs",
     "link": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
     "source": "Hacker News",
     "published": "2026-02-24T17:18:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47139716\">Comments</a>"
-  },
-  {
-    "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
-    "link": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
-    "source": "Hacker News",
-    "published": "2026-02-24T13:49:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137140\">Comments</a>"
-  },
-  {
-    "title": "The Hydrogen Truck Problem Isn't the Truck",
-    "link": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
-    "source": "Hacker News",
-    "published": "2026-02-24T10:58:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47135542\">Comments</a>"
   },
   {
     "title": "The First Fully General Computer Action Model",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47125014\">Comments</a>"
   },
   {
-    "title": "How to fold the Blade Runner origami unicorn (1996)",
-    "link": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+    "title": "Artist who \u201cpaints\u201d portraits on glass by hitting it with a hammer",
+    "link": "https://simonbergerart.com",
     "source": "Hacker News",
-    "published": "2026-02-22T22:42:12+00:00",
+    "published": "2026-02-22T16:25:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47115574\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47112299\">Comments</a>"
   },
   {
-    "title": "Access to a Shared Unix Computer",
-    "link": "http://tilde.club/",
+    "title": "The Pleasures and Pains of Coffee (1830)",
+    "link": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
     "source": "Hacker News",
-    "published": "2026-02-22T11:07:25+00:00",
+    "published": "2026-02-22T06:50:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110066\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47108861\">Comments</a>"
+  },
+  {
+    "title": "Gauss's Weekday Algorithm, Visualized",
+    "link": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
+    "source": "Hacker News",
+    "published": "2026-02-21T21:49:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47105175\">Comments</a>"
   }
 ]
