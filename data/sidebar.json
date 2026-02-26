@@ -1,14 +1,22 @@
 [
   {
-    "title": "An autopsy of AI-generated 3D slop",
-    "link": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+    "title": "Origin of the rule that swap size should be 2x of the physical memory",
+    "link": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
     "source": "Hacker News",
-    "published": "2026-02-25T21:05:15+00:00",
+    "published": "2026-02-25T23:09:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157841\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47159364\">Comments</a>"
   },
   {
-    "title": "I made MCP cheaper",
+    "title": "First Website",
+    "link": "https://info.cern.ch",
+    "source": "Hacker News",
+    "published": "2026-02-25T23:02:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47159302\">Comments</a>"
+  },
+  {
+    "title": "Making MCP cheaper via CLI",
     "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
     "source": "Hacker News",
     "published": "2026-02-25T20:29:37+00:00",
@@ -24,14 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>"
   },
   {
-    "title": "Devirtualization and Static Polymorphism",
-    "link": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
-    "source": "Hacker News",
-    "published": "2026-02-25T18:41:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155811\">Comments</a>"
-  },
-  {
     "title": "Show HN: I ported Tree-sitter to Go",
     "link": "https://github.com/odvcencio/gotreesitter",
     "source": "Hacker News",
@@ -40,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47155597\">Comments</a>"
   },
   {
-    "title": "om",
+    "title": "The Om Programming Language",
     "link": "https://www.om-language.com/",
     "source": "Hacker News",
     "published": "2026-02-25T17:48:21+00:00",
@@ -54,14 +54,6 @@
     "published": "2026-02-25T17:14:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47154399\">Comments</a>"
-  },
-  {
-    "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
-    "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
-    "source": "Hacker News",
-    "published": "2026-02-25T17:02:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154246\">Comments</a>"
   },
   {
     "title": "Following 35% growth, solar has passed hydro on US grid",
@@ -96,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47152982\">Comments</a>"
   },
   {
-    "title": "Show HN: Respectify \u2013 a comment moderator that teaches people to argue better",
+    "title": "Show HN: Respectify \u2013 A comment moderator that teaches people to argue better",
     "link": "https://respectify.org/",
     "source": "Hacker News",
     "published": "2026-02-25T14:21:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47151842\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: TeamOut (YC W22) \u2013 AI agent for planning company retreats",
-    "link": "https://app.teamout.com/ai",
-    "source": "Hacker News",
-    "published": "2026-02-25T14:02:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151598\">Comments</a>"
-  },
-  {
-    "title": "Never buy a .online domain",
-    "link": "https://www.0xsid.com/blog/online-tld-is-pain",
-    "source": "Hacker News",
-    "published": "2026-02-25T13:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151233\">Comments</a>"
-  },
-  {
-    "title": "AIs can't stop recommending nuclear strikes in war game simulations",
-    "link": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
-    "source": "Hacker News",
-    "published": "2026-02-25T13:07:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47151000\">Comments</a>"
   },
   {
     "title": "Claude Code Remote Control",
@@ -152,11 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47139716\">Comments</a>"
   },
   {
+    "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+    "link": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+    "source": "Hacker News",
+    "published": "2026-02-24T13:49:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137140\">Comments</a>"
+  },
+  {
+    "title": "The Hydrogen Truck Problem Isn't the Truck",
+    "link": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+    "source": "Hacker News",
+    "published": "2026-02-24T10:58:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47135542\">Comments</a>"
+  },
+  {
+    "title": "The First Fully General Computer Action Model",
+    "link": "https://si.inc/posts/fdm1/",
+    "source": "Hacker News",
+    "published": "2026-02-23T17:00:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47125014\">Comments</a>"
+  },
+  {
     "title": "How to fold the Blade Runner origami unicorn (1996)",
     "link": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
     "source": "Hacker News",
     "published": "2026-02-22T22:42:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47115574\">Comments</a>"
+  },
+  {
+    "title": "Access to a Shared Unix Computer",
+    "link": "http://tilde.club/",
+    "source": "Hacker News",
+    "published": "2026-02-22T11:07:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110066\">Comments</a>"
   }
 ]
