@@ -1,35 +1,11 @@
 [
   {
-    "title": "I don't know how you get here from \"predict the next word.\"",
-    "link": "https://www.grumpy-economist.com/p/refine",
-    "source": "Hacker News",
-    "published": "2026-02-26T04:59:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47162059\">Comments</a>"
-  },
-  {
-    "title": "Self-improving software won't produce Skynet",
-    "link": "https://contalign.jefflunt.com/self-improving-software/",
-    "source": "Hacker News",
-    "published": "2026-02-26T03:36:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47161498\">Comments</a>"
-  },
-  {
     "title": "RAM now represents 35 percent of bill of materials for HP PCs",
     "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
     "source": "Hacker News",
     "published": "2026-02-26T02:43:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>"
-  },
-  {
-    "title": "Show HN: ZSE \u2013 Open-source LLM inference engine with 3.9s cold starts",
-    "link": "https://github.com/Zyora-Dev/zse",
-    "source": "Hacker News",
-    "published": "2026-02-26T01:15:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47160526\">Comments</a>"
   },
   {
     "title": "Tech companies shouldn't be bullied into doing surveillance",
@@ -72,20 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>"
   },
   {
-    "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
-    "link": "https://vibrantlabs.com/blog/pa-bench",
-    "source": "Hacker News",
-    "published": "2026-02-25T20:11:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47157160\">Comments</a>"
-  },
-  {
     "title": "Google API keys weren't secrets, but then Gemini changed the rules",
     "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
     "source": "Hacker News",
     "published": "2026-02-25T19:54:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47156925\">Comments</a>"
+  },
+  {
+    "title": "The Om Programming Language",
+    "link": "https://www.om-language.com/",
+    "source": "Hacker News",
+    "published": "2026-02-25T17:48:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47154971\">Comments</a>"
   },
   {
     "title": "Windows 11 Notepad to support Markdown",
@@ -120,12 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47139716\">Comments</a>"
   },
   {
+    "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+    "link": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+    "source": "Hacker News",
+    "published": "2026-02-24T13:49:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137140\">Comments</a>"
+  },
+  {
     "title": "The First Fully General Computer Action Model",
     "link": "https://si.inc/posts/fdm1/",
     "source": "Hacker News",
     "published": "2026-02-23T17:00:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47125014\">Comments</a>"
+  },
+  {
+    "title": "Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention",
+    "link": "https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/",
+    "source": "Hacker News",
+    "published": "2026-02-23T07:19:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47119119\">Comments</a>"
   },
   {
     "title": "Artist who \u201cpaints\u201d portraits on glass by hitting it with a hammer",
@@ -158,5 +150,13 @@
     "published": "2026-02-21T21:49:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47105175\">Comments</a>"
+  },
+  {
+    "title": "What Pressure Does to an Athlete's Body",
+    "link": "https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/",
+    "source": "Hacker News",
+    "published": "2026-02-21T14:41:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47101271\">Comments</a>"
   }
 ]
