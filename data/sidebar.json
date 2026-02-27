@@ -1,5 +1,53 @@
 [
   {
+    "title": "Don't run OpenClaw on your main machine",
+    "link": "https://blog.skypilot.co/openclaw-on-skypilot/",
+    "source": "Hacker News",
+    "published": "2026-02-27T18:06:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47183503\">Comments</a>"
+  },
+  {
+    "title": "Allocating on the Stack",
+    "link": "https://go.dev/blog/allocation-optimizations",
+    "source": "Hacker News",
+    "published": "2026-02-27T16:34:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47182487\">Comments</a>"
+  },
+  {
+    "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
+    "link": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+    "source": "Hacker News",
+    "published": "2026-02-27T16:33:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47182483\">Comments</a>"
+  },
+  {
+    "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+    "link": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+    "source": "Hacker News",
+    "published": "2026-02-27T15:44:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181841\">Comments</a>"
+  },
+  {
+    "title": "We gave terabytes of CI logs to an LLM",
+    "link": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "source": "Hacker News",
+    "published": "2026-02-27T15:41:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181801\">Comments</a>"
+  },
+  {
+    "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+    "link": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+    "source": "Hacker News",
+    "published": "2026-02-27T15:37:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181753\">Comments</a>"
+  },
+  {
     "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
     "link": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
     "source": "Hacker News",
@@ -16,23 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47181391\">Comments</a>"
   },
   {
-    "title": "OpenAI raises $110B on $730B pre-money valuation",
-    "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-    "source": "Hacker News",
-    "published": "2026-02-27T14:56:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181211\">Comments</a>"
-  },
-  {
-    "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
-    "link": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
-    "source": "Hacker News",
-    "published": "2026-02-27T14:44:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181051\">Comments</a>"
-  },
-  {
-    "title": "We deserve a better streams API for JavaScript",
+    "title": "A better streams API is possible for JavaScript",
     "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
     "source": "Hacker News",
     "published": "2026-02-27T14:02:53+00:00",
@@ -72,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47178371\">Comments</a>"
   },
   {
-    "title": "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
-    "link": "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html",
-    "source": "Hacker News",
-    "published": "2026-02-27T09:04:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47178344\">Comments</a>"
-  },
-  {
-    "title": "Ubicloud (YC W24): Software Engineer \u2013 $95-$250K in Turkey, Netherlands, CA",
-    "link": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
-    "source": "Hacker News",
-    "published": "2026-02-27T08:45:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47178176\">Comments</a>"
-  },
-  {
     "title": "The normalization of corruption in organizations (2003) [pdf]",
     "link": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
     "source": "Hacker News",
@@ -112,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47173121\">Comments</a>"
   },
   {
-    "title": "What Claude Code chooses",
-    "link": "https://amplifying.ai/research/claude-code-picks",
-    "source": "Hacker News",
-    "published": "2026-02-26T18:12:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47169757\">Comments</a>"
-  },
-  {
     "title": "Can you reverse engineer our neural network?",
     "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
     "source": "Hacker News",
     "published": "2026-02-25T02:20:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47146487\">Comments</a>"
-  },
-  {
-    "title": "The quixotic team trying to build a world in a 20-year-old game",
-    "link": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-    "source": "Hacker News",
-    "published": "2026-02-24T20:11:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47142225\">Comments</a>"
   },
   {
     "title": "An interactive intro to quadtrees",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47139911\">Comments</a>"
   },
   {
-    "title": "80386 Protection",
-    "link": "https://nand2mario.github.io/posts/2026/80386_protection/",
+    "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
+    "link": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
     "source": "Hacker News",
-    "published": "2026-02-24T15:56:32+00:00",
+    "published": "2026-02-24T13:54:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47138698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47137199\">Comments</a>"
   },
   {
-    "title": "Reading English from 1000 Ad",
-    "link": "https://lewiscampbell.tech/blog/260224.html",
+    "title": "Sprites on the Web",
+    "link": "https://www.joshwcomeau.com/animation/sprites/",
     "source": "Hacker News",
-    "published": "2026-02-24T02:06:50+00:00",
+    "published": "2026-02-24T10:06:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47131980\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47135159\">Comments</a>"
   }
 ]
