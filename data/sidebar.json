@@ -1,6 +1,14 @@
 [
   {
-    "title": "The Hunt for Dark Breakfast \u2013 Can we derive breakfasts we have never observed?",
+    "title": "Dear Time Lords: Freeze Computers in 1993",
+    "link": "https://graydon2.dreamwidth.org/322461.html",
+    "source": "Hacker News",
+    "published": "2026-02-27T04:38:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176581\">Comments</a>"
+  },
+  {
+    "title": "The Hunt for Dark\u00a0Breakfast",
     "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "source": "Hacker News",
     "published": "2026-02-27T03:49:48+00:00",
@@ -14,22 +22,6 @@
     "published": "2026-02-27T03:48:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47176239\">Comments</a>"
-  },
-  {
-    "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
-    "link": "https://bookriot.com/hr7661-book-ban-legislation/",
-    "source": "Hacker News",
-    "published": "2026-02-27T03:34:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176157\">Comments</a>"
-  },
-  {
-    "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-    "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-    "source": "Hacker News",
-    "published": "2026-02-27T03:08:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47175931\">Comments</a>"
   },
   {
     "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
@@ -88,7 +80,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47170174\">Comments</a>"
   },
   {
-    "title": "What Claude Code Chooses",
+    "title": "OsmAnd's Faster Offline Navigation (2025)",
+    "link": "https://osmand.net/blog/fast-routing/",
+    "source": "Hacker News",
+    "published": "2026-02-26T18:37:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170157\">Comments</a>"
+  },
+  {
+    "title": "What Claude Code chooses",
     "link": "https://amplifying.ai/research/claude-code-picks",
     "source": "Hacker News",
     "published": "2026-02-26T18:12:26+00:00",
@@ -102,14 +102,6 @@
     "published": "2026-02-26T17:01:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47168726\">Comments</a>"
-  },
-  {
-    "title": "Will vibe coding end like the maker movement?",
-    "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-    "source": "Hacker News",
-    "published": "2026-02-26T16:07:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47167931\">Comments</a>"
   },
   {
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
@@ -128,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47161889\">Comments</a>"
   },
   {
+    "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+    "link": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+    "source": "Hacker News",
+    "published": "2026-02-25T12:30:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47150674\">Comments</a>"
+  },
+  {
+    "title": "80386 Protection",
+    "link": "https://nand2mario.github.io/posts/2026/80386_protection/",
+    "source": "Hacker News",
+    "published": "2026-02-24T15:56:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47138698\">Comments</a>"
+  },
+  {
     "title": "I baked a pie every day for a year and it changed my life",
     "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
     "source": "Hacker News",
     "published": "2026-02-23T20:54:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47128645\">Comments</a>"
-  },
-  {
-    "title": "Museum of Plugs and Sockets",
-    "link": "https://plugsocketmuseum.nl/index.html",
-    "source": "Hacker News",
-    "published": "2026-02-23T16:58:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47124999\">Comments</a>"
   },
   {
     "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47124454\">Comments</a>"
   },
   {
-    "title": "Hacking Tauri for Designer",
-    "link": "https://yujonglee.com/blog/hacking-tauri-for-designer/",
+    "title": "Julia: Performance Tips",
+    "link": "https://docs.julialang.org/en/v1/manual/performance-tips/",
     "source": "Hacker News",
-    "published": "2026-02-22T11:27:14+00:00",
+    "published": "2026-02-23T15:33:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47123633\">Comments</a>"
   }
 ]
