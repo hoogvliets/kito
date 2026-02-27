@@ -1,6 +1,46 @@
 [
   {
-    "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+    "title": "The Hunt for Dark Breakfast \u2013 Can we derive breakfasts we have never observed?",
+    "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+    "source": "Hacker News",
+    "published": "2026-02-27T03:49:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176257\">Comments</a>"
+  },
+  {
+    "title": "Parakeet.cpp \u2013 Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+    "link": "https://github.com/Frikallo/parakeet.cpp",
+    "source": "Hacker News",
+    "published": "2026-02-27T03:48:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176239\">Comments</a>"
+  },
+  {
+    "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+    "link": "https://bookriot.com/hr7661-book-ban-legislation/",
+    "source": "Hacker News",
+    "published": "2026-02-27T03:34:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176157\">Comments</a>"
+  },
+  {
+    "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+    "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+    "source": "Hacker News",
+    "published": "2026-02-27T03:08:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47175931\">Comments</a>"
+  },
+  {
+    "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
+    "link": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
+    "source": "Hacker News",
+    "published": "2026-02-27T01:18:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47175013\">Comments</a>"
+  },
+  {
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
     "link": "https://www.anthropic.com/news/statement-department-of-war",
     "source": "Hacker News",
     "published": "2026-02-26T22:42:47+00:00",
@@ -16,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47172730\">Comments</a>"
   },
   {
-    "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+    "title": "Smartphone market forecast to decline this year due to memory shortage",
     "link": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
     "source": "Hacker News",
     "published": "2026-02-26T22:09:45+00:00",
@@ -48,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47170174\">Comments</a>"
   },
   {
-    "title": "OsmAnd's Faster Offline Navigation (2025)",
-    "link": "https://osmand.net/blog/fast-routing/",
-    "source": "Hacker News",
-    "published": "2026-02-26T18:37:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170157\">Comments</a>"
-  },
-  {
     "title": "What Claude Code Chooses",
     "link": "https://amplifying.ai/research/claude-code-picks",
     "source": "Hacker News",
     "published": "2026-02-26T18:12:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47169757\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Deff \u2013 Side-by-side Git diff review in your terminal",
-    "link": "https://github.com/flamestro/deff",
-    "source": "Hacker News",
-    "published": "2026-02-26T17:54:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47169518\">Comments</a>"
   },
   {
     "title": "Palm OS User Interface Guidelines (2003) [pdf]",
@@ -96,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47167763\">Comments</a>"
   },
   {
-    "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-    "link": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+    "title": "Move tests to closed source repo",
+    "link": "https://github.com/tldraw/tldraw/issues/8082",
     "source": "Hacker News",
-    "published": "2026-02-26T14:05:46+00:00",
+    "published": "2026-02-26T04:34:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47166264\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Terminal Phone \u2013 E2EE Walkie Talkie from the Command Line",
-    "link": "https://gitlab.com/here_forawhile/terminalphone",
-    "source": "Hacker News",
-    "published": "2026-02-26T10:40:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47164270\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hacker Smacker \u2013 Spot great (and terrible) HN commenters at a glance",
-    "link": "https://hackersmacker.org",
-    "source": "Hacker News",
-    "published": "2026-02-24T19:00:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47141119\">Comments</a>"
-  },
-  {
-    "title": "Understanding the Go Runtime: The Memory Allocator",
-    "link": "https://internals-for-interns.com/posts/go-memory-allocator/",
-    "source": "Hacker News",
-    "published": "2026-02-23T22:18:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47129801\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47161889\">Comments</a>"
   },
   {
     "title": "I baked a pie every day for a year and it changed my life",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47124454\">Comments</a>"
   },
   {
-    "title": "Lidar waveforms are worth 40x128x33 words",
-    "link": "https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html",
+    "title": "Hacking Tauri for Designer",
+    "link": "https://yujonglee.com/blog/hacking-tauri-for-designer/",
     "source": "Hacker News",
-    "published": "2026-02-23T12:19:43+00:00",
+    "published": "2026-02-22T11:27:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47121352\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47110159\">Comments</a>"
   }
 ]
