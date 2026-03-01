@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why is the first C++ (m)allocation always 72 KB?",
+    "link": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+    "source": "Hacker News",
+    "published": "2026-03-01T09:27:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205129\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Terminal-Style Portfolio on the Internet",
+    "link": "https://kuber.studio/",
+    "source": "Hacker News",
+    "published": "2026-03-01T09:26:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205127\">Comments</a>"
+  },
+  {
+    "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
+    "link": "https://mlu-explain.github.io/decision-tree/",
+    "source": "Hacker News",
+    "published": "2026-03-01T08:55:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204964\">Comments</a>"
+  },
+  {
     "title": "Switch to Claude without starting over",
     "link": "https://claude.com/import-memory",
     "source": "Hacker News",
@@ -14,14 +38,6 @@
     "published": "2026-03-01T07:35:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204559\">Comments</a>"
-  },
-  {
-    "title": "The Science of Detecting LLM-Generated Text",
-    "link": "https://dl.acm.org/doi/10.1145/3624725",
-    "source": "Hacker News",
-    "published": "2026-03-01T02:09:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47202864\">Comments</a>"
   },
   {
     "title": "Microgpt",
@@ -48,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>"
   },
   {
-    "title": "Our Agreement with the Department of War",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "source": "Hacker News",
-    "published": "2026-02-28T20:35:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47199948\">Comments</a>"
-  },
-  {
     "title": "Block the \u201cUpgrade to Tahoe\u201d Alerts",
     "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
     "source": "Hacker News",
     "published": "2026-02-28T19:04:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47198977\">Comments</a>"
-  },
-  {
-    "title": "Verified Spec-Driven Development (VSDD)",
-    "link": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-    "source": "Hacker News",
-    "published": "2026-02-28T16:58:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47197595\">Comments</a>"
   },
   {
     "title": "Obsidian Sync now has a headless client",
@@ -80,28 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47197267\">Comments</a>"
   },
   {
-    "title": "Addressing Antigravity Bans and Reinstating Access",
-    "link": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-    "source": "Hacker News",
-    "published": "2026-02-28T13:50:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47195371\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Now I Get It \u2013 Translate scientific papers into interactive webpages",
-    "link": "https://nowigetit.us",
-    "source": "Hacker News",
-    "published": "2026-02-28T13:29:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47195123\">Comments</a>"
-  },
-  {
     "title": "MCP server that reduces Claude Code context consumption by 98%",
     "link": "https://mksg.lu/blog/context-mode",
     "source": "Hacker News",
     "published": "2026-02-28T10:01:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47193064\">Comments</a>"
+  },
+  {
+    "title": "Robust and efficient quantum-safe HTTPS",
+    "link": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+    "source": "Hacker News",
+    "published": "2026-02-27T17:58:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47183396\">Comments</a>"
   },
   {
     "title": "An ode to houseplant programming (2025)",
@@ -112,20 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47181542\">Comments</a>"
   },
   {
-    "title": "Cracking the Python Monorepo",
-    "link": "https://gafni.dev/blog/cracking-the-python-monorepo/",
-    "source": "Hacker News",
-    "published": "2026-02-26T22:05:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47172608\">Comments</a>"
-  },
-  {
     "title": "Hardwood: A New Parser for Apache Parquet",
     "link": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
     "source": "Hacker News",
     "published": "2026-02-26T15:31:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47167432\">Comments</a>"
+  },
+  {
+    "title": "The real cost of random I/O",
+    "link": "https://vondra.me/posts/the-real-cost-of-random-io/",
+    "source": "Hacker News",
+    "published": "2026-02-26T12:38:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47165230\">Comments</a>"
+  },
+  {
+    "title": "Pigeons and Planes Has a Website Again",
+    "link": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+    "source": "Hacker News",
+    "published": "2026-02-26T10:51:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47164336\">Comments</a>"
   },
   {
     "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
