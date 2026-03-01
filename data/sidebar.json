@@ -1,11 +1,27 @@
 [
   {
-    "title": "MCP is dead. Long live the CLI",
+    "title": "Operational issue \u2013 Multiple services (UAE)",
+    "link": "https://health.aws.amazon.com/health/status",
+    "source": "Hacker News",
+    "published": "2026-03-01T19:24:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47209781\">Comments</a>"
+  },
+  {
+    "title": "When does MCP make sense vs CLI?",
     "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
     "source": "Hacker News",
     "published": "2026-03-01T16:54:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47208398\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Audio Toolkit for Agents",
+    "link": "https://github.com/shiehn/sas-audio-processor",
+    "source": "Hacker News",
+    "published": "2026-03-01T15:52:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47207806\">Comments</a>"
   },
   {
     "title": "Lil' Fun Langs' Guts",
@@ -16,36 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47207531\">Comments</a>"
   },
   {
-    "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
-    "source": "Hacker News",
-    "published": "2026-03-01T15:09:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47207404\">Comments</a>"
-  },
-  {
-    "title": "Why XML Tags Are So Fundamental to Claude",
+    "title": "Why XML tags are so fundamental to Claude",
     "link": "https://glthr.com/XML-fundamental-to-Claude",
     "source": "Hacker News",
     "published": "2026-03-01T14:52:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47207236\">Comments</a>"
-  },
-  {
-    "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-    "link": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-    "source": "Hacker News",
-    "published": "2026-03-01T14:09:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206824\">Comments</a>"
-  },
-  {
-    "title": "Ape Coding",
-    "link": "https://rsaksida.com/blog/ape-coding/",
-    "source": "Hacker News",
-    "published": "2026-03-01T14:07:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206798\">Comments</a>"
   },
   {
     "title": "Ghostty \u2013 Terminal Emulator",
@@ -56,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47206009\">Comments</a>"
   },
   {
-    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-    "link": "https://99helpers.com/tools/ad-supported-chat",
-    "source": "Hacker News",
-    "published": "2026-03-01T11:49:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205890\">Comments</a>"
-  },
-  {
     "title": "Flightradar24 for Ships",
     "link": "https://atlas.flexport.com/",
     "source": "Hacker News",
@@ -72,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47205637\">Comments</a>"
   },
   {
-    "title": "Why is the first C++ (m)allocation always 72 KB?",
-    "link": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+    "title": "Microgpt explained interactively",
+    "link": "https://growingswe.com/blog/microgpt",
     "source": "Hacker News",
-    "published": "2026-03-01T09:27:34+00:00",
+    "published": "2026-03-01T09:43:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205129\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205208\">Comments</a>"
   },
   {
     "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
@@ -86,14 +70,6 @@
     "published": "2026-03-01T08:55:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204964\">Comments</a>"
-  },
-  {
-    "title": "Switch to Claude without starting over",
-    "link": "https://claude.com/import-memory",
-    "source": "Hacker News",
-    "published": "2026-03-01T07:36:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204571\">Comments</a>"
   },
   {
     "title": "10-202: Introduction to Modern AI (CMU)",
@@ -120,20 +96,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>"
   },
   {
-    "title": "An ode to houseplant programming (2025)",
-    "link": "https://hannahilea.com/blog/houseplant-programming/",
+    "title": "How Dada enables internal references",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/",
     "source": "Hacker News",
-    "published": "2026-02-27T15:19:10+00:00",
+    "published": "2026-02-27T14:58:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181542\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181256\">Comments</a>"
   },
   {
-    "title": "Aromatic 5-silicon rings synthesized at last",
-    "link": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+    "title": "Chorba: A novel CRC32 implementation (2024)",
+    "link": "https://arxiv.org/abs/2412.16398",
     "source": "Hacker News",
-    "published": "2026-02-27T10:10:22+00:00",
+    "published": "2026-02-27T13:12:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47178758\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47180140\">Comments</a>"
+  },
+  {
+    "title": "Gzpeek: Tool to Parse Gzip Metadata",
+    "link": "https://evanhahn.com/introducing-gzpeek/",
+    "source": "Hacker News",
+    "published": "2026-02-27T07:39:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47177700\">Comments</a>"
+  },
+  {
+    "title": "Setting up phones is a nightmare",
+    "link": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+    "source": "Hacker News",
+    "published": "2026-02-26T19:36:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170958\">Comments</a>"
   },
   {
     "title": "Interview with \u00d8yvind Kol\u00e5s, GIMP developer (2017)",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47168405\">Comments</a>"
   },
   {
-    "title": "The real cost of random I/O",
-    "link": "https://vondra.me/posts/the-real-cost-of-random-io/",
+    "title": "Long Range E-Bike (2021)",
+    "link": "https://jacquesmattheij.com/long-range-ebike/",
     "source": "Hacker News",
-    "published": "2026-02-26T12:38:48+00:00",
+    "published": "2026-02-26T13:41:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47165230\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47165965\">Comments</a>"
   },
   {
     "title": "Python Type Checker Comparison: Empty Container Inference",
@@ -158,5 +150,13 @@
     "published": "2026-02-25T13:45:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47151367\">Comments</a>"
+  },
+  {
+    "title": "How to talk to anyone, and why you should",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+    "source": "Hacker News",
+    "published": "2026-02-24T20:08:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47142183\">Comments</a>"
   }
 ]
