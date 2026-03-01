@@ -1,11 +1,67 @@
 [
   {
-    "title": "Our Agreement with the Department of War",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "title": "Pentagon chief blocks officers from Ivy League schools and top universities",
+    "link": "https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/",
     "source": "Hacker News",
-    "published": "2026-02-28T20:35:29+00:00",
+    "published": "2026-02-28T23:51:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47199948\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47201882\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Xmloxide \u2013 an agent made rust replacement for libxml2",
+    "link": "https://github.com/jonwiggins/xmloxide",
+    "source": "Hacker News",
+    "published": "2026-02-28T23:44:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47201816\">Comments</a>"
+  },
+  {
+    "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+    "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+    "source": "Hacker News",
+    "published": "2026-02-28T22:19:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47200904\">Comments</a>"
+  },
+  {
+    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "link": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "source": "Hacker News",
+    "published": "2026-02-28T22:10:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47200828\">Comments</a>"
+  },
+  {
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "source": "Hacker News",
+    "published": "2026-02-28T21:24:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>"
+  },
+  {
+    "title": "MinIO Is Dead, Long Live MinIO",
+    "link": "https://blog.vonng.com/en/db/minio-resurrect/",
+    "source": "Hacker News",
+    "published": "2026-02-28T21:16:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47200342\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "link": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "source": "Hacker News",
+    "published": "2026-02-28T20:20:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47199781\">Comments</a>"
+  },
+  {
+    "title": "Block the \u201cUpgrade to Tahoe\u201d Alerts",
+    "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+    "source": "Hacker News",
+    "published": "2026-02-28T19:04:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47198977\">Comments</a>"
   },
   {
     "title": "Verified Spec-Driven Development (VSDD)",
@@ -48,38 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47195123\">Comments</a>"
   },
   {
-    "title": "The Future of AI",
-    "link": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-    "source": "Hacker News",
-    "published": "2026-02-28T10:41:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47193476\">Comments</a>"
-  },
-  {
-    "title": "Stop Burning Your Context Window \u2013 How We Cut MCP Output by 98% in Claude Code",
-    "link": "https://mksg.lu/blog/context-mode",
-    "source": "Hacker News",
-    "published": "2026-02-28T10:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47193064\">Comments</a>"
-  },
-  {
-    "title": "Unsloth Dynamic 2.0 GGUFs",
-    "link": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
-    "source": "Hacker News",
-    "published": "2026-02-28T08:56:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47192505\">Comments</a>"
-  },
-  {
-    "title": "We Will Not Be Divided",
-    "link": "https://notdivided.org",
-    "source": "Hacker News",
-    "published": "2026-02-28T00:54:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>"
-  },
-  {
     "title": "747s and Coding Agents",
     "link": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
     "source": "Hacker News",
@@ -96,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47178051\">Comments</a>"
   },
   {
-    "title": "'Play like a dog biting God's feet': Steven Isserlis on Gy\u00f6rgy Kurt\u00e1g at 100",
-    "link": "https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100",
-    "source": "Hacker News",
-    "published": "2026-02-26T19:29:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170847\">Comments</a>"
-  },
-  {
-    "title": "From Noise to Image \u2013 interactive guide to diffusion",
-    "link": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
-    "source": "Hacker News",
-    "published": "2026-02-26T07:52:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47163167\">Comments</a>"
-  },
-  {
     "title": "The happiest I've ever been",
     "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
     "source": "Hacker News",
@@ -120,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47161759\">Comments</a>"
   },
   {
+    "title": "Deterministic Programming with LLMs",
+    "link": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "source": "Hacker News",
+    "published": "2026-02-25T22:17:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47158834\">Comments</a>"
+  },
+  {
     "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
     "link": "https://github.com/ad-si/Woxi",
     "source": "Hacker News",
     "published": "2026-02-25T18:24:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47155526\">Comments</a>"
-  },
-  {
-    "title": "Ghosts'n Goblins \u2013 \u201cWorse danger is ahead\u201d",
-    "link": "https://superchartisland.com/ghostsn-goblins/",
-    "source": "Hacker News",
-    "published": "2026-02-25T18:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155235\">Comments</a>"
   },
   {
     "title": "New evidence that Cantor plagiarized Dedekind?",
@@ -150,13 +158,5 @@
     "published": "2026-02-25T05:14:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47147597\">Comments</a>"
-  },
-  {
-    "title": "How Long Is the Coast of Britain? (1967)",
-    "link": "https://www.jstor.org/stable/1721427",
-    "source": "Hacker News",
-    "published": "2026-02-24T23:14:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47144835\">Comments</a>"
   }
 ]
