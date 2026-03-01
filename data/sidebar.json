@@ -1,19 +1,59 @@
 [
   {
+    "title": "US Military says 3 service members have been killed",
+    "link": "https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026",
+    "source": "Hacker News",
+    "published": "2026-03-01T14:59:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47207302\">Comments</a>"
+  },
+  {
+    "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+    "link": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+    "source": "Hacker News",
+    "published": "2026-03-01T14:09:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206824\">Comments</a>"
+  },
+  {
+    "title": "Ghostty \u2013 Terminal Emulator",
+    "link": "https://ghostty.org/docs",
+    "source": "Hacker News",
+    "published": "2026-03-01T12:13:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206009\">Comments</a>"
+  },
+  {
+    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+    "link": "https://99helpers.com/tools/ad-supported-chat",
+    "source": "Hacker News",
+    "published": "2026-03-01T11:49:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205890\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Vertex.js \u2013 A 1kloc SPA Framework",
+    "link": "https://lukeb42.github.io/vertex-manual.html",
+    "source": "Hacker News",
+    "published": "2026-03-01T11:05:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205659\">Comments</a>"
+  },
+  {
+    "title": "Flightradar24 for Ships",
+    "link": "https://atlas.flexport.com/",
+    "source": "Hacker News",
+    "published": "2026-03-01T11:01:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205637\">Comments</a>"
+  },
+  {
     "title": "Why is the first C++ (m)allocation always 72 KB?",
     "link": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
     "source": "Hacker News",
     "published": "2026-03-01T09:27:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47205129\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Terminal-Style Portfolio on the Internet",
-    "link": "https://kuber.studio/",
-    "source": "Hacker News",
-    "published": "2026-03-01T09:26:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205127\">Comments</a>"
   },
   {
     "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
@@ -48,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47202708\">Comments</a>"
   },
   {
-    "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-    "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-    "source": "Hacker News",
-    "published": "2026-02-28T22:19:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47200904\">Comments</a>"
-  },
-  {
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "link": "https://twitter.com/OpenAI/status/2027846016423321831",
     "source": "Hacker News",
     "published": "2026-02-28T21:24:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>"
-  },
-  {
-    "title": "Block the \u201cUpgrade to Tahoe\u201d Alerts",
-    "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-    "source": "Hacker News",
-    "published": "2026-02-28T19:04:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47198977\">Comments</a>"
   },
   {
     "title": "Obsidian Sync now has a headless client",
@@ -80,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47197267\">Comments</a>"
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
-    "link": "https://mksg.lu/blog/context-mode",
-    "source": "Hacker News",
-    "published": "2026-02-28T10:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47193064\">Comments</a>"
-  },
-  {
     "title": "Robust and efficient quantum-safe HTTPS",
     "link": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
     "source": "Hacker News",
     "published": "2026-02-27T17:58:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47183396\">Comments</a>"
+  },
+  {
+    "title": "Rydberg atoms detect clear signals from a handheld radio",
+    "link": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
+    "source": "Hacker News",
+    "published": "2026-02-27T17:07:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47182907\">Comments</a>"
   },
   {
     "title": "An ode to houseplant programming (2025)",
@@ -104,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47181542\">Comments</a>"
   },
   {
-    "title": "Hardwood: A New Parser for Apache Parquet",
-    "link": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+    "title": "Aromatic 5-silicon rings synthesized at last",
+    "link": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
     "source": "Hacker News",
-    "published": "2026-02-26T15:31:39+00:00",
+    "published": "2026-02-27T10:10:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47167432\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47178758\">Comments</a>"
+  },
+  {
+    "title": "Interview with \u00d8yvind Kol\u00e5s, GIMP developer (2017)",
+    "link": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+    "source": "Hacker News",
+    "published": "2026-02-26T16:39:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47168405\">Comments</a>"
   },
   {
     "title": "The real cost of random I/O",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47165230\">Comments</a>"
   },
   {
-    "title": "Pigeons and Planes Has a Website Again",
-    "link": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-    "source": "Hacker News",
-    "published": "2026-02-26T10:51:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47164336\">Comments</a>"
-  },
-  {
-    "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
-    "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-    "source": "Hacker News",
-    "published": "2026-02-26T09:18:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47163779\">Comments</a>"
-  },
-  {
     "title": "The happiest I've ever been",
     "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
     "source": "Hacker News",
     "published": "2026-02-26T04:13:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47161759\">Comments</a>"
-  },
-  {
-    "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-    "link": "https://github.com/ad-si/Woxi",
-    "source": "Hacker News",
-    "published": "2026-02-25T18:24:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47155526\">Comments</a>"
-  },
-  {
-    "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
-    "link": "https://www.nature.com/articles/s41586-026-10114-5",
-    "source": "Hacker News",
-    "published": "2026-02-25T15:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47152448\">Comments</a>"
   }
 ]
