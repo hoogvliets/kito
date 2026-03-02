@@ -1,5 +1,53 @@
 [
   {
+    "title": "Show HN: Web Audio Studio \u2013 A Visual Debugger for Web Audio API Graphs",
+    "link": "https://webaudio.studio/",
+    "source": "Hacker News",
+    "published": "2026-03-02T11:47:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216773\">Comments</a>"
+  },
+  {
+    "title": "Claude Code LSP",
+    "link": "https://karanbansal.in/blog/claude-code-lsp/",
+    "source": "Hacker News",
+    "published": "2026-03-02T11:47:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216765\">Comments</a>"
+  },
+  {
+    "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+    "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+    "source": "Hacker News",
+    "published": "2026-03-02T10:23:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216047\">Comments</a>"
+  },
+  {
+    "title": "Jolla phone \u2013 a full-stack European alternative",
+    "link": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+    "source": "Hacker News",
+    "published": "2026-03-02T10:21:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216037\">Comments</a>"
+  },
+  {
+    "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+    "link": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+    "source": "Hacker News",
+    "published": "2026-03-02T09:20:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215565\">Comments</a>"
+  },
+  {
+    "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+    "link": "https://e.foundation/e-os/",
+    "source": "Hacker News",
+    "published": "2026-03-02T09:09:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215489\">Comments</a>"
+  },
+  {
     "title": "Show HN: Omni \u2013 Open-source workplace search and chat, built on Postgres",
     "link": "https://github.com/getomnico/omni",
     "source": "Hacker News",
@@ -32,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47214367\">Comments</a>"
   },
   {
-    "title": "Evolving descriptive text of mental content from human brain activity",
-    "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-    "source": "Hacker News",
-    "published": "2026-03-02T05:39:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214250\">Comments</a>"
-  },
-  {
-    "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
-    "link": "https://variantsystems.io/blog/beam-otp-process-concurrency",
-    "source": "Hacker News",
-    "published": "2026-03-02T05:01:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214063\">Comments</a>"
-  },
-  {
     "title": "Computer-generated dream world: Virtual reality for a 286 processor",
     "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
     "source": "Hacker News",
@@ -62,14 +94,6 @@
     "published": "2026-03-02T04:15:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47213819\">Comments</a>"
-  },
-  {
-    "title": "Everett shuts down Flock camera network after judge rules footage public record",
-    "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
-    "source": "Hacker News",
-    "published": "2026-03-02T04:06:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47213764\">Comments</a>"
   },
   {
     "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
@@ -96,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47211830\">Comments</a>"
   },
   {
-    "title": "Little Free Library",
-    "link": "https://littlefreelibrary.org/",
-    "source": "Hacker News",
-    "published": "2026-03-01T22:18:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47211280\">Comments</a>"
-  },
-  {
     "title": "WebMCP is available for early preview",
     "link": "https://developer.chrome.com/blog/webmcp-epp",
     "source": "Hacker News",
@@ -112,44 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47211249\">Comments</a>"
   },
   {
-    "title": "Why does C have the best file API",
-    "link": "https://maurycyz.com/misc/c_files/",
+    "title": "Neocaml \u2013 Rubocop Creator's New OCaml Mode for Emacs",
+    "link": "https://github.com/bbatsov/neocaml",
     "source": "Hacker News",
-    "published": "2026-03-01T19:25:04+00:00",
+    "published": "2026-02-27T21:31:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47209788\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47185911\">Comments</a>"
   },
   {
-    "title": "Ghostty \u2013 Terminal Emulator",
-    "link": "https://ghostty.org/docs",
+    "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+    "link": "https://copyrightlately.com/mondrian-public-domain-controversy/",
     "source": "Hacker News",
-    "published": "2026-03-01T12:13:03+00:00",
+    "published": "2026-02-27T15:28:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206009\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181656\">Comments</a>"
   },
   {
-    "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
-    "link": "https://mlu-explain.github.io/decision-tree/",
+    "title": "Pluralism and the Modern Poet",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n03/seamus-perry/pluralism-and-the-modern-poet",
     "source": "Hacker News",
-    "published": "2026-03-01T08:55:52+00:00",
+    "published": "2026-02-27T08:31:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204964\">Comments</a>"
-  },
-  {
-    "title": "Enable CORS for Your Blog",
-    "link": "https://www.blogsareback.com/guides/enable-cors",
-    "source": "Hacker News",
-    "published": "2026-02-27T17:41:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47183196\">Comments</a>"
-  },
-  {
-    "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
-    "link": "https://tovejansson.com/hobbit-tolkien/",
-    "source": "Hacker News",
-    "published": "2026-02-27T16:17:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47182284\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47178077\">Comments</a>"
   },
   {
     "title": "Making Video Games in 2025 (without an engine)",
