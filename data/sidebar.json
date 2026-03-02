@@ -1,5 +1,61 @@
 [
   {
+    "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
+    "link": "https://govbase.com",
+    "source": "Hacker News",
+    "published": "2026-03-02T17:08:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>"
+  },
+  {
+    "title": "Reflex (YC W23) Is Hiring Software Engineers \u2013 Python",
+    "link": "https://www.ycombinator.com/companies/reflex/jobs",
+    "source": "Hacker News",
+    "published": "2026-03-02T17:01:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220666\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: OctaPulse (YC W26) \u2013 Robotics and computer vision for fish farming",
+    "link": "https://news.ycombinator.com/item?id=47220320",
+    "source": "Hacker News",
+    "published": "2026-03-02T16:39:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220320\">Comments</a>"
+  },
+  {
+    "title": "Packaging a Gleam app into a single executable",
+    "link": "https://www.dhzdhd.dev/blog/gleam-executable",
+    "source": "Hacker News",
+    "published": "2026-03-02T16:20:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220020\">Comments</a>"
+  },
+  {
+    "title": "Notes on Lagrange Interpolating Polynomials",
+    "link": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+    "source": "Hacker News",
+    "published": "2026-03-02T16:01:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219688\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (March 2026)",
+    "link": "https://news.ycombinator.com/item?id=47219668",
+    "source": "Hacker News",
+    "published": "2026-03-02T16:00:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219668\">Comments</a>"
+  },
+  {
+    "title": "Felix \"fx\" Lindner has died",
+    "link": "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix",
+    "source": "Hacker News",
+    "published": "2026-03-02T15:53:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219558\">Comments</a>"
+  },
+  {
     "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
     "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
     "source": "Hacker News",
@@ -8,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47218743\">Comments</a>"
   },
   {
-    "title": "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
-    "link": "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/",
+    "title": "Parallel coding agents with tmux and Markdown specs",
+    "link": "https://schipper.ai/posts/parallel-coding-agents/",
     "source": "Hacker News",
-    "published": "2026-03-02T14:28:41+00:00",
+    "published": "2026-03-02T14:24:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218318\">Comments</a>"
   },
   {
     "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
@@ -24,44 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47218288\">Comments</a>"
   },
   {
-    "title": "An Interesting Find: STM32 RDP1 Decryptor",
-    "link": "https://carlossless.io/stm32-rdp1-decryptor/",
-    "source": "Hacker News",
-    "published": "2026-03-02T14:12:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218188\">Comments</a>"
-  },
-  {
-    "title": "Apple introduces the new iPad Air, powered by M4",
+    "title": "New iPad Air, powered by M4",
     "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
     "source": "Hacker News",
     "published": "2026-03-02T14:11:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47218175\">Comments</a>"
-  },
-  {
-    "title": "OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub",
-    "link": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
-    "source": "Hacker News",
-    "published": "2026-03-02T13:38:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47217812\">Comments</a>"
-  },
-  {
-    "title": "AMD Am386 released March 2, 1991",
-    "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-    "source": "Hacker News",
-    "published": "2026-03-02T12:56:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47217402\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Web Audio Studio \u2013 A Visual Debugger for Web Audio API Graphs",
-    "link": "https://webaudio.studio/",
-    "source": "Hacker News",
-    "published": "2026-03-02T11:47:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216773\">Comments</a>"
   },
   {
     "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
@@ -72,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47216047\">Comments</a>"
   },
   {
-    "title": "Jolla phone \u2013 a full-stack European alternative",
-    "link": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-    "source": "Hacker News",
-    "published": "2026-03-02T10:21:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47216037\">Comments</a>"
-  },
-  {
-    "title": "U.S. science agency moves to restrict foreign scientists from its labs",
-    "link": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
-    "source": "Hacker News",
-    "published": "2026-03-02T09:20:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215565\">Comments</a>"
-  },
-  {
-    "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+    "title": "/e/OS is a complete, fully \u201cdeGoogled\u201d mobile ecosystem",
     "link": "https://e.foundation/e-os/",
     "source": "Hacker News",
     "published": "2026-03-02T09:09:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47215489\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Omni \u2013 Open-source workplace search and chat, built on Postgres",
-    "link": "https://github.com/getomnico/omni",
-    "source": "Hacker News",
-    "published": "2026-03-02T08:58:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215427\">Comments</a>"
   },
   {
     "title": "How to talk to anyone and why you should",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47214645\">Comments</a>"
   },
   {
-    "title": "If AI writes code, should the session be part of the commit?",
-    "link": "https://github.com/mandel-macaque/memento",
-    "source": "Hacker News",
-    "published": "2026-03-02T00:27:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47212355\">Comments</a>"
-  },
-  {
     "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
     "link": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
     "source": "Hacker News",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47208573\">Comments</a>"
   },
   {
-    "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-    "link": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+    "title": "Why Objective-C",
+    "link": "https://inessential.com/2026/02/27/why-objective-c.html",
     "source": "Hacker News",
-    "published": "2026-02-27T15:28:57+00:00",
+    "published": "2026-02-28T12:41:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181656\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47194630\">Comments</a>"
   },
   {
-    "title": "Making Video Games in 2025 (without an engine)",
-    "link": "https://www.noelberry.ca/posts/making_games_in_2025/",
+    "title": "Zclaw \u2013 The 888 KiB Assistant",
+    "link": "https://zclaw.dev",
     "source": "Hacker News",
-    "published": "2026-02-27T04:38:15+00:00",
+    "published": "2026-02-28T00:47:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176576\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47188401\">Comments</a>"
+  },
+  {
+    "title": "Thirty years on, Pok\u00e9mon is still a monster hit",
+    "link": "https://www.economist.com/culture/2026/02/26/thirty-years-on-pokemon-is-still-a-monster-hit",
+    "source": "Hacker News",
+    "published": "2026-02-27T01:35:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47175160\">Comments</a>"
   },
   {
     "title": "Use the Mikado Method to do safe changes in a complex codebase",
