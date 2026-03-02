@@ -1,11 +1,51 @@
 [
   {
+    "title": "Show HN: Omni \u2013 Open-source workplace search and chat, built on Postgres",
+    "link": "https://github.com/getomnico/omni",
+    "source": "Hacker News",
+    "published": "2026-03-02T08:58:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215427\">Comments</a>"
+  },
+  {
+    "title": "How to talk to anyone and why you should",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+    "source": "Hacker News",
+    "published": "2026-03-02T07:30:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214864\">Comments</a>"
+  },
+  {
+    "title": "Motorola announces a partnership with GrapheneOS Foundation",
+    "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+    "source": "Hacker News",
+    "published": "2026-03-02T06:48:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214645\">Comments</a>"
+  },
+  {
+    "title": "An interactive intro to Elliptic Curve Cryptography",
+    "link": "https://growingswe.com/blog/elliptic-curve-cryptography",
+    "source": "Hacker News",
+    "published": "2026-03-02T05:59:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214367\">Comments</a>"
+  },
+  {
     "title": "Evolving descriptive text of mental content from human brain activity",
     "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
     "source": "Hacker News",
     "published": "2026-03-02T05:39:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47214250\">Comments</a>"
+  },
+  {
+    "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
+    "link": "https://variantsystems.io/blog/beam-otp-process-concurrency",
+    "source": "Hacker News",
+    "published": "2026-03-02T05:01:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214063\">Comments</a>"
   },
   {
     "title": "Computer-generated dream world: Virtual reality for a 286 processor",
@@ -80,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47209788\">Comments</a>"
   },
   {
-    "title": "When does MCP make sense vs CLI?",
-    "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-    "source": "Hacker News",
-    "published": "2026-03-01T16:54:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47208398\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
-    "link": "https://github.com/cosmiciron/vmprint",
-    "source": "Hacker News",
-    "published": "2026-03-01T12:25:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206082\">Comments</a>"
-  },
-  {
     "title": "Ghostty \u2013 Terminal Emulator",
     "link": "https://ghostty.org/docs",
     "source": "Hacker News",
@@ -112,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204964\">Comments</a>"
   },
   {
-    "title": "Show HN: Vibe Code your 3D Models",
-    "link": "https://github.com/ierror/synaps-cad",
+    "title": "Enable CORS for Your Blog",
+    "link": "https://www.blogsareback.com/guides/enable-cors",
     "source": "Hacker News",
-    "published": "2026-02-27T17:27:34+00:00",
+    "published": "2026-02-27T17:41:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47183039\">Comments</a>"
-  },
-  {
-    "title": "Next-gen spacecraft are overwhelming communication networks",
-    "link": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
-    "source": "Hacker News",
-    "published": "2026-02-27T16:21:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47182339\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47183196\">Comments</a>"
   },
   {
     "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47182284\">Comments</a>"
   },
   {
-    "title": "Have your cake and decompress it too",
-    "link": "https://spiraldb.com/post/cascading-compression-with-btrblocks",
+    "title": "Making Video Games in 2025 (without an engine)",
+    "link": "https://www.noelberry.ca/posts/making_games_in_2025/",
     "source": "Hacker News",
-    "published": "2026-02-27T15:33:02+00:00",
+    "published": "2026-02-27T04:38:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47181714\">Comments</a>"
-  },
-  {
-    "title": "Frankensqlite a Rust reimplementation of SQLite with concurrent writers",
-    "link": "https://frankensqlite.com/",
-    "source": "Hacker News",
-    "published": "2026-02-27T03:43:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176209\">Comments</a>"
-  },
-  {
-    "title": "C64 Copy Protection",
-    "link": "https://www.commodoregames.net/copyprotection/",
-    "source": "Hacker News",
-    "published": "2026-02-26T23:59:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47174189\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47176576\">Comments</a>"
   }
 ]
