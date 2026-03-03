@@ -1,6 +1,38 @@
 [
   {
-    "title": "Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes",
+    "title": "Buckle Up for Bumpier Skies",
+    "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
+    "source": "Hacker News",
+    "published": "2026-03-03T05:51:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47228639\">Comments</a>"
+  },
+  {
+    "title": "Daily Driving GrapheneOS",
+    "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+    "source": "Hacker News",
+    "published": "2026-03-03T05:18:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47228390\">Comments</a>"
+  },
+  {
+    "title": "Intent-Based Commits",
+    "link": "https://github.com/adamveld12/ghost",
+    "source": "Hacker News",
+    "published": "2026-03-03T04:20:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227999\">Comments</a>"
+  },
+  {
+    "title": "The Excommunicated Devs Making Games with AI",
+    "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+    "source": "Hacker News",
+    "published": "2026-03-03T02:16:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227078\">Comments</a>"
+  },
+  {
+    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
     "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
     "source": "Hacker News",
     "published": "2026-03-03T01:12:30+00:00",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47226608\">Comments</a>"
   },
   {
-    "title": "How to Build Your Own Quantum Computer",
+    "title": "Physicists developing a quantum computer that\u2019s entirely open source",
     "link": "https://physics.aps.org/articles/v19/24",
     "source": "Hacker News",
     "published": "2026-03-02T23:22:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47225726\">Comments</a>"
-  },
-  {
-    "title": "Closure of the Weatheradio Service in Canada",
-    "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-    "source": "Hacker News",
-    "published": "2026-03-02T23:03:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225505\">Comments</a>"
   },
   {
     "title": "Seed of Might Color Correction Process (2023) [pdf]",
@@ -32,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47225318\">Comments</a>"
   },
   {
-    "title": "The workers behind Meta\u2019s smart glasses can see everything",
+    "title": "Meta\u2019s AI smart glasses and data privacy concerns",
     "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
     "source": "Hacker News",
     "published": "2026-03-02T22:32:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47225130\">Comments</a>"
-  },
-  {
-    "title": "The 185-Microsecond Type Hint",
-    "link": "https://blog.sturdystatistics.com/posts/type_hint/",
-    "source": "Hacker News",
-    "published": "2026-03-02T22:04:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47224832\">Comments</a>"
   },
   {
     "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
@@ -56,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47224295\">Comments</a>"
   },
   {
-    "title": "British Columbia to end time changes, adopt year-round daylight time",
+    "title": "British Columbia is permanently adopting daylight time",
     "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
     "source": "Hacker News",
     "published": "2026-03-02T20:30:52+00:00",
@@ -72,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who is hiring? (March 2026)",
-    "link": "https://news.ycombinator.com/item?id=47219668",
+    "title": "Launch HN: OctaPulse (YC W26) \u2013 Robotics and computer vision for fish farming",
+    "link": "https://news.ycombinator.com/item?id=47220320",
     "source": "Hacker News",
-    "published": "2026-03-02T16:00:27+00:00",
+    "published": "2026-03-02T16:39:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219668\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220320\">Comments</a>"
   },
   {
     "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47214645\">Comments</a>"
   },
   {
-    "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-    "link": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-    "source": "Hacker News",
-    "published": "2026-03-01T17:11:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47208573\">Comments</a>"
-  },
-  {
     "title": "Against Query Based Compilers",
     "link": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
     "source": "Hacker News",
@@ -128,23 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47206280\">Comments</a>"
   },
   {
-    "title": "The Cathode Ray Tube site",
-    "link": "https://www.crtsite.com/didactic-crt.html",
+    "title": "Guilty Displeasures",
+    "link": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
     "source": "Hacker News",
-    "published": "2026-03-01T10:51:46+00:00",
+    "published": "2026-03-01T08:22:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205577\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204784\">Comments</a>"
   },
   {
-    "title": "Programmable Cryptography",
-    "link": "https://0xparc.org/writings/programmable-cryptography-1",
-    "source": "Hacker News",
-    "published": "2026-02-28T22:43:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47201158\">Comments</a>"
-  },
-  {
-    "title": "Simple Screw Counter",
+    "title": "Simple screw counter",
     "link": "https://mitxela.com/projects/screwcounter",
     "source": "Hacker News",
     "published": "2026-02-28T22:41:33+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47201132\">Comments</a>"
   },
   {
-    "title": "RCade: Building a Community Arcade Cabinet",
-    "link": "https://www.frankchiarulli.com/blog/building-the-rcade/",
+    "title": "Moldova broke our data pipeline",
+    "link": "https://www.avraam.dev/blog/moldova-broke-our-pipeline",
     "source": "Hacker News",
-    "published": "2026-02-26T19:09:18+00:00",
+    "published": "2026-02-28T17:23:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170599\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47197858\">Comments</a>"
   }
 ]
