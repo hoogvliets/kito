@@ -1,5 +1,61 @@
 [
   {
+    "title": "How to Build Your Own Quantum Computer",
+    "link": "https://physics.aps.org/articles/v19/24",
+    "source": "Hacker News",
+    "published": "2026-03-02T23:22:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225726\">Comments</a>"
+  },
+  {
+    "title": "Closure of the Weatherradio Service in Canada",
+    "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+    "source": "Hacker News",
+    "published": "2026-03-02T23:03:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225505\">Comments</a>"
+  },
+  {
+    "title": "Seed of Might Color Correction Process (2023) [pdf]",
+    "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-02T22:49:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225318\">Comments</a>"
+  },
+  {
+    "title": "The workers behind Meta's smart glasses can see everything",
+    "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "source": "Hacker News",
+    "published": "2026-03-02T22:32:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225130\">Comments</a>"
+  },
+  {
+    "title": "The 185-Microsecond Type Hint",
+    "link": "https://blog.sturdystatistics.com/posts/type_hint/",
+    "source": "Hacker News",
+    "published": "2026-03-02T22:04:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47224832\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+    "link": "https://www.ntik.me/posts/voice-agent",
+    "source": "Hacker News",
+    "published": "2026-03-02T21:23:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47224295\">Comments</a>"
+  },
+  {
+    "title": "Welcome (back) to Macintosh",
+    "link": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+    "source": "Hacker News",
+    "published": "2026-03-02T21:09:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47224118\">Comments</a>"
+  },
+  {
     "title": "Show HN: Pianoterm \u2013 Run shell commands from your Piano. A Linux CLI tool",
     "link": "https://github.com/vustagc/pianoterm",
     "source": "Hacker News",
@@ -14,22 +70,6 @@
     "published": "2026-03-02T20:30:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47223620\">Comments</a>"
-  },
-  {
-    "title": "Show HN: uBlock filter list to blur all Instagram Reels",
-    "link": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
-    "source": "Hacker News",
-    "published": "2026-03-02T19:50:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47223147\">Comments</a>"
-  },
-  {
-    "title": "A case for Go as the best language for AI agents",
-    "link": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
-    "source": "Hacker News",
-    "published": "2026-03-02T18:48:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47222270\">Comments</a>"
   },
   {
     "title": "\"That Shape Had None\" \u2013 A Horror of Substrate Independence (Short Fiction)",
@@ -48,44 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>"
   },
   {
-    "title": "Reflex (YC W23) Is Hiring Software Engineers \u2013 Python",
-    "link": "https://www.ycombinator.com/companies/reflex/jobs",
-    "source": "Hacker News",
-    "published": "2026-03-02T17:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220666\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: OctaPulse (YC W26) \u2013 Robotics and computer vision for fish farming",
-    "link": "https://news.ycombinator.com/item?id=47220320",
-    "source": "Hacker News",
-    "published": "2026-03-02T16:39:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220320\">Comments</a>"
-  },
-  {
-    "title": "Packaging a Gleam app into a single executable",
-    "link": "https://www.dhzdhd.dev/blog/gleam-executable",
-    "source": "Hacker News",
-    "published": "2026-03-02T16:20:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220020\">Comments</a>"
-  },
-  {
     "title": "Ask HN: Who is hiring? (March 2026)",
     "link": "https://news.ycombinator.com/item?id=47219668",
     "source": "Hacker News",
     "published": "2026-03-02T16:00:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47219668\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Who wants to be hired? (March 2026)",
-    "link": "https://news.ycombinator.com/item?id=47219667",
-    "source": "Hacker News",
-    "published": "2026-03-02T16:00:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219667\">Comments</a>"
   },
   {
     "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
@@ -96,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47218743\">Comments</a>"
   },
   {
-    "title": "Parallel coding agents with tmux and Markdown specs",
-    "link": "https://schipper.ai/posts/parallel-coding-agents/",
-    "source": "Hacker News",
-    "published": "2026-03-02T14:24:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218318\">Comments</a>"
-  },
-  {
     "title": "New iPad Air, powered by M4",
     "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
     "source": "Hacker News",
     "published": "2026-03-02T14:11:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47218175\">Comments</a>"
-  },
-  {
-    "title": "iPhone 17e",
-    "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-    "source": "Hacker News",
-    "published": "2026-03-02T14:03:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218084\">Comments</a>"
-  },
-  {
-    "title": "How to talk to anyone and why you should",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-    "source": "Hacker News",
-    "published": "2026-03-02T07:30:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214864\">Comments</a>"
   },
   {
     "title": "Motorola announces a partnership with GrapheneOS",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47208573\">Comments</a>"
   },
   {
-    "title": "LFortran Compiles Fpm",
-    "link": "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/",
+    "title": "Against Query Based Compilers",
+    "link": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
     "source": "Hacker News",
-    "published": "2026-02-28T00:12:24+00:00",
+    "published": "2026-03-01T12:54:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47188014\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206280\">Comments</a>"
   },
   {
-    "title": "Use the Mikado Method to do safe changes in a complex codebase",
-    "link": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
+    "title": "Programmable Cryptography",
+    "link": "https://0xparc.org/writings/programmable-cryptography-1",
     "source": "Hacker News",
-    "published": "2026-02-26T15:03:34+00:00",
+    "published": "2026-02-28T22:43:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47167058\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47201158\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Visual Lambda Calculus \u2013 a thesis project (2008) revived for the web",
+    "link": "https://github.com/bntre/visual-lambda",
+    "source": "Hacker News",
+    "published": "2026-02-28T06:04:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47191052\">Comments</a>"
+  },
+  {
+    "title": "RCade: Building a Community Arcade Cabinet",
+    "link": "https://www.frankchiarulli.com/blog/building-the-rcade/",
+    "source": "Hacker News",
+    "published": "2026-02-26T19:09:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47170599\">Comments</a>"
   }
 ]
