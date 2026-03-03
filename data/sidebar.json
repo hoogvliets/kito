@@ -1,5 +1,21 @@
 [
   {
+    "title": "Arm's Cortex X925: Reaching Desktop Performance",
+    "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+    "source": "Hacker News",
+    "published": "2026-03-03T07:34:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47229344\">Comments</a>"
+  },
+  {
+    "title": "I built a pint-sized Macintosh",
+    "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+    "source": "Hacker News",
+    "published": "2026-03-03T07:06:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47229119\">Comments</a>"
+  },
+  {
     "title": "Buckle Up for Bumpier Skies",
     "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
     "source": "Hacker News",
@@ -8,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47228639\">Comments</a>"
   },
   {
-    "title": "Daily Driving GrapheneOS",
-    "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+    "title": "Elevated Errors in Claude.ai",
+    "link": "https://status.claude.com/incidents/yf48hzysrvl5",
     "source": "Hacker News",
-    "published": "2026-03-03T05:18:24+00:00",
+    "published": "2026-03-03T03:31:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47228390\">Comments</a>"
-  },
-  {
-    "title": "Intent-Based Commits",
-    "link": "https://github.com/adamveld12/ghost",
-    "source": "Hacker News",
-    "published": "2026-03-03T04:20:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227999\">Comments</a>"
-  },
-  {
-    "title": "The Excommunicated Devs Making Games with AI",
-    "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
-    "source": "Hacker News",
-    "published": "2026-03-03T02:16:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227078\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227647\">Comments</a>"
   },
   {
     "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47223620\">Comments</a>"
   },
   {
-    "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
-    "link": "https://govbase.com",
-    "source": "Hacker News",
-    "published": "2026-03-02T17:08:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>"
-  },
-  {
     "title": "Launch HN: OctaPulse (YC W26) \u2013 Robotics and computer vision for fish farming",
     "link": "https://news.ycombinator.com/item?id=47220320",
     "source": "Hacker News",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47214645\">Comments</a>"
   },
   {
-    "title": "Against Query Based Compilers",
-    "link": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+    "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
+    "link": "https://gvanrossum.github.io/interviews/Thomas.html",
     "source": "Hacker News",
-    "published": "2026-03-01T12:54:47+00:00",
+    "published": "2026-03-01T20:06:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206280\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47210162\">Comments</a>"
+  },
+  {
+    "title": "The Cathode Ray Tube site",
+    "link": "https://www.crtsite.com/didactic-crt.html",
+    "source": "Hacker News",
+    "published": "2026-03-01T10:51:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205577\">Comments</a>"
   },
   {
     "title": "Guilty Displeasures",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47201132\">Comments</a>"
   },
   {
-    "title": "Moldova broke our data pipeline",
-    "link": "https://www.avraam.dev/blog/moldova-broke-our-pipeline",
+    "title": "DOS Memory Management",
+    "link": "https://www.os2museum.com/wp/dos-memory-management/",
     "source": "Hacker News",
-    "published": "2026-02-28T17:23:43+00:00",
+    "published": "2026-02-28T16:00:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47197858\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47196864\">Comments</a>"
   }
 ]
