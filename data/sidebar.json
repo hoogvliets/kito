@@ -1,5 +1,21 @@
 [
   {
+    "title": "A CPU that runs entirely on GPU",
+    "link": "https://github.com/robertcprice/nCPU",
+    "source": "Hacker News",
+    "published": "2026-03-04T04:30:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47243069\">Comments</a>"
+  },
+  {
+    "title": "Nobody Gets Promoted for Simplicity",
+    "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "source": "Hacker News",
+    "published": "2026-03-04T03:40:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242765\">Comments</a>"
+  },
+  {
     "title": "California's Digital Age Assurance Act, and FOSS",
     "link": "https://runxiyu.org/comp/ab1043/",
     "source": "Hacker News",
@@ -14,14 +30,6 @@
     "published": "2026-03-04T03:24:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47242637\">Comments</a>"
-  },
-  {
-    "title": "Mac external displays for designers and developers, part 2",
-    "link": "https://bjango.com/articles/macexternaldisplays2/",
-    "source": "Hacker News",
-    "published": "2026-03-04T02:43:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242342\">Comments</a>"
   },
   {
     "title": "Graphics Programming Resources",
@@ -64,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47241551\">Comments</a>"
   },
   {
-    "title": "Vibe coding for PMs",
+    "title": "My spicy take on vibe coding for PMs",
     "link": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
     "source": "Hacker News",
     "published": "2026-03-03T23:38:21+00:00",
@@ -86,22 +94,6 @@
     "published": "2026-03-03T19:22:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47237460\">Comments</a>"
-  },
-  {
-    "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
-    "source": "Hacker News",
-    "published": "2026-03-03T18:54:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47236958\">Comments</a>"
-  },
-  {
-    "title": "GPT\u20115.3 Instant",
-    "link": "https://openai.com/index/gpt-5-3-instant/",
-    "source": "Hacker News",
-    "published": "2026-03-03T17:57:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47236169\">Comments</a>"
   },
   {
     "title": "When AI writes the software, who verifies it?",
@@ -128,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47230710\">Comments</a>"
   },
   {
+    "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
+    "link": "https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/",
+    "source": "Hacker News",
+    "published": "2026-03-01T10:56:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205603\">Comments</a>"
+  },
+  {
+    "title": "On the Design of Programming Languages (1974) [pdf]",
+    "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
+    "source": "Hacker News",
+    "published": "2026-03-01T09:09:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205031\">Comments</a>"
+  },
+  {
     "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
     "link": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
     "source": "Hacker News",
@@ -142,14 +150,6 @@
     "published": "2026-03-01T05:36:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204027\">Comments</a>"
-  },
-  {
-    "title": "A pretty looking web for a quantum mechanics tool",
-    "link": "https://github.com/Jamessfks/mace",
-    "source": "Hacker News",
-    "published": "2026-03-01T05:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47203887\">Comments</a>"
   },
   {
     "title": "You can use newline characters in URLs",
