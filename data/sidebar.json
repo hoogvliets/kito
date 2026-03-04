@@ -1,27 +1,35 @@
 [
   {
+    "title": "RFC 9849. TLS Encrypted Client Hello",
+    "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+    "source": "Hacker News",
+    "published": "2026-03-04T07:25:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244291\">Comments</a>"
+  },
+  {
+    "title": "Better JIT for Postgres",
+    "link": "https://github.com/vladich/pg_jitter",
+    "source": "Hacker News",
+    "published": "2026-03-04T06:17:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47243804\">Comments</a>"
+  },
+  {
+    "title": "Agentic Engineering Patterns",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "source": "Hacker News",
+    "published": "2026-03-04T05:00:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47243272\">Comments</a>"
+  },
+  {
     "title": "A CPU that runs entirely on GPU",
     "link": "https://github.com/robertcprice/nCPU",
     "source": "Hacker News",
     "published": "2026-03-04T04:30:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47243069\">Comments</a>"
-  },
-  {
-    "title": "Nobody Gets Promoted for Simplicity",
-    "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-    "source": "Hacker News",
-    "published": "2026-03-04T03:40:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242765\">Comments</a>"
-  },
-  {
-    "title": "California's Digital Age Assurance Act, and FOSS",
-    "link": "https://runxiyu.org/comp/ab1043/",
-    "source": "Hacker News",
-    "published": "2026-03-04T03:36:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242725\">Comments</a>"
   },
   {
     "title": "Speculative Speculative Decoding (SSD)",
@@ -56,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47241817\">Comments</a>"
   },
   {
-    "title": "The largest acidic geyser has been putting on quite a show",
-    "link": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
-    "source": "Hacker News",
-    "published": "2026-03-04T01:27:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47241788\">Comments</a>"
-  },
-  {
     "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
     "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
     "source": "Hacker News",
@@ -88,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47239042\">Comments</a>"
   },
   {
-    "title": "An Interactive Intro to CRDTs (2023)",
-    "link": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
-    "source": "Hacker News",
-    "published": "2026-03-03T19:22:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47237460\">Comments</a>"
-  },
-  {
-    "title": "When AI writes the software, who verifies it?",
-    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "source": "Hacker News",
-    "published": "2026-03-03T16:34:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47234917\">Comments</a>"
-  },
-  {
     "title": "MacBook Pro with M5 Pro and M5 Max",
     "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
     "source": "Hacker News",
@@ -118,6 +102,22 @@
     "published": "2026-03-03T10:57:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47230710\">Comments</a>"
+  },
+  {
+    "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
+    "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
+    "source": "Hacker News",
+    "published": "2026-03-01T21:47:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47211034\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Rust compiler in PHP emitting x86-64 executables",
+    "link": "https://github.com/mrconter1/rustc-php",
+    "source": "Hacker News",
+    "published": "2026-03-01T11:02:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205650\">Comments</a>"
   },
   {
     "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
