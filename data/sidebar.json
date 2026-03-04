@@ -1,5 +1,29 @@
 [
   {
+    "title": "Jiga (YC W21) Is Hiring",
+    "link": "https://jiga.io/about-us",
+    "source": "Hacker News",
+    "published": "2026-03-04T12:01:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47246268\">Comments</a>"
+  },
+  {
+    "title": "Users fume over Outlook.com email 'carnage'",
+    "link": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "source": "Hacker News",
+    "published": "2026-03-04T11:33:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47246044\">Comments</a>"
+  },
+  {
+    "title": "Bet on German Train Delays",
+    "link": "https://bahn.bet",
+    "source": "Hacker News",
+    "published": "2026-03-04T09:42:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47245211\">Comments</a>"
+  },
+  {
     "title": "RFC 9849. TLS Encrypted Client Hello",
     "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
     "source": "Hacker News",
@@ -32,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47243069\">Comments</a>"
   },
   {
-    "title": "Speculative Speculative Decoding (SSD)",
-    "link": "https://arxiv.org/abs/2603.03251",
-    "source": "Hacker News",
-    "published": "2026-03-04T03:24:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242637\">Comments</a>"
-  },
-  {
     "title": "Graphics Programming Resources",
     "link": "https://develop--gpvm-website.netlify.app/resources/",
     "source": "Hacker News",
     "published": "2026-03-04T02:23:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47242193\">Comments</a>"
-  },
-  {
-    "title": "Weave \u2013 A language aware merge algorithm based on entities",
-    "link": "https://github.com/Ataraxy-Labs/weave",
-    "source": "Hacker News",
-    "published": "2026-03-04T01:52:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47241976\">Comments</a>"
   },
   {
     "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
@@ -104,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47230710\">Comments</a>"
   },
   {
-    "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
-    "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
+    "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
+    "link": "https://github.com/lixiasky-back/coroTracer",
     "source": "Hacker News",
-    "published": "2026-03-01T21:47:51+00:00",
+    "published": "2026-03-03T10:41:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47211034\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47230620\">Comments</a>"
   },
   {
-    "title": "Show HN: Rust compiler in PHP emitting x86-64 executables",
-    "link": "https://github.com/mrconter1/rustc-php",
+    "title": "RE#: how we built the fastest regex engine in F#",
+    "link": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
     "source": "Hacker News",
-    "published": "2026-03-01T11:02:55+00:00",
+    "published": "2026-03-01T13:47:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205650\">Comments</a>"
-  },
-  {
-    "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
-    "link": "https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/",
-    "source": "Hacker News",
-    "published": "2026-03-01T10:56:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205603\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206647\">Comments</a>"
   },
   {
     "title": "On the Design of Programming Languages (1974) [pdf]",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47205031\">Comments</a>"
   },
   {
-    "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
-    "link": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
+    "title": "Elevator Saga: The elevator programming game (2015)",
+    "link": "https://play.elevatorsaga.com/index.html",
     "source": "Hacker News",
-    "published": "2026-03-01T06:25:10+00:00",
+    "published": "2026-03-01T07:26:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204203\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204504\">Comments</a>"
   },
   {
     "title": "Textadept",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204027\">Comments</a>"
   },
   {
-    "title": "You can use newline characters in URLs",
-    "link": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
+    "title": "Show HN: Stacked Game of Life",
+    "link": "https://stacked-game-of-life.koenvangilst.nl/",
     "source": "Hacker News",
-    "published": "2026-02-28T23:24:57+00:00",
+    "published": "2026-02-28T16:28:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47201598\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47197218\">Comments</a>"
   }
 ]
