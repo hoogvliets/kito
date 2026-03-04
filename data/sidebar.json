@@ -1,6 +1,38 @@
 [
   {
-    "title": "The one science reform we can all agree on, but we're too cowardly to do",
+    "title": "Making Firefox's right-click not suck with about:config",
+    "link": "https://joshua.hu/firefox-making-right-click-not-suck",
+    "source": "Hacker News",
+    "published": "2026-03-04T18:12:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251480\">Comments</a>"
+  },
+  {
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "link": "https://qlabs.sh/slowrun",
+    "source": "Hacker News",
+    "published": "2026-03-04T17:56:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251259\">Comments</a>"
+  },
+  {
+    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "link": "https://roboflow.com/careers",
+    "source": "Hacker News",
+    "published": "2026-03-04T17:49:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251163\">Comments</a>"
+  },
+  {
+    "title": "Something is afoot in the land of Qwen",
+    "link": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "source": "Hacker News",
+    "published": "2026-03-04T15:55:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47249343\">Comments</a>"
+  },
+  {
+    "title": "Government grant-funded research should not be published in for-profit journals",
     "link": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
     "source": "Hacker News",
     "published": "2026-03-04T14:53:48+00:00",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47248341\">Comments</a>"
   },
   {
-    "title": "\"It Turns Out\"",
+    "title": "\u201cIt turns out\u201d (2010)",
     "link": "https://jsomers.net/blog/it-turns-out",
     "source": "Hacker News",
     "published": "2026-03-04T14:52:46+00:00",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47248319\">Comments</a>"
   },
   {
-    "title": "Apple Introduces MacBook Neo",
+    "title": "MacBook Neo",
     "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "source": "Hacker News",
     "published": "2026-03-04T14:16:41+00:00",
@@ -32,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247033\">Comments</a>"
   },
   {
+    "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+    "link": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+    "source": "Hacker News",
+    "published": "2026-03-04T13:04:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47246858\">Comments</a>"
+  },
+  {
     "title": "Qwen3.5 Fine-Tuning Guide \u2013 Unsloth Documentation",
     "link": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
     "source": "Hacker News",
     "published": "2026-03-04T12:04:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47246296\">Comments</a>"
-  },
-  {
-    "title": "Jiga (YC W21) Is Hiring",
-    "link": "https://jiga.io/about-us",
-    "source": "Hacker News",
-    "published": "2026-03-04T12:01:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47246268\">Comments</a>"
   },
   {
     "title": "Nobody Gets Promoted for Simplicity",
@@ -56,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47246110\">Comments</a>"
   },
   {
-    "title": "Bet on German Train Delays",
-    "link": "https://bahn.bet",
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "link": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
     "source": "Hacker News",
-    "published": "2026-03-04T09:42:20+00:00",
+    "published": "2026-03-04T11:33:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47245211\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47246044\">Comments</a>"
   },
   {
-    "title": "Chimpanzees Are into Crystals",
-    "link": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+    "title": "Moss is a pixel canvas where every brush is a tiny program",
+    "link": "https://www.moss.town/",
     "source": "Hacker News",
-    "published": "2026-03-04T07:47:06+00:00",
+    "published": "2026-03-04T10:21:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244395\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47245491\">Comments</a>"
   },
   {
     "title": "RFC 9849. TLS Encrypted Client Hello",
@@ -80,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47244291\">Comments</a>"
   },
   {
-    "title": "Better JIT for Postgres",
-    "link": "https://github.com/vladich/pg_jitter",
-    "source": "Hacker News",
-    "published": "2026-03-04T06:17:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47243804\">Comments</a>"
-  },
-  {
     "title": "Agentic Engineering Patterns",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
     "source": "Hacker News",
@@ -96,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47243272\">Comments</a>"
   },
   {
-    "title": "A CPU that runs entirely on GPU",
-    "link": "https://github.com/robertcprice/nCPU",
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
     "source": "Hacker News",
-    "published": "2026-03-04T04:30:32+00:00",
+    "published": "2026-03-04T01:31:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47243069\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47241817\">Comments</a>"
   },
   {
     "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
@@ -110,22 +134,6 @@
     "published": "2026-03-04T00:58:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47241551\">Comments</a>"
-  },
-  {
-    "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
-    "link": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
-    "source": "Hacker News",
-    "published": "2026-03-03T14:55:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47233336\">Comments</a>"
-  },
-  {
-    "title": "Greg Knauss Is Losing Himself",
-    "link": "https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html",
-    "source": "Hacker News",
-    "published": "2026-03-01T18:09:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47209122\">Comments</a>"
   },
   {
     "title": "RE#: how we built the fastest regex engine in F#",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47204994\">Comments</a>"
   },
   {
-    "title": "Elevator Saga: The elevator programming game (2015)",
-    "link": "https://play.elevatorsaga.com/index.html",
+    "title": "Raspberry Pi Pico as AM Radio Transmitter",
+    "link": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
     "source": "Hacker News",
-    "published": "2026-03-01T07:26:00+00:00",
+    "published": "2026-03-01T00:26:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47204504\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Stacked Game of Life",
-    "link": "https://stacked-game-of-life.koenvangilst.nl/",
-    "source": "Hacker News",
-    "published": "2026-02-28T16:28:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47197218\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47202210\">Comments</a>"
   }
 ]
