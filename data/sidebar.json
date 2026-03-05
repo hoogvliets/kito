@@ -1,6 +1,38 @@
 [
   {
-    "title": "Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'",
+    "title": "What Python's asyncio primitives get wrong about shared state",
+    "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+    "source": "Hacker News",
+    "published": "2026-03-05T02:55:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256923\">Comments</a>"
+  },
+  {
+    "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+    "source": "Hacker News",
+    "published": "2026-03-05T02:33:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256781\">Comments</a>"
+  },
+  {
+    "title": "Chaos and Dystopian news for the dead internet survivors",
+    "link": "https://www.fubardaily.com",
+    "source": "Hacker News",
+    "published": "2026-03-05T01:50:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256478\">Comments</a>"
+  },
+  {
+    "title": "Google Workspace CLI",
+    "link": "https://github.com/googleworkspace/cli",
+    "source": "Hacker News",
+    "published": "2026-03-05T00:22:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255881\">Comments</a>"
+  },
+  {
+    "title": "Dario Amodei calls OpenAI\u2019s messaging around military deal \u2018straight up lies\u2019",
     "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "source": "Hacker News",
     "published": "2026-03-04T23:51:10+00:00",
@@ -8,15 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47255662\">Comments</a>"
   },
   {
-    "title": "Extending single-minus amplitudes to gravitons",
-    "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/",
-    "source": "Hacker News",
-    "published": "2026-03-04T23:41:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255564\">Comments</a>"
-  },
-  {
-    "title": "NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]",
+    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
     "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
     "source": "Hacker News",
     "published": "2026-03-04T21:56:20+00:00",
@@ -64,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47252049\">Comments</a>"
   },
   {
-    "title": "Data Has Weight but Only on SSDs",
-    "link": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
-    "source": "Hacker News",
-    "published": "2026-03-04T18:46:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251987\">Comments</a>"
-  },
-  {
     "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
     "link": "https://qlabs.sh/slowrun",
     "source": "Hacker News",
     "published": "2026-03-04T17:56:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47251259\">Comments</a>"
-  },
-  {
-    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
-    "link": "https://roboflow.com/careers",
-    "source": "Hacker News",
-    "published": "2026-03-04T17:49:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251163\">Comments</a>"
   },
   {
     "title": "Humans 40k yrs ago developed a system of conventional signs",
@@ -120,15 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247645\">Comments</a>"
   },
   {
-    "title": "Glaze by Raycast",
-    "link": "https://www.glazeapp.com/",
-    "source": "Hacker News",
-    "published": "2026-03-04T13:21:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47247033\">Comments</a>"
-  },
-  {
-    "title": "Qwen3.5 Fine-Tuning Guide \u2013 Unsloth Documentation",
+    "title": "Qwen3.5 Fine-Tuning Guide",
     "link": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
     "source": "Hacker News",
     "published": "2026-03-04T12:04:31+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47212451\">Comments</a>"
   },
   {
-    "title": "Show HN: Vertex.js \u2013 A 1kloc SPA Framework",
-    "link": "https://lukeb42.github.io/vertex-manual.html",
+    "title": "Malm Whale",
+    "link": "https://www.atlasobscura.com/places/malm-whale",
     "source": "Hacker News",
-    "published": "2026-03-01T11:05:28+00:00",
+    "published": "2026-03-01T03:56:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47205659\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47203533\">Comments</a>"
   }
 ]
