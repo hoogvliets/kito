@@ -1,5 +1,53 @@
 [
   {
+    "title": "No right to relicense this project",
+    "link": "https://github.com/chardet/chardet/issues/327",
+    "source": "Hacker News",
+    "published": "2026-03-05T08:37:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47259177\">Comments</a>"
+  },
+  {
+    "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+    "link": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+    "source": "Hacker News",
+    "published": "2026-03-05T07:57:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258885\">Comments</a>"
+  },
+  {
+    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+    "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+    "source": "Hacker News",
+    "published": "2026-03-05T07:43:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258801\">Comments</a>"
+  },
+  {
+    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
+    "link": "https://netbsd-jails.petermann-digital.de/",
+    "source": "Hacker News",
+    "published": "2026-03-05T07:23:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258641\">Comments</a>"
+  },
+  {
+    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+    "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+    "source": "Hacker News",
+    "published": "2026-03-05T06:59:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258455\">Comments</a>"
+  },
+  {
+    "title": "Relax NG is a schema language for XML (2014)",
+    "link": "https://relaxng.org/",
+    "source": "Hacker News",
+    "published": "2026-03-05T06:01:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258076\">Comments</a>"
+  },
+  {
     "title": "Relicensing with AI-Assisted Rewrite",
     "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
     "source": "Hacker News",
@@ -16,7 +64,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47257637\">Comments</a>"
   },
   {
-    "title": "Show HN: Poppy \u2013 a simple app to stay intentional with relationships",
+    "title": "The L in \"LLM\" Stands for Lying",
+    "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "source": "Hacker News",
+    "published": "2026-03-05T04:02:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47257394\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Poppy \u2013 A simple app to stay intentional with relationships",
     "link": "https://poppy-connection-keeper.netlify.app/",
     "source": "Hacker News",
     "published": "2026-03-05T03:56:38+00:00",
@@ -24,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47257352\">Comments</a>"
   },
   {
-    "title": "What Python's asyncio primitives get wrong about shared state",
+    "title": "What Python\u2019s asyncio primitives get wrong about shared state",
     "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
     "source": "Hacker News",
     "published": "2026-03-05T02:55:57+00:00",
@@ -32,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47256923\">Comments</a>"
   },
   {
-    "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+    "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
     "source": "Hacker News",
-    "published": "2026-03-05T02:33:58+00:00",
+    "published": "2026-03-05T02:00:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256781\">Comments</a>"
-  },
-  {
-    "title": "Chaos and Dystopian news for the dead internet survivors",
-    "link": "https://www.fubardaily.com",
-    "source": "Hacker News",
-    "published": "2026-03-05T01:50:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256478\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256545\">Comments</a>"
   },
   {
     "title": "Google Workspace CLI",
@@ -64,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47255662\">Comments</a>"
   },
   {
-    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
-    "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+    "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+    "link": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
     "source": "Hacker News",
-    "published": "2026-03-04T21:56:20+00:00",
+    "published": "2026-03-04T21:11:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47254516\">Comments</a>"
-  },
-  {
-    "title": "Dulce et Decorum Est (1921)",
-    "link": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
-    "source": "Hacker News",
-    "published": "2026-03-04T21:41:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47254322\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47253892\">Comments</a>"
   },
   {
     "title": "Building a new Flash",
@@ -86,30 +126,6 @@
     "published": "2026-03-04T20:16:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47253177\">Comments</a>"
-  },
-  {
-    "title": "You need to rewrite your CLI for AI agents",
-    "link": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
-    "source": "Hacker News",
-    "published": "2026-03-04T19:20:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47252459\">Comments</a>"
-  },
-  {
-    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-    "link": "https://qlabs.sh/slowrun",
-    "source": "Hacker News",
-    "published": "2026-03-04T17:56:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47251259\">Comments</a>"
-  },
-  {
-    "title": "Humans 40k yrs ago developed a system of conventional signs",
-    "link": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
-    "source": "Hacker News",
-    "published": "2026-03-04T16:20:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47249744\">Comments</a>"
   },
   {
     "title": "Something is afoot in the land of Qwen",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247645\">Comments</a>"
   },
   {
-    "title": "Moss is a pixel canvas where every brush is a tiny program",
-    "link": "https://www.moss.town/",
+    "title": "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
+    "link": "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html",
     "source": "Hacker News",
-    "published": "2026-03-04T10:21:13+00:00",
+    "published": "2026-03-03T02:49:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47245491\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47227340\">Comments</a>"
   },
   {
-    "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+    "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
     "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
     "source": "Hacker News",
     "published": "2026-03-02T11:51:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47216825\">Comments</a>"
-  },
-  {
-    "title": "Picking Up a Zillion Pieces of Litter",
-    "link": "https://www.sixstepstobetterhealth.com/litter.html",
-    "source": "Hacker News",
-    "published": "2026-03-02T00:40:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47212451\">Comments</a>"
-  },
-  {
-    "title": "Malm Whale",
-    "link": "https://www.atlasobscura.com/places/malm-whale",
-    "source": "Hacker News",
-    "published": "2026-03-01T03:56:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47203533\">Comments</a>"
   }
 ]
