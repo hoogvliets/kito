@@ -16,6 +16,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47258885\">Comments</a>"
   },
   {
+    "title": "Poor Man's Polaroid",
+    "link": "https://boxart.lt/blog/poor_mans_polaroid",
+    "source": "Hacker News",
+    "published": "2026-03-05T07:44:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258809\">Comments</a>"
+  },
+  {
     "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
     "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
     "source": "Hacker News",
@@ -32,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47258641\">Comments</a>"
   },
   {
-    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
-    "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+    "title": "OpenBSD on SGI: A Rollercoaster Story",
+    "link": "http://miod.online.fr/software/openbsd/stories/sgiall.html",
     "source": "Hacker News",
-    "published": "2026-03-05T06:59:30+00:00",
+    "published": "2026-03-05T06:16:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258455\">Comments</a>"
-  },
-  {
-    "title": "Relax NG is a schema language for XML (2014)",
-    "link": "https://relaxng.org/",
-    "source": "Hacker News",
-    "published": "2026-03-05T06:01:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258076\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258169\">Comments</a>"
   },
   {
     "title": "Relicensing with AI-Assisted Rewrite",
@@ -54,14 +54,6 @@
     "published": "2026-03-05T05:07:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47257803\">Comments</a>"
-  },
-  {
-    "title": "You Just Reveived",
-    "link": "https://dylan.gr/1772520728",
-    "source": "Hacker News",
-    "published": "2026-03-05T04:37:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47257637\">Comments</a>"
   },
   {
     "title": "The L in \"LLM\" Stands for Lying",
@@ -80,22 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47257352\">Comments</a>"
   },
   {
-    "title": "What Python\u2019s asyncio primitives get wrong about shared state",
-    "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-    "source": "Hacker News",
-    "published": "2026-03-05T02:55:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256923\">Comments</a>"
-  },
-  {
-    "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
-    "link": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
-    "source": "Hacker News",
-    "published": "2026-03-05T02:00:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256545\">Comments</a>"
-  },
-  {
     "title": "Google Workspace CLI",
     "link": "https://github.com/googleworkspace/cli",
     "source": "Hacker News",
@@ -110,6 +86,14 @@
     "published": "2026-03-04T23:51:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47255662\">Comments</a>"
+  },
+  {
+    "title": "Dulce et Decorum Est (1921)",
+    "link": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+    "source": "Hacker News",
+    "published": "2026-03-04T21:41:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47254322\">Comments</a>"
   },
   {
     "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247645\">Comments</a>"
   },
   {
+    "title": "Earth Garden: Field Recordings Around the World",
+    "link": "https://earth-garden.alen.ro/",
+    "source": "Hacker News",
+    "published": "2026-03-03T23:07:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47240393\">Comments</a>"
+  },
+  {
     "title": "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
     "link": "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-03-02T11:51:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47216825\">Comments</a>"
+  },
+  {
+    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+    "link": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "source": "Hacker News",
+    "published": "2026-03-01T16:49:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47208341\">Comments</a>"
   }
 ]
