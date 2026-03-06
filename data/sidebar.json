@@ -1,5 +1,37 @@
 [
   {
+    "title": "Where things stand with the Department of War",
+    "link": "https://www.anthropic.com/news/where-stand-department-war",
+    "source": "Hacker News",
+    "published": "2026-03-06T00:40:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47269263\">Comments</a>"
+  },
+  {
+    "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+    "link": "https://charm.land/blog/v2/",
+    "source": "Hacker News",
+    "published": "2026-03-05T23:26:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47268662\">Comments</a>"
+  },
+  {
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "link": "https://406.fail/",
+    "source": "Hacker News",
+    "published": "2026-03-05T22:04:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47267947\">Comments</a>"
+  },
+  {
+    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "link": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+    "source": "Hacker News",
+    "published": "2026-03-05T21:35:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47267628\">Comments</a>"
+  },
+  {
     "title": "Structured AI (YC F25) Is Hiring",
     "link": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
     "source": "Hacker News",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47267236\">Comments</a>"
   },
   {
-    "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+    "title": "GLiNER2: Unified Schema-Based Information Extraction",
+    "link": "https://github.com/fastino-ai/GLiNER2",
     "source": "Hacker News",
-    "published": "2026-03-05T19:24:35+00:00",
+    "published": "2026-03-05T20:18:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47266084\">Comments</a>"
-  },
-  {
-    "title": "Let's Get Physical",
-    "link": "https://m4iler.cloud/posts/lets-get-physical/",
-    "source": "Hacker News",
-    "published": "2026-03-05T19:21:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47266030\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47266736\">Comments</a>"
   },
   {
     "title": "OpenTitan Shipping in Production",
@@ -56,38 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47264756\">Comments</a>"
   },
   {
-    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
-    "link": "https://news.ycombinator.com/item?id=47264741",
-    "source": "Hacker News",
-    "published": "2026-03-05T17:43:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47264741\">Comments</a>"
-  },
-  {
-    "title": "The Government Uses Targeted Advertising to Track Your Location",
-    "link": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
-    "source": "Hacker News",
-    "published": "2026-03-05T17:16:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47264341\">Comments</a>"
-  },
-  {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "link": "https://alibaba.github.io/page-agent/",
-    "source": "Hacker News",
-    "published": "2026-03-05T17:01:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47264138\">Comments</a>"
-  },
-  {
-    "title": "Datasets for Reconstructing Visual Perception from Brain Data",
-    "link": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
-    "source": "Hacker News",
-    "published": "2026-03-05T16:26:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263661\">Comments</a>"
-  },
-  {
     "title": "A GitHub Issue Title Compromised 4k Developer Machines",
     "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
     "source": "Hacker News",
@@ -96,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47263595\">Comments</a>"
   },
   {
-    "title": "Wikipedia in read-only mode following mass admin account compromise",
+    "title": "Wikipedia was in read-only mode following mass admin account compromise",
     "link": "https://www.wikimediastatus.net",
     "source": "Hacker News",
     "published": "2026-03-05T16:04:54+00:00",
@@ -112,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47263036\">Comments</a>"
   },
   {
+    "title": "Judge orders government to begin refunding more than $130B in tariffs",
+    "link": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+    "source": "Hacker News",
+    "published": "2026-03-05T14:05:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47261688\">Comments</a>"
+  },
+  {
     "title": "Good software knows when to stop",
     "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47261561\">Comments</a>"
   },
   {
-    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-    "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+    "title": "10% of Firefox crashes are caused by bitflips",
+    "link": "https://mas.to/@gabrielesvelto/116171750653898304",
     "source": "Hacker News",
-    "published": "2026-03-05T07:43:41+00:00",
+    "published": "2026-03-04T19:58:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258801\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47252971\">Comments</a>"
   },
   {
-    "title": "Google Workspace CLI",
-    "link": "https://github.com/googleworkspace/cli",
+    "title": "CBP tapped into the online advertising ecosystem to track peoples\u2019 movements",
+    "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
     "source": "Hacker News",
-    "published": "2026-03-05T00:22:09+00:00",
+    "published": "2026-03-04T15:57:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255881\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47249387\">Comments</a>"
   },
   {
     "title": "A ternary plot of citrus geneology",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47238272\">Comments</a>"
   },
   {
-    "title": "Optimizing Recommendation Systems with JDK's Vector API",
-    "link": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
-    "source": "Hacker News",
-    "published": "2026-03-03T04:33:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47228091\">Comments</a>"
-  },
-  {
     "title": "Hardware hotplug events on Linux, the gory details",
     "link": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
     "source": "Hacker News",
     "published": "2026-03-02T09:26:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47215602\">Comments</a>"
+  },
+  {
+    "title": "Converting dash cam videos into Panoramax images",
+    "link": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
+    "source": "Hacker News",
+    "published": "2026-03-02T08:16:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215180\">Comments</a>"
   }
 ]
