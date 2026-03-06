@@ -1,5 +1,45 @@
 [
   {
+    "title": "Show HN: Moongate \u2013 Ultima Online server emulator in .NET 10 with Lua scripting",
+    "link": "https://github.com/moongate-community/moongatev2",
+    "source": "Hacker News",
+    "published": "2026-03-06T14:22:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275236\">Comments</a>"
+  },
+  {
+    "title": "CT Scans of Health Wearables",
+    "link": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+    "source": "Hacker News",
+    "published": "2026-03-06T14:16:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275152\">Comments</a>"
+  },
+  {
+    "title": "Global Warming Has Accelerated Significantly",
+    "link": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
+    "source": "Hacker News",
+    "published": "2026-03-06T14:10:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275088\">Comments</a>"
+  },
+  {
+    "title": "US economy unexpectedly sheds 92,000 jobs in February",
+    "link": "https://www.bbc.com/news/articles/cjd98091g28o",
+    "source": "Hacker News",
+    "published": "2026-03-06T14:04:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275035\">Comments</a>"
+  },
+  {
+    "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+    "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+    "source": "Hacker News",
+    "published": "2026-03-06T13:30:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47274676\">Comments</a>"
+  },
+  {
     "title": "Hardening Firefox with Anthropic's Red Team",
     "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
     "source": "Hacker News",
@@ -14,14 +54,6 @@
     "published": "2026-03-06T09:22:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47272799\">Comments</a>"
-  },
-  {
-    "title": "If AI has a bright future, why does AI think it doesn't?",
-    "link": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-    "source": "Hacker News",
-    "published": "2026-03-06T09:21:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47272797\">Comments</a>"
   },
   {
     "title": "GPL upgrades via section 14 proxy delegation",
@@ -56,30 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47270784\">Comments</a>"
   },
   {
-    "title": "Where things stand with the Department of War",
-    "link": "https://www.anthropic.com/news/where-stand-department-war",
-    "source": "Hacker News",
-    "published": "2026-03-06T00:40:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47269263\">Comments</a>"
-  },
-  {
-    "title": "Labor market impacts of AI: A new measure and early evidence",
-    "link": "https://www.anthropic.com/research/labor-market-impacts",
-    "source": "Hacker News",
-    "published": "2026-03-05T22:55:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47268391\">Comments</a>"
-  },
-  {
-    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-    "link": "https://406.fail/",
-    "source": "Hacker News",
-    "published": "2026-03-05T22:04:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47267947\">Comments</a>"
-  },
-  {
     "title": "GPT-5.4",
     "link": "https://openai.com/index/introducing-gpt-5-4/",
     "source": "Hacker News",
@@ -104,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47263595\">Comments</a>"
   },
   {
-    "title": "Wikipedia was in read-only mode following mass admin account compromise",
-    "link": "https://www.wikimediastatus.net",
+    "title": "Analytic Fog Rendering with Volumetric Primitives",
+    "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
     "source": "Hacker News",
-    "published": "2026-03-05T16:04:54+00:00",
+    "published": "2026-03-05T16:12:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263323\">Comments</a>"
-  },
-  {
-    "title": "Good software knows when to stop",
-    "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-    "source": "Hacker News",
-    "published": "2026-03-05T13:52:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47261561\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263441\">Comments</a>"
   },
   {
     "title": "10% of Firefox crashes are caused by bitflips",
@@ -128,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47252971\">Comments</a>"
   },
   {
-    "title": "CBP tapped into the online advertising ecosystem to track peoples\u2019 movements",
-    "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+    "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+    "link": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
     "source": "Hacker News",
-    "published": "2026-03-04T15:57:29+00:00",
+    "published": "2026-03-03T14:55:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47249387\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47233336\">Comments</a>"
   },
   {
-    "title": "Ask HN: How many of you hold an amateur radio license in your country?",
-    "link": "https://news.ycombinator.com/item?id=47232091",
+    "title": "Xous security focused open source on 22nm custom silicon",
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support",
     "source": "Hacker News",
-    "published": "2026-03-03T13:34:10+00:00",
+    "published": "2026-03-02T19:22:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47232091\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47222777\">Comments</a>"
+  },
+  {
+    "title": "Payphone Go",
+    "link": "https://walzr.com/payphone-go/",
+    "source": "Hacker News",
+    "published": "2026-03-02T16:45:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220411\">Comments</a>"
   },
   {
     "title": "Image manipulation with convolution using Julia",
@@ -150,13 +158,5 @@
     "published": "2026-03-02T15:31:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47219256\">Comments</a>"
-  },
-  {
-    "title": "Screeching Sound of Peeling Tape",
-    "link": "https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx",
-    "source": "Hacker News",
-    "published": "2026-03-02T14:39:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47218521\">Comments</a>"
   }
 ]
