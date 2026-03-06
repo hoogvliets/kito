@@ -1,5 +1,21 @@
 [
   {
+    "title": "GPL upgrades via section 14 proxy delegation",
+    "link": "https://runxiyu.org/comp/gplproxy/",
+    "source": "Hacker News",
+    "published": "2026-03-06T08:41:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47272534\">Comments</a>"
+  },
+  {
+    "title": "Stardex (YC S21) is hiring customer success engineers",
+    "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+    "source": "Hacker News",
+    "published": "2026-03-06T07:02:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271858\">Comments</a>"
+  },
+  {
     "title": "TeX Live 2026 is available for download now",
     "link": "https://www.tug.org/texlive/acquire.html",
     "source": "Hacker News",
@@ -24,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47270784\">Comments</a>"
   },
   {
-    "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
-    "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+    "title": "How to install and start using LineageOS on your phone",
+    "link": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
     "source": "Hacker News",
-    "published": "2026-03-06T03:56:52+00:00",
+    "published": "2026-03-06T00:43:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47270672\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47269288\">Comments</a>"
   },
   {
     "title": "Where things stand with the Department of War",
@@ -38,14 +54,6 @@
     "published": "2026-03-06T00:40:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47269263\">Comments</a>"
-  },
-  {
-    "title": "Stop Using Grey Text (2025)",
-    "link": "https://catskull.net/stop-using-grey-text.html",
-    "source": "Hacker News",
-    "published": "2026-03-05T23:15:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47268574\">Comments</a>"
   },
   {
     "title": "Labor market impacts of AI: A new measure and early evidence",
@@ -62,14 +70,6 @@
     "published": "2026-03-05T22:04:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47267947\">Comments</a>"
-  },
-  {
-    "title": "Remotely unlocking an encrypted hard disk",
-    "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
-    "source": "Hacker News",
-    "published": "2026-03-05T18:43:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47265521\">Comments</a>"
   },
   {
     "title": "GPT-5.4",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47231201\">Comments</a>"
   },
   {
-    "title": "Nobody ever got fired for using a struct",
-    "link": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+    "title": "Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload",
+    "link": "https://tensorspy.com/",
     "source": "Hacker News",
-    "published": "2026-03-02T23:16:20+00:00",
+    "published": "2026-03-02T18:05:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47225655\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47221645\">Comments</a>"
   },
   {
     "title": "Hardware hotplug events on Linux, the gory details",
