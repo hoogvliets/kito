@@ -1,11 +1,83 @@
 [
   {
+    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+    "link": "https://news.ycombinator.com/item?id=47278443",
+    "source": "Hacker News",
+    "published": "2026-03-06T17:47:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47278443\">Comments</a>"
+  },
+  {
+    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+    "source": "Hacker News",
+    "published": "2026-03-06T17:46:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47278426\">Comments</a>"
+  },
+  {
+    "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+    "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+    "source": "Hacker News",
+    "published": "2026-03-06T17:00:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277679\">Comments</a>"
+  },
+  {
+    "title": "Supertoast tables",
+    "link": "https://hatchet.run/blog/supertoast-tables",
+    "source": "Hacker News",
+    "published": "2026-03-06T16:46:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277420\">Comments</a>"
+  },
+  {
+    "title": "Astra: An open-source observatory control software",
+    "link": "https://github.com/ppp-one/astra",
+    "source": "Hacker News",
+    "published": "2026-03-06T16:14:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276865\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Claude-replay \u2013 A video-like player for Claude Code sessions",
+    "link": "https://github.com/es617/claude-replay",
+    "source": "Hacker News",
+    "published": "2026-03-06T15:57:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276604\">Comments</a>"
+  },
+  {
+    "title": "Entomologists use a particle accelerator to image ants at scale",
+    "link": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+    "source": "Hacker News",
+    "published": "2026-03-06T15:53:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276539\">Comments</a>"
+  },
+  {
+    "title": "Paul Brainerd, Founder of Aldus PageMaker, has died",
+    "link": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+    "source": "Hacker News",
+    "published": "2026-03-06T15:33:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276220\">Comments</a>"
+  },
+  {
     "title": "Show HN: Moongate \u2013 Ultima Online server emulator in .NET 10 with Lua scripting",
     "link": "https://github.com/moongate-community/moongatev2",
     "source": "Hacker News",
     "published": "2026-03-06T14:22:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275236\">Comments</a>"
+  },
+  {
+    "title": "Good Bad ISPs",
+    "link": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
+    "source": "Hacker News",
+    "published": "2026-03-06T14:22:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275230\">Comments</a>"
   },
   {
     "title": "CT Scans of Health Wearables",
@@ -16,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275152\">Comments</a>"
   },
   {
-    "title": "Global Warming Has Accelerated Significantly",
+    "title": "Global warming has accelerated significantly",
     "link": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
     "source": "Hacker News",
     "published": "2026-03-06T14:10:03+00:00",
@@ -24,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275088\">Comments</a>"
   },
   {
-    "title": "US economy unexpectedly sheds 92,000 jobs in February",
-    "link": "https://www.bbc.com/news/articles/cjd98091g28o",
-    "source": "Hacker News",
-    "published": "2026-03-06T14:04:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275035\">Comments</a>"
-  },
-  {
-    "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+    "title": "Workers who love \u2018synergizing paradigms\u2019 might be bad at their jobs",
     "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
     "source": "Hacker News",
     "published": "2026-03-06T13:30:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47274676\">Comments</a>"
-  },
-  {
-    "title": "Hardening Firefox with Anthropic's Red Team",
-    "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "source": "Hacker News",
-    "published": "2026-03-06T11:53:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
   },
   {
     "title": "LibreSprite \u2013 open-source pixel art editor",
@@ -56,38 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47272799\">Comments</a>"
   },
   {
-    "title": "GPL upgrades via section 14 proxy delegation",
-    "link": "https://runxiyu.org/comp/gplproxy/",
-    "source": "Hacker News",
-    "published": "2026-03-06T08:41:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47272534\">Comments</a>"
-  },
-  {
-    "title": "Stardex (YC S21) is hiring customer success engineers",
-    "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-    "source": "Hacker News",
-    "published": "2026-03-06T07:02:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271858\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Swarm \u2013 Program a colony of 200 ants using a custom assembly language",
-    "link": "https://dev.moment.com/",
-    "source": "Hacker News",
-    "published": "2026-03-06T04:15:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47270807\">Comments</a>"
-  },
-  {
-    "title": "System76 on Age Verification Laws",
-    "link": "https://blog.system76.com/post/system76-on-age-verification/",
-    "source": "Hacker News",
-    "published": "2026-03-06T04:12:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47270784\">Comments</a>"
-  },
-  {
     "title": "GPT-5.4",
     "link": "https://openai.com/index/introducing-gpt-5-4/",
     "source": "Hacker News",
@@ -96,23 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47265045\">Comments</a>"
   },
   {
-    "title": "The Brand Age",
-    "link": "https://paulgraham.com/brandage.html",
-    "source": "Hacker News",
-    "published": "2026-03-05T17:44:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47264756\">Comments</a>"
-  },
-  {
-    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-    "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-    "source": "Hacker News",
-    "published": "2026-03-05T16:22:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263595\">Comments</a>"
-  },
-  {
-    "title": "Analytic Fog Rendering with Volumetric Primitives",
+    "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
     "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
     "source": "Hacker News",
     "published": "2026-03-05T16:12:44+00:00",
@@ -128,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47252971\">Comments</a>"
   },
   {
-    "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
-    "link": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
+    "title": "Show HN: A trainable, modular electronic nose for industrial use",
+    "link": "https://sniphi.com/",
     "source": "Hacker News",
-    "published": "2026-03-03T14:55:57+00:00",
+    "published": "2026-03-03T16:34:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47233336\">Comments</a>"
-  },
-  {
-    "title": "Xous security focused open source on 22nm custom silicon",
-    "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support",
-    "source": "Hacker News",
-    "published": "2026-03-02T19:22:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47222777\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47234907\">Comments</a>"
   },
   {
     "title": "Payphone Go",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47220411\">Comments</a>"
   },
   {
-    "title": "Image manipulation with convolution using Julia",
-    "link": "https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5",
+    "title": "Open Camera is a FOSS Camera App for Android",
+    "link": "https://opencamera.org.uk/",
     "source": "Hacker News",
-    "published": "2026-03-02T15:31:06+00:00",
+    "published": "2026-03-02T15:46:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219256\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219462\">Comments</a>"
   }
 ]
