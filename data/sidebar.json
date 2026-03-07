@@ -1,11 +1,59 @@
 [
   {
-    "title": "Why it takes you and an elephant the same amount of time to poop",
-    "link": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
+    "title": "Plasma Bigscreen \u2013 10-foot interface for KDE plasma",
+    "link": "https://plasma-bigscreen.org",
     "source": "Hacker News",
-    "published": "2026-03-06T20:19:26+00:00",
+    "published": "2026-03-06T23:59:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47280550\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282736\">Comments</a>"
+  },
+  {
+    "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
+    "link": "https://thelydianstone.com/volume-2",
+    "source": "Hacker News",
+    "published": "2026-03-06T23:17:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282390\">Comments</a>"
+  },
+  {
+    "title": "C# strings silently kill your SQL Server indexes in Dapper",
+    "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+    "source": "Hacker News",
+    "published": "2026-03-06T22:55:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282230\">Comments</a>"
+  },
+  {
+    "title": "this css proves me human",
+    "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "source": "Hacker News",
+    "published": "2026-03-06T21:52:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281593\">Comments</a>"
+  },
+  {
+    "title": "Art Bits from HyperCard",
+    "link": "https://archives.somnolescent.net/web/mari_v2/junk/hypercard/",
+    "source": "Hacker News",
+    "published": "2026-03-06T21:43:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281485\">Comments</a>"
+  },
+  {
+    "title": "The Shady World of IP Leasing",
+    "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+    "source": "Hacker News",
+    "published": "2026-03-06T21:19:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281221\">Comments</a>"
+  },
+  {
+    "title": "The worst acquisition in history, again",
+    "link": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+    "source": "Hacker News",
+    "published": "2026-03-06T21:07:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281080\">Comments</a>"
   },
   {
     "title": "Ada 2022",
@@ -14,14 +62,6 @@
     "published": "2026-03-06T20:03:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47280352\">Comments</a>"
-  },
-  {
-    "title": "Anthropic, Please Make a New Slack",
-    "link": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
-    "source": "Hacker News",
-    "published": "2026-03-06T19:52:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47280200\">Comments</a>"
   },
   {
     "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
@@ -40,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47278426\">Comments</a>"
   },
   {
-    "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
-    "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
-    "source": "Hacker News",
-    "published": "2026-03-06T17:00:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277679\">Comments</a>"
-  },
-  {
     "title": "Astra: An open-source observatory control software",
     "link": "https://github.com/ppp-one/astra",
     "source": "Hacker News",
@@ -64,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47276539\">Comments</a>"
   },
   {
-    "title": "A tool that removes censorship from open-weight LLMs",
-    "link": "https://github.com/elder-plinius/OBLITERATUS",
-    "source": "Hacker News",
-    "published": "2026-03-06T14:27:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275291\">Comments</a>"
-  },
-  {
     "title": "Show HN: Moongate \u2013 Ultima Online server emulator in .NET 10 with Lua scripting",
     "link": "https://github.com/moongate-community/moongatev2",
     "source": "Hacker News",
     "published": "2026-03-06T14:22:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275236\">Comments</a>"
-  },
-  {
-    "title": "Good Bad ISPs",
-    "link": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
-    "source": "Hacker News",
-    "published": "2026-03-06T14:22:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275230\">Comments</a>"
   },
   {
     "title": "CT Scans of Health Wearables",
@@ -96,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275152\">Comments</a>"
   },
   {
-    "title": "Workers who love \u2018synergizing paradigms\u2019 might be bad at their jobs",
-    "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-    "source": "Hacker News",
-    "published": "2026-03-06T13:30:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47274676\">Comments</a>"
-  },
-  {
     "title": "Hardening Firefox with Anthropic's Red Team",
     "link": "https://www.anthropic.com/news/mozilla-firefox-security",
     "source": "Hacker News",
     "published": "2026-03-06T11:53:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
-  },
-  {
-    "title": "LibreSprite \u2013 open-source pixel art editor",
-    "link": "https://libresprite.github.io/",
-    "source": "Hacker News",
-    "published": "2026-03-06T09:22:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47272799\">Comments</a>"
-  },
-  {
-    "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
-    "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
-    "source": "Hacker News",
-    "published": "2026-03-05T16:12:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263441\">Comments</a>"
   },
   {
     "title": "Payphone Go",
@@ -136,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47220411\">Comments</a>"
   },
   {
-    "title": "Open Camera is a FOSS Camera App for Android",
+    "title": "Open Camera is a FOSS camera app for Android",
     "link": "https://opencamera.org.uk/",
     "source": "Hacker News",
     "published": "2026-03-02T15:46:51+00:00",
@@ -150,6 +142,14 @@
     "published": "2026-03-02T08:06:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47215112\">Comments</a>"
+  },
+  {
+    "title": "Math Notepad",
+    "link": "https://mathnotepad.com",
+    "source": "Hacker News",
+    "published": "2026-03-02T07:01:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214708\">Comments</a>"
   },
   {
     "title": "Apache Otava",
