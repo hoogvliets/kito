@@ -1,11 +1,27 @@
 [
   {
-    "title": "Verification debt: the hidden cost of AI-generated code",
-    "link": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
+    "title": "CasNum",
+    "link": "https://github.com/0x0mer/CasNum",
     "source": "Hacker News",
-    "published": "2026-03-07T17:08:30+00:00",
+    "published": "2026-03-07T20:43:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47289406\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47291292\">Comments</a>"
+  },
+  {
+    "title": "War Prediction Markets Are a National-Security Threat",
+    "link": "https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/",
+    "source": "Hacker News",
+    "published": "2026-03-07T20:09:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47291036\">Comments</a>"
+  },
+  {
+    "title": "We're Training Students to Write Worse to Prove They're Not Robots",
+    "link": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
+    "source": "Hacker News",
+    "published": "2026-03-07T19:01:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47290457\">Comments</a>"
   },
   {
     "title": "SigNoz (YC W21, open source Datadog) Is Hiring across roles",
@@ -22,14 +38,6 @@
     "published": "2026-03-07T16:55:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47289311\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Argus \u2013 VSCode debugger for Claude Code sessions",
-    "link": "https://github.com/yessGlory17/argus",
-    "source": "Hacker News",
-    "published": "2026-03-07T15:38:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47288571\">Comments</a>"
   },
   {
     "title": "The Millisecond That Could Change Cancer Treatment",
@@ -54,14 +62,6 @@
     "published": "2026-03-07T14:10:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47287792\">Comments</a>"
-  },
-  {
-    "title": "Tinnitus Is Connected to Sleep",
-    "link": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
-    "source": "Hacker News",
-    "published": "2026-03-07T14:06:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47287763\">Comments</a>"
   },
   {
     "title": "The yoghurt delivery women combatting loneliness in Japan",
@@ -104,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47282736\">Comments</a>"
   },
   {
-    "title": "Helix: A post-modern text editor",
-    "link": "https://helix-editor.com/",
-    "source": "Hacker News",
-    "published": "2026-03-06T23:53:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282701\">Comments</a>"
-  },
-  {
-    "title": "this css proves me human",
-    "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
-    "source": "Hacker News",
-    "published": "2026-03-06T21:52:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281593\">Comments</a>"
-  },
-  {
     "title": "Re-creating the complex cuisine of prehistoric Europeans",
     "link": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
     "source": "Hacker News",
     "published": "2026-03-06T20:57:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47280958\">Comments</a>"
+  },
+  {
+    "title": "Dumping Lego NXT firmware off of an existing brick",
+    "link": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+    "source": "Hacker News",
+    "published": "2026-03-06T07:17:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271988\">Comments</a>"
   },
   {
     "title": "Self-Portrait by Ernst Mach (1886)",
@@ -136,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47268838\">Comments</a>"
   },
   {
-    "title": "Bourdieu's theory of taste: a grumbling abr\u00e9g\u00e9",
+    "title": "Bourdieu's theory of taste: a grumbling abr\u00e9g\u00e9 (2023)",
     "link": "https://dynomight.net/bourdieu/",
     "source": "Hacker News",
     "published": "2026-03-05T10:33:19+00:00",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47260028\">Comments</a>"
   },
   {
-    "title": "48x32, a 1536 LED Game Computer (2023)",
-    "link": "https://jacquesmattheij.com/48x32-introduction/",
+    "title": "macOS code injection for fun and no profit (2024)",
+    "link": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
     "source": "Hacker News",
-    "published": "2026-03-05T00:10:42+00:00",
+    "published": "2026-03-04T17:05:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255798\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47250500\">Comments</a>"
+  },
+  {
+    "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+    "link": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+    "source": "Hacker News",
+    "published": "2026-03-04T14:16:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47247644\">Comments</a>"
   },
   {
     "title": "Compiling Prolog to Forth [pdf]",
