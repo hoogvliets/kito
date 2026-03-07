@@ -1,13 +1,5 @@
 [
   {
-    "title": "Can a wealthy family change the course of a deadly brain disease?",
-    "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-    "source": "Hacker News",
-    "published": "2026-03-07T03:06:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284061\">Comments</a>"
-  },
-  {
     "title": "UUID package coming to Go standard library",
     "link": "https://github.com/golang/go/issues/62026",
     "source": "Hacker News",
@@ -32,14 +24,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47282807\">Comments</a>"
   },
   {
-    "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
-    "link": "https://news.ycombinator.com/item?id=47282777",
-    "source": "Hacker News",
-    "published": "2026-03-07T00:05:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282777\">Comments</a>"
-  },
-  {
     "title": "Plasma Bigscreen \u2013 10-foot interface for KDE plasma",
     "link": "https://plasma-bigscreen.org",
     "source": "Hacker News",
@@ -48,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47282736\">Comments</a>"
   },
   {
-    "title": "C# strings silently kill your SQL Server indexes in Dapper",
-    "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+    "title": "Helix: A post-modern text editor",
+    "link": "https://helix-editor.com/",
     "source": "Hacker News",
-    "published": "2026-03-06T22:55:37+00:00",
+    "published": "2026-03-06T23:53:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282230\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282701\">Comments</a>"
   },
   {
     "title": "this css proves me human",
@@ -64,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47281593\">Comments</a>"
   },
   {
-    "title": "The Shady World of IP Leasing",
+    "title": "The shady world of IP leasing",
     "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
     "source": "Hacker News",
     "published": "2026-03-06T21:19:25+00:00",
@@ -112,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275152\">Comments</a>"
   },
   {
-    "title": "Hardening Firefox with Anthropic's Red Team",
-    "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "title": "Modernizing swapping: virtual swap spaces",
+    "link": "https://lwn.net/Articles/1059201/",
     "source": "Hacker News",
-    "published": "2026-03-06T11:53:18+00:00",
+    "published": "2026-03-05T18:47:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
-  },
-  {
-    "title": "Show HN: 1v1 coding game that LLMs struggle with",
-    "link": "https://yare.io",
-    "source": "Hacker News",
-    "published": "2026-03-06T06:47:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271751\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47265580\">Comments</a>"
   },
   {
     "title": "Galileo's handwritten notes found in ancient astronomy text",
@@ -136,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47263938\">Comments</a>"
   },
   {
-    "title": "Maybe There's a Pattern Here?",
+    "title": "Maybe there's a pattern here?",
     "link": "https://dynomight.net/pattern/",
     "source": "Hacker News",
     "published": "2026-03-05T02:58:10+00:00",
@@ -150,6 +126,30 @@
     "published": "2026-03-04T13:21:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247030\">Comments</a>"
+  },
+  {
+    "title": "What canceled my Go context?",
+    "link": "https://rednafi.com/go/context-cancellation-cause/",
+    "source": "Hacker News",
+    "published": "2026-03-04T09:00:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244882\">Comments</a>"
+  },
+  {
+    "title": "The Longing (1999)",
+    "link": "https://www.cluetrain.com/book/longing.html",
+    "source": "Hacker News",
+    "published": "2026-03-03T16:19:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47234689\">Comments</a>"
+  },
+  {
+    "title": "Working and Communicating with Japanese Engineers",
+    "link": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+    "source": "Hacker News",
+    "published": "2026-03-03T15:02:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47233441\">Comments</a>"
   },
   {
     "title": "Querying 3B Vectors",
