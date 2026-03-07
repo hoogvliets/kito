@@ -1,19 +1,51 @@
 [
   {
+    "title": "Can a wealthy family change the course of a deadly brain disease?",
+    "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+    "source": "Hacker News",
+    "published": "2026-03-07T03:06:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284061\">Comments</a>"
+  },
+  {
+    "title": "UUID package coming to Go standard library",
+    "link": "https://github.com/golang/go/issues/62026",
+    "source": "Hacker News",
+    "published": "2026-03-07T02:03:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47283665\">Comments</a>"
+  },
+  {
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "source": "Hacker News",
+    "published": "2026-03-07T01:17:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47283337\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
+    "link": "https://github.com/c0m4r/kula",
+    "source": "Hacker News",
+    "published": "2026-03-07T00:07:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282807\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+    "link": "https://news.ycombinator.com/item?id=47282777",
+    "source": "Hacker News",
+    "published": "2026-03-07T00:05:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282777\">Comments</a>"
+  },
+  {
     "title": "Plasma Bigscreen \u2013 10-foot interface for KDE plasma",
     "link": "https://plasma-bigscreen.org",
     "source": "Hacker News",
     "published": "2026-03-06T23:59:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47282736\">Comments</a>"
-  },
-  {
-    "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
-    "link": "https://thelydianstone.com/volume-2",
-    "source": "Hacker News",
-    "published": "2026-03-06T23:17:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282390\">Comments</a>"
   },
   {
     "title": "C# strings silently kill your SQL Server indexes in Dapper",
@@ -32,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47281593\">Comments</a>"
   },
   {
-    "title": "Art Bits from HyperCard",
-    "link": "https://archives.somnolescent.net/web/mari_v2/junk/hypercard/",
-    "source": "Hacker News",
-    "published": "2026-03-06T21:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281485\">Comments</a>"
-  },
-  {
     "title": "The Shady World of IP Leasing",
     "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
     "source": "Hacker News",
     "published": "2026-03-06T21:19:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47281221\">Comments</a>"
-  },
-  {
-    "title": "The worst acquisition in history, again",
-    "link": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
-    "source": "Hacker News",
-    "published": "2026-03-06T21:07:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281080\">Comments</a>"
-  },
-  {
-    "title": "Ada 2022",
-    "link": "https://www.adaic.org/ada-resources/standards/ada22/",
-    "source": "Hacker News",
-    "published": "2026-03-06T20:03:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47280352\">Comments</a>"
   },
   {
     "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
@@ -78,14 +86,6 @@
     "published": "2026-03-06T17:46:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47278426\">Comments</a>"
-  },
-  {
-    "title": "Astra: An open-source observatory control software",
-    "link": "https://github.com/ppp-one/astra",
-    "source": "Hacker News",
-    "published": "2026-03-06T16:14:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276865\">Comments</a>"
   },
   {
     "title": "Entomologists use a particle accelerator to image ants at scale",
@@ -120,43 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
   },
   {
-    "title": "Payphone Go",
-    "link": "https://walzr.com/payphone-go/",
+    "title": "Show HN: 1v1 coding game that LLMs struggle with",
+    "link": "https://yare.io",
     "source": "Hacker News",
-    "published": "2026-03-02T16:45:43+00:00",
+    "published": "2026-03-06T06:47:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47220411\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271751\">Comments</a>"
   },
   {
-    "title": "Open Camera is a FOSS camera app for Android",
-    "link": "https://opencamera.org.uk/",
+    "title": "A Modular Robot Dashboard",
+    "link": "https://github.com/transitiverobotics/transact",
     "source": "Hacker News",
-    "published": "2026-03-02T15:46:51+00:00",
+    "published": "2026-03-05T22:10:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47219462\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47267998\">Comments</a>"
   },
   {
-    "title": "Triplet Superconductor",
-    "link": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+    "title": "Galileo's handwritten notes found in ancient astronomy text",
+    "link": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
     "source": "Hacker News",
-    "published": "2026-03-02T08:06:07+00:00",
+    "published": "2026-03-05T16:47:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47215112\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47263938\">Comments</a>"
   },
   {
-    "title": "Math Notepad",
-    "link": "https://mathnotepad.com",
+    "title": "Maybe There's a Pattern Here?",
+    "link": "https://dynomight.net/pattern/",
     "source": "Hacker News",
-    "published": "2026-03-02T07:01:19+00:00",
+    "published": "2026-03-05T02:58:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47214708\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256941\">Comments</a>"
   },
   {
-    "title": "Apache Otava",
-    "link": "https://otava.apache.org/",
+    "title": "What canceled my Go context?",
+    "link": "https://rednafi.com/go/context-cancellation-cause/",
     "source": "Hacker News",
-    "published": "2026-03-01T14:27:12+00:00",
+    "published": "2026-03-04T09:00:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47206990\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244882\">Comments</a>"
   }
 ]
