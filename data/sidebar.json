@@ -1,5 +1,37 @@
 [
   {
+    "title": "Ki Editor - an editor that operates on the AST",
+    "link": "https://ki-editor.org/",
+    "source": "Hacker News",
+    "published": "2026-03-07T10:29:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47286311\">Comments</a>"
+  },
+  {
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "source": "Hacker News",
+    "published": "2026-03-07T09:18:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47285960\">Comments</a>"
+  },
+  {
+    "title": "QGIS 4.0",
+    "link": "https://changelog.qgis.org/en/version/4.0/",
+    "source": "Hacker News",
+    "published": "2026-03-07T08:53:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47285846\">Comments</a>"
+  },
+  {
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "source": "Hacker News",
+    "published": "2026-03-07T07:43:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47285422\">Comments</a>"
+  },
+  {
     "title": "UUID package coming to Go standard library",
     "link": "https://github.com/golang/go/issues/62026",
     "source": "Hacker News",
@@ -16,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47283337\">Comments</a>"
   },
   {
-    "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
-    "link": "https://github.com/c0m4r/kula",
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "link": "https://news.ycombinator.com/item?id=47282777",
     "source": "Hacker News",
-    "published": "2026-03-07T00:07:25+00:00",
+    "published": "2026-03-07T00:05:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282807\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47282777\">Comments</a>"
   },
   {
     "title": "Plasma Bigscreen \u2013 10-foot interface for KDE plasma",
@@ -48,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47281593\">Comments</a>"
   },
   {
-    "title": "The shady world of IP leasing",
-    "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
-    "source": "Hacker News",
-    "published": "2026-03-06T21:19:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47281221\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-    "link": "https://news.ycombinator.com/item?id=47278980",
-    "source": "Hacker News",
-    "published": "2026-03-06T18:26:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47278980\">Comments</a>"
-  },
-  {
     "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
     "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
     "source": "Hacker News",
     "published": "2026-03-06T17:46:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47278426\">Comments</a>"
-  },
-  {
-    "title": "Entomologists use a particle accelerator to image ants at scale",
-    "link": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-    "source": "Hacker News",
-    "published": "2026-03-06T15:53:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276539\">Comments</a>"
   },
   {
     "title": "Show HN: Moongate \u2013 Ultima Online server emulator in .NET 10 with Lua scripting",
@@ -88,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47275236\">Comments</a>"
   },
   {
-    "title": "CT Scans of Health Wearables",
-    "link": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-    "source": "Hacker News",
-    "published": "2026-03-06T14:16:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47275152\">Comments</a>"
-  },
-  {
     "title": "Modernizing swapping: virtual swap spaces",
     "link": "https://lwn.net/Articles/1059201/",
     "source": "Hacker News",
     "published": "2026-03-05T18:47:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47265580\">Comments</a>"
+  },
+  {
+    "title": "My application programmer instincts failed when debugging assembler",
+    "link": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+    "source": "Hacker News",
+    "published": "2026-03-05T17:43:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47264742\">Comments</a>"
   },
   {
     "title": "Galileo's handwritten notes found in ancient astronomy text",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47263938\">Comments</a>"
   },
   {
-    "title": "Maybe there's a pattern here?",
-    "link": "https://dynomight.net/pattern/",
+    "title": "48x32, a 1536 LED Game Computer",
+    "link": "https://jacquesmattheij.com/48x32-introduction/",
     "source": "Hacker News",
-    "published": "2026-03-05T02:58:10+00:00",
+    "published": "2026-03-05T00:10:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256941\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255798\">Comments</a>"
   },
   {
     "title": "Editing changes in patch format with Jujutsu",
@@ -128,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247030\">Comments</a>"
   },
   {
-    "title": "What canceled my Go context?",
-    "link": "https://rednafi.com/go/context-cancellation-cause/",
+    "title": "Lock Scroll with a Vengeance",
+    "link": "https://unsung.aresluna.org/lock-scroll-with-a-vengeance/",
     "source": "Hacker News",
-    "published": "2026-03-04T09:00:56+00:00",
+    "published": "2026-03-04T03:42:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244882\">Comments</a>"
-  },
-  {
-    "title": "The Longing (1999)",
-    "link": "https://www.cluetrain.com/book/longing.html",
-    "source": "Hacker News",
-    "published": "2026-03-03T16:19:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47234689\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47242775\">Comments</a>"
   },
   {
     "title": "Working and Communicating with Japanese Engineers",
