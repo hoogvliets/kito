@@ -1,5 +1,37 @@
 [
   {
+    "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+    "link": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+    "source": "Hacker News",
+    "published": "2026-03-08T14:09:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47297453\">Comments</a>"
+  },
+  {
+    "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+    "link": "https://github.com/kantord/blogtato",
+    "source": "Hacker News",
+    "published": "2026-03-08T13:16:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47297091\">Comments</a>"
+  },
+  {
+    "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+    "link": "https://xcancel.com/theflow0/status/2030011206040256841",
+    "source": "Hacker News",
+    "published": "2026-03-08T12:40:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296849\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+    "link": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+    "source": "Hacker News",
+    "published": "2026-03-08T11:04:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296355\">Comments</a>"
+  },
+  {
     "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
     "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
     "source": "Hacker News",
@@ -72,60 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47291292\">Comments</a>"
   },
   {
-    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-    "link": "https://github.com/karpathy/autoresearch",
+    "title": "Some Words on WigglyPaint",
+    "link": "https://beyondloom.com/blog/onwigglypaint.html",
     "source": "Hacker News",
-    "published": "2026-03-07T20:22:45+00:00",
+    "published": "2026-03-07T01:21:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47291123\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47283365\">Comments</a>"
   },
   {
-    "title": "The surprising whimsy of the Time Zone Database",
-    "link": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+    "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+    "link": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
     "source": "Hacker News",
-    "published": "2026-03-07T18:32:05+00:00",
+    "published": "2026-03-05T07:36:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47290198\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47258737\">Comments</a>"
   },
   {
-    "title": "A decade of Docker containers",
-    "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "title": "Why can't you tune your guitar? (2019)",
+    "link": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
     "source": "Hacker News",
-    "published": "2026-03-07T16:55:18+00:00",
+    "published": "2026-03-04T22:30:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47289311\">Comments</a>"
-  },
-  {
-    "title": "Yoghurt delivery women combatting loneliness in Japan",
-    "link": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-    "source": "Hacker News",
-    "published": "2026-03-07T13:12:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47287344\">Comments</a>"
-  },
-  {
-    "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-    "link": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-    "source": "Hacker News",
-    "published": "2026-03-06T07:17:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47271988\">Comments</a>"
-  },
-  {
-    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-    "link": "https://thecloudlet.github.io/blog/project/emacs-02/",
-    "source": "Hacker News",
-    "published": "2026-03-05T10:23:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47259961\">Comments</a>"
-  },
-  {
-    "title": "Digital Iris [video]",
-    "link": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
-    "source": "Hacker News",
-    "published": "2026-03-04T16:16:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47249685\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47254896\">Comments</a>"
   },
   {
     "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
