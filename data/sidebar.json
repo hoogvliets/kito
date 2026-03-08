@@ -1,27 +1,43 @@
 [
   {
-    "title": "Ghostmd: Ghostty but for Markdown Notes",
-    "link": "https://mimoo.github.io/ghostmd/",
+    "title": "Will Claude Code ruin our team?",
+    "link": "https://justinjackson.ca/claude-code-ruin",
     "source": "Hacker News",
-    "published": "2026-03-08T00:07:49+00:00",
+    "published": "2026-03-08T02:59:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47292841\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293938\">Comments</a>"
   },
   {
-    "title": "Why developers using AI are working longer hours",
-    "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+    "title": "MonoGame: A .NET framework for making cross-platform games",
+    "link": "https://github.com/MonoGame/MonoGame",
     "source": "Hacker News",
-    "published": "2026-03-07T23:39:04+00:00",
+    "published": "2026-03-08T02:16:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47292574\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293682\">Comments</a>"
   },
   {
-    "title": "Put the zip code first",
-    "link": "https://zipcodefirst.com",
+    "title": "They all said Hormuz closure would be brief. What if they were wrong?",
+    "link": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
     "source": "Hacker News",
-    "published": "2026-03-07T23:26:26+00:00",
+    "published": "2026-03-08T01:46:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47292485\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293482\">Comments</a>"
+  },
+  {
+    "title": "\"Warn about PyPy being unmaintained\"",
+    "link": "https://github.com/astral-sh/uv/pull/17643",
+    "source": "Hacker News",
+    "published": "2026-03-08T01:35:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293415\">Comments</a>"
+  },
+  {
+    "title": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
+    "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+    "source": "Hacker News",
+    "published": "2026-03-08T00:44:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293119\">Comments</a>"
   },
   {
     "title": "Lisp-style C++ template meta programming",
@@ -96,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47288533\">Comments</a>"
   },
   {
-    "title": "Ki Editor - an editor that operates on the AST",
-    "link": "https://ki-editor.org/",
+    "title": "Best Performance of a C++ Singleton",
+    "link": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
     "source": "Hacker News",
-    "published": "2026-03-07T10:29:13+00:00",
+    "published": "2026-03-06T13:40:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47286311\">Comments</a>"
-  },
-  {
-    "title": "Overheads (2023)",
-    "link": "https://blog.xoria.org/hidden-overheads/",
-    "source": "Hacker News",
-    "published": "2026-03-06T15:29:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47274768\">Comments</a>"
   },
   {
     "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47271988\">Comments</a>"
   },
   {
-    "title": "Package managers need to cool down",
-    "link": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html",
+    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+    "link": "https://thecloudlet.github.io/blog/project/emacs-02/",
     "source": "Hacker News",
-    "published": "2026-03-05T00:21:13+00:00",
+    "published": "2026-03-05T10:23:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47255869\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47259961\">Comments</a>"
   },
   {
     "title": "macOS code injection for fun and no profit (2024)",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47250500\">Comments</a>"
   },
   {
+    "title": "Show HN: A weird thing that detects your pulse from the browser video",
+    "link": "https://pulsefeedback.io/",
+    "source": "Hacker News",
+    "published": "2026-03-04T14:24:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47247762\">Comments</a>"
+  },
+  {
     "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
     "link": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
     "source": "Hacker News",
     "published": "2026-03-04T14:16:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247644\">Comments</a>"
-  },
-  {
-    "title": "How important was the Battle of Hastings?",
-    "link": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
-    "source": "Hacker News",
-    "published": "2026-03-04T07:23:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244274\">Comments</a>"
-  },
-  {
-    "title": "The influence of anxiety: Harold Bloom and literary inheritance",
-    "link": "https://thepointmag.com/examined-life/the-influence-of-anxiety/",
-    "source": "Hacker News",
-    "published": "2026-03-04T07:02:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244099\">Comments</a>"
   }
 ]
