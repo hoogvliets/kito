@@ -1,5 +1,29 @@
 [
   {
+    "title": "Llm9p: LLM as a Plan 9 file system",
+    "link": "https://github.com/NERVsystems/llm9p",
+    "source": "Hacker News",
+    "published": "2026-03-08T08:52:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295708\">Comments</a>"
+  },
+  {
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+    "link": "https://arxiv.org/abs/2603.03823",
+    "source": "Hacker News",
+    "published": "2026-03-08T08:11:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295537\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
+    "link": "https://curiosity-telescope.vercel.app/",
+    "source": "Hacker News",
+    "published": "2026-03-08T07:16:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295279\">Comments</a>"
+  },
+  {
     "title": "MonoGame: A .NET framework for making cross-platform games",
     "link": "https://github.com/MonoGame/MonoGame",
     "source": "Hacker News",
@@ -30,22 +54,6 @@
     "published": "2026-03-07T23:32:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47292522\">Comments</a>"
-  },
-  {
-    "title": "Lisp-style C++ template meta programming",
-    "link": "https://github.com/mistivia/lmp",
-    "source": "Hacker News",
-    "published": "2026-03-07T22:21:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47292029\">Comments</a>"
-  },
-  {
-    "title": "The stagnancy of publishing and the disappearance of the midlist",
-    "link": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
-    "source": "Hacker News",
-    "published": "2026-03-07T21:10:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47291525\">Comments</a>"
   },
   {
     "title": "CasNum",
@@ -96,7 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47287344\">Comments</a>"
   },
   {
-    "title": "Best Performance of a C++ Singleton",
+    "title": "Best performance of a C++ singleton",
     "link": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
     "source": "Hacker News",
     "published": "2026-03-06T13:40:16+00:00",
@@ -112,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47271988\">Comments</a>"
   },
   {
-    "title": "Ten Years of Deploying to Production",
+    "title": "Ten years of deploying to production",
     "link": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
     "source": "Hacker News",
     "published": "2026-03-05T14:25:46+00:00",
@@ -126,14 +134,6 @@
     "published": "2026-03-05T10:23:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47259961\">Comments</a>"
-  },
-  {
-    "title": "macOS code injection for fun and no profit (2024)",
-    "link": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
-    "source": "Hacker News",
-    "published": "2026-03-04T17:05:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47250500\">Comments</a>"
   },
   {
     "title": "Show HN: A weird thing that detects your pulse from the browser video",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47247644\">Comments</a>"
   },
   {
-    "title": "How important was the Battle of Hastings?",
-    "link": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
+    "title": "From RGB to L*a*b* color space (2024)",
+    "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
     "source": "Hacker News",
-    "published": "2026-03-04T07:23:49+00:00",
+    "published": "2026-03-04T09:24:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47244274\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47245061\">Comments</a>"
   }
 ]
