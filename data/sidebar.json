@@ -1,11 +1,19 @@
 [
   {
-    "title": "US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]",
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
     "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
     "source": "Hacker News",
     "published": "2026-03-09T06:28:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47305461\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mcp2cli \u2013 One CLI for every API, 96-99% fewer tokens than native MCP",
+    "link": "https://github.com/knowsuchagency/mcp2cli",
+    "source": "Hacker News",
+    "published": "2026-03-09T05:18:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47305149\">Comments</a>"
   },
   {
     "title": "The death of social media is the renaissance of RSS (2025)",
@@ -40,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47302463\">Comments</a>"
   },
   {
-    "title": "Blacksky AppView",
-    "link": "https://github.com/blacksky-algorithms/atproto",
-    "source": "Hacker News",
-    "published": "2026-03-08T21:40:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47301808\">Comments</a>"
-  },
-  {
     "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
     "link": "https://github.com/Rabrg/artificial-life",
     "source": "Hacker News",
@@ -78,14 +78,6 @@
     "published": "2026-03-08T18:18:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47299606\">Comments</a>"
-  },
-  {
-    "title": "WSL Manager",
-    "link": "https://github.com/bostrot/wsl2-distro-manager",
-    "source": "Hacker News",
-    "published": "2026-03-08T18:08:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47299505\">Comments</a>"
   },
   {
     "title": "My Homelab Setup",
@@ -120,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47294582\">Comments</a>"
   },
   {
-    "title": "Pushing and Pulling: Three reactivity algorithms",
-    "link": "https://jonathan-frere.com/posts/reactivity-algorithms/",
-    "source": "Hacker News",
-    "published": "2026-03-08T00:57:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47293195\">Comments</a>"
-  },
-  {
     "title": "Microscopes can see video on a laserdisc",
     "link": "https://www.youtube.com/watch?v=qZuR-772cks",
     "source": "Hacker News",
@@ -136,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47291876\">Comments</a>"
   },
   {
-    "title": "Triumph of the toons: how animation came to rule the box office",
-    "link": "https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office",
+    "title": "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
+    "link": "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md",
     "source": "Hacker News",
-    "published": "2026-03-05T20:43:30+00:00",
+    "published": "2026-03-07T13:13:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47267022\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47287350\">Comments</a>"
   },
   {
     "title": "Every single board computer I tested in 2025",
@@ -150,6 +134,22 @@
     "published": "2026-03-05T12:24:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47260812\">Comments</a>"
+  },
+  {
+    "title": "Grammarly is offering \u2018expert\u2019 AI reviews from famous dead and living writers",
+    "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+    "source": "Hacker News",
+    "published": "2026-03-05T09:04:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47259366\">Comments</a>"
+  },
+  {
+    "title": "My \u201cgrand vision\u201d for Rust",
+    "link": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+    "source": "Hacker News",
+    "published": "2026-03-05T01:37:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47256376\">Comments</a>"
   },
   {
     "title": "Why can't you tune your guitar? (2019)",
