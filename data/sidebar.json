@@ -1,6 +1,38 @@
 [
   {
-    "title": "Thomas Selfridge: The First Airplane Fatality",
+    "title": "It looks like the \u201cJVG algorithm\u201d only wins on tiny numbers",
+    "link": "https://scottaaronson.blog/?p=9615",
+    "source": "Hacker News",
+    "published": "2026-03-10T00:35:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47317739\">Comments</a>"
+  },
+  {
+    "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+    "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+    "source": "Hacker News",
+    "published": "2026-03-10T00:16:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47317616\">Comments</a>"
+  },
+  {
+    "title": "So you want to write an \u201capp\u201d (2025)",
+    "link": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
+    "source": "Hacker News",
+    "published": "2026-03-09T20:50:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47315341\">Comments</a>"
+  },
+  {
+    "title": "Oracle is building yesterday's data centers with tomorrow's debt",
+    "link": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "source": "Hacker News",
+    "published": "2026-03-09T20:36:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47315128\">Comments</a>"
+  },
+  {
+    "title": "The first airplane fatality",
     "link": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
     "source": "Hacker News",
     "published": "2026-03-09T20:32:45+00:00",
@@ -8,15 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47315079\">Comments</a>"
   },
   {
-    "title": "Things I've Done with AI",
-    "link": "https://sjer.red/blog/2026/built-with-ai/",
-    "source": "Hacker News",
-    "published": "2026-03-09T19:24:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47314123\">Comments</a>"
-  },
-  {
-    "title": "The Most Beautiful Freezer in the World: Notes on Baking at the South Pole",
+    "title": "Notes on Baking at the South Pole",
     "link": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
     "source": "Hacker News",
     "published": "2026-03-09T19:12:14+00:00",
@@ -30,22 +54,6 @@
     "published": "2026-03-09T19:09:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47313884\">Comments</a>"
-  },
-  {
-    "title": "Durdraw \u2013 ANSI art editor for Unix-like systems",
-    "link": "https://durdraw.org/",
-    "source": "Hacker News",
-    "published": "2026-03-09T18:59:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47313721\">Comments</a>"
-  },
-  {
-    "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-    "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-    "source": "Hacker News",
-    "published": "2026-03-09T18:51:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47313613\">Comments</a>"
   },
   {
     "title": "Show HN: The Mog Programming Language",
@@ -80,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47311815\">Comments</a>"
   },
   {
-    "title": "DARPA's new X-76",
+    "title": "DARPA\u2019s new X-76",
     "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
     "source": "Hacker News",
     "published": "2026-03-09T16:54:31+00:00",
@@ -102,6 +110,14 @@
     "published": "2026-03-09T16:43:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47311484\">Comments</a>"
+  },
+  {
+    "title": "An opinionated take on how to do important research that matters",
+    "link": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+    "source": "Hacker News",
+    "published": "2026-03-09T16:24:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311179\">Comments</a>"
   },
   {
     "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
@@ -128,7 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47309953\">Comments</a>"
   },
   {
-    "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
+    "title": "FontCrafter: Turn your handwriting into a real font",
     "link": "https://arcade.pirillo.com/fontcrafter.html",
     "source": "Hacker News",
     "published": "2026-03-09T09:25:02+00:00",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47306655\">Comments</a>"
   },
   {
-    "title": "Flash media longevity testing \u2013 6 years later",
-    "link": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
+    "title": "Show HN: Remotely use my guitar tuner",
+    "link": "https://realtuner.online/",
     "source": "Hacker News",
-    "published": "2026-03-08T16:22:24+00:00",
+    "published": "2026-03-06T20:27:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47298553\">Comments</a>"
-  },
-  {
-    "title": "Rethinking Syntax: Binding by Adjacency",
-    "link": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
-    "source": "Hacker News",
-    "published": "2026-03-08T05:03:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47294572\">Comments</a>"
-  },
-  {
-    "title": "Velxio, Arduino Emulator",
-    "link": "https://velxio.dev/",
-    "source": "Hacker News",
-    "published": "2026-03-08T05:02:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47294568\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47280654\">Comments</a>"
   }
 ]
