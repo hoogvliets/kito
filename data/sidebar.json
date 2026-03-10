@@ -1,5 +1,37 @@
 [
   {
+    "title": "Ask HN: Remember Fidonet?",
+    "link": "https://news.ycombinator.com/item?id=47321760",
+    "source": "Hacker News",
+    "published": "2026-03-10T11:24:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321760\">Comments</a>"
+  },
+  {
+    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+    "source": "Hacker News",
+    "published": "2026-03-10T10:50:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321533\">Comments</a>"
+  },
+  {
+    "title": "FreeBSD 14.4-Release Announcement",
+    "link": "https://www.freebsd.org/releases/14.4R/announce/",
+    "source": "Hacker News",
+    "published": "2026-03-10T10:45:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321499\">Comments</a>"
+  },
+  {
+    "title": "I put my whole life into a single database",
+    "link": "https://howisfelix.today/",
+    "source": "Hacker News",
+    "published": "2026-03-10T10:07:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321233\">Comments</a>"
+  },
+  {
     "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
     "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
     "source": "Hacker News",
@@ -22,22 +54,6 @@
     "published": "2026-03-10T05:04:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47319255\">Comments</a>"
-  },
-  {
-    "title": "Learnings from paying artists royalties for AI-generated art",
-    "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-    "source": "Hacker News",
-    "published": "2026-03-10T02:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47318421\">Comments</a>"
-  },
-  {
-    "title": "The \u201cJVG algorithm\u201d only wins on tiny numbers",
-    "link": "https://scottaaronson.blog/?p=9615",
-    "source": "Hacker News",
-    "published": "2026-03-10T00:35:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47317739\">Comments</a>"
   },
   {
     "title": "Two Years of Emacs Solo",
@@ -64,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47311815\">Comments</a>"
   },
   {
-    "title": "DARPA\u2019s new X-76",
-    "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-    "source": "Hacker News",
-    "published": "2026-03-09T16:54:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311669\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
-    "link": "https://news.ycombinator.com/item?id=47311657",
-    "source": "Hacker News",
-    "published": "2026-03-09T16:53:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311657\">Comments</a>"
-  },
-  {
     "title": "JSLinux Now Supports x86_64",
     "link": "https://bellard.org/jslinux/",
     "source": "Hacker News",
@@ -96,20 +96,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47310160\">Comments</a>"
   },
   {
-    "title": "Show HN: DenchClaw \u2013 Local CRM on Top of OpenClaw",
-    "link": "https://github.com/DenchHQ/DenchClaw",
-    "source": "Hacker News",
-    "published": "2026-03-09T14:55:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47309953\">Comments</a>"
-  },
-  {
     "title": "Optimizing Top K in Postgres",
     "link": "https://www.paradedb.com/blog/optimizing-top-k",
     "source": "Hacker News",
     "published": "2026-03-08T22:54:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47302493\">Comments</a>"
+  },
+  {
+    "title": "The Gervais Principle, or the Office According to \"The Office\"",
+    "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    "source": "Hacker News",
+    "published": "2026-03-07T11:28:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47286657\">Comments</a>"
+  },
+  {
+    "title": "TCXO Failure Analysis",
+    "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+    "source": "Hacker News",
+    "published": "2026-03-07T04:49:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284587\">Comments</a>"
+  },
+  {
+    "title": "Practical Guide to Bare Metal C++",
+    "link": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+    "source": "Hacker News",
+    "published": "2026-03-07T04:22:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284461\">Comments</a>"
   },
   {
     "title": "Show HN: Remotely use my guitar tuner",
@@ -142,21 +158,5 @@
     "published": "2026-03-06T17:10:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47277865\">Comments</a>"
-  },
-  {
-    "title": "A useless infinite scroll experiment",
-    "link": "https://futile.ch/en/",
-    "source": "Hacker News",
-    "published": "2026-03-06T17:03:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277735\">Comments</a>"
-  },
-  {
-    "title": "Darkrealms BBS",
-    "link": "http://www.darkrealms.ca/",
-    "source": "Hacker News",
-    "published": "2026-03-06T15:40:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276343\">Comments</a>"
   }
 ]
