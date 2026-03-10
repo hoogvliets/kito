@@ -1,11 +1,107 @@
 [
   {
-    "title": "Ask HN: Remember Fidonet?",
-    "link": "https://news.ycombinator.com/item?id=47321760",
+    "title": "Launch HN: Didit (YC W26) \u2013 Stripe for Identity Verification",
+    "link": "https://news.ycombinator.com/item?id=47324296",
     "source": "Hacker News",
-    "published": "2026-03-10T11:24:00+00:00",
+    "published": "2026-03-10T15:08:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321760\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324296\">Comments</a>"
+  },
+  {
+    "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+    "link": "https://twitter.com/lukolejnik/status/2031257644724342957",
+    "source": "Hacker News",
+    "published": "2026-03-10T15:01:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324211\">Comments</a>"
+  },
+  {
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "source": "Hacker News",
+    "published": "2026-03-10T14:53:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324087\">Comments</a>"
+  },
+  {
+    "title": "Turing Award winner and former Oxford professor Tony Hoare passed away",
+    "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "source": "Hacker News",
+    "published": "2026-03-10T14:50:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324054\">Comments</a>"
+  },
+  {
+    "title": "Meta hires duo behind Moltbook",
+    "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "source": "Hacker News",
+    "published": "2026-03-10T14:38:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47323900\">Comments</a>"
+  },
+  {
+    "title": "RFC 454545 \u2013 Human Em Dash Standard",
+    "link": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
+    "source": "Hacker News",
+    "published": "2026-03-10T14:37:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47323891\">Comments</a>"
+  },
+  {
+    "title": "Rebasing in Magit",
+    "link": "https://entropicthoughts.com/rebasing-in-magit",
+    "source": "Hacker News",
+    "published": "2026-03-10T13:38:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47323105\">Comments</a>"
+  },
+  {
+    "title": "Sending Jabber/XMPP Messages via HTTP",
+    "link": "https://gultsch.de/posts/xmpp-via-http/",
+    "source": "Hacker News",
+    "published": "2026-03-10T13:29:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322998\">Comments</a>"
+  },
+  {
+    "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+    "link": "https://dnhkng.github.io/posts/rys/",
+    "source": "Hacker News",
+    "published": "2026-03-10T13:18:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322887\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DD Photos \u2013 open-source photo album site generator (Go and SvelteKit)",
+    "link": "https://github.com/dougdonohoe/ddphotos",
+    "source": "Hacker News",
+    "published": "2026-03-10T13:13:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322838\">Comments</a>"
+  },
+  {
+    "title": "Intel Demos Chip to Compute with Encrypted Data",
+    "link": "https://spectrum.ieee.org/fhe-intel",
+    "source": "Hacker News",
+    "published": "2026-03-10T13:10:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322815\">Comments</a>"
+  },
+  {
+    "title": "Online age-verification tools for child safety are surveilling adults",
+    "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+    "source": "Hacker News",
+    "published": "2026-03-10T12:55:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322635\">Comments</a>"
+  },
+  {
+    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+    "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+    "source": "Hacker News",
+    "published": "2026-03-10T11:58:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322033\">Comments</a>"
   },
   {
     "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
@@ -32,92 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47321233\">Comments</a>"
   },
   {
-    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "title": "A New Version of Our Oracle Solaris Environment for Developers",
+    "link": "https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers",
     "source": "Hacker News",
-    "published": "2026-03-10T08:54:53+00:00",
+    "published": "2026-03-07T18:56:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320661\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47290426\">Comments</a>"
   },
   {
-    "title": "LoGeR \u2013 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-    "link": "https://loger-project.github.io",
-    "source": "Hacker News",
-    "published": "2026-03-10T06:16:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319620\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I Was Here \u2013 Draw on street view, others can find your drawings",
-    "link": "https://washere.live",
-    "source": "Hacker News",
-    "published": "2026-03-10T05:04:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319255\">Comments</a>"
-  },
-  {
-    "title": "Two Years of Emacs Solo",
-    "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-    "source": "Hacker News",
-    "published": "2026-03-10T00:16:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47317616\">Comments</a>"
-  },
-  {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-    "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "source": "Hacker News",
-    "published": "2026-03-09T23:22:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47317132\">Comments</a>"
-  },
-  {
-    "title": "Building a Procedural Hex Map with Wave Function Collapse",
-    "link": "https://felixturner.github.io/hex-map-wfc/article/",
-    "source": "Hacker News",
-    "published": "2026-03-09T17:02:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311815\">Comments</a>"
-  },
-  {
-    "title": "JSLinux Now Supports x86_64",
-    "link": "https://bellard.org/jslinux/",
-    "source": "Hacker News",
-    "published": "2026-03-09T16:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311484\">Comments</a>"
-  },
-  {
-    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-    "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-    "source": "Hacker News",
-    "published": "2026-03-09T15:12:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47310160\">Comments</a>"
-  },
-  {
-    "title": "Optimizing Top K in Postgres",
-    "link": "https://www.paradedb.com/blog/optimizing-top-k",
-    "source": "Hacker News",
-    "published": "2026-03-08T22:54:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47302493\">Comments</a>"
-  },
-  {
-    "title": "The Gervais Principle, or the Office According to \"The Office\"",
+    "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
     "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
     "source": "Hacker News",
     "published": "2026-03-07T11:28:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47286657\">Comments</a>"
-  },
-  {
-    "title": "TCXO Failure Analysis",
-    "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-    "source": "Hacker News",
-    "published": "2026-03-07T04:49:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284587\">Comments</a>"
   },
   {
     "title": "Practical Guide to Bare Metal C++",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47284461\">Comments</a>"
   },
   {
-    "title": "Show HN: Remotely use my guitar tuner",
-    "link": "https://realtuner.online/",
+    "title": "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
+    "link": "https://github.com/caxlsx/caxlsx",
     "source": "Hacker News",
-    "published": "2026-03-06T20:27:50+00:00",
+    "published": "2026-03-06T15:59:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47280654\">Comments</a>"
-  },
-  {
-    "title": "macOS Tahoe windows have different corner radiuses",
-    "link": "https://lapcatsoftware.com/articles/2026/3/1.html",
-    "source": "Hacker News",
-    "published": "2026-03-06T19:20:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47279761\">Comments</a>"
-  },
-  {
-    "title": "Lotus 1-2-3 on the PC with DOS",
-    "link": "https://stonetools.ghost.io/lotus123-dos/",
-    "source": "Hacker News",
-    "published": "2026-03-06T19:11:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47279633\">Comments</a>"
-  },
-  {
-    "title": "The hidden compile-time cost of C++26 reflection",
-    "link": "https://vittorioromeo.com/index/blog/refl_compiletime.html",
-    "source": "Hacker News",
-    "published": "2026-03-06T17:10:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277865\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276644\">Comments</a>"
   }
 ]
