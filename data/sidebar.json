@@ -1,19 +1,19 @@
 [
   {
-    "title": "Claude Code, Claude Cowork and Codex #5",
-    "link": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
     "source": "Hacker News",
-    "published": "2026-03-10T05:12:54+00:00",
+    "published": "2026-03-10T08:54:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319294\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320661\">Comments</a>"
   },
   {
-    "title": "Amazon holds engineering meeting following AI-related outages",
-    "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+    "title": "LoGeR \u2013 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+    "link": "https://loger-project.github.io",
     "source": "Hacker News",
-    "published": "2026-03-10T05:07:59+00:00",
+    "published": "2026-03-10T06:16:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319273\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319620\">Comments</a>"
   },
   {
     "title": "Show HN: I Was Here \u2013 Draw on street view, others can find your drawings",
@@ -22,14 +22,6 @@
     "published": "2026-03-10T05:04:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47319255\">Comments</a>"
-  },
-  {
-    "title": "Windows: Microsoft broke the only thing that mattered",
-    "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
-    "source": "Hacker News",
-    "published": "2026-03-10T04:48:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319179\">Comments</a>"
   },
   {
     "title": "Learnings from paying artists royalties for AI-generated art",
@@ -62,14 +54,6 @@
     "published": "2026-03-09T23:22:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47317132\">Comments</a>"
-  },
-  {
-    "title": "So you want to write an \u201capp\u201d (2025)",
-    "link": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
-    "source": "Hacker News",
-    "published": "2026-03-09T20:50:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47315341\">Comments</a>"
   },
   {
     "title": "Building a Procedural Hex Map with Wave Function Collapse",
@@ -136,12 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47280654\">Comments</a>"
   },
   {
+    "title": "macOS Tahoe windows have different corner radiuses",
+    "link": "https://lapcatsoftware.com/articles/2026/3/1.html",
+    "source": "Hacker News",
+    "published": "2026-03-06T19:20:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47279761\">Comments</a>"
+  },
+  {
     "title": "Lotus 1-2-3 on the PC with DOS",
     "link": "https://stonetools.ghost.io/lotus123-dos/",
     "source": "Hacker News",
     "published": "2026-03-06T19:11:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47279633\">Comments</a>"
+  },
+  {
+    "title": "The hidden compile-time cost of C++26 reflection",
+    "link": "https://vittorioromeo.com/index/blog/refl_compiletime.html",
+    "source": "Hacker News",
+    "published": "2026-03-06T17:10:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47277865\">Comments</a>"
   },
   {
     "title": "A useless infinite scroll experiment",
