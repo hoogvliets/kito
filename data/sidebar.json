@@ -1,19 +1,59 @@
 [
   {
+    "title": "Billion-Parameter Theories",
+    "link": "https://www.worldgov.org/complexity.html",
+    "source": "Hacker News",
+    "published": "2026-03-10T17:49:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47326555\">Comments</a>"
+  },
+  {
+    "title": "Show HN: RunAnwhere \u2013 Faster AI Inference on Apple Silicon",
+    "link": "https://github.com/RunanywhereAI/rcli",
+    "source": "Hacker News",
+    "published": "2026-03-10T17:14:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47326101\">Comments</a>"
+  },
+  {
+    "title": "Defeat as Method",
+    "link": "https://www.cabinetmagazine.org/issues/71/khosravi.php",
+    "source": "Hacker News",
+    "published": "2026-03-10T17:07:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47326025\">Comments</a>"
+  },
+  {
+    "title": "I built a programming language using Claude Code",
+    "link": "https://ankursethi.com/blog/programming-language-claude-code/",
+    "source": "Hacker News",
+    "published": "2026-03-10T16:37:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47325595\">Comments</a>"
+  },
+  {
+    "title": "Throwing away 18 months of code and starting over",
+    "link": "https://tompiagg.io/posts/we-threw-away-1-5-years-of-code",
+    "source": "Hacker News",
+    "published": "2026-03-10T15:35:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324691\">Comments</a>"
+  },
+  {
+    "title": "The Enterprise Context Layer",
+    "link": "https://andychen32.substack.com/p/the-enterprise-context-layer",
+    "source": "Hacker News",
+    "published": "2026-03-10T15:18:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324448\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Didit (YC W26) \u2013 Stripe for Identity Verification",
     "link": "https://news.ycombinator.com/item?id=47324296",
     "source": "Hacker News",
     "published": "2026-03-10T15:08:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47324296\">Comments</a>"
-  },
-  {
-    "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
-    "link": "https://twitter.com/lukolejnik/status/2031257644724342957",
-    "source": "Hacker News",
-    "published": "2026-03-10T15:01:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324211\">Comments</a>"
   },
   {
     "title": "Debian decides not to decide on AI-generated contributions",
@@ -24,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47324087\">Comments</a>"
   },
   {
-    "title": "Turing Award winner and former Oxford professor Tony Hoare passed away",
+    "title": "Tony Hoare has died",
     "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
     "source": "Hacker News",
     "published": "2026-03-10T14:50:16+00:00",
@@ -32,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47324054\">Comments</a>"
   },
   {
-    "title": "Meta hires duo behind Moltbook",
+    "title": "Meta acquires Moltbook",
     "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
     "source": "Hacker News",
     "published": "2026-03-10T14:38:06+00:00",
@@ -56,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47323105\">Comments</a>"
   },
   {
-    "title": "Sending Jabber/XMPP Messages via HTTP",
-    "link": "https://gultsch.de/posts/xmpp-via-http/",
-    "source": "Hacker News",
-    "published": "2026-03-10T13:29:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322998\">Comments</a>"
-  },
-  {
     "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
     "link": "https://dnhkng.github.io/posts/rys/",
     "source": "Hacker News",
     "published": "2026-03-10T13:18:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47322887\">Comments</a>"
-  },
-  {
-    "title": "Show HN: DD Photos \u2013 open-source photo album site generator (Go and SvelteKit)",
-    "link": "https://github.com/dougdonohoe/ddphotos",
-    "source": "Hacker News",
-    "published": "2026-03-10T13:13:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322838\">Comments</a>"
   },
   {
     "title": "Intel Demos Chip to Compute with Encrypted Data",
@@ -96,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47322635\">Comments</a>"
   },
   {
-    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
-    "link": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
-    "source": "Hacker News",
-    "published": "2026-03-10T11:58:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322033\">Comments</a>"
-  },
-  {
-    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-    "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-    "source": "Hacker News",
-    "published": "2026-03-10T10:50:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321533\">Comments</a>"
-  },
-  {
-    "title": "FreeBSD 14.4-Release Announcement",
-    "link": "https://www.freebsd.org/releases/14.4R/announce/",
-    "source": "Hacker News",
-    "published": "2026-03-10T10:45:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321499\">Comments</a>"
-  },
-  {
     "title": "I put my whole life into a single database",
     "link": "https://howisfelix.today/",
     "source": "Hacker News",
@@ -128,35 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47321233\">Comments</a>"
   },
   {
-    "title": "A New Version of Our Oracle Solaris Environment for Developers",
-    "link": "https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
     "source": "Hacker News",
-    "published": "2026-03-07T18:56:56+00:00",
+    "published": "2026-03-10T08:54:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47290426\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320661\">Comments</a>"
   },
   {
-    "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
-    "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
     "source": "Hacker News",
-    "published": "2026-03-07T11:28:37+00:00",
+    "published": "2026-03-10T08:46:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47286657\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320600\">Comments</a>"
   },
   {
-    "title": "Practical Guide to Bare Metal C++",
-    "link": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+    "title": "More agent tools and AI tools should be pricing on outcomes (2025)",
+    "link": "https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/",
     "source": "Hacker News",
-    "published": "2026-03-07T04:22:20+00:00",
+    "published": "2026-03-10T02:04:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47284461\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47318313\">Comments</a>"
   },
   {
-    "title": "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
-    "link": "https://github.com/caxlsx/caxlsx",
+    "title": "I used pulsar detection techniques to turn a phone into a watch timegrapher",
+    "link": "https://www.chronolog.watch/timegrapher",
     "source": "Hacker News",
-    "published": "2026-03-06T15:59:29+00:00",
+    "published": "2026-03-07T19:54:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47276644\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47290918\">Comments</a>"
   }
 ]
