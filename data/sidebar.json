@@ -1,5 +1,21 @@
 [
   {
+    "title": "Writing my own text editor, and daily-driving it",
+    "link": "https://blog.jsbarretto.com/post/text-editor",
+    "source": "Hacker News",
+    "published": "2026-03-11T02:04:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47331034\">Comments</a>"
+  },
+  {
+    "title": "Zig \u2013 Type Resolution Redesign and Language Changes",
+    "link": "https://ziglang.org/devlog/2026/#2026-03-10",
+    "source": "Hacker News",
+    "published": "2026-03-11T01:24:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47330836\">Comments</a>"
+  },
+  {
     "title": "Universal vaccine against respiratory infections and allergens",
     "link": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
     "source": "Hacker News",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47329605\">Comments</a>"
   },
   {
-    "title": "Cloudflare Crawl Endpoint",
+    "title": "Cloudflare crawl endpoint",
     "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
     "source": "Hacker News",
     "published": "2026-03-10T22:27:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47329557\">Comments</a>"
-  },
-  {
-    "title": "RISC-V Is Sloooow",
-    "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
-    "source": "Hacker News",
-    "published": "2026-03-10T20:11:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47328214\">Comments</a>"
-  },
-  {
-    "title": "Tell HN: Apple development certificate server seems down?",
-    "link": "https://news.ycombinator.com/item?id=47328034",
-    "source": "Hacker News",
-    "published": "2026-03-10T19:56:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47328034\">Comments</a>"
   },
   {
     "title": "Agents that run while I sleep",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47326101\">Comments</a>"
   },
   {
-    "title": "Launch HN: Didit (YC W26) \u2013 Stripe for Identity Verification",
-    "link": "https://news.ycombinator.com/item?id=47324296",
-    "source": "Hacker News",
-    "published": "2026-03-10T15:08:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324296\">Comments</a>"
-  },
-  {
     "title": "Debian decides not to decide on AI-generated contributions",
     "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
     "source": "Hacker News",
@@ -104,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47323900\">Comments</a>"
   },
   {
-    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-    "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "source": "Hacker News",
-    "published": "2026-03-10T13:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47323017\">Comments</a>"
-  },
-  {
     "title": "Intel Demos Chip to Compute with Encrypted Data",
     "link": "https://spectrum.ieee.org/fhe-intel",
     "source": "Hacker News",
     "published": "2026-03-10T13:10:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47322815\">Comments</a>"
-  },
-  {
-    "title": "Online age-verification tools for child safety are surveilling adults",
-    "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-    "source": "Hacker News",
-    "published": "2026-03-10T12:55:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322635\">Comments</a>"
-  },
-  {
-    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-    "source": "Hacker News",
-    "published": "2026-03-10T08:54:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320661\">Comments</a>"
   },
   {
     "title": "Yann LeCun raises $1B to build AI that understands the physical world",
@@ -144,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47320600\">Comments</a>"
   },
   {
+    "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
+    "link": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
+    "source": "Hacker News",
+    "published": "2026-03-10T03:34:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47318830\">Comments</a>"
+  },
+  {
     "title": "SSH Secret Menu",
     "link": "https://twitter.com/rebane2001/status/2031037389347406054",
     "source": "Hacker News",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47318797\">Comments</a>"
   },
   {
+    "title": "Bippy: React Internals Toolkit",
+    "link": "https://www.bippy.dev/",
+    "source": "Hacker News",
+    "published": "2026-03-08T10:01:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295996\">Comments</a>"
+  },
+  {
+    "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
+    "link": "https://github.com/gcv/julia-snail",
+    "source": "Hacker News",
+    "published": "2026-03-08T09:27:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295855\">Comments</a>"
+  },
+  {
     "title": "Invoker Commands API",
     "link": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
     "source": "Hacker News",
     "published": "2026-03-08T08:16:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47295559\">Comments</a>"
+  },
+  {
+    "title": "Exploring the ocean with Raspberry Pi\u2013powered marine robots",
+    "link": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
+    "source": "Hacker News",
+    "published": "2026-03-07T17:29:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47289590\">Comments</a>"
   }
 ]
