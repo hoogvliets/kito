@@ -1,5 +1,21 @@
 [
   {
+    "title": "AutoKernel: Autoresearch for GPU Kernels",
+    "link": "https://github.com/RightNow-AI/autokernel",
+    "source": "Hacker News",
+    "published": "2026-03-11T07:42:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332688\">Comments</a>"
+  },
+  {
+    "title": "I'm going to build my own OpenClaw, with blackjack and bun",
+    "link": "https://github.com/rcarmo/piclaw",
+    "source": "Hacker News",
+    "published": "2026-03-11T07:36:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332649\">Comments</a>"
+  },
+  {
     "title": "Create value for others and don\u2019t worry about the returns",
     "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
     "source": "Hacker News",
@@ -8,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47332074\">Comments</a>"
   },
   {
-    "title": "Standardizing source maps",
-    "link": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+    "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+    "link": "https://www.hume.ai/blog/opensource-tada",
     "source": "Hacker News",
-    "published": "2026-03-11T04:42:23+00:00",
+    "published": "2026-03-11T05:42:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47331802\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332054\">Comments</a>"
   },
   {
     "title": "Writing my own text editor, and daily-driving it",
@@ -80,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47327473\">Comments</a>"
   },
   {
-    "title": "FFmpeg-over-IP \u2013 Connect to remote FFmpeg servers",
-    "link": "https://github.com/steelbrain/ffmpeg-over-ip",
-    "source": "Hacker News",
-    "published": "2026-03-10T18:26:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47327015\">Comments</a>"
-  },
-  {
     "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
     "link": "https://github.com/RunanywhereAI/rcli",
     "source": "Hacker News",
@@ -110,14 +118,6 @@
     "published": "2026-03-10T14:50:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47324054\">Comments</a>"
-  },
-  {
-    "title": "Meta acquires Moltbook",
-    "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-    "source": "Hacker News",
-    "published": "2026-03-10T14:38:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47323900\">Comments</a>"
   },
   {
     "title": "Levels of Agentic Engineering",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47318797\">Comments</a>"
   },
   {
-    "title": "Pike: To Exit or Not to Exit",
-    "link": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
-    "source": "Hacker News",
-    "published": "2026-03-08T10:51:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296284\">Comments</a>"
-  },
-  {
     "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
     "link": "https://github.com/gcv/julia-snail",
     "source": "Hacker News",
     "published": "2026-03-08T09:27:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47295855\">Comments</a>"
+  },
+  {
+    "title": "Building a TB-303 from Scratch",
+    "link": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
+    "source": "Hacker News",
+    "published": "2026-03-07T21:18:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47291574\">Comments</a>"
   }
 ]
