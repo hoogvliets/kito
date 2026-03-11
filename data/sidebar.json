@@ -1,5 +1,21 @@
 [
   {
+    "title": "Create value for others and don\u2019t worry about the returns",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+    "source": "Hacker News",
+    "published": "2026-03-11T05:45:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332074\">Comments</a>"
+  },
+  {
+    "title": "Standardizing source maps",
+    "link": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+    "source": "Hacker News",
+    "published": "2026-03-11T04:42:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47331802\">Comments</a>"
+  },
+  {
     "title": "Writing my own text editor, and daily-driving it",
     "link": "https://blog.jsbarretto.com/post/text-editor",
     "source": "Hacker News",
@@ -38,6 +54,14 @@
     "published": "2026-03-10T22:27:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47329557\">Comments</a>"
+  },
+  {
+    "title": "RISC-V Is Sloooow",
+    "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+    "source": "Hacker News",
+    "published": "2026-03-10T20:11:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47328214\">Comments</a>"
   },
   {
     "title": "Agents that run while I sleep",
@@ -96,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47323900\">Comments</a>"
   },
   {
-    "title": "Intel Demos Chip to Compute with Encrypted Data",
-    "link": "https://spectrum.ieee.org/fhe-intel",
+    "title": "Levels of Agentic Engineering",
+    "link": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
     "source": "Hacker News",
-    "published": "2026-03-10T13:10:48+00:00",
+    "published": "2026-03-10T08:48:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47322815\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320614\">Comments</a>"
   },
   {
     "title": "Yann LeCun raises $1B to build AI that understands the physical world",
@@ -112,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47320600\">Comments</a>"
   },
   {
-    "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
-    "link": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
-    "source": "Hacker News",
-    "published": "2026-03-10T03:34:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47318830\">Comments</a>"
-  },
-  {
     "title": "SSH Secret Menu",
     "link": "https://twitter.com/rebane2001/status/2031037389347406054",
     "source": "Hacker News",
@@ -128,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47318797\">Comments</a>"
   },
   {
-    "title": "Bippy: React Internals Toolkit",
-    "link": "https://www.bippy.dev/",
+    "title": "Pike: To Exit or Not to Exit",
+    "link": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
     "source": "Hacker News",
-    "published": "2026-03-08T10:01:23+00:00",
+    "published": "2026-03-08T10:51:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295996\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296284\">Comments</a>"
   },
   {
     "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
@@ -142,21 +158,5 @@
     "published": "2026-03-08T09:27:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47295855\">Comments</a>"
-  },
-  {
-    "title": "Invoker Commands API",
-    "link": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
-    "source": "Hacker News",
-    "published": "2026-03-08T08:16:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47295559\">Comments</a>"
-  },
-  {
-    "title": "Exploring the ocean with Raspberry Pi\u2013powered marine robots",
-    "link": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
-    "source": "Hacker News",
-    "published": "2026-03-07T17:29:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47289590\">Comments</a>"
   }
 ]
