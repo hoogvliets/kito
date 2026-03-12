@@ -1,11 +1,35 @@
 [
   {
-    "title": "Show HN: Autoresearch@home",
-    "link": "https://www.ensue-network.ai/autoresearch",
+    "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+    "link": "https://www.bbc.com/news/articles/c1w5141vx53o",
     "source": "Hacker News",
-    "published": "2026-03-11T23:27:18+00:00",
+    "published": "2026-03-12T03:35:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47343935\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47346137\">Comments</a>"
+  },
+  {
+    "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+    "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+    "source": "Hacker News",
+    "published": "2026-03-12T03:29:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47346091\">Comments</a>"
+  },
+  {
+    "title": "DHS Contracts Explorer \u2013 Hacked data from the Office of Industry Partnership",
+    "link": "https://micahflee.github.io/ice-contracts/",
+    "source": "Hacker News",
+    "published": "2026-03-12T02:03:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47345393\">Comments</a>"
+  },
+  {
+    "title": "Show HN: s@: decentralized social networking over static sites",
+    "link": "http://satproto.org/",
+    "source": "Hacker News",
+    "published": "2026-03-12T00:22:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>"
   },
   {
     "title": "Show HN: A context-aware permission guard for Claude Code",
@@ -16,30 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47343927\">Comments</a>"
   },
   {
-    "title": "Preliminary data from a longitudinal AI impact study",
-    "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-    "source": "Hacker News",
-    "published": "2026-03-11T21:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47342139\">Comments</a>"
-  },
-  {
-    "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-    "link": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-    "source": "Hacker News",
-    "published": "2026-03-11T21:06:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47341845\">Comments</a>"
-  },
-  {
-    "title": "Meticulous (YC S21) is hiring to redefine software dev",
-    "link": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
-    "source": "Hacker News",
-    "published": "2026-03-11T21:01:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47341760\">Comments</a>"
-  },
-  {
     "title": "Many SWE-bench-Passing PRs would not be merged",
     "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
     "source": "Hacker News",
@@ -48,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>"
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "link": "https://news.ycombinator.com/newsguidelines.html#generated",
     "source": "Hacker News",
     "published": "2026-03-11T19:29:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47340079\">Comments</a>"
-  },
-  {
-    "title": "Personal Computer by Perplexity",
-    "link": "https://www.perplexity.ai/personal-computer-waitlist",
-    "source": "Hacker News",
-    "published": "2026-03-11T18:22:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339223\">Comments</a>"
   },
   {
     "title": "I was interviewed by an AI bot for a job",
@@ -80,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47337607\">Comments</a>"
   },
   {
-    "title": "Show HN: Klaus \u2013 OpenClaw on a VM, batteries included",
-    "link": "https://klausai.com/",
-    "source": "Hacker News",
-    "published": "2026-03-11T15:54:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337249\">Comments</a>"
-  },
-  {
-    "title": "Temporal: A nine-year journey to fix time in JavaScript",
+    "title": "Temporal: The 9-year journey to fix time in JavaScript",
     "link": "https://bloomberg.github.io/js-blog/post/temporal/",
     "source": "Hacker News",
     "published": "2026-03-11T15:35:50+00:00",
@@ -136,20 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47331811\">Comments</a>"
   },
   {
-    "title": "Against vibes: When is a generative model useful",
-    "link": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+    "title": "What Happens After You Die? (2016)",
+    "link": "https://lamag.com/news/the-end/",
     "source": "Hacker News",
-    "published": "2026-03-10T19:59:39+00:00",
+    "published": "2026-03-08T20:01:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47328071\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47300785\">Comments</a>"
   },
   {
-    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-    "link": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+    "title": "Challenging the Single-Responsibility Principle",
+    "link": "https://kiss-and-solid.com/blog/keep-it-simple",
     "source": "Hacker News",
-    "published": "2026-03-10T05:58:56+00:00",
+    "published": "2026-03-08T12:59:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47319520\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296963\">Comments</a>"
+  },
+  {
+    "title": "About memory pressure, lock contention, and Data-oriented Design",
+    "link": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+    "source": "Hacker News",
+    "published": "2026-03-08T11:59:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296630\">Comments</a>"
+  },
+  {
+    "title": "Tested: How Many Times Can a DVD\u00b1RW Be Rewritten? Methodology and Results",
+    "link": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+    "source": "Hacker News",
+    "published": "2026-03-08T11:44:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47296568\">Comments</a>"
   },
   {
     "title": "CNN Explainer \u2013 Learn Convolutional Neural Network in Your Browser (2020)",
