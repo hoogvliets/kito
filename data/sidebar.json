@@ -1,11 +1,59 @@
 [
   {
+    "title": "Are LLMs not getting better?",
+    "link": "https://entropicthoughts.com/no-swe-bench-improvement",
+    "source": "Hacker News",
+    "published": "2026-03-12T11:49:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349334\">Comments</a>"
+  },
+  {
+    "title": "Big Data on the Cheapest MacBook",
+    "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+    "source": "Hacker News",
+    "published": "2026-03-12T11:41:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349277\">Comments</a>"
+  },
+  {
+    "title": "1B identity records exposed in ID verification data leak",
+    "link": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+    "source": "Hacker News",
+    "published": "2026-03-12T09:46:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348440\">Comments</a>"
+  },
+  {
+    "title": "Dolphin Progress Release 2603",
+    "link": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+    "source": "Hacker News",
+    "published": "2026-03-12T09:23:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348304\">Comments</a>"
+  },
+  {
+    "title": "Avoiding Trigonometry (2013)",
+    "link": "https://iquilezles.org/articles/noacos/",
+    "source": "Hacker News",
+    "published": "2026-03-12T09:06:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348192\">Comments</a>"
+  },
+  {
     "title": "3D-Knitting: The Ultimate Guide",
     "link": "https://www.oliver-charles.com/pages/3d-knitting",
     "source": "Hacker News",
     "published": "2026-03-12T08:27:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>"
+  },
+  {
+    "title": "Reliable Software in the LLM Era",
+    "link": "https://quint-lang.org/posts/llm_era",
+    "source": "Hacker News",
+    "published": "2026-03-12T08:19:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47347901\">Comments</a>"
   },
   {
     "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
@@ -24,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>"
   },
   {
-    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-    "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "source": "Hacker News",
-    "published": "2026-03-12T03:29:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47346091\">Comments</a>"
-  },
-  {
     "title": "Show HN: s@: decentralized social networking over static sites",
     "link": "http://satproto.org/",
     "source": "Hacker News",
     "published": "2026-03-12T00:22:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A context-aware permission guard for Claude Code",
-    "link": "https://github.com/manuelschipper/nah/",
-    "source": "Hacker News",
-    "published": "2026-03-11T23:26:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47343927\">Comments</a>"
-  },
-  {
-    "title": "Many SWE-bench-Passing PRs would not be merged",
-    "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-    "source": "Hacker News",
-    "published": "2026-03-11T20:56:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>"
   },
   {
     "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -72,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47339164\">Comments</a>"
   },
   {
-    "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-    "link": "https://sitespy.app",
-    "source": "Hacker News",
-    "published": "2026-03-11T16:21:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337607\">Comments</a>"
-  },
-  {
     "title": "Temporal: The 9-year journey to fix time in JavaScript",
     "link": "https://bloomberg.github.io/js-blog/post/temporal/",
     "source": "Hacker News",
     "published": "2026-03-11T15:35:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>"
-  },
-  {
-    "title": "Google closes deal to acquire Wiz",
-    "link": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-    "source": "Hacker News",
-    "published": "2026-03-11T14:58:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47336476\">Comments</a>"
-  },
-  {
-    "title": "Entities enabling scientific fraud at scale (2025)",
-    "link": "https://doi.org/10.1073/pnas.2420092122",
-    "source": "Hacker News",
-    "published": "2026-03-11T13:32:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47335349\">Comments</a>"
   },
   {
     "title": "The MacBook Neo",
@@ -120,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47331811\">Comments</a>"
   },
   {
+    "title": "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
+    "link": "https://www.philipzucker.com/thin1/",
+    "source": "Hacker News",
+    "published": "2026-03-09T18:12:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47313008\">Comments</a>"
+  },
+  {
     "title": "Datah\u00e4xan",
     "link": "https://0dd.company/galleries/witches/7.html",
     "source": "Hacker News",
@@ -134,14 +142,6 @@
     "published": "2026-03-09T12:47:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>"
-  },
-  {
-    "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
-    "link": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-    "source": "Hacker News",
-    "published": "2026-03-09T00:00:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47303044\">Comments</a>"
   },
   {
     "title": "Printf-Tac-Toe",
