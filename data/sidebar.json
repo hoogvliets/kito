@@ -1,11 +1,43 @@
 [
   {
-    "title": "Prompt-caching \u2013 auto-injects Anthropic cache breakpoints (90% token savings)",
-    "link": "https://prompt-caching.ai/",
+    "title": "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
+    "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
     "source": "Hacker News",
-    "published": "2026-03-13T11:38:15+00:00",
+    "published": "2026-03-13T14:11:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363074\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364729\">Comments</a>"
+  },
+  {
+    "title": "Run NanoClaw in Docker Sandboxes",
+    "link": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
+    "source": "Hacker News",
+    "published": "2026-03-13T13:45:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364397\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
+    "link": "https://www.getspine.ai/",
+    "source": "Hacker News",
+    "published": "2026-03-13T13:22:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364116\">Comments</a>"
+  },
+  {
+    "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
+    "link": "https://help.instagram.com/491565145294150",
+    "source": "Hacker News",
+    "published": "2026-03-13T13:03:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363922\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Algorithms and Data Structures in TypeScript \u2013 Free Book (~400 Pages)",
+    "link": "http://amoilanen.github.io/Algorithms-with-Typescript/",
+    "source": "Hacker News",
+    "published": "2026-03-13T12:15:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363400\">Comments</a>"
   },
   {
     "title": "TUI Studio \u2013 visual terminal UI design tool",
@@ -22,22 +54,6 @@
     "published": "2026-03-13T10:15:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47362528\">Comments</a>"
-  },
-  {
-    "title": "Gvisor on Raspbian",
-    "link": "https://nubificus.co.uk/blog/gvisor-rpi5/",
-    "source": "Hacker News",
-    "published": "2026-03-13T10:08:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362487\">Comments</a>"
-  },
-  {
-    "title": "Show HN: fftool \u2013 A Terminal UI for FFmpeg \u2013 Shows Command Before It Runs",
-    "link": "https://bensantora.com/posts/fftool-ffmpeg-tui-go/",
-    "source": "Hacker News",
-    "published": "2026-03-13T10:08:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362485\">Comments</a>"
   },
   {
     "title": "Source code of Swedish e-government services has been leaked",
@@ -64,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47361313\">Comments</a>"
   },
   {
-    "title": "Vite 8.0 Is Out",
-    "link": "https://vite.dev/blog/announcing-vite8",
-    "source": "Hacker News",
-    "published": "2026-03-13T04:36:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47360730\">Comments</a>"
-  },
-  {
     "title": "\u201cThis is not the computer for you\u201d",
     "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
     "source": "Hacker News",
@@ -80,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47359744\">Comments</a>"
   },
   {
-    "title": "Bubble Sorted Amen Break",
-    "link": "https://parametricavocado.itch.io/amen-sorting",
-    "source": "Hacker News",
-    "published": "2026-03-12T17:13:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47354098\">Comments</a>"
-  },
-  {
-    "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
-    "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-    "source": "Hacker News",
-    "published": "2026-03-12T16:38:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47353533\">Comments</a>"
-  },
-  {
     "title": "ATMs didn\u2019t kill bank teller jobs, but the iPhone did",
     "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
     "source": "Hacker News",
     "published": "2026-03-12T14:48:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47351371\">Comments</a>"
-  },
-  {
-    "title": "Malus \u2013 Clean Room as a Service",
-    "link": "https://malus.sh",
-    "source": "Hacker News",
-    "published": "2026-03-12T13:42:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47350424\">Comments</a>"
   },
   {
     "title": "Executing programs inside transformers with exponentially faster inference",
@@ -136,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47311351\">Comments</a>"
   },
   {
+    "title": "The Mrs Fractal: Mirror, Rotate, Scale",
+    "link": "https://www.4rknova.com//blog/2025/06/22/mrs-fractal",
+    "source": "Hacker News",
+    "published": "2026-03-09T14:19:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47309445\">Comments</a>"
+  },
+  {
     "title": "Okmain: How to pick an OK main colour of an image",
     "link": "https://dgroshev.com/blog/okmain/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47307124\">Comments</a>"
   },
   {
-    "title": "Prefix sums at gigabytes per second with ARM NEON",
-    "link": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+    "title": "Dijkstra's Crisis: The End of Algol and Beginning of Software Engineering (2010) [pdf]",
+    "link": "https://www.tomandmaria.com/Tom/Writing/DijkstrasCrisis_LeidenDRAFT.pdf",
     "source": "Hacker News",
-    "published": "2026-03-08T20:22:26+00:00",
+    "published": "2026-03-09T07:49:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47301017\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47305957\">Comments</a>"
+  },
+  {
+    "title": "Monster Is the Machine",
+    "link": "https://kirkcenter.org/reviews/monster-is-the-machine/",
+    "source": "Hacker News",
+    "published": "2026-03-08T18:09:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47299518\">Comments</a>"
   }
 ]
