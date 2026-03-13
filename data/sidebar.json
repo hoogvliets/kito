@@ -1,5 +1,21 @@
 [
   {
+    "title": "Can You Instruct a Robot to Make a PBJ Sandwich?",
+    "link": "https://pbj.deliberateinc.com/",
+    "source": "Hacker News",
+    "published": "2026-03-13T03:06:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47360243\">Comments</a>"
+  },
+  {
+    "title": "\u201cThis is not the computer for you\u201d",
+    "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+    "source": "Hacker News",
+    "published": "2026-03-13T01:45:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47359744\">Comments</a>"
+  },
+  {
     "title": "Shall I implement it? No",
     "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
     "source": "Hacker News",
@@ -16,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47356968\">Comments</a>"
   },
   {
-    "title": "Runners who churn butter on their runs",
-    "link": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+    "title": "Bringing Chrome to ARM64 Linux Devices",
+    "link": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
     "source": "Hacker News",
-    "published": "2026-03-12T19:21:45+00:00",
+    "published": "2026-03-12T20:13:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47355781\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47356392\">Comments</a>"
   },
   {
     "title": "Launch HN: IonRouter (YC W26) \u2013 High-throughput, low-cost inference",
@@ -38,14 +54,6 @@
     "published": "2026-03-12T17:13:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47354098\">Comments</a>"
-  },
-  {
-    "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
-    "link": "https://github.com/onecli/onecli",
-    "source": "Hacker News",
-    "published": "2026-03-12T16:41:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47353558\">Comments</a>"
   },
   {
     "title": "Reversing memory loss via gut-brain communication",
@@ -72,20 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47352385\">Comments</a>"
   },
   {
-    "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+    "title": "ATMs didn\u2019t kill bank teller jobs, but the iPhone did",
     "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
     "source": "Hacker News",
     "published": "2026-03-12T14:48:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47351371\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Axe \u2013\u00a0A 12MB binary that replaces your AI framework",
-    "link": "https://github.com/jrswab/axe",
-    "source": "Hacker News",
-    "published": "2026-03-12T13:49:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47350516\">Comments</a>"
   },
   {
     "title": "Malus \u2013 Clean Room as a Service",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47349806\">Comments</a>"
   },
   {
-    "title": "Are LLM merge rates not getting better?",
-    "link": "https://entropicthoughts.com/no-swe-bench-improvement",
-    "source": "Hacker News",
-    "published": "2026-03-12T11:49:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349334\">Comments</a>"
-  },
-  {
     "title": "Big data on the cheapest MacBook",
     "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
     "source": "Hacker News",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47349277\">Comments</a>"
   },
   {
-    "title": "Dolphin Progress Release 2603",
-    "link": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+    "title": "Celebrating Interesting Flickr Technologies",
+    "link": "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2",
     "source": "Hacker News",
-    "published": "2026-03-12T09:23:01+00:00",
+    "published": "2026-03-12T08:33:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348304\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47347977\">Comments</a>"
   },
   {
     "title": "Understanding the Go Runtime: The Scheduler",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47309940\">Comments</a>"
   },
   {
-    "title": "Show HN: Detect any object in satellite imagery using a text prompt",
-    "link": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
+    "title": "IMG_0416 (2024)",
+    "link": "https://ben-mini.com/2024/img-0416",
     "source": "Hacker News",
-    "published": "2026-03-08T13:51:36+00:00",
+    "published": "2026-03-09T13:07:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47297308\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47308547\">Comments</a>"
+  },
+  {
+    "title": "How people woke up before alarm clocks",
+    "link": "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks",
+    "source": "Hacker News",
+    "published": "2026-03-09T00:09:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47303133\">Comments</a>"
   },
   {
     "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
