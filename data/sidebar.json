@@ -1,6 +1,30 @@
 [
   {
-    "title": "Your Phone Is an Entire Computer",
+    "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+    "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+    "source": "Hacker News",
+    "published": "2026-03-13T19:15:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47368430\">Comments</a>"
+  },
+  {
+    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+    "link": "https://github.com/TomBadash/MouseControl",
+    "source": "Hacker News",
+    "published": "2026-03-13T18:42:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47368033\">Comments</a>"
+  },
+  {
+    "title": "Hammerspoon",
+    "link": "https://github.com/Hammerspoon/hammerspoon",
+    "source": "Hacker News",
+    "published": "2026-03-13T18:34:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367932\">Comments</a>"
+  },
+  {
+    "title": "Your phone is an entire computer",
     "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
     "source": "Hacker News",
     "published": "2026-03-13T18:02:32+00:00",
@@ -16,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47367526\">Comments</a>"
   },
   {
-    "title": "The Accidental Room (2018)",
-    "link": "https://99percentinvisible.org/episode/the-accidental-room/",
+    "title": "John Carmack about open source and anti-AI activists",
+    "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
     "source": "Hacker News",
-    "published": "2026-03-13T17:49:54+00:00",
+    "published": "2026-03-13T17:51:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367443\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367463\">Comments</a>"
   },
   {
-    "title": "Why the militaries are scrambling to create their own Starlink",
-    "link": "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/",
+    "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+    "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
     "source": "Hacker News",
-    "published": "2026-03-13T17:27:12+00:00",
+    "published": "2026-03-13T16:40:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367220\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366666\">Comments</a>"
   },
   {
     "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
@@ -64,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47364116\">Comments</a>"
   },
   {
-    "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
-    "link": "https://help.instagram.com/491565145294150",
-    "source": "Hacker News",
-    "published": "2026-03-13T13:03:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363922\">Comments</a>"
-  },
-  {
     "title": "Can I run AI locally?",
     "link": "https://www.canirun.ai/",
     "source": "Hacker News",
@@ -96,23 +112,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47362613\">Comments</a>"
   },
   {
-    "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
-    "link": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+    "title": "Source code of Swedish e-government services has been leaked",
+    "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
     "source": "Hacker News",
-    "published": "2026-03-13T10:15:56+00:00",
+    "published": "2026-03-13T09:45:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362528\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362350\">Comments</a>"
   },
   {
-    "title": "Gvisor on Raspbian",
-    "link": "https://nubificus.co.uk/blog/gvisor-rpi5/",
-    "source": "Hacker News",
-    "published": "2026-03-13T10:08:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362487\">Comments</a>"
-  },
-  {
-    "title": "Bucketsquatting is (finally) dead",
+    "title": "Bucketsquatting is finally dead",
     "link": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
     "source": "Hacker News",
     "published": "2026-03-13T08:31:33+00:00",
@@ -128,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47360978\">Comments</a>"
   },
   {
+    "title": "New 'negative light' technology hides data transfers in plain sight",
+    "link": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+    "source": "Hacker News",
+    "published": "2026-03-11T20:46:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47341432\">Comments</a>"
+  },
+  {
     "title": "Show HN: Channel Surfer \u2013 Watch YouTube like it\u2019s cable TV",
     "link": "https://channelsurfer.tv",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47336100\">Comments</a>"
   },
   {
-    "title": "The Mrs Fractal: Mirror, Rotate, Scale (2025)",
-    "link": "https://www.4rknova.com//blog/2025/06/22/mrs-fractal",
+    "title": "Using Thunderbird for RSS",
+    "link": "https://rubenerd.com/using-thunderbird-for-rss/",
     "source": "Hacker News",
-    "published": "2026-03-09T14:19:50+00:00",
+    "published": "2026-03-10T07:38:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47309445\">Comments</a>"
-  },
-  {
-    "title": "Okmain: How to pick an OK main colour of an image",
-    "link": "https://dgroshev.com/blog/okmain/",
-    "source": "Hacker News",
-    "published": "2026-03-09T14:16:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47309397\">Comments</a>"
-  },
-  {
-    "title": "Willingness to look stupid",
-    "link": "https://sharif.io/looking-stupid",
-    "source": "Hacker News",
-    "published": "2026-03-09T10:21:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47307124\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320158\">Comments</a>"
   }
 ]
