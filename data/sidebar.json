@@ -1,19 +1,59 @@
 [
   {
-    "title": "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
+    "title": "Your Phone Is an Entire Computer",
+    "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+    "source": "Hacker News",
+    "published": "2026-03-13T18:02:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367568\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+    "link": "https://github.com/Compresr-ai/Context-Gateway",
+    "source": "Hacker News",
+    "published": "2026-03-13T17:58:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367526\">Comments</a>"
+  },
+  {
+    "title": "The Accidental Room (2018)",
+    "link": "https://99percentinvisible.org/episode/the-accidental-room/",
+    "source": "Hacker News",
+    "published": "2026-03-13T17:49:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367443\">Comments</a>"
+  },
+  {
+    "title": "Why the militaries are scrambling to create their own Starlink",
+    "link": "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/",
+    "source": "Hacker News",
+    "published": "2026-03-13T17:27:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367220\">Comments</a>"
+  },
+  {
+    "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
+    "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+    "source": "Hacker News",
+    "published": "2026-03-13T16:13:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366374\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
+    "link": "https://www.runcaptain.com/",
+    "source": "Hacker News",
+    "published": "2026-03-13T15:45:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366011\">Comments</a>"
+  },
+  {
+    "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
     "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
     "source": "Hacker News",
     "published": "2026-03-13T14:11:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47364729\">Comments</a>"
-  },
-  {
-    "title": "Run NanoClaw in Docker Sandboxes",
-    "link": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
-    "source": "Hacker News",
-    "published": "2026-03-13T13:45:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364397\">Comments</a>"
   },
   {
     "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
@@ -32,12 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47363922\">Comments</a>"
   },
   {
-    "title": "Show HN: Algorithms and Data Structures in TypeScript \u2013 Free Book (~400 Pages)",
-    "link": "http://amoilanen.github.io/Algorithms-with-Typescript/",
+    "title": "Can I run AI locally?",
+    "link": "https://www.canirun.ai/",
     "source": "Hacker News",
-    "published": "2026-03-13T12:15:11+00:00",
+    "published": "2026-03-13T12:46:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363400\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363754\">Comments</a>"
+  },
+  {
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "source": "Hacker News",
+    "published": "2026-03-13T12:31:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47363584\">Comments</a>"
   },
   {
     "title": "TUI Studio \u2013 visual terminal UI design tool",
@@ -48,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47362613\">Comments</a>"
   },
   {
-    "title": "I traced $2B in grants and 45 states' lobbying behind age\u2011verification bills",
-    "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+    "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
+    "link": "https://github.com/upper-up/meta-lobbying-and-other-findings",
     "source": "Hacker News",
     "published": "2026-03-13T10:15:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47362528\">Comments</a>"
   },
   {
-    "title": "Source code of Swedish e-government services has been leaked",
-    "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+    "title": "Gvisor on Raspbian",
+    "link": "https://nubificus.co.uk/blog/gvisor-rpi5/",
     "source": "Hacker News",
-    "published": "2026-03-13T09:45:30+00:00",
+    "published": "2026-03-13T10:08:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362350\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362487\">Comments</a>"
   },
   {
     "title": "Bucketsquatting is (finally) dead",
@@ -72,55 +120,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47361913\">Comments</a>"
   },
   {
-    "title": "Ceno, browse the web without internet access",
-    "link": "https://ceno.app/en/index.html",
+    "title": "Lost Doctor Who Episodes Found",
+    "link": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
     "source": "Hacker News",
-    "published": "2026-03-13T06:30:58+00:00",
+    "published": "2026-03-13T05:18:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47361313\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47360978\">Comments</a>"
   },
   {
-    "title": "\u201cThis is not the computer for you\u201d",
-    "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+    "title": "Show HN: Channel Surfer \u2013 Watch YouTube like it\u2019s cable TV",
+    "link": "https://channelsurfer.tv",
     "source": "Hacker News",
-    "published": "2026-03-13T01:45:49+00:00",
+    "published": "2026-03-11T14:34:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47359744\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47336100\">Comments</a>"
   },
   {
-    "title": "ATMs didn\u2019t kill bank teller jobs, but the iPhone did",
-    "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-    "source": "Hacker News",
-    "published": "2026-03-12T14:48:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47351371\">Comments</a>"
-  },
-  {
-    "title": "Executing programs inside transformers with exponentially faster inference",
-    "link": "https://www.percepta.ai/blog/can-llms-be-computers",
-    "source": "Hacker News",
-    "published": "2026-03-12T09:17:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348275\">Comments</a>"
-  },
-  {
-    "title": "Show HN: What was the world listening to? Music charts, 20 countries (1940\u20132025)",
-    "link": "https://88mph.fm/",
-    "source": "Hacker News",
-    "published": "2026-03-10T16:18:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47325296\">Comments</a>"
-  },
-  {
-    "title": "What we learned from a 22-Day storage bug (and how we fixed it)",
-    "link": "https://www.mux.com/blog/22-day-storage-bug",
-    "source": "Hacker News",
-    "published": "2026-03-09T16:34:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47311351\">Comments</a>"
-  },
-  {
-    "title": "The Mrs Fractal: Mirror, Rotate, Scale",
+    "title": "The Mrs Fractal: Mirror, Rotate, Scale (2025)",
     "link": "https://www.4rknova.com//blog/2025/06/22/mrs-fractal",
     "source": "Hacker News",
     "published": "2026-03-09T14:19:50+00:00",
@@ -142,21 +158,5 @@
     "published": "2026-03-09T10:21:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47307124\">Comments</a>"
-  },
-  {
-    "title": "Dijkstra's Crisis: The End of Algol and Beginning of Software Engineering (2010) [pdf]",
-    "link": "https://www.tomandmaria.com/Tom/Writing/DijkstrasCrisis_LeidenDRAFT.pdf",
-    "source": "Hacker News",
-    "published": "2026-03-09T07:49:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47305957\">Comments</a>"
-  },
-  {
-    "title": "Monster Is the Machine",
-    "link": "https://kirkcenter.org/reviews/monster-is-the-machine/",
-    "source": "Hacker News",
-    "published": "2026-03-08T18:09:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47299518\">Comments</a>"
   }
 ]
