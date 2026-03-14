@@ -1,5 +1,21 @@
 [
   {
+    "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+    "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "source": "Hacker News",
+    "published": "2026-03-13T22:52:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371064\">Comments</a>"
+  },
+  {
+    "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+    "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+    "source": "Hacker News",
+    "published": "2026-03-13T22:28:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47370822\">Comments</a>"
+  },
+  {
     "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
     "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
     "source": "Hacker News",
@@ -24,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47367932\">Comments</a>"
   },
   {
-    "title": "Your phone is an entire computer",
-    "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-    "source": "Hacker News",
-    "published": "2026-03-13T18:02:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367568\">Comments</a>"
-  },
-  {
     "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
     "link": "https://github.com/Compresr-ai/Context-Gateway",
     "source": "Hacker News",
@@ -40,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47367526\">Comments</a>"
   },
   {
-    "title": "John Carmack about open source and anti-AI activists",
-    "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "link": "https://claude.com/blog/1m-context-ga",
     "source": "Hacker News",
-    "published": "2026-03-13T17:51:34+00:00",
+    "published": "2026-03-13T17:19:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367463\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367129\">Comments</a>"
   },
   {
     "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
@@ -56,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47366666\">Comments</a>"
   },
   {
-    "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
-    "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-    "source": "Hacker News",
-    "published": "2026-03-13T16:13:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366374\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
-    "link": "https://www.runcaptain.com/",
-    "source": "Hacker News",
-    "published": "2026-03-13T15:45:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366011\">Comments</a>"
-  },
-  {
     "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
     "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
     "source": "Hacker News",
     "published": "2026-03-13T14:11:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47364729\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
-    "link": "https://www.getspine.ai/",
-    "source": "Hacker News",
-    "published": "2026-03-13T13:22:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364116\">Comments</a>"
   },
   {
     "title": "Can I run AI locally?",
@@ -112,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47362613\">Comments</a>"
   },
   {
-    "title": "Source code of Swedish e-government services has been leaked",
-    "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-    "source": "Hacker News",
-    "published": "2026-03-13T09:45:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47362350\">Comments</a>"
-  },
-  {
-    "title": "Bucketsquatting is finally dead",
-    "link": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
-    "source": "Hacker News",
-    "published": "2026-03-13T08:31:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47361913\">Comments</a>"
-  },
-  {
     "title": "Lost Doctor Who Episodes Found",
     "link": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
     "source": "Hacker News",
@@ -152,11 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47336100\">Comments</a>"
   },
   {
+    "title": "MetaGenesis Core \u2013 offline verification for computational claims",
+    "link": "https://www.metagenesis-core.dev/",
+    "source": "Hacker News",
+    "published": "2026-03-11T13:37:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47335416\">Comments</a>"
+  },
+  {
+    "title": "Exploring JEPA for real-time speech translation",
+    "link": "https://www.startpinch.com/research/en/jepa-encoder-translation/",
+    "source": "Hacker News",
+    "published": "2026-03-11T08:14:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332883\">Comments</a>"
+  },
+  {
+    "title": "OpenTelemetry for Rust Developers",
+    "link": "https://signoz.io/blog/opentelemetry-rust/",
+    "source": "Hacker News",
+    "published": "2026-03-10T10:57:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321579\">Comments</a>"
+  },
+  {
     "title": "Using Thunderbird for RSS",
     "link": "https://rubenerd.com/using-thunderbird-for-rss/",
     "source": "Hacker News",
     "published": "2026-03-10T07:38:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47320158\">Comments</a>"
+  },
+  {
+    "title": "Coding My Handwriting",
+    "link": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+    "source": "Hacker News",
+    "published": "2026-03-09T16:01:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47310815\">Comments</a>"
   }
 ]
