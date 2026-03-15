@@ -1,6 +1,102 @@
 [
   {
-    "title": "Claude Doubles Usage Limits During Off-Peak Hours (March 13\u201327, 2026)",
+    "title": "FCC chairman threatens TV broadcast licenses over news coverage",
+    "link": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
+    "source": "Hacker News",
+    "published": "2026-03-15T00:08:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382739\">Comments</a>"
+  },
+  {
+    "title": "SBCL Fibers \u2013 Lightweight Cooperative Threads",
+    "link": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+    "source": "Hacker News",
+    "published": "2026-03-14T23:22:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382398\">Comments</a>"
+  },
+  {
+    "title": "Airbus is preparing two uncrewed combat aircraft",
+    "link": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+    "source": "Hacker News",
+    "published": "2026-03-14T23:10:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382277\">Comments</a>"
+  },
+  {
+    "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+    "link": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+    "source": "Hacker News",
+    "published": "2026-03-14T23:00:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382196\">Comments</a>"
+  },
+  {
+    "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+    "link": "https://github.com/groverburger/grobpaint",
+    "source": "Hacker News",
+    "published": "2026-03-14T22:41:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382072\">Comments</a>"
+  },
+  {
+    "title": "Ageless Linux \u2013 Software for humans of indeterminate age",
+    "link": "https://agelesslinux.org/",
+    "source": "Hacker News",
+    "published": "2026-03-14T22:10:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381791\">Comments</a>"
+  },
+  {
+    "title": "Changes to OpenTTD Distribution on Steam",
+    "link": "https://www.openttd.org/news/2026/03/14/steam-changes",
+    "source": "Hacker News",
+    "published": "2026-03-14T22:04:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381746\">Comments</a>"
+  },
+  {
+    "title": "Learning Creative Coding",
+    "link": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+    "source": "Hacker News",
+    "published": "2026-03-14T22:02:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381731\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Han \u2013 A Korean programming language written in Rust",
+    "link": "https://github.com/xodn348/han",
+    "source": "Hacker News",
+    "published": "2026-03-14T21:27:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381382\">Comments</a>"
+  },
+  {
+    "title": "Launching the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/claude-partner-network",
+    "source": "Hacker News",
+    "published": "2026-03-14T21:23:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381340\">Comments</a>"
+  },
+  {
+    "title": "Bumblebee queens breathe underwater to survive drowning",
+    "link": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+    "source": "Hacker News",
+    "published": "2026-03-14T20:49:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381011\">Comments</a>"
+  },
+  {
+    "title": "Library of Short Stories",
+    "link": "https://www.libraryofshortstories.com/",
+    "source": "Hacker News",
+    "published": "2026-03-14T20:16:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380726\">Comments</a>"
+  },
+  {
+    "title": "Claude March 2026 usage promotion",
     "link": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
     "source": "Hacker News",
     "published": "2026-03-14T20:08:54+00:00",
@@ -8,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380647\">Comments</a>"
   },
   {
-    "title": "Gimp 3.2 Released",
-    "link": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
+    "title": "Fedora 44 on the Raspberry Pi 5",
+    "link": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
     "source": "Hacker News",
-    "published": "2026-03-14T19:51:25+00:00",
+    "published": "2026-03-14T19:56:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380465\">Comments</a>"
-  },
-  {
-    "title": "2026 tech layoffs reach 45,000 in March",
-    "link": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:46:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380405\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380512\">Comments</a>"
   },
   {
     "title": "Marketing for Founders",
@@ -32,52 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380295\">Comments</a>"
   },
   {
-    "title": "MCP Is Dead; Long Live MCP",
-    "link": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:32:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380270\">Comments</a>"
-  },
-  {
-    "title": "It's time to move your docs in the repo",
-    "link": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:28:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380231\">Comments</a>"
-  },
-  {
     "title": "Show HN: Ichinichi \u2013 One note per day, E2E encrypted, local-first",
     "link": "https://news.ycombinator.com/item?id=47379898",
     "source": "Hacker News",
     "published": "2026-03-14T18:57:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47379898\">Comments</a>"
-  },
-  {
-    "title": "Hostile Volume \u2013 A game about adjusting volume with intentionally bad UI",
-    "link": "https://hostilevolume.com/",
-    "source": "Hacker News",
-    "published": "2026-03-14T18:39:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47379712\">Comments</a>"
-  },
-  {
-    "title": "Sunsetting Jazzband",
-    "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
-    "source": "Hacker News",
-    "published": "2026-03-14T17:40:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47379067\">Comments</a>"
-  },
-  {
-    "title": "Nmap in the movies (2008)",
-    "link": "https://nmap.org/movies/",
-    "source": "Hacker News",
-    "published": "2026-03-14T16:25:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47378268\">Comments</a>"
   },
   {
     "title": "An ode to bzip",
@@ -88,46 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>"
   },
   {
-    "title": "Montana passes Right to Compute act (2025)",
-    "link": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-    "source": "Hacker News",
-    "published": "2026-03-14T13:59:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47376767\">Comments</a>"
-  },
-  {
-    "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
-    "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "source": "Hacker News",
-    "published": "2026-03-14T13:45:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47376619\">Comments</a>"
-  },
-  {
-    "title": "Show HN: GitAgent \u2013 An open standard that turns any Git repo into an AI agent",
-    "link": "https://www.gitagent.sh/",
-    "source": "Hacker News",
-    "published": "2026-03-14T13:41:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47376584\">Comments</a>"
-  },
-  {
-    "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-    "link": "https://github.com/drojaazu/megadev",
-    "source": "Hacker News",
-    "published": "2026-03-14T09:04:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374745\">Comments</a>"
-  },
-  {
-    "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
-    "link": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-    "source": "Hacker News",
-    "published": "2026-03-11T18:21:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339219\">Comments</a>"
-  },
-  {
     "title": "A Recursive Algorithm to Render Signed Distance Fields",
     "link": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47335796\">Comments</a>"
   },
   {
-    "title": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
-    "link": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
+    "title": "Deriving Type Erasure",
+    "link": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
     "source": "Hacker News",
-    "published": "2026-03-11T08:03:37+00:00",
+    "published": "2026-03-10T10:41:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332821\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321469\">Comments</a>"
   },
   {
-    "title": "Python: The Optimization Ladder",
-    "link": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
+    "title": "Offloading FFmpeg with Cloudflare",
+    "link": "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare",
     "source": "Hacker News",
-    "published": "2026-03-10T19:22:39+00:00",
+    "published": "2026-03-10T08:41:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47327703\">Comments</a>"
-  },
-  {
-    "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-    "link": "https://github.com/CSMWrap/CSMWrap",
-    "source": "Hacker News",
-    "published": "2026-03-10T08:55:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320667\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320571\">Comments</a>"
   }
 ]
