@@ -1,5 +1,53 @@
 [
   {
+    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+    "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "source": "Hacker News",
+    "published": "2026-03-15T13:08:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47387047\">Comments</a>"
+  },
+  {
+    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+    "link": "https://octetta.github.io/k-synth/",
+    "source": "Hacker News",
+    "published": "2026-03-15T12:58:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386983\">Comments</a>"
+  },
+  {
+    "title": "A Theory of the World as run by large adult children",
+    "link": "https://tomclancy.info/harold-and-george.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T12:48:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386908\">Comments</a>"
+  },
+  {
+    "title": "Pentagon expands oversight of Stars and Stripes, limits content",
+    "link": "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T12:11:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386651\">Comments</a>"
+  },
+  {
+    "title": "100 hour gap between a vibecoded prototype and a working product",
+    "link": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+    "source": "Hacker News",
+    "published": "2026-03-15T12:09:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386636\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Signet \u2013 Autonomous wildfire tracking from satellite and weather data",
+    "link": "https://signet.watch",
+    "source": "Hacker News",
+    "published": "2026-03-15T12:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386581\">Comments</a>"
+  },
+  {
     "title": "Generating All 32-Bit Primes (Part I)",
     "link": "https://hnlyman.github.io/pages/prime32_I.html",
     "source": "Hacker News",
@@ -8,7 +56,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47386441\">Comments</a>"
   },
   {
-    "title": "A Visual Introduction to Machine Learning",
+    "title": "IBM, sonic delay lines, and the history of the 80\u00d724 display",
+    "link": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T11:06:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386246\">Comments</a>"
+  },
+  {
+    "title": "A Visual Introduction to Machine Learning (2015)",
     "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
     "source": "Hacker News",
     "published": "2026-03-15T10:47:35+00:00",
@@ -56,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47383804\">Comments</a>"
   },
   {
-    "title": "Tree Search Distillation for Language Models Using PPO",
-    "link": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-    "source": "Hacker News",
-    "published": "2026-03-15T00:51:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47383059\">Comments</a>"
-  },
-  {
     "title": "How kernel anti-cheats work",
     "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
     "source": "Hacker News",
     "published": "2026-03-15T00:15:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47382791\">Comments</a>"
-  },
-  {
-    "title": "SBCL Fibers \u2013 Lightweight Cooperative Threads",
-    "link": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-    "source": "Hacker News",
-    "published": "2026-03-14T23:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382398\">Comments</a>"
-  },
-  {
-    "title": "Ageless Linux \u2013 Software for humans of indeterminate age",
-    "link": "https://agelesslinux.org/",
-    "source": "Hacker News",
-    "published": "2026-03-14T22:10:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381791\">Comments</a>"
   },
   {
     "title": "Allow me to get to know you, mistakes and all",
@@ -96,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47381736\">Comments</a>"
   },
   {
-    "title": "Show HN: Han \u2013 A Korean programming language written in Rust",
-    "link": "https://github.com/xodn348/han",
+    "title": "Human Organ Atlas",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adz2240",
     "source": "Hacker News",
-    "published": "2026-03-14T21:27:33+00:00",
+    "published": "2026-03-12T09:55:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381382\">Comments</a>"
-  },
-  {
-    "title": "Bumblebee queens breathe underwater to survive drowning",
-    "link": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
-    "source": "Hacker News",
-    "published": "2026-03-14T20:49:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381011\">Comments</a>"
-  },
-  {
-    "title": "MCP is dead; long live MCP",
-    "link": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:32:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380270\">Comments</a>"
-  },
-  {
-    "title": "Mathematics Distillation Challenge \u2013 Equational Theories",
-    "link": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-    "source": "Hacker News",
-    "published": "2026-03-14T09:38:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374924\">Comments</a>"
-  },
-  {
-    "title": "Slicing Bezier Surfaces",
-    "link": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
-    "source": "Hacker News",
-    "published": "2026-03-12T12:51:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349871\">Comments</a>"
-  },
-  {
-    "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
-    "link": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
-    "source": "Hacker News",
-    "published": "2026-03-11T16:07:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337423\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47348502\">Comments</a>"
   },
   {
     "title": "Why Mathematica does not simplify sinh(arccosh(x))",
@@ -158,5 +150,13 @@
     "published": "2026-03-11T12:24:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47334668\">Comments</a>"
+  },
+  {
+    "title": "Kniterate Notes",
+    "link": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
+    "source": "Hacker News",
+    "published": "2026-03-10T15:20:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324478\">Comments</a>"
   }
 ]
