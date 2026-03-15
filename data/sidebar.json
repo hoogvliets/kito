@@ -1,19 +1,43 @@
 [
   {
-    "title": "Grandparents are glued to their phones, families are worried [video]",
-    "link": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
+    "title": "The 49MB Web Page",
+    "link": "https://thatshubham.com/blog/news-audit",
     "source": "Hacker News",
-    "published": "2026-03-15T17:43:19+00:00",
+    "published": "2026-03-15T19:25:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47389784\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390945\">Comments</a>"
   },
   {
-    "title": "The most brilliant move in corporate history?",
-    "link": "https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/",
+    "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+    "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
     "source": "Hacker News",
-    "published": "2026-03-15T17:15:02+00:00",
+    "published": "2026-03-15T19:12:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47389472\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390817\">Comments</a>"
+  },
+  {
+    "title": "Office.eu launches as Europe's sovereign office platform",
+    "link": "https://office.eu/media/pressrelease-20260304",
+    "source": "Hacker News",
+    "published": "2026-03-15T18:22:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390233\">Comments</a>"
+  },
+  {
+    "title": "LLM Architecture Gallery",
+    "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "source": "Hacker News",
+    "published": "2026-03-15T16:01:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388676\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+    "link": "https://news.ycombinator.com/item?id=47388646",
+    "source": "Hacker News",
+    "published": "2026-03-15T15:58:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388646\">Comments</a>"
   },
   {
     "title": "In Memoriam: John W. Addison, my PhD advisor",
@@ -22,14 +46,6 @@
     "published": "2026-03-15T15:46:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388531\">Comments</a>"
-  },
-  {
-    "title": "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
-    "link": "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence",
-    "source": "Hacker News",
-    "published": "2026-03-15T15:45:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388519\">Comments</a>"
   },
   {
     "title": "Show HN: GDSL \u2013 800 line kernel: Lisp subset in 500, C subset in 1300",
@@ -56,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388141\">Comments</a>"
   },
   {
-    "title": "Separating the Wayland Compositor and Window Manager",
+    "title": "Separating the Wayland compositor and window manager",
     "link": "https://isaacfreund.com/blog/river-window-management/",
     "source": "Hacker News",
     "published": "2026-03-15T15:09:24+00:00",
@@ -96,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47386581\">Comments</a>"
   },
   {
-    "title": "Generating All 32-Bit Primes (Part I)",
-    "link": "https://hnlyman.github.io/pages/prime32_I.html",
-    "source": "Hacker News",
-    "published": "2026-03-15T11:42:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386441\">Comments</a>"
-  },
-  {
-    "title": "IBM, sonic delay lines, and the history of the 80\u00d724 display (2019)",
-    "link": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-    "source": "Hacker News",
-    "published": "2026-03-15T11:06:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386246\">Comments</a>"
-  },
-  {
     "title": "A Visual Introduction to Machine Learning (2015)",
     "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
     "source": "Hacker News",
@@ -120,28 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47386116\">Comments</a>"
   },
   {
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "title": "Autoresearch Hub",
+    "link": "http://autoresearchhub.com/",
     "source": "Hacker News",
-    "published": "2026-03-15T10:15:47+00:00",
+    "published": "2026-03-14T08:35:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385935\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374572\">Comments</a>"
   },
   {
-    "title": "Rack-mount hydroponics",
-    "link": "https://sa.lj.am/rack-mount-hydroponics/",
+    "title": "Measure of Justice: Covering the Cer\u00eede-I Adliye Covers (2017)",
+    "link": "https://www.denizcemonduygu.com/2017/05/measure-of-justice/",
     "source": "Hacker News",
-    "published": "2026-03-15T04:23:43+00:00",
+    "published": "2026-03-12T00:39:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47384352\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47344696\">Comments</a>"
   },
   {
-    "title": "Zipp 2001 Restoration",
-    "link": "https://robot-daycare.com/posts/zipp-2001-restoration-part-1/",
+    "title": "Bus travel from Lima to Rio de Janeiro",
+    "link": "https://kenschutte.com/lima-to-rio-by-bus/",
     "source": "Hacker News",
-    "published": "2026-03-11T10:39:24+00:00",
+    "published": "2026-03-11T19:07:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47333885\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339818\">Comments</a>"
+  },
+  {
+    "title": "//go:fix inline and the source-level inliner",
+    "link": "https://go.dev/blog/inliner",
+    "source": "Hacker News",
+    "published": "2026-03-11T18:39:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339463\">Comments</a>"
   },
   {
     "title": "C++26: The Oxford Variadic Comma",
@@ -150,13 +158,5 @@
     "published": "2026-03-11T07:27:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47332593\">Comments</a>"
-  },
-  {
-    "title": "Kniterate Notes",
-    "link": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
-    "source": "Hacker News",
-    "published": "2026-03-10T15:20:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47324478\">Comments</a>"
   }
 ]
