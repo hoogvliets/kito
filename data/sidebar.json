@@ -1,5 +1,29 @@
 [
   {
+    "title": "Generating All 32-Bit Primes (Part I)",
+    "link": "https://hnlyman.github.io/pages/prime32_I.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T11:42:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386441\">Comments</a>"
+  },
+  {
+    "title": "A Visual Introduction to Machine Learning",
+    "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "source": "Hacker News",
+    "published": "2026-03-15T10:47:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386116\">Comments</a>"
+  },
+  {
+    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+    "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "source": "Hacker News",
+    "published": "2026-03-15T10:15:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385935\">Comments</a>"
+  },
+  {
     "title": "The Appalling Stupidity of Spotify's AI DJ",
     "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
     "source": "Hacker News",
@@ -80,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47381382\">Comments</a>"
   },
   {
-    "title": "Launching the Claude Partner Network",
-    "link": "https://www.anthropic.com/news/claude-partner-network",
-    "source": "Hacker News",
-    "published": "2026-03-14T21:23:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381340\">Comments</a>"
-  },
-  {
     "title": "Bumblebee queens breathe underwater to survive drowning",
     "link": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
     "source": "Hacker News",
     "published": "2026-03-14T20:49:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47381011\">Comments</a>"
-  },
-  {
-    "title": "Fedora 44 on the Raspberry Pi 5",
-    "link": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:56:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380512\">Comments</a>"
-  },
-  {
-    "title": "Marketing for Founders",
-    "link": "https://github.com/EdoStra/Marketing-for-Founders",
-    "source": "Hacker News",
-    "published": "2026-03-14T19:35:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380295\">Comments</a>"
   },
   {
     "title": "MCP is dead; long live MCP",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47374924\">Comments</a>"
   },
   {
-    "title": "An unappetizing shrub became different vegetables",
+    "title": "Slicing Bezier Surfaces",
+    "link": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
+    "source": "Hacker News",
+    "published": "2026-03-12T12:51:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349871\">Comments</a>"
+  },
+  {
+    "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
     "link": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
     "source": "Hacker News",
     "published": "2026-03-11T16:07:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47337423\">Comments</a>"
-  },
-  {
-    "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
-    "link": "https://kubicki.org/letters/the-festival-of-the-machines/",
-    "source": "Hacker News",
-    "published": "2026-03-11T15:42:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337087\">Comments</a>"
   },
   {
     "title": "Why Mathematica does not simplify sinh(arccosh(x))",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47335325\">Comments</a>"
   },
   {
-    "title": "The mechanics of autonomous software translation",
-    "link": "https://alperenkeles.com/posts/autonomous-translations/",
+    "title": "Examples for the tcpdump and dig man pages",
+    "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
     "source": "Hacker News",
-    "published": "2026-03-11T08:09:52+00:00",
+    "published": "2026-03-11T12:24:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332857\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47334668\">Comments</a>"
   }
 ]
