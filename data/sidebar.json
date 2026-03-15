@@ -1,11 +1,19 @@
 [
   {
-    "title": "FCC chairman threatens TV broadcast licenses over news coverage",
-    "link": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
+    "title": "Tree Search Distillation for Language Models Using PPO",
+    "link": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
     "source": "Hacker News",
-    "published": "2026-03-15T00:08:22+00:00",
+    "published": "2026-03-15T00:51:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382739\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47383059\">Comments</a>"
+  },
+  {
+    "title": "How Kernel Anti-Cheats Work",
+    "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+    "source": "Hacker News",
+    "published": "2026-03-15T00:15:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382791\">Comments</a>"
   },
   {
     "title": "SBCL Fibers \u2013 Lightweight Cooperative Threads",
@@ -24,14 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47382277\">Comments</a>"
   },
   {
-    "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-    "link": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
-    "source": "Hacker News",
-    "published": "2026-03-14T23:00:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47382196\">Comments</a>"
-  },
-  {
     "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
     "link": "https://github.com/groverburger/grobpaint",
     "source": "Hacker News",
@@ -48,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47381791\">Comments</a>"
   },
   {
-    "title": "Changes to OpenTTD Distribution on Steam",
-    "link": "https://www.openttd.org/news/2026/03/14/steam-changes",
+    "title": "Allow me to get to know you, mistakes and all",
+    "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
     "source": "Hacker News",
-    "published": "2026-03-14T22:04:48+00:00",
+    "published": "2026-03-14T22:03:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381746\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381736\">Comments</a>"
   },
   {
     "title": "Learning Creative Coding",
@@ -80,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47381340\">Comments</a>"
   },
   {
+    "title": "Postgres with Builtin File Systems",
+    "link": "https://db9.ai/",
+    "source": "Hacker News",
+    "published": "2026-03-14T21:14:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381238\">Comments</a>"
+  },
+  {
     "title": "Bumblebee queens breathe underwater to survive drowning",
     "link": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
     "source": "Hacker News",
@@ -94,14 +102,6 @@
     "published": "2026-03-14T20:16:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380726\">Comments</a>"
-  },
-  {
-    "title": "Claude March 2026 usage promotion",
-    "link": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
-    "source": "Hacker News",
-    "published": "2026-03-14T20:08:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47380647\">Comments</a>"
   },
   {
     "title": "Fedora 44 on the Raspberry Pi 5",
@@ -120,20 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380295\">Comments</a>"
   },
   {
-    "title": "Show HN: Ichinichi \u2013 One note per day, E2E encrypted, local-first",
-    "link": "https://news.ycombinator.com/item?id=47379898",
+    "title": "Mathematics Distillation Challenge \u2013 Equational Theories",
+    "link": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
     "source": "Hacker News",
-    "published": "2026-03-14T18:57:12+00:00",
+    "published": "2026-03-14T09:38:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47379898\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374924\">Comments</a>"
   },
   {
-    "title": "An ode to bzip",
-    "link": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+    "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
+    "link": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
     "source": "Hacker News",
-    "published": "2026-03-14T16:01:23+00:00",
+    "published": "2026-03-11T18:21:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339219\">Comments</a>"
+  },
+  {
+    "title": "An unappetizing shrub became different vegetables",
+    "link": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
+    "source": "Hacker News",
+    "published": "2026-03-11T16:07:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337423\">Comments</a>"
+  },
+  {
+    "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+    "link": "https://kubicki.org/letters/the-festival-of-the-machines/",
+    "source": "Hacker News",
+    "published": "2026-03-11T15:42:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47337087\">Comments</a>"
   },
   {
     "title": "A Recursive Algorithm to Render Signed Distance Fields",
@@ -142,21 +158,5 @@
     "published": "2026-03-11T14:10:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47335796\">Comments</a>"
-  },
-  {
-    "title": "Deriving Type Erasure",
-    "link": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
-    "source": "Hacker News",
-    "published": "2026-03-10T10:41:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47321469\">Comments</a>"
-  },
-  {
-    "title": "Offloading FFmpeg with Cloudflare",
-    "link": "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare",
-    "source": "Hacker News",
-    "published": "2026-03-10T08:41:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47320571\">Comments</a>"
   }
 ]
