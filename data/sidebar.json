@@ -1,14 +1,30 @@
 [
   {
-    "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-    "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
+    "title": "AnswerThis (YC F25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
     "source": "Hacker News",
-    "published": "2026-03-16T18:38:14+00:00",
+    "published": "2026-03-16T21:00:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47402950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47404801\">Comments</a>"
   },
   {
-    "title": "Jemalloc un-abandoned by Meta",
+    "title": "Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand",
+    "link": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+    "source": "Hacker News",
+    "published": "2026-03-16T20:59:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47404798\">Comments</a>"
+  },
+  {
+    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "source": "Hacker News",
+    "published": "2026-03-16T20:01:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47404074\">Comments</a>"
+  },
+  {
+    "title": "Meta\u2019s renewed commitment to jemalloc",
     "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
     "source": "Hacker News",
     "published": "2026-03-16T18:12:32+00:00",
@@ -40,28 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401766\">Comments</a>"
   },
   {
-    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
-    "link": "https://arxiv.org/abs/2511.04427",
-    "source": "Hacker News",
-    "published": "2026-03-16T17:07:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401734\">Comments</a>"
-  },
-  {
-    "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
-    "link": "https://www.kaizenautomation.com/careers",
-    "source": "Hacker News",
-    "published": "2026-03-16T17:00:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401618\">Comments</a>"
-  },
-  {
     "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
     "link": "https://news.ycombinator.com/item?id=47401042",
     "source": "Hacker News",
     "published": "2026-03-16T16:21:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401042\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Claude Code skills that build complete Godot games",
+    "link": "https://github.com/htdt/godogen",
+    "source": "Hacker News",
+    "published": "2026-03-16T16:07:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47400868\">Comments</a>"
   },
   {
     "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
@@ -80,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47400060\">Comments</a>"
   },
   {
-    "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
+    "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
     "link": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
     "source": "Hacker News",
     "published": "2026-03-16T13:09:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47398534\">Comments</a>"
-  },
-  {
-    "title": "Even Faster Asin() Was Staring Right at Me",
-    "link": "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:30:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47398080\">Comments</a>"
   },
   {
     "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47397822\">Comments</a>"
   },
   {
-    "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-    "link": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-    "source": "Hacker News",
-    "published": "2026-03-16T11:57:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397797\">Comments</a>"
-  },
-  {
     "title": "Corruption erodes social trust more in democracies than in autocracies",
     "link": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
     "source": "Hacker News",
@@ -128,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47397593\">Comments</a>"
   },
   {
-    "title": "I Love FreeBSD",
+    "title": "Why I love FreeBSD",
     "link": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
     "source": "Hacker News",
     "published": "2026-03-16T11:23:14+00:00",
@@ -158,5 +150,13 @@
     "published": "2026-03-12T10:19:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47348652\">Comments</a>"
+  },
+  {
+    "title": "On The Need For Understanding",
+    "link": "https://blog.information-superhighway.net/on-the-need-for-understanding",
+    "source": "Hacker News",
+    "published": "2026-03-12T00:53:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47344821\">Comments</a>"
   }
 ]
