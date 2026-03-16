@@ -1,11 +1,83 @@
 [
   {
-    "title": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
+    "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+    "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
+    "source": "Hacker News",
+    "published": "2026-03-16T18:38:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47402950\">Comments</a>"
+  },
+  {
+    "title": "Jemalloc un-abandoned by Meta",
+    "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+    "source": "Hacker News",
+    "published": "2026-03-16T18:12:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47402640\">Comments</a>"
+  },
+  {
+    "title": "Language Model Teams as Distrbuted Systems",
+    "link": "https://arxiv.org/abs/2603.12229",
+    "source": "Hacker News",
+    "published": "2026-03-16T17:19:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401901\">Comments</a>"
+  },
+  {
+    "title": "The \u201csmall web\u201d is bigger than you might think",
+    "link": "https://kevinboone.me/small_web_is_big.html",
+    "source": "Hacker News",
+    "published": "2026-03-16T17:17:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401879\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
+    "link": "https://www.usechamber.io/",
+    "source": "Hacker News",
+    "published": "2026-03-16T17:09:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401766\">Comments</a>"
+  },
+  {
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+    "link": "https://arxiv.org/abs/2511.04427",
+    "source": "Hacker News",
+    "published": "2026-03-16T17:07:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401734\">Comments</a>"
+  },
+  {
+    "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+    "link": "https://www.kaizenautomation.com/careers",
+    "source": "Hacker News",
+    "published": "2026-03-16T17:00:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401618\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
+    "link": "https://news.ycombinator.com/item?id=47401042",
+    "source": "Hacker News",
+    "published": "2026-03-16T16:21:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401042\">Comments</a>"
+  },
+  {
+    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
     "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
     "source": "Hacker News",
     "published": "2026-03-16T15:25:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47400261\">Comments</a>"
+  },
+  {
+    "title": "US Job Market Visualizer",
+    "link": "https://karpathy.ai/jobs/",
+    "source": "Hacker News",
+    "published": "2026-03-16T15:10:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47400060\">Comments</a>"
   },
   {
     "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
@@ -16,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47398534\">Comments</a>"
   },
   {
-    "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
-    "link": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
-    "source": "Hacker News",
-    "published": "2026-03-16T13:05:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47398479\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hackerbrief \u2013 Top posts on Hacker News summarized daily",
-    "link": "https://hackerbrief.vercel.app/",
-    "source": "Hacker News",
-    "published": "2026-03-16T13:01:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47398441\">Comments</a>"
-  },
-  {
     "title": "Even Faster Asin() Was Staring Right at Me",
     "link": "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/",
     "source": "Hacker News",
@@ -40,44 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47398080\">Comments</a>"
   },
   {
-    "title": "Comparing Python Type Checkers: Typing Spec Conformance",
-    "link": "https://pyrefly.org/blog/typing-conformance-comparison/",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:25:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47398023\">Comments</a>"
-  },
-  {
-    "title": "Obsession with growth is destroying nature, 150 countries warn",
-    "link": "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:13:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397920\">Comments</a>"
-  },
-  {
-    "title": "Bringing Semiconductors to Kazakhstan",
-    "link": "https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:09:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397883\">Comments</a>"
-  },
-  {
     "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
     "link": "https://github.com/emin-ozata/lazycut",
     "source": "Hacker News",
     "published": "2026-03-16T12:05:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47397857\">Comments</a>"
-  },
-  {
-    "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-    "link": "https://jobs.ashbyhq.com/Nango",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:03:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397842\">Comments</a>"
   },
   {
     "title": "Polymarket gamblers threaten to kill me over Iran missile story",
@@ -112,44 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47397574\">Comments</a>"
   },
   {
-    "title": "How I write software with LLMs",
-    "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+    "title": "Starlink Mini as a failover",
+    "link": "https://www.jackpearce.co.uk/posts/starlink-failover/",
     "source": "Hacker News",
-    "published": "2026-03-16T01:24:09+00:00",
+    "published": "2026-03-16T08:07:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47394022\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396264\">Comments</a>"
   },
   {
-    "title": "Canada's bill C-22 mandates mass metadata surveillance",
-    "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "title": "Cert Authorities Check for DNSSEC from Today",
+    "link": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
     "source": "Hacker News",
-    "published": "2026-03-15T21:22:16+00:00",
+    "published": "2026-03-15T22:10:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392084\">Comments</a>"
-  },
-  {
-    "title": "The 49MB web page",
-    "link": "https://thatshubham.com/blog/news-audit",
-    "source": "Hacker News",
-    "published": "2026-03-15T19:25:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390945\">Comments</a>"
-  },
-  {
-    "title": "Chrome DevTools MCP (2025)",
-    "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-    "source": "Hacker News",
-    "published": "2026-03-15T19:12:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390817\">Comments</a>"
-  },
-  {
-    "title": "Autoresearch Hub",
-    "link": "http://autoresearchhub.com/",
-    "source": "Hacker News",
-    "published": "2026-03-14T08:35:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374572\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392510\">Comments</a>"
   },
   {
     "title": "Home Assistant waters my plants",
