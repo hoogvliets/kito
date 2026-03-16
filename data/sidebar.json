@@ -1,6 +1,62 @@
 [
   {
-    "title": "The 49MB Web Page",
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+    "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "source": "Hacker News",
+    "published": "2026-03-16T00:22:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393619\">Comments</a>"
+  },
+  {
+    "title": "The Linux Programming Interface as a university course text",
+    "link": "https://man7.org/tlpi/academic/index.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T23:51:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393388\">Comments</a>"
+  },
+  {
+    "title": "Excel incorrectly assumes that the year 1900 is a leap year",
+    "link": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
+    "source": "Hacker News",
+    "published": "2026-03-15T23:34:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393225\">Comments</a>"
+  },
+  {
+    "title": "Nasdaq's Shame",
+    "link": "https://keubiko.substack.com/p/nasdaqs-shame",
+    "source": "Hacker News",
+    "published": "2026-03-15T22:16:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392550\">Comments</a>"
+  },
+  {
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "source": "Hacker News",
+    "published": "2026-03-15T22:15:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392547\">Comments</a>"
+  },
+  {
+    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+    "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "source": "Hacker News",
+    "published": "2026-03-15T21:22:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392084\">Comments</a>"
+  },
+  {
+    "title": "LLMs can be exhausting",
+    "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+    "source": "Hacker News",
+    "published": "2026-03-15T20:56:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47391803\">Comments</a>"
+  },
+  {
+    "title": "The 49MB web page",
     "link": "https://thatshubham.com/blog/news-audit",
     "source": "Hacker News",
     "published": "2026-03-15T19:25:18+00:00",
@@ -8,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47390945\">Comments</a>"
   },
   {
-    "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+    "title": "Chrome DevTools MCP",
     "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
     "source": "Hacker News",
     "published": "2026-03-15T19:12:53+00:00",
@@ -16,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47390817\">Comments</a>"
   },
   {
-    "title": "Office.eu launches as Europe's sovereign office platform",
-    "link": "https://office.eu/media/pressrelease-20260304",
+    "title": "Stop Sloppypasta",
+    "link": "https://stopsloppypasta.ai/",
     "source": "Hacker News",
-    "published": "2026-03-15T18:22:36+00:00",
+    "published": "2026-03-15T17:25:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47390233\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47389570\">Comments</a>"
   },
   {
     "title": "LLM Architecture Gallery",
@@ -32,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388676\">Comments</a>"
   },
   {
-    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-    "link": "https://news.ycombinator.com/item?id=47388646",
-    "source": "Hacker News",
-    "published": "2026-03-15T15:58:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388646\">Comments</a>"
-  },
-  {
     "title": "In Memoriam: John W. Addison, my PhD advisor",
     "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
     "source": "Hacker News",
     "published": "2026-03-15T15:46:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388531\">Comments</a>"
-  },
-  {
-    "title": "Show HN: GDSL \u2013 800 line kernel: Lisp subset in 500, C subset in 1300",
-    "link": "https://firthemouse.github.io/",
-    "source": "Hacker News",
-    "published": "2026-03-15T15:40:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388479\">Comments</a>"
   },
   {
     "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
@@ -88,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47387047\">Comments</a>"
   },
   {
-    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-    "link": "https://octetta.github.io/k-synth/",
+    "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+    "link": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
     "source": "Hacker News",
-    "published": "2026-03-15T12:58:13+00:00",
+    "published": "2026-03-12T14:10:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386983\">Comments</a>"
-  },
-  {
-    "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
-    "link": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
-    "source": "Hacker News",
-    "published": "2026-03-15T12:41:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386856\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Signet \u2013 Autonomous wildfire tracking from satellite and weather data",
-    "link": "https://signet.watch",
-    "source": "Hacker News",
-    "published": "2026-03-15T12:01:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386581\">Comments</a>"
-  },
-  {
-    "title": "A Visual Introduction to Machine Learning (2015)",
-    "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "source": "Hacker News",
-    "published": "2026-03-15T10:47:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386116\">Comments</a>"
-  },
-  {
-    "title": "Autoresearch Hub",
-    "link": "http://autoresearchhub.com/",
-    "source": "Hacker News",
-    "published": "2026-03-14T08:35:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374572\">Comments</a>"
-  },
-  {
-    "title": "Measure of Justice: Covering the Cer\u00eede-I Adliye Covers (2017)",
-    "link": "https://www.denizcemonduygu.com/2017/05/measure-of-justice/",
-    "source": "Hacker News",
-    "published": "2026-03-12T00:39:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47344696\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47350763\">Comments</a>"
   },
   {
     "title": "Bus travel from Lima to Rio de Janeiro",
