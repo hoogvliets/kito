@@ -1,11 +1,35 @@
 [
   {
-    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
-    "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "title": "Federal Right to Privacy Act \u2013 Draft legislation",
+    "link": "https://righttoprivacyact.github.io",
     "source": "Hacker News",
-    "published": "2026-03-16T00:22:48+00:00",
+    "published": "2026-03-16T01:58:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393619\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47394264\">Comments</a>"
+  },
+  {
+    "title": "How I write software with LLMs",
+    "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+    "source": "Hacker News",
+    "published": "2026-03-16T01:24:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47394022\">Comments</a>"
+  },
+  {
+    "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+    "link": "https://github.com/QAInsights/AIx",
+    "source": "Hacker News",
+    "published": "2026-03-16T01:21:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47394004\">Comments</a>"
+  },
+  {
+    "title": "What is agentic engineering?",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+    "source": "Hacker News",
+    "published": "2026-03-16T01:07:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393908\">Comments</a>"
   },
   {
     "title": "The Linux Programming Interface as a university course text",
@@ -14,30 +38,6 @@
     "published": "2026-03-15T23:51:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47393388\">Comments</a>"
-  },
-  {
-    "title": "Excel incorrectly assumes that the year 1900 is a leap year",
-    "link": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
-    "source": "Hacker News",
-    "published": "2026-03-15T23:34:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393225\">Comments</a>"
-  },
-  {
-    "title": "Nasdaq's Shame",
-    "link": "https://keubiko.substack.com/p/nasdaqs-shame",
-    "source": "Hacker News",
-    "published": "2026-03-15T22:16:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392550\">Comments</a>"
-  },
-  {
-    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-    "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-    "source": "Hacker News",
-    "published": "2026-03-15T22:15:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47392547\">Comments</a>"
   },
   {
     "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
@@ -64,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47390945\">Comments</a>"
   },
   {
-    "title": "Chrome DevTools MCP",
+    "title": "Chrome DevTools MCP (2025)",
     "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
     "source": "Hacker News",
     "published": "2026-03-15T19:12:53+00:00",
@@ -88,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388676\">Comments</a>"
   },
   {
-    "title": "In Memoriam: John W. Addison, my PhD advisor",
-    "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
-    "source": "Hacker News",
-    "published": "2026-03-15T15:46:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388531\">Comments</a>"
-  },
-  {
-    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-    "link": "https://zzk273.github.io/LATENT/",
-    "source": "Hacker News",
-    "published": "2026-03-15T15:21:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388273\">Comments</a>"
-  },
-  {
     "title": "What makes Intel Optane stand out (2023)",
     "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
     "source": "Hacker News",
@@ -120,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388137\">Comments</a>"
   },
   {
-    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+    "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
     "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
     "source": "Hacker News",
     "published": "2026-03-15T13:08:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47387047\">Comments</a>"
+  },
+  {
+    "title": "The emergence of print-on-demand Amazon paperback books",
+    "link": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
+    "source": "Hacker News",
+    "published": "2026-03-15T09:06:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385576\">Comments</a>"
+  },
+  {
+    "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+    "link": "https://github.com/jtsylve/spice-crypt",
+    "source": "Hacker News",
+    "published": "2026-03-15T07:11:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385011\">Comments</a>"
   },
   {
     "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
@@ -136,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47350763\">Comments</a>"
   },
   {
-    "title": "Bus travel from Lima to Rio de Janeiro",
-    "link": "https://kenschutte.com/lima-to-rio-by-bus/",
+    "title": "Electric motor scaling laws and inertia in robot actuators",
+    "link": "https://robot-daycare.com/posts/actuation_series_1/",
     "source": "Hacker News",
-    "published": "2026-03-11T19:07:12+00:00",
+    "published": "2026-03-12T13:04:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47339818\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47350016\">Comments</a>"
+  },
+  {
+    "title": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+    "link": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-11T23:24:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47343902\">Comments</a>"
   },
   {
     "title": "//go:fix inline and the source-level inliner",
@@ -150,13 +158,5 @@
     "published": "2026-03-11T18:39:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47339463\">Comments</a>"
-  },
-  {
-    "title": "C++26: The Oxford Variadic Comma",
-    "link": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
-    "source": "Hacker News",
-    "published": "2026-03-11T07:27:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47332593\">Comments</a>"
   }
 ]
