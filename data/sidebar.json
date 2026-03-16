@@ -24,14 +24,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47394004\">Comments</a>"
   },
   {
-    "title": "What is agentic engineering?",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
-    "source": "Hacker News",
-    "published": "2026-03-16T01:07:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393908\">Comments</a>"
-  },
-  {
     "title": "The Linux Programming Interface as a university course text",
     "link": "https://man7.org/tlpi/academic/index.html",
     "source": "Hacker News",
@@ -40,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47393388\">Comments</a>"
   },
   {
-    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+    "title": "Canada's bill C-22 mandates mass metadata surveillance",
     "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
     "source": "Hacker News",
     "published": "2026-03-15T21:22:16+00:00",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47385011\">Comments</a>"
   },
   {
-    "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
-    "link": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+    "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+    "link": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
     "source": "Hacker News",
-    "published": "2026-03-12T14:10:56+00:00",
+    "published": "2026-03-13T01:38:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47350763\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47359712\">Comments</a>"
   },
   {
     "title": "Electric motor scaling laws and inertia in robot actuators",
@@ -144,7 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47350016\">Comments</a>"
   },
   {
-    "title": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+    "title": "How far can you go with IX Route Servers only?",
+    "link": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers",
+    "source": "Hacker News",
+    "published": "2026-03-12T12:11:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47349499\">Comments</a>"
+  },
+  {
+    "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
     "link": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
     "source": "Hacker News",
     "published": "2026-03-11T23:24:22+00:00",
