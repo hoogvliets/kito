@@ -1,5 +1,37 @@
 [
   {
+    "title": "Zenclora OS",
+    "link": "https://zenclora.org/",
+    "source": "Hacker News",
+    "published": "2026-03-17T04:10:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47408497\">Comments</a>"
+  },
+  {
+    "title": "Monkey Island for Commodore 64 Ground Up",
+    "link": "https://pixeldust.se/monkey-island-project",
+    "source": "Hacker News",
+    "published": "2026-03-17T04:00:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47408441\">Comments</a>"
+  },
+  {
+    "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+    "link": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+    "source": "Hacker News",
+    "published": "2026-03-17T03:46:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47408360\">Comments</a>"
+  },
+  {
+    "title": "Every layer of review makes you 10x slower",
+    "link": "https://apenwarr.ca/log/20260316",
+    "source": "Hacker News",
+    "published": "2026-03-17T03:20:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47408205\">Comments</a>"
+  },
+  {
     "title": "US SEC preparing to scrap quarterly reporting requirement",
     "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
     "source": "Hacker News",
@@ -8,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47406779\">Comments</a>"
   },
   {
-    "title": "Show HN: Trackm, a personal finance web app",
-    "link": "https://trackm.net",
-    "source": "Hacker News",
-    "published": "2026-03-16T23:36:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47406569\">Comments</a>"
-  },
-  {
     "title": "AnswerThis (YC F25) Is Hiring",
     "link": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
     "source": "Hacker News",
     "published": "2026-03-16T21:00:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47404801\">Comments</a>"
+  },
+  {
+    "title": "Beyond has dropped \u201cmeat\u201d from its name and expanded its high-protein drink line",
+    "link": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+    "source": "Hacker News",
+    "published": "2026-03-16T20:59:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47404798\">Comments</a>"
   },
   {
     "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
@@ -40,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47402640\">Comments</a>"
   },
   {
-    "title": "Language Model Teams as Distrbuted Systems",
-    "link": "https://arxiv.org/abs/2603.12229",
-    "source": "Hacker News",
-    "published": "2026-03-16T17:19:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401901\">Comments</a>"
-  },
-  {
     "title": "The \u201csmall web\u201d is bigger than you might think",
     "link": "https://kevinboone.me/small_web_is_big.html",
     "source": "Hacker News",
@@ -56,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401879\">Comments</a>"
   },
   {
-    "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+    "title": "The American Healthcare Conundrum",
     "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
     "source": "Hacker News",
     "published": "2026-03-16T17:13:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401809\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
-    "link": "https://news.ycombinator.com/item?id=47401042",
-    "source": "Hacker News",
-    "published": "2026-03-16T16:21:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401042\">Comments</a>"
-  },
-  {
-    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
-    "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "source": "Hacker News",
-    "published": "2026-03-16T15:25:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47400261\">Comments</a>"
-  },
-  {
-    "title": "AirPods Max 2",
-    "link": "https://www.apple.com/airpods-max/",
-    "source": "Hacker News",
-    "published": "2026-03-16T13:22:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47398681\">Comments</a>"
   },
   {
     "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
@@ -94,14 +94,6 @@
     "published": "2026-03-16T13:09:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47398534\">Comments</a>"
-  },
-  {
-    "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-    "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-    "source": "Hacker News",
-    "published": "2026-03-16T12:00:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397822\">Comments</a>"
   },
   {
     "title": "Why I love FreeBSD",
@@ -120,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47396264\">Comments</a>"
   },
   {
+    "title": "Pyodide: a Python distribution based on WebAssembly",
+    "link": "https://github.com/pyodide/pyodide",
+    "source": "Hacker News",
+    "published": "2026-03-13T17:34:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367298\">Comments</a>"
+  },
+  {
     "title": "Show HN: Thermal Receipt Printers \u2013 Markdown and Web UI",
     "link": "https://github.com/sadreck/ThermalMarky",
     "source": "Hacker News",
@@ -136,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47364260\">Comments</a>"
   },
   {
-    "title": "In space, no one can hear you kernel panic",
+    "title": "In space, no one can hear you kernel panic (2020)",
     "link": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
     "source": "Hacker News",
     "published": "2026-03-13T00:02:00+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47355100\">Comments</a>"
   },
   {
-    "title": "On The Need For Understanding",
-    "link": "https://blog.information-superhighway.net/on-the-need-for-understanding",
+    "title": "Lf-lean: The frontier of verified software engineering",
+    "link": "https://theorem.dev/blog/lf-lean/",
     "source": "Hacker News",
-    "published": "2026-03-12T00:53:12+00:00",
+    "published": "2026-03-12T15:37:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47344821\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47352353\">Comments</a>"
   }
 ]
