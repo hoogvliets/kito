@@ -1,5 +1,13 @@
 [
   {
+    "title": "SSH has no Host header",
+    "link": "https://blog.exe.dev/ssh-host-header",
+    "source": "Hacker News",
+    "published": "2026-03-18T05:18:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>"
+  },
+  {
     "title": "Have a Fucking Website",
     "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
     "source": "Hacker News",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47412569\">Comments</a>"
   },
   {
-    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-    "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-    "source": "Hacker News",
-    "published": "2026-03-17T12:01:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47411480\">Comments</a>"
-  },
-  {
     "title": "Honda is killing its EVs",
     "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
     "source": "Hacker News",
@@ -120,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47387268\">Comments</a>"
   },
   {
-    "title": "Leviathan",
+    "title": "Leviathan (1651)",
     "link": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
     "source": "Hacker News",
     "published": "2026-03-15T05:46:35+00:00",
@@ -128,7 +128,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47384653\">Comments</a>"
   },
   {
-    "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+    "title": "JPEG Compression",
+    "link": "https://www.sophielwang.com/blog/jpeg",
+    "source": "Hacker News",
+    "published": "2026-03-14T01:31:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47372367\">Comments</a>"
+  },
+  {
+    "title": "Electron microscopy shows \u2018mouse bite\u2019 defects in semiconductors",
     "link": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
     "source": "Hacker News",
     "published": "2026-03-13T23:30:08+00:00",
@@ -150,13 +158,5 @@
     "published": "2026-03-13T19:14:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47368425\">Comments</a>"
-  },
-  {
-    "title": "The Starving Time in Jamestown",
-    "link": "https://www.historytoday.com/archive/history-matters/starving-time-jamestown",
-    "source": "Hacker News",
-    "published": "2026-03-13T16:03:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366256\">Comments</a>"
   }
 ]
