@@ -1,5 +1,37 @@
 [
   {
+    "title": "Have a Fucking Website",
+    "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+    "source": "Hacker News",
+    "published": "2026-03-18T03:53:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>"
+  },
+  {
+    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+    "link": "https://amaiya.github.io/onprem/examples_agent.html",
+    "source": "Hacker News",
+    "published": "2026-03-18T01:10:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47420493\">Comments</a>"
+  },
+  {
+    "title": "The pleasures of poor product design",
+    "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+    "source": "Hacker News",
+    "published": "2026-03-18T01:00:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47420432\">Comments</a>"
+  },
+  {
+    "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+    "link": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+    "source": "Hacker News",
+    "published": "2026-03-18T00:53:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47420388\">Comments</a>"
+  },
+  {
     "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
     "link": "https://arxiv.org/abs/2603.15381",
     "source": "Hacker News",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47418295\">Comments</a>"
   },
   {
-    "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
     "link": "https://github.com/gsd-build/get-shit-done",
     "source": "Hacker News",
     "published": "2026-03-17T20:23:39+00:00",
@@ -48,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416486\">Comments</a>"
   },
   {
-    "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-    "link": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-    "source": "Hacker News",
-    "published": "2026-03-17T18:01:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416081\">Comments</a>"
-  },
-  {
-    "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-    "link": "https://theasc.com/articles/the-secret-agent-cinematography",
-    "source": "Hacker News",
-    "published": "2026-03-17T15:56:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414440\">Comments</a>"
-  },
-  {
     "title": "Unsloth Studio",
     "link": "https://unsloth.ai/docs/new/studio",
     "source": "Hacker News",
@@ -78,14 +94,6 @@
     "published": "2026-03-17T15:16:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47413876\">Comments</a>"
-  },
-  {
-    "title": "Node.js needs a virtual file system",
-    "link": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-    "source": "Hacker News",
-    "published": "2026-03-17T14:28:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47413195\">Comments</a>"
   },
   {
     "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47411480\">Comments</a>"
   },
   {
-    "title": "Kagi Small Web",
-    "link": "https://kagi.com/smallweb/",
-    "source": "Hacker News",
-    "published": "2026-03-17T09:53:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47410542\">Comments</a>"
-  },
-  {
     "title": "Honda is killing its EVs",
     "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
     "source": "Hacker News",
@@ -120,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47387268\">Comments</a>"
   },
   {
-    "title": "Torturing Rustc by Emulating HKTs",
-    "link": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+    "title": "Leviathan",
+    "link": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
     "source": "Hacker News",
-    "published": "2026-03-14T07:25:09+00:00",
+    "published": "2026-03-15T05:46:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374197\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Fatal Core Dump \u2013 A debugging murder mystery played with GDB",
-    "link": "https://www.robopenguins.com/fatal_core_dump/",
-    "source": "Hacker News",
-    "published": "2026-03-14T00:12:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371785\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47384653\">Comments</a>"
   },
   {
     "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
@@ -144,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47371404\">Comments</a>"
   },
   {
+    "title": "More than 135 open hardware devices flashable with your own firmware",
+    "link": "https://openhardware.directory",
+    "source": "Hacker News",
+    "published": "2026-03-13T21:04:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47369883\">Comments</a>"
+  },
+  {
     "title": "It Took Me 30 Years to Solve This VFX Problem \u2013 Green Screen Problem [video]",
     "link": "https://www.youtube.com/watch?v=3Ploi723hg4",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47368425\">Comments</a>"
   },
   {
-    "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
-    "link": "https://github.com/ywong137/speech-speed",
+    "title": "The Starving Time in Jamestown",
+    "link": "https://www.historytoday.com/archive/history-matters/starving-time-jamestown",
     "source": "Hacker News",
-    "published": "2026-03-13T06:18:17+00:00",
+    "published": "2026-03-13T16:03:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47361251\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366256\">Comments</a>"
   }
 ]
