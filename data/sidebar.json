@@ -1,11 +1,19 @@
 [
   {
-    "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
-    "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+    "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+    "link": "https://arxiv.org/abs/2603.15381",
     "source": "Hacker News",
-    "published": "2026-03-17T20:24:33+00:00",
+    "published": "2026-03-17T21:42:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47417814\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47418722\">Comments</a>"
+  },
+  {
+    "title": "Mistral AI Releases Forge",
+    "link": "https://mistral.ai/news/forge",
+    "source": "Hacker News",
+    "published": "2026-03-17T21:04:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47418295\">Comments</a>"
   },
   {
     "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
@@ -16,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47417804\">Comments</a>"
   },
   {
-    "title": "'It's sweet. It's bitter. It's ours.' The chocolate ritual that binds my family",
-    "link": "https://www.csmonitor.com/The-Home-Forum/2026/0212/chocolate-valentines-day-love",
+    "title": "Launch HN: Kita (YC W26) \u2013 Automate credit review in emerging markets",
+    "link": "https://news.ycombinator.com/item?id=47417335",
     "source": "Hacker News",
-    "published": "2026-03-17T19:31:06+00:00",
+    "published": "2026-03-17T19:46:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47417127\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47417335\">Comments</a>"
   },
   {
     "title": "A Decade of Slug",
@@ -30,14 +38,6 @@
     "published": "2026-03-17T18:59:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416736\">Comments</a>"
-  },
-  {
-    "title": "Java 26 is here",
-    "link": "https://hanno.codes/2026/03/17/java-26-is-here/",
-    "source": "Hacker News",
-    "published": "2026-03-17T18:44:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416548\">Comments</a>"
   },
   {
     "title": "Python 3.15's JIT is now back on track",
@@ -56,20 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416081\">Comments</a>"
   },
   {
-    "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
-    "link": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
-    "source": "Hacker News",
-    "published": "2026-03-17T17:00:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47415350\">Comments</a>"
-  },
-  {
     "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
     "link": "https://theasc.com/articles/the-secret-agent-cinematography",
     "source": "Hacker News",
     "published": "2026-03-17T15:56:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47414440\">Comments</a>"
+  },
+  {
+    "title": "Unsloth Studio",
+    "link": "https://unsloth.ai/docs/new/studio",
+    "source": "Hacker News",
+    "published": "2026-03-17T15:26:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414032\">Comments</a>"
   },
   {
     "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
@@ -88,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47413195\">Comments</a>"
   },
   {
-    "title": "OpenSUSE Kalpa",
-    "link": "https://kalpadesktop.org/",
+    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+    "link": "https://github.com/adammiribyan/zeroboot",
     "source": "Hacker News",
-    "published": "2026-03-17T13:54:17+00:00",
+    "published": "2026-03-17T13:43:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47412726\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47412569\">Comments</a>"
   },
   {
     "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
@@ -112,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47410542\">Comments</a>"
   },
   {
-    "title": "Show HN: Crust \u2013 A CLI framework for TypeScript and Bun",
-    "link": "https://github.com/chenxin-yan/crust",
+    "title": "Honda is killing its EVs",
+    "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
     "source": "Hacker News",
-    "published": "2026-03-17T04:43:29+00:00",
+    "published": "2026-03-15T13:38:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47408727\">Comments</a>"
-  },
-  {
-    "title": "Toward automated verification of unreviewed AI-generated code",
-    "link": "https://peterlavigne.com/writing/verifying-ai-generated-code",
-    "source": "Hacker News",
-    "published": "2026-03-16T10:52:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397367\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47387268\">Comments</a>"
   },
   {
     "title": "Torturing Rustc by Emulating HKTs",
@@ -136,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47374197\">Comments</a>"
   },
   {
+    "title": "Show HN: Fatal Core Dump \u2013 A debugging murder mystery played with GDB",
+    "link": "https://www.robopenguins.com/fatal_core_dump/",
+    "source": "Hacker News",
+    "published": "2026-03-14T00:12:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371785\">Comments</a>"
+  },
+  {
+    "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+    "link": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+    "source": "Hacker News",
+    "published": "2026-03-13T23:30:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371404\">Comments</a>"
+  },
+  {
     "title": "It Took Me 30 Years to Solve This VFX Problem \u2013 Green Screen Problem [video]",
     "link": "https://www.youtube.com/watch?v=3Ploi723hg4",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47368425\">Comments</a>"
   },
   {
-    "title": "The Plumbing of Everyday Magic",
-    "link": "https://plumbing-of-everyday-magic.hyperclay.com/",
+    "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
+    "link": "https://github.com/ywong137/speech-speed",
     "source": "Hacker News",
-    "published": "2026-03-13T15:57:21+00:00",
+    "published": "2026-03-13T06:18:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47366177\">Comments</a>"
-  },
-  {
-    "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
-    "link": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-    "source": "Hacker News",
-    "published": "2026-03-13T13:40:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47364337\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47361251\">Comments</a>"
   }
 ]
