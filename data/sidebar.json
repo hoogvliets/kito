@@ -1,19 +1,51 @@
 [
   {
-    "title": "Measuring progress toward AGI: A cognitive framework",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "title": "Machine Payments Protocol (MPP)",
+    "link": "https://stripe.com/blog/machine-payments-protocol",
     "source": "Hacker News",
-    "published": "2026-03-18T11:44:44+00:00",
+    "published": "2026-03-18T15:24:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47424458\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426936\">Comments</a>"
   },
   {
-    "title": "Judge orders restoration of Voice of America",
-    "link": "https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24",
+    "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+    "link": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
     "source": "Hacker News",
-    "published": "2026-03-18T10:57:57+00:00",
+    "published": "2026-03-18T14:28:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47424042\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426246\">Comments</a>"
+  },
+  {
+    "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+    "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+    "source": "Hacker News",
+    "published": "2026-03-18T14:14:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426057\">Comments</a>"
+  },
+  {
+    "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+    "link": "https://github.com/joaoh82/rustunnel",
+    "source": "Hacker News",
+    "published": "2026-03-18T14:00:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425918\">Comments</a>"
+  },
+  {
+    "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+    "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+    "source": "Hacker News",
+    "published": "2026-03-18T13:32:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425607\">Comments</a>"
+  },
+  {
+    "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
+    "link": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
+    "source": "Hacker News",
+    "published": "2026-03-18T13:04:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425297\">Comments</a>"
   },
   {
     "title": "Rob Pike's 5 Rules of Programming",
@@ -64,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47418295\">Comments</a>"
   },
   {
-    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-    "link": "https://github.com/gsd-build/get-shit-done",
-    "source": "Hacker News",
-    "published": "2026-03-17T20:23:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47417804\">Comments</a>"
-  },
-  {
     "title": "A Decade of Slug",
     "link": "https://terathon.com/blog/decade-slug.html",
     "source": "Hacker News",
@@ -80,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416736\">Comments</a>"
   },
   {
-    "title": "Python 3.15's JIT is now back on track",
-    "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+    "title": "A Fuzzer for the Toy Optimizer",
+    "link": "https://bernsteinbear.com/blog/toy-fuzzer/",
     "source": "Hacker News",
-    "published": "2026-03-17T18:37:27+00:00",
+    "published": "2026-03-17T15:32:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416486\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414112\">Comments</a>"
   },
   {
     "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
@@ -96,36 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47413876\">Comments</a>"
   },
   {
-    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-    "link": "https://github.com/adammiribyan/zeroboot",
-    "source": "Hacker News",
-    "published": "2026-03-17T13:43:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47412569\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Pgit \u2013 A Git-like CLI backed by PostgreSQL",
-    "link": "https://oseifert.ch/blog/building-pgit",
-    "source": "Hacker News",
-    "published": "2026-03-17T06:11:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47409222\">Comments</a>"
-  },
-  {
-    "title": "How the Eon Team Produced a Virtual Embodied Fly",
-    "link": "https://eon.systems/updates/embodied-brain-emulation",
-    "source": "Hacker News",
-    "published": "2026-03-15T23:44:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47393324\">Comments</a>"
-  },
-  {
     "title": "Write up of my homebrew CPU build",
     "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
     "source": "Hacker News",
     "published": "2026-03-15T17:36:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47389696\">Comments</a>"
+  },
+  {
+    "title": "Restoring the first recording of computer music (2018)",
+    "link": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
+    "source": "Hacker News",
+    "published": "2026-03-14T08:28:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374519\">Comments</a>"
   },
   {
     "title": "JPEG Compression",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47372367\">Comments</a>"
   },
   {
-    "title": "(Media over QUIC) on a Boat",
-    "link": "https://moq.dev/blog/on-a-boat/",
+    "title": "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
+    "link": "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/",
     "source": "Hacker News",
-    "published": "2026-03-14T00:50:20+00:00",
+    "published": "2026-03-14T00:08:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47372072\">Comments</a>"
-  },
-  {
-    "title": "More than 135 open hardware devices flashable with your own firmware",
-    "link": "https://openhardware.directory",
-    "source": "Hacker News",
-    "published": "2026-03-13T21:04:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47369883\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371749\">Comments</a>"
   },
   {
     "title": "Pandas Exercises for Data Analysis (Interactive)",
