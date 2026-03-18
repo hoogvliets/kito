@@ -1,5 +1,85 @@
 [
   {
+    "title": "Oil nears $110 a barrel after gas field strike",
+    "link": "https://www.bbc.com/news/articles/c78x83lpgngo",
+    "source": "Hacker News",
+    "published": "2026-03-18T17:52:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428963\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "link": "https://tmux.thijsverreck.com",
+    "source": "Hacker News",
+    "published": "2026-03-18T17:46:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428868\">Comments</a>"
+  },
+  {
+    "title": "I haven't used a mouse for 14 years",
+    "link": "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/",
+    "source": "Hacker News",
+    "published": "2026-03-18T17:36:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428734\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Will my flight have Starlink?",
+    "link": "https://news.ycombinator.com/item?id=47428650",
+    "source": "Hacker News",
+    "published": "2026-03-18T17:29:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428650\">Comments</a>"
+  },
+  {
+    "title": "AI Coding Is Gambling",
+    "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+    "source": "Hacker News",
+    "published": "2026-03-18T17:22:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>"
+  },
+  {
+    "title": "A tiny, decentralised tool to explore the small web",
+    "link": "https://codeberg.org/susam/wander",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:57:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427388\">Comments</a>"
+  },
+  {
+    "title": "Wander \u2013 A tiny, decentralised tool (just 2 files) to explore the small web",
+    "link": "https://susam.net/wander/",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:49:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427290\">Comments</a>"
+  },
+  {
+    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+    "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:43:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427208\">Comments</a>"
+  },
+  {
+    "title": "Nvidia NemoClaw",
+    "link": "https://github.com/NVIDIA/NemoClaw",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:31:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427027\">Comments</a>"
+  },
+  {
+    "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+    "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:30:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427017\">Comments</a>"
+  },
+  {
     "title": "Machine Payments Protocol (MPP)",
     "link": "https://stripe.com/blog/machine-payments-protocol",
     "source": "Hacker News",
@@ -8,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47426936\">Comments</a>"
   },
   {
-    "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-    "link": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "title": "Death to Scroll Fade",
+    "link": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
     "source": "Hacker News",
-    "published": "2026-03-18T14:28:40+00:00",
+    "published": "2026-03-18T15:23:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426246\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426932\">Comments</a>"
   },
   {
     "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
@@ -24,31 +104,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47426057\">Comments</a>"
   },
   {
-    "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
-    "link": "https://github.com/joaoh82/rustunnel",
+    "title": "2025 Turing award given for quantum information science",
+    "link": "https://awards.acm.org/about/2025-turing",
     "source": "Hacker News",
-    "published": "2026-03-18T14:00:43+00:00",
+    "published": "2026-03-18T10:10:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425918\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47423694\">Comments</a>"
   },
   {
-    "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
-    "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
-    "source": "Hacker News",
-    "published": "2026-03-18T13:32:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425607\">Comments</a>"
-  },
-  {
-    "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
-    "link": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
-    "source": "Hacker News",
-    "published": "2026-03-18T13:04:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425297\">Comments</a>"
-  },
-  {
-    "title": "Rob Pike's 5 Rules of Programming",
+    "title": "Rob Pike's Rules of Programming (1989)",
     "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
     "source": "Hacker News",
     "published": "2026-03-18T09:59:54+00:00",
@@ -64,60 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47422942\">Comments</a>"
   },
   {
-    "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-    "link": "https://ndea.com/jobs/search-guidance",
-    "source": "Hacker News",
-    "published": "2026-03-18T07:00:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47422408\">Comments</a>"
-  },
-  {
-    "title": "Celebrating Tony Hoare's mark on computer science",
-    "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-    "source": "Hacker News",
-    "published": "2026-03-18T06:31:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47422228\">Comments</a>"
-  },
-  {
-    "title": "The pleasures of poor product design",
-    "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-    "source": "Hacker News",
-    "published": "2026-03-18T01:00:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47420432\">Comments</a>"
-  },
-  {
     "title": "Mistral AI Releases Forge",
     "link": "https://mistral.ai/news/forge",
     "source": "Hacker News",
     "published": "2026-03-17T21:04:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47418295\">Comments</a>"
-  },
-  {
-    "title": "A Decade of Slug",
-    "link": "https://terathon.com/blog/decade-slug.html",
-    "source": "Hacker News",
-    "published": "2026-03-17T18:59:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416736\">Comments</a>"
-  },
-  {
-    "title": "A Fuzzer for the Toy Optimizer",
-    "link": "https://bernsteinbear.com/blog/toy-fuzzer/",
-    "source": "Hacker News",
-    "published": "2026-03-17T15:32:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414112\">Comments</a>"
-  },
-  {
-    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-    "source": "Hacker News",
-    "published": "2026-03-17T15:16:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47413876\">Comments</a>"
   },
   {
     "title": "Write up of my homebrew CPU build",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47389696\">Comments</a>"
   },
   {
-    "title": "Restoring the first recording of computer music (2018)",
-    "link": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
+    "title": "OpenRocket",
+    "link": "https://openrocket.info/",
     "source": "Hacker News",
-    "published": "2026-03-14T08:28:16+00:00",
+    "published": "2026-03-15T12:20:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47374519\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47386703\">Comments</a>"
   },
   {
-    "title": "JPEG Compression",
-    "link": "https://www.sophielwang.com/blog/jpeg",
+    "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+    "link": "https://huggingface.co/datasets/open-index/hacker-news",
     "source": "Hacker News",
-    "published": "2026-03-14T01:31:48+00:00",
+    "published": "2026-03-14T17:12:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47372367\">Comments</a>"
-  },
-  {
-    "title": "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
-    "link": "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/",
-    "source": "Hacker News",
-    "published": "2026-03-14T00:08:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47371749\">Comments</a>"
-  },
-  {
-    "title": "Pandas Exercises for Data Analysis (Interactive)",
-    "link": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-    "source": "Hacker News",
-    "published": "2026-03-13T18:05:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47367601\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47378781\">Comments</a>"
   }
 ]
