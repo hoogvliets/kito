@@ -1,5 +1,37 @@
 [
   {
+    "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
+    "link": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
+    "source": "Hacker News",
+    "published": "2026-03-19T11:49:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47437782\">Comments</a>"
+  },
+  {
+    "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+    "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+    "source": "Hacker News",
+    "published": "2026-03-19T10:17:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47437101\">Comments</a>"
+  },
+  {
+    "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+    "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+    "source": "Hacker News",
+    "published": "2026-03-19T09:51:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47436950\">Comments</a>"
+  },
+  {
+    "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
+    "link": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
+    "source": "Hacker News",
+    "published": "2026-03-19T05:53:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47435453\">Comments</a>"
+  },
+  {
     "title": "Conway's Game of Life, in real life",
     "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
     "source": "Hacker News",
@@ -8,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47434732\">Comments</a>"
   },
   {
-    "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
-    "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
-    "source": "Hacker News",
-    "published": "2026-03-19T03:31:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434567\">Comments</a>"
-  },
-  {
     "title": "A sufficiently detailed spec is code",
     "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
     "source": "Hacker News",
     "published": "2026-03-19T02:23:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47434047\">Comments</a>"
-  },
-  {
-    "title": "Cook: A simple CLI for orchestrating Claude Code",
-    "link": "https://rjcorwin.github.io/cook/",
-    "source": "Hacker News",
-    "published": "2026-03-19T02:20:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434024\">Comments</a>"
   },
   {
     "title": "Autoresearch for SAT Solvers",
@@ -112,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401489\">Comments</a>"
   },
   {
-    "title": "Why Cloudflare rule order matters?",
-    "link": "https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html",
-    "source": "Hacker News",
-    "published": "2026-03-16T09:51:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396973\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
-    "link": "https://borderhold.io/play",
-    "source": "Hacker News",
-    "published": "2026-03-16T08:51:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396496\">Comments</a>"
-  },
-  {
     "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
     "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
     "source": "Hacker News",
     "published": "2026-03-15T15:59:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
+  },
+  {
+    "title": "Pretraining Language Models via Neural Cellular Automata",
+    "link": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+    "source": "Hacker News",
+    "published": "2026-03-15T15:23:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388293\">Comments</a>"
   },
   {
     "title": "OpenRocket",
@@ -150,13 +158,5 @@
     "published": "2026-03-15T08:40:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47385439\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Pano, a bookmarking tool built around shareable shelves",
-    "link": "https://www.panoit.com",
-    "source": "Hacker News",
-    "published": "2026-03-15T00:56:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47383103\">Comments</a>"
   }
 ]
