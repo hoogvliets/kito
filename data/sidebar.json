@@ -1,11 +1,51 @@
 [
   {
+    "title": "We Have Learned Nothing",
+    "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+    "source": "Hacker News",
+    "published": "2026-03-19T02:53:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434311\">Comments</a>"
+  },
+  {
+    "title": "A sufficiently detailed spec is code",
+    "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "source": "Hacker News",
+    "published": "2026-03-19T02:23:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434047\">Comments</a>"
+  },
+  {
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "link": "https://rjcorwin.github.io/cook/",
+    "source": "Hacker News",
+    "published": "2026-03-19T02:20:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434024\">Comments</a>"
+  },
+  {
+    "title": "Autoresearch for SAT Solvers",
+    "link": "https://github.com/iliazintchenko/agent-sat",
+    "source": "Hacker News",
+    "published": "2026-03-19T00:40:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47433265\">Comments</a>"
+  },
+  {
     "title": "Austin\u2019s surge of new housing construction drove down rents",
     "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
     "source": "Hacker News",
     "published": "2026-03-19T00:15:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47433058\">Comments</a>"
+  },
+  {
+    "title": "RX \u2013 a new random-access JSON alternative",
+    "link": "https://github.com/creationix/rx",
+    "source": "Hacker News",
+    "published": "2026-03-18T23:58:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47432915\">Comments</a>"
   },
   {
     "title": "What\u2019s on HTTP?",
@@ -16,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47431930\">Comments</a>"
   },
   {
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
-    "link": "https://github.com/alainnothere/llm-circuit-finder",
-    "source": "Hacker News",
-    "published": "2026-03-18T21:31:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431671\">Comments</a>"
-  },
-  {
     "title": "Warranty Void If Regenerated",
     "link": "https://nearzero.software/p/warranty-void-if-regenerated",
     "source": "Hacker News",
     "published": "2026-03-18T20:45:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47431237\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Playing LongTurn FreeCiv with Friends",
-    "link": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-    "source": "Hacker News",
-    "published": "2026-03-18T19:01:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47429988\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-    "link": "https://tmux.thijsverreck.com",
-    "source": "Hacker News",
-    "published": "2026-03-18T17:46:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428868\">Comments</a>"
   },
   {
     "title": "Show HN: Will my flight have Starlink?",
@@ -64,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47427299\">Comments</a>"
   },
   {
-    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-    "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-    "source": "Hacker News",
-    "published": "2026-03-18T15:43:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427208\">Comments</a>"
-  },
-  {
     "title": "Nvidia NemoClaw",
     "link": "https://github.com/NVIDIA/NemoClaw",
     "source": "Hacker News",
     "published": "2026-03-18T15:31:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47427027\">Comments</a>"
-  },
-  {
-    "title": "2025 Turing award given for quantum information science",
-    "link": "https://awards.acm.org/about/2025-turing",
-    "source": "Hacker News",
-    "published": "2026-03-18T10:10:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47423694\">Comments</a>"
   },
   {
     "title": "Rob Pike\u2019s Rules of Programming (1989)",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47423647\">Comments</a>"
   },
   {
-    "title": "Nightingale \u2013 open-source karaoke app that works with any song on your computer",
-    "link": "https://nightingale.cafe/",
-    "source": "Hacker News",
-    "published": "2026-03-18T08:06:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47422942\">Comments</a>"
-  },
-  {
     "title": "Wander \u2013 A tiny, decentralised tool to explore the small web",
     "link": "https://susam.net/wander/",
     "source": "Hacker News",
@@ -112,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47422759\">Comments</a>"
   },
   {
-    "title": "The TOMY Spinjas",
-    "link": "https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3",
+    "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
+    "link": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
     "source": "Hacker News",
-    "published": "2026-03-17T16:47:12+00:00",
+    "published": "2026-03-16T12:06:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47415156\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397862\">Comments</a>"
   },
   {
-    "title": "The math that explains why bell curves are everywhere",
-    "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+    "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+    "link": "https://borderhold.io/play",
     "source": "Hacker News",
-    "published": "2026-03-16T16:51:32+00:00",
+    "published": "2026-03-16T08:51:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401489\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396496\">Comments</a>"
   },
   {
     "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
   },
   {
+    "title": "An x86-64 back end for raven-uxn",
+    "link": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
+    "source": "Hacker News",
+    "published": "2026-03-15T13:57:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47387431\">Comments</a>"
+  },
+  {
     "title": "OpenRocket",
     "link": "https://openrocket.info/",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47386703\">Comments</a>"
   },
   {
+    "title": "LotusNotes",
+    "link": "https://computer.rip/2026-03-14-lotusnotes.html",
+    "source": "Hacker News",
+    "published": "2026-03-15T08:40:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385439\">Comments</a>"
+  },
+  {
     "title": "Book: The Emerging Science of Machine Learning Benchmarks",
     "link": "https://mlbenchmarks.org/00-preface.html",
     "source": "Hacker News",
     "published": "2026-03-14T20:15:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380714\">Comments</a>"
-  },
-  {
-    "title": "On a Boat",
-    "link": "https://moq.dev/blog/on-a-boat/",
-    "source": "Hacker News",
-    "published": "2026-03-14T00:50:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47372072\">Comments</a>"
   }
 ]
