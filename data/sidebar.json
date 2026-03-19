@@ -1,13 +1,5 @@
 [
   {
-    "title": "What 81,000 people want from AI",
-    "link": "https://www.anthropic.com/features/81k-interviews",
-    "source": "Hacker News",
-    "published": "2026-03-19T05:00:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47435156\">Comments</a>"
-  },
-  {
     "title": "Conway's Game of Life, in real life",
     "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
     "source": "Hacker News",
@@ -22,14 +14,6 @@
     "published": "2026-03-19T03:31:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47434567\">Comments</a>"
-  },
-  {
-    "title": "We Have Learned Nothing",
-    "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-    "source": "Hacker News",
-    "published": "2026-03-19T02:53:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47434311\">Comments</a>"
   },
   {
     "title": "A sufficiently detailed spec is code",
@@ -72,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47432915\">Comments</a>"
   },
   {
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "link": "https://github.com/alainnothere/llm-circuit-finder",
+    "source": "Hacker News",
+    "published": "2026-03-18T21:31:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431671\">Comments</a>"
+  },
+  {
     "title": "Warranty Void If Regenerated",
     "link": "https://nearzero.software/p/warranty-void-if-regenerated",
     "source": "Hacker News",
@@ -80,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47431237\">Comments</a>"
   },
   {
-    "title": "Show HN: Will my flight have Starlink?",
-    "link": "https://news.ycombinator.com/item?id=47428650",
+    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+    "link": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
     "source": "Hacker News",
-    "published": "2026-03-18T17:29:21+00:00",
+    "published": "2026-03-18T15:50:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428650\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427299\">Comments</a>"
   },
   {
     "title": "Nvidia NemoClaw",
@@ -96,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47427027\">Comments</a>"
   },
   {
-    "title": "Rob Pike\u2019s Rules of Programming (1989)",
-    "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-    "source": "Hacker News",
-    "published": "2026-03-18T09:59:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47423647\">Comments</a>"
-  },
-  {
     "title": "Wander \u2013 A tiny, decentralised tool to explore the small web",
     "link": "https://susam.net/wander/",
     "source": "Hacker News",
     "published": "2026-03-18T07:43:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47422759\">Comments</a>"
+  },
+  {
+    "title": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+    "link": "https://ir.cwi.nl/pub/5998/5998D.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-17T14:48:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47413475\">Comments</a>"
   },
   {
     "title": "The math that explains why bell curves are everywhere",
@@ -120,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47401489\">Comments</a>"
   },
   {
-    "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
-    "link": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
+    "title": "Why Cloudflare rule order matters?",
+    "link": "https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html",
     "source": "Hacker News",
-    "published": "2026-03-16T12:06:32+00:00",
+    "published": "2026-03-16T09:51:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47397862\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396973\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+    "link": "https://borderhold.io/play",
+    "source": "Hacker News",
+    "published": "2026-03-16T08:51:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396496\">Comments</a>"
   },
   {
     "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47385439\">Comments</a>"
   },
   {
-    "title": "Framework doesn't matter",
-    "link": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
+    "title": "Show HN: Pano, a bookmarking tool built around shareable shelves",
+    "link": "https://www.panoit.com",
     "source": "Hacker News",
-    "published": "2026-03-14T22:14:26+00:00",
+    "published": "2026-03-15T00:56:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47381834\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47383103\">Comments</a>"
   }
 ]
