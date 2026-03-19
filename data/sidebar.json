@@ -1,19 +1,35 @@
 [
   {
+    "title": "Austin\u2019s surge of new housing construction drove down rents",
+    "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+    "source": "Hacker News",
+    "published": "2026-03-19T00:15:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47433058\">Comments</a>"
+  },
+  {
+    "title": "What\u2019s on HTTP?",
+    "link": "https://whatsonhttp.com/",
+    "source": "Hacker News",
+    "published": "2026-03-18T21:57:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431930\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "link": "https://github.com/alainnothere/llm-circuit-finder",
+    "source": "Hacker News",
+    "published": "2026-03-18T21:31:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431671\">Comments</a>"
+  },
+  {
     "title": "Warranty Void If Regenerated",
     "link": "https://nearzero.software/p/warranty-void-if-regenerated",
     "source": "Hacker News",
     "published": "2026-03-18T20:45:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47431237\">Comments</a>"
-  },
-  {
-    "title": "FBI is buying location data to track US citizens, director confirms",
-    "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-    "source": "Hacker News",
-    "published": "2026-03-18T20:09:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47430797\">Comments</a>"
   },
   {
     "title": "Show HN: Playing LongTurn FreeCiv with Friends",
@@ -64,30 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47427027\">Comments</a>"
   },
   {
-    "title": "Machine Payments Protocol (MPP)",
-    "link": "https://stripe.com/blog/machine-payments-protocol",
-    "source": "Hacker News",
-    "published": "2026-03-18T15:24:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426936\">Comments</a>"
-  },
-  {
-    "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
-    "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-    "source": "Hacker News",
-    "published": "2026-03-18T14:14:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47426057\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Elisym \u2013 Open protocol for AI agents to discover and pay each other",
-    "link": "https://news.ycombinator.com/item?id=47425889",
-    "source": "Hacker News",
-    "published": "2026-03-18T13:57:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425889\">Comments</a>"
-  },
-  {
     "title": "2025 Turing award given for quantum information science",
     "link": "https://awards.acm.org/about/2025-turing",
     "source": "Hacker News",
@@ -120,6 +112,30 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47422759\">Comments</a>"
   },
   {
+    "title": "The TOMY Spinjas",
+    "link": "https://medium.com/@solidi/the-tomy-spinjas-978a183a5eb3",
+    "source": "Hacker News",
+    "published": "2026-03-17T16:47:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47415156\">Comments</a>"
+  },
+  {
+    "title": "The math that explains why bell curves are everywhere",
+    "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+    "source": "Hacker News",
+    "published": "2026-03-16T16:51:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47401489\">Comments</a>"
+  },
+  {
+    "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+    "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+    "source": "Hacker News",
+    "published": "2026-03-15T15:59:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
+  },
+  {
     "title": "OpenRocket",
     "link": "https://openrocket.info/",
     "source": "Hacker News",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47386703\">Comments</a>"
   },
   {
-    "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
-    "link": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
-    "source": "Hacker News",
-    "published": "2026-03-15T08:03:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47385260\">Comments</a>"
-  },
-  {
     "title": "Book: The Emerging Science of Machine Learning Benchmarks",
     "link": "https://mlbenchmarks.org/00-preface.html",
     "source": "Hacker News",
     "published": "2026-03-14T20:15:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47380714\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
-    "link": "https://huggingface.co/datasets/open-index/hacker-news",
-    "source": "Hacker News",
-    "published": "2026-03-14T17:12:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47378781\">Comments</a>"
   },
   {
     "title": "On a Boat",
