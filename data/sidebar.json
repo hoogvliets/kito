@@ -1,19 +1,67 @@
 [
   {
+    "title": "The Need for an Independent AI Grid",
+    "link": "https://amppublic.com/",
+    "source": "Hacker News",
+    "published": "2026-03-19T21:13:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47446211\">Comments</a>"
+  },
+  {
+    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+    "link": "https://esolang-bench.vercel.app/",
+    "source": "Hacker News",
+    "published": "2026-03-19T21:01:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47446021\">Comments</a>"
+  },
+  {
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "link": "https://github.com/cockpit-project/cockpit",
+    "source": "Hacker News",
+    "published": "2026-03-19T20:33:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
+  },
+  {
+    "title": "Waymo 13x safer than human drivers",
+    "link": "https://twitter.com/Waymo/status/2034646084073480224",
+    "source": "Hacker News",
+    "published": "2026-03-19T20:13:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
+  },
+  {
+    "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+    "link": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-19T20:09:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445175\">Comments</a>"
+  },
+  {
+    "title": "From Oscilloscope to Wireshark: A UDP Story",
+    "link": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+    "source": "Hacker News",
+    "published": "2026-03-19T19:18:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444460\">Comments</a>"
+  },
+  {
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "link": "https://qlabs.sh/10x",
+    "source": "Hacker News",
+    "published": "2026-03-19T18:51:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
+  },
+  {
     "title": "Noq: n0's new QUIC implementation in Rust",
     "link": "https://www.iroh.computer/blog/noq-announcement",
     "source": "Hacker News",
     "published": "2026-03-19T18:17:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47443588\">Comments</a>"
-  },
-  {
-    "title": "UK's Ofcom has today fined 4chan \u00a3450k for not having age checks in place",
-    "link": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography",
-    "source": "Hacker News",
-    "published": "2026-03-19T17:27:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442838\">Comments</a>"
   },
   {
     "title": "An update on Steam / GOG changes for OpenTTD",
@@ -24,16 +72,8 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47442834\">Comments</a>"
   },
   {
-    "title": "How to Not Pay Your Taxes",
-    "link": "https://taylor.town/succession-000",
-    "source": "Hacker News",
-    "published": "2026-03-19T17:16:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442699\">Comments</a>"
-  },
-  {
-    "title": "Android: Balancing Openness and Choice with Safety",
-    "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification.html",
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
     "source": "Hacker News",
     "published": "2026-03-19T17:16:04+00:00",
     "author": "Hacker News",
@@ -56,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47442435\">Comments</a>"
   },
   {
-    "title": "World Happiness Report 2026",
-    "link": "https://www.worldhappiness.report/ed/2026/",
-    "source": "Hacker News",
-    "published": "2026-03-19T16:12:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47441784\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Canary (YC W26) \u2013 AI QA that understands your code",
-    "link": "https://news.ycombinator.com/item?id=47441629",
-    "source": "Hacker News",
-    "published": "2026-03-19T16:01:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47441629\">Comments</a>"
-  },
-  {
     "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
     "link": "https://github.com/KittenML/KittenTTS",
     "source": "Hacker News",
@@ -80,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47441546\">Comments</a>"
   },
   {
-    "title": "Prompt Injecting Contributing.md",
-    "link": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
+    "title": "4Chan mocks \u00a3520k fine for UK online safety breaches",
+    "link": "https://www.bbc.com/news/articles/c624330lg1ko",
     "source": "Hacker News",
-    "published": "2026-03-19T15:52:12+00:00",
+    "published": "2026-03-19T14:46:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47441499\">Comments</a>"
-  },
-  {
-    "title": "macOS 26 breaks custom DNS settings including .internal",
-    "link": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-    "source": "Hacker News",
-    "published": "2026-03-19T15:06:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47440759\">Comments</a>"
-  },
-  {
-    "title": "The Shape of Inequalities",
-    "link": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
-    "source": "Hacker News",
-    "published": "2026-03-19T14:37:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47440284\">Comments</a>"
-  },
-  {
-    "title": "Consensus Board Game",
-    "link": "https://matklad.github.io/2026/03/19/consensus-board-game.html",
-    "source": "Hacker News",
-    "published": "2026-03-19T14:06:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47439718\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47440430\">Comments</a>"
   },
   {
     "title": "OpenBSD: PF queues break the 4 Gbps barrier",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47439320\">Comments</a>"
   },
   {
-    "title": "I turned Markdown into a protocol for generative UI",
-    "link": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
-    "source": "Hacker News",
-    "published": "2026-03-19T13:42:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47439300\">Comments</a>"
-  },
-  {
     "title": "Astral to Join OpenAI",
     "link": "https://astral.sh/blog/openai",
     "source": "Hacker News",
@@ -136,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>"
   },
   {
-    "title": "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
+    "title": "Juggalo makeup blocks facial recognition technology (2019)",
     "link": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
     "source": "Hacker News",
     "published": "2026-03-19T13:02:35+00:00",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47438675\">Comments</a>"
   },
   {
-    "title": "Afroman found not liable in defamation case",
-    "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+    "title": "\u201cYour frustration is the product\u201d",
+    "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
     "source": "Hacker News",
-    "published": "2026-03-19T09:51:56+00:00",
+    "published": "2026-03-19T11:34:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47436950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47437655\">Comments</a>"
+  },
+  {
+    "title": "How the Turner twins are mythbusting modern technical apparel",
+    "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+    "source": "Hacker News",
+    "published": "2026-03-17T19:19:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416972\">Comments</a>"
   },
   {
     "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
