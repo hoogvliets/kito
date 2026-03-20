@@ -1,5 +1,13 @@
 [
   {
+    "title": "ArXiv Declares Independence from Cornell",
+    "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+    "source": "Hacker News",
+    "published": "2026-03-20T04:24:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>"
+  },
+  {
     "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
     "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
     "source": "Hacker News",
@@ -8,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>"
   },
   {
-    "title": "Drugwars for the TI-82/83/83 Calculators",
+    "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
     "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
     "source": "Hacker News",
     "published": "2026-03-20T00:26:47+00:00",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47446373\">Comments</a>"
   },
   {
-    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-    "link": "https://esolang-bench.vercel.app/",
-    "source": "Hacker News",
-    "published": "2026-03-19T21:01:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47446021\">Comments</a>"
-  },
-  {
     "title": "Cockpit is a web-based graphical interface for servers",
     "link": "https://github.com/cockpit-project/cockpit",
     "source": "Hacker News",
@@ -48,7 +48,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
   },
   {
-    "title": "Clockwise acquired by Salesforce and shutting down next week",
+    "title": "Waymo Safety Impact",
+    "link": "https://waymo.com/safety/impact/",
+    "source": "Hacker News",
+    "published": "2026-03-19T20:13:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
+  },
+  {
+    "title": "Clockwise acquired by Salesforce",
     "link": "https://www.getclockwise.com",
     "source": "Hacker News",
     "published": "2026-03-19T19:50:51+00:00",
@@ -62,6 +70,14 @@
     "published": "2026-03-19T19:18:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47444460\">Comments</a>"
+  },
+  {
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "link": "https://qlabs.sh/10x",
+    "source": "Hacker News",
+    "published": "2026-03-19T18:51:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
   },
   {
     "title": "Noq: n0's new QUIC implementation in Rust",
@@ -112,38 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>"
   },
   {
-    "title": "Juggalo makeup blocks facial recognition technology (2019)",
-    "link": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-    "source": "Hacker News",
-    "published": "2026-03-19T13:02:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47438675\">Comments</a>"
-  },
-  {
-    "title": "\u201cYour frustration is the product\u201d",
-    "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-    "source": "Hacker News",
-    "published": "2026-03-19T11:34:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47437655\">Comments</a>"
-  },
-  {
-    "title": "How many branches can your CPU predict?",
-    "link": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
-    "source": "Hacker News",
-    "published": "2026-03-18T23:39:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47432779\">Comments</a>"
-  },
-  {
-    "title": "Linux Page Faults, MMAP, and userfaultfd for faster VM boots",
-    "link": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
-    "source": "Hacker News",
-    "published": "2026-03-18T12:28:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47424881\">Comments</a>"
-  },
-  {
     "title": "How the Turner twins are mythbusting modern technical apparel",
     "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
     "source": "Hacker News",
@@ -158,5 +142,21 @@
     "published": "2026-03-16T22:56:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47406160\">Comments</a>"
+  },
+  {
+    "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+    "link": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+    "source": "Hacker News",
+    "published": "2026-03-16T19:49:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47403905\">Comments</a>"
+  },
+  {
+    "title": "Last love: a romance in a care home (2023)",
+    "link": "https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home",
+    "source": "Hacker News",
+    "published": "2026-03-16T15:59:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47400744\">Comments</a>"
   }
 ]
