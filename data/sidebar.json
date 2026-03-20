@@ -1,11 +1,43 @@
 [
   {
-    "title": "The Need for an Independent AI Grid",
-    "link": "https://amppublic.com/",
+    "title": "Claude Code: Channels",
+    "link": "https://code.claude.com/docs/en/channels",
     "source": "Hacker News",
-    "published": "2026-03-19T21:13:40+00:00",
+    "published": "2026-03-20T00:22:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47446211\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>"
+  },
+  {
+    "title": "Wayland set the Linux Desktop back by 10 years",
+    "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+    "source": "Hacker News",
+    "published": "2026-03-20T00:01:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>"
+  },
+  {
+    "title": "The Day I Discovered Type Design",
+    "link": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/",
+    "source": "Hacker News",
+    "published": "2026-03-19T23:08:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47447690\">Comments</a>"
+  },
+  {
+    "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
+    "link": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
+    "source": "Hacker News",
+    "published": "2026-03-19T22:59:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47447600\">Comments</a>"
+  },
+  {
+    "title": "Be intentional about how AI changes your codebase",
+    "link": "https://aicode.swerdlow.dev",
+    "source": "Hacker News",
+    "published": "2026-03-19T21:23:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47446373\">Comments</a>"
   },
   {
     "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
@@ -24,23 +56,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
   },
   {
-    "title": "Waymo 13x safer than human drivers",
-    "link": "https://twitter.com/Waymo/status/2034646084073480224",
+    "title": "Waymo Safety Impact",
+    "link": "https://waymo.com/safety/impact/",
     "source": "Hacker News",
     "published": "2026-03-19T20:13:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
   },
   {
-    "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
-    "link": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
-    "source": "Hacker News",
-    "published": "2026-03-19T20:09:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445175\">Comments</a>"
-  },
-  {
-    "title": "From Oscilloscope to Wireshark: A UDP Story",
+    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
     "link": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
     "source": "Hacker News",
     "published": "2026-03-19T19:18:25+00:00",
@@ -64,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47443588\">Comments</a>"
   },
   {
-    "title": "An update on Steam / GOG changes for OpenTTD",
-    "link": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-    "source": "Hacker News",
-    "published": "2026-03-19T17:27:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442834\">Comments</a>"
-  },
-  {
     "title": "Google details new 24-hour process to sideload unverified Android apps",
     "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
     "source": "Hacker News",
     "published": "2026-03-19T17:16:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
-    "link": "https://news.ycombinator.com/item?id=47442452",
-    "source": "Hacker News",
-    "published": "2026-03-19T16:57:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442452\">Comments</a>"
-  },
-  {
-    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
-    "link": "https://blog.skypilot.co/scaling-autoresearch/",
-    "source": "Hacker News",
-    "published": "2026-03-19T16:55:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442435\">Comments</a>"
   },
   {
     "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
@@ -110,14 +110,6 @@
     "published": "2026-03-19T14:46:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47440430\">Comments</a>"
-  },
-  {
-    "title": "OpenBSD: PF queues break the 4 Gbps barrier",
-    "link": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-    "source": "Hacker News",
-    "published": "2026-03-19T13:43:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47439320\">Comments</a>"
   },
   {
     "title": "Astral to Join OpenAI",
@@ -142,6 +134,14 @@
     "published": "2026-03-19T11:34:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47437655\">Comments</a>"
+  },
+  {
+    "title": "How many branches can your CPU predict?",
+    "link": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+    "source": "Hacker News",
+    "published": "2026-03-18T23:39:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47432779\">Comments</a>"
   },
   {
     "title": "How the Turner twins are mythbusting modern technical apparel",
