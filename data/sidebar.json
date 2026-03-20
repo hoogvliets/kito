@@ -1,35 +1,27 @@
 [
   {
-    "title": "Claude Code: Channels",
+    "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+    "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+    "source": "Hacker News",
+    "published": "2026-03-20T01:09:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>"
+  },
+  {
+    "title": "Drugwars for the TI-82/83/83 Calculators",
+    "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+    "source": "Hacker News",
+    "published": "2026-03-20T00:26:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47448566\">Comments</a>"
+  },
+  {
+    "title": "Push events into a running session with channels",
     "link": "https://code.claude.com/docs/en/channels",
     "source": "Hacker News",
     "published": "2026-03-20T00:22:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>"
-  },
-  {
-    "title": "Wayland set the Linux Desktop back by 10 years",
-    "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-    "source": "Hacker News",
-    "published": "2026-03-20T00:01:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>"
-  },
-  {
-    "title": "The Day I Discovered Type Design",
-    "link": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/",
-    "source": "Hacker News",
-    "published": "2026-03-19T23:08:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47447690\">Comments</a>"
-  },
-  {
-    "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
-    "link": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
-    "source": "Hacker News",
-    "published": "2026-03-19T22:59:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47447600\">Comments</a>"
   },
   {
     "title": "Be intentional about how AI changes your codebase",
@@ -56,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
   },
   {
-    "title": "Waymo Safety Impact",
-    "link": "https://waymo.com/safety/impact/",
+    "title": "Clockwise acquired by Salesforce and shutting down next week",
+    "link": "https://www.getclockwise.com",
     "source": "Hacker News",
-    "published": "2026-03-19T20:13:35+00:00",
+    "published": "2026-03-19T19:50:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444906\">Comments</a>"
   },
   {
     "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
@@ -70,14 +62,6 @@
     "published": "2026-03-19T19:18:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47444460\">Comments</a>"
-  },
-  {
-    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-    "link": "https://qlabs.sh/10x",
-    "source": "Hacker News",
-    "published": "2026-03-19T18:51:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
   },
   {
     "title": "Noq: n0's new QUIC implementation in Rust",
@@ -94,6 +78,14 @@
     "published": "2026-03-19T17:16:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
+    "link": "https://news.ycombinator.com/item?id=47442452",
+    "source": "Hacker News",
+    "published": "2026-03-19T16:57:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442452\">Comments</a>"
   },
   {
     "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
@@ -142,6 +134,14 @@
     "published": "2026-03-18T23:39:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47432779\">Comments</a>"
+  },
+  {
+    "title": "Linux Page Faults, MMAP, and userfaultfd for faster VM boots",
+    "link": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
+    "source": "Hacker News",
+    "published": "2026-03-18T12:28:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47424881\">Comments</a>"
   },
   {
     "title": "How the Turner twins are mythbusting modern technical apparel",
