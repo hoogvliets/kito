@@ -48,36 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
   },
   {
-    "title": "Waymo Safety Impact",
-    "link": "https://waymo.com/safety/impact/",
-    "source": "Hacker News",
-    "published": "2026-03-19T20:13:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
-  },
-  {
     "title": "Clockwise acquired by Salesforce",
     "link": "https://www.getclockwise.com",
     "source": "Hacker News",
     "published": "2026-03-19T19:50:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47444906\">Comments</a>"
-  },
-  {
-    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
-    "link": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
-    "source": "Hacker News",
-    "published": "2026-03-19T19:18:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444460\">Comments</a>"
-  },
-  {
-    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-    "link": "https://qlabs.sh/10x",
-    "source": "Hacker News",
-    "published": "2026-03-19T18:51:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
   },
   {
     "title": "Noq: n0's new QUIC implementation in Rust",
@@ -128,12 +104,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>"
   },
   {
+    "title": "How many branches can your CPU predict?",
+    "link": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+    "source": "Hacker News",
+    "published": "2026-03-18T23:39:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47432779\">Comments</a>"
+  },
+  {
+    "title": "A Journey Through Infertility",
+    "link": "https://pudding.cool/2026/03/ivf/",
+    "source": "Hacker News",
+    "published": "2026-03-17T19:41:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47417269\">Comments</a>"
+  },
+  {
     "title": "How the Turner twins are mythbusting modern technical apparel",
     "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
     "source": "Hacker News",
     "published": "2026-03-17T19:19:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416972\">Comments</a>"
+  },
+  {
+    "title": "Drawvg Filter for FFmpeg",
+    "link": "https://ayosec.github.io/ffmpeg-drawvg/",
+    "source": "Hacker News",
+    "published": "2026-03-17T15:16:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47413879\">Comments</a>"
   },
   {
     "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47403905\">Comments</a>"
   },
   {
-    "title": "Last love: a romance in a care home (2023)",
-    "link": "https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home",
+    "title": "Building a Reader for the Smallest Hard Drive",
+    "link": "https://www.willwhang.dev/Reading-MK4001MTD/",
     "source": "Hacker News",
-    "published": "2026-03-16T15:59:10+00:00",
+    "published": "2026-03-16T09:04:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47400744\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47396593\">Comments</a>"
   }
 ]
