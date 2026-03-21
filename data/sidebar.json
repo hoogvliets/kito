@@ -1,11 +1,19 @@
 [
   {
-    "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-    "link": "https://blog.atuin.sh/atuin-v18-13/",
+    "title": "Why western carmakers' retreat from electric risks dooming them to irrelevance",
+    "link": "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china",
     "source": "Hacker News",
-    "published": "2026-03-21T10:35:20+00:00",
+    "published": "2026-03-21T13:52:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467034\">Comments</a>"
+  },
+  {
+    "title": "Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars",
+    "link": "https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor",
+    "source": "Hacker News",
+    "published": "2026-03-21T13:12:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47466697\">Comments</a>"
   },
   {
     "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
@@ -38,14 +46,6 @@
     "published": "2026-03-20T22:11:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47461378\">Comments</a>"
-  },
-  {
-    "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
-    "link": "https://github.com/FormerLab/fortransky",
-    "source": "Hacker News",
-    "published": "2026-03-20T22:06:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47461321\">Comments</a>"
   },
   {
     "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
@@ -96,28 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47435081\">Comments</a>"
   },
   {
-    "title": "Cryptography in Home Entertainment (2004)",
-    "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+    "title": "The Story of Marina Abramovic and Ulay (2020)",
+    "link": "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay",
     "source": "Hacker News",
-    "published": "2026-03-18T21:29:14+00:00",
+    "published": "2026-03-19T01:45:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431653\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47433755\">Comments</a>"
   },
   {
-    "title": "The Ugliest Airplane: An Appreciation",
-    "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+    "title": "How HN: Ironkernel \u2013 Python expressions, Rust parallel",
+    "link": "https://github.com/YuminosukeSato/ironkernel",
     "source": "Hacker News",
-    "published": "2026-03-18T16:52:58+00:00",
+    "published": "2026-03-18T17:22:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428132\">Comments</a>"
-  },
-  {
-    "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
-    "link": "https://amturing.acm.org",
-    "source": "Hacker News",
-    "published": "2026-03-18T12:16:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47424752\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428544\">Comments</a>"
   },
   {
     "title": "The worst volume control UI in the world (2017)",
@@ -126,6 +118,14 @@
     "published": "2026-03-18T10:22:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47423762\">Comments</a>"
+  },
+  {
+    "title": "Meta's Omnilingual MT for 1,600 Languages",
+    "link": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
+    "source": "Hacker News",
+    "published": "2026-03-18T05:00:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47421749\">Comments</a>"
   },
   {
     "title": "Mamba-3",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416543\">Comments</a>"
   },
   {
-    "title": "We give every user SQL access to a shared ClickHouse cluster",
-    "link": "https://trigger.dev/blog/how-trql-works",
+    "title": "Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)",
+    "link": "https://connollydavid.github.io/pgs-release/",
     "source": "Hacker News",
-    "published": "2026-03-17T15:50:03+00:00",
+    "published": "2026-03-17T16:39:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414356\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47415044\">Comments</a>"
   }
 ]
