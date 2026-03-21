@@ -1,19 +1,27 @@
 [
   {
+    "title": "FFmpeg 101 (2024)",
+    "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+    "source": "Hacker News",
+    "published": "2026-03-21T02:47:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47463547\">Comments</a>"
+  },
+  {
+    "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+    "link": "https://www.purl.dev/",
+    "source": "Hacker News",
+    "published": "2026-03-21T02:09:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47463354\">Comments</a>"
+  },
+  {
     "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
     "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
     "source": "Hacker News",
     "published": "2026-03-20T23:57:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Red Grid Link \u2013 peer-to-peer team tracking over Bluetooth, no servers",
-    "link": "https://github.com/RedGridTactical/RedGridLink",
-    "source": "Hacker News",
-    "published": "2026-03-20T22:25:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47461529\">Comments</a>"
   },
   {
     "title": "Ghostling",
@@ -38,14 +46,6 @@
     "published": "2026-03-20T21:48:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
-    "link": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-    "source": "Hacker News",
-    "published": "2026-03-20T21:04:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47460528\">Comments</a>"
   },
   {
     "title": "OpenCode \u2013 Open source AI coding agent",
@@ -96,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47453942\">Comments</a>"
   },
   {
-    "title": "An FAQ on Reinforcement Learning Environments",
-    "link": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+    "title": "Fujifilm X RAW STUDIO webapp clone",
+    "link": "https://github.com/eggricesoy/filmkit",
     "source": "Hacker News",
-    "published": "2026-03-19T12:24:46+00:00",
+    "published": "2026-03-19T04:49:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47438169\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47435081\">Comments</a>"
   },
   {
-    "title": "Heisuke Hironaka Has Died",
-    "link": "https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/",
+    "title": "A look at content scrambling in DVDs",
+    "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
     "source": "Hacker News",
-    "published": "2026-03-19T08:06:28+00:00",
+    "published": "2026-03-18T21:29:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47436287\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431653\">Comments</a>"
   },
   {
     "title": "The Ugliest Airplane: An Appreciation",
@@ -118,14 +118,6 @@
     "published": "2026-03-18T16:52:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47428132\">Comments</a>"
-  },
-  {
-    "title": "Lent and Lisp",
-    "link": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
-    "source": "Hacker News",
-    "published": "2026-03-18T13:00:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425257\">Comments</a>"
   },
   {
     "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
@@ -142,6 +134,14 @@
     "published": "2026-03-18T10:22:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47423762\">Comments</a>"
+  },
+  {
+    "title": "Mamba-3",
+    "link": "https://www.together.ai/blog/mamba-3",
+    "source": "Hacker News",
+    "published": "2026-03-17T22:45:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47419391\">Comments</a>"
   },
   {
     "title": "The Los Angeles Aqueduct Is Wild",
