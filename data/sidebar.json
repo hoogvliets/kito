@@ -1,11 +1,19 @@
 [
   {
-    "title": "Man pleads guilty to $8M AI-generated music scheme",
-    "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
+    "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
+    "link": "https://blog.atuin.sh/atuin-v18-13/",
     "source": "Hacker News",
-    "published": "2026-03-21T07:36:07+00:00",
+    "published": "2026-03-21T10:35:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47464859\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>"
+  },
+  {
+    "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+    "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+    "source": "Hacker News",
+    "published": "2026-03-21T07:30:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47464818\">Comments</a>"
   },
   {
     "title": "FFmpeg 101 (2024)",
@@ -56,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>"
   },
   {
-    "title": "A Japanese glossary of chopsticks faux pas",
+    "title": "A Japanese glossary of chopsticks faux pas (2022)",
     "link": "https://www.nippon.com/en/japan-data/h01362/",
     "source": "Hacker News",
     "published": "2026-03-20T20:54:57+00:00",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47455138\">Comments</a>"
   },
   {
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-    "source": "Hacker News",
-    "published": "2026-03-20T13:01:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47453942\">Comments</a>"
-  },
-  {
     "title": "Fujifilm X RAW STUDIO webapp clone",
     "link": "https://github.com/eggricesoy/filmkit",
     "source": "Hacker News",
@@ -96,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47435081\">Comments</a>"
   },
   {
-    "title": "A look at content scrambling in DVDs",
+    "title": "Cryptography in Home Entertainment (2004)",
     "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
     "source": "Hacker News",
     "published": "2026-03-18T21:29:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47431653\">Comments</a>"
-  },
-  {
-    "title": "An industrial piping contractor on Claude Code [video]",
-    "link": "https://twitter.com/toddsaunders/status/2034243420147859716",
-    "source": "Hacker News",
-    "published": "2026-03-18T20:50:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431288\">Comments</a>"
   },
   {
     "title": "The Ugliest Airplane: An Appreciation",
@@ -158,5 +150,13 @@
     "published": "2026-03-17T18:43:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47416543\">Comments</a>"
+  },
+  {
+    "title": "We give every user SQL access to a shared ClickHouse cluster",
+    "link": "https://trigger.dev/blog/how-trql-works",
+    "source": "Hacker News",
+    "published": "2026-03-17T15:50:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414356\">Comments</a>"
   }
 ]
