@@ -1,19 +1,75 @@
 [
   {
-    "title": "Why I love NixOS",
-    "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+    "title": "We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical",
+    "link": "https://trustcompliance.xyz",
     "source": "Hacker News",
-    "published": "2026-03-22T17:17:06+00:00",
+    "published": "2026-03-22T20:20:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479751\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47481729\">Comments</a>"
   },
   {
-    "title": "Introducing DoorDash Tasks",
-    "link": "https://about.doordash.com/en-us/news/introducing-doordash-tasks",
+    "title": "Personal Computing (2022)",
+    "link": "https://josh8.com/blog/personal_computing.html",
     "source": "Hacker News",
-    "published": "2026-03-22T16:48:37+00:00",
+    "published": "2026-03-22T19:32:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479417\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47481202\">Comments</a>"
+  },
+  {
+    "title": "Teaching Claude to QA a mobile app",
+    "link": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+    "source": "Hacker News",
+    "published": "2026-03-22T19:04:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47480900\">Comments</a>"
+  },
+  {
+    "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+    "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+    "source": "Hacker News",
+    "published": "2026-03-22T19:02:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47480886\">Comments</a>"
+  },
+  {
+    "title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading",
+    "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+    "source": "Hacker News",
+    "published": "2026-03-22T18:23:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47480507\">Comments</a>"
+  },
+  {
+    "title": "What Young Workers Are Doing to AI-Proof Themselves",
+    "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+    "source": "Hacker News",
+    "published": "2026-03-22T18:18:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47480447\">Comments</a>"
+  },
+  {
+    "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
+    "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+    "source": "Hacker News",
+    "published": "2026-03-22T17:56:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47480200\">Comments</a>"
+  },
+  {
+    "title": "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
+    "link": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+    "source": "Hacker News",
+    "published": "2026-03-22T17:35:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479962\">Comments</a>"
+  },
+  {
+    "title": "Five Years of Running a Systems Reading Group at Microsoft",
+    "link": "https://armaansood.com/posts/systems-reading-group/",
+    "source": "Hacker News",
+    "published": "2026-03-22T17:06:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479627\">Comments</a>"
   },
   {
     "title": "MAUI Is Coming to Linux",
@@ -32,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47478401\">Comments</a>"
   },
   {
-    "title": "Show HN: Revise \u2013 An AI Editor for Documents",
-    "link": "https://revise.io",
-    "source": "Hacker News",
-    "published": "2026-03-22T13:28:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477339\">Comments</a>"
-  },
-  {
     "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
     "link": "https://noquiche.fyi/voodoo",
     "source": "Hacker News",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47477284\">Comments</a>"
   },
   {
-    "title": "A case against currying",
-    "link": "https://emi-h.com/articles/a-case-against-currying.html",
-    "source": "Hacker News",
-    "published": "2026-03-22T13:03:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477090\">Comments</a>"
-  },
-  {
     "title": "Project Nomad \u2013 Knowledge That Never Goes Offline",
     "link": "https://www.projectnomad.us",
     "source": "Hacker News",
     "published": "2026-03-22T12:28:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47476821\">Comments</a>"
-  },
-  {
-    "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
-    "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-    "source": "Hacker News",
-    "published": "2026-03-22T12:23:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476776\">Comments</a>"
-  },
-  {
-    "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
-    "link": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-    "source": "Hacker News",
-    "published": "2026-03-22T11:53:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476566\">Comments</a>"
   },
   {
     "title": "More common mistakes to avoid when creating system architecture diagrams",
@@ -112,51 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47475938\">Comments</a>"
   },
   {
-    "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-    "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+    "title": "How to Attract AI Bots to Your Open Source Project",
+    "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
     "source": "Hacker News",
-    "published": "2026-03-22T03:43:51+00:00",
+    "published": "2026-03-21T20:58:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47474255\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47471271\">Comments</a>"
   },
   {
-    "title": "Tinybox \u2013 A powerful computer for deep learning",
-    "link": "https://tinygrad.org/#tinybox",
+    "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
+    "link": "https://arxiv.org/abs/2603.17099",
     "source": "Hacker News",
-    "published": "2026-03-21T20:08:37+00:00",
+    "published": "2026-03-19T16:40:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47442194\">Comments</a>"
   },
   {
-    "title": "My first patch to the Linux kernel",
-    "link": "https://pooladkhay.com/posts/first-kernel-patch/",
+    "title": "Turkish Coffee? Since the 16th Century, It's in the Water",
+    "link": "https://specialprojects.sprudge.com/?p=868",
     "source": "Hacker News",
-    "published": "2026-03-19T19:51:07+00:00",
+    "published": "2026-03-17T15:41:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444909\">Comments</a>"
-  },
-  {
-    "title": "A review of dice that came with the white castle",
-    "link": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
-    "source": "Hacker News",
-    "published": "2026-03-19T06:47:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47435783\">Comments</a>"
-  },
-  {
-    "title": "25 Years of Eggs",
-    "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-    "source": "Hacker News",
-    "published": "2026-03-18T15:44:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427224\">Comments</a>"
-  },
-  {
-    "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
-    "link": "https://www.zerocalculators.com/features",
-    "source": "Hacker News",
-    "published": "2026-03-17T18:07:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416149\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47414231\">Comments</a>"
   }
 ]
