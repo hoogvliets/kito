@@ -1,5 +1,37 @@
 [
   {
+    "title": "We Synchronized Editing for Rec Room's Multiplayer Scripting System",
+    "link": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
+    "source": "Hacker News",
+    "published": "2026-03-22T12:14:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476707\">Comments</a>"
+  },
+  {
+    "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+    "link": "https://github.com/danveloper/flash-moe",
+    "source": "Hacker News",
+    "published": "2026-03-22T11:30:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476422\">Comments</a>"
+  },
+  {
+    "title": "'Miracle': Europe reconnects with lost spacecraft",
+    "link": "https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html",
+    "source": "Hacker News",
+    "published": "2026-03-22T10:22:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476060\">Comments</a>"
+  },
+  {
+    "title": "Hormuz Minesweeper \u2013 Are you tired of winning?",
+    "link": "https://hormuz.pythonic.ninja/",
+    "source": "Hacker News",
+    "published": "2026-03-22T09:00:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475686\">Comments</a>"
+  },
+  {
     "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
     "link": "https://zenodo.org/records/18976656",
     "source": "Hacker News",
@@ -16,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47474967\">Comments</a>"
   },
   {
-    "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-    "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+    "title": "Sashiko: An agentic Linux kernel code review system",
+    "link": "https://sashiko.dev/",
     "source": "Hacker News",
-    "published": "2026-03-22T03:43:51+00:00",
+    "published": "2026-03-22T03:59:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47474255\">Comments</a>"
-  },
-  {
-    "title": "Alpha Micro AM-1000E and AM-1200",
-    "link": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
-    "source": "Hacker News",
-    "published": "2026-03-22T03:38:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47474236\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47474323\">Comments</a>"
   },
   {
     "title": "The three pillars of JavaScript bloat",
@@ -64,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>"
   },
   {
-    "title": "Do Not Turn Child Protection into Internet Access Control",
-    "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-    "source": "Hacker News",
-    "published": "2026-03-21T20:32:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>"
-  },
-  {
     "title": "Tinybox \u2013 A powerful computer for deep learning",
     "link": "https://tinygrad.org/#tinybox",
     "source": "Hacker News",
@@ -86,14 +102,6 @@
     "published": "2026-03-21T17:46:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47469331\">Comments</a>"
-  },
-  {
-    "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
-    "link": "https://grafeo.dev/",
-    "source": "Hacker News",
-    "published": "2026-03-21T14:50:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>"
   },
   {
     "title": "Some things just take time",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47457570\">Comments</a>"
   },
   {
-    "title": "Show HN: Time Keep \u2013 Location timezones, timers, alarms, countdowns in one place",
-    "link": "https://news.ycombinator.com/item?id=47445433",
-    "source": "Hacker News",
-    "published": "2026-03-19T20:23:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47445433\">Comments</a>"
-  },
-  {
     "title": "My first patch to the Linux kernel",
     "link": "https://pooladkhay.com/posts/first-kernel-patch/",
     "source": "Hacker News",
@@ -136,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47434986\">Comments</a>"
   },
   {
-    "title": "Linking Smaller Haskell Binaries (2023)",
-    "link": "https://brandon.si/code/linking-smaller-haskell-binaries/",
-    "source": "Hacker News",
-    "published": "2026-03-18T23:41:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47432789\">Comments</a>"
-  },
-  {
     "title": "Bayesian statistics for confused data scientists",
     "link": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47428953\">Comments</a>"
   },
   {
-    "title": "It's Their Mona Lisa",
-    "link": "https://ironicsans.ghost.io/its-t-mona-lisa/",
+    "title": "Node.js worker threads are problematic, but they work great for us",
+    "link": "https://www.inngest.com/blog/node-worker-threads",
     "source": "Hacker News",
-    "published": "2026-03-18T12:53:15+00:00",
+    "published": "2026-03-18T16:51:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47425186\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428117\">Comments</a>"
+  },
+  {
+    "title": "25 Years of Eggs",
+    "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+    "source": "Hacker News",
+    "published": "2026-03-18T15:44:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47427224\">Comments</a>"
   }
 ]
