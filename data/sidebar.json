@@ -1,5 +1,37 @@
 [
   {
+    "title": "Profiling Hacker News users based on their comments",
+    "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+    "source": "Hacker News",
+    "published": "2026-03-22T00:30:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47473086\">Comments</a>"
+  },
+  {
+    "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+    "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+    "source": "Hacker News",
+    "published": "2026-03-21T22:03:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47471943\">Comments</a>"
+  },
+  {
+    "title": "Floci \u2013 A free, open-source local AWS emulator",
+    "link": "https://github.com/hectorvent/floci",
+    "source": "Hacker News",
+    "published": "2026-03-21T21:49:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47471801\">Comments</a>"
+  },
+  {
+    "title": "Professional video editing, right in the browser with WebGPU and WASM",
+    "link": "https://tooscut.app/",
+    "source": "Hacker News",
+    "published": "2026-03-21T21:27:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>"
+  },
+  {
     "title": "Do Not Turn Child Protection into Internet Access Control",
     "link": "https://news.dyne.org/child-protection-is-not-access-control/",
     "source": "Hacker News",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>"
   },
   {
-    "title": "Tinybox- offline AI device 120B parameters",
+    "title": "Tinybox \u2013 Offline AI device 120B parameters",
     "link": "https://tinygrad.org/#tinybox",
     "source": "Hacker News",
     "published": "2026-03-21T20:08:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>"
-  },
-  {
-    "title": "No evidence cannabis helps anxiety, depression, or PTSD",
-    "link": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-    "source": "Hacker News",
-    "published": "2026-03-21T20:05:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47470750\">Comments</a>"
   },
   {
     "title": "Common Lisp Development Tooling",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47470734\">Comments</a>"
   },
   {
-    "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
-    "link": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
+    "title": "Show HN: Atomic \u2013 Self-hosted, semantically-connected personal knowledge base",
+    "link": "https://github.com/kenforthewin/atomic",
     "source": "Hacker News",
-    "published": "2026-03-21T19:55:23+00:00",
+    "published": "2026-03-21T19:31:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47470658\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47470433\">Comments</a>"
   },
   {
     "title": "Show HN: Termcraft \u2013 terminal-first 2D sandbox survival in Rust",
@@ -48,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47469949\">Comments</a>"
   },
   {
-    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "title": "Hide macOS Tahoe's Menu Icons",
+    "link": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
     "source": "Hacker News",
-    "published": "2026-03-21T15:30:29+00:00",
+    "published": "2026-03-21T17:46:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467913\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47469331\">Comments</a>"
   },
   {
-    "title": "Show HN: Joonote \u2013 A note-taking app on your lock screen and notification panel",
-    "link": "https://joonote.com/",
+    "title": "How Ford burned $12B in Brazil (2021)",
+    "link": "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/",
     "source": "Hacker News",
-    "published": "2026-03-21T15:02:30+00:00",
+    "published": "2026-03-21T14:55:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467671\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467623\">Comments</a>"
   },
   {
     "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>"
   },
   {
-    "title": "A pig's brain has been frozen with its cellular activity locked in place",
-    "link": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/",
-    "source": "Hacker News",
-    "published": "2026-03-21T14:22:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467300\">Comments</a>"
-  },
-  {
     "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
     "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
     "source": "Hacker News",
@@ -96,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47464134\">Comments</a>"
   },
   {
-    "title": "A Japanese glossary of chopsticks faux pas (2022)",
-    "link": "https://www.nippon.com/en/japan-data/h01362/",
+    "title": "Boomloom: Think with your hands",
+    "link": "https://www.theboomloom.com",
     "source": "Hacker News",
-    "published": "2026-03-20T20:54:57+00:00",
+    "published": "2026-03-20T17:13:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47460452\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47457570\">Comments</a>"
+  },
+  {
+    "title": "Trivy ecosystem supply chain briefly compromised",
+    "link": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+    "source": "Hacker News",
+    "published": "2026-03-20T03:30:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47450142\">Comments</a>"
   },
   {
     "title": "How Invisalign became the biggest user of 3D printers",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47434986\">Comments</a>"
   },
   {
-    "title": "Books of the Century by Le Monde",
-    "link": "https://standardebooks.org/collections/le-mondes-100-books-of-the-century",
+    "title": "Bayesian statistics for confused data scientists",
+    "link": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
     "source": "Hacker News",
-    "published": "2026-03-19T00:58:25+00:00",
+    "published": "2026-03-18T17:52:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47433429\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428953\">Comments</a>"
   },
   {
-    "title": "ZJIT removes redundant object loads and stores",
-    "link": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+    "title": "The paddle wheel aircraft carriers of Lake Michigan",
+    "link": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
     "source": "Hacker News",
-    "published": "2026-03-18T21:26:23+00:00",
+    "published": "2026-03-17T16:48:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431625\">Comments</a>"
-  },
-  {
-    "title": "Meta's Omnilingual MT for 1,600 Languages",
-    "link": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-    "source": "Hacker News",
-    "published": "2026-03-18T05:00:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47421749\">Comments</a>"
-  },
-  {
-    "title": "Mamba-3",
-    "link": "https://www.together.ai/blog/mamba-3",
-    "source": "Hacker News",
-    "published": "2026-03-17T22:45:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47419391\">Comments</a>"
-  },
-  {
-    "title": "The seven hour explosion nobody could explain",
-    "link": "https://phys.org/news/2026-03-hour-explosion.html",
-    "source": "Hacker News",
-    "published": "2026-03-17T11:14:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47411110\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47415179\">Comments</a>"
   }
 ]
