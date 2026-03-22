@@ -1,14 +1,38 @@
 [
   {
-    "title": "iBook Clamshell",
-    "link": "https://www.ibook-clamshell.com/index.php/en/",
+    "title": "Why I love NixOS",
+    "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
     "source": "Hacker News",
-    "published": "2026-03-22T14:34:35+00:00",
+    "published": "2026-03-22T17:17:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477938\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479751\">Comments</a>"
   },
   {
-    "title": "Revise \u2013 An AI Editor for Documents",
+    "title": "Introducing DoorDash Tasks",
+    "link": "https://about.doordash.com/en-us/news/introducing-doordash-tasks",
+    "source": "Hacker News",
+    "published": "2026-03-22T16:48:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479417\">Comments</a>"
+  },
+  {
+    "title": "MAUI Is Coming to Linux",
+    "link": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+    "source": "Hacker News",
+    "published": "2026-03-22T15:43:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47478687\">Comments</a>"
+  },
+  {
+    "title": "The Future of Version Control",
+    "link": "https://bramcohen.com/p/manyana",
+    "source": "Hacker News",
+    "published": "2026-03-22T15:16:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47478401\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Revise \u2013 An AI Editor for Documents",
     "link": "https://revise.io",
     "source": "Hacker News",
     "published": "2026-03-22T13:28:45+00:00",
@@ -24,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47477284\">Comments</a>"
   },
   {
-    "title": "Bored of eating your own dogfood? Try smelling your own farts",
-    "link": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+    "title": "A case against currying",
+    "link": "https://emi-h.com/articles/a-case-against-currying.html",
     "source": "Hacker News",
-    "published": "2026-03-22T13:12:31+00:00",
+    "published": "2026-03-22T13:03:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477158\">Comments</a>"
-  },
-  {
-    "title": "Convincing Is Not Persuading",
-    "link": "https://blog.alaindichiappari.dev/p/convincing-is-not-persuading",
-    "source": "Hacker News",
-    "published": "2026-03-22T13:00:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477068\">Comments</a>"
-  },
-  {
-    "title": "Apple's intentional crippling of Mobile Safari continues",
-    "link": "https://pwa.gripe/",
-    "source": "Hacker News",
-    "published": "2026-03-22T12:55:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477024\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477090\">Comments</a>"
   },
   {
     "title": "Project Nomad \u2013 Knowledge That Never Goes Offline",
@@ -56,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47476821\">Comments</a>"
   },
   {
-    "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+    "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
     "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
     "source": "Hacker News",
     "published": "2026-03-22T12:23:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47476776\">Comments</a>"
-  },
-  {
-    "title": "$ teebot.dev \u2013 from terminal to tee in 6 seconds",
-    "link": "https://teebot.dev",
-    "source": "Hacker News",
-    "published": "2026-03-22T12:22:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476772\">Comments</a>"
-  },
-  {
-    "title": "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
-    "link": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
-    "source": "Hacker News",
-    "published": "2026-03-22T12:14:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476707\">Comments</a>"
   },
   {
     "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
@@ -96,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47476562\">Comments</a>"
   },
   {
-    "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+    "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
     "link": "https://github.com/danveloper/flash-moe",
     "source": "Hacker News",
     "published": "2026-03-22T11:30:03+00:00",
@@ -104,12 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47476422\">Comments</a>"
   },
   {
-    "title": "Hormuz Minesweeper \u2013 Are you tired of winning?",
-    "link": "https://hormuz.pythonic.ninja/",
+    "title": "Reports of code's death are greatly exaggerated",
+    "link": "https://stevekrouse.com/precision",
     "source": "Hacker News",
-    "published": "2026-03-22T09:00:37+00:00",
+    "published": "2026-03-22T11:09:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475686\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47476315\">Comments</a>"
+  },
+  {
+    "title": "Windows native app development is a mess",
+    "link": "https://domenic.me/windows-native-dev/",
+    "source": "Hacker News",
+    "published": "2026-03-22T09:57:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475938\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+    "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+    "source": "Hacker News",
+    "published": "2026-03-22T03:43:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47474255\">Comments</a>"
   },
   {
     "title": "Tinybox \u2013 A powerful computer for deep learning",
@@ -128,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47444909\">Comments</a>"
   },
   {
-    "title": "A Review of Dice That Came with the White Castle",
+    "title": "A review of dice that came with the white castle",
     "link": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
     "source": "Hacker News",
     "published": "2026-03-19T06:47:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47435783\">Comments</a>"
-  },
-  {
-    "title": "Why Lab Coats Turned White",
-    "link": "https://www.asimov.press/p/lab-coat",
-    "source": "Hacker News",
-    "published": "2026-03-18T18:16:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47429285\">Comments</a>"
-  },
-  {
-    "title": "Node.js worker threads are problematic, but they work great for us",
-    "link": "https://www.inngest.com/blog/node-worker-threads",
-    "source": "Hacker News",
-    "published": "2026-03-18T16:51:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47428117\">Comments</a>"
   },
   {
     "title": "25 Years of Eggs",
@@ -158,5 +150,13 @@
     "published": "2026-03-18T15:44:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47427224\">Comments</a>"
+  },
+  {
+    "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
+    "link": "https://www.zerocalculators.com/features",
+    "source": "Hacker News",
+    "published": "2026-03-17T18:07:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47416149\">Comments</a>"
   }
 ]
