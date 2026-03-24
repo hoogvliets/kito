@@ -1,5 +1,29 @@
 [
   {
+    "title": "Debunking Zswap and Zram Myths",
+    "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+    "source": "Hacker News",
+    "published": "2026-03-24T10:39:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47500746\">Comments</a>"
+  },
+  {
+    "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+    "link": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+    "source": "Hacker News",
+    "published": "2026-03-24T10:06:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47500522\">Comments</a>"
+  },
+  {
+    "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+    "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+    "source": "Hacker News",
+    "published": "2026-03-24T09:36:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47500335\">Comments</a>"
+  },
+  {
     "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
     "link": "https://www.web-rewind.com",
     "source": "Hacker News",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47499721\">Comments</a>"
   },
   {
-    "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
-    "link": "https://proofshot.argil.io/",
+    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+    "link": "https://burntsushi.net/ripgrep/",
     "source": "Hacker News",
-    "published": "2026-03-24T07:46:46+00:00",
+    "published": "2026-03-24T06:31:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47499672\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47499245\">Comments</a>"
   },
   {
     "title": "Log File Viewer for the Terminal",
@@ -22,14 +46,6 @@
     "published": "2026-03-24T05:32:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47498924\">Comments</a>"
-  },
-  {
-    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-    "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "source": "Hacker News",
-    "published": "2026-03-24T01:53:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47497757\">Comments</a>"
   },
   {
     "title": "The Resolv hack: How one compromised key printed $23M",
@@ -104,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47469744\">Comments</a>"
   },
   {
+    "title": "MSA: Memory Sparse Attention",
+    "link": "https://github.com/EverMind-AI/MSA",
+    "source": "Hacker News",
+    "published": "2026-03-21T14:47:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467543\">Comments</a>"
+  },
+  {
     "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
     "link": "https://github.com/ricardoquesada/regenerator2000",
     "source": "Hacker News",
     "published": "2026-03-20T16:34:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47456997\">Comments</a>"
-  },
-  {
-    "title": "Microservices and the First Law of Distributed Objects (2014)",
-    "link": "https://martinfowler.com/articles/distributed-objects-microservices.html",
-    "source": "Hacker News",
-    "published": "2026-03-20T15:26:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47455961\">Comments</a>"
-  },
-  {
-    "title": "How to Spot a Liar: Kate White on the Techniques of Deception in Mysteries",
-    "link": "https://crimereads.com/how-to-spot-a-liar-kate-white-on-the-techniques-of-deception-in-mysteries/",
-    "source": "Hacker News",
-    "published": "2026-03-20T14:54:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47455456\">Comments</a>"
   },
   {
     "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47453398\">Comments</a>"
   },
   {
-    "title": "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
-    "link": "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/",
+    "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
+    "link": "https://qitejs.qount25.dev",
     "source": "Hacker News",
-    "published": "2026-03-19T19:12:36+00:00",
+    "published": "2026-03-19T13:49:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47444387\">Comments</a>"
-  },
-  {
-    "title": "Finding all regex matches has always been O(n\u00b2)",
-    "link": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-    "source": "Hacker News",
-    "published": "2026-03-19T18:40:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47443903\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47439413\">Comments</a>"
   },
   {
     "title": "Abusing Customizable Selects",
