@@ -1,11 +1,99 @@
 [
   {
+    "title": "Hypothesis, Antithesis, Synthesis",
+    "link": "https://antithesis.com/blog/2026/hegel/",
+    "source": "Hacker News",
+    "published": "2026-03-24T15:28:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47504094\">Comments</a>"
+  },
+  {
+    "title": "Major insider trading on oil detected ahead of Iran talks",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
+    "source": "Hacker News",
+    "published": "2026-03-24T15:25:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47504060\">Comments</a>"
+  },
+  {
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "link": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "source": "Hacker News",
+    "published": "2026-03-24T15:19:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503965\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "link": "https://github.com/ssrajadh/sentrysearch",
+    "source": "Hacker News",
+    "published": "2026-03-24T14:58:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503617\">Comments</a>"
+  },
+  {
+    "title": "The bridge to wealth is being pulled up with AI",
+    "link": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+    "source": "Hacker News",
+    "published": "2026-03-24T14:39:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503296\">Comments</a>"
+  },
+  {
+    "title": "So where are all the AI apps?",
+    "link": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+    "source": "Hacker News",
+    "published": "2026-03-24T14:19:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503006\">Comments</a>"
+  },
+  {
+    "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+    "link": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+    "source": "Hacker News",
+    "published": "2026-03-24T13:21:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47502193\">Comments</a>"
+  },
+  {
+    "title": "LiteLLM Python package compromised by supply-chain attack",
+    "link": "https://github.com/BerriAI/litellm/issues/24512",
+    "source": "Hacker News",
+    "published": "2026-03-24T12:36:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47501729\">Comments</a>"
+  },
+  {
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-24T12:14:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47501511\">Comments</a>"
+  },
+  {
+    "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+    "link": "https://nanobrew.trilok.ai/",
+    "source": "Hacker News",
+    "published": "2026-03-24T11:40:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47501211\">Comments</a>"
+  },
+  {
     "title": "Debunking Zswap and Zram Myths",
     "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
     "source": "Hacker News",
     "published": "2026-03-24T10:39:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47500746\">Comments</a>"
+  },
+  {
+    "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+    "link": "https://dnhkng.github.io/posts/rys-ii/",
+    "source": "Hacker News",
+    "published": "2026-03-24T10:33:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47500709\">Comments</a>"
   },
   {
     "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
@@ -48,54 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47498924\">Comments</a>"
   },
   {
-    "title": "The Resolv hack: How one compromised key printed $23M",
-    "link": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-    "source": "Hacker News",
-    "published": "2026-03-23T22:01:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47495719\">Comments</a>"
-  },
-  {
-    "title": "Claude Code Cheat Sheet",
-    "link": "https://cc.storyfox.cz",
-    "source": "Hacker News",
-    "published": "2026-03-23T21:44:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47495527\">Comments</a>"
-  },
-  {
-    "title": "FCC updates covered list to include foreign-made consumer routers",
-    "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-    "source": "Hacker News",
-    "published": "2026-03-23T21:28:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47495344\">Comments</a>"
-  },
-  {
-    "title": "Autoresearch on an old research idea",
-    "link": "https://ykumar.me/blog/eclip-autoresearch/",
-    "source": "Hacker News",
-    "published": "2026-03-23T18:40:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
-    "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "source": "Hacker News",
-    "published": "2026-03-23T16:11:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47491466\">Comments</a>"
-  },
-  {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-    "link": "https://twitter.com/anemll/status/2035901335984611412",
-    "source": "Hacker News",
-    "published": "2026-03-23T14:30:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47490070\">Comments</a>"
-  },
-  {
     "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
     "link": "https://www.jackhogan.me/blog/box-of-secrets/",
     "source": "Hacker News",
@@ -104,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47488686\">Comments</a>"
   },
   {
-    "title": "Dune3d: A parametric 3D CAD application",
-    "link": "https://github.com/dune3d/dune3d",
+    "title": "Testing the Swift C compatibility with Raylib (+WASM)",
+    "link": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
     "source": "Hacker News",
-    "published": "2026-03-22T08:06:18+00:00",
+    "published": "2026-03-22T13:47:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475417\">Comments</a>"
-  },
-  {
-    "title": "BIO \u2013 The Bao I/O Co-Processor",
-    "link": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-    "source": "Hacker News",
-    "published": "2026-03-21T18:21:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47469744\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477525\">Comments</a>"
   },
   {
     "title": "MSA: Memory Sparse Attention",
@@ -126,37 +158,5 @@
     "published": "2026-03-21T14:47:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47467543\">Comments</a>"
-  },
-  {
-    "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
-    "link": "https://github.com/ricardoquesada/regenerator2000",
-    "source": "Hacker News",
-    "published": "2026-03-20T16:34:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47456997\">Comments</a>"
-  },
-  {
-    "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-    "link": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-    "source": "Hacker News",
-    "published": "2026-03-20T12:02:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47453398\">Comments</a>"
-  },
-  {
-    "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
-    "link": "https://qitejs.qount25.dev",
-    "source": "Hacker News",
-    "published": "2026-03-19T13:49:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47439413\">Comments</a>"
-  },
-  {
-    "title": "Abusing Customizable Selects",
-    "link": "https://css-tricks.com/abusing-customizable-selects/",
-    "source": "Hacker News",
-    "published": "2026-03-18T18:23:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47429393\">Comments</a>"
   }
 ]
