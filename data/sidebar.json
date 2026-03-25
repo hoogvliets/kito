@@ -1,11 +1,51 @@
 [
   {
+    "title": "Meta ordered to pay $375M in New Mexico trial over child exploitation",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/",
+    "source": "Hacker News",
+    "published": "2026-03-25T04:04:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513098\">Comments</a>"
+  },
+  {
+    "title": "US Army raises enlistment age to 42 and removes marijuana waiver requirement",
+    "link": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
+    "source": "Hacker News",
+    "published": "2026-03-25T03:44:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513008\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+    "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+    "source": "Hacker News",
+    "published": "2026-03-25T03:28:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47512891\">Comments</a>"
+  },
+  {
+    "title": "VitruvianOS \u2013 Desktop Linux Inspired by the BeOS",
+    "link": "https://v-os.dev",
+    "source": "Hacker News",
+    "published": "2026-03-25T03:17:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47512816\">Comments</a>"
+  },
+  {
     "title": "In Edison\u2019s Revenge, Data Centers Are Transitioning From AC to DC",
     "link": "https://spectrum.ieee.org/data-center-dc",
     "source": "Hacker News",
     "published": "2026-03-25T00:44:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47511703\">Comments</a>"
+  },
+  {
+    "title": "Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types",
+    "link": "https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/",
+    "source": "Hacker News",
+    "published": "2026-03-25T00:36:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511631\">Comments</a>"
   },
   {
     "title": "Flighty Airports",
@@ -32,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47509571\">Comments</a>"
   },
   {
-    "title": "Is anybody else bored of talking about AI?",
-    "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "source": "Hacker News",
-    "published": "2026-03-24T20:31:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508745\">Comments</a>"
-  },
-  {
     "title": "Goodbye to Sora",
     "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
     "source": "Hacker News",
@@ -64,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47506713\">Comments</a>"
   },
   {
-    "title": "Lago (YC S21) Is Hiring",
-    "link": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
-    "source": "Hacker News",
-    "published": "2026-03-24T17:47:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47506490\">Comments</a>"
-  },
-  {
     "title": "Arm AGI CPU",
     "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
     "source": "Hacker News",
@@ -88,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47505144\">Comments</a>"
   },
   {
-    "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
-    "link": "https://github.com/t8/hypura",
-    "source": "Hacker News",
-    "published": "2026-03-24T16:02:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47504695\">Comments</a>"
-  },
-  {
     "title": "Apple Business",
     "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
     "source": "Hacker News",
     "published": "2026-03-24T15:29:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47504112\">Comments</a>"
-  },
-  {
-    "title": "Hypothesis, Antithesis, synthesis",
-    "link": "https://antithesis.com/blog/2026/hegel/",
-    "source": "Hacker News",
-    "published": "2026-03-24T15:28:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47504094\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-    "link": "https://github.com/ssrajadh/sentrysearch",
-    "source": "Hacker News",
-    "published": "2026-03-24T14:58:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503617\">Comments</a>"
-  },
-  {
-    "title": "Missile defense is NP-complete",
-    "link": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-    "source": "Hacker News",
-    "published": "2026-03-24T13:00:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47501950\">Comments</a>"
   },
   {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47472120\">Comments</a>"
   },
   {
-    "title": "What happened to GEM?",
-    "link": "https://dfarq.homeip.net/whatever-happened-to-gem/",
+    "title": "Intel Device Modeling Language for virtual platforms",
+    "link": "https://github.com/intel/device-modeling-language",
     "source": "Hacker News",
-    "published": "2026-03-20T22:45:52+00:00",
+    "published": "2026-03-21T08:35:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47461766\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47465197\">Comments</a>"
   },
   {
-    "title": "How the world\u2019s first electric grid was built",
-    "link": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
+    "title": "Algorithm Visualizer",
+    "link": "https://algorithm-visualizer.org/",
     "source": "Hacker News",
-    "published": "2026-03-20T14:29:48+00:00",
+    "published": "2026-03-21T02:47:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47455079\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47463548\">Comments</a>"
+  },
+  {
+    "title": "You can run a DNS server (2025)",
+    "link": "https://simonsafar.com/2025/running_dns/",
+    "source": "Hacker News",
+    "published": "2026-03-20T12:42:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47453738\">Comments</a>"
   }
 ]
