@@ -1,19 +1,43 @@
 [
   {
-    "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-    "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+    "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+    "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
     "source": "Hacker News",
-    "published": "2026-03-25T10:28:49+00:00",
+    "published": "2026-03-25T15:02:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47515502\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518281\">Comments</a>"
   },
   {
-    "title": "Meta told to pay $375M for misleading users over child safety",
-    "link": "https://www.bbc.com/news/articles/cql75dn07n2o",
+    "title": "Antimatter has been transported for the first time",
+    "link": "https://www.nature.com/articles/d41586-026-00950-w",
     "source": "Hacker News",
-    "published": "2026-03-25T08:52:50+00:00",
+    "published": "2026-03-25T14:56:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47514916\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518171\">Comments</a>"
+  },
+  {
+    "title": "Apple Just Lost Me",
+    "link": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+    "source": "Hacker News",
+    "published": "2026-03-25T14:20:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47517701\">Comments</a>"
+  },
+  {
+    "title": "Local LLM App by Ente",
+    "link": "https://ente.com/blog/ensu/",
+    "source": "Hacker News",
+    "published": "2026-03-25T12:49:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47516650\">Comments</a>"
+  },
+  {
+    "title": "Building a coding agent in Swift from scratch",
+    "link": "https://github.com/ivan-magda/swift-claude-code",
+    "source": "Hacker News",
+    "published": "2026-03-25T10:45:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47515605\">Comments</a>"
   },
   {
     "title": "Why I forked httpx",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47513475\">Comments</a>"
   },
   {
-    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-    "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+    "title": "Miscellanea: The War in Iran",
+    "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
     "source": "Hacker News",
-    "published": "2026-03-25T03:28:04+00:00",
+    "published": "2026-03-25T04:27:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47512891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513229\">Comments</a>"
   },
   {
     "title": "VitruvianOS \u2013 Desktop Linux Inspired by the BeOS",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47506713\">Comments</a>"
   },
   {
-    "title": "Arm AGI CPU",
-    "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-    "source": "Hacker News",
-    "published": "2026-03-24T17:30:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47506251\">Comments</a>"
-  },
-  {
     "title": "Apple Business",
     "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
     "source": "Hacker News",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47479362\">Comments</a>"
   },
   {
+    "title": "My Astrophotography in the Movie Project Hail Mary",
+    "link": "https://rpastro.square.site/s/stories/phm",
+    "source": "Hacker News",
+    "published": "2026-03-22T14:28:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47477873\">Comments</a>"
+  },
+  {
     "title": "Looking at Unity made me understand the point of C++ coroutines",
     "link": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
     "source": "Hacker News",
     "published": "2026-03-21T23:19:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47472566\">Comments</a>"
-  },
-  {
-    "title": "Fun with CSF firmware (RK3588 GPU firmware)",
-    "link": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
-    "source": "Hacker News",
-    "published": "2026-03-21T22:43:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47472286\">Comments</a>"
-  },
-  {
-    "title": "Algorithm Visualizer",
-    "link": "https://algorithm-visualizer.org/",
-    "source": "Hacker News",
-    "published": "2026-03-21T02:47:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47463548\">Comments</a>"
-  },
-  {
-    "title": "You can run a DNS server (2025)",
-    "link": "https://simonsafar.com/2025/running_dns/",
-    "source": "Hacker News",
-    "published": "2026-03-20T12:42:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47453738\">Comments</a>"
   }
 ]
