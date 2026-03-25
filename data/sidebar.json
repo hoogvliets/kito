@@ -1,5 +1,37 @@
 [
   {
+    "title": "In Edison\u2019s Revenge, Data Centers Are Transitioning From AC to DC",
+    "link": "https://spectrum.ieee.org/data-center-dc",
+    "source": "Hacker News",
+    "published": "2026-03-25T00:44:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511703\">Comments</a>"
+  },
+  {
+    "title": "Flighty Airports",
+    "link": "https://flighty.com/airports",
+    "source": "Hacker News",
+    "published": "2026-03-25T00:29:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511589\">Comments</a>"
+  },
+  {
+    "title": "A Compiler Writing Journey",
+    "link": "https://github.com/DoctorWkt/acwj",
+    "source": "Hacker News",
+    "published": "2026-03-24T23:44:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511208\">Comments</a>"
+  },
+  {
+    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+    "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "source": "Hacker News",
+    "published": "2026-03-24T21:24:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47509571\">Comments</a>"
+  },
+  {
     "title": "Is anybody else bored of talking about AI?",
     "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
     "source": "Hacker News",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47508745\">Comments</a>"
   },
   {
-    "title": "GitHub is once again down",
-    "link": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+    "title": "Goodbye to Sora",
+    "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
     "source": "Hacker News",
-    "published": "2026-03-24T20:23:34+00:00",
+    "published": "2026-03-24T20:01:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508608\">Comments</a>"
-  },
-  {
-    "title": "Welcome to FastMCP",
-    "link": "https://gofastmcp.com/getting-started/welcome",
-    "source": "Hacker News",
-    "published": "2026-03-24T19:53:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508149\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508246\">Comments</a>"
   },
   {
     "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47507150\">Comments</a>"
   },
   {
-    "title": "ARM AGI CPU: Specs and SKUs",
-    "link": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
     "source": "Hacker News",
-    "published": "2026-03-24T17:59:16+00:00",
+    "published": "2026-03-24T18:03:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47506641\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47506713\">Comments</a>"
   },
   {
     "title": "Lago (YC S21) Is Hiring",
@@ -56,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47506251\">Comments</a>"
   },
   {
-    "title": "Show HN: Gridland: make terminal apps that also run in the browser",
-    "link": "https://www.gridland.io/",
-    "source": "Hacker News",
-    "published": "2026-03-24T16:57:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47505731\">Comments</a>"
-  },
-  {
     "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
     "link": "https://www.emailmd.dev/",
     "source": "Hacker News",
@@ -80,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47504695\">Comments</a>"
   },
   {
-    "title": "No Terms. No Conditions",
-    "link": "https://notermsnoconditions.com",
-    "source": "Hacker News",
-    "published": "2026-03-24T15:58:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47504615\">Comments</a>"
-  },
-  {
     "title": "Apple Business",
     "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
     "source": "Hacker News",
@@ -102,14 +110,6 @@
     "published": "2026-03-24T15:28:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47504094\">Comments</a>"
-  },
-  {
-    "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
-    "link": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
-    "source": "Hacker News",
-    "published": "2026-03-24T15:09:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47503810\">Comments</a>"
   },
   {
     "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
@@ -136,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47501426\">Comments</a>"
   },
   {
-    "title": "Data Manipulation in Clojure Compared to R and Python",
-    "link": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
+    "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+    "link": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
     "source": "Hacker News",
-    "published": "2026-03-22T09:55:23+00:00",
+    "published": "2026-03-21T22:20:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475930\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47472120\">Comments</a>"
+  },
+  {
+    "title": "What happened to GEM?",
+    "link": "https://dfarq.homeip.net/whatever-happened-to-gem/",
+    "source": "Hacker News",
+    "published": "2026-03-20T22:45:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47461766\">Comments</a>"
   },
   {
     "title": "How the world\u2019s first electric grid was built",
@@ -150,13 +158,5 @@
     "published": "2026-03-20T14:29:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47455079\">Comments</a>"
-  },
-  {
-    "title": "Building Liberal Compute",
-    "link": "https://simongrimm.substack.com/p/building-liberal-compute",
-    "source": "Hacker News",
-    "published": "2026-03-18T21:07:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47431465\">Comments</a>"
   }
 ]
