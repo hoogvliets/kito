@@ -1,11 +1,11 @@
 [
   {
-    "title": "Implementing automatic eSIM installation on Android",
-    "link": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+    "title": "Why I forked httpx",
+    "link": "https://tildeweb.nl/~michiel/httpxyz.html",
     "source": "Hacker News",
-    "published": "2026-03-25T05:42:09+00:00",
+    "published": "2026-03-25T08:05:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513728\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47514603\">Comments</a>"
   },
   {
     "title": "TurboQuant: Redefining AI efficiency with extreme compression",
@@ -14,22 +14,6 @@
     "published": "2026-03-25T05:00:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47513475\">Comments</a>"
-  },
-  {
-    "title": "Social media bans and digital curfews to be trialled on UK teenagers",
-    "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo",
-    "source": "Hacker News",
-    "published": "2026-03-25T04:34:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513280\">Comments</a>"
-  },
-  {
-    "title": "Miscellanea: The War in Iran",
-    "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
-    "source": "Hacker News",
-    "published": "2026-03-25T04:27:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513229\">Comments</a>"
   },
   {
     "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
@@ -56,6 +40,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47511589\">Comments</a>"
   },
   {
+    "title": "A Compiler Writing Journey",
+    "link": "https://github.com/DoctorWkt/acwj",
+    "source": "Hacker News",
+    "published": "2026-03-24T23:44:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511208\">Comments</a>"
+  },
+  {
     "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
     "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
     "source": "Hacker News",
@@ -70,6 +62,14 @@
     "published": "2026-03-24T20:01:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47508246\">Comments</a>"
+  },
+  {
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "source": "Hacker News",
+    "published": "2026-03-24T18:34:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47507150\">Comments</a>"
   },
   {
     "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
@@ -88,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47506251\">Comments</a>"
   },
   {
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "link": "https://www.emailmd.dev/",
+    "source": "Hacker News",
+    "published": "2026-03-24T16:26:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47505144\">Comments</a>"
+  },
+  {
     "title": "Apple Business",
     "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
     "source": "Hacker News",
@@ -96,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47504112\">Comments</a>"
   },
   {
-    "title": "Why did the chicken cross the road?",
-    "link": "https://taylor.town/other-side",
-    "source": "Hacker News",
-    "published": "2026-03-24T12:46:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47501825\">Comments</a>"
-  },
-  {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "link": "https://github.com/BerriAI/litellm/issues/24512",
     "source": "Hacker News",
     "published": "2026-03-24T12:06:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47501426\">Comments</a>"
+  },
+  {
+    "title": "VNDB founder Yorhel has died",
+    "link": "https://vndb.org/t24787",
+    "source": "Hacker News",
+    "published": "2026-03-22T16:44:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47479362\">Comments</a>"
   },
   {
     "title": "Fun with CSF firmware (RK3588 GPU firmware)",
@@ -126,14 +134,6 @@
     "published": "2026-03-21T22:20:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47472120\">Comments</a>"
-  },
-  {
-    "title": "The final switch: Goldsboro, 1961",
-    "link": "https://blog.nuclearsecrecy.com/2013/09/27/final-switch-goldsboro-1961/",
-    "source": "Hacker News",
-    "published": "2026-03-21T14:55:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47467616\">Comments</a>"
   },
   {
     "title": "Intel Device Modeling Language for virtual platforms",
