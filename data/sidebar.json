@@ -1,5 +1,61 @@
 [
   {
+    "title": "Deploytarot.com \u2013 tarot card reading for deployments",
+    "link": "https://deploytarot.com/setup",
+    "source": "Hacker News",
+    "published": "2026-03-26T20:53:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47535586\">Comments</a>"
+  },
+  {
+    "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+    "link": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+    "source": "Hacker News",
+    "published": "2026-03-26T20:35:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47535371\">Comments</a>"
+  },
+  {
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+    "source": "Hacker News",
+    "published": "2026-03-26T19:48:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534848\">Comments</a>"
+  },
+  {
+    "title": "How much precision can you squeeze out of a table?",
+    "link": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+    "source": "Hacker News",
+    "published": "2026-03-26T19:47:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534837\">Comments</a>"
+  },
+  {
+    "title": "CERN to host Europe's flagship open access publishing platform",
+    "link": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+    "source": "Hacker News",
+    "published": "2026-03-26T19:30:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534629\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Turbolite \u2013 a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+    "link": "https://github.com/russellromney/turbolite",
+    "source": "Hacker News",
+    "published": "2026-03-26T18:58:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534283\">Comments</a>"
+  },
+  {
+    "title": "John Bradley, author of xv, has passed away",
+    "link": "https://voxday.net/2026/03/25/rip-john-bradley/",
+    "source": "Hacker News",
+    "published": "2026-03-26T18:38:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534086\">Comments</a>"
+  },
+  {
     "title": "Colibri \u2013 chat platform built on the AT Protocol for communities big and small",
     "link": "https://colibri.social/",
     "source": "Hacker News",
@@ -32,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47532148\">Comments</a>"
   },
   {
-    "title": "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
-    "link": "https://github.com/salespeak-ai/buyer-eval-skill",
-    "source": "Hacker News",
-    "published": "2026-03-26T16:00:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532145\">Comments</a>"
-  },
-  {
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
     "source": "Hacker News",
@@ -48,60 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47531967\">Comments</a>"
   },
   {
-    "title": "Interoperability Can Save the Open Web (2023)",
-    "link": "https://spectrum.ieee.org/doctorow-interoperability",
-    "source": "Hacker News",
-    "published": "2026-03-26T14:51:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47531184\">Comments</a>"
-  },
-  {
     "title": "Moving from GitHub to Codeberg, for lazy people",
     "link": "https://unterwaditzer.net/2025/codeberg.html",
     "source": "Hacker News",
     "published": "2026-03-26T13:38:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47530330\">Comments</a>"
-  },
-  {
-    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-    "link": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-    "source": "Hacker News",
-    "published": "2026-03-26T12:24:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47529609\">Comments</a>"
-  },
-  {
-    "title": "Swift 6.3",
-    "link": "https://www.swift.org/blog/swift-6.3-released/",
-    "source": "Hacker News",
-    "published": "2026-03-26T07:27:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47527590\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Orloj \u2013 agent infrastructure as code (YAML and GitOps)",
-    "link": "https://github.com/OrlojHQ/orloj",
-    "source": "Hacker News",
-    "published": "2026-03-26T05:07:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47526813\">Comments</a>"
-  },
-  {
-    "title": "Obsolete Sounds",
-    "link": "https://citiesandmemory.com/obsolete-sounds/",
-    "source": "Hacker News",
-    "published": "2026-03-26T03:54:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47526478\">Comments</a>"
-  },
-  {
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "source": "Hacker News",
-    "published": "2026-03-25T21:11:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47523330\">Comments</a>"
   },
   {
     "title": "Personal Encyclopedias",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47499356\">Comments</a>"
   },
   {
+    "title": "Fast regex search: indexing text for agent tools",
+    "link": "https://cursor.com/blog/fast-regex-search",
+    "source": "Hacker News",
+    "published": "2026-03-24T06:31:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47499242\">Comments</a>"
+  },
+  {
     "title": "Doom entirely from DNS records",
     "link": "https://github.com/resumex/doom-over-dns",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47490705\">Comments</a>"
   },
   {
-    "title": "My home network observes bedtime with OpenBSD and pf",
-    "link": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+    "title": "Fermented foods shaped human biology",
+    "link": "https://press.asimov.com/articles/culture-shift",
     "source": "Hacker News",
-    "published": "2026-03-23T13:56:54+00:00",
+    "published": "2026-03-20T17:00:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47489620\">Comments</a>"
-  },
-  {
-    "title": "Light on Glass: Why do you start making a game engine?",
-    "link": "https://analogdreamdev.substack.com/p/light-on-glass",
-    "source": "Hacker News",
-    "published": "2026-03-22T23:15:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47483364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47457407\">Comments</a>"
   }
 ]
