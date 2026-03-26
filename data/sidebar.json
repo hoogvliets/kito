@@ -1,5 +1,21 @@
 [
   {
+    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+    "link": "https://github.com/lightfeed/extractor",
+    "source": "Hacker News",
+    "published": "2026-03-26T03:55:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47526486\">Comments</a>"
+  },
+  {
+    "title": "False claims in a widely-cited paper",
+    "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+    "source": "Hacker News",
+    "published": "2026-03-26T00:46:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47525378\">Comments</a>"
+  },
+  {
     "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
     "link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
     "source": "Hacker News",
@@ -14,6 +30,14 @@
     "published": "2026-03-25T23:29:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47524704\">Comments</a>"
+  },
+  {
+    "title": "\"Disregard That\" Attacks",
+    "link": "https://calpaterson.com/disregard.html",
+    "source": "Hacker News",
+    "published": "2026-03-25T23:11:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47524519\">Comments</a>"
   },
   {
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
@@ -32,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47522709\">Comments</a>"
   },
   {
-    "title": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
-    "link": "https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/",
-    "source": "Hacker News",
-    "published": "2026-03-25T20:19:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47522608\">Comments</a>"
-  },
-  {
-    "title": "FreeCAD  v1.1",
-    "link": "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/",
-    "source": "Hacker News",
-    "published": "2026-03-25T19:19:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47521945\">Comments</a>"
-  },
-  {
     "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
     "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
     "source": "Hacker News",
     "published": "2026-03-25T19:14:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47521876\">Comments</a>"
-  },
-  {
-    "title": "Updates to GitHub Copilot interaction data usage policy",
-    "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
-    "source": "Hacker News",
-    "published": "2026-03-25T19:09:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47521799\">Comments</a>"
   },
   {
     "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
@@ -112,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47517606\">Comments</a>"
   },
   {
-    "title": "Thoughts on slowing the fuck down",
-    "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+    "title": "Miscellanea: The War in Iran",
+    "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
     "source": "Hacker News",
-    "published": "2026-03-25T14:07:14+00:00",
+    "published": "2026-03-25T04:27:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47517539\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513229\">Comments</a>"
   },
   {
-    "title": "Ensu \u2013 Ente\u2019s Local LLM app",
-    "link": "https://ente.com/blog/ensu/",
+    "title": "More precise elevation data for GraphHopper routing engine",
+    "link": "https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/",
     "source": "Hacker News",
-    "published": "2026-03-25T12:49:14+00:00",
+    "published": "2026-03-23T16:39:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47516650\">Comments</a>"
-  },
-  {
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "source": "Hacker News",
-    "published": "2026-03-25T05:00:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47513475\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47491848\">Comments</a>"
   },
   {
     "title": "My DIY FPGA board can run Quake II",
@@ -144,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47483286\">Comments</a>"
   },
   {
+    "title": "Two studies in compiler optimisations",
+    "link": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+    "source": "Hacker News",
+    "published": "2026-03-22T15:34:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47478599\">Comments</a>"
+  },
+  {
     "title": "My astrophotography in the movie Project Hail Mary",
     "link": "https://rpastro.square.site/s/stories/phm",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47477873\">Comments</a>"
   },
   {
-    "title": "Rendering complex scripts in terminal and OSC 66",
-    "link": "https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/",
+    "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
+    "link": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
     "source": "Hacker News",
-    "published": "2026-03-22T09:31:08+00:00",
+    "published": "2026-03-22T01:58:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47475826\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47473673\">Comments</a>"
   }
 ]
