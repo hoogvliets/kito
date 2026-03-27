@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hold on to Your Hardware",
+    "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+    "source": "Hacker News",
+    "published": "2026-03-27T10:10:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47540833\">Comments</a>"
+  },
+  {
     "title": "A Faster Alternative to Jq",
     "link": "https://micahkepe.com/blog/jsongrep/",
     "source": "Hacker News",
@@ -40,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47536712\">Comments</a>"
   },
   {
-    "title": "Anthropic Subprocessor Changes",
-    "link": "https://trust.anthropic.com",
-    "source": "Hacker News",
-    "published": "2026-03-26T21:37:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47536110\">Comments</a>"
-  },
-  {
     "title": "Apple discontinues the Mac Pro",
     "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
     "source": "Hacker News",
@@ -56,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47535708\">Comments</a>"
   },
   {
-    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
-    "link": "https://www.trychroma.com/research/context-1",
-    "source": "Hacker News",
-    "published": "2026-03-26T19:25:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534564\">Comments</a>"
-  },
-  {
     "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
     "link": "https://github.com/itigges22/ATLAS",
     "source": "Hacker News",
     "published": "2026-03-26T17:31:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47533297\">Comments</a>"
-  },
-  {
-    "title": "OpenTelemetry profiles enters public alpha",
-    "link": "https://opentelemetry.io/blog/2026/profiles-alpha/",
-    "source": "Hacker News",
-    "published": "2026-03-26T16:14:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532339\">Comments</a>"
   },
   {
     "title": "My minute-by-minute response to the LiteLLM malware attack",
@@ -110,6 +94,14 @@
     "published": "2026-03-24T16:54:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47505670\">Comments</a>"
+  },
+  {
+    "title": "Local Bernstein theory, and lower bounds for Lebesgue constants",
+    "link": "https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/",
+    "source": "Hacker News",
+    "published": "2026-03-24T09:36:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47500337\">Comments</a>"
   },
   {
     "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47490705\">Comments</a>"
   },
   {
-    "title": "Generators in Lone Lisp",
-    "link": "https://www.matheusmoreira.com/articles/generators-in-lone-lisp",
+    "title": "Understanding the Go Runtime: The Garbage Collector",
+    "link": "https://internals-for-interns.com/posts/go-garbage-collector/",
     "source": "Hacker News",
-    "published": "2026-03-23T13:51:03+00:00",
+    "published": "2026-03-23T15:07:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47489535\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47490571\">Comments</a>"
+  },
+  {
+    "title": "QRV Operating System: QNX on RISC-V",
+    "link": "https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html",
+    "source": "Hacker News",
+    "published": "2026-03-23T01:16:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47484295\">Comments</a>"
   }
 ]
