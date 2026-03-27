@@ -1,27 +1,27 @@
 [
   {
+    "title": "A Faster Alternative to Jq",
+    "link": "https://micahkepe.com/blog/jsongrep/",
+    "source": "Hacker News",
+    "published": "2026-03-27T07:12:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47539825\">Comments</a>"
+  },
+  {
+    "title": "The European AllSky7 fireball network",
+    "link": "https://www.allsky7.net/#archive",
+    "source": "Hacker News",
+    "published": "2026-03-27T07:00:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47539767\">Comments</a>"
+  },
+  {
     "title": "Schedule tasks on the web",
     "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
     "source": "Hacker News",
     "published": "2026-03-27T04:47:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47539188\">Comments</a>"
-  },
-  {
-    "title": "Agent-to-agent pair programming",
-    "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-    "source": "Hacker News",
-    "published": "2026-03-27T01:47:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47538190\">Comments</a>"
-  },
-  {
-    "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-    "link": "https://www.symbolica.ai/blog/arc-agi-3",
-    "source": "Hacker News",
-    "published": "2026-03-27T01:32:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47538078\">Comments</a>"
   },
   {
     "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
@@ -54,14 +54,6 @@
     "published": "2026-03-26T21:04:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47535708\">Comments</a>"
-  },
-  {
-    "title": "We haven't seen the worst of what gambling and prediction markets will do",
-    "link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-    "source": "Hacker News",
-    "published": "2026-03-26T19:48:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534848\">Comments</a>"
   },
   {
     "title": "Chroma Context-1: Training a Self-Editing Search Agent",
@@ -128,12 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47495190\">Comments</a>"
   },
   {
+    "title": "Everything old is new again: memory optimization",
+    "link": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+    "source": "Hacker News",
+    "published": "2026-03-23T18:22:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47493246\">Comments</a>"
+  },
+  {
     "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
     "link": "https://library.oapen.org//handle/20.500.12657/53344",
     "source": "Hacker News",
     "published": "2026-03-23T17:56:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47492894\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Minimalist library to generate SVG views of scientific data",
+    "link": "https://github.com/alefore/mini_svg/",
+    "source": "Hacker News",
+    "published": "2026-03-23T17:54:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47492871\">Comments</a>"
   },
   {
     "title": "DOOM Over DNS",
@@ -150,13 +158,5 @@
     "published": "2026-03-23T13:51:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47489535\">Comments</a>"
-  },
-  {
-    "title": "Dobase \u2013 Your workspace, your server",
-    "link": "https://dobase.co/",
-    "source": "Hacker News",
-    "published": "2026-03-23T13:24:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47489213\">Comments</a>"
   }
 ]
