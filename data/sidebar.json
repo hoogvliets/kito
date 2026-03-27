@@ -1,6 +1,6 @@
 [
   {
-    "title": "Schedule Claude Code tasks on the web",
+    "title": "Schedule tasks on the web",
     "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
     "source": "Hacker News",
     "published": "2026-03-27T04:47:15+00:00",
@@ -8,15 +8,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47539188\">Comments</a>"
   },
   {
-    "title": "HandyMKV for MakeMKV and HandBrake Automation",
-    "link": "https://github.com/dmars8047/handymkv",
-    "source": "Hacker News",
-    "published": "2026-03-27T02:19:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47538433\">Comments</a>"
-  },
-  {
-    "title": "Agent-to-Agent Pair Programming",
+    "title": "Agent-to-agent pair programming",
     "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
     "source": "Hacker News",
     "published": "2026-03-27T01:47:55+00:00",
@@ -30,22 +22,6 @@
     "published": "2026-03-27T01:32:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47538078\">Comments</a>"
-  },
-  {
-    "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-    "link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-    "source": "Hacker News",
-    "published": "2026-03-26T23:33:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47537228\">Comments</a>"
-  },
-  {
-    "title": "Chicago artist creates tourism posters for city's neighborhoods",
-    "link": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
-    "source": "Hacker News",
-    "published": "2026-03-26T23:18:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47537106\">Comments</a>"
   },
   {
     "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
@@ -96,6 +72,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47534564\">Comments</a>"
   },
   {
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "link": "https://github.com/itigges22/ATLAS",
+    "source": "Hacker News",
+    "published": "2026-03-26T17:31:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47533297\">Comments</a>"
+  },
+  {
+    "title": "OpenTelemetry profiles enters public alpha",
+    "link": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+    "source": "Hacker News",
+    "published": "2026-03-26T16:14:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532339\">Comments</a>"
+  },
+  {
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
     "source": "Hacker News",
@@ -104,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47531967\">Comments</a>"
   },
   {
-    "title": "Moving from GitHub to Codeberg, for lazy people",
-    "link": "https://unterwaditzer.net/2025/codeberg.html",
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
     "source": "Hacker News",
-    "published": "2026-03-26T13:38:25+00:00",
+    "published": "2026-03-25T21:11:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47530330\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47523330\">Comments</a>"
   },
   {
     "title": "Why so many control rooms were seafoam green (2025)",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47495190\">Comments</a>"
   },
   {
-    "title": "Every Kid Gets a Robot",
-    "link": "https://www.steamconnection.org/ekgar",
+    "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
+    "link": "https://library.oapen.org//handle/20.500.12657/53344",
     "source": "Hacker News",
-    "published": "2026-03-23T21:03:27+00:00",
+    "published": "2026-03-23T17:56:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47495076\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47492894\">Comments</a>"
   },
   {
     "title": "DOOM Over DNS",
@@ -150,6 +142,14 @@
     "published": "2026-03-23T15:17:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47490705\">Comments</a>"
+  },
+  {
+    "title": "Generators in Lone Lisp",
+    "link": "https://www.matheusmoreira.com/articles/generators-in-lone-lisp",
+    "source": "Hacker News",
+    "published": "2026-03-23T13:51:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47489535\">Comments</a>"
   },
   {
     "title": "Dobase \u2013 Your workspace, your server",
