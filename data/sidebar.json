@@ -8,7 +8,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47550878\">Comments</a>"
   },
   {
-    "title": "Don't YOLO your file system",
+    "title": "Go hard on agents, not on your filesystem",
     "link": "https://jai.scs.stanford.edu/",
     "source": "Hacker News",
     "published": "2026-03-28T00:39:54+00:00",
@@ -22,14 +22,6 @@
     "published": "2026-03-27T22:22:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47549160\">Comments</a>"
-  },
-  {
-    "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
-    "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-    "source": "Hacker News",
-    "published": "2026-03-27T21:41:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47548670\">Comments</a>"
   },
   {
     "title": "Velxio 2.0 \u2013 Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
@@ -72,6 +64,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47543204\">Comments</a>"
   },
   {
+    "title": "Iran-linked hackers breach FBI director's personal email",
+    "link": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+    "source": "Hacker News",
+    "published": "2026-03-27T14:38:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47543167\">Comments</a>"
+  },
+  {
     "title": "Anatomy of the .claude/ folder",
     "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
     "source": "Hacker News",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47540383\">Comments</a>"
   },
   {
-    "title": "Building FireStriker: Making Civic Tech Free",
-    "link": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
-    "source": "Hacker News",
-    "published": "2026-03-26T18:03:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47533709\">Comments</a>"
-  },
-  {
     "title": "Improving Composer through real-time RL",
     "link": "https://cursor.com/blog/real-time-rl-for-composer",
     "source": "Hacker News",
@@ -120,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47532770\">Comments</a>"
   },
   {
-    "title": "The Bee That Everyone Wants to Save",
+    "title": "The bee that everyone wants to save",
     "link": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
     "source": "Hacker News",
     "published": "2026-03-25T17:35:16+00:00",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47520599\">Comments</a>"
   },
   {
-    "title": "The Interactive Lost Place Map",
-    "link": "https://lostfoundations.org/",
+    "title": ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
+    "link": "https://www.youtube.com/watch?v=P1kfuCkWo24",
     "source": "Hacker News",
-    "published": "2026-03-24T22:40:32+00:00",
+    "published": "2026-03-25T11:09:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47510561\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47515783\">Comments</a>"
+  },
+  {
+    "title": "Arm releases first in-house chip, with Meta as debut customer",
+    "link": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+    "source": "Hacker News",
+    "published": "2026-03-24T23:34:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511112\">Comments</a>"
   },
   {
     "title": "Nashville library launches Memory Lab for digitizing home movies",
