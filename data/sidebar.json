@@ -1,5 +1,45 @@
 [
   {
+    "title": "I put all 8,642 Spanish laws in Git \u2013 every reform is a commit",
+    "link": "https://github.com/EnriqueLop/legalize-es",
+    "source": "Hacker News",
+    "published": "2026-03-28T12:01:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>"
+  },
+  {
+    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "source": "Hacker News",
+    "published": "2026-03-28T12:01:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553796\">Comments</a>"
+  },
+  {
+    "title": "I Built an Open-World Engine for the N64 [video]",
+    "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+    "source": "Hacker News",
+    "published": "2026-03-28T11:49:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>"
+  },
+  {
+    "title": "No one is happy with NASA's new idea for private space stations",
+    "link": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+    "source": "Hacker News",
+    "published": "2026-03-28T11:13:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553516\">Comments</a>"
+  },
+  {
+    "title": "Cocoa-Way \u2013 Native macOS Wayland compositor for running Linux apps seamlessly",
+    "link": "https://github.com/J-x-Z/cocoa-way",
+    "source": "Hacker News",
+    "published": "2026-03-28T10:06:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553185\">Comments</a>"
+  },
+  {
     "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
     "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
     "source": "Hacker News",
@@ -40,44 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47548013\">Comments</a>"
   },
   {
-    "title": "ISBN Visualization",
-    "link": "https://annas-archive.gd/isbn-visualization",
-    "source": "Hacker News",
-    "published": "2026-03-27T20:02:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47547508\">Comments</a>"
-  },
-  {
     "title": "Make macOS consistently bad unironically",
     "link": "https://lr0.org/blog/p/macos/",
     "source": "Hacker News",
     "published": "2026-03-27T19:15:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47547009\">Comments</a>"
-  },
-  {
-    "title": "The Future of SCIP",
-    "link": "https://sourcegraph.com/blog/the-future-of-scip",
-    "source": "Hacker News",
-    "published": "2026-03-27T15:46:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47544238\">Comments</a>"
-  },
-  {
-    "title": "Meow.camera",
-    "link": "https://meow.camera/#4258783365322591678",
-    "source": "Hacker News",
-    "published": "2026-03-27T14:41:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47543204\">Comments</a>"
-  },
-  {
-    "title": "Iran-linked hackers breach FBI director's personal email",
-    "link": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "source": "Hacker News",
-    "published": "2026-03-27T14:38:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47543167\">Comments</a>"
   },
   {
     "title": "Anatomy of the .claude/ folder",
@@ -88,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47543139\">Comments</a>"
   },
   {
-    "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
-    "link": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-    "source": "Hacker News",
-    "published": "2026-03-27T13:49:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47542644\">Comments</a>"
-  },
-  {
     "title": "\u2018Energy independence feels practical\u2019: Europeans building mini solar farms",
     "link": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
     "source": "Hacker News",
     "published": "2026-03-27T08:55:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47540383\">Comments</a>"
-  },
-  {
-    "title": "Improving Composer through real-time RL",
-    "link": "https://cursor.com/blog/real-time-rl-for-composer",
-    "source": "Hacker News",
-    "published": "2026-03-26T16:48:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532770\">Comments</a>"
-  },
-  {
-    "title": "Trust Signals as Sparklines for Hacker News",
-    "link": "https://hn-trustspark.com/",
-    "source": "Hacker News",
-    "published": "2026-03-26T16:43:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532717\">Comments</a>"
   },
   {
     "title": "Desperately Seeking Space Friends",
@@ -136,12 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47520599\">Comments</a>"
   },
   {
-    "title": ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
-    "link": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+    "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
+    "link": "https://github.com/dbrll/ATTN-11",
     "source": "Hacker News",
-    "published": "2026-03-25T11:09:21+00:00",
+    "published": "2026-03-25T15:20:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47515783\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518568\">Comments</a>"
+  },
+  {
+    "title": "Arm releases first in-house chip, with Meta as debut customer",
+    "link": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+    "source": "Hacker News",
+    "published": "2026-03-24T23:34:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47511112\">Comments</a>"
+  },
+  {
+    "title": "Go Naming Conventions: A Practical Guide",
+    "link": "https://www.alexedwards.net/blog/go-naming-conventions",
+    "source": "Hacker News",
+    "published": "2026-03-24T20:49:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47509031\">Comments</a>"
   },
   {
     "title": "Nashville library launches Memory Lab for digitizing home movies",
