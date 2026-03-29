@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
+    "link": "https://github.com/openyak/desktop",
+    "source": "Hacker News",
+    "published": "2026-03-29T04:26:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47560380\">Comments</a>"
+  },
+  {
+    "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+    "link": "https://www.bmj.com/content/387/bmj-2024-082194",
+    "source": "Hacker News",
+    "published": "2026-03-29T00:53:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47559481\">Comments</a>"
+  },
+  {
     "title": "South Korea Mandates Solar Panels for Public Parking Lots",
     "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
     "source": "Hacker News",
@@ -8,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47558997\">Comments</a>"
   },
   {
-    "title": "Computer chip material inspired by the human brain could slash AI energy use",
-    "link": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
+    "title": "Sealing Paper Packaging Without Adhesives",
+    "link": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
     "source": "Hacker News",
-    "published": "2026-03-28T23:04:14+00:00",
+    "published": "2026-03-28T22:50:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558849\">Comments</a>"
-  },
-  {
-    "title": "Stop picking my Go version for me",
-    "link": "https://blog.howardjohn.info/posts/go-mod-version/",
-    "source": "Hacker News",
-    "published": "2026-03-28T22:15:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558581\">Comments</a>"
-  },
-  {
-    "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
-    "link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-    "source": "Hacker News",
-    "published": "2026-03-28T21:35:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558305\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558782\">Comments</a>"
   },
   {
     "title": "CSS is DOOMed",
@@ -38,6 +38,14 @@
     "published": "2026-03-28T20:39:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47557960\">Comments</a>"
+  },
+  {
+    "title": "Google just gave Android power users a sideloading win",
+    "link": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+    "source": "Hacker News",
+    "published": "2026-03-28T20:28:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47557901\">Comments</a>"
   },
   {
     "title": "The first 40 months of the AI era",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47556359\">Comments</a>"
   },
   {
-    "title": "Undroidwish \u2013 a single-file, batteries-included Tcl/Tk binary for many platforms",
-    "link": "https://androwish.org/home/wiki?name=undroidwish",
-    "source": "Hacker News",
-    "published": "2026-03-28T16:49:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47556267\">Comments</a>"
-  },
-  {
     "title": "I decompiled the White House's new app",
     "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
     "source": "Hacker News",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47554773\">Comments</a>"
   },
   {
-    "title": "Spanish legislation as a Git repo",
-    "link": "https://github.com/EnriqueLop/legalize-es",
-    "source": "Hacker News",
-    "published": "2026-03-28T12:01:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>"
-  },
-  {
     "title": "I Built an Open-World Engine for the N64 [video]",
     "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
     "source": "Hacker News",
@@ -120,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>"
   },
   {
-    "title": "Cocoa-Way \u2013 Native macOS Wayland compositor for running Linux apps seamlessly",
-    "link": "https://github.com/J-x-Z/cocoa-way",
+    "title": "Cat Itecture: Better Cat Window Boxes",
+    "link": "https://gwern.net/catitecture",
     "source": "Hacker News",
-    "published": "2026-03-28T10:06:13+00:00",
+    "published": "2026-03-28T08:23:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47553185\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47552643\">Comments</a>"
   },
   {
     "title": "OpenBSD on Motorola 88000 Processors",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47543186\">Comments</a>"
   },
   {
-    "title": "Joining databases across teams without copying data or running servers",
-    "link": "https://datahike.io/notes/collaborate-without-infrastructure/",
+    "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
+    "link": "https://github.com/ben-j-c/verilog2factorio",
     "source": "Hacker News",
-    "published": "2026-03-26T21:16:03+00:00",
+    "published": "2026-03-26T10:47:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47535863\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47528853\">Comments</a>"
   },
   {
-    "title": "Detecting file changes on macOS with kqueue",
-    "link": "https://www.vegardstikbakke.com/kqueue/",
+    "title": "The 667MHz Machine",
+    "link": "https://www.0xsid.com/blog/667mhz-machine",
     "source": "Hacker News",
-    "published": "2026-03-24T20:29:44+00:00",
+    "published": "2026-03-25T14:44:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508710\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518010\">Comments</a>"
+  },
+  {
+    "title": "The Case for Becoming an Engineering Manager",
+    "link": "https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager",
+    "source": "Hacker News",
+    "published": "2026-03-24T19:49:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47508078\">Comments</a>"
   },
   {
     "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
