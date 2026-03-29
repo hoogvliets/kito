@@ -1,19 +1,75 @@
 [
   {
+    "title": "Show HN: Crazierl \u2013 An Erlang Operating System",
+    "link": "https://crazierl.org/demo/",
+    "source": "Hacker News",
+    "published": "2026-03-29T20:38:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47567049\">Comments</a>"
+  },
+  {
+    "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
+    "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "source": "Hacker News",
+    "published": "2026-03-29T20:21:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566865\">Comments</a>"
+  },
+  {
+    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+    "link": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+    "source": "Hacker News",
+    "published": "2026-03-29T20:00:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566653\">Comments</a>"
+  },
+  {
+    "title": "The Cognitive Dark Forest",
+    "link": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+    "source": "Hacker News",
+    "published": "2026-03-29T19:36:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566442\">Comments</a>"
+  },
+  {
+    "title": "More on Version Control",
+    "link": "https://bramcohen.com/p/more-on-version-control",
+    "source": "Hacker News",
+    "published": "2026-03-29T19:26:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566332\">Comments</a>"
+  },
+  {
+    "title": "Kyushu Railway Company Train Varieties",
+    "link": "https://www.jrkyushu.co.jp/english/train/index.html",
+    "source": "Hacker News",
+    "published": "2026-03-29T19:08:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566140\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I made a \"programming language\" looking for feedback",
+    "link": "https://github.com/alonsovm44/glupe",
+    "source": "Hacker News",
+    "published": "2026-03-29T18:35:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47565831\">Comments</a>"
+  },
+  {
+    "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+    "link": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+    "source": "Hacker News",
+    "published": "2026-03-29T17:46:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47565365\">Comments</a>"
+  },
+  {
     "title": "Neovim 0.12.0",
     "link": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
     "source": "Hacker News",
     "published": "2026-03-29T17:39:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47565316\">Comments</a>"
-  },
-  {
-    "title": "Netscape News Feed Straight Out of the Late 00s",
-    "link": "https://isp.netscape.com/",
-    "source": "Hacker News",
-    "published": "2026-03-29T17:34:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47565264\">Comments</a>"
   },
   {
     "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
@@ -24,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47564579\">Comments</a>"
   },
   {
-    "title": "The bot situation on the internet is worse than you could imagine",
-    "link": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
-    "source": "Hacker News",
-    "published": "2026-03-29T16:17:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47564469\">Comments</a>"
-  },
-  {
     "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
     "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
     "source": "Hacker News",
     "published": "2026-03-29T16:12:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47564421\">Comments</a>"
-  },
-  {
-    "title": "Full network of clitoral nerves mapped out for first time",
-    "link": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-    "source": "Hacker News",
-    "published": "2026-03-29T15:54:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47564245\">Comments</a>"
   },
   {
     "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
@@ -64,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47563384\">Comments</a>"
   },
   {
-    "title": "Show HN: Sheet Ninja \u2013 Google Sheets as a CRUD Back End for Vibe Coders",
-    "link": "https://sheetninja.io",
-    "source": "Hacker News",
-    "published": "2026-03-29T11:42:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47562288\">Comments</a>"
-  },
-  {
-    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-    "link": "https://github.com/austin-weeks/miasma",
-    "source": "Hacker News",
-    "published": "2026-03-29T10:10:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561819\">Comments</a>"
-  },
-  {
     "title": "Nitrile and latex gloves may cause overestimation of microplastics",
     "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
     "source": "Hacker News",
     "published": "2026-03-29T09:46:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47561711\">Comments</a>"
-  },
-  {
-    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-    "link": "https://news.ycombinator.com/item?id=47561489",
-    "source": "Hacker News",
-    "published": "2026-03-29T08:58:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561489\">Comments</a>"
   },
   {
     "title": "Show HN: QuickBEAM \u2013 run JavaScript as supervised Erlang/OTP processes",
@@ -112,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47556290\">Comments</a>"
   },
   {
-    "title": "I turned my Kindle into my own personal newspaper",
-    "link": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
+    "title": "Observations from carbon dioxide monitoring",
+    "link": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
     "source": "Hacker News",
-    "published": "2026-03-27T12:36:21+00:00",
+    "published": "2026-03-27T12:56:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47541969\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47542142\">Comments</a>"
   },
   {
     "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
@@ -128,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47531576\">Comments</a>"
   },
   {
-    "title": "A nearly perfect USB cable tester",
-    "link": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+    "title": "Creating West Coast Buddhism (2024)",
+    "link": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
     "source": "Hacker News",
-    "published": "2026-03-25T23:35:47+00:00",
+    "published": "2026-03-26T14:08:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47524778\">Comments</a>"
-  },
-  {
-    "title": "VR Is Not Dead",
-    "link": "https://yadin.com/notes/vr-abides/",
-    "source": "Hacker News",
-    "published": "2026-03-25T14:25:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47517774\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47530670\">Comments</a>"
   },
   {
     "title": "The Epistemology of Microphysics",
@@ -150,13 +158,5 @@
     "published": "2026-03-25T13:46:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47517306\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Create a full language server in Go with 3.17 spec support",
-    "link": "https://github.com/owenrumney/go-lsp",
-    "source": "Hacker News",
-    "published": "2026-03-24T21:56:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47510005\">Comments</a>"
   }
 ]
