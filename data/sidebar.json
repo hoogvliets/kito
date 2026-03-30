@@ -1,11 +1,59 @@
 [
   {
-    "title": "Ask HN: Where have you found the coding limits of current models?",
-    "link": "https://news.ycombinator.com/item?id=47573224",
+    "title": "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
+    "link": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
     "source": "Hacker News",
-    "published": "2026-03-30T12:08:47+00:00",
+    "published": "2026-03-30T15:32:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573224\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575616\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
+    "link": "https://github.com/coast-guard/coasts",
+    "source": "Hacker News",
+    "published": "2026-03-30T15:17:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575417\">Comments</a>"
+  },
+  {
+    "title": "CodingFont: A game to help you pick a coding font",
+    "link": "https://www.codingfont.com/",
+    "source": "Hacker News",
+    "published": "2026-03-30T15:16:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575403\">Comments</a>"
+  },
+  {
+    "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
+    "link": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+    "source": "Hacker News",
+    "published": "2026-03-30T15:00:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575212\">Comments</a>"
+  },
+  {
+    "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
+    "link": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+    "source": "Hacker News",
+    "published": "2026-03-30T14:49:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575089\">Comments</a>"
+  },
+  {
+    "title": "How to Turn Anything into a Router",
+    "link": "https://nbailey.ca/post/router/",
+    "source": "Hacker News",
+    "published": "2026-03-30T13:28:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47574034\">Comments</a>"
+  },
+  {
+    "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+    "link": "https://www.dhanishsemar.com/writing/bird-brains",
+    "source": "Hacker News",
+    "published": "2026-03-30T13:14:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573887\">Comments</a>"
   },
   {
     "title": "Ghostmoon.app \u2013 The Swiss Army Knife for your macOS menu bar",
@@ -56,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47570435\">Comments</a>"
   },
   {
-    "title": "Copilot edited an ad into my PR",
-    "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+    "title": "Build123d: A Python CAD programming library",
+    "link": "https://github.com/gumyr/build123d",
     "source": "Hacker News",
-    "published": "2026-03-30T04:04:31+00:00",
+    "published": "2026-03-29T20:58:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47570269\">Comments</a>"
-  },
-  {
-    "title": "Philly courts will ban all smart eyeglasses starting next week",
-    "link": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-    "source": "Hacker News",
-    "published": "2026-03-30T01:38:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47569471\">Comments</a>"
-  },
-  {
-    "title": "Coding agents could make free software matter again",
-    "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-    "source": "Hacker News",
-    "published": "2026-03-29T22:21:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47568028\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47567242\">Comments</a>"
   },
   {
     "title": "ChatGPT won't let you type until Cloudflare reads your React state",
@@ -88,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47566865\">Comments</a>"
   },
   {
-    "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
-    "link": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
-    "source": "Hacker News",
-    "published": "2026-03-29T19:08:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566143\">Comments</a>"
-  },
-  {
-    "title": "C++26 is done: ISO C++ standards meeting Trip Report",
-    "link": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-    "source": "Hacker News",
-    "published": "2026-03-29T17:46:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47565365\">Comments</a>"
-  },
-  {
     "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
     "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
     "source": "Hacker News",
@@ -112,44 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47564421\">Comments</a>"
   },
   {
-    "title": "Hardware Image Compression",
-    "link": "https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/",
+    "title": "Spring Boot Done Right: Lessons from a 400-Module Codebase",
+    "link": "https://medium.com/all-things-software/spring-boot-done-right-lessons-from-a-400-module-codebase-e636c3c34149",
     "source": "Hacker News",
-    "published": "2026-03-28T18:58:13+00:00",
+    "published": "2026-03-26T18:29:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47557299\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47534003\">Comments</a>"
   },
   {
-    "title": "15 Years of Forking",
-    "link": "https://www.waterfox.com/blog/15-years-of-forking/",
+    "title": "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
+    "link": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
     "source": "Hacker News",
-    "published": "2026-03-27T17:22:11+00:00",
+    "published": "2026-03-26T09:41:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47545607\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47528403\">Comments</a>"
   },
   {
-    "title": "Ninja is a small build system with a focus on speed",
-    "link": "https://github.com/ninja-build/ninja",
+    "title": "The coming PLG to SLG apocalypse",
+    "link": "https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression",
     "source": "Hacker News",
-    "published": "2026-03-27T10:23:38+00:00",
+    "published": "2026-03-26T05:11:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47540903\">Comments</a>"
-  },
-  {
-    "title": "How A Spartan Revolutionized Baseball",
-    "link": "https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball",
-    "source": "Hacker News",
-    "published": "2026-03-25T22:09:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47523946\">Comments</a>"
-  },
-  {
-    "title": "Douglas Lenat's Automated Mathematician Source Code",
-    "link": "https://github.com/white-flame/am",
-    "source": "Hacker News",
-    "published": "2026-03-25T16:31:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47519622\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47526828\">Comments</a>"
   },
   {
     "title": "Comprehensive C++ Hashmap Benchmarks (2022)",
