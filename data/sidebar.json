@@ -1,5 +1,37 @@
 [
   {
+    "title": "Stripe is down",
+    "link": "https://status.stripe.com/",
+    "source": "Hacker News",
+    "published": "2026-03-30T08:51:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572000\">Comments</a>"
+  },
+  {
+    "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+    "link": "https://dani2442.github.io/posts/continuous-rl/",
+    "source": "Hacker News",
+    "published": "2026-03-30T07:34:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571495\">Comments</a>"
+  },
+  {
+    "title": "I use excalidraw to manage my diagrams for my blog",
+    "link": "https://blog.lysk.tech/excalidraw-frame-export/",
+    "source": "Hacker News",
+    "published": "2026-03-30T07:17:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>"
+  },
+  {
+    "title": "I am definitely missing the pre-AI writing era",
+    "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+    "source": "Hacker News",
+    "published": "2026-03-30T07:03:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571279\">Comments</a>"
+  },
+  {
     "title": "15 years, one server, 8GB RAM and 500k users \u2013 how Webminal refuses to die",
     "link": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
     "source": "Hacker News",
@@ -14,14 +46,6 @@
     "published": "2026-03-30T05:27:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47570666\">Comments</a>"
-  },
-  {
-    "title": "HD Audio Driver for Windows 98SE / Me",
-    "link": "https://github.com/andrew-hoffman/wdmhda",
-    "source": "Hacker News",
-    "published": "2026-03-30T05:01:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47570547\">Comments</a>"
   },
   {
     "title": "VHDL's Crown Jewel",
@@ -48,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47569471\">Comments</a>"
   },
   {
-    "title": "Coding Agents Could Make Free Software Matter Again",
+    "title": "Coding agents could make free software matter again",
     "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
     "source": "Hacker News",
     "published": "2026-03-29T22:21:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47568028\">Comments</a>"
-  },
-  {
-    "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
-    "link": "https://github.com/anthropics/claude-code/issues/40710",
-    "source": "Hacker News",
-    "published": "2026-03-29T22:15:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47567969\">Comments</a>"
   },
   {
     "title": "ChatGPT won't let you type until Cloudflare reads your React state",
@@ -78,14 +94,6 @@
     "published": "2026-03-29T20:00:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47566653\">Comments</a>"
-  },
-  {
-    "title": "The Cognitive Dark Forest",
-    "link": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-    "source": "Hacker News",
-    "published": "2026-03-29T19:36:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566442\">Comments</a>"
   },
   {
     "title": "C++26 is done: ISO C++ standards meeting Trip Report",
@@ -128,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47545607\">Comments</a>"
   },
   {
-    "title": "Gonon: Building a Clock with No Numerals",
-    "link": "https://tonygaeta.com/perceptor/code/gonon",
+    "title": "Ninja is a small build system with a focus on speed",
+    "link": "https://github.com/ninja-build/ninja",
     "source": "Hacker News",
-    "published": "2026-03-26T16:14:48+00:00",
+    "published": "2026-03-27T10:23:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532338\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47540903\">Comments</a>"
   },
   {
     "title": "Douglas Lenat's Automated Mathematician Source Code",
@@ -142,14 +150,6 @@
     "published": "2026-03-25T16:31:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47519622\">Comments</a>"
-  },
-  {
-    "title": "\"Roadrunner\": a bipedal, wheeled robot for multi-modal locomotion [video]",
-    "link": "https://www.youtube.com/watch?v=9kae-UAME1U",
-    "source": "Hacker News",
-    "published": "2026-03-25T15:08:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518382\">Comments</a>"
   },
   {
     "title": "Eclipse GlassFish: This Isn't Your Father's GlassFish",
