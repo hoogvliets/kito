@@ -1,11 +1,27 @@
 [
   {
-    "title": "Stripe is down",
-    "link": "https://status.stripe.com/",
+    "title": "Ask HN: Where have you found the coding limits of current models?",
+    "link": "https://news.ycombinator.com/item?id=47573224",
     "source": "Hacker News",
-    "published": "2026-03-30T08:51:18+00:00",
+    "published": "2026-03-30T12:08:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572000\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573224\">Comments</a>"
+  },
+  {
+    "title": "Ghostmoon.app \u2013 The Swiss Army Knife for your macOS menu bar",
+    "link": "https://www.mgrunwald.com/ghostmoon/",
+    "source": "Hacker News",
+    "published": "2026-03-30T11:25:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572910\">Comments</a>"
+  },
+  {
+    "title": "Mathematical methods and human thought in the age of AI",
+    "link": "https://arxiv.org/abs/2603.26524",
+    "source": "Hacker News",
+    "published": "2026-03-30T11:05:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572771\">Comments</a>"
   },
   {
     "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
@@ -22,22 +38,6 @@
     "published": "2026-03-30T07:17:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>"
-  },
-  {
-    "title": "I am definitely missing the pre-AI writing era",
-    "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-    "source": "Hacker News",
-    "published": "2026-03-30T07:03:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571279\">Comments</a>"
-  },
-  {
-    "title": "15 years, one server, 8GB RAM and 500k users \u2013 how Webminal refuses to die",
-    "link": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
-    "source": "Hacker News",
-    "published": "2026-03-30T06:08:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47570940\">Comments</a>"
   },
   {
     "title": "The curious case of retro demo scene graphics",
@@ -88,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47566865\">Comments</a>"
   },
   {
-    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-    "link": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+    "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
+    "link": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
     "source": "Hacker News",
-    "published": "2026-03-29T20:00:02+00:00",
+    "published": "2026-03-29T19:08:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566653\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47566143\">Comments</a>"
   },
   {
     "title": "C++26 is done: ISO C++ standards meeting Trip Report",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47557299\">Comments</a>"
   },
   {
-    "title": "Pretext: TypeScript library for multiline text measurement and layout",
-    "link": "https://github.com/chenglou/pretext",
-    "source": "Hacker News",
-    "published": "2026-03-28T16:52:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47556290\">Comments</a>"
-  },
-  {
     "title": "15 Years of Forking",
     "link": "https://www.waterfox.com/blog/15-years-of-forking/",
     "source": "Hacker News",
@@ -144,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47540903\">Comments</a>"
   },
   {
+    "title": "How A Spartan Revolutionized Baseball",
+    "link": "https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball",
+    "source": "Hacker News",
+    "published": "2026-03-25T22:09:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47523946\">Comments</a>"
+  },
+  {
     "title": "Douglas Lenat's Automated Mathematician Source Code",
     "link": "https://github.com/white-flame/am",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47519622\">Comments</a>"
   },
   {
-    "title": "Eclipse GlassFish: This Isn't Your Father's GlassFish",
-    "link": "https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/",
+    "title": "Comprehensive C++ Hashmap Benchmarks (2022)",
+    "link": "https://martin.ankerl.com/2022/08/27/hashmap-bench-01/",
     "source": "Hacker News",
-    "published": "2026-03-25T13:27:02+00:00",
+    "published": "2026-03-25T15:01:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47517076\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47518264\">Comments</a>"
   }
 ]
