@@ -1,5 +1,69 @@
 [
   {
+    "title": "Semantic \u2013 Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+    "link": "https://github.com/concensure/Semantic",
+    "source": "Hacker News",
+    "published": "2026-03-31T03:50:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582545\">Comments</a>"
+  },
+  {
+    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+    "link": "https://ollama.com/blog/mlx",
+    "source": "Hacker News",
+    "published": "2026-03-31T03:40:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>"
+  },
+  {
+    "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "source": "Hacker News",
+    "published": "2026-03-31T02:54:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>"
+  },
+  {
+    "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+    "link": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+    "source": "Hacker News",
+    "published": "2026-03-31T02:26:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582056\">Comments</a>"
+  },
+  {
+    "title": "Artemis II is not safe to fly",
+    "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+    "source": "Hacker News",
+    "published": "2026-03-31T02:23:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>"
+  },
+  {
+    "title": "Incident March 30th, 2026 \u2013 Accidental CDN Caching",
+    "link": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+    "source": "Hacker News",
+    "published": "2026-03-31T01:28:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47581721\">Comments</a>"
+  },
+  {
+    "title": "Universal Claude.md \u2013 cut Claude output tokens",
+    "link": "https://github.com/drona23/claude-token-efficient",
+    "source": "Hacker News",
+    "published": "2026-03-31T01:23:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47581701\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+    "link": "https://github.com/virpo/pegboard",
+    "source": "Hacker News",
+    "published": "2026-03-30T23:20:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47580910\">Comments</a>"
+  },
+  {
     "title": "Android Developer Verification",
     "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
     "source": "Hacker News",
@@ -24,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47579229\">Comments</a>"
   },
   {
-    "title": "Why I'm betting on ATProto (and why you should, too)",
-    "link": "https://brittanyellich.com/atproto/",
-    "source": "Hacker News",
-    "published": "2026-03-30T19:37:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47578741\">Comments</a>"
-  },
-  {
     "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
     "link": "https://anishathalye.com/macbook-touchscreen/",
     "source": "Hacker News",
@@ -40,52 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47578572\">Comments</a>"
   },
   {
-    "title": "William Blake, Remote by the Sea",
-    "link": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
-    "source": "Hacker News",
-    "published": "2026-03-30T19:13:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47578464\">Comments</a>"
-  },
-  {
-    "title": "A sea of sparks: Seeing radioactivity",
-    "link": "https://maurycyz.com/projects/spinthariscope/",
-    "source": "Hacker News",
-    "published": "2026-03-30T18:34:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47577979\">Comments</a>"
-  },
-  {
     "title": "Fedware: Government apps that spy harder than the apps they ban",
     "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
     "source": "Hacker News",
     "published": "2026-03-30T18:16:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47577761\">Comments</a>"
-  },
-  {
-    "title": "Recover Apple Keychain",
-    "link": "https://arkoinad.com/posts/apple_keychain_recovery.html",
-    "source": "Hacker News",
-    "published": "2026-03-30T17:21:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47577120\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
-    "link": "https://github.com/coast-guard/coasts",
-    "source": "Hacker News",
-    "published": "2026-03-30T15:17:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575417\">Comments</a>"
-  },
-  {
-    "title": "CodingFont: A game to help you pick a coding font",
-    "link": "https://www.codingfont.com/",
-    "source": "Hacker News",
-    "published": "2026-03-30T15:16:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575403\">Comments</a>"
   },
   {
     "title": "How to turn anything into a router",
@@ -112,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47573519\">Comments</a>"
   },
   {
-    "title": "Seeing Like a Spreadsheet",
-    "link": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
-    "source": "Hacker News",
-    "published": "2026-03-28T16:28:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47556063\">Comments</a>"
-  },
-  {
-    "title": "Roulette Computers: Hidden Devices That Predict Spins",
-    "link": "https://www.roulette-computers.com/",
-    "source": "Hacker News",
-    "published": "2026-03-28T13:39:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47554493\">Comments</a>"
-  },
-  {
     "title": "Cherri \u2013 programming language that compiles to an Apple Shortuct",
     "link": "https://github.com/electrikmilk/cherri",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47547843\">Comments</a>"
   },
   {
-    "title": "In math, rigor is vital, but are digitized proofs taking it too far?",
-    "link": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
+    "title": "Clojure: The Documentary, official trailer [video]",
+    "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
     "source": "Hacker News",
-    "published": "2026-03-26T09:41:44+00:00",
+    "published": "2026-03-26T17:00:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47528403\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532891\">Comments</a>"
   }
 ]
