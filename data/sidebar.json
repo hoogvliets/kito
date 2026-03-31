@@ -1,5 +1,53 @@
 [
   {
+    "title": "Ministack (Replacement for LocalStack)",
+    "link": "https://ministack.org/",
+    "source": "Hacker News",
+    "published": "2026-03-31T20:48:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593285\">Comments</a>"
+  },
+  {
+    "title": "OpenAI raises $122B",
+    "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "source": "Hacker News",
+    "published": "2026-03-31T20:07:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47592755\">Comments</a>"
+  },
+  {
+    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "source": "Hacker News",
+    "published": "2026-03-31T19:46:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47592462\">Comments</a>"
+  },
+  {
+    "title": "GitHub's Historic Uptime",
+    "link": "https://damrnelson.github.io/github-historical-uptime/",
+    "source": "Hacker News",
+    "published": "2026-03-31T19:01:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47591928\">Comments</a>"
+  },
+  {
+    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+    "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+    "source": "Hacker News",
+    "published": "2026-03-31T17:55:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47591104\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "link": "https://github.com/timescale/pg_textsearch",
+    "source": "Hacker News",
+    "published": "2026-03-31T16:29:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47589856\">Comments</a>"
+  },
+  {
     "title": "Cohere Transcribe: Speech Recognition",
     "link": "https://cohere.com/blog/transcribe",
     "source": "Hacker News",
@@ -8,60 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47589818\">Comments</a>"
   },
   {
-    "title": "Scotty: A beautiful SSH task runner",
-    "link": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
-    "source": "Hacker News",
-    "published": "2026-03-31T16:12:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47589567\">Comments</a>"
-  },
-  {
-    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
-    "link": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-    "source": "Hacker News",
-    "published": "2026-03-31T16:00:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47589370\">Comments</a>"
-  },
-  {
-    "title": "GitHub Monaspace Case Study",
-    "link": "https://lettermatic.com/custom/monaspace-case-study",
-    "source": "Hacker News",
-    "published": "2026-03-31T15:01:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47588349\">Comments</a>"
-  },
-  {
-    "title": "Good code will still win",
+    "title": "Slop is not necessarily the future",
     "link": "https://www.greptile.com/blog/ai-slopware-future",
     "source": "Hacker News",
     "published": "2026-03-31T14:32:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47587953\">Comments</a>"
-  },
-  {
-    "title": "Oracle slashes 30k jobs",
-    "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-    "source": "Hacker News",
-    "published": "2026-03-31T14:30:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587935\">Comments</a>"
-  },
-  {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "source": "Hacker News",
-    "published": "2026-03-31T14:25:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587866\">Comments</a>"
-  },
-  {
-    "title": "RubyGems Fracture Incident Report",
-    "link": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
-    "source": "Hacker News",
-    "published": "2026-03-31T14:08:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587631\">Comments</a>"
   },
   {
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47586614\">Comments</a>"
   },
   {
-    "title": "Combinators",
-    "link": "https://tinyapl.rubenverg.com/docs/info/combinators",
-    "source": "Hacker News",
-    "published": "2026-03-31T11:49:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47585974\">Comments</a>"
-  },
-  {
     "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
     "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
     "source": "Hacker News",
@@ -102,14 +94,6 @@
     "published": "2026-03-31T07:40:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47583959\">Comments</a>"
-  },
-  {
-    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-    "link": "https://ollama.com/blog/mlx",
-    "source": "Hacker News",
-    "published": "2026-03-31T03:40:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>"
   },
   {
     "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
@@ -128,20 +112,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47558733\">Comments</a>"
   },
   {
-    "title": "What major works of literature were written after age of 85? 75? 65?",
-    "link": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
-    "source": "Hacker News",
-    "published": "2026-03-28T16:29:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47556076\">Comments</a>"
-  },
-  {
     "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
     "link": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
     "source": "Hacker News",
     "published": "2026-03-28T15:08:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47555273\">Comments</a>"
+  },
+  {
+    "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+    "link": "https://github.com/ericlewis/libpo32",
+    "source": "Hacker News",
+    "published": "2026-03-28T01:04:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47550433\">Comments</a>"
+  },
+  {
+    "title": "4D Doom",
+    "link": "https://github.com/danieldugas/HYPERHELL",
+    "source": "Hacker News",
+    "published": "2026-03-27T22:19:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47549128\">Comments</a>"
+  },
+  {
+    "title": "Nematophagous Fungus",
+    "link": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+    "source": "Hacker News",
+    "published": "2026-03-27T13:41:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47542545\">Comments</a>"
   },
   {
     "title": "Show HN: Forkrun \u2013 NUMA-aware shell parallelizer (50\u00d7\u2013400\u00d7 faster than parallel)",
