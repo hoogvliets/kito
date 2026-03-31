@@ -1,11 +1,43 @@
 [
   {
-    "title": "U.S. stocks are set to deliver their worst quarter in nearly four years",
-    "link": "https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea",
+    "title": "Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp",
+    "link": "https://news.ycombinator.com/item?id=47588658",
     "source": "Hacker News",
-    "published": "2026-03-31T11:53:04+00:00",
+    "published": "2026-03-31T15:20:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47586018\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47588658\">Comments</a>"
+  },
+  {
+    "title": "GitHub Monaspace Case Study",
+    "link": "https://lettermatic.com/custom/monaspace-case-study",
+    "source": "Hacker News",
+    "published": "2026-03-31T15:01:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47588349\">Comments</a>"
+  },
+  {
+    "title": "Oracle slashes 30k jobs with a cold 6 a.m. email",
+    "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+    "source": "Hacker News",
+    "published": "2026-03-31T14:30:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587935\">Comments</a>"
+  },
+  {
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "source": "Hacker News",
+    "published": "2026-03-31T14:25:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587866\">Comments</a>"
+  },
+  {
+    "title": "Open source CAD in the browser (Solvespace)",
+    "link": "https://solvespace.com/webver.pl",
+    "source": "Hacker News",
+    "published": "2026-03-31T12:50:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47586614\">Comments</a>"
   },
   {
     "title": "Combinators",
@@ -16,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47585974\">Comments</a>"
   },
   {
-    "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-    "link": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-    "source": "Hacker News",
-    "published": "2026-03-31T10:02:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47585008\">Comments</a>"
-  },
-  {
     "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
     "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
     "source": "Hacker News",
@@ -32,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>"
   },
   {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-    "source": "Hacker News",
-    "published": "2026-03-31T07:01:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47583712\">Comments</a>"
-  },
-  {
     "title": "Google's 200M-parameter time-series foundation model with 16k context",
     "link": "https://github.com/google-research/timesfm",
     "source": "Hacker News",
     "published": "2026-03-31T05:21:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>"
-  },
-  {
-    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-    "link": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-    "source": "Hacker News",
-    "published": "2026-03-31T05:11:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582984\">Comments</a>"
   },
   {
     "title": "Ollama is now powered by MLX on Apple Silicon in preview",
@@ -88,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47581701\">Comments</a>"
   },
   {
-    "title": "Android Developer Verification",
-    "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-    "source": "Hacker News",
-    "published": "2026-03-30T22:05:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47580297\">Comments</a>"
-  },
-  {
     "title": "Fedware: Government apps that spy harder than the apps they ban",
     "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
     "source": "Hacker News",
     "published": "2026-03-30T18:16:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47577761\">Comments</a>"
-  },
-  {
-    "title": "How to turn anything into a router",
-    "link": "https://nbailey.ca/post/router/",
-    "source": "Hacker News",
-    "published": "2026-03-30T13:28:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47574034\">Comments</a>"
   },
   {
     "title": "Do your own writing",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47571330\">Comments</a>"
   },
   {
-    "title": "30 Years Ago, Robots Learned to Walk Without Falling",
-    "link": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+    "title": "Acceptance of entomophagy among Canadians at an insectarium",
+    "link": "https://www.nature.com/articles/s41598-026-35288-w",
     "source": "Hacker News",
-    "published": "2026-03-29T08:53:37+00:00",
+    "published": "2026-03-30T01:32:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561470\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47569438\">Comments</a>"
   },
   {
     "title": "What major works of literature were written after age of 85? 75? 65?",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47555273\">Comments</a>"
   },
   {
-    "title": "Clojure: The Documentary, official trailer [video]",
-    "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+    "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
+    "link": "https://loreline.app/en/docs/technical-overview/",
     "source": "Hacker News",
-    "published": "2026-03-26T17:00:54+00:00",
+    "published": "2026-03-28T14:41:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47532891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47555035\">Comments</a>"
+  },
+  {
+    "title": "Multiple Sclerosis",
+    "link": "https://subfictional.com/multiple-sclerosis/",
+    "source": "Hacker News",
+    "published": "2026-03-26T22:37:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47536719\">Comments</a>"
   }
 ]
