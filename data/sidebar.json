@@ -1,11 +1,27 @@
 [
   {
-    "title": "Show HN: Raincast \u2013 Describe an app, get a native desktop app (open source)",
-    "link": "https://github.com/tihiera/raincast",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
     "source": "Hacker News",
-    "published": "2026-03-31T05:39:41+00:00",
+    "published": "2026-03-31T09:00:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47583151\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>"
+  },
+  {
+    "title": "Closed Source AI = Neofeudalism",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+    "source": "Hacker News",
+    "published": "2026-03-31T08:29:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47584304\">Comments</a>"
+  },
+  {
+    "title": "RamAIn (YC W26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+    "source": "Hacker News",
+    "published": "2026-03-31T07:01:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47583712\">Comments</a>"
   },
   {
     "title": "Google's 200M-parameter time-series foundation model with 16k context",
@@ -14,14 +30,6 @@
     "published": "2026-03-31T05:21:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>"
-  },
-  {
-    "title": "Sony halts memory card shipments due to NAND shortage",
-    "link": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
-    "source": "Hacker News",
-    "published": "2026-03-31T05:12:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582990\">Comments</a>"
   },
   {
     "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
@@ -38,14 +46,6 @@
     "published": "2026-03-31T03:40:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>"
-  },
-  {
-    "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
-    "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
-    "source": "Hacker News",
-    "published": "2026-03-31T03:28:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582418\">Comments</a>"
   },
   {
     "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>"
   },
   {
-    "title": "Incident March 30th, 2026 \u2013 Accidental CDN Caching",
-    "link": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
-    "source": "Hacker News",
-    "published": "2026-03-31T01:28:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47581721\">Comments</a>"
-  },
-  {
     "title": "Universal Claude.md \u2013 cut Claude output tokens",
     "link": "https://github.com/drona23/claude-token-efficient",
     "source": "Hacker News",
@@ -94,14 +86,6 @@
     "published": "2026-03-30T22:05:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47580297\">Comments</a>"
-  },
-  {
-    "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
-    "link": "https://www.opengridworks.com",
-    "source": "Hacker News",
-    "published": "2026-03-30T21:12:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47579754\">Comments</a>"
   },
   {
     "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
@@ -128,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47574034\">Comments</a>"
   },
   {
-    "title": "Bird brains (2023)",
-    "link": "https://www.dhanishsemar.com/writing/bird-brains",
-    "source": "Hacker News",
-    "published": "2026-03-30T13:14:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573887\">Comments</a>"
-  },
-  {
     "title": "Do your own writing",
     "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
     "source": "Hacker News",
@@ -144,12 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47573519\">Comments</a>"
   },
   {
-    "title": "Rock Star: Reading the Rosetta Stone",
-    "link": "https://www.historytoday.com/archive/feature/original-rock-star",
+    "title": "We're Pausing Asimov Press",
+    "link": "https://www.asimov.press/p/pause",
     "source": "Hacker News",
-    "published": "2026-03-28T15:30:40+00:00",
+    "published": "2026-03-30T09:18:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47555492\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572162\">Comments</a>"
+  },
+  {
+    "title": "Good CTE, Bad CTE",
+    "link": "https://boringsql.com/posts/good-cte-bad-cte/",
+    "source": "Hacker News",
+    "published": "2026-03-30T07:11:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571330\">Comments</a>"
+  },
+  {
+    "title": "Oscar Reutersv\u00e4rd (2021)",
+    "link": "https://escherinhetpaleis.nl/en/about-escher/escher-today/oscar-reutersvard",
+    "source": "Hacker News",
+    "published": "2026-03-29T21:53:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47567790\">Comments</a>"
+  },
+  {
+    "title": "One of the largest salt mines in the world exists under Lake Erie",
+    "link": "https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893",
+    "source": "Hacker News",
+    "published": "2026-03-28T23:07:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558867\">Comments</a>"
   },
   {
     "title": "Clojure: The Documentary, official trailer [video]",
