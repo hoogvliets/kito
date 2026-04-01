@@ -1,11 +1,19 @@
 [
   {
-    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
-    "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+    "title": "CERN levels up with new superconducting karts",
+    "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
     "source": "Hacker News",
-    "published": "2026-04-01T06:05:57+00:00",
+    "published": "2026-04-01T07:27:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47597382\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47597935\">Comments</a>"
+  },
+  {
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "link": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "source": "Hacker News",
+    "published": "2026-04-01T05:21:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47597119\">Comments</a>"
   },
   {
     "title": "Claude Code Unpacked : A visual guide",
@@ -16,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47597085\">Comments</a>"
   },
   {
-    "title": "Analyzing Geekbench 6 under Intel's BOT",
-    "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
-    "source": "Hacker News",
-    "published": "2026-04-01T03:27:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47596457\">Comments</a>"
-  },
-  {
     "title": "Neanderthals survived on a knife's edge for 350k years",
     "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
     "source": "Hacker News",
     "published": "2026-04-01T01:12:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47595572\">Comments</a>"
-  },
-  {
-    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-    "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
-    "source": "Hacker News",
-    "published": "2026-03-31T21:22:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593634\">Comments</a>"
   },
   {
     "title": "A dot a day keeps the clutter away",
@@ -96,20 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47586614\">Comments</a>"
   },
   {
-    "title": "Use string views instead of passing std:wstring by const&",
-    "link": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
     "source": "Hacker News",
-    "published": "2026-03-30T02:31:57+00:00",
+    "published": "2026-03-31T09:30:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47569773\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47584795\">Comments</a>"
   },
   {
-    "title": "Butterfly-collecting: The history of an insult (2017)",
-    "link": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+    "title": "In Case of Emergency, Make Burrito Bison 3",
+    "link": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
     "source": "Hacker News",
-    "published": "2026-03-29T22:35:59+00:00",
+    "published": "2026-03-30T14:45:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47568146\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575039\">Comments</a>"
+  },
+  {
+    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "link": "https://github.com/yannick-cw/korb",
+    "source": "Hacker News",
+    "published": "2026-03-30T06:45:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47571183\">Comments</a>"
   },
   {
     "title": "Chess in SQL",
