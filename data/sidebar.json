@@ -1,19 +1,27 @@
 [
   {
+    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+    "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+    "source": "Hacker News",
+    "published": "2026-04-01T06:05:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47597382\">Comments</a>"
+  },
+  {
+    "title": "Claude Code Unpacked : A visual guide",
+    "link": "https://ccunpacked.dev/",
+    "source": "Hacker News",
+    "published": "2026-04-01T05:15:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47597085\">Comments</a>"
+  },
+  {
     "title": "Analyzing Geekbench 6 under Intel's BOT",
     "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
     "source": "Hacker News",
     "published": "2026-04-01T03:27:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47596457\">Comments</a>"
-  },
-  {
-    "title": "We intercepted the White House app's network traffic",
-    "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-    "source": "Hacker News",
-    "published": "2026-04-01T01:58:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47595865\">Comments</a>"
   },
   {
     "title": "Neanderthals survived on a knife's edge for 350k years",
@@ -48,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47593422\">Comments</a>"
   },
   {
-    "title": "Ministack (Replacement for LocalStack)",
+    "title": "MiniStack (replacement for LocalStack)",
     "link": "https://ministack.org/",
     "source": "Hacker News",
     "published": "2026-03-31T20:48:15+00:00",
@@ -88,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47586614\">Comments</a>"
   },
   {
-    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-    "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-    "source": "Hacker News",
-    "published": "2026-03-31T09:30:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47584795\">Comments</a>"
-  },
-  {
     "title": "Use string views instead of passing std:wstring by const&",
     "link": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
     "source": "Hacker News",
@@ -104,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47569773\">Comments</a>"
   },
   {
+    "title": "Butterfly-collecting: The history of an insult (2017)",
+    "link": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+    "source": "Hacker News",
+    "published": "2026-03-29T22:35:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47568146\">Comments</a>"
+  },
+  {
     "title": "Chess in SQL",
     "link": "https://www.dbpro.app/blog/chess-in-pure-sql",
     "source": "Hacker News",
     "published": "2026-03-29T13:25:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47562961\">Comments</a>"
+  },
+  {
+    "title": "Digitizing photos from the 1998 Game Boy Camera",
+    "link": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
+    "source": "Hacker News",
+    "published": "2026-03-29T11:50:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47562342\">Comments</a>"
   },
   {
     "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47557171\">Comments</a>"
   },
   {
-    "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-    "link": "https://github.com/ericlewis/libpo32",
-    "source": "Hacker News",
-    "published": "2026-03-28T01:04:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47550433\">Comments</a>"
-  },
-  {
     "title": "4D Doom",
     "link": "https://github.com/danieldugas/HYPERHELL",
     "source": "Hacker News",
     "published": "2026-03-27T22:19:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47549128\">Comments</a>"
-  },
-  {
-    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
-    "link": "https://hypha.pub/back-to-freebsd-part-2",
-    "source": "Hacker News",
-    "published": "2026-03-27T18:55:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47546775\">Comments</a>"
   },
   {
     "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
