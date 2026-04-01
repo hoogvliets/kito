@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+    "source": "Hacker News",
+    "published": "2026-03-31T21:22:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593634\">Comments</a>"
+  },
+  {
+    "title": "A dot a day keeps the clutter away",
+    "link": "https://scottlawsonbc.com/post/dot-system",
+    "source": "Hacker News",
+    "published": "2026-03-31T21:15:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593556\">Comments</a>"
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "link": "https://prismml.com/",
+    "source": "Hacker News",
+    "published": "2026-03-31T21:01:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593422\">Comments</a>"
+  },
+  {
     "title": "Ministack (Replacement for LocalStack)",
     "link": "https://ministack.org/",
     "source": "Hacker News",
@@ -8,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47593285\">Comments</a>"
   },
   {
-    "title": "OpenAI raises $122B",
+    "title": "OpenAI closes funding round at an $852B valuation",
     "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
     "source": "Hacker News",
     "published": "2026-03-31T20:07:30+00:00",
@@ -80,44 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47586614\">Comments</a>"
   },
   {
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "title": "TruffleRuby",
+    "link": "https://chrisseaton.com/truffleruby/",
     "source": "Hacker News",
-    "published": "2026-03-31T09:00:40+00:00",
+    "published": "2026-03-28T18:39:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47557171\">Comments</a>"
   },
   {
-    "title": "Accidentally created my first fork bomb with Claude Code",
-    "link": "https://www.droppedasbaby.com/posts/2602-01/",
+    "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+    "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
     "source": "Hacker News",
-    "published": "2026-03-31T07:40:18+00:00",
+    "published": "2026-03-28T16:29:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47583959\">Comments</a>"
-  },
-  {
-    "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-    "source": "Hacker News",
-    "published": "2026-03-31T02:54:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>"
-  },
-  {
-    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-    "link": "https://news.future-shock.ai/the-weight-of-remembering/",
-    "source": "Hacker News",
-    "published": "2026-03-28T22:42:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47558733\">Comments</a>"
-  },
-  {
-    "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
-    "link": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-    "source": "Hacker News",
-    "published": "2026-03-28T15:08:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47555273\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47556074\">Comments</a>"
   },
   {
     "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47549128\">Comments</a>"
   },
   {
-    "title": "Nematophagous Fungus",
-    "link": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+    "link": "https://hypha.pub/back-to-freebsd-part-2",
     "source": "Hacker News",
-    "published": "2026-03-27T13:41:22+00:00",
+    "published": "2026-03-27T18:55:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47542545\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47546775\">Comments</a>"
   },
   {
     "title": "Show HN: Forkrun \u2013 NUMA-aware shell parallelizer (50\u00d7\u2013400\u00d7 faster than parallel)",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47541746\">Comments</a>"
   },
   {
-    "title": "A Primer on Long-Duration Life Support",
-    "link": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+    "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
+    "link": "https://arxiv.org/abs/2602.04118",
     "source": "Hacker News",
-    "published": "2026-03-27T01:00:49+00:00",
+    "published": "2026-03-27T12:11:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47537875\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47541733\">Comments</a>"
   }
 ]
