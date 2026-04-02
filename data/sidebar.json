@@ -1,11 +1,51 @@
 [
   {
-    "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
-    "link": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
+    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+    "link": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
     "source": "Hacker News",
-    "published": "2026-04-02T12:10:46+00:00",
+    "published": "2026-04-02T15:08:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613351\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615490\">Comments</a>"
+  },
+  {
+    "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+    "link": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+    "source": "Hacker News",
+    "published": "2026-04-02T15:04:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615449\">Comments</a>"
+  },
+  {
+    "title": "Delve allegedly forked an open-source tool and sold it as its own",
+    "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+    "source": "Hacker News",
+    "published": "2026-04-02T15:03:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615434\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.6-Plus: Towards Real World Agents",
+    "link": "https://qwen.ai/blog?id=qwen3.6",
+    "source": "Hacker News",
+    "published": "2026-04-02T14:28:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615002\">Comments</a>"
+  },
+  {
+    "title": "'Backrooms' and the Rise of the Institutional Gothic",
+    "link": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+    "source": "Hacker News",
+    "published": "2026-04-02T13:18:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47614100\">Comments</a>"
+  },
+  {
+    "title": "LinkedIn Is Illegally Searching Your Computer",
+    "link": "https://browsergate.eu/",
+    "source": "Hacker News",
+    "published": "2026-04-02T13:09:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613981\">Comments</a>"
   },
   {
     "title": "Inside Nepal's Fake Rescue Racket",
@@ -14,6 +54,14 @@
     "published": "2026-04-02T11:40:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47613078\">Comments</a>"
+  },
+  {
+    "title": "The SpaceX IPO: retail investor notes",
+    "link": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
+    "source": "Hacker News",
+    "published": "2026-04-02T11:11:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612775\">Comments</a>"
   },
   {
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
@@ -40,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47612558\">Comments</a>"
   },
   {
+    "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
+    "link": "https://github.com/razvandimescu/numa",
+    "source": "Hacker News",
+    "published": "2026-04-02T10:07:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612321\">Comments</a>"
+  },
+  {
     "title": "Significant Raise of Reports",
     "link": "https://lwn.net/Articles/1065620/",
     "source": "Hacker News",
     "published": "2026-04-02T09:14:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47611921\">Comments</a>"
-  },
-  {
-    "title": "New laws to make it easier to cancel subscriptions and get refunds",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
-    "source": "Hacker News",
-    "published": "2026-04-02T09:00:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47611809\">Comments</a>"
   },
   {
     "title": "IBM Announces Strategic Collaboration with Arm",
@@ -72,52 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47611481\">Comments</a>"
   },
   {
-    "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
-    "link": "http://hi.telli.com/join-us",
-    "source": "Hacker News",
-    "published": "2026-04-02T07:17:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47611044\">Comments</a>"
-  },
-  {
     "title": "Email obfuscation: What works in 2026?",
     "link": "https://spencermortensen.com/articles/email-obfuscation/",
     "source": "Hacker News",
     "published": "2026-04-02T03:35:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47609694\">Comments</a>"
-  },
-  {
-    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-    "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "source": "Hacker News",
-    "published": "2026-04-02T03:12:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47609564\">Comments</a>"
-  },
-  {
-    "title": "Quantum computing bombshells that are not April Fools",
-    "link": "https://scottaaronson.blog/?p=9665",
-    "source": "Hacker News",
-    "published": "2026-04-02T00:24:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47608495\">Comments</a>"
-  },
-  {
-    "title": "Artemis II Launch Day Updates",
-    "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "source": "Hacker News",
-    "published": "2026-04-01T17:11:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47603657\">Comments</a>"
-  },
-  {
-    "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
-    "link": "https://blog.cloudflare.com/emdash-wordpress/",
-    "source": "Hacker News",
-    "published": "2026-04-01T16:14:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47602832\">Comments</a>"
   },
   {
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
@@ -128,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47596739\">Comments</a>"
   },
   {
+    "title": "On the trail of ancient art, deep in the Sahara",
+    "link": "https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a",
+    "source": "Hacker News",
+    "published": "2026-03-31T14:44:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47588103\">Comments</a>"
+  },
+  {
     "title": "Gone (Almost) Phishin'",
     "link": "https://ma.tt/2026/03/gone-almost-phishin/",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47582987\">Comments</a>"
   },
   {
-    "title": "Built a cheap DIY fan controller because my motherboard never had working PWM",
-    "link": "https://www.himthe.dev/blog/msi-forgot-my-fans",
+    "title": "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
+    "link": "https://github.com/rwc9u/emacs-libgterm",
     "source": "Hacker News",
-    "published": "2026-03-30T21:30:04+00:00",
+    "published": "2026-03-29T14:32:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47579942\">Comments</a>"
-  },
-  {
-    "title": "Order and Tension",
-    "link": "https://slab.org/2026/03/22/order-and-tension/",
-    "source": "Hacker News",
-    "published": "2026-03-30T11:59:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573137\">Comments</a>"
-  },
-  {
-    "title": "Reinventing the Pull Request",
-    "link": "https://lubeno.dev/blog/reinventing-the-pull-request",
-    "source": "Hacker News",
-    "published": "2026-03-27T09:04:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47540441\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47563486\">Comments</a>"
   }
 ]
