@@ -1,11 +1,67 @@
 [
   {
-    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
-    "link": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+    "title": "George Goble died recently \u2013 known for first dual-CPU-Unix and fast BBQ lighting",
+    "link": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
     "source": "Hacker News",
-    "published": "2026-04-02T15:08:45+00:00",
+    "published": "2026-04-02T18:21:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615490\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47618176\">Comments</a>"
+  },
+  {
+    "title": "Hugo's New CSS Powers",
+    "link": "https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/",
+    "source": "Hacker News",
+    "published": "2026-04-02T18:16:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47618120\">Comments</a>"
+  },
+  {
+    "title": "Cursor 3",
+    "link": "https://cursor.com/blog/cursor-3",
+    "source": "Hacker News",
+    "published": "2026-04-02T18:13:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47618084\">Comments</a>"
+  },
+  {
+    "title": "OpenAI Acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn/",
+    "source": "Hacker News",
+    "published": "2026-04-02T17:26:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47617376\">Comments</a>"
+  },
+  {
+    "title": "A forecast of the fair market value of SpaceX's businesses",
+    "link": "https://futuresearch.ai/spacex-ipo-valuation/",
+    "source": "Hacker News",
+    "published": "2026-04-02T17:00:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47617027\">Comments</a>"
+  },
+  {
+    "title": "Modern SQLite: Features You Didn't Know It Had",
+    "link": "https://slicker.me/sqlite/features.htm",
+    "source": "Hacker News",
+    "published": "2026-04-02T16:34:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47616704\">Comments</a>"
+  },
+  {
+    "title": "Google releases Gemma 4 open models",
+    "link": "https://deepmind.google/models/gemma/gemma-4/",
+    "source": "Hacker News",
+    "published": "2026-04-02T16:10:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47616361\">Comments</a>"
+  },
+  {
+    "title": "Renewables reached nearly 50% of global electricity capacity last year",
+    "link": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+    "source": "Hacker News",
+    "published": "2026-04-02T15:26:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47615756\">Comments</a>"
   },
   {
     "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
@@ -24,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47615434\">Comments</a>"
   },
   {
-    "title": "Qwen3.6-Plus: Towards Real World Agents",
+    "title": "Qwen3.6-Plus: Towards real world agents",
     "link": "https://qwen.ai/blog?id=qwen3.6",
     "source": "Hacker News",
     "published": "2026-04-02T14:28:52+00:00",
@@ -40,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47614100\">Comments</a>"
   },
   {
-    "title": "LinkedIn Is Illegally Searching Your Computer",
+    "title": "LinkedIn is illegally searching your computer",
     "link": "https://browsergate.eu/",
     "source": "Hacker News",
     "published": "2026-04-02T13:09:09+00:00",
@@ -54,14 +110,6 @@
     "published": "2026-04-02T11:40:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47613078\">Comments</a>"
-  },
-  {
-    "title": "The SpaceX IPO: retail investor notes",
-    "link": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
-    "source": "Hacker News",
-    "published": "2026-04-02T11:11:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612775\">Comments</a>"
   },
   {
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
@@ -80,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47612601\">Comments</a>"
   },
   {
-    "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
-    "link": "https://modolap.com/publication/hn-analysis-1",
-    "source": "Hacker News",
-    "published": "2026-04-02T10:42:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612558\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
-    "link": "https://github.com/razvandimescu/numa",
-    "source": "Hacker News",
-    "published": "2026-04-02T10:07:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612321\">Comments</a>"
-  },
-  {
     "title": "Significant Raise of Reports",
     "link": "https://lwn.net/Articles/1065620/",
     "source": "Hacker News",
@@ -112,51 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47611721\">Comments</a>"
   },
   {
-    "title": "Bringing Clojure programming to Enterprise (2021)",
-    "link": "https://blogit.michelin.io/clojure-programming/",
+    "title": "An Example of Statistical Investigation of the Text Eugene Onegin \u2013 Markov, 1913 [pdf]",
+    "link": "https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf",
     "source": "Hacker News",
-    "published": "2026-04-02T08:19:11+00:00",
+    "published": "2026-03-30T15:28:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47611481\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47575554\">Comments</a>"
   },
   {
-    "title": "Email obfuscation: What works in 2026?",
-    "link": "https://spencermortensen.com/articles/email-obfuscation/",
+    "title": "JSON Canvas Spec",
+    "link": "https://jsoncanvas.org/spec/1.0/",
     "source": "Hacker News",
-    "published": "2026-04-02T03:35:33+00:00",
+    "published": "2026-03-30T09:38:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47609694\">Comments</a>"
-  },
-  {
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "source": "Hacker News",
-    "published": "2026-04-01T04:14:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47596739\">Comments</a>"
-  },
-  {
-    "title": "On the trail of ancient art, deep in the Sahara",
-    "link": "https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a",
-    "source": "Hacker News",
-    "published": "2026-03-31T14:44:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47588103\">Comments</a>"
-  },
-  {
-    "title": "Gone (Almost) Phishin'",
-    "link": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "source": "Hacker News",
-    "published": "2026-03-31T05:11:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582987\">Comments</a>"
-  },
-  {
-    "title": "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
-    "link": "https://github.com/rwc9u/emacs-libgterm",
-    "source": "Hacker News",
-    "published": "2026-03-29T14:32:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47563486\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572288\">Comments</a>"
   }
 ]
