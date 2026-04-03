@@ -1,19 +1,27 @@
 [
   {
-    "title": "A Few Good Magazines From the 70s and 80s",
-    "link": "https://www.bi6.us/CO/MG.HTML",
+    "title": "Proton Meet Isn't What They Told You It Was",
+    "link": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
     "source": "Hacker News",
-    "published": "2026-04-02T23:17:26+00:00",
+    "published": "2026-04-03T08:59:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47621448\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624558\">Comments</a>"
   },
   {
-    "title": "Show HN: Made a little Artemis II tracker",
-    "link": "https://artemis-ii-tracker.com/",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
     "source": "Hacker News",
-    "published": "2026-04-02T23:16:05+00:00",
+    "published": "2026-04-03T08:15:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47621438\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624317\">Comments</a>"
+  },
+  {
+    "title": "A Rave Review of Superpowers (For Claude Code)",
+    "link": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "source": "Hacker News",
+    "published": "2026-04-03T04:09:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47623101\">Comments</a>"
   },
   {
     "title": "Tailscale's new macOS home",
@@ -48,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47617415\">Comments</a>"
   },
   {
-    "title": "OpenAI Acquires TBPN",
-    "link": "https://openai.com/index/openai-acquires-tbpn/",
-    "source": "Hacker News",
-    "published": "2026-04-02T17:26:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47617376\">Comments</a>"
-  },
-  {
     "title": "Google releases Gemma 4 open models",
     "link": "https://deepmind.google/models/gemma/gemma-4/",
     "source": "Hacker News",
@@ -88,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47613981\">Comments</a>"
   },
   {
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "link": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "source": "Hacker News",
-    "published": "2026-04-02T11:40:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613078\">Comments</a>"
-  },
-  {
     "title": "Artemis II's toilet is a moon mission milestone",
     "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
     "source": "Hacker News",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47598413\">Comments</a>"
   },
   {
-    "title": "JSON Canvas Spec (2024)",
-    "link": "https://jsoncanvas.org/spec/1.0/",
+    "title": "Maze Algorithms (1997)",
+    "link": "https://www.astrolog.org/labyrnth/algrithm.htm",
     "source": "Hacker News",
-    "published": "2026-03-30T09:38:38+00:00",
+    "published": "2026-03-31T21:43:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47572288\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593861\">Comments</a>"
   },
   {
     "title": "Significant progress made on Xbox 360 recompilation",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47561913\">Comments</a>"
   },
   {
+    "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+    "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
+    "source": "Hacker News",
+    "published": "2026-03-29T09:39:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561678\">Comments</a>"
+  },
+  {
+    "title": "Working on Products People Hate",
+    "link": "https://www.seangoedecke.com/working-on-products-people-hate/",
+    "source": "Hacker News",
+    "published": "2026-03-29T09:23:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561606\">Comments</a>"
+  },
+  {
     "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
     "link": "https://thottingal.in/blog/2026/03/29/home-maker/",
     "source": "Hacker News",
     "published": "2026-03-29T06:56:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47560959\">Comments</a>"
-  },
-  {
-    "title": "The Joy of Numbered Streets",
-    "link": "https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html",
-    "source": "Hacker News",
-    "published": "2026-03-28T05:13:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47551847\">Comments</a>"
   }
 ]
