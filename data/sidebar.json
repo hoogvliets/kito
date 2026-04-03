@@ -1,27 +1,11 @@
 [
   {
-    "title": "Every Law a Commit \u2013 US Law in GitHub",
-    "link": "https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html",
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "link": "https://github.com/axios/axios/issues/10636",
     "source": "Hacker News",
-    "published": "2026-04-02T23:34:21+00:00",
+    "published": "2026-04-03T00:00:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47621591\">Comments</a>"
-  },
-  {
-    "title": "A Few Good Magazines From the 70s and 80s",
-    "link": "https://www.bi6.us/CO/MG.HTML",
-    "source": "Hacker News",
-    "published": "2026-04-02T23:17:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47621448\">Comments</a>"
-  },
-  {
-    "title": "Memo: A language that remembers only the last 12 lines of code",
-    "link": "https://danieltemkin.com/Esolangs/Memo/",
-    "source": "Hacker News",
-    "published": "2026-04-02T22:21:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47620933\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47621792\">Comments</a>"
   },
   {
     "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
@@ -30,14 +14,6 @@
     "published": "2026-04-02T22:13:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47620857\">Comments</a>"
-  },
-  {
-    "title": "The Australian government has announced gambling advertising reforms",
-    "link": "https://www.bbc.com/news/articles/c62492e925lo",
-    "source": "Hacker News",
-    "published": "2026-04-02T18:24:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47618221\">Comments</a>"
   },
   {
     "title": "Tailscale's new macOS home",
@@ -112,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47613981\">Comments</a>"
   },
   {
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "link": "https://lemonade-server.ai",
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "link": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
     "source": "Hacker News",
-    "published": "2026-04-02T11:04:51+00:00",
+    "published": "2026-04-02T11:40:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47612724\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613078\">Comments</a>"
   },
   {
     "title": "Artemis II's toilet is a moon mission milestone",
@@ -128,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47609356\">Comments</a>"
   },
   {
-    "title": "Maze Algorithms",
-    "link": "https://www.astrolog.org/labyrnth/algrithm.htm",
+    "title": "The beginning of programming as we'll know it?",
+    "link": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
     "source": "Hacker News",
-    "published": "2026-03-31T21:43:15+00:00",
+    "published": "2026-04-02T00:39:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593861\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47608602\">Comments</a>"
   },
   {
-    "title": "Prefer do notation over Applicative operators when assembling records (2024)",
-    "link": "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative",
+    "title": "C89cc.sh \u2013 standalone C89/ELF64 compiler in pure portable shell",
+    "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
     "source": "Hacker News",
-    "published": "2026-03-31T19:57:05+00:00",
+    "published": "2026-04-01T08:41:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47592614\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47598413\">Comments</a>"
   },
   {
     "title": "JSON Canvas Spec (2024)",
@@ -158,5 +134,29 @@
     "published": "2026-03-29T12:53:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47562762\">Comments</a>"
+  },
+  {
+    "title": "Free stuff makes us irrational",
+    "link": "https://thehustle.co/why-free-stuff-makes-us-irrational",
+    "source": "Hacker News",
+    "published": "2026-03-29T11:25:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47562214\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+    "link": "https://thottingal.in/blog/2026/03/29/home-maker/",
+    "source": "Hacker News",
+    "published": "2026-03-29T06:56:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47560959\">Comments</a>"
+  },
+  {
+    "title": "The Joy of Numbered Streets",
+    "link": "https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html",
+    "source": "Hacker News",
+    "published": "2026-03-28T05:13:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47551847\">Comments</a>"
   }
 ]
