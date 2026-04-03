@@ -1,27 +1,59 @@
 [
   {
-    "title": "Proton Meet Isn't What They Told You It Was",
-    "link": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+    "title": "H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",
+    "link": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935",
     "source": "Hacker News",
-    "published": "2026-04-03T08:59:45+00:00",
+    "published": "2026-04-03T11:20:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624558\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47625385\">Comments</a>"
   },
   {
-    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-    "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+    "link": "https://github.com/oven-sh/bun/pull/28801",
     "source": "Hacker News",
-    "published": "2026-04-03T08:15:12+00:00",
+    "published": "2026-04-03T11:09:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624317\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47625311\">Comments</a>"
   },
   {
-    "title": "A Rave Review of Superpowers (For Claude Code)",
-    "link": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+    "link": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
     "source": "Hacker News",
-    "published": "2026-04-03T04:09:50+00:00",
+    "published": "2026-04-03T10:58:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47623101\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47625244\">Comments</a>"
+  },
+  {
+    "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+    "link": "https://only-eu.eu/en/",
+    "source": "Hacker News",
+    "published": "2026-04-03T09:37:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624741\">Comments</a>"
+  },
+  {
+    "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+    "link": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+    "source": "Hacker News",
+    "published": "2026-04-03T09:36:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624736\">Comments</a>"
+  },
+  {
+    "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+    "link": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+    "source": "Hacker News",
+    "published": "2026-04-03T09:35:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624731\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "link": "https://apfel.franzai.com",
+    "source": "Hacker News",
+    "published": "2026-04-03T09:15:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624645\">Comments</a>"
   },
   {
     "title": "Tailscale's new macOS home",
@@ -30,14 +62,6 @@
     "published": "2026-04-02T18:22:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47618189\">Comments</a>"
-  },
-  {
-    "title": "George Goble has died",
-    "link": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-    "source": "Hacker News",
-    "published": "2026-04-02T18:21:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47618176\">Comments</a>"
   },
   {
     "title": "Cursor 3",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47615002\">Comments</a>"
   },
   {
-    "title": "LinkedIn is searching your browser extensions",
-    "link": "https://browsergate.eu/",
-    "source": "Hacker News",
-    "published": "2026-04-02T13:09:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613981\">Comments</a>"
-  },
-  {
     "title": "Artemis II's toilet is a moon mission milestone",
     "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
     "source": "Hacker News",
@@ -104,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47598413\">Comments</a>"
   },
   {
-    "title": "Maze Algorithms (1997)",
-    "link": "https://www.astrolog.org/labyrnth/algrithm.htm",
+    "title": "Intel Assured Supply Chain Product Brief",
+    "link": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
     "source": "Hacker News",
-    "published": "2026-03-31T21:43:15+00:00",
+    "published": "2026-03-30T13:00:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47593861\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47573728\">Comments</a>"
   },
   {
-    "title": "Significant progress made on Xbox 360 recompilation",
-    "link": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
+    "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+    "link": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
     "source": "Hacker News",
-    "published": "2026-03-29T12:53:03+00:00",
+    "published": "2026-03-29T20:55:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47562762\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47567222\">Comments</a>"
   },
   {
     "title": "The True Shape of Io's Steeple Mountain",
@@ -128,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47562455\">Comments</a>"
   },
   {
-    "title": "Vector Meson Dominance",
-    "link": "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/",
-    "source": "Hacker News",
-    "published": "2026-03-29T10:28:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561913\">Comments</a>"
-  },
-  {
     "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
     "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47561678\">Comments</a>"
   },
   {
-    "title": "Working on Products People Hate",
-    "link": "https://www.seangoedecke.com/working-on-products-people-hate/",
+    "title": "What Category Theory Teaches Us About DataFrames",
+    "link": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
     "source": "Hacker News",
-    "published": "2026-03-29T09:23:26+00:00",
+    "published": "2026-03-29T08:44:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561606\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-    "link": "https://thottingal.in/blog/2026/03/29/home-maker/",
-    "source": "Hacker News",
-    "published": "2026-03-29T06:56:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47560959\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561426\">Comments</a>"
   }
 ]
