@@ -1,19 +1,67 @@
 [
   {
-    "title": "Why the heck are we still using Markdown?",
-    "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+    "title": "Show HN: We're building an AI hedge fund",
+    "link": "https://rallies.ai/arena",
     "source": "Hacker News",
-    "published": "2026-04-03T18:03:10+00:00",
+    "published": "2026-04-03T20:37:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47629903\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631929\">Comments</a>"
   },
   {
-    "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
-    "link": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+    "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
+    "link": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
     "source": "Hacker News",
-    "published": "2026-04-03T17:29:21+00:00",
+    "published": "2026-04-03T20:21:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47629505\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631732\">Comments</a>"
+  },
+  {
+    "title": "Automatic Textbook Formalization",
+    "link": "https://github.com/facebookresearch/repoprover",
+    "source": "Hacker News",
+    "published": "2026-04-03T20:13:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631648\">Comments</a>"
+  },
+  {
+    "title": "Artemis II crew take 'spectacular' image of Earth",
+    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+    "source": "Hacker News",
+    "published": "2026-04-03T19:35:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631118\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+    "link": "https://ismcpdead.com",
+    "source": "Hacker News",
+    "published": "2026-04-03T19:28:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631030\">Comments</a>"
+  },
+  {
+    "title": "Async Python Is Secretly Deterministic",
+    "link": "https://www.dbos.dev/blog/async-python-is-secretly-deterministic",
+    "source": "Hacker News",
+    "published": "2026-04-03T18:55:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47630592\">Comments</a>"
+  },
+  {
+    "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+    "link": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+    "source": "Hacker News",
+    "published": "2026-04-03T18:54:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47630576\">Comments</a>"
+  },
+  {
+    "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+    "link": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+    "source": "Hacker News",
+    "published": "2026-04-03T18:20:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47630109\">Comments</a>"
   },
   {
     "title": "iNaturalist",
@@ -32,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47629116\">Comments</a>"
   },
   {
-    "title": "If you're running OpenClaw, you probably got hacked in the last week",
-    "link": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
+    "title": "F-15E jet shot down over Iran",
+    "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
     "source": "Hacker News",
-    "published": "2026-04-03T16:21:32+00:00",
+    "published": "2026-04-03T16:00:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47628608\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47628326\">Comments</a>"
   },
   {
     "title": "Build your own Dial-up ISP with a Raspberry Pi",
@@ -48,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47627527\">Comments</a>"
   },
   {
-    "title": "Big-Endian Testing with QEMU",
-    "link": "https://www.hanshq.net/big-endian-qemu.html",
-    "source": "Hacker News",
-    "published": "2026-04-03T13:28:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47626462\">Comments</a>"
-  },
-  {
     "title": "Show HN: I built a frontpage for personal blogs",
     "link": "https://text.blogosphere.app/",
     "source": "Hacker News",
     "published": "2026-04-03T12:33:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47625952\">Comments</a>"
-  },
-  {
-    "title": "TDF ejects its core developers",
-    "link": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
-    "source": "Hacker News",
-    "published": "2026-04-03T11:53:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47625639\">Comments</a>"
   },
   {
     "title": "SSH certificates: the better SSH experience",
@@ -88,28 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47624731\">Comments</a>"
   },
   {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
-    "link": "https://apfel.franzai.com",
-    "source": "Hacker News",
-    "published": "2026-04-03T09:15:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624645\">Comments</a>"
-  },
-  {
-    "title": "The Technocracy Movement of the 1930s",
-    "link": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-    "source": "Hacker News",
-    "published": "2026-04-03T02:29:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47622616\">Comments</a>"
-  },
-  {
     "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
     "source": "Hacker News",
     "published": "2026-04-02T18:24:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47618223\">Comments</a>"
+  },
+  {
+    "title": "What changes when you turn a Linux box into a router",
+    "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+    "source": "Hacker News",
+    "published": "2026-03-31T13:13:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47586885\">Comments</a>"
+  },
+  {
+    "title": "You can now run a full Linux operating system inside a 6mb PDF",
+    "link": "https://twitter.com/oliviscusAI/status/2038563166431346865",
+    "source": "Hacker News",
+    "published": "2026-03-31T04:34:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47582792\">Comments</a>"
   },
   {
     "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47567222\">Comments</a>"
   },
   {
-    "title": "Understanding young news audiences at a time of rapid change",
-    "link": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change",
-    "source": "Hacker News",
-    "published": "2026-03-29T11:48:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47562325\">Comments</a>"
-  },
-  {
     "title": "Show HN: TurboQuant for vector search \u2013 2-4 bit compression",
     "link": "https://github.com/RyanCodrai/py-turboquant",
     "source": "Hacker News",
     "published": "2026-03-29T11:10:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47562135\">Comments</a>"
-  },
-  {
-    "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
-    "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
-    "source": "Hacker News",
-    "published": "2026-03-29T09:39:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561678\">Comments</a>"
-  },
-  {
-    "title": "What Category Theory Teaches Us About DataFrames",
-    "link": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
-    "source": "Hacker News",
-    "published": "2026-03-29T08:44:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47561426\">Comments</a>"
-  },
-  {
-    "title": "A Recipe for Steganogravy",
-    "link": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
-    "source": "Hacker News",
-    "published": "2026-03-29T06:56:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47560967\">Comments</a>"
   }
 ]
