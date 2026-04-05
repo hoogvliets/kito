@@ -1,35 +1,11 @@
 [
   {
-    "title": "AI that copied musical artist files copyright claim against that artist",
-    "link": "https://twitter.com/VladTheInflator/status/2039577001531768906",
-    "source": "Hacker News",
-    "published": "2026-04-05T03:55:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645976\">Comments</a>"
-  },
-  {
-    "title": "Writing Lisp Is AI Resistant and I'm Sad",
-    "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "source": "Hacker News",
-    "published": "2026-04-05T02:01:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645468\">Comments</a>"
-  },
-  {
-    "title": "Introduction to Computer Music [pdf]",
+    "title": "Introduction to Computer Music (2009) [pdf]",
     "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
     "source": "Hacker News",
     "published": "2026-04-05T01:54:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47645432\">Comments</a>"
-  },
-  {
-    "title": "Isseven",
-    "link": "https://isseven.app/",
-    "source": "Hacker News",
-    "published": "2026-04-05T01:05:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645168\">Comments</a>"
   },
   {
     "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
@@ -40,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47645025\">Comments</a>"
   },
   {
-    "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
+    "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
     "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
     "source": "Hacker News",
     "published": "2026-04-05T00:13:55+00:00",
@@ -48,12 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47644864\">Comments</a>"
   },
   {
-    "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+    "title": "Advice to young people, the lies I tell myself (2024)",
     "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
     "source": "Hacker News",
     "published": "2026-04-04T23:18:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47644566\">Comments</a>"
+  },
+  {
+    "title": "German implementation of eIDAS will require an Apple/Google account to function",
+    "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+    "source": "Hacker News",
+    "published": "2026-04-04T22:57:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47644406\">Comments</a>"
   },
   {
     "title": "How many products does Microsoft have named 'Copilot'?",
@@ -128,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47638810\">Comments</a>"
   },
   {
-    "title": "Emotion concepts and their function in a large language model",
-    "link": "https://www.anthropic.com/research/emotion-concepts-function",
+    "title": "A case study in testing with 100+ Claude agents in parallel",
+    "link": "https://imbue.com/product/mngr_part_2/",
     "source": "Hacker News",
-    "published": "2026-04-04T06:30:25+00:00",
+    "published": "2026-04-03T17:27:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47636435\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47629485\">Comments</a>"
   },
   {
     "title": "Ruckus: Racket for iOS",
@@ -144,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47614532\">Comments</a>"
   },
   {
-    "title": "Functional programming accellerates agentic feature development",
-    "link": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+    "title": "Show HN: I built a small app for FSI German Course",
+    "link": "https://detawk.com/",
     "source": "Hacker News",
-    "published": "2026-04-01T18:32:05+00:00",
+    "published": "2026-04-02T11:44:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47604698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613118\">Comments</a>"
+  },
+  {
+    "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+    "link": "https://github.com/squadette/rubysyn/blob/master/README.md",
+    "source": "Hacker News",
+    "published": "2026-04-01T09:54:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47598835\">Comments</a>"
   },
   {
     "title": "OpenScreen is an open-source alternative to Screen Studio",
@@ -158,5 +150,13 @@
     "published": "2026-04-01T01:31:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47595695\">Comments</a>"
+  },
+  {
+    "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+    "link": "https://zml.ai/posts/zml-smi/",
+    "source": "Hacker News",
+    "published": "2026-03-31T13:29:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47587089\">Comments</a>"
   }
 ]
