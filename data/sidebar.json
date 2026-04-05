@@ -1,11 +1,43 @@
 [
   {
-    "title": "Shooting down ideas is not a skill",
-    "link": "https://scottlawsonbc.com/post/shooting-down-ideas",
+    "title": "AI that copied musical artist files copyright claim against that artist",
+    "link": "https://twitter.com/VladTheInflator/status/2039577001531768906",
     "source": "Hacker News",
-    "published": "2026-04-05T00:42:42+00:00",
+    "published": "2026-04-05T03:55:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645037\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645976\">Comments</a>"
+  },
+  {
+    "title": "Writing Lisp Is AI Resistant and I'm Sad",
+    "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+    "source": "Hacker News",
+    "published": "2026-04-05T02:01:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645468\">Comments</a>"
+  },
+  {
+    "title": "Introduction to Computer Music [pdf]",
+    "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+    "source": "Hacker News",
+    "published": "2026-04-05T01:54:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645432\">Comments</a>"
+  },
+  {
+    "title": "Isseven",
+    "link": "https://isseven.app/",
+    "source": "Hacker News",
+    "published": "2026-04-05T01:05:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645168\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
+    "link": "https://contrapunk.com/",
+    "source": "Hacker News",
+    "published": "2026-04-05T00:40:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645025\">Comments</a>"
   },
   {
     "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
@@ -22,14 +54,6 @@
     "published": "2026-04-04T23:18:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47644566\">Comments</a>"
-  },
-  {
-    "title": "German implementation of eIDAS will require an Apple/Google account to function",
-    "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-    "source": "Hacker News",
-    "published": "2026-04-04T22:57:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47644406\">Comments</a>"
   },
   {
     "title": "How many products does Microsoft have named 'Copilot'?",
@@ -104,30 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47638810\">Comments</a>"
   },
   {
-    "title": "The CMS is dead, long live the CMS",
-    "link": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-    "source": "Hacker News",
-    "published": "2026-04-04T11:24:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47638075\">Comments</a>"
-  },
-  {
-    "title": "Embarrassingly simple self-distillation improves code generation",
-    "link": "https://arxiv.org/abs/2604.01193",
-    "source": "Hacker News",
-    "published": "2026-04-04T10:26:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637757\">Comments</a>"
-  },
-  {
-    "title": "Some Unusual Trees",
-    "link": "https://thoughts.wyounas.com/p/some-unusual-trees",
-    "source": "Hacker News",
-    "published": "2026-04-04T09:04:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637287\">Comments</a>"
-  },
-  {
     "title": "Emotion concepts and their function in a large language model",
     "link": "https://www.anthropic.com/research/emotion-concepts-function",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47614532\">Comments</a>"
   },
   {
+    "title": "Functional programming accellerates agentic feature development",
+    "link": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+    "source": "Hacker News",
+    "published": "2026-04-01T18:32:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47604698\">Comments</a>"
+  },
+  {
     "title": "OpenScreen is an open-source alternative to Screen Studio",
     "link": "https://github.com/siddharthvaddem/openscreen",
     "source": "Hacker News",
     "published": "2026-04-01T01:31:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47595695\">Comments</a>"
-  },
-  {
-    "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
-    "link": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
-    "source": "Hacker News",
-    "published": "2026-03-31T18:16:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47591367\">Comments</a>"
   }
 ]
