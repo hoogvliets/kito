@@ -1,11 +1,59 @@
 [
   {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "link": "https://hightouch.com/careers#open-positions",
+    "source": "Hacker News",
+    "published": "2026-04-05T12:03:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47648499\">Comments</a>"
+  },
+  {
+    "title": "Ubuntu now requires more RAM than Windows 11",
+    "link": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+    "source": "Hacker News",
+    "published": "2026-04-05T11:57:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47648452\">Comments</a>"
+  },
+  {
+    "title": "Sad Story of My Google Workspace Account Suspension",
+    "link": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+    "source": "Hacker News",
+    "published": "2026-04-05T11:48:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47648404\">Comments</a>"
+  },
+  {
+    "title": "The threat is comfortable drift toward not understanding what you're doing",
+    "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
+    "source": "Hacker News",
+    "published": "2026-04-05T09:57:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47647788\">Comments</a>"
+  },
+  {
+    "title": "Talk like caveman",
+    "link": "https://github.com/JuliusBrussee/caveman",
+    "source": "Hacker News",
+    "published": "2026-04-05T08:56:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47647455\">Comments</a>"
+  },
+  {
     "title": "Lisette a little language inspired by Rust that compiles to Go",
     "link": "https://lisette.run/",
     "source": "Hacker News",
     "published": "2026-04-05T06:57:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47646843\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OsintRadar \u2013 Curated directory for osint tools",
+    "link": "https://osintradar.com/",
+    "source": "Hacker News",
+    "published": "2026-04-05T05:58:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47646504\">Comments</a>"
   },
   {
     "title": "Aegis \u2013 open-source FPGA silicon",
@@ -16,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47646472\">Comments</a>"
   },
   {
-    "title": "Modern Generic SVGA driver for Windows 3.1",
-    "link": "https://github.com/PluMGMK/vbesvga.drv",
-    "source": "Hacker News",
-    "published": "2026-04-05T05:28:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47646363\">Comments</a>"
-  },
-  {
     "title": "Introduction to Computer Music (2009) [pdf]",
     "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
     "source": "Hacker News",
@@ -32,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47645432\">Comments</a>"
   },
   {
-    "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
-    "link": "https://contrapunk.com/",
-    "source": "Hacker News",
-    "published": "2026-04-05T00:40:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47645025\">Comments</a>"
-  },
-  {
     "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
     "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
     "source": "Hacker News",
     "published": "2026-04-05T00:13:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47644864\">Comments</a>"
-  },
-  {
-    "title": "Nvim-treesitter (13K+ Stars) is Archived",
-    "link": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
-    "source": "Hacker News",
-    "published": "2026-04-04T23:39:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47644667\">Comments</a>"
   },
   {
     "title": "German implementation of eIDAS will require an Apple/Google account to function",
@@ -88,38 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47640728\">Comments</a>"
   },
   {
-    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
-    "link": "https://sllm.cloud",
-    "source": "Hacker News",
-    "published": "2026-04-04T15:18:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47639779\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "link": "https://github.com/KaiPereira/Overglade-Badges",
-    "source": "Hacker News",
-    "published": "2026-04-04T14:20:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47639303\">Comments</a>"
-  },
-  {
-    "title": "The Indie Internet Index \u2013 submit your favorite sites",
-    "link": "https://iii.social",
-    "source": "Hacker News",
-    "published": "2026-04-04T14:18:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47639291\">Comments</a>"
-  },
-  {
-    "title": "Components of a Coding Agent",
-    "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "source": "Hacker News",
-    "published": "2026-04-04T13:16:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47638810\">Comments</a>"
-  },
-  {
     "title": "Show HN: I built a small app for FSI German Course",
     "link": "https://detawk.com/",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-04-01T01:31:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47595695\">Comments</a>"
+  },
+  {
+    "title": "Costco sued for seeking refunds on tariffs customers paid",
+    "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+    "source": "Hacker News",
+    "published": "2026-03-31T16:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47590230\">Comments</a>"
   },
   {
     "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
