@@ -1,27 +1,75 @@
 [
   {
-    "title": "I Won't Download Your App. The Web Version Is A-OK",
+    "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
+    "link": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
+    "source": "Hacker News",
+    "published": "2026-04-06T17:38:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47664205\">Comments</a>"
+  },
+  {
+    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "link": "https://www.wesnoth.org",
+    "source": "Hacker News",
+    "published": "2026-04-06T17:37:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47664186\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+    "link": "https://www.freestyle.sh",
+    "source": "Hacker News",
+    "published": "2026-04-06T16:32:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47663147\">Comments</a>"
+  },
+  {
+    "title": "Show HN: GovAuctions lets you browse government auctions at once",
+    "link": "https://www.govauctions.app/",
+    "source": "Hacker News",
+    "published": "2026-04-06T16:21:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662945\">Comments</a>"
+  },
+  {
+    "title": "Reducto releases Deep Extract",
+    "link": "https://reducto.ai/blog/reducto-deep-extract-agent",
+    "source": "Hacker News",
+    "published": "2026-04-06T16:13:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662833\">Comments</a>"
+  },
+  {
+    "title": "Sc-im: Spreadsheets in your terminal",
+    "link": "https://github.com/andmarti1424/sc-im",
+    "source": "Hacker News",
+    "published": "2026-04-06T16:00:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662658\">Comments</a>"
+  },
+  {
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "link": "https://words.filippo.io/crqc-timeline/",
+    "source": "Hacker News",
+    "published": "2026-04-06T15:31:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662234\">Comments</a>"
+  },
+  {
+    "title": "Sky \u2013 an Elm-inspired language that compiles to Go",
+    "link": "https://github.com/anzellai/sky",
+    "source": "Hacker News",
+    "published": "2026-04-06T15:22:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662116\">Comments</a>"
+  },
+  {
+    "title": "I won't download your app. The web version is a-ok",
     "link": "https://www.0xsid.com/blog/wont-download-your-app",
     "source": "Hacker News",
     "published": "2026-04-06T14:31:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47661439\">Comments</a>"
-  },
-  {
-    "title": "When Virality Is the Message: The New Age of AI Propaganda",
-    "link": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
-    "source": "Hacker News",
-    "published": "2026-04-06T14:16:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47661231\">Comments</a>"
-  },
-  {
-    "title": "The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign",
-    "link": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-    "source": "Hacker News",
-    "published": "2026-04-06T14:01:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47661065\">Comments</a>"
   },
   {
     "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
@@ -32,7 +80,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47660954\">Comments</a>"
   },
   {
-    "title": "Book Review: There Is No Antimemetics Division",
+    "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+    "link": "https://github.com/anthropics/claude-code/issues/42796",
+    "source": "Hacker News",
+    "published": "2026-04-06T13:50:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47660925\">Comments</a>"
+  },
+  {
+    "title": "Book review: There is no antimemetics division",
     "link": "https://www.stephendiehl.com/posts/no_antimimetics/",
     "source": "Hacker News",
     "published": "2026-04-06T13:44:01+00:00",
@@ -48,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47660343\">Comments</a>"
   },
   {
-    "title": "What Being Ripped Off Taught Me",
+    "title": "What being ripped off taught me",
     "link": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
     "source": "Hacker News",
     "published": "2026-04-06T12:53:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47660286\">Comments</a>"
-  },
-  {
-    "title": "France pulls last gold held in US for $15B gain",
-    "link": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "source": "Hacker News",
-    "published": "2026-04-06T08:03:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47658146\">Comments</a>"
-  },
-  {
-    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
-    "link": "https://drop.com/",
-    "source": "Hacker News",
-    "published": "2026-04-06T04:24:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47656981\">Comments</a>"
   },
   {
     "title": "An open-source 240-antenna array to bounce signals off the Moon",
@@ -78,14 +118,6 @@
     "published": "2026-04-06T03:22:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47656622\">Comments</a>"
-  },
-  {
-    "title": "The 1987 game \u201cThe Last Ninja\u201d was 40 kilobytes",
-    "link": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-    "source": "Hacker News",
-    "published": "2026-04-06T03:03:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47656501\">Comments</a>"
   },
   {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
@@ -104,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47652561\">Comments</a>"
   },
   {
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-    "link": "https://github.com/fikrikarim/parlor",
-    "source": "Hacker News",
-    "published": "2026-04-05T17:53:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47652007\">Comments</a>"
-  },
-  {
     "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
     "link": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
     "source": "Hacker News",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47651703\">Comments</a>"
   },
   {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-    "link": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "title": "The Last Quiet Thing",
+    "link": "https://www.terrygodier.com/the-last-quiet-thing",
     "source": "Hacker News",
-    "published": "2026-04-05T17:13:51+00:00",
+    "published": "2026-04-04T08:14:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47651540\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637010\">Comments</a>"
   },
   {
-    "title": "L\u00d6VE: 2D Game Framework for Lua",
-    "link": "https://github.com/love2d/love",
+    "title": "Eighteen Years of Greytrapping \u2013 Is the Weirdness Finally Paying Off?",
+    "link": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
     "source": "Hacker News",
-    "published": "2026-04-04T09:20:34+00:00",
+    "published": "2026-04-04T08:01:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637377\">Comments</a>"
-  },
-  {
-    "title": "Signals, the push-pull based algorithm",
-    "link": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
-    "source": "Hacker News",
-    "published": "2026-04-04T08:31:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637116\">Comments</a>"
-  },
-  {
-    "title": "Sheets Spreadsheets in Your Terminal",
-    "link": "https://github.com/maaslalani/sheets",
-    "source": "Hacker News",
-    "published": "2026-04-04T06:34:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47636456\">Comments</a>"
-  },
-  {
-    "title": "One ant for $220: The new frontier of wildlife trafficking",
-    "link": "https://www.bbc.com/news/articles/cg4g44zv37qo",
-    "source": "Hacker News",
-    "published": "2026-04-02T12:55:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47613827\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47636937\">Comments</a>"
   }
 ]
