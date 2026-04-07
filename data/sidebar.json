@@ -1,5 +1,53 @@
 [
   {
+    "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+    "link": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+    "source": "Hacker News",
+    "published": "2026-04-07T15:07:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47676557\">Comments</a>"
+  },
+  {
+    "title": "Claude Code is locking people out for hours",
+    "link": "https://github.com/anthropics/claude-code/issues/44257",
+    "source": "Hacker News",
+    "published": "2026-04-07T15:04:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47676521\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
+    "source": "Hacker News",
+    "published": "2026-04-07T14:07:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675625\">Comments</a>"
+  },
+  {
+    "title": "9 Mothers (YC P26) Is Hiring \u2013 Lead Robotics and More",
+    "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+    "source": "Hacker News",
+    "published": "2026-04-07T13:45:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675302\">Comments</a>"
+  },
+  {
+    "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+    "link": "https://www.inngest.com/blog/hanging-promises-for-control-flow",
+    "source": "Hacker News",
+    "published": "2026-04-07T13:34:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675155\">Comments</a>"
+  },
+  {
+    "title": "Dropping Cloudflare for Bunny.net",
+    "link": "https://jola.dev/posts/dropping-cloudflare",
+    "source": "Hacker News",
+    "published": "2026-04-07T13:23:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675013\">Comments</a>"
+  },
+  {
     "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
     "link": "https://www.intofarlands.com/atlasofarda",
     "source": "Hacker News",
@@ -8,15 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>"
   },
   {
-    "title": "Show HN: Pion/handoff \u2013 Move WebRTC out of browser and into Go",
-    "link": "https://github.com/pion/handoff",
-    "source": "Hacker News",
-    "published": "2026-04-07T12:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673880\">Comments</a>"
-  },
-  {
-    "title": "LLM may be standardizing human expression \u2013 and subtly influencing how we think",
+    "title": "AI may be making us think and write more alike",
     "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
     "source": "Hacker News",
     "published": "2026-04-07T11:29:02+00:00",
@@ -64,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47672884\">Comments</a>"
   },
   {
-    "title": "Are We Idiocracy Yet?",
-    "link": "https://idiocracy.wtf/",
-    "source": "Hacker News",
-    "published": "2026-04-07T09:57:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672818\">Comments</a>"
-  },
-  {
-    "title": "Breaking the console: a brief history of video game security",
-    "link": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
-    "source": "Hacker News",
-    "published": "2026-04-07T09:51:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672778\">Comments</a>"
-  },
-  {
     "title": "Blackholing My Email",
     "link": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
     "source": "Hacker News",
@@ -96,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47672295\">Comments</a>"
   },
   {
-    "title": "Three hundred synths, 3 hardware projects, and one app",
-    "link": "https://midi.guide/blog/three-hunded-synths-one-app/",
+    "title": "SQLite in Production: Lessons from Running a Store on a Single File",
+    "link": "https://ultrathink.art/blog/sqlite-in-production-lessons",
     "source": "Hacker News",
-    "published": "2026-04-07T05:12:25+00:00",
+    "published": "2026-04-04T09:15:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47670981\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
-    "link": "https://github.com/matthartman/ghost-pepper",
-    "source": "Hacker News",
-    "published": "2026-04-06T19:50:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47666024\">Comments</a>"
-  },
-  {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "link": "https://github.com/anthropics/claude-code/issues/42796",
-    "source": "Hacker News",
-    "published": "2026-04-06T13:50:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47660925\">Comments</a>"
-  },
-  {
-    "title": "Sam Altman may control our future \u2013 can he be trusted?",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-    "source": "Hacker News",
-    "published": "2026-04-06T10:36:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47659135\">Comments</a>"
-  },
-  {
-    "title": "Floating point from scratch: Hard Mode",
-    "link": "https://essenceia.github.io/projects/floating_dragon/",
-    "source": "Hacker News",
-    "published": "2026-04-04T17:53:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47641472\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637353\">Comments</a>"
   },
   {
     "title": "Running Out of Disk Space in Production",
@@ -150,6 +142,14 @@
     "published": "2026-04-02T17:05:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47617103\">Comments</a>"
+  },
+  {
+    "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+    "link": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/",
+    "source": "Hacker News",
+    "published": "2026-04-02T16:18:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47616475\">Comments</a>"
   },
   {
     "title": "My Experience as a Rice Farmer",
