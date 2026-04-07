@@ -1,5 +1,37 @@
 [
   {
+    "title": "Bitcoin and Quantum Computing",
+    "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+    "source": "Hacker News",
+    "published": "2026-04-07T20:56:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47681274\">Comments</a>"
+  },
+  {
+    "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
+    "link": "https://netbsd-cells.petermann-digital.de/",
+    "source": "Hacker News",
+    "published": "2026-04-07T19:54:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47680532\">Comments</a>"
+  },
+  {
+    "title": "S3 Files and the changing face of S3",
+    "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+    "source": "Hacker News",
+    "published": "2026-04-07T19:44:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47680404\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "link": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "source": "Hacker News",
+    "published": "2026-04-07T19:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47680309\">Comments</a>"
+  },
+  {
     "title": "System Card: Claude Mythos Preview [pdf]",
     "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
     "source": "Hacker News",
@@ -48,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47677853\">Comments</a>"
   },
   {
-    "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
-    "link": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
+    "title": "Taste in the age of AI and LLMs",
+    "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
     "source": "Hacker News",
-    "published": "2026-04-07T15:47:16+00:00",
+    "published": "2026-04-07T15:54:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677241\">Comments</a>"
   },
   {
-    "title": "Moving fast in hardware: lessons from lab to $100M ARR",
-    "link": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+    "title": "Lunar Flyby",
+    "link": "https://www.nasa.gov/gallery/lunar-flyby/",
     "source": "Hacker News",
-    "published": "2026-04-07T15:07:38+00:00",
+    "published": "2026-04-07T15:03:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47676557\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47676509\">Comments</a>"
   },
   {
     "title": "Cloudflare targets 2029 for full post-quantum security",
@@ -72,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675625\">Comments</a>"
   },
   {
-    "title": "9 Mothers (YC P26) Is Hiring \u2013 Lead Robotics and More",
-    "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "source": "Hacker News",
-    "published": "2026-04-07T13:45:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675302\">Comments</a>"
-  },
-  {
     "title": "Google open-sources experimental agent orchestration testbed Scion",
     "link": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
     "source": "Hacker News",
     "published": "2026-04-07T13:39:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675213\">Comments</a>"
-  },
-  {
-    "title": "Dropping Cloudflare for Bunny.net",
-    "link": "https://jola.dev/posts/dropping-cloudflare",
-    "source": "Hacker News",
-    "published": "2026-04-07T13:23:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675013\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-    "link": "https://www.intofarlands.com/atlasofarda",
-    "source": "Hacker News",
-    "published": "2026-04-07T12:12:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>"
   },
   {
     "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
@@ -112,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47673360\">Comments</a>"
   },
   {
-    "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-    "link": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-    "source": "Hacker News",
-    "published": "2026-04-07T10:25:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673005\">Comments</a>"
-  },
-  {
-    "title": "John Coltrane Illustrates the Mathematics of Jazz",
-    "link": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
-    "source": "Hacker News",
-    "published": "2026-04-07T05:58:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47671219\">Comments</a>"
-  },
-  {
     "title": "AI helps add 10k more photos to OldNYC",
     "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
     "source": "Hacker News",
     "published": "2026-04-06T18:24:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47664836\">Comments</a>"
+  },
+  {
+    "title": "The Image Boards of Hayao Miyazaki",
+    "link": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
+    "source": "Hacker News",
+    "published": "2026-04-06T07:56:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47658104\">Comments</a>"
   },
   {
     "title": "A truck driver spent 20 years making a scale model of every building in NYC",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47657268\">Comments</a>"
   },
   {
-    "title": "Emotion Concepts and Their Function in a Large Language Model",
-    "link": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "title": "A whole boss fight in 256 bytes",
+    "link": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
     "source": "Hacker News",
-    "published": "2026-04-04T09:52:55+00:00",
+    "published": "2026-04-05T22:32:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637580\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47654626\">Comments</a>"
   },
   {
-    "title": "A new Postcrossing stamp from the USA",
-    "link": "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa",
+    "title": "How to Get Better at Guitar",
+    "link": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
     "source": "Hacker News",
-    "published": "2026-04-03T20:04:05+00:00",
+    "published": "2026-04-05T16:14:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631515\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47650887\">Comments</a>"
   }
 ]
