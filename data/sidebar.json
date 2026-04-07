@@ -1,19 +1,67 @@
 [
   {
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "source": "Hacker News",
+    "published": "2026-04-07T18:18:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>"
+  },
+  {
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "link": "https://red.anthropic.com/2026/mythos-preview/",
+    "source": "Hacker News",
+    "published": "2026-04-07T18:11:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47679155\">Comments</a>"
+  },
+  {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "link": "https://www.anthropic.com/glasswing",
+    "source": "Hacker News",
+    "published": "2026-04-07T18:09:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47679121\">Comments</a>"
+  },
+  {
+    "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+    "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+    "source": "Hacker News",
+    "published": "2026-04-07T17:23:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47678573\">Comments</a>"
+  },
+  {
+    "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+    "link": "https://printervention.app/details",
+    "source": "Hacker News",
+    "published": "2026-04-07T16:33:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677885\">Comments</a>"
+  },
+  {
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "link": "https://z.ai/blog/glm-5.1",
+    "source": "Hacker News",
+    "published": "2026-04-07T16:32:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677853\">Comments</a>"
+  },
+  {
+    "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
+    "link": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
+    "source": "Hacker News",
+    "published": "2026-04-07T15:47:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677142\">Comments</a>"
+  },
+  {
     "title": "Moving fast in hardware: lessons from lab to $100M ARR",
     "link": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
     "source": "Hacker News",
     "published": "2026-04-07T15:07:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47676557\">Comments</a>"
-  },
-  {
-    "title": "Claude Code is locking people out for hours",
-    "link": "https://github.com/anthropics/claude-code/issues/44257",
-    "source": "Hacker News",
-    "published": "2026-04-07T15:04:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47676521\">Comments</a>"
   },
   {
     "title": "Cloudflare targets 2029 for full post-quantum security",
@@ -32,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675302\">Comments</a>"
   },
   {
-    "title": "You can't cancel a JavaScript promise (except sometimes you can)",
-    "link": "https://www.inngest.com/blog/hanging-promises-for-control-flow",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "link": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
     "source": "Hacker News",
-    "published": "2026-04-07T13:34:33+00:00",
+    "published": "2026-04-07T13:39:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675155\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675213\">Comments</a>"
   },
   {
     "title": "Dropping Cloudflare for Bunny.net",
@@ -56,30 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>"
   },
   {
-    "title": "AI may be making us think and write more alike",
-    "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-    "source": "Hacker News",
-    "published": "2026-04-07T11:29:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673541\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
-    "link": "https://locker.dev",
-    "source": "Hacker News",
-    "published": "2026-04-07T11:12:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673394\">Comments</a>"
-  },
-  {
-    "title": "DeiMOS \u2013 A Superoptimizer for the MOS 6502",
-    "link": "https://aransentin.github.io/deimos/",
-    "source": "Hacker News",
-    "published": "2026-04-07T11:10:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673379\">Comments</a>"
-  },
-  {
     "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
     "link": "https://sam-burns.com/posts/concrete-laptop-stand/",
     "source": "Hacker News",
@@ -96,67 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47673005\">Comments</a>"
   },
   {
-    "title": "Identify a London Underground Line just by listening to it",
-    "link": "https://tubesoundquiz.com/",
+    "title": "John Coltrane Illustrates the Mathematics of Jazz",
+    "link": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
     "source": "Hacker News",
-    "published": "2026-04-07T10:08:25+00:00",
+    "published": "2026-04-07T05:58:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672884\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47671219\">Comments</a>"
   },
   {
-    "title": "Blackholing My Email",
-    "link": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "title": "AI helps add 10k more photos to OldNYC",
+    "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
     "source": "Hacker News",
-    "published": "2026-04-07T08:42:05+00:00",
+    "published": "2026-04-06T18:24:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672318\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47664836\">Comments</a>"
   },
   {
-    "title": "Every GPU That Mattered",
-    "link": "https://sheets.works/data-viz/every-gpu",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+    "link": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
     "source": "Hacker News",
-    "published": "2026-04-07T08:38:17+00:00",
+    "published": "2026-04-06T05:22:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672295\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47657268\">Comments</a>"
   },
   {
-    "title": "SQLite in Production: Lessons from Running a Store on a Single File",
-    "link": "https://ultrathink.art/blog/sqlite-in-production-lessons",
+    "title": "Emotion Concepts and Their Function in a Large Language Model",
+    "link": "https://transformer-circuits.pub/2026/emotions/index.html",
     "source": "Hacker News",
-    "published": "2026-04-04T09:15:47+00:00",
+    "published": "2026-04-04T09:52:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637353\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637580\">Comments</a>"
   },
   {
-    "title": "Running Out of Disk Space in Production",
-    "link": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+    "title": "A new Postcrossing stamp from the USA",
+    "link": "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa",
     "source": "Hacker News",
-    "published": "2026-04-03T14:42:28+00:00",
+    "published": "2026-04-03T20:04:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47627217\">Comments</a>"
-  },
-  {
-    "title": "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
-    "link": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
-    "source": "Hacker News",
-    "published": "2026-04-02T17:05:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47617103\">Comments</a>"
-  },
-  {
-    "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
-    "link": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/",
-    "source": "Hacker News",
-    "published": "2026-04-02T16:18:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47616475\">Comments</a>"
-  },
-  {
-    "title": "My Experience as a Rice Farmer",
-    "link": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-    "source": "Hacker News",
-    "published": "2026-04-02T13:53:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47614528\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47631515\">Comments</a>"
   }
 ]
