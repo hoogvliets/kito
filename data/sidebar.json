@@ -1,5 +1,29 @@
 [
   {
+    "title": "After 20 years I turned off Google Adsense for my websites",
+    "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+    "source": "Hacker News",
+    "published": "2026-04-06T23:23:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47668727\">Comments</a>"
+  },
+  {
+    "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+    "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "source": "Hacker News",
+    "published": "2026-04-06T21:52:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47667717\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "link": "https://github.com/kitfunso/hippo-memory",
+    "source": "Hacker News",
+    "published": "2026-04-06T21:49:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47667672\">Comments</a>"
+  },
+  {
     "title": "HackerRank (YC S11) Is Hiring",
     "link": "https://news.ycombinator.com/item?id=47667011",
     "source": "Hacker News",
@@ -8,23 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47667011\">Comments</a>"
   },
   {
-    "title": "Root Persistence via macOS Recovery Mode Safari",
-    "link": "https://yaseenghanem.com/recovery-unrestricted-write-access/",
-    "source": "Hacker News",
-    "published": "2026-04-06T20:41:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47666767\">Comments</a>"
-  },
-  {
-    "title": "A macOS bug that causes TCP networking to stop working after 49.7 days",
-    "link": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
-    "source": "Hacker News",
-    "published": "2026-04-06T20:20:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47666488\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ghost Pepper \u2013 100% local hold-to-talk speech-to-text for macOS",
+    "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
     "link": "https://github.com/matthartman/ghost-pepper",
     "source": "Hacker News",
     "published": "2026-04-06T19:50:16+00:00",
@@ -38,14 +46,6 @@
     "published": "2026-04-06T18:56:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47665245\">Comments</a>"
-  },
-  {
-    "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
-    "link": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
-    "source": "Hacker News",
-    "published": "2026-04-06T17:38:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47664205\">Comments</a>"
   },
   {
     "title": "Battle for Wesnoth: open-source, turn-based strategy game",
@@ -70,6 +70,14 @@
     "published": "2026-04-06T16:21:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47662945\">Comments</a>"
+  },
+  {
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "source": "Hacker News",
+    "published": "2026-04-06T15:57:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47662596\">Comments</a>"
   },
   {
     "title": "A cryptography engineer's perspective on quantum computing timelines",
@@ -128,35 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47659135\">Comments</a>"
   },
   {
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "link": "https://github.com/arman-bd/guppylm",
+    "title": "Show HN: Tusk for macOS and Gnome",
+    "link": "https://shapemachine.xyz/tusk/",
     "source": "Hacker News",
-    "published": "2026-04-06T00:20:12+00:00",
+    "published": "2026-04-04T10:39:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47655408\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637828\">Comments</a>"
   },
   {
-    "title": "Show HN: Docking \u2013 extensible Linux dock in Python",
-    "link": "https://docking.cc",
+    "title": "Show HN: Anos \u2013 a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+    "link": "https://github.com/roscopeco/anos",
     "source": "Hacker News",
-    "published": "2026-04-04T08:49:12+00:00",
+    "published": "2026-04-04T06:58:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637206\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47636579\">Comments</a>"
   },
   {
-    "title": "The Last Quiet Thing",
-    "link": "https://www.terrygodier.com/the-last-quiet-thing",
+    "title": "Porting Go's strings package to C",
+    "link": "https://antonz.org/porting-go-strings/",
     "source": "Hacker News",
-    "published": "2026-04-04T08:14:53+00:00",
+    "published": "2026-04-03T15:12:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637010\">Comments</a>"
-  },
-  {
-    "title": "Eighteen Years of Greytrapping \u2013 Is the Weirdness Finally Paying Off?",
-    "link": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
-    "source": "Hacker News",
-    "published": "2026-04-04T08:01:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47636937\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47627595\">Comments</a>"
   }
 ]
