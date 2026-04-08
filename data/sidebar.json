@@ -1,22 +1,30 @@
 [
   {
-    "title": "Bitcoin and Quantum Computing",
-    "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+    "title": "Xilem \u2013 An experimental Rust native UI framework",
+    "link": "https://github.com/linebender/xilem",
     "source": "Hacker News",
-    "published": "2026-04-07T20:56:23+00:00",
+    "published": "2026-04-07T23:36:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47681274\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47682719\">Comments</a>"
   },
   {
-    "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-    "link": "https://netbsd-cells.petermann-digital.de/",
+    "title": "US and Iran agree to provisional ceasefire",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
     "source": "Hacker News",
-    "published": "2026-04-07T19:54:06+00:00",
+    "published": "2026-04-07T22:41:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47680532\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47682276\">Comments</a>"
   },
   {
-    "title": "S3 Files and the changing face of S3",
+    "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+    "link": "https://middle-earth-interactive-map.web.app/",
+    "source": "Hacker News",
+    "published": "2026-04-07T20:42:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47681112\">Comments</a>"
+  },
+  {
+    "title": "S3 Files",
     "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
     "source": "Hacker News",
     "published": "2026-04-07T19:44:01+00:00",
@@ -40,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>"
   },
   {
-    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-    "link": "https://red.anthropic.com/2026/mythos-preview/",
-    "source": "Hacker News",
-    "published": "2026-04-07T18:11:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47679155\">Comments</a>"
-  },
-  {
     "title": "Project Glasswing: Securing critical software for the AI era",
     "link": "https://www.anthropic.com/glasswing",
     "source": "Hacker News",
@@ -56,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47679121\">Comments</a>"
   },
   {
-    "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+    "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
     "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
     "source": "Hacker News",
     "published": "2026-04-07T17:23:43+00:00",
@@ -78,14 +78,6 @@
     "published": "2026-04-07T16:32:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47677853\">Comments</a>"
-  },
-  {
-    "title": "Taste in the age of AI and LLMs",
-    "link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "source": "Hacker News",
-    "published": "2026-04-07T15:54:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47677241\">Comments</a>"
   },
   {
     "title": "Lunar Flyby",
@@ -120,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47673360\">Comments</a>"
   },
   {
-    "title": "AI helps add 10k more photos to OldNYC",
-    "link": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "source": "Hacker News",
-    "published": "2026-04-06T18:24:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47664836\">Comments</a>"
-  },
-  {
     "title": "The Image Boards of Hayao Miyazaki",
     "link": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47654626\">Comments</a>"
   },
   {
-    "title": "How to Get Better at Guitar",
+    "title": "How to get better at guitar",
     "link": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
     "source": "Hacker News",
     "published": "2026-04-05T16:14:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47650887\">Comments</a>"
+  },
+  {
+    "title": "The Clock",
+    "link": "https://blog.senko.net/the-clock",
+    "source": "Hacker News",
+    "published": "2026-04-04T10:08:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47637665\">Comments</a>"
+  },
+  {
+    "title": "A database of analog cameras that can be 3D printed",
+    "link": "https://printed.analogcamera.space/",
+    "source": "Hacker News",
+    "published": "2026-04-03T09:02:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47624572\">Comments</a>"
   }
 ]
