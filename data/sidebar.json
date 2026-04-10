@@ -1,19 +1,43 @@
 [
   {
-    "title": "The tool that won't let AI say anything it can't cite",
-    "link": "https://github.com/grainulation/grainulator",
+    "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
+    "link": "https://github.com/agberohq/keeper",
     "source": "Hacker News",
-    "published": "2026-04-10T06:09:47+00:00",
+    "published": "2026-04-10T08:53:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47714239\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715339\">Comments</a>"
   },
   {
-    "title": "YouTube locked my accounts and I can't cancel my subscription",
-    "link": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "link": "https://www.nature.com/articles/d41586-026-01100-y",
     "source": "Hacker News",
-    "published": "2026-04-10T05:03:22+00:00",
+    "published": "2026-04-10T08:44:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47713839\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715291\">Comments</a>"
+  },
+  {
+    "title": "Zero-build privacy policies with Astro",
+    "link": "https://www.openpolicy.sh/blog/no-build-astro",
+    "source": "Hacker News",
+    "published": "2026-04-10T08:13:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715088\">Comments</a>"
+  },
+  {
+    "title": "Artemis II and the invisible hazard on the way to the Moon",
+    "link": "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1",
+    "source": "Hacker News",
+    "published": "2026-04-10T07:04:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47714573\">Comments</a>"
+  },
+  {
+    "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
+    "link": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
+    "source": "Hacker News",
+    "published": "2026-04-10T06:15:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47714273\">Comments</a>"
   },
   {
     "title": "CollectWise (YC F24) Is Hiring",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47713584\">Comments</a>"
   },
   {
-    "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
-    "link": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+    "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+    "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
     "source": "Hacker News",
-    "published": "2026-04-10T03:03:14+00:00",
+    "published": "2026-04-10T04:04:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47713113\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47713495\">Comments</a>"
   },
   {
     "title": "I still prefer MCP over skills",
@@ -64,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47709158\">Comments</a>"
   },
   {
-    "title": "Reverse engineering Gemini's SynthID detection",
-    "link": "https://github.com/aloshdenny/reverse-SynthID",
-    "source": "Hacker News",
-    "published": "2026-04-09T20:10:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47709130\">Comments</a>"
-  },
-  {
     "title": "Native Instant Space Switching on macOS",
     "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
     "source": "Hacker News",
@@ -80,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47708818\">Comments</a>"
   },
   {
-    "title": "PicoZ80 \u2013 Drop-In Z80 Replacement",
-    "link": "https://eaw.app/picoz80/",
-    "source": "Hacker News",
-    "published": "2026-04-09T18:53:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47708041\">Comments</a>"
-  },
-  {
-    "title": "Instant 1.0, a backend for AI-coded apps",
-    "link": "https://www.instantdb.com/essays/architecture",
-    "source": "Hacker News",
-    "published": "2026-04-09T18:30:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47707632\">Comments</a>"
-  },
-  {
     "title": "Old laptops in a colo as low cost servers",
     "link": "https://colaptop.pages.dev/",
     "source": "Hacker News",
     "published": "2026-04-09T18:22:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47707477\">Comments</a>"
-  },
-  {
-    "title": "Research-Driven Agents: When an agent reads before it codes",
-    "link": "https://blog.skypilot.co/research-driven-agents/",
-    "source": "Hacker News",
-    "published": "2026-04-09T16:58:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47706141\">Comments</a>"
   },
   {
     "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47704804\">Comments</a>"
   },
   {
-    "title": "VFX HQ: Visual Effects Headquarters (2000)",
-    "link": "https://www.vfxhq.com/index.html",
+    "title": "The Art of Risk Management (2017)",
+    "link": "https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management",
     "source": "Hacker News",
-    "published": "2026-04-08T00:17:52+00:00",
+    "published": "2026-04-08T06:15:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47683042\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47686046\">Comments</a>"
   },
   {
     "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
@@ -158,5 +150,13 @@
     "published": "2026-04-07T14:13:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675731\">Comments</a>"
+  },
+  {
+    "title": "War on Raze",
+    "link": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
+    "source": "Hacker News",
+    "published": "2026-04-06T19:40:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47665890\">Comments</a>"
   }
 ]
