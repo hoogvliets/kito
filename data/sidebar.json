@@ -1,27 +1,51 @@
 [
   {
+    "title": "Intel 486 CPU announced April 10, 1989",
+    "link": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+    "source": "Hacker News",
+    "published": "2026-04-10T12:03:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716809\">Comments</a>"
+  },
+  {
+    "title": "White House staff told not to place bets on prediction markets",
+    "link": "https://www.bbc.co.uk/news/articles/cgld65x396go",
+    "source": "Hacker News",
+    "published": "2026-04-10T11:47:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716663\">Comments</a>"
+  },
+  {
+    "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+    "link": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+    "source": "Hacker News",
+    "published": "2026-04-10T11:29:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716490\">Comments</a>"
+  },
+  {
+    "title": "Microsoft suspends dev accounts for high-profile open source projects",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+    "source": "Hacker News",
+    "published": "2026-04-10T11:20:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716412\">Comments</a>"
+  },
+  {
+    "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+    "link": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+    "source": "Hacker News",
+    "published": "2026-04-10T10:37:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716043\">Comments</a>"
+  },
+  {
     "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
     "link": "https://github.com/agberohq/keeper",
     "source": "Hacker News",
     "published": "2026-04-10T08:53:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47715339\">Comments</a>"
-  },
-  {
-    "title": "Scientists invented a fake disease. AI told people it was real",
-    "link": "https://www.nature.com/articles/d41586-026-01100-y",
-    "source": "Hacker News",
-    "published": "2026-04-10T08:44:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715291\">Comments</a>"
-  },
-  {
-    "title": "Zero-build privacy policies with Astro",
-    "link": "https://www.openpolicy.sh/blog/no-build-astro",
-    "source": "Hacker News",
-    "published": "2026-04-10T08:13:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715088\">Comments</a>"
   },
   {
     "title": "Artemis II and the invisible hazard on the way to the Moon",
@@ -46,14 +70,6 @@
     "published": "2026-04-10T04:43:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47713744\">Comments</a>"
-  },
-  {
-    "title": "Afrika Bambaataa, hip-hop pioneer, has died",
-    "link": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
-    "source": "Hacker News",
-    "published": "2026-04-10T04:17:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47713584\">Comments</a>"
   },
   {
     "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
@@ -96,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47708818\">Comments</a>"
   },
   {
-    "title": "Old laptops in a colo as low cost servers",
-    "link": "https://colaptop.pages.dev/",
-    "source": "Hacker News",
-    "published": "2026-04-09T18:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47707477\">Comments</a>"
-  },
-  {
-    "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
-    "link": "https://www.unfolder.app/",
-    "source": "Hacker News",
-    "published": "2026-04-09T16:58:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47706140\">Comments</a>"
-  },
-  {
     "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
     "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
     "source": "Hacker News",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47680005\">Comments</a>"
   },
   {
+    "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+    "link": "https://github.com/marimo-team/marimo-pair",
+    "source": "Hacker News",
+    "published": "2026-04-07T17:47:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47678844\">Comments</a>"
+  },
+  {
     "title": "Generative art over the years",
     "link": "https://blog.veitheller.de/Generative_art_over_the_years.html",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675906\">Comments</a>"
   },
   {
-    "title": "Principles of Mechanical Sympathy",
-    "link": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
+    "title": "Model-Based Testing for Dungeons & Dragons",
+    "link": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
     "source": "Hacker News",
-    "published": "2026-04-07T14:13:59+00:00",
+    "published": "2026-04-07T13:15:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675731\">Comments</a>"
-  },
-  {
-    "title": "War on Raze",
-    "link": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
-    "source": "Hacker News",
-    "published": "2026-04-06T19:40:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47665890\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47674894\">Comments</a>"
   }
 ]
