@@ -1,5 +1,21 @@
 [
   {
+    "title": "What have been the greatest intellectual achievements? (2017)",
+    "link": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
+    "source": "Hacker News",
+    "published": "2026-04-12T10:46:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738196\">Comments</a>"
+  },
+  {
+    "title": "JVM Options Explorer",
+    "link": "https://chriswhocodes.com/vm-options-explorer.html",
+    "source": "Hacker News",
+    "published": "2026-04-12T10:29:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738094\">Comments</a>"
+  },
+  {
     "title": "Apple update looks like Czech mate for locked-out iPhone user",
     "link": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
     "source": "Hacker News",
@@ -8,36 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47737383\">Comments</a>"
   },
   {
+    "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
+    "link": "https://phyphox.org/",
+    "source": "Hacker News",
+    "published": "2026-04-12T08:38:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47737376\">Comments</a>"
+  },
+  {
     "title": "I run multiple $10K MRR companies on a $20/month tech stack",
     "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
     "source": "Hacker News",
     "published": "2026-04-12T06:00:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47736555\">Comments</a>"
-  },
-  {
-    "title": "Anthropic silently downgraded cache TTL from 1h \u2192 5M on March 6th",
-    "link": "https://github.com/anthropics/claude-code/issues/46829",
-    "source": "Hacker News",
-    "published": "2026-04-12T05:45:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47736476\">Comments</a>"
-  },
-  {
-    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-    "link": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-    "source": "Hacker News",
-    "published": "2026-04-12T05:08:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47736298\">Comments</a>"
-  },
-  {
-    "title": "How a dancer with ALS used brainwaves to perform live",
-    "link": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-    "source": "Hacker News",
-    "published": "2026-04-12T02:09:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735581\">Comments</a>"
   },
   {
     "title": "The End of Eleventy",
@@ -80,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>"
   },
   {
-    "title": "How to build a `Git diff` driver",
-    "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-    "source": "Hacker News",
-    "published": "2026-04-11T18:07:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47732697\">Comments</a>"
-  },
-  {
     "title": "Small models also found the vulnerabilities that Mythos found",
     "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
     "source": "Hacker News",
     "published": "2026-04-11T16:47:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>"
-  },
-  {
-    "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-    "link": "https://www.v68k.org/advanced-mac-substitute/",
-    "source": "Hacker News",
-    "published": "2026-04-11T15:39:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47731506\">Comments</a>"
-  },
-  {
-    "title": "Cirrus Labs to join OpenAI",
-    "link": "https://cirruslabs.org/",
-    "source": "Hacker News",
-    "published": "2026-04-11T13:01:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47730194\">Comments</a>"
   },
   {
     "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
@@ -128,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47706423\">Comments</a>"
   },
   {
-    "title": "Surelock: Deadlock-Free Mutexes for Rust",
-    "link": "https://notes.brooklynzelenka.com/Blog/Surelock",
+    "title": "Happy Map",
+    "link": "https://pudding.cool/2026/02/happy-map/",
     "source": "Hacker News",
-    "published": "2026-04-08T17:36:19+00:00",
+    "published": "2026-04-07T13:55:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47693559\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47675444\">Comments</a>"
+  },
+  {
+    "title": "The Miller Principle (2007)",
+    "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
+    "source": "Hacker News",
+    "published": "2026-04-07T13:16:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47674910\">Comments</a>"
+  },
+  {
+    "title": "Stewart Brand on how progress happens",
+    "link": "https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens",
+    "source": "Hacker News",
+    "published": "2026-04-07T12:47:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47674473\">Comments</a>"
   },
   {
     "title": "How Complex is my Code?",
@@ -158,5 +150,13 @@
     "published": "2026-04-07T09:40:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47672718\">Comments</a>"
+  },
+  {
+    "title": "Network Flow Algorithms",
+    "link": "https://www.networkflowalgs.com/",
+    "source": "Hacker News",
+    "published": "2026-04-07T07:27:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47671814\">Comments</a>"
   }
 ]
