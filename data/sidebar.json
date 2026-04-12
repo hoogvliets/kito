@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps",
+    "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+    "source": "Hacker News",
+    "published": "2026-04-12T18:19:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47742680\">Comments</a>"
+  },
+  {
+    "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+    "link": "https://boringbar.app/",
+    "source": "Hacker News",
+    "published": "2026-04-12T17:25:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47742200\">Comments</a>"
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "link": "https://www.easypost.com/careers",
+    "source": "Hacker News",
+    "published": "2026-04-12T17:01:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741953\">Comments</a>"
+  },
+  {
+    "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+    "link": "https://eualternative.eu/guides/building-saas-eu-stack/",
+    "source": "Hacker News",
+    "published": "2026-04-12T16:33:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741634\">Comments</a>"
+  },
+  {
     "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
     "link": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
     "source": "Hacker News",
@@ -16,36 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47739313\">Comments</a>"
   },
   {
-    "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-    "link": "https://news.ycombinator.com/item?id=47739305",
-    "source": "Hacker News",
-    "published": "2026-04-12T13:20:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47739305\">Comments</a>"
-  },
-  {
-    "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
-    "link": "https://github.com/anthropics/claude-code/issues/45756",
-    "source": "Hacker News",
-    "published": "2026-04-12T13:15:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47739260\">Comments</a>"
-  },
-  {
     "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
     "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
     "source": "Hacker News",
     "published": "2026-04-12T13:06:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47739174\">Comments</a>"
-  },
-  {
-    "title": "We have a 99% email reputation. Gmail disagrees",
-    "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-    "source": "Hacker News",
-    "published": "2026-04-12T12:42:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738978\">Comments</a>"
   },
   {
     "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
@@ -64,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47738827\">Comments</a>"
   },
   {
+    "title": "The Physics of GPS",
+    "link": "https://perthirtysix.com/how-does-gps-work",
+    "source": "Hacker News",
+    "published": "2026-04-12T11:10:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738343\">Comments</a>"
+  },
+  {
     "title": "JVM Options Explorer",
     "link": "https://chriswhocodes.com/vm-options-explorer.html",
     "source": "Hacker News",
@@ -78,14 +94,6 @@
     "published": "2026-04-12T10:01:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47737876\">Comments</a>"
-  },
-  {
-    "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-    "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-    "source": "Hacker News",
-    "published": "2026-04-12T09:16:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47737563\">Comments</a>"
   },
   {
     "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
@@ -112,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47736476\">Comments</a>"
   },
   {
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "title": "Exploiting the most prominent AI agent benchmarks",
     "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
     "source": "Hacker News",
     "published": "2026-04-11T19:15:56+00:00",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>"
   },
   {
-    "title": "Compute iOS XNU offset from kernel cache",
-    "link": "https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches",
+    "title": "I gave every train in New York an instrument",
+    "link": "https://www.trainjazz.com/",
     "source": "Hacker News",
-    "published": "2026-04-10T15:51:21+00:00",
+    "published": "2026-04-10T15:21:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47719968\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47719490\">Comments</a>"
   },
   {
     "title": "A Tour of Oodi",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47706560\">Comments</a>"
   },
   {
-    "title": "An Interview with Pat Gelsinger",
-    "link": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+    "title": "Most people can't juggle one ball",
+    "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
     "source": "Hacker News",
-    "published": "2026-04-09T17:19:10+00:00",
+    "published": "2026-04-09T12:35:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47706423\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47702887\">Comments</a>"
   },
   {
     "title": "Happy Map",
@@ -150,13 +158,5 @@
     "published": "2026-04-07T13:55:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47675444\">Comments</a>"
-  },
-  {
-    "title": "Tofolli gates are all you need",
-    "link": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-    "source": "Hacker News",
-    "published": "2026-04-07T09:40:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672718\">Comments</a>"
   }
 ]
