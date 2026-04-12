@@ -1,6 +1,30 @@
 [
   {
-    "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps",
+    "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+    "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+    "source": "Hacker News",
+    "published": "2026-04-12T19:53:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47743730\">Comments</a>"
+  },
+  {
+    "title": "European AI. A playbook to own it",
+    "link": "https://europe.mistral.ai/",
+    "source": "Hacker News",
+    "published": "2026-04-12T19:51:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47743700\">Comments</a>"
+  },
+  {
+    "title": "The peril of laziness lost",
+    "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+    "source": "Hacker News",
+    "published": "2026-04-12T19:44:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47743628\">Comments</a>"
+  },
+  {
+    "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
     "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
     "source": "Hacker News",
     "published": "2026-04-12T18:19:02+00:00",
@@ -24,20 +48,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47741953\">Comments</a>"
   },
   {
-    "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-    "link": "https://eualternative.eu/guides/building-saas-eu-stack/",
+    "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
+    "link": "https://github.com/halfwhey/claudraband",
     "source": "Hacker News",
-    "published": "2026-04-12T16:33:19+00:00",
+    "published": "2026-04-12T16:55:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741634\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741889\">Comments</a>"
   },
   {
-    "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
-    "link": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
+    "title": "DIY Soft Drinks",
+    "link": "https://blinry.org/diy-soft-drinks/",
     "source": "Hacker News",
-    "published": "2026-04-12T14:43:23+00:00",
+    "published": "2026-04-12T16:38:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47740315\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741701\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What Are You Working On? (April 2026)",
+    "link": "https://news.ycombinator.com/item?id=47741527",
+    "source": "Hacker News",
+    "published": "2026-04-12T16:24:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741527\">Comments</a>"
   },
   {
     "title": "Seven countries now generate 100% of their electricity from renewable energy",
@@ -72,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47738827\">Comments</a>"
   },
   {
-    "title": "The Physics of GPS",
-    "link": "https://perthirtysix.com/how-does-gps-work",
-    "source": "Hacker News",
-    "published": "2026-04-12T11:10:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738343\">Comments</a>"
-  },
-  {
     "title": "JVM Options Explorer",
     "link": "https://chriswhocodes.com/vm-options-explorer.html",
     "source": "Hacker News",
     "published": "2026-04-12T10:29:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47738094\">Comments</a>"
-  },
-  {
-    "title": "Doom, Played over Curl",
-    "link": "https://github.com/xsawyerx/curl-doom",
-    "source": "Hacker News",
-    "published": "2026-04-12T10:01:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47737876\">Comments</a>"
   },
   {
     "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47737376\">Comments</a>"
   },
   {
-    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-    "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-    "source": "Hacker News",
-    "published": "2026-04-12T06:00:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47736555\">Comments</a>"
-  },
-  {
     "title": "Anthropic downgraded cache TTL on March 6th",
     "link": "https://github.com/anthropics/claude-code/issues/46829",
     "source": "Hacker News",
     "published": "2026-04-12T05:45:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47736476\">Comments</a>"
-  },
-  {
-    "title": "Exploiting the most prominent AI agent benchmarks",
-    "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "source": "Hacker News",
-    "published": "2026-04-11T19:15:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>"
   },
   {
     "title": "I gave every train in New York an instrument",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47719490\">Comments</a>"
   },
   {
-    "title": "A Tour of Oodi",
-    "link": "https://blinry.org/oodi/",
+    "title": "Cooperative Vectors Introduction",
+    "link": "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
     "source": "Hacker News",
-    "published": "2026-04-09T17:27:39+00:00",
+    "published": "2026-04-10T13:16:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47706560\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47717690\">Comments</a>"
   },
   {
     "title": "Most people can't juggle one ball",
