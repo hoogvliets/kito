@@ -1,6 +1,14 @@
 [
   {
-    "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit",
+    "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
+    "link": "https://github.com/duguyue100/midnight-captain",
+    "source": "Hacker News",
+    "published": "2026-04-11T23:37:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47734912\">Comments</a>"
+  },
+  {
+    "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
     "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
     "source": "Hacker News",
     "published": "2026-04-11T20:58:48+00:00",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>"
   },
   {
-    "title": "One neat trick to end extreme poverty",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
-    "source": "Hacker News",
-    "published": "2026-04-11T19:01:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47733106\">Comments</a>"
-  },
-  {
     "title": "How to build a `Git diff` driver",
     "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
     "source": "Hacker News",
@@ -48,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47732697\">Comments</a>"
   },
   {
-    "title": "The APL programming language source code (2012)",
-    "link": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-    "source": "Hacker News",
-    "published": "2026-04-11T17:34:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47732402\">Comments</a>"
-  },
-  {
     "title": "Small models also found the vulnerabilities that Mythos found",
     "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
     "source": "Hacker News",
     "published": "2026-04-11T16:47:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>"
-  },
-  {
-    "title": "Phone Trips",
-    "link": "http://www.wideweb.com/phonetrips/",
-    "source": "Hacker News",
-    "published": "2026-04-11T16:43:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47731998\">Comments</a>"
   },
   {
     "title": "Keeping a Postgres Queue Healthy",
@@ -112,28 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47727960\">Comments</a>"
   },
   {
-    "title": "Filing the corners off my MacBooks",
-    "link": "https://kentwalters.com/posts/corners/",
+    "title": "The Life and Death of the Book Review",
+    "link": "https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/",
     "source": "Hacker News",
-    "published": "2026-04-10T22:16:40+00:00",
+    "published": "2026-04-09T05:06:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47724352\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47699470\">Comments</a>"
   },
   {
-    "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
-    "link": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
+    "title": "Optimal Strategy for Connect 4",
+    "link": "https://2swap.github.io/WeakC4/explanation/",
     "source": "Hacker News",
-    "published": "2026-04-10T00:36:21+00:00",
+    "published": "2026-04-08T19:37:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47712134\">Comments</a>"
-  },
-  {
-    "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-    "link": "https://playstarfling.com",
-    "source": "Hacker News",
-    "published": "2026-04-09T01:52:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47698455\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47695213\">Comments</a>"
   },
   {
     "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47693559\">Comments</a>"
   },
   {
-    "title": "What Is a Property?",
+    "title": "The Soul of an Old Machine",
+    "link": "https://skalski.dev/the-soul-of-an-old-machine/",
+    "source": "Hacker News",
+    "published": "2026-04-07T12:30:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47674273\">Comments</a>"
+  },
+  {
+    "title": "What is a property?",
     "link": "https://alperenkeles.com/posts/what-is-a-property/",
     "source": "Hacker News",
     "published": "2026-04-07T12:16:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47674075\">Comments</a>"
+  },
+  {
+    "title": "How Complex is my Code?",
+    "link": "https://philodev.one/posts/2026-04-code-complexity/",
+    "source": "Hacker News",
+    "published": "2026-04-07T10:44:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47673171\">Comments</a>"
+  },
+  {
+    "title": "Pijul a FOSS distributed version control system",
+    "link": "https://pijul.org/",
+    "source": "Hacker News",
+    "published": "2026-04-07T10:16:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672941\">Comments</a>"
   }
 ]
