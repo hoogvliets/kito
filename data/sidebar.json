@@ -1,11 +1,43 @@
 [
   {
-    "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
-    "link": "https://github.com/duguyue100/midnight-captain",
+    "title": "Excellence Is a Habit",
+    "link": "https://www.flyingbarron.com/2026/04/excellence-is-habit.html",
     "source": "Hacker News",
-    "published": "2026-04-11T23:37:43+00:00",
+    "published": "2026-04-12T03:34:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47734912\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735927\">Comments</a>"
+  },
+  {
+    "title": "Building a Z-Machine in the worst possible language \u2013 Whitebeard's Realm",
+    "link": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
+    "source": "Hacker News",
+    "published": "2026-04-12T02:57:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735779\">Comments</a>"
+  },
+  {
+    "title": "How a dancer with ALS used brainwaves to perform live",
+    "link": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+    "source": "Hacker News",
+    "published": "2026-04-12T02:09:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735581\">Comments</a>"
+  },
+  {
+    "title": "The End of Eleventy",
+    "link": "https://brennan.day/the-end-of-eleventy/",
+    "source": "Hacker News",
+    "published": "2026-04-12T01:55:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735535\">Comments</a>"
+  },
+  {
+    "title": "Software Preservation Group: C++ History Collection",
+    "link": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+    "source": "Hacker News",
+    "published": "2026-04-12T01:24:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47735405\">Comments</a>"
   },
   {
     "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
@@ -56,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>"
   },
   {
-    "title": "Keeping a Postgres Queue Healthy",
-    "link": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-    "source": "Hacker News",
-    "published": "2026-04-11T16:24:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47731838\">Comments</a>"
-  },
-  {
     "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
     "link": "https://www.v68k.org/advanced-mac-substitute/",
     "source": "Hacker News",
     "published": "2026-04-11T15:39:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47731506\">Comments</a>"
-  },
-  {
-    "title": "The Problem That Built an Industry",
-    "link": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-    "source": "Hacker News",
-    "published": "2026-04-11T14:03:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47730712\">Comments</a>"
   },
   {
     "title": "Cirrus Labs to join OpenAI",
@@ -94,30 +110,6 @@
     "published": "2026-04-11T06:19:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47727960\">Comments</a>"
-  },
-  {
-    "title": "The Life and Death of the Book Review",
-    "link": "https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/",
-    "source": "Hacker News",
-    "published": "2026-04-09T05:06:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47699470\">Comments</a>"
-  },
-  {
-    "title": "Optimal Strategy for Connect 4",
-    "link": "https://2swap.github.io/WeakC4/explanation/",
-    "source": "Hacker News",
-    "published": "2026-04-08T19:37:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47695213\">Comments</a>"
-  },
-  {
-    "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
-    "link": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-    "source": "Hacker News",
-    "published": "2026-04-08T18:10:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47694064\">Comments</a>"
   },
   {
     "title": "Surelock: Deadlock-Free Mutexes for Rust",
@@ -158,5 +150,13 @@
     "published": "2026-04-07T10:16:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47672941\">Comments</a>"
+  },
+  {
+    "title": "Simplest Hash Functions",
+    "link": "https://purplesyringa.moe/blog/simplest-hash-functions/",
+    "source": "Hacker News",
+    "published": "2026-04-07T09:40:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47672714\">Comments</a>"
   }
 ]
