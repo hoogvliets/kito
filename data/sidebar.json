@@ -1,19 +1,59 @@
 [
   {
-    "title": "Austerity Creates Fascism",
-    "link": "https://pluralistic.net/2026/04/12/always-great/",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
     "source": "Hacker News",
-    "published": "2026-04-13T18:29:37+00:00",
+    "published": "2026-04-13T21:25:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756081\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47758028\">Comments</a>"
   },
   {
-    "title": "'Yes to fields of wheat, no to fields of iron': how Denmark soured on solar",
-    "link": "https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections",
+    "title": "GitHub Stacked PRs",
+    "link": "https://github.github.com/gh-stack/",
     "source": "Hacker News",
-    "published": "2026-04-13T18:02:36+00:00",
+    "published": "2026-04-13T20:36:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755734\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>"
+  },
+  {
+    "title": "Just Enough Chimera Linux",
+    "link": "https://www.dwarmstrong.org/chimera-install-zfs/",
+    "source": "Hacker News",
+    "published": "2026-04-13T19:37:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756876\">Comments</a>"
+  },
+  {
+    "title": "(AMD) Build AI Agents That Run Locally",
+    "link": "https://amd-gaia.ai/docs",
+    "source": "Hacker News",
+    "published": "2026-04-13T19:28:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756772\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
+    "link": "https://www.ithihasas.in",
+    "source": "Hacker News",
+    "published": "2026-04-13T19:10:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756569\">Comments</a>"
+  },
+  {
+    "title": "How to make Firefox builds 17% faster",
+    "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+    "source": "Hacker News",
+    "published": "2026-04-13T18:50:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756321\">Comments</a>"
+  },
+  {
+    "title": "Visualizing CPU Pipelining (2024)",
+    "link": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+    "source": "Hacker News",
+    "published": "2026-04-13T18:26:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756036\">Comments</a>"
   },
   {
     "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
@@ -24,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47755629\">Comments</a>"
   },
   {
-    "title": "The Rational Conclusion of Doomerism Is Violence",
-    "link": "https://www.campbellramble.ai/p/the-rational-conclusion",
+    "title": "Tax Wrapped 2025",
+    "link": "https://taxwrapped.com",
     "source": "Hacker News",
-    "published": "2026-04-13T16:37:10+00:00",
+    "published": "2026-04-13T17:52:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47754606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755604\">Comments</a>"
   },
   {
-    "title": "The Future of Everything Is Lies, I Guess: Safety",
-    "link": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+    "title": "B-trees and database indexes (2024)",
+    "link": "https://planetscale.com/blog/btrees-and-database-indexes",
     "source": "Hacker News",
-    "published": "2026-04-13T16:23:09+00:00",
+    "published": "2026-04-13T17:22:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47754379\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755209\">Comments</a>"
   },
   {
     "title": "Building a CLI for All of Cloudflare",
@@ -56,15 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>"
   },
   {
-    "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
-    "link": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
-    "source": "Hacker News",
-    "published": "2026-04-13T14:53:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47752884\">Comments</a>"
-  },
-  {
-    "title": "Make Tmux Pretty and Usable (2024)",
+    "title": "Make tmux pretty and usable (2024)",
     "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
     "source": "Hacker News",
     "published": "2026-04-13T14:48:55+00:00",
@@ -80,52 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47752466\">Comments</a>"
   },
   {
-    "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-    "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-    "source": "Hacker News",
-    "published": "2026-04-13T13:48:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751936\">Comments</a>"
-  },
-  {
-    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-    "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-    "source": "Hacker News",
-    "published": "2026-04-13T13:37:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751781\">Comments</a>"
-  },
-  {
-    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
-    "link": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-    "source": "Hacker News",
-    "published": "2026-04-13T13:23:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751621\">Comments</a>"
-  },
-  {
     "title": "Servo is now available on crates.io",
     "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
     "source": "Hacker News",
     "published": "2026-04-13T12:12:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47750872\">Comments</a>"
-  },
-  {
-    "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-    "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-    "source": "Hacker News",
-    "published": "2026-04-13T12:05:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47750821\">Comments</a>"
-  },
-  {
-    "title": "The economics of software teams: Why most engineering orgs are flying blind",
-    "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-    "source": "Hacker News",
-    "published": "2026-04-13T05:45:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47748064\">Comments</a>"
   },
   {
     "title": "All elementary functions from a single binary operator",
@@ -136,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47746610\">Comments</a>"
   },
   {
-    "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-    "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-    "source": "Hacker News",
-    "published": "2026-04-12T22:38:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47745284\">Comments</a>"
-  },
-  {
     "title": "Tracking down a 25% Regression on LLVM RISC-V",
     "link": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47743728\">Comments</a>"
   },
   {
-    "title": "DIY Soft Drinks",
-    "link": "https://blinry.org/diy-soft-drinks/",
+    "title": "An Introduction to Obsidian",
+    "link": "https://bryanhogan.com/blog/obsidian-introduction",
     "source": "Hacker News",
-    "published": "2026-04-12T16:38:43+00:00",
+    "published": "2026-04-11T11:35:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47741701\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47729694\">Comments</a>"
+  },
+  {
+    "title": "I Just Want Simple S3",
+    "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+    "source": "Hacker News",
+    "published": "2026-04-11T10:36:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47729350\">Comments</a>"
+  },
+  {
+    "title": "If you started a company two years ago, many assumptions are no longer true",
+    "link": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+    "source": "Hacker News",
+    "published": "2026-04-11T06:58:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47728192\">Comments</a>"
   }
 ]
