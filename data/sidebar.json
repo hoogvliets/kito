@@ -1,19 +1,67 @@
 [
   {
+    "title": "An AI Vibe Coding Horror Story",
+    "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "source": "Hacker News",
+    "published": "2026-04-14T08:35:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762901\">Comments</a>"
+  },
+  {
+    "title": "Backblaze has stopped backing up your data",
+    "link": "https://rareese.com/posts/backblaze/",
+    "source": "Hacker News",
+    "published": "2026-04-14T08:30:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762864\">Comments</a>"
+  },
+  {
+    "title": "Introspective Diffusion Language Models",
+    "link": "https://introspective-diffusion.github.io/",
+    "source": "Hacker News",
+    "published": "2026-04-14T07:57:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762641\">Comments</a>"
+  },
+  {
+    "title": "The secrets of the Shinkansen",
+    "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+    "source": "Hacker News",
+    "published": "2026-04-14T06:41:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762060\">Comments</a>"
+  },
+  {
+    "title": "Distributed DuckDB Instance",
+    "link": "https://github.com/citguru/openduck",
+    "source": "Hacker News",
+    "published": "2026-04-14T06:31:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761997\">Comments</a>"
+  },
+  {
+    "title": "Roblox devs now need a subscription to share their games freely",
+    "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+    "source": "Hacker News",
+    "published": "2026-04-14T06:04:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761825\">Comments</a>"
+  },
+  {
+    "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+    "link": "https://github.com/lasect/pg_6502",
+    "source": "Hacker News",
+    "published": "2026-04-14T05:46:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761723\">Comments</a>"
+  },
+  {
     "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
     "link": "https://kirancodes.me/posts/log-distributed-llms.html",
     "source": "Hacker News",
     "published": "2026-04-14T05:32:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47761625\">Comments</a>"
-  },
-  {
-    "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
-    "link": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
-    "source": "Hacker News",
-    "published": "2026-04-14T05:29:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761613\">Comments</a>"
   },
   {
     "title": "TanStack Start Now Support React Server Components",
@@ -24,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47761609\">Comments</a>"
   },
   {
-    "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-    "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
-    "source": "Hacker News",
-    "published": "2026-04-14T03:32:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760925\">Comments</a>"
-  },
-  {
-    "title": "A new spam policy for \"back button hijacking\"",
+    "title": "A new spam policy for \u201cback button hijacking\u201d",
     "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "source": "Hacker News",
     "published": "2026-04-14T03:06:27+00:00",
@@ -40,15 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47760764\">Comments</a>"
   },
   {
-    "title": "Sometimes powerful people just do dumb shit",
-    "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-    "source": "Hacker News",
-    "published": "2026-04-14T03:04:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760750\">Comments</a>"
-  },
-  {
-    "title": "DaVinci Resolve releases Photo Editor",
+    "title": "DaVinci Resolve \u2013 Photo",
     "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
     "source": "Hacker News",
     "published": "2026-04-14T02:25:15+00:00",
@@ -80,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>"
   },
   {
-    "title": "How to make Firefox builds 17% faster",
-    "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-    "source": "Hacker News",
-    "published": "2026-04-13T18:50:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756321\">Comments</a>"
-  },
-  {
     "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
     "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
     "source": "Hacker News",
@@ -104,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>"
   },
   {
-    "title": "Make tmux pretty and usable (2024)",
-    "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-    "source": "Hacker News",
-    "published": "2026-04-13T14:48:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47752819\">Comments</a>"
-  },
-  {
     "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
     "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
     "source": "Hacker News",
     "published": "2026-04-13T13:37:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47751781\">Comments</a>"
-  },
-  {
-    "title": "Write less code, be more responsible",
-    "link": "https://blog.orhun.dev/code-responsibly/",
-    "source": "Hacker News",
-    "published": "2026-04-11T09:20:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47728970\">Comments</a>"
   },
   {
     "title": "Design and implementation of DuckDB internals",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47718284\">Comments</a>"
   },
   {
-    "title": "Anastasia (1997) live action reference material",
-    "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+    "title": "A soft robot has no problem moving with no motor and no gears",
+    "link": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
     "source": "Hacker News",
-    "published": "2026-04-10T12:03:16+00:00",
+    "published": "2026-04-09T22:33:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716805\">Comments</a>"
-  },
-  {
-    "title": "I shipped a transaction bug, so I built a linter",
-    "link": "https://leonh.fr/posts/go-transaction-linter/",
-    "source": "Hacker News",
-    "published": "2026-04-10T09:01:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715389\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47711148\">Comments</a>"
   },
   {
     "title": "Rust Threads on the GPU",
