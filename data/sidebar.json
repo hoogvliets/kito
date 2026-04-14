@@ -1,11 +1,51 @@
 [
   {
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "source": "Hacker News",
+    "published": "2026-04-14T05:32:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761625\">Comments</a>"
+  },
+  {
+    "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
+    "link": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
+    "source": "Hacker News",
+    "published": "2026-04-14T05:29:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761613\">Comments</a>"
+  },
+  {
+    "title": "TanStack Start Now Support React Server Components",
+    "link": "https://tanstack.com/blog/react-server-components",
+    "source": "Hacker News",
+    "published": "2026-04-14T05:28:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761609\">Comments</a>"
+  },
+  {
+    "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+    "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+    "source": "Hacker News",
+    "published": "2026-04-14T03:32:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760925\">Comments</a>"
+  },
+  {
     "title": "A new spam policy for \"back button hijacking\"",
     "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "source": "Hacker News",
     "published": "2026-04-14T03:06:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47760764\">Comments</a>"
+  },
+  {
+    "title": "Sometimes powerful people just do dumb shit",
+    "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+    "source": "Hacker News",
+    "published": "2026-04-14T03:04:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760750\">Comments</a>"
   },
   {
     "title": "DaVinci Resolve releases Photo Editor",
@@ -32,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47759341\">Comments</a>"
   },
   {
-    "title": "The AI revolution in math has arrived",
-    "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-    "source": "Hacker News",
-    "published": "2026-04-13T23:26:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759292\">Comments</a>"
-  },
-  {
     "title": "GitHub Stacked PRs",
     "link": "https://github.github.com/gh-stack/",
     "source": "Hacker News",
     "published": "2026-04-13T20:36:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>"
-  },
-  {
-    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
-    "link": "https://amd-gaia.ai/docs",
-    "source": "Hacker News",
-    "published": "2026-04-13T19:28:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756772\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
-    "link": "https://www.ithihasas.in",
-    "source": "Hacker News",
-    "published": "2026-04-13T19:10:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756569\">Comments</a>"
   },
   {
     "title": "How to make Firefox builds 17% faster",
@@ -78,14 +94,6 @@
     "published": "2026-04-13T17:54:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47755629\">Comments</a>"
-  },
-  {
-    "title": "Building a CLI for all of Cloudflare",
-    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-    "source": "Hacker News",
-    "published": "2026-04-13T15:44:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47753689\">Comments</a>"
   },
   {
     "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
@@ -112,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47751781\">Comments</a>"
   },
   {
-    "title": "Servo is now available on crates.io",
-    "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "source": "Hacker News",
-    "published": "2026-04-13T12:12:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47750872\">Comments</a>"
-  },
-  {
-    "title": "Android now stops you sharing your location in photos",
-    "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-    "source": "Hacker News",
-    "published": "2026-04-13T11:48:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47750669\">Comments</a>"
-  },
-  {
-    "title": "Air Powered Segment Display? [video]",
-    "link": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-    "source": "Hacker News",
-    "published": "2026-04-11T09:32:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47729046\">Comments</a>"
-  },
-  {
     "title": "Write less code, be more responsible",
     "link": "https://blog.orhun.dev/code-responsibly/",
     "source": "Hacker News",
@@ -150,6 +134,22 @@
     "published": "2026-04-10T13:59:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47718284\">Comments</a>"
+  },
+  {
+    "title": "Anastasia (1997) live action reference material",
+    "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+    "source": "Hacker News",
+    "published": "2026-04-10T12:03:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716805\">Comments</a>"
+  },
+  {
+    "title": "I shipped a transaction bug, so I built a linter",
+    "link": "https://leonh.fr/posts/go-transaction-linter/",
+    "source": "Hacker News",
+    "published": "2026-04-10T09:01:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47715389\">Comments</a>"
   },
   {
     "title": "Rust Threads on the GPU",
