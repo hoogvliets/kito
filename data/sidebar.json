@@ -1,11 +1,43 @@
 [
   {
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "title": "Why it's impossible to measure England's coastline",
+    "link": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
     "source": "Hacker News",
-    "published": "2026-04-13T21:25:38+00:00",
+    "published": "2026-04-13T23:44:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47758028\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759416\">Comments</a>"
+  },
+  {
+    "title": "SnapState - Persistent state for AI agent workflows",
+    "link": "https://snapstate.dev",
+    "source": "Hacker News",
+    "published": "2026-04-13T23:42:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759400\">Comments</a>"
+  },
+  {
+    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+    "link": "https://ndaybench.winfunc.com",
+    "source": "Hacker News",
+    "published": "2026-04-13T21:54:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47758347\">Comments</a>"
+  },
+  {
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "link": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "source": "Hacker News",
+    "published": "2026-04-13T21:02:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47757775\">Comments</a>"
+  },
+  {
+    "title": "Mathematical Minimalism",
+    "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
+    "source": "Hacker News",
+    "published": "2026-04-13T20:45:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47757595\">Comments</a>"
   },
   {
     "title": "GitHub Stacked PRs",
@@ -14,14 +46,6 @@
     "published": "2026-04-13T20:36:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>"
-  },
-  {
-    "title": "Just Enough Chimera Linux",
-    "link": "https://www.dwarmstrong.org/chimera-install-zfs/",
-    "source": "Hacker News",
-    "published": "2026-04-13T19:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756876\">Comments</a>"
   },
   {
     "title": "(AMD) Build AI Agents That Run Locally",
@@ -64,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47755629\">Comments</a>"
   },
   {
-    "title": "Tax Wrapped 2025",
-    "link": "https://taxwrapped.com",
-    "source": "Hacker News",
-    "published": "2026-04-13T17:52:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755604\">Comments</a>"
-  },
-  {
-    "title": "B-trees and database indexes (2024)",
-    "link": "https://planetscale.com/blog/btrees-and-database-indexes",
-    "source": "Hacker News",
-    "published": "2026-04-13T17:22:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755209\">Comments</a>"
-  },
-  {
     "title": "Building a CLI for All of Cloudflare",
     "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
     "source": "Hacker News",
@@ -96,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>"
   },
   {
-    "title": "Make tmux pretty and usable (2024)",
-    "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-    "source": "Hacker News",
-    "published": "2026-04-13T14:48:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47752819\">Comments</a>"
-  },
-  {
-    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-    "link": "https://spectrum.ieee.org/mems-photonics",
-    "source": "Hacker News",
-    "published": "2026-04-13T14:26:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47752466\">Comments</a>"
-  },
-  {
     "title": "Servo is now available on crates.io",
     "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
     "source": "Hacker News",
     "published": "2026-04-13T12:12:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47750872\">Comments</a>"
-  },
-  {
-    "title": "All elementary functions from a single binary operator",
-    "link": "https://arxiv.org/abs/2603.21852",
-    "source": "Hacker News",
-    "published": "2026-04-13T01:49:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47746610\">Comments</a>"
   },
   {
     "title": "Tracking down a 25% Regression on LLVM RISC-V",
@@ -150,6 +134,22 @@
     "published": "2026-04-11T10:36:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47729350\">Comments</a>"
+  },
+  {
+    "title": "Air Powered Segment Display? [video]",
+    "link": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+    "source": "Hacker News",
+    "published": "2026-04-11T09:32:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47729046\">Comments</a>"
+  },
+  {
+    "title": "What We Learned Building a Rust Runtime for TypeScript",
+    "link": "https://encore.dev/blog/rust-runtime",
+    "source": "Hacker News",
+    "published": "2026-04-11T08:53:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47728823\">Comments</a>"
   },
   {
     "title": "If you started a company two years ago, many assumptions are no longer true",
