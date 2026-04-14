@@ -1,11 +1,43 @@
 [
   {
-    "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
-    "link": "https://news.ycombinator.com/item?id=47764215",
+    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+    "link": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
     "source": "Hacker News",
-    "published": "2026-04-14T11:31:19+00:00",
+    "published": "2026-04-14T15:06:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47764215\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47766611\">Comments</a>"
+  },
+  {
+    "title": "The Future of Everything Is Lies, I Guess: Work",
+    "link": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+    "source": "Hacker News",
+    "published": "2026-04-14T15:00:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47766550\">Comments</a>"
+  },
+  {
+    "title": "Rare concert records going on Internet Archive",
+    "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "source": "Hacker News",
+    "published": "2026-04-14T13:46:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47765604\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+    "link": "https://github.com/kontext-dev/kontext-cli",
+    "source": "Hacker News",
+    "published": "2026-04-14T13:26:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47765374\">Comments</a>"
+  },
+  {
+    "title": "The Case Against Gameplay Loops",
+    "link": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
+    "source": "Hacker News",
+    "published": "2026-04-14T11:26:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47764164\">Comments</a>"
   },
   {
     "title": "NimConf 2026: Dates Announced, Registrations Open",
@@ -56,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47761997\">Comments</a>"
   },
   {
-    "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-    "link": "https://github.com/lasect/pg_6502",
-    "source": "Hacker News",
-    "published": "2026-04-14T05:46:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761723\">Comments</a>"
-  },
-  {
-    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
-    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
-    "source": "Hacker News",
-    "published": "2026-04-14T05:32:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761625\">Comments</a>"
-  },
-  {
     "title": "A new spam policy for \u201cback button hijacking\u201d",
     "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "source": "Hacker News",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47759709\">Comments</a>"
   },
   {
-    "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
-    "link": "https://github.com/fabienmillet/WiiFin",
-    "source": "Hacker News",
-    "published": "2026-04-13T23:33:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759341\">Comments</a>"
-  },
-  {
     "title": "GitHub Stacked PRs",
     "link": "https://github.github.com/gh-stack/",
     "source": "Hacker News",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47755629\">Comments</a>"
   },
   {
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "source": "Hacker News",
-    "published": "2026-04-13T15:31:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>"
-  },
-  {
     "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
     "link": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47722629\">Comments</a>"
   },
   {
-    "title": "A soft robot has no problem moving with no motor and no gears",
-    "link": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+    "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+    "link": "https://cfallin.org/blog/2026/04/09/aegraph/",
     "source": "Hacker News",
-    "published": "2026-04-09T22:33:41+00:00",
+    "published": "2026-04-10T12:37:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47711148\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47717192\">Comments</a>"
   },
   {
-    "title": "Lumina \u2013 a statically typed web-native language for JavaScript and WASM",
-    "link": "https://github.com/nyigoro/lumina-lang",
+    "title": "Nucleus Nouns",
+    "link": "https://ben-mini.com/2026/nucleus-nouns",
     "source": "Hacker News",
-    "published": "2026-04-09T16:02:11+00:00",
+    "published": "2026-04-10T12:06:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47705390\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47716840\">Comments</a>"
   },
   {
     "title": "The M\u00d7N problem of tool calling and open-source models",
