@@ -1,11 +1,35 @@
 [
   {
-    "title": "An AI Vibe Coding Horror Story",
-    "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
+    "link": "https://news.ycombinator.com/item?id=47764215",
     "source": "Hacker News",
-    "published": "2026-04-14T08:35:45+00:00",
+    "published": "2026-04-14T11:31:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762901\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47764215\">Comments</a>"
+  },
+  {
+    "title": "NimConf 2026: Dates Announced, Registrations Open",
+    "link": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+    "source": "Hacker News",
+    "published": "2026-04-14T11:19:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47764098\">Comments</a>"
+  },
+  {
+    "title": "What is jj and why should I care?",
+    "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+    "source": "Hacker News",
+    "published": "2026-04-14T10:33:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47763759\">Comments</a>"
+  },
+  {
+    "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+    "link": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+    "source": "Hacker News",
+    "published": "2026-04-14T08:52:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762994\">Comments</a>"
   },
   {
     "title": "Backblaze has stopped backing up your data",
@@ -24,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47762641\">Comments</a>"
   },
   {
-    "title": "The secrets of the Shinkansen",
-    "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-    "source": "Hacker News",
-    "published": "2026-04-14T06:41:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47762060\">Comments</a>"
-  },
-  {
     "title": "Distributed DuckDB Instance",
     "link": "https://github.com/citguru/openduck",
     "source": "Hacker News",
     "published": "2026-04-14T06:31:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47761997\">Comments</a>"
-  },
-  {
-    "title": "Roblox devs now need a subscription to share their games freely",
-    "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
-    "source": "Hacker News",
-    "published": "2026-04-14T06:04:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761825\">Comments</a>"
   },
   {
     "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
@@ -62,14 +70,6 @@
     "published": "2026-04-14T05:32:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47761625\">Comments</a>"
-  },
-  {
-    "title": "TanStack Start Now Support React Server Components",
-    "link": "https://tanstack.com/blog/react-server-components",
-    "source": "Hacker News",
-    "published": "2026-04-14T05:28:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47761609\">Comments</a>"
   },
   {
     "title": "A new spam policy for \u201cback button hijacking\u201d",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47753472\">Comments</a>"
   },
   {
-    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-    "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+    "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+    "link": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
     "source": "Hacker News",
-    "published": "2026-04-13T13:37:33+00:00",
+    "published": "2026-04-10T19:33:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751781\">Comments</a>"
-  },
-  {
-    "title": "Design and implementation of DuckDB internals",
-    "link": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-    "source": "Hacker News",
-    "published": "2026-04-10T13:59:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47718284\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47722629\">Comments</a>"
   },
   {
     "title": "A soft robot has no problem moving with no motor and no gears",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47711148\">Comments</a>"
   },
   {
-    "title": "Rust Threads on the GPU",
-    "link": "https://www.vectorware.com/blog/threads-on-gpu/",
+    "title": "Lumina \u2013 a statically typed web-native language for JavaScript and WASM",
+    "link": "https://github.com/nyigoro/lumina-lang",
     "source": "Hacker News",
-    "published": "2026-04-09T19:20:10+00:00",
+    "published": "2026-04-09T16:02:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47708457\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47705390\">Comments</a>"
+  },
+  {
+    "title": "The M\u00d7N problem of tool calling and open-source models",
+    "link": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+    "source": "Hacker News",
+    "published": "2026-04-09T15:07:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47704729\">Comments</a>"
   }
 ]
