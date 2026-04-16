@@ -1,22 +1,14 @@
 [
   {
-    "title": "IPv8 Proposal",
-    "link": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+    "title": "RamAIn (YC W26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
     "source": "Hacker News",
-    "published": "2026-04-16T05:07:05+00:00",
+    "published": "2026-04-16T07:01:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788857\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47789607\">Comments</a>"
   },
   {
-    "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
-    "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-    "source": "Hacker News",
-    "published": "2026-04-16T05:05:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788845\">Comments</a>"
-  },
-  {
-    "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
     "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
     "source": "Hacker News",
     "published": "2026-04-16T05:01:05+00:00",
@@ -56,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>"
   },
   {
-    "title": "Stop Using Ollama",
-    "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "title": "North American English Dialects",
+    "link": "https://aschmann.net/AmEng/",
     "source": "Hacker News",
-    "published": "2026-04-16T03:35:11+00:00",
+    "published": "2026-04-16T03:38:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788385\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788398\">Comments</a>"
   },
   {
     "title": "I made a terminal pager",
@@ -70,14 +62,6 @@
     "published": "2026-04-15T22:27:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>"
-  },
-  {
-    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-    "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-    "source": "Hacker News",
-    "published": "2026-04-15T21:48:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785738\">Comments</a>"
   },
   {
     "title": "ChatGPT for Excel",
@@ -96,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>"
   },
   {
-    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-    "link": "https://github.com/saffron-health/libretto",
-    "source": "Hacker News",
-    "published": "2026-04-15T15:57:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47780971\">Comments</a>"
-  },
-  {
     "title": "Cal.com is going closed source",
     "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
     "source": "Hacker News",
@@ -112,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>"
   },
   {
-    "title": "Retrofitting JIT Compilers into C Interpreters",
-    "link": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+    "title": "IPv6 traffic crosses the 50% mark",
+    "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
     "source": "Hacker News",
-    "published": "2026-04-15T12:00:24+00:00",
+    "published": "2026-04-15T11:59:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47777897\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47777894\">Comments</a>"
   },
   {
     "title": "Cybersecurity looks like proof of work now",
@@ -126,6 +102,14 @@
     "published": "2026-04-14T18:08:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>"
+  },
+  {
+    "title": "Pokemon Evolution vs Darwinian Evolution",
+    "link": "https://superheroetc.wordpress.com/2017/05/31/pokemon-evolution-vs-darwinian-evolution/",
+    "source": "Hacker News",
+    "published": "2026-04-13T16:02:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47754055\">Comments</a>"
   },
   {
     "title": "Too much discussion of the XOR swap trick",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47747770\">Comments</a>"
   },
   {
-    "title": "Fast and Easy Levenshtein distance using a Trie",
+    "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
     "link": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
     "source": "Hacker News",
     "published": "2026-04-12T12:00:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47738673\">Comments</a>"
+  },
+  {
+    "title": "FIXAPL",
+    "link": "https://fixapl.netlify.app/",
+    "source": "Hacker News",
+    "published": "2026-04-12T06:36:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47736738\">Comments</a>"
+  },
+  {
+    "title": "Rewriting a 20-year-old Python library",
+    "link": "https://www.b-list.org/weblog/2026/mar/23/20-year-library/",
+    "source": "Hacker News",
+    "published": "2026-04-11T14:12:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47730799\">Comments</a>"
   }
 ]
