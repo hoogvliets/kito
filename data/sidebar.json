@@ -1,5 +1,21 @@
 [
   {
+    "title": "Codex for Almost Everything",
+    "link": "https://openai.com/index/codex-for-almost-everything/",
+    "source": "Hacker News",
+    "published": "2026-04-16T17:12:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>"
+  },
+  {
+    "title": "Japan implements language proficiency requirements for certain visa applicants",
+    "link": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+    "source": "Hacker News",
+    "published": "2026-04-16T16:53:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47796197\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
     "link": "https://www.zatanna.ai/kampala",
     "source": "Hacker News",
@@ -8,20 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47794514\">Comments</a>"
   },
   {
-    "title": "Laravel raised money and now injects ads directly into your agent",
-    "link": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "link": "https://andonlabs.com/blog/andon-market-launch",
     "source": "Hacker News",
-    "published": "2026-04-16T14:51:13+00:00",
+    "published": "2026-04-16T15:13:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793926\">Comments</a>"
-  },
-  {
-    "title": "Claude Opus 4.7 Model Card",
-    "link": "https://anthropic.com/claude-opus-4-7-system-card",
-    "source": "Hacker News",
-    "published": "2026-04-16T14:32:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793546\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47794391\">Comments</a>"
   },
   {
     "title": "Claude Opus 4.7",
@@ -32,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>"
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
     "source": "Hacker News",
     "published": "2026-04-16T13:36:27+00:00",
@@ -40,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792764\">Comments</a>"
   },
   {
-    "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
     "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
     "source": "Hacker News",
     "published": "2026-04-16T13:32:13+00:00",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792525\">Comments</a>"
   },
   {
-    "title": "Mozilla Thunderbolt",
-    "link": "https://www.thunderbolt.io/",
+    "title": "Artifacts: Versioned storage that speaks Git",
+    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
     "source": "Hacker News",
-    "published": "2026-04-16T13:01:36+00:00",
+    "published": "2026-04-16T13:02:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792368\">Comments</a>"
-  },
-  {
-    "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-    "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-    "source": "Hacker News",
-    "published": "2026-04-16T12:13:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47791871\">Comments</a>"
-  },
-  {
-    "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-    "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-    "source": "Hacker News",
-    "published": "2026-04-16T10:57:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47791282\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792374\">Comments</a>"
   },
   {
     "title": "AI cybersecurity is not proof of work",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47777894\">Comments</a>"
   },
   {
-    "title": "PHP 8.6 Closure Optimizations",
-    "link": "https://wiki.php.net/rfc/closure-optimizations",
+    "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
+    "link": "https://github.com/AgentSeal/codeburn",
     "source": "Hacker News",
-    "published": "2026-04-14T10:59:33+00:00",
+    "published": "2026-04-13T22:57:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47763959\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759035\">Comments</a>"
   },
   {
     "title": "Six Characters",
@@ -150,6 +142,14 @@
     "published": "2026-04-13T09:24:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47749659\">Comments</a>"
+  },
+  {
+    "title": "The paper computer",
+    "link": "https://jsomers.net/blog/the-paper-computer",
+    "source": "Hacker News",
+    "published": "2026-04-13T04:57:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47747770\">Comments</a>"
   },
   {
     "title": "Modern Microprocessors \u2013 A 90-Minute Guide",
