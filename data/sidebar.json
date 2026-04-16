@@ -1,6 +1,22 @@
 [
   {
-    "title": "YouTube now lets you turn off Shorts",
+    "title": "Show HN: Hiraeth \u2013 AWS Emulator",
+    "link": "https://github.com/SethPyle376/hiraeth",
+    "source": "Hacker News",
+    "published": "2026-04-16T02:28:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47787947\">Comments</a>"
+  },
+  {
+    "title": "Stealth signals are bypassing Iran\u2019s internet blackout",
+    "link": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+    "source": "Hacker News",
+    "published": "2026-04-16T02:16:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47787877\">Comments</a>"
+  },
+  {
+    "title": "YouTube users get option to set their Shorts time limit to zero minutes",
     "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
     "source": "Hacker News",
     "published": "2026-04-15T23:36:56+00:00",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>"
   },
   {
-    "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-    "link": "https://www.bbc.com/news/technology-39576394",
-    "source": "Hacker News",
-    "published": "2026-04-15T22:05:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785948\">Comments</a>"
-  },
-  {
     "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
     "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
     "source": "Hacker News",
     "published": "2026-04-15T21:48:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47785738\">Comments</a>"
-  },
-  {
-    "title": "Hacker News CLI",
-    "link": "https://pythonhosted.org/hackernews-cli/commands.html",
-    "source": "Hacker News",
-    "published": "2026-04-15T21:35:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785582\">Comments</a>"
   },
   {
     "title": "ChatGPT for Excel",
@@ -56,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47784244\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who is using OpenClaw?",
-    "link": "https://news.ycombinator.com/item?id=47783940",
-    "source": "Hacker News",
-    "published": "2026-04-15T19:22:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47783940\">Comments</a>"
-  },
-  {
     "title": "Live Nation illegally monopolized ticketing market, jury finds",
     "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
     "source": "Hacker News",
@@ -80,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>"
   },
   {
-    "title": "Adaptional (YC S25) is hiring AI engineers",
-    "link": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+    "title": "The Gemini app is now on Mac",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
     "source": "Hacker News",
-    "published": "2026-04-15T17:00:56+00:00",
+    "published": "2026-04-15T17:25:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47781912\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47782256\">Comments</a>"
   },
   {
     "title": "Cal.com is going closed source",
@@ -94,6 +86,14 @@
     "published": "2026-04-15T15:26:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>"
+  },
+  {
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+    "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "source": "Hacker News",
+    "published": "2026-04-15T13:47:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47778920\">Comments</a>"
   },
   {
     "title": "God sleeps in the minerals",
@@ -112,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47777897\">Comments</a>"
   },
   {
-    "title": "Want to write a compiler? Just read these two papers (2008)",
-    "link": "https://prog21.dadgum.com/30.html",
+    "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+    "link": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
     "source": "Hacker News",
-    "published": "2026-04-15T09:41:19+00:00",
+    "published": "2026-04-15T08:05:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47776796\">Comments</a>"
-  },
-  {
-    "title": "Good sleep, good learning, good life (2012)",
-    "link": "https://super-memory.com/articles/sleep.htm",
-    "source": "Hacker News",
-    "published": "2026-04-15T09:11:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47776557\">Comments</a>"
-  },
-  {
-    "title": "How can I keep from singing?",
-    "link": "https://blog.danieljanus.pl/singing/",
-    "source": "Hacker News",
-    "published": "2026-04-14T18:18:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47769245\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47776035\">Comments</a>"
   },
   {
     "title": "Cybersecurity looks like proof of work now",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>"
   },
   {
-    "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-    "link": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+    "title": "Introduction to Spherical Harmonics for Graphics Programmers",
+    "link": "https://gpfault.net/posts/sph.html",
     "source": "Hacker News",
-    "published": "2026-04-12T10:27:08+00:00",
+    "published": "2026-04-13T09:05:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738081\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47749548\">Comments</a>"
   },
   {
-    "title": "PBS Nova: Terror in Space (1998)",
-    "link": "https://www.pbs.org/wgbh/nova/mir/",
+    "title": "The paper computer",
+    "link": "https://jsomers.net/blog/the-paper-computer",
     "source": "Hacker News",
-    "published": "2026-04-11T23:17:50+00:00",
+    "published": "2026-04-13T04:57:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47734815\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47747770\">Comments</a>"
+  },
+  {
+    "title": "Intel Xpress Resurrection: Reviving a Forgotten EISA Beast",
+    "link": "https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/",
+    "source": "Hacker News",
+    "published": "2026-04-12T09:32:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47737663\">Comments</a>"
+  },
+  {
+    "title": "A Mercury Rover Could Explore the Planet by Sticking to the Terminator",
+    "link": "https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+    "source": "Hacker News",
+    "published": "2026-04-10T17:02:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47720941\">Comments</a>"
   }
 ]
