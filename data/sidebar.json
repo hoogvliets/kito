@@ -1,11 +1,107 @@
 [
   {
+    "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
+    "link": "https://www.zatanna.ai/kampala",
+    "source": "Hacker News",
+    "published": "2026-04-16T15:19:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47794514\">Comments</a>"
+  },
+  {
+    "title": "Laravel raised money and now injects ads directly into your agent",
+    "link": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+    "source": "Hacker News",
+    "published": "2026-04-16T14:51:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793926\">Comments</a>"
+  },
+  {
+    "title": "Claude Opus 4.7 Model Card",
+    "link": "https://anthropic.com/claude-opus-4-7-system-card",
+    "source": "Hacker News",
+    "published": "2026-04-16T14:32:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793546\">Comments</a>"
+  },
+  {
+    "title": "Claude Opus 4.7",
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "source": "Hacker News",
+    "published": "2026-04-16T14:23:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+    "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:36:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792764\">Comments</a>"
+  },
+  {
+    "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+    "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:32:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792718\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare Email Service",
+    "link": "https://blog.cloudflare.com/email-for-agents/",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:21:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792593\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "link": "https://blog.cloudflare.com/ai-platform/",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:17:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792538\">Comments</a>"
+  },
+  {
+    "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+    "link": "https://github.com/SeanFDZ/macmind",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:16:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792525\">Comments</a>"
+  },
+  {
+    "title": "Mozilla Thunderbolt",
+    "link": "https://www.thunderbolt.io/",
+    "source": "Hacker News",
+    "published": "2026-04-16T13:01:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792368\">Comments</a>"
+  },
+  {
+    "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+    "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+    "source": "Hacker News",
+    "published": "2026-04-16T12:13:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47791871\">Comments</a>"
+  },
+  {
     "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
     "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
     "source": "Hacker News",
     "published": "2026-04-16T10:57:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47791282\">Comments</a>"
+  },
+  {
+    "title": "AI cybersecurity is not proof of work",
+    "link": "https://antirez.com/news/163",
+    "source": "Hacker News",
+    "published": "2026-04-16T10:48:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47791236\">Comments</a>"
   },
   {
     "title": "Codex Hacked a Samsung TV",
@@ -16,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47791212\">Comments</a>"
   },
   {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-    "source": "Hacker News",
-    "published": "2026-04-16T07:01:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47789607\">Comments</a>"
-  },
-  {
-    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-    "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-    "source": "Hacker News",
-    "published": "2026-04-16T05:01:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788818\">Comments</a>"
-  },
-  {
-    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-    "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-    "source": "Hacker News",
-    "published": "2026-04-16T04:22:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788633\">Comments</a>"
-  },
-  {
     "title": "Darkbloom \u2013 Private inference on idle Macs",
     "link": "https://darkbloom.dev",
     "source": "Hacker News",
     "published": "2026-04-16T04:06:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47788542\">Comments</a>"
-  },
-  {
-    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-    "link": "https://github.com/Nightmare-Eclipse/RedSun",
-    "source": "Hacker News",
-    "published": "2026-04-16T03:54:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788473\">Comments</a>"
   },
   {
     "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
@@ -64,38 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>"
   },
   {
-    "title": "North American English Dialects",
-    "link": "https://aschmann.net/AmEng/",
-    "source": "Hacker News",
-    "published": "2026-04-16T03:38:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788398\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT for Excel",
-    "link": "https://chatgpt.com/apps/spreadsheets/",
-    "source": "Hacker News",
-    "published": "2026-04-15T21:21:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785397\">Comments</a>"
-  },
-  {
-    "title": "Google broke its promise to me \u2013 now ICE has my data",
-    "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-    "source": "Hacker News",
-    "published": "2026-04-15T17:44:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>"
-  },
-  {
-    "title": "Cal.com is going closed source",
-    "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
-    "source": "Hacker News",
-    "published": "2026-04-15T15:26:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>"
-  },
-  {
     "title": "IPv6 traffic crosses the 50% mark",
     "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
     "source": "Hacker News",
@@ -104,59 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47777894\">Comments</a>"
   },
   {
-    "title": "Cybersecurity looks like proof of work now",
-    "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+    "title": "PHP 8.6 Closure Optimizations",
+    "link": "https://wiki.php.net/rfc/closure-optimizations",
     "source": "Hacker News",
-    "published": "2026-04-14T18:08:14+00:00",
+    "published": "2026-04-14T10:59:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47763959\">Comments</a>"
   },
   {
-    "title": "Too much discussion of the XOR swap trick",
-    "link": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+    "title": "Six Characters",
+    "link": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
     "source": "Hacker News",
-    "published": "2026-04-13T11:22:22+00:00",
+    "published": "2026-04-13T09:24:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47750486\">Comments</a>"
-  },
-  {
-    "title": "The paper computer",
-    "link": "https://jsomers.net/blog/the-paper-computer",
-    "source": "Hacker News",
-    "published": "2026-04-13T04:57:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47747770\">Comments</a>"
-  },
-  {
-    "title": "The Death of Character in Game Console Interfaces",
-    "link": "https://vale.rocks/posts/game-console-interfaces",
-    "source": "Hacker News",
-    "published": "2026-04-12T21:38:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47744824\">Comments</a>"
-  },
-  {
-    "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
-    "link": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
-    "source": "Hacker News",
-    "published": "2026-04-12T12:00:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738673\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47749659\">Comments</a>"
   },
   {
     "title": "Modern Microprocessors \u2013 A 90-Minute Guide",
-    "link": "https://www.lighterra.com/articles/",
+    "link": "https://www.lighterra.com/papers/modernmicroprocessors/",
     "source": "Hacker News",
     "published": "2026-04-12T09:05:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47737499\">Comments</a>"
-  },
-  {
-    "title": "FIXAPL",
-    "link": "https://fixapl.netlify.app/",
-    "source": "Hacker News",
-    "published": "2026-04-12T06:36:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47736738\">Comments</a>"
   }
 ]
