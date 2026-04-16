@@ -1,19 +1,59 @@
 [
   {
+    "title": "YouTube now lets you turn off Shorts",
+    "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+    "source": "Hacker News",
+    "published": "2026-04-15T23:36:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47786791\">Comments</a>"
+  },
+  {
+    "title": "I made a terminal pager",
+    "link": "https://theleo.zone/posts/pager/",
+    "source": "Hacker News",
+    "published": "2026-04-15T22:27:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>"
+  },
+  {
+    "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+    "link": "https://www.bbc.com/news/technology-39576394",
+    "source": "Hacker News",
+    "published": "2026-04-15T22:05:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785948\">Comments</a>"
+  },
+  {
+    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+    "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+    "source": "Hacker News",
+    "published": "2026-04-15T21:48:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785738\">Comments</a>"
+  },
+  {
+    "title": "Hacker News CLI",
+    "link": "https://pythonhosted.org/hackernews-cli/commands.html",
+    "source": "Hacker News",
+    "published": "2026-04-15T21:35:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785582\">Comments</a>"
+  },
+  {
+    "title": "ChatGPT for Excel",
+    "link": "https://chatgpt.com/apps/spreadsheets/",
+    "source": "Hacker News",
+    "published": "2026-04-15T21:21:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47785397\">Comments</a>"
+  },
+  {
     "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
     "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
     "source": "Hacker News",
     "published": "2026-04-15T19:45:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47784244\">Comments</a>"
-  },
-  {
-    "title": "Why are Flock employees watching our children?",
-    "link": "https://substack.com/home/post/p-193593234",
-    "source": "Hacker News",
-    "published": "2026-04-15T19:30:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47784045\">Comments</a>"
   },
   {
     "title": "Ask HN: Who is using OpenClaw?",
@@ -32,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47783713\">Comments</a>"
   },
   {
-    "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
-    "link": "https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases",
-    "source": "Hacker News",
-    "published": "2026-04-15T18:11:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47782972\">Comments</a>"
-  },
-  {
     "title": "Google broke its promise to me \u2013 now ICE has my data",
     "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
     "source": "Hacker News",
@@ -54,14 +86,6 @@
     "published": "2026-04-15T17:00:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47781912\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-    "link": "https://github.com/saffron-health/libretto",
-    "source": "Hacker News",
-    "published": "2026-04-15T15:57:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47780971\">Comments</a>"
   },
   {
     "title": "Cal.com is going closed source",
@@ -80,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47778475\">Comments</a>"
   },
   {
-    "title": "Do you even need a database?",
-    "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+    "title": "Retrofitting JIT Compilers into C Interpreters",
+    "link": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
     "source": "Hacker News",
-    "published": "2026-04-15T12:26:11+00:00",
+    "published": "2026-04-15T12:00:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47778086\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47777897\">Comments</a>"
   },
   {
     "title": "Want to write a compiler? Just read these two papers (2008)",
@@ -104,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47776557\">Comments</a>"
   },
   {
-    "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-    "link": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+    "title": "How can I keep from singing?",
+    "link": "https://blog.danieljanus.pl/singing/",
     "source": "Hacker News",
-    "published": "2026-04-15T08:05:18+00:00",
+    "published": "2026-04-14T18:18:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47776035\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47769245\">Comments</a>"
   },
   {
     "title": "Cybersecurity looks like proof of work now",
@@ -120,23 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>"
   },
   {
-    "title": "Costasiella kuroshimae",
-    "link": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-    "source": "Hacker News",
-    "published": "2026-04-12T15:26:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47740840\">Comments</a>"
-  },
-  {
-    "title": "Golden eagles' return to English skies",
-    "link": "https://www.bbc.co.uk/news/articles/cje4zlxqkqdo",
-    "source": "Hacker News",
-    "published": "2026-04-12T11:24:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47738420\">Comments</a>"
-  },
-  {
-    "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+    "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
     "link": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
     "source": "Hacker News",
     "published": "2026-04-12T10:27:08+00:00",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47738081\">Comments</a>"
   },
   {
-    "title": "Forcing an inversion of control on the SaaS stack",
-    "link": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
+    "title": "PBS Nova: Terror in Space (1998)",
+    "link": "https://www.pbs.org/wgbh/nova/mir/",
     "source": "Hacker News",
-    "published": "2026-04-10T17:01:26+00:00",
+    "published": "2026-04-11T23:17:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47720926\">Comments</a>"
-  },
-  {
-    "title": "Show HN: GNU grep as a PHP extension",
-    "link": "https://github.com/hparadiz/ext-gnu-grep",
-    "source": "Hacker News",
-    "published": "2026-04-10T05:54:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47714142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47734815\">Comments</a>"
   }
 ]
