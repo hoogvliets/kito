@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+    "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+    "source": "Hacker News",
+    "published": "2026-04-17T03:59:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802330\">Comments</a>"
+  },
+  {
+    "title": "Human Accelerated Region 1",
+    "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+    "source": "Hacker News",
+    "published": "2026-04-17T03:55:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802312\">Comments</a>"
+  },
+  {
+    "title": "Discourse Is Not Going Closed Source",
+    "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+    "source": "Hacker News",
+    "published": "2026-04-17T03:36:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802233\">Comments</a>"
+  },
+  {
     "title": "Substrate AI Is Hiring Harness Engineers",
     "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
     "source": "Hacker News",
@@ -8,7 +32,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47802016\">Comments</a>"
   },
   {
-    "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "title": "US Bill Mandates On-Device Age Verification",
+    "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+    "source": "Hacker News",
+    "published": "2026-04-17T02:50:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47801991\">Comments</a>"
+  },
+  {
+    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
     "source": "Hacker News",
     "published": "2026-04-17T00:37:47+00:00",
@@ -48,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>"
   },
   {
-    "title": "GPT\u2011Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind/",
-    "source": "Hacker News",
-    "published": "2026-04-16T19:24:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47798244\">Comments</a>"
-  },
-  {
     "title": "Playdate\u2019s handheld changed how Duke University teaches game design",
     "link": "https://news.play.date/news/duke-playdate-education/",
     "source": "Hacker News",
@@ -72,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>"
   },
   {
-    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-    "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-    "source": "Hacker News",
-    "published": "2026-04-16T17:37:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47796830\">Comments</a>"
-  },
-  {
     "title": "Codex for almost everything",
     "link": "https://openai.com/index/codex-for-almost-everything/",
     "source": "Hacker News",
     "published": "2026-04-16T17:12:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
-    "link": "https://www.zatanna.ai/kampala",
-    "source": "Hacker News",
-    "published": "2026-04-16T15:19:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47794514\">Comments</a>"
   },
   {
     "title": "Claude Opus 4.7",
@@ -112,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792764\">Comments</a>"
   },
   {
-    "title": "The future of everything is lies, I guess: Where do we go from here?",
-    "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-    "source": "Hacker News",
-    "published": "2026-04-16T13:32:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792718\">Comments</a>"
-  },
-  {
     "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "link": "https://blog.cloudflare.com/ai-platform/",
     "source": "Hacker News",
     "published": "2026-04-16T13:17:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792538\">Comments</a>"
-  },
-  {
-    "title": "Artifacts: Versioned storage that speaks Git",
-    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-    "source": "Hacker News",
-    "published": "2026-04-16T13:02:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792374\">Comments</a>"
   },
   {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>"
   },
   {
-    "title": "288,493 Requests \u2013 How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
-    "link": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
+    "title": "A Python Interpreter Written in Python",
+    "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
     "source": "Hacker News",
-    "published": "2026-04-13T13:22:52+00:00",
+    "published": "2026-04-13T17:25:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751608\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755261\">Comments</a>"
   },
   {
     "title": "ReBot-DevArm: open-source Robotic Arm",
@@ -158,5 +150,13 @@
     "published": "2026-04-13T11:39:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47750600\">Comments</a>"
+  },
+  {
+    "title": "A Git helper tool that breaks large merges into parallelizable tasks",
+    "link": "https://github.com/mwallner/mergetopus",
+    "source": "Hacker News",
+    "published": "2026-04-13T07:12:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47748733\">Comments</a>"
   }
 ]
