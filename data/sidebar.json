@@ -8,6 +8,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47803844\">Comments</a>"
   },
   {
+    "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+    "link": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+    "source": "Hacker News",
+    "published": "2026-04-17T08:32:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47803745\">Comments</a>"
+  },
+  {
     "title": "FIM \u2013 Linux framebuffer image viewer",
     "link": "https://www.nongnu.org/fbi-improved/",
     "source": "Hacker News",
@@ -16,28 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47803323\">Comments</a>"
   },
   {
+    "title": "PROBoter \u2013 Open-source platform for automated PCB analysis",
+    "link": "https://www.schutzwerk.com/en/blog/proboter-01/",
+    "source": "Hacker News",
+    "published": "2026-04-17T06:19:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802971\">Comments</a>"
+  },
+  {
     "title": "Human Accelerated Region 1",
     "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
     "source": "Hacker News",
     "published": "2026-04-17T03:55:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47802312\">Comments</a>"
-  },
-  {
-    "title": "Discourse Is Not Going Closed Source",
-    "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-    "source": "Hacker News",
-    "published": "2026-04-17T03:36:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802233\">Comments</a>"
-  },
-  {
-    "title": "Substrate AI Is Hiring Harness Engineers",
-    "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-    "source": "Hacker News",
-    "published": "2026-04-17T02:53:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802016\">Comments</a>"
   },
   {
     "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792764\">Comments</a>"
   },
   {
-    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-    "link": "https://blog.cloudflare.com/ai-platform/",
-    "source": "Hacker News",
-    "published": "2026-04-16T13:17:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47792538\">Comments</a>"
-  },
-  {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "link": "https://cadquery.github.io/",
     "source": "Hacker News",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47759436\">Comments</a>"
   },
   {
-    "title": "Building a Web Page That Edits Itself",
-    "link": "https://www.patrickweaver.net/blog/one-pager-self-editing-html/",
-    "source": "Hacker News",
-    "published": "2026-04-13T18:42:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47756239\">Comments</a>"
-  },
-  {
     "title": "A Python Interpreter Written in Python",
     "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
     "source": "Hacker News",
     "published": "2026-04-13T17:25:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47755261\">Comments</a>"
+  },
+  {
+    "title": "Average Is All You Need",
+    "link": "https://rawquery.dev/blog/average-is-all-you-need",
+    "source": "Hacker News",
+    "published": "2026-04-13T16:36:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47754603\">Comments</a>"
+  },
+  {
+    "title": "\u4e2d\u6587 Literacy Speedrun II: Character Cyclotron",
+    "link": "https://blog.kevinzwu.com/character-cyclotron/",
+    "source": "Hacker News",
+    "published": "2026-04-13T12:28:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751011\">Comments</a>"
   },
   {
     "title": "ReBot-DevArm: open-source Robotic Arm",
