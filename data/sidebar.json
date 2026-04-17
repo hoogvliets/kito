@@ -1,19 +1,19 @@
 [
   {
-    "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
-    "link": "https://www.bbc.com/news/articles/clyrd818gd2o",
+    "title": "Substrate AI Is Hiring Harness Engineers",
+    "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
     "source": "Hacker News",
-    "published": "2026-04-16T23:29:07+00:00",
+    "published": "2026-04-17T02:53:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47800839\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47802016\">Comments</a>"
   },
   {
-    "title": "Everything we like is a psyop",
-    "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+    "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
     "source": "Hacker News",
-    "published": "2026-04-16T23:15:33+00:00",
+    "published": "2026-04-17T00:37:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47801255\">Comments</a>"
   },
   {
     "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
@@ -40,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47799573\">Comments</a>"
   },
   {
-    "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
-    "link": "https://news.ycombinator.com/item?id=47799454",
-    "source": "Hacker News",
-    "published": "2026-04-16T21:00:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47799454\">Comments</a>"
-  },
-  {
     "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
     "link": "https://clojure.org/about/documentary",
     "source": "Hacker News",
@@ -62,6 +54,14 @@
     "published": "2026-04-16T19:24:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47798244\">Comments</a>"
+  },
+  {
+    "title": "Playdate\u2019s handheld changed how Duke University teaches game design",
+    "link": "https://news.play.date/news/duke-playdate-education/",
+    "source": "Hacker News",
+    "published": "2026-04-16T19:18:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47798176\">Comments</a>"
   },
   {
     "title": "Android CLI: Build Android apps 3x faster using any agent",
@@ -86,14 +86,6 @@
     "published": "2026-04-16T17:12:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Marky \u2013 A lightweight Markdown viewer for agentic coding",
-    "link": "https://github.com/GRVYDEV/marky",
-    "source": "Hacker News",
-    "published": "2026-04-16T16:08:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47795468\">Comments</a>"
   },
   {
     "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47792374\">Comments</a>"
   },
   {
-    "title": "Python Package Compiler:Package Matlab Programs for Deployment as Python Package",
-    "link": "https://www.mathworks.com/help/compiler_sdk/ml_code/pythonpackagecompiler-app.html",
+    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "link": "https://cadquery.github.io/",
     "source": "Hacker News",
-    "published": "2026-04-13T10:06:38+00:00",
+    "published": "2026-04-14T23:20:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47749955\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>"
   },
   {
-    "title": "IBM AP-101 general-purpose computer [pdf]",
-    "link": "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf",
+    "title": "288,493 Requests \u2013 How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
+    "link": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
     "source": "Hacker News",
-    "published": "2026-04-13T03:56:41+00:00",
+    "published": "2026-04-13T13:22:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47747407\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751608\">Comments</a>"
+  },
+  {
+    "title": "ReBot-DevArm: open-source Robotic Arm",
+    "link": "https://github.com/Seeed-Projects/reBot-DevArm",
+    "source": "Hacker News",
+    "published": "2026-04-13T11:39:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47750600\">Comments</a>"
   }
 ]
