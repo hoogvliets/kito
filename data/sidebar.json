@@ -1,5 +1,69 @@
 [
   {
+    "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+    "link": "https://github.com/smol-machines/smolvm",
+    "source": "Hacker News",
+    "published": "2026-04-17T17:18:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47808268\">Comments</a>"
+  },
+  {
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+    "source": "Hacker News",
+    "published": "2026-04-17T17:01:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47808047\">Comments</a>"
+  },
+  {
+    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+    "link": "https://github.com/paniclock/paniclock/",
+    "source": "Hacker News",
+    "published": "2026-04-17T16:38:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807809\">Comments</a>"
+  },
+  {
+    "title": "Hyperscalers have already outspent most famous US megaprojects",
+    "link": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+    "source": "Hacker News",
+    "published": "2026-04-17T16:23:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807619\">Comments</a>"
+  },
+  {
+    "title": "NASA Force",
+    "link": "https://nasaforce.gov/",
+    "source": "Hacker News",
+    "published": "2026-04-17T15:47:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807209\">Comments</a>"
+  },
+  {
+    "title": "Claude Opus 4.7 costs 20\u201330% more per session",
+    "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "source": "Hacker News",
+    "published": "2026-04-17T15:29:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807006\">Comments</a>"
+  },
+  {
+    "title": "The Gregorio project \u2013 GPL tools for typesetting Gregorian chant",
+    "link": "https://gregorio-project.github.io/index.html",
+    "source": "Hacker News",
+    "published": "2026-04-17T15:20:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806899\">Comments</a>"
+  },
+  {
+    "title": "NIST gives up enriching most CVEs",
+    "link": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+    "source": "Hacker News",
+    "published": "2026-04-17T15:09:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806777\">Comments</a>"
+  },
+  {
     "title": "Claude Design",
     "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
     "source": "Hacker News",
@@ -40,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47806304\">Comments</a>"
   },
   {
-    "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
-    "link": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
-    "source": "Hacker News",
-    "published": "2026-04-17T14:09:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806116\">Comments</a>"
-  },
-  {
     "title": "Isaac Asimov: The Last Question (1956)",
     "link": "https://hex.ooo/library/last_question.html",
     "source": "Hacker News",
@@ -56,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47804965\">Comments</a>"
   },
   {
-    "title": "Teddy Roosevelt and Abraham Lincoln in the same photo",
-    "link": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/",
+    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+    "link": "https://github.com/dacracot/Klondike3-Simulator",
     "source": "Hacker News",
-    "published": "2026-04-17T09:18:16+00:00",
+    "published": "2026-04-17T01:38:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47803992\">Comments</a>"
-  },
-  {
-    "title": "Ada, Its Design, and the Language That Built the Languages",
-    "link": "https://www.iqiipi.com/the-quiet-colossus.html",
-    "source": "Hacker News",
-    "published": "2026-04-17T08:51:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47803844\">Comments</a>"
-  },
-  {
-    "title": "FIM \u2013 Linux framebuffer image viewer",
-    "link": "https://www.nongnu.org/fbi-improved/",
-    "source": "Hacker News",
-    "published": "2026-04-17T07:20:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47803323\">Comments</a>"
-  },
-  {
-    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-    "link": "https://clojure.org/about/documentary",
-    "source": "Hacker News",
-    "published": "2026-04-16T19:32:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>"
-  },
-  {
-    "title": "Android CLI: Build Android apps 3x faster using any agent",
-    "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "source": "Hacker News",
-    "published": "2026-04-16T18:39:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47801639\">Comments</a>"
   },
   {
     "title": "Show HN: Stage \u2013 Putting humans back in control of code review",
@@ -120,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>"
   },
   {
-    "title": "CadQuery is an open-source Python library for building 3D CAD models",
-    "link": "https://cadquery.github.io/",
+    "title": "Designing the Transport Typeface",
+    "link": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
     "source": "Hacker News",
-    "published": "2026-04-14T23:20:39+00:00",
+    "published": "2026-04-15T13:13:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>"
-  },
-  {
-    "title": "Reflections on 30 Years of HPC Programming",
-    "link": "https://chapel-lang.org/blog/posts/30years/",
-    "source": "Hacker News",
-    "published": "2026-04-13T23:45:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47759436\">Comments</a>"
-  },
-  {
-    "title": "A Python Interpreter Written in Python",
-    "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-    "source": "Hacker News",
-    "published": "2026-04-13T17:25:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47755261\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47778524\">Comments</a>"
   },
   {
     "title": "The Utopia of the Family Computer",
@@ -150,13 +158,5 @@
     "published": "2026-04-13T13:41:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47751830\">Comments</a>"
-  },
-  {
-    "title": "\u4e2d\u6587 Literacy Speedrun II: Character Cyclotron",
-    "link": "https://blog.kevinzwu.com/character-cyclotron/",
-    "source": "Hacker News",
-    "published": "2026-04-13T12:28:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47751011\">Comments</a>"
   }
 ]
