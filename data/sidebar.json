@@ -64,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47808268\">Comments</a>"
   },
   {
-    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
-    "link": "https://github.com/paniclock/paniclock/",
-    "source": "Hacker News",
-    "published": "2026-04-17T16:38:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807809\">Comments</a>"
-  },
-  {
     "title": "Hyperscalers have already outspent most famous US megaprojects",
     "link": "https://twitter.com/finmoorhouse/status/2044933442236776794",
     "source": "Hacker News",
@@ -112,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47806725\">Comments</a>"
   },
   {
-    "title": "Middle schooler finds coin from Troy in Berlin",
-    "link": "https://www.thehistoryblog.com/archives/75848",
-    "source": "Hacker News",
-    "published": "2026-04-17T14:41:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806484\">Comments</a>"
-  },
-  {
     "title": "The simple geometry behind any road",
     "link": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
     "source": "Hacker News",
     "published": "2026-04-16T03:09:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47788207\">Comments</a>"
+  },
+  {
+    "title": "Michael Rabin Has Died",
+    "link": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+    "source": "Hacker News",
+    "published": "2026-04-15T18:07:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47782925\">Comments</a>"
   },
   {
     "title": "Towards trust in Emacs",
@@ -142,6 +134,14 @@
     "published": "2026-04-15T13:47:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47778922\">Comments</a>"
+  },
+  {
+    "title": "It's OK to compare floating-points for equality",
+    "link": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+    "source": "Hacker News",
+    "published": "2026-04-14T16:00:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47767398\">Comments</a>"
   },
   {
     "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
