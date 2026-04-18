@@ -1,5 +1,29 @@
 [
   {
+    "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+    "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "source": "Hacker News",
+    "published": "2026-04-18T13:29:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47815774\">Comments</a>"
+  },
+  {
+    "title": "Why Japan has such good railways",
+    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "source": "Hacker News",
+    "published": "2026-04-18T12:29:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47815395\">Comments</a>"
+  },
+  {
+    "title": "State of Kdenlive",
+    "link": "https://kdenlive.org/news/2026/state-2026/",
+    "source": "Hacker News",
+    "published": "2026-04-18T11:42:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47815118\">Comments</a>"
+  },
+  {
     "title": "Category Theory Illustrated \u2013 Orders",
     "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
     "source": "Hacker News",
@@ -8,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47813668\">Comments</a>"
   },
   {
-    "title": "Amiga Graphics",
+    "title": "Amiga Graphics Archive",
     "link": "https://amiga.lychesis.net/",
     "source": "Hacker News",
     "published": "2026-04-18T06:20:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47813566\">Comments</a>"
-  },
-  {
-    "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
-    "link": "https://runxiyu.org/comp/doubleslash/",
-    "source": "Hacker News",
-    "published": "2026-04-18T05:47:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813454\">Comments</a>"
   },
   {
     "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
@@ -38,14 +54,6 @@
     "published": "2026-04-17T21:38:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47810872\">Comments</a>"
-  },
-  {
-    "title": "\"cat readme.txt\" is not safe if you use iTerm2",
-    "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-    "source": "Hacker News",
-    "published": "2026-04-17T18:43:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47809190\">Comments</a>"
   },
   {
     "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47807619\">Comments</a>"
   },
   {
-    "title": "Spending 3 months coding by hand",
+    "title": "I\u2019m spending months coding the old way",
     "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
     "source": "Hacker News",
     "published": "2026-04-17T16:19:53+00:00",
@@ -86,14 +94,6 @@
     "published": "2026-04-17T15:29:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47807006\">Comments</a>"
-  },
-  {
-    "title": "Slop Cop",
-    "link": "https://awnist.com/slop-cop",
-    "source": "Hacker News",
-    "published": "2026-04-17T15:15:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806845\">Comments</a>"
   },
   {
     "title": "Claude Design",
@@ -112,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47788207\">Comments</a>"
   },
   {
-    "title": "Michael Rabin Has Died",
+    "title": "Michael Rabin has died",
     "link": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
     "source": "Hacker News",
     "published": "2026-04-15T18:07:46+00:00",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47767398\">Comments</a>"
   },
   {
-    "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
-    "link": "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
+    "title": "A Dumb Introduction to Z3 (2025)",
+    "link": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/",
     "source": "Hacker News",
-    "published": "2026-04-14T01:26:06+00:00",
+    "published": "2026-04-14T02:45:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760135\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760648\">Comments</a>"
   },
   {
     "title": "Brunost: The Nynorsk Programming Language",
