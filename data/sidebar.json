@@ -1,27 +1,35 @@
 [
   {
+    "title": "Category Theory Illustrated \u2013 Orders",
+    "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+    "source": "Hacker News",
+    "published": "2026-04-18T06:40:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813668\">Comments</a>"
+  },
+  {
+    "title": "Amiga Graphics",
+    "link": "https://amiga.lychesis.net/",
+    "source": "Hacker News",
+    "published": "2026-04-18T06:20:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813566\">Comments</a>"
+  },
+  {
+    "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+    "link": "https://runxiyu.org/comp/doubleslash/",
+    "source": "Hacker News",
+    "published": "2026-04-18T05:47:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813454\">Comments</a>"
+  },
+  {
     "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
     "link": "https://victorpoughon.github.io/interval-calculator/",
     "source": "Hacker News",
     "published": "2026-04-18T01:15:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47812341\">Comments</a>"
-  },
-  {
-    "title": "Casus Belli Engineering",
-    "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
-    "source": "Hacker News",
-    "published": "2026-04-18T01:14:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47812331\">Comments</a>"
-  },
-  {
-    "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-    "link": "https://www.nature.com/articles/d41586-026-01204-5",
-    "source": "Hacker News",
-    "published": "2026-04-17T22:30:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47811283\">Comments</a>"
   },
   {
     "title": "A simplified model of Fil-C",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47807583\">Comments</a>"
   },
   {
-    "title": "NASA Force",
-    "link": "https://nasaforce.gov/",
-    "source": "Hacker News",
-    "published": "2026-04-17T15:47:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47807209\">Comments</a>"
-  },
-  {
     "title": "Measuring Claude 4.7's tokenizer costs",
     "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
     "source": "Hacker News",
@@ -120,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47806484\">Comments</a>"
   },
   {
-    "title": "Isaac Asimov: The Last Question (1956)",
-    "link": "https://hex.ooo/library/last_question.html",
+    "title": "The simple geometry behind any road",
+    "link": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
     "source": "Hacker News",
-    "published": "2026-04-17T12:01:19+00:00",
+    "published": "2026-04-16T03:09:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47804965\">Comments</a>"
-  },
-  {
-    "title": "The Unix executable as a Smalltalk method (2025) [video]",
-    "link": "https://www.youtube.com/watch?v=sZjPQ7vtLNA",
-    "source": "Hacker News",
-    "published": "2026-04-16T15:09:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47794311\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47788207\">Comments</a>"
   },
   {
     "title": "Towards trust in Emacs",
@@ -150,6 +142,14 @@
     "published": "2026-04-15T13:47:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47778922\">Comments</a>"
+  },
+  {
+    "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
+    "link": "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
+    "source": "Hacker News",
+    "published": "2026-04-14T01:26:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47760135\">Comments</a>"
   },
   {
     "title": "Brunost: The Nynorsk Programming Language",
