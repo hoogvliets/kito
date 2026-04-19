@@ -1,11 +1,35 @@
 [
   {
-    "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-    "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]",
+    "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
     "source": "Hacker News",
-    "published": "2026-04-18T23:47:45+00:00",
+    "published": "2026-04-19T08:45:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47820531\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822805\">Comments</a>"
+  },
+  {
+    "title": "The RAM shortage could last years",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "source": "Hacker News",
+    "published": "2026-04-19T07:18:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822414\">Comments</a>"
+  },
+  {
+    "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+    "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+    "source": "Hacker News",
+    "published": "2026-04-19T07:05:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822356\">Comments</a>"
+  },
+  {
+    "title": "The world in which IPv6 was a good design",
+    "link": "https://apenwarr.ca/log/20170810",
+    "source": "Hacker News",
+    "published": "2026-04-19T02:50:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47821429\">Comments</a>"
   },
   {
     "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
@@ -16,36 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47820195\">Comments</a>"
   },
   {
-    "title": "My first impressions on ROCm and Strix Halo",
-    "link": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-    "source": "Hacker News",
-    "published": "2026-04-18T21:50:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47819823\">Comments</a>"
-  },
-  {
     "title": "NIST scientists create 'any wavelength' lasers",
     "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
     "source": "Hacker News",
     "published": "2026-04-18T20:54:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47819453\">Comments</a>"
-  },
-  {
-    "title": "Optimizing Ruby Path Methods",
-    "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-    "source": "Hacker News",
-    "published": "2026-04-18T20:42:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47819369\">Comments</a>"
-  },
-  {
-    "title": "Thoughts and feelings around Claude Design",
-    "link": "https://samhenri.gold/blog/20260418-claude-design/",
-    "source": "Hacker News",
-    "published": "2026-04-18T19:19:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47818700\">Comments</a>"
   },
   {
     "title": "College instructor turns to typewriters to curb AI-written work",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47816960\">Comments</a>"
   },
   {
-    "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
-    "link": "https://github.com/drasimwagan/mdv",
-    "source": "Hacker News",
-    "published": "2026-04-18T15:24:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47816629\">Comments</a>"
-  },
-  {
     "title": "Migrating from DigitalOcean to Hetzner",
     "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
     "source": "Hacker News",
@@ -104,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47815118\">Comments</a>"
   },
   {
-    "title": "What Are Skiplists Good For?",
+    "title": "What are skiplists good for?",
     "link": "https://antithesis.com/blog/2026/skiptrees/",
     "source": "Hacker News",
     "published": "2026-04-17T13:57:27+00:00",
@@ -112,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47806021\">Comments</a>"
   },
   {
-    "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
-    "link": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+    "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+    "link": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
     "source": "Hacker News",
-    "published": "2026-04-16T15:08:33+00:00",
+    "published": "2026-04-16T19:05:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47794299\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47797987\">Comments</a>"
+  },
+  {
+    "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+    "link": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+    "source": "Hacker News",
+    "published": "2026-04-16T14:05:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793161\">Comments</a>"
   },
   {
     "title": "Updating Gun Rocket through 10 years of Unity Engine",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47791771\">Comments</a>"
   },
   {
-    "title": "The becquerel as an SI unit for request rate",
+    "title": "SI Units for Request Rate (2024)",
     "link": "https://entropicthoughts.com/si-units-for-request-rate",
     "source": "Hacker News",
     "published": "2026-04-16T08:42:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47790337\">Comments</a>"
-  },
-  {
-    "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-    "link": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-    "source": "Hacker News",
-    "published": "2026-04-15T19:56:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47784395\">Comments</a>"
   },
   {
     "title": "Metatextual Literacy",
@@ -158,5 +150,13 @@
     "published": "2026-04-15T14:38:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47779659\">Comments</a>"
+  },
+  {
+    "title": "It's cool to care (2025)",
+    "link": "https://alexwlchan.net/2025/cool-to-care/",
+    "source": "Hacker News",
+    "published": "2026-04-15T14:20:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47779372\">Comments</a>"
   }
 ]
