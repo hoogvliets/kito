@@ -1,6 +1,30 @@
 [
   {
-    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]",
+    "title": "Why Zip drives dominated the 90s, then vanished almost overnight",
+    "link": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
+    "source": "Hacker News",
+    "published": "2026-04-19T10:55:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47823362\">Comments</a>"
+  },
+  {
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "source": "Hacker News",
+    "published": "2026-04-19T10:36:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47823270\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+    "link": "https://news.ycombinator.com/item?id=47822940",
+    "source": "Hacker News",
+    "published": "2026-04-19T09:17:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822940\">Comments</a>"
+  },
+  {
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
     "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
     "source": "Hacker News",
     "published": "2026-04-19T08:45:48+00:00",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47822805\">Comments</a>"
   },
   {
-    "title": "The RAM shortage could last years",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "title": "The seven programming ur-languages",
+    "link": "https://madhadron.com/programming/seven_ur_languages.html",
     "source": "Hacker News",
-    "published": "2026-04-19T07:18:44+00:00",
+    "published": "2026-04-19T07:38:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822414\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822486\">Comments</a>"
   },
   {
     "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
@@ -30,14 +54,6 @@
     "published": "2026-04-19T02:50:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47821429\">Comments</a>"
-  },
-  {
-    "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-    "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-    "source": "Hacker News",
-    "published": "2026-04-18T22:46:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47820195\">Comments</a>"
   },
   {
     "title": "NIST scientists create 'any wavelength' lasers",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47816960\">Comments</a>"
   },
   {
-    "title": "Migrating from DigitalOcean to Hetzner",
-    "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-    "source": "Hacker News",
-    "published": "2026-04-18T13:29:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47815774\">Comments</a>"
-  },
-  {
     "title": "Why Japan has such good railways",
     "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
     "source": "Hacker News",
@@ -96,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47815118\">Comments</a>"
   },
   {
+    "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+    "link": "https://archive.org/details/byte-magazine-1975-09",
+    "source": "Hacker News",
+    "published": "2026-04-17T14:07:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806096\">Comments</a>"
+  },
+  {
     "title": "What are skiplists good for?",
     "link": "https://antithesis.com/blog/2026/skiptrees/",
     "source": "Hacker News",
     "published": "2026-04-17T13:57:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47806021\">Comments</a>"
+  },
+  {
+    "title": "Frank Dudley Beane's Experience with Ergot and Cannabis Indica (1884)",
+    "link": "https://publicdomainreview.org/collection/experience-with-ergot-and-cannabis/",
+    "source": "Hacker News",
+    "published": "2026-04-16T23:08:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47800689\">Comments</a>"
   },
   {
     "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
@@ -112,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47797987\">Comments</a>"
   },
   {
-    "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+    "title": "Game devs explain the tricks involved with letting you pause a game",
     "link": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
     "source": "Hacker News",
     "published": "2026-04-16T14:05:10+00:00",
@@ -126,30 +150,6 @@
     "published": "2026-04-16T12:00:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47791771\">Comments</a>"
-  },
-  {
-    "title": "SI Units for Request Rate (2024)",
-    "link": "https://entropicthoughts.com/si-units-for-request-rate",
-    "source": "Hacker News",
-    "published": "2026-04-16T08:42:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47790337\">Comments</a>"
-  },
-  {
-    "title": "Metatextual Literacy",
-    "link": "https://www.jenn.site/metatextual-literacy/",
-    "source": "Hacker News",
-    "published": "2026-04-15T19:18:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47783890\">Comments</a>"
-  },
-  {
-    "title": "Modern Common Lisp with FSet",
-    "link": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-    "source": "Hacker News",
-    "published": "2026-04-15T14:38:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47779659\">Comments</a>"
   },
   {
     "title": "It's cool to care (2025)",
