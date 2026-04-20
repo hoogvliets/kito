@@ -1,5 +1,13 @@
 [
   {
+    "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+    "link": "https://github.com/esutcu/planb-lpm",
+    "source": "Hacker News",
+    "published": "2026-04-20T03:24:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47830071\">Comments</a>"
+  },
+  {
     "title": "Claude Token Counter, now with model comparisons",
     "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
     "source": "Hacker News",
@@ -8,15 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47829178\">Comments</a>"
   },
   {
-    "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-    "link": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-    "source": "Hacker News",
-    "published": "2026-04-20T00:21:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828968\">Comments</a>"
-  },
-  {
-    "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon \u2013 no Nvidia GPU needed",
+    "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
     "link": "https://github.com/shivampkumar/trellis-mac",
     "source": "Hacker News",
     "published": "2026-04-20T00:07:16+00:00",
@@ -24,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47828896\">Comments</a>"
   },
   {
-    "title": "Sudo for Windows",
+    "title": "Sudo for Windows (2024)",
     "link": "https://github.com/microsoft/sudo",
     "source": "Hacker News",
     "published": "2026-04-19T23:59:51+00:00",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47822414\">Comments</a>"
   },
   {
-    "title": "Interesting Map Geometry and Mathematics",
-    "link": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
+    "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+    "link": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
     "source": "Hacker News",
-    "published": "2026-04-18T06:25:38+00:00",
+    "published": "2026-04-17T09:50:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813597\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47804178\">Comments</a>"
   },
   {
-    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-    "link": "https://archive.org/details/byte-magazine-1975-09",
+    "title": "Zero-copy protobuf and ConnectRPC for Rust",
+    "link": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
     "source": "Hacker News",
-    "published": "2026-04-17T14:07:28+00:00",
+    "published": "2026-04-17T00:29:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47806096\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47801200\">Comments</a>"
+  },
+  {
+    "title": "Knitout and Kniterate 3",
+    "link": "https://soup.agnescameron.info//2026/04/01/transfers.html",
+    "source": "Hacker News",
+    "published": "2026-04-16T14:43:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47793758\">Comments</a>"
   },
   {
     "title": "Prove you are a robot: CAPTCHAs for agents",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47781950\">Comments</a>"
   },
   {
-    "title": "Mechanical Keyboard Sounds - A listening Museum",
+    "title": "Mechanical Keyboard Sounds \u2013 A listening Museum",
     "link": "https://sheets.works/data-viz/keyboard-sounds",
     "source": "Hacker News",
     "published": "2026-04-15T15:45:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47780743\">Comments</a>"
-  },
-  {
-    "title": "Recovering Windows Live Writer Files",
-    "link": "https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/",
-    "source": "Hacker News",
-    "published": "2026-04-14T14:32:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47766185\">Comments</a>"
   }
 ]
