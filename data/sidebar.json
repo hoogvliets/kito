@@ -1,11 +1,43 @@
 [
   {
-    "title": "Got an Old Kindle? It Might Not Work Anymore",
-    "link": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
+    "title": "Claude Token Counter, now with model comparisons",
+    "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
     "source": "Hacker News",
-    "published": "2026-04-19T22:56:32+00:00",
+    "published": "2026-04-20T00:56:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828427\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47829178\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+    "link": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+    "source": "Hacker News",
+    "published": "2026-04-20T00:21:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828968\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon \u2013 no Nvidia GPU needed",
+    "link": "https://github.com/shivampkumar/trellis-mac",
+    "source": "Hacker News",
+    "published": "2026-04-20T00:07:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828896\">Comments</a>"
+  },
+  {
+    "title": "Sudo for Windows",
+    "link": "https://github.com/microsoft/sudo",
+    "source": "Hacker News",
+    "published": "2026-04-19T23:59:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828853\">Comments</a>"
+  },
+  {
+    "title": "Swiss AI Initiative (2023)",
+    "link": "https://www.swiss-ai.org",
+    "source": "Hacker News",
+    "published": "2026-04-19T22:58:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828444\">Comments</a>"
   },
   {
     "title": "2,100 Swiss municipalities showing which provider handles their official email",
@@ -16,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47828420\">Comments</a>"
   },
   {
-    "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
-    "link": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+    "title": "Stop trying to engineer your way out of listening to people",
+    "link": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
     "source": "Hacker News",
-    "published": "2026-04-19T22:30:19+00:00",
+    "published": "2026-04-19T20:09:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47828225\">Comments</a>"
-  },
-  {
-    "title": "A. J. Ayer \u2013 \u2018What I Saw When I Was Dead\u2019 (1988)",
-    "link": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
-    "source": "Hacker News",
-    "published": "2026-04-19T20:04:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47827215\">Comments</a>"
-  },
-  {
-    "title": "I wrote a CHIP-8 emulator in my own programming language",
-    "link": "https://github.com/navid-m/chip8emu",
-    "source": "Hacker News",
-    "published": "2026-04-19T19:21:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47826852\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47827259\">Comments</a>"
   },
   {
     "title": "Scientific datasets are riddled with copy-paste errors",
@@ -48,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47826834\">Comments</a>"
   },
   {
-    "title": "Six Levels of Dark Mode",
+    "title": "Six Levels of Dark Mode (2024)",
     "link": "https://cssence.com/2024/six-levels-of-dark-mode/",
     "source": "Hacker News",
     "published": "2026-04-19T18:36:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47826502\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
-    "link": "https://www.vincentgregoire.com/faceoff/",
-    "source": "Hacker News",
-    "published": "2026-04-19T17:44:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47826104\">Comments</a>"
   },
   {
     "title": "The Bromine Chokepoint",
@@ -72,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47826100\">Comments</a>"
   },
   {
-    "title": "Notion leaks email addresses of all editors of any public page",
-    "link": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
     "source": "Hacker News",
-    "published": "2026-04-19T15:20:01+00:00",
+    "published": "2026-04-19T15:48:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47824945\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47825160\">Comments</a>"
   },
   {
     "title": "Vercel April 2026 security incident",
@@ -96,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47823270\">Comments</a>"
   },
   {
-    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-    "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-    "source": "Hacker News",
-    "published": "2026-04-19T08:45:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822805\">Comments</a>"
-  },
-  {
     "title": "A Brief History of Fish Sauce",
     "link": "https://www.legalnomads.com/fish-sauce/",
     "source": "Hacker News",
     "published": "2026-04-19T08:32:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47822734\">Comments</a>"
-  },
-  {
-    "title": "The seven programming ur-languages (2022)",
-    "link": "https://madhadron.com/programming/seven_ur_languages.html",
-    "source": "Hacker News",
-    "published": "2026-04-19T07:38:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822486\">Comments</a>"
   },
   {
     "title": "The RAM shortage could last years",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47822414\">Comments</a>"
   },
   {
-    "title": "Show HN: How context engineering works, a runnable reference",
-    "link": "https://github.com/outcomeops/context-engineering",
+    "title": "Interesting Map Geometry and Mathematics",
+    "link": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
     "source": "Hacker News",
-    "published": "2026-04-17T18:20:49+00:00",
+    "published": "2026-04-18T06:25:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47808956\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47813597\">Comments</a>"
   },
   {
     "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47781950\">Comments</a>"
   },
   {
-    "title": "Nanopass Framework: Clean Compiler Creation Language",
-    "link": "https://nanopass.org/",
+    "title": "Mechanical Keyboard Sounds - A listening Museum",
+    "link": "https://sheets.works/data-viz/keyboard-sounds",
     "source": "Hacker News",
-    "published": "2026-04-15T11:38:22+00:00",
+    "published": "2026-04-15T15:45:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47777715\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47780743\">Comments</a>"
+  },
+  {
+    "title": "Recovering Windows Live Writer Files",
+    "link": "https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/",
+    "source": "Hacker News",
+    "published": "2026-04-14T14:32:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47766185\">Comments</a>"
   }
 ]
