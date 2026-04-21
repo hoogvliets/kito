@@ -1,19 +1,35 @@
 [
   {
+    "title": "Laws of Software Engineering",
+    "link": "https://lawsofsoftwareengineering.com",
+    "source": "Hacker News",
+    "published": "2026-04-21T11:04:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>"
+  },
+  {
+    "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+    "link": "https://fsfe.org/news/2026/news-20260420-01.html",
+    "source": "Hacker News",
+    "published": "2026-04-21T10:57:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47847124\">Comments</a>"
+  },
+  {
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "link": "https://codemix.com/graph",
+    "source": "Hacker News",
+    "published": "2026-04-21T10:33:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47846946\">Comments</a>"
+  },
+  {
     "title": "Louis Zocchi, inventor of the d100, has died",
     "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
     "source": "Hacker News",
     "published": "2026-04-21T06:19:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47845231\">Comments</a>"
-  },
-  {
-    "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
-    "link": "https://aadamjacobscollection.org/",
-    "source": "Hacker News",
-    "published": "2026-04-21T06:12:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47845187\">Comments</a>"
   },
   {
     "title": "Types and Neural Networks",
@@ -64,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47843194\">Comments</a>"
   },
   {
-    "title": "Jujutsu megamerges for fun and profit",
-    "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-    "source": "Hacker News",
-    "published": "2026-04-20T21:32:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47841129\">Comments</a>"
-  },
-  {
     "title": "John Ternus to become Apple CEO",
     "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
     "source": "Hacker News",
@@ -112,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47834565\">Comments</a>"
   },
   {
-    "title": "ggsql: A Grammar of Graphics for SQL",
-    "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "title": "Edit store price tags using Flipper Zero",
+    "link": "https://github.com/i12bp8/TagTinker",
     "source": "Hacker News",
-    "published": "2026-04-20T12:51:20+00:00",
+    "published": "2026-04-19T09:26:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822978\">Comments</a>"
   },
   {
-    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
-    "link": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+    "title": "Bullshit About Bullshit Machines [pdf]",
+    "link": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
     "source": "Hacker News",
-    "published": "2026-04-20T08:49:22+00:00",
+    "published": "2026-04-19T07:09:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47831742\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822372\">Comments</a>"
   },
   {
     "title": "Air is full of DNA",
@@ -144,15 +152,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47812749\">Comments</a>"
   },
   {
-    "title": "Japan's cherry blossom database, 1,200 years old, has a new keeper",
-    "link": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
-    "source": "Hacker News",
-    "published": "2026-04-17T23:22:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47811668\">Comments</a>"
-  },
-  {
-    "title": "How a subsea cable is repaired",
+    "title": "How a subsea cable is repaired (2021)",
     "link": "https://www.onesteppower.com/post/subsea-cable-repair",
     "source": "Hacker News",
     "published": "2026-04-16T18:25:28+00:00",
