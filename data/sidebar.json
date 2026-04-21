@@ -1,19 +1,11 @@
 [
   {
-    "title": "Even 'uncensored' models can't say what they want",
-    "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "title": "How to make a fast dynamic language interpreter",
+    "link": "https://zef-lang.dev/implementation",
     "source": "Hacker News",
-    "published": "2026-04-20T22:43:29+00:00",
+    "published": "2026-04-21T00:48:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47842021\">Comments</a>"
-  },
-  {
-    "title": "Monero Community Crowdfunding System",
-    "link": "https://ccs.getmonero.org/ideas/",
-    "source": "Hacker News",
-    "published": "2026-04-20T21:33:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47841149\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47843194\">Comments</a>"
   },
   {
     "title": "Jujutsu megamerges for fun and profit",
@@ -32,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47840980\">Comments</a>"
   },
   {
-    "title": "Show HN: Holos \u2013 QEMU/KVM with a compose-style YAML, GPUs and health checks",
-    "link": "https://github.com/zeroecco/holos",
-    "source": "Hacker News",
-    "published": "2026-04-20T21:13:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47840851\">Comments</a>"
-  },
-  {
     "title": "John Ternus to become Apple CEO",
     "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
     "source": "Hacker News",
     "published": "2026-04-20T20:39:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>"
-  },
-  {
-    "title": "F-35 is built for the wrong war",
-    "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
-    "source": "Hacker News",
-    "published": "2026-04-20T20:07:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47839835\">Comments</a>"
   },
   {
     "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
@@ -70,14 +46,6 @@
     "published": "2026-04-20T18:39:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47838703\">Comments</a>"
-  },
-  {
-    "title": "Bloom (YC P26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/trybloom/jobs",
-    "source": "Hacker News",
-    "published": "2026-04-20T17:00:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47837176\">Comments</a>"
   },
   {
     "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
@@ -120,12 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>"
   },
   {
-    "title": "GitHub's fake star economy",
-    "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "title": "WebUSB Extension for Firefox",
+    "link": "https://github.com/ArcaneNibble/awawausb",
     "source": "Hacker News",
-    "published": "2026-04-20T08:26:52+00:00",
+    "published": "2026-04-20T11:51:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47831621\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47832969\">Comments</a>"
+  },
+  {
+    "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+    "source": "Hacker News",
+    "published": "2026-04-20T10:04:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47832248\">Comments</a>"
+  },
+  {
+    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+    "link": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+    "source": "Hacker News",
+    "published": "2026-04-20T08:49:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47831742\">Comments</a>"
   },
   {
     "title": "Modern Rendering Culling Techniques",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47812749\">Comments</a>"
   },
   {
+    "title": "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
+    "link": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
+    "source": "Hacker News",
+    "published": "2026-04-17T23:22:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47811668\">Comments</a>"
+  },
+  {
     "title": "Kefir C17/C23 Compiler",
     "link": "https://sr.ht/~jprotopopov/kefir/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47811154\">Comments</a>"
   },
   {
-    "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-    "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
+    "title": "Year of the IPv6 Overlay Network",
+    "link": "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/",
     "source": "Hacker News",
-    "published": "2026-04-16T06:11:40+00:00",
+    "published": "2026-04-17T18:58:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47789291\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47809338\">Comments</a>"
+  },
+  {
+    "title": "How a subsea cable is repaired",
+    "link": "https://www.onesteppower.com/post/subsea-cable-repair",
+    "source": "Hacker News",
+    "published": "2026-04-16T18:25:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47797457\">Comments</a>"
   }
 ]
