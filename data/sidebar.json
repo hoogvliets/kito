@@ -1,6 +1,38 @@
 [
   {
-    "title": "Coding Models Are Doing Too Much",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "source": "Hacker News",
+    "published": "2026-04-22T20:27:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47868867\">Comments</a>"
+  },
+  {
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "source": "Hacker News",
+    "published": "2026-04-22T20:24:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47868832\">Comments</a>"
+  },
+  {
+    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+    "source": "Hacker News",
+    "published": "2026-04-22T18:57:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47867755\">Comments</a>"
+  },
+  {
+    "title": "Website streamed live directly from a model",
+    "link": "https://flipbook.page/",
+    "source": "Hacker News",
+    "published": "2026-04-22T18:01:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47867048\">Comments</a>"
+  },
+  {
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "link": "https://nrehiew.github.io/blog/minimal_editing/",
     "source": "Hacker News",
     "published": "2026-04-22T17:51:17+00:00",
@@ -16,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47866860\">Comments</a>"
   },
   {
-    "title": "Parallel Agents in Zed",
-    "link": "https://zed.dev/blog/parallel-agents",
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
     "source": "Hacker News",
-    "published": "2026-04-22T17:38:57+00:00",
+    "published": "2026-04-22T17:35:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866750\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866697\">Comments</a>"
   },
   {
     "title": "Surveillance Pricing: Exploiting Information Asymmetries",
@@ -48,23 +80,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47865661\">Comments</a>"
   },
   {
-    "title": "Youth Suicides Declined After Creation of National Hotline",
-    "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+    "title": "Ping-pong robot beats top-level human players",
+    "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
     "source": "Hacker News",
-    "published": "2026-04-22T16:07:56+00:00",
+    "published": "2026-04-22T15:13:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47865622\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864785\">Comments</a>"
   },
   {
-    "title": "Scoring Show HN submissions for AI design patterns",
-    "link": "https://www.adriankrebs.ch/blog/design-slop/",
-    "source": "Hacker News",
-    "published": "2026-04-22T14:44:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864393\">Comments</a>"
-  },
-  {
-    "title": "Ultraviolet corona discharges on treetops",
+    "title": "Ultraviolet corona discharges on treetops during storms",
     "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
     "source": "Hacker News",
     "published": "2026-04-22T13:28:40+00:00",
@@ -80,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47863217\">Comments</a>"
   },
   {
-    "title": "Columnar Storage Is Normalization",
-    "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-    "source": "Hacker News",
-    "published": "2026-04-22T12:30:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862626\">Comments</a>"
-  },
-  {
     "title": "Our eighth generation TPUs: two chips for the agentic era",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
     "source": "Hacker News",
     "published": "2026-04-22T12:15:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47862497\">Comments</a>"
-  },
-  {
-    "title": "3.4M Solar Panels",
-    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-    "source": "Hacker News",
-    "published": "2026-04-22T12:04:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862386\">Comments</a>"
   },
   {
     "title": "GitHub CLI now collects pseudoanonymous telemetry",
@@ -120,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47861270\">Comments</a>"
   },
   {
-    "title": "How does GPS work?",
-    "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
+    "title": "You don't need advice from editors on rejected manuscripts",
+    "link": "https://twitter.com/orsonscottcard/status/2046702294406680751",
     "source": "Hacker News",
-    "published": "2026-04-22T09:22:05+00:00",
+    "published": "2026-04-22T08:25:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861087\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860682\">Comments</a>"
   },
   {
-    "title": "Making RAM at Home [video]",
-    "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+    "title": "The great Scouse pasty war",
+    "link": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
     "source": "Hacker News",
-    "published": "2026-04-20T23:35:06+00:00",
+    "published": "2026-04-20T06:45:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47842569\">Comments</a>"
-  },
-  {
-    "title": "Who Killed the Florida Orange?",
-    "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
-    "source": "Hacker News",
-    "published": "2026-04-20T21:00:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47840618\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47831085\">Comments</a>"
   },
   {
     "title": "5x5 Pixel font for tiny screens",
@@ -152,7 +152,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47824943\">Comments</a>"
   },
   {
-    "title": "Bodega Cats of New York",
+    "title": "Bodega cats of New York",
     "link": "https://bodegacatsofnewyork.com",
     "source": "Hacker News",
     "published": "2026-04-18T02:26:57+00:00",
