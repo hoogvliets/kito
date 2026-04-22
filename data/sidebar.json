@@ -1,13 +1,5 @@
 [
   {
-    "title": "Drunk post: Things I've learned as a senior engineer (2021)",
-    "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-    "source": "Hacker News",
-    "published": "2026-04-21T23:53:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47856535\">Comments</a>"
-  },
-  {
     "title": "SpaceX says it has agreement to acquire Cursor for $60B",
     "link": "https://twitter.com/spacex/status/2046713419978453374",
     "source": "Hacker News",
@@ -64,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47851634\">Comments</a>"
   },
   {
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-    "link": "https://www.brex.com/crabtrap",
+    "title": "Fusion Power Plant Simulator",
+    "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
     "source": "Hacker News",
-    "published": "2026-04-21T15:29:16+00:00",
+    "published": "2026-04-21T14:26:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47850212\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47849315\">Comments</a>"
   },
   {
     "title": "Laws of Software Engineering",
@@ -104,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47838508\">Comments</a>"
   },
   {
-    "title": "A printing press for biological data",
-    "link": "https://www.owlposting.com/p/the-printing-press-for-biological",
-    "source": "Hacker News",
-    "published": "2026-04-20T15:34:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835837\">Comments</a>"
-  },
-  {
     "title": "Acetaminophen vs. ibuprofen",
     "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
     "source": "Hacker News",
@@ -120,20 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47835635\">Comments</a>"
   },
   {
-    "title": "Hunting a 34 year old pointer bug in EtherSlip",
-    "link": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
+    "title": "All your agents are going async",
+    "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
     "source": "Hacker News",
-    "published": "2026-04-19T21:57:25+00:00",
+    "published": "2026-04-20T11:18:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47827991\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47832720\">Comments</a>"
   },
   {
-    "title": "Edit store price tags using Flipper Zero",
-    "link": "https://github.com/i12bp8/TagTinker",
+    "title": "Rock carving facts \u2013 Tanum Sweden",
+    "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
     "source": "Hacker News",
-    "published": "2026-04-19T09:26:04+00:00",
+    "published": "2026-04-20T05:21:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822978\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47830633\">Comments</a>"
+  },
+  {
+    "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+    "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+    "source": "Hacker News",
+    "published": "2026-04-19T11:53:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47823654\">Comments</a>"
   },
   {
     "title": "Garbage Collection Without Unsafe Code",
@@ -150,6 +142,14 @@
     "published": "2026-04-19T04:28:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47821801\">Comments</a>"
+  },
+  {
+    "title": "MuJoCo \u2013 Advanced Physics Simulation",
+    "link": "https://github.com/google-deepmind/mujoco",
+    "source": "Hacker News",
+    "published": "2026-04-19T00:34:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47820791\">Comments</a>"
   },
   {
     "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
