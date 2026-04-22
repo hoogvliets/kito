@@ -1,11 +1,83 @@
 [
   {
-    "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-    "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+    "title": "The best time to post on Hacker News",
+    "link": "https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news",
     "source": "Hacker News",
-    "published": "2026-04-22T10:51:09+00:00",
+    "published": "2026-04-22T14:56:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861703\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864566\">Comments</a>"
+  },
+  {
+    "title": "DuckDB 1.5.2 \u2013 SQL database that runs on laptop, server, in the browser",
+    "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+    "source": "Hacker News",
+    "published": "2026-04-22T14:49:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864454\">Comments</a>"
+  },
+  {
+    "title": "Show HN submissions tripled and are now mostly vibe-coded",
+    "link": "https://www.adriankrebs.ch/blog/design-slop/",
+    "source": "Hacker News",
+    "published": "2026-04-22T14:44:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864393\">Comments</a>"
+  },
+  {
+    "title": "Treetops glowing during storms captured on film for first time",
+    "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+    "source": "Hacker News",
+    "published": "2026-04-22T13:28:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47863324\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "source": "Hacker News",
+    "published": "2026-04-22T13:19:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47863217\">Comments</a>"
+  },
+  {
+    "title": "Columnar Storage Is Normalization",
+    "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+    "source": "Hacker News",
+    "published": "2026-04-22T12:30:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862626\">Comments</a>"
+  },
+  {
+    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "source": "Hacker News",
+    "published": "2026-04-22T12:15:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862497\">Comments</a>"
+  },
+  {
+    "title": "3.4M Solar Panels",
+    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+    "source": "Hacker News",
+    "published": "2026-04-22T12:04:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862386\">Comments</a>"
+  },
+  {
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "link": "https://cli.github.com/telemetry",
+    "source": "Hacker News",
+    "published": "2026-04-22T11:58:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862331\">Comments</a>"
+  },
+  {
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "link": "https://lwn.net/Articles/1068928/",
+    "source": "Hacker News",
+    "published": "2026-04-22T11:48:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862230\">Comments</a>"
   },
   {
     "title": "Windows 9x Subsystem for Linux",
@@ -16,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47861270\">Comments</a>"
   },
   {
-    "title": "How the Heck Does GPS Work?",
+    "title": "How does GPS work?",
     "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
     "source": "Hacker News",
     "published": "2026-04-22T09:22:05+00:00",
@@ -24,28 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47861087\">Comments</a>"
   },
   {
-    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-    "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
     "source": "Hacker News",
-    "published": "2026-04-22T09:02:46+00:00",
+    "published": "2026-04-22T06:38:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860961\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47859861\">Comments</a>"
   },
   {
-    "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
-    "link": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+    "title": "Another Day Has Come",
+    "link": "https://daringfireball.net/2026/04/another_day_has_come",
     "source": "Hacker News",
-    "published": "2026-04-22T08:33:17+00:00",
+    "published": "2026-04-21T20:52:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860742\">Comments</a>"
-  },
-  {
-    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-    "link": "https://twitter.com/spacex/status/2046713419978453374",
-    "source": "Hacker News",
-    "published": "2026-04-21T22:13:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47855293\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47854365\">Comments</a>"
   },
   {
     "title": "ChatGPT Images 2.0",
@@ -56,46 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47852835\">Comments</a>"
   },
   {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "source": "Hacker News",
-    "published": "2026-04-21T17:40:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47851948\">Comments</a>"
-  },
-  {
-    "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
-    "link": "https://britannica11.org/",
-    "source": "Hacker News",
-    "published": "2026-04-21T17:33:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47851885\">Comments</a>"
-  },
-  {
-    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-    "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-    "source": "Hacker News",
-    "published": "2026-04-21T17:14:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47851634\">Comments</a>"
-  },
-  {
-    "title": "Laws of Software Engineering",
-    "link": "https://lawsofsoftwareengineering.com",
-    "source": "Hacker News",
-    "published": "2026-04-21T11:04:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>"
-  },
-  {
-    "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-    "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-    "source": "Hacker News",
-    "published": "2026-04-21T10:19:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47846861\">Comments</a>"
-  },
-  {
     "title": "Making RAM at Home [video]",
     "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
     "source": "Hacker News",
@@ -104,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47842569\">Comments</a>"
   },
   {
-    "title": "Changes to GitHub Copilot individual plans",
-    "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "title": "Expansion Artifacts",
+    "link": "https://mattstromawn.com/writing/expansion-artifacts/",
     "source": "Hacker News",
-    "published": "2026-04-20T18:24:05+00:00",
+    "published": "2026-04-20T18:38:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47838508\">Comments</a>"
-  },
-  {
-    "title": "Acetaminophen vs. ibuprofen",
-    "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-    "source": "Hacker News",
-    "published": "2026-04-20T15:21:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835635\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47838680\">Comments</a>"
   },
   {
     "title": "All your agents are going async",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47832720\">Comments</a>"
   },
   {
-    "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-    "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-    "source": "Hacker News",
-    "published": "2026-04-19T11:53:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47823654\">Comments</a>"
-  },
-  {
     "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
     "link": "https://arxiv.org/abs/2604.15039",
     "source": "Hacker News",
     "published": "2026-04-19T05:58:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47822117\">Comments</a>"
-  },
-  {
-    "title": "Garbage Collection Without Unsafe Code",
-    "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
-    "source": "Hacker News",
-    "published": "2026-04-19T04:41:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47821853\">Comments</a>"
   },
   {
     "title": "MuJoCo \u2013 Advanced Physics Simulation",
