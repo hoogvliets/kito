@@ -1,5 +1,45 @@
 [
   {
+    "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+    "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+    "source": "Hacker News",
+    "published": "2026-04-22T10:51:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861703\">Comments</a>"
+  },
+  {
+    "title": "Windows 9x Subsystem for Linux",
+    "link": "https://social.hails.org/@hailey/116446826733136456",
+    "source": "Hacker News",
+    "published": "2026-04-22T09:52:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861270\">Comments</a>"
+  },
+  {
+    "title": "How the Heck Does GPS Work?",
+    "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
+    "source": "Hacker News",
+    "published": "2026-04-22T09:22:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861087\">Comments</a>"
+  },
+  {
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "source": "Hacker News",
+    "published": "2026-04-22T09:02:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860961\">Comments</a>"
+  },
+  {
+    "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+    "link": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+    "source": "Hacker News",
+    "published": "2026-04-22T08:33:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860742\">Comments</a>"
+  },
+  {
     "title": "SpaceX says it has agreement to acquire Cursor for $60B",
     "link": "https://twitter.com/spacex/status/2046713419978453374",
     "source": "Hacker News",
@@ -14,22 +54,6 @@
     "published": "2026-04-21T18:50:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47852835\">Comments</a>"
-  },
-  {
-    "title": "Framework Laptop 13 Pro",
-    "link": "https://frame.work/laptop13pro",
-    "source": "Hacker News",
-    "published": "2026-04-21T18:00:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47852177\">Comments</a>"
-  },
-  {
-    "title": "Cal.diy: open-source community edition of cal.com",
-    "link": "https://github.com/calcom/cal.diy",
-    "source": "Hacker News",
-    "published": "2026-04-21T17:58:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47852155\">Comments</a>"
   },
   {
     "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
@@ -54,14 +78,6 @@
     "published": "2026-04-21T17:14:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47851634\">Comments</a>"
-  },
-  {
-    "title": "Fusion Power Plant Simulator",
-    "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-    "source": "Hacker News",
-    "published": "2026-04-21T14:26:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47849315\">Comments</a>"
   },
   {
     "title": "Laws of Software Engineering",
@@ -112,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47832720\">Comments</a>"
   },
   {
-    "title": "Rock carving facts \u2013 Tanum Sweden",
-    "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
-    "source": "Hacker News",
-    "published": "2026-04-20T05:21:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47830633\">Comments</a>"
-  },
-  {
     "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
     "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
     "source": "Hacker News",
     "published": "2026-04-19T11:53:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47823654\">Comments</a>"
+  },
+  {
+    "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+    "link": "https://arxiv.org/abs/2604.15039",
+    "source": "Hacker News",
+    "published": "2026-04-19T05:58:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47822117\">Comments</a>"
   },
   {
     "title": "Garbage Collection Without Unsafe Code",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47821853\">Comments</a>"
   },
   {
-    "title": "Windows Server 2025 Runs Better on ARM",
-    "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-    "source": "Hacker News",
-    "published": "2026-04-19T04:28:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47821801\">Comments</a>"
-  },
-  {
     "title": "MuJoCo \u2013 Advanced Physics Simulation",
     "link": "https://github.com/google-deepmind/mujoco",
     "source": "Hacker News",
     "published": "2026-04-19T00:34:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47820791\">Comments</a>"
-  },
-  {
-    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-    "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "source": "Hacker News",
-    "published": "2026-04-18T10:53:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47814874\">Comments</a>"
   }
 ]
