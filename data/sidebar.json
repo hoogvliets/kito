@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+    "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "source": "Hacker News",
+    "published": "2026-04-23T14:17:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47876043\">Comments</a>"
+  },
+  {
+    "title": "Raylib v6.0",
+    "link": "https://github.com/raysan5/raylib/releases/tag/6.0",
+    "source": "Hacker News",
+    "published": "2026-04-23T12:16:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47874854\">Comments</a>"
+  },
+  {
+    "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+    "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "source": "Hacker News",
+    "published": "2026-04-23T12:12:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47874814\">Comments</a>"
+  },
+  {
     "title": "Jiga (YC W21) Is Hiring",
     "link": "https://jiga.io/about-us/",
     "source": "Hacker News",
@@ -16,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47874647\">Comments</a>"
   },
   {
-    "title": "Writing a C Compiler, in Zig",
+    "title": "Writing a C Compiler, in Zig (2025)",
     "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
     "source": "Hacker News",
     "published": "2026-04-23T09:20:47+00:00",
@@ -40,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47872324\">Comments</a>"
   },
   {
-    "title": "MacBook Neo and How the iPad Should Be",
-    "link": "https://craigmod.com/essays/ipad_neo/",
-    "source": "Hacker News",
-    "published": "2026-04-23T04:40:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47872306\">Comments</a>"
-  },
-  {
     "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
     "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
     "source": "Hacker News",
@@ -56,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47871519\">Comments</a>"
   },
   {
-    "title": "Fundamental Theorem of Calculus",
-    "link": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
-    "source": "Hacker News",
-    "published": "2026-04-23T01:09:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47871246\">Comments</a>"
-  },
-  {
     "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
     "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
     "source": "Hacker News",
     "published": "2026-04-22T20:27:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47868867\">Comments</a>"
-  },
-  {
-    "title": "Website streamed live directly from a model",
-    "link": "https://flipbook.page/",
-    "source": "Hacker News",
-    "published": "2026-04-22T18:01:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47867048\">Comments</a>"
-  },
-  {
-    "title": "Over-editing refers to a model modifying code beyond what is necessary",
-    "link": "https://nrehiew.github.io/blog/minimal_editing/",
-    "source": "Hacker News",
-    "published": "2026-04-22T17:51:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>"
   },
   {
     "title": "We found a stable Firefox identifier linking all your private Tor identities",
@@ -102,6 +94,14 @@
     "published": "2026-04-22T16:29:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>"
+  },
+  {
+    "title": "A Renaissance gambling dispute spawned probability theory",
+    "link": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+    "source": "Hacker News",
+    "published": "2026-04-21T12:59:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47848162\">Comments</a>"
   },
   {
     "title": "An amateur historian's favorite books about the Silk Road",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47840520\">Comments</a>"
   },
   {
-    "title": "Highlights from Git 2.54",
-    "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+    "title": "A History of Erasures Learning to Write Like Leyl\u00e2 Erbil",
+    "link": "https://thepointmag.com/criticism/a-history-of-erasures/",
     "source": "Hacker News",
-    "published": "2026-04-20T17:29:51+00:00",
+    "published": "2026-04-20T17:39:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47837698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47837857\">Comments</a>"
   },
   {
     "title": "5x5 Pixel font for tiny screens",
