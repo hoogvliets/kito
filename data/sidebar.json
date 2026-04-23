@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ars Technica: Our newsroom AI policy",
+    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "source": "Hacker News",
+    "published": "2026-04-23T05:14:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47872452\">Comments</a>"
+  },
+  {
+    "title": "I am building a cloud",
+    "link": "https://crawshaw.io/blog/building-a-cloud",
+    "source": "Hacker News",
+    "published": "2026-04-23T04:44:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47872324\">Comments</a>"
+  },
+  {
     "title": "Borrow-checking without type-checking",
     "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
     "source": "Hacker News",
@@ -96,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47864785\">Comments</a>"
   },
   {
-    "title": "Scoring Show HN submissions for AI design patterns",
-    "link": "https://www.adriankrebs.ch/blog/design-slop/",
-    "source": "Hacker News",
-    "published": "2026-04-22T14:44:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864393\">Comments</a>"
-  },
-  {
-    "title": "The handmade beauty of Machine Age data visualizations",
-    "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
-    "source": "Hacker News",
-    "published": "2026-04-22T14:15:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864011\">Comments</a>"
-  },
-  {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "link": "https://qwen.ai/blog?id=qwen3.6-27b",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47863217\">Comments</a>"
   },
   {
-    "title": "Our eighth generation TPUs: two chips for the agentic era",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
+    "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
     "source": "Hacker News",
-    "published": "2026-04-22T12:15:29+00:00",
+    "published": "2026-04-21T09:55:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862497\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47846718\">Comments</a>"
   },
   {
-    "title": "Another Day Has Come",
-    "link": "https://daringfireball.net/2026/04/another_day_has_come",
+    "title": "The Onion to Take over InfoWars",
+    "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
     "source": "Hacker News",
-    "published": "2026-04-21T20:52:19+00:00",
+    "published": "2026-04-21T01:23:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47854365\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47843434\">Comments</a>"
   },
   {
     "title": "Verus is a tool for verifying the correctness of code written in Rust",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47840252\">Comments</a>"
   },
   {
-    "title": "How the Heck does Shazam work?",
-    "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
-    "source": "Hacker News",
-    "published": "2026-04-20T15:04:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835366\">Comments</a>"
-  },
-  {
     "title": "5x5 Pixel font for tiny screens",
     "link": "https://maurycyz.com/projects/mcufont/",
     "source": "Hacker News",
     "published": "2026-04-19T15:19:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47824943\">Comments</a>"
+  },
+  {
+    "title": "Plexus P/20 Emulator",
+    "link": "https://spritetm.github.io/plexus_20_emu/",
+    "source": "Hacker News",
+    "published": "2026-04-19T11:53:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47823655\">Comments</a>"
   }
 ]
