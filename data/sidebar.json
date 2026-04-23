@@ -1,5 +1,29 @@
 [
   {
+    "title": "Approximating Hyperbolic Tangent",
+    "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+    "source": "Hacker News",
+    "published": "2026-04-22T23:46:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870709\">Comments</a>"
+  },
+  {
+    "title": "How to Stop a Data Center in Your Backyard",
+    "link": "https://lataco.com/stop-sgv-data-center-building",
+    "source": "Hacker News",
+    "published": "2026-04-22T23:31:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870588\">Comments</a>"
+  },
+  {
+    "title": "The Neon King of New Orleans",
+    "link": "https://gardenandgun.com/new-orleans-neon-king",
+    "source": "Hacker News",
+    "published": "2026-04-22T21:26:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47869496\">Comments</a>"
+  },
+  {
     "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
     "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
     "source": "Hacker News",
@@ -14,14 +38,6 @@
     "published": "2026-04-22T20:24:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47868832\">Comments</a>"
-  },
-  {
-    "title": "Scores decline again for 13-year-old students in reading and mathematics",
-    "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
-    "source": "Hacker News",
-    "published": "2026-04-22T18:57:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47867755\">Comments</a>"
   },
   {
     "title": "Website streamed live directly from a model",
@@ -40,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>"
   },
   {
-    "title": "Workspace Agents in ChatGPT",
-    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "title": "Parallel agents in Zed",
+    "link": "https://zed.dev/blog/parallel-agents",
     "source": "Hacker News",
-    "published": "2026-04-22T17:47:07+00:00",
+    "published": "2026-04-22T17:38:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866750\">Comments</a>"
   },
   {
     "title": "We found a stable Firefox identifier linking all your private Tor identities",
@@ -56,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47866697\">Comments</a>"
   },
   {
-    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
-    "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
-    "source": "Hacker News",
-    "published": "2026-04-22T17:13:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866395\">Comments</a>"
-  },
-  {
     "title": "Alberta startup sells no-tech tractors for half price",
     "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
     "source": "Hacker News",
@@ -72,8 +80,8 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>"
   },
   {
-    "title": "Martin Fowler: Technical, Cognitive, and Intent Debt",
-    "link": "https://martinfowler.com/fragments/2026-04-14.html",
+    "title": "Technical, cognitive, and intent debt",
+    "link": "https://martinfowler.com/fragments/2026-04-02.html",
     "source": "Hacker News",
     "published": "2026-04-22T16:11:23+00:00",
     "author": "Hacker News",
@@ -88,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47864785\">Comments</a>"
   },
   {
-    "title": "Ultraviolet corona discharges on treetops during storms",
-    "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "link": "https://www.adriankrebs.ch/blog/design-slop/",
     "source": "Hacker News",
-    "published": "2026-04-22T13:28:40+00:00",
+    "published": "2026-04-22T14:44:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47863324\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864393\">Comments</a>"
   },
   {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47862497\">Comments</a>"
   },
   {
-    "title": "GitHub CLI now collects pseudoanonymous telemetry",
-    "link": "https://cli.github.com/telemetry",
+    "title": "3.4M Solar Panels",
+    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
     "source": "Hacker News",
-    "published": "2026-04-22T11:58:58+00:00",
+    "published": "2026-04-22T12:04:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862331\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862386\">Comments</a>"
   },
   {
     "title": "Windows 9x Subsystem for Linux",
@@ -128,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47861270\">Comments</a>"
   },
   {
-    "title": "You don't need advice from editors on rejected manuscripts",
-    "link": "https://twitter.com/orsonscottcard/status/2046702294406680751",
+    "title": "Effectful Recursion Schemes",
+    "link": "https://effekt-lang.org/blog/recursion-schemes/",
     "source": "Hacker News",
-    "published": "2026-04-22T08:25:32+00:00",
+    "published": "2026-04-20T15:48:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47860682\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47836035\">Comments</a>"
   },
   {
-    "title": "The great Scouse pasty war",
-    "link": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
+    "title": "Books are not too expensive",
+    "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
     "source": "Hacker News",
-    "published": "2026-04-20T06:45:01+00:00",
+    "published": "2026-04-20T15:22:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47831085\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835647\">Comments</a>"
   },
   {
     "title": "5x5 Pixel font for tiny screens",
@@ -150,13 +158,5 @@
     "published": "2026-04-19T15:19:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47824943\">Comments</a>"
-  },
-  {
-    "title": "Bodega cats of New York",
-    "link": "https://bodegacatsofnewyork.com",
-    "source": "Hacker News",
-    "published": "2026-04-18T02:26:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47812649\">Comments</a>"
   }
 ]
