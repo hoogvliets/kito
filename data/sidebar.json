@@ -1,27 +1,35 @@
 [
   {
-    "title": "Approximating Hyperbolic Tangent",
-    "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+    "title": "Borrow-checking without type-checking",
+    "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
     "source": "Hacker News",
-    "published": "2026-04-22T23:46:38+00:00",
+    "published": "2026-04-23T02:55:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870709\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47871817\">Comments</a>"
   },
   {
-    "title": "How to Stop a Data Center in Your Backyard",
-    "link": "https://lataco.com/stop-sgv-data-center-building",
+    "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+    "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
     "source": "Hacker News",
-    "published": "2026-04-22T23:31:25+00:00",
+    "published": "2026-04-23T02:52:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870588\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47871800\">Comments</a>"
   },
   {
-    "title": "The Neon King of New Orleans",
-    "link": "https://gardenandgun.com/new-orleans-neon-king",
+    "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+    "link": "https://tempest.homemade.systems",
     "source": "Hacker News",
-    "published": "2026-04-22T21:26:38+00:00",
+    "published": "2026-04-23T01:02:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47869496\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47871195\">Comments</a>"
+  },
+  {
+    "title": "OpenAI's response to the Axios developer tool compromise",
+    "link": "https://openai.com/index/axios-developer-tool-compromise/",
+    "source": "Hacker News",
+    "published": "2026-04-23T00:45:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47871077\">Comments</a>"
   },
   {
     "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
@@ -30,14 +38,6 @@
     "published": "2026-04-22T20:27:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47868867\">Comments</a>"
-  },
-  {
-    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-    "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-    "source": "Hacker News",
-    "published": "2026-04-22T20:24:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47868832\">Comments</a>"
   },
   {
     "title": "Website streamed live directly from a model",
@@ -104,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47864393\">Comments</a>"
   },
   {
+    "title": "The handmade beauty of Machine Age data visualizations",
+    "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+    "source": "Hacker News",
+    "published": "2026-04-22T14:15:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864011\">Comments</a>"
+  },
+  {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "link": "https://qwen.ai/blog?id=qwen3.6-27b",
     "source": "Hacker News",
@@ -120,36 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47862497\">Comments</a>"
   },
   {
-    "title": "3.4M Solar Panels",
-    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+    "title": "Another Day Has Come",
+    "link": "https://daringfireball.net/2026/04/another_day_has_come",
     "source": "Hacker News",
-    "published": "2026-04-22T12:04:30+00:00",
+    "published": "2026-04-21T20:52:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47862386\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47854365\">Comments</a>"
   },
   {
-    "title": "Windows 9x Subsystem for Linux",
-    "link": "https://social.hails.org/@hailey/116446826733136456",
+    "title": "Verus is a tool for verifying the correctness of code written in Rust",
+    "link": "https://verus-lang.github.io/verus/guide/",
     "source": "Hacker News",
-    "published": "2026-04-22T09:52:52+00:00",
+    "published": "2026-04-20T20:42:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47861270\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47840252\">Comments</a>"
   },
   {
-    "title": "Effectful Recursion Schemes",
-    "link": "https://effekt-lang.org/blog/recursion-schemes/",
+    "title": "How the Heck does Shazam work?",
+    "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
     "source": "Hacker News",
-    "published": "2026-04-20T15:48:19+00:00",
+    "published": "2026-04-20T15:04:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47836035\">Comments</a>"
-  },
-  {
-    "title": "Books are not too expensive",
-    "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
-    "source": "Hacker News",
-    "published": "2026-04-20T15:22:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835647\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47835366\">Comments</a>"
   },
   {
     "title": "5x5 Pixel font for tiny screens",
