@@ -1,5 +1,45 @@
 [
   {
+    "title": "Microsoft OpenClaw",
+    "link": "https://github.com/microsoft/openclaw",
+    "source": "Hacker News",
+    "published": "2026-04-24T17:48:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47893541\">Comments</a>"
+  },
+  {
+    "title": "CSS as a Query Language",
+    "link": "https://evdc.me/blog/css-query",
+    "source": "Hacker News",
+    "published": "2026-04-24T17:39:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47893427\">Comments</a>"
+  },
+  {
+    "title": "SDL Now Supports DOS",
+    "link": "https://github.com/libsdl-org/SDL/pull/15377",
+    "source": "Hacker News",
+    "published": "2026-04-24T16:20:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47892291\">Comments</a>"
+  },
+  {
+    "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+    "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "source": "Hacker News",
+    "published": "2026-04-24T15:59:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47892019\">Comments</a>"
+  },
+  {
+    "title": "I'm done making desktop applications (2009)",
+    "link": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+    "source": "Hacker News",
+    "published": "2026-04-24T15:44:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47891801\">Comments</a>"
+  },
+  {
     "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
     "link": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
     "source": "Hacker News",
@@ -16,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47890873\">Comments</a>"
   },
   {
+    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
+    "link": "https://github.com/browser-use/browser-harness",
+    "source": "Hacker News",
+    "published": "2026-04-24T14:31:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890841\">Comments</a>"
+  },
+  {
     "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
     "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
     "source": "Hacker News",
@@ -24,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47890799\">Comments</a>"
   },
   {
-    "title": "Linux 7.1 Removes Drivers for Bus Mouse Support",
-    "link": "https://www.phoronix.com/news/Linux-7.1-Input",
+    "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+    "link": "https://arxiv.org/abs/2604.18799",
     "source": "Hacker News",
-    "published": "2026-04-24T13:54:53+00:00",
+    "published": "2026-04-24T14:01:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890365\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890456\">Comments</a>"
   },
   {
-    "title": "8087 Emulation on 8086 Systems",
-    "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
+    "title": "The operating cost of adult and gambling startups",
+    "link": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
     "source": "Hacker News",
-    "published": "2026-04-24T11:27:14+00:00",
+    "published": "2026-04-24T12:27:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47888694\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47889279\">Comments</a>"
   },
   {
     "title": "Hear your agent suffer through your code",
@@ -64,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47888124\">Comments</a>"
   },
   {
-    "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-    "source": "Hacker News",
-    "published": "2026-04-24T09:17:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47887683\">Comments</a>"
-  },
-  {
     "title": "Spinel: Ruby AOT Native Compiler",
     "link": "https://github.com/matz/spinel",
     "source": "Hacker News",
     "published": "2026-04-24T08:28:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47887334\">Comments</a>"
-  },
-  {
-    "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
-    "link": "https://ynarwal.github.io/how-llms-work/",
-    "source": "Hacker News",
-    "published": "2026-04-24T06:48:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886517\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
-    "link": "https://github.com/NV404/gova",
-    "source": "Hacker News",
-    "published": "2026-04-24T06:16:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886272\">Comments</a>"
   },
   {
     "title": "DeepSeek v4",
@@ -104,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47884971\">Comments</a>"
   },
   {
-    "title": "Why I Write (1946)",
-    "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+    "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
+    "link": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
     "source": "Hacker News",
-    "published": "2026-04-24T02:26:23+00:00",
+    "published": "2026-04-24T00:57:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47884768\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47884225\">Comments</a>"
   },
   {
     "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
@@ -120,36 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47882645\">Comments</a>"
   },
   {
-    "title": "Meta tells staff it will cut 10% of jobs",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-    "source": "Hacker News",
-    "published": "2026-04-23T18:55:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47879986\">Comments</a>"
-  },
-  {
-    "title": "GPT-5.5",
-    "link": "https://openai.com/index/introducing-gpt-5-5/",
-    "source": "Hacker News",
-    "published": "2026-04-23T18:01:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>"
-  },
-  {
     "title": "An update on recent Claude Code quality reports",
     "link": "https://www.anthropic.com/engineering/april-23-postmortem",
     "source": "Hacker News",
     "published": "2026-04-23T17:48:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47878905\">Comments</a>"
-  },
-  {
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-    "link": "https://blog.meshcore.io/2026/04/23/the-split",
-    "source": "Hacker News",
-    "published": "2026-04-23T16:55:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47878117\">Comments</a>"
   },
   {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
