@@ -1,11 +1,43 @@
 [
   {
-    "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
-    "link": "https://www.bmj.com/content/393/bmj.s781",
+    "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
     "source": "Hacker News",
-    "published": "2026-04-24T11:09:36+00:00",
+    "published": "2026-04-24T14:45:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47888557\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47891019\">Comments</a>"
+  },
+  {
+    "title": "Different Language Models Learn Similar Number Representations",
+    "link": "https://arxiv.org/abs/2604.20817",
+    "source": "Hacker News",
+    "published": "2026-04-24T14:34:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890873\">Comments</a>"
+  },
+  {
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "source": "Hacker News",
+    "published": "2026-04-24T14:28:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890799\">Comments</a>"
+  },
+  {
+    "title": "Linux 7.1 Removes Drivers for Bus Mouse Support",
+    "link": "https://www.phoronix.com/news/Linux-7.1-Input",
+    "source": "Hacker News",
+    "published": "2026-04-24T13:54:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47890365\">Comments</a>"
+  },
+  {
+    "title": "8087 Emulation on 8086 Systems",
+    "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
+    "source": "Hacker News",
+    "published": "2026-04-24T11:27:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47888694\">Comments</a>"
   },
   {
     "title": "Hear your agent suffer through your code",
@@ -24,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47888372\">Comments</a>"
   },
   {
-    "title": "nowhere: an entire website encoded in a URL",
-    "link": "https://hostednowhere.com/",
-    "source": "Hacker News",
-    "published": "2026-04-24T10:44:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47888337\">Comments</a>"
-  },
-  {
     "title": "Mounting tar archives as a filesystem in WebAssembly",
     "link": "https://jeroen.github.io/notes/webassembly-tar/",
     "source": "Hacker News",
@@ -40,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47888124\">Comments</a>"
   },
   {
-    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "title": "South Korea police arrest man for posting AI photo of runaway wolf",
     "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
     "source": "Hacker News",
     "published": "2026-04-24T09:17:57+00:00",
@@ -54,14 +78,6 @@
     "published": "2026-04-24T08:28:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47887334\">Comments</a>"
-  },
-  {
-    "title": "Composition Shouldn't be this Hard",
-    "link": "https://www.cambra.dev/blog/announcement/",
-    "source": "Hacker News",
-    "published": "2026-04-24T07:22:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886773\">Comments</a>"
   },
   {
     "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
@@ -96,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47884768\">Comments</a>"
   },
   {
-    "title": "Show HN: Tolaria \u2013 Open-source macOS app to manage Markdown knowledge bases",
-    "link": "https://github.com/refactoringhq/tolaria",
-    "source": "Hacker News",
-    "published": "2026-04-23T22:01:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47882697\">Comments</a>"
-  },
-  {
     "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
     "link": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
     "source": "Hacker News",
     "published": "2026-04-23T21:56:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47882645\">Comments</a>"
-  },
-  {
-    "title": "Using the internet like it's 1999",
-    "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-    "source": "Hacker News",
-    "published": "2026-04-23T20:14:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47881198\">Comments</a>"
   },
   {
     "title": "Meta tells staff it will cut 10% of jobs",
