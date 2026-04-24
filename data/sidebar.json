@@ -1,5 +1,45 @@
 [
   {
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "link": "https://github.com/matz/spinel",
+    "source": "Hacker News",
+    "published": "2026-04-24T08:28:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47887334\">Comments</a>"
+  },
+  {
+    "title": "Composition Shouldn't be this Hard",
+    "link": "https://www.cambra.dev/blog/announcement/",
+    "source": "Hacker News",
+    "published": "2026-04-24T07:22:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886773\">Comments</a>"
+  },
+  {
+    "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
+    "link": "https://ynarwal.github.io/how-llms-work/",
+    "source": "Hacker News",
+    "published": "2026-04-24T06:48:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886517\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
+    "link": "https://github.com/NV404/gova",
+    "source": "Hacker News",
+    "published": "2026-04-24T06:16:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47886272\">Comments</a>"
+  },
+  {
+    "title": "Why Not Venus?",
+    "link": "https://mceglowski.substack.com/p/why-not-venus",
+    "source": "Hacker News",
+    "published": "2026-04-24T05:01:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885739\">Comments</a>"
+  },
+  {
     "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
     "link": "https://felixbarbalet.com/familiarity-is-the-enemy/",
     "source": "Hacker News",
@@ -22,14 +62,6 @@
     "published": "2026-04-24T04:04:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47885377\">Comments</a>"
-  },
-  {
-    "title": "A quick look at Mythos run on Firefox: too much hype?",
-    "link": "https://xark.es/b/mythos-firefox-150",
-    "source": "Hacker News",
-    "published": "2026-04-24T03:12:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885042\">Comments</a>"
   },
   {
     "title": "DeepSeek v4",
@@ -112,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47878117\">Comments</a>"
   },
   {
-    "title": "My phone replaced a brass plug",
-    "link": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
-    "source": "Hacker News",
-    "published": "2026-04-23T16:27:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47877715\">Comments</a>"
-  },
-  {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
     "link": "https://socket.dev/blog/bitwarden-cli-compromised",
     "source": "Hacker News",
@@ -134,29 +158,5 @@
     "published": "2026-04-23T13:58:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47875843\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Honker \u2013 Postgres NOTIFY/LISTEN Semantics for SQLite",
-    "link": "https://github.com/russellromney/honker",
-    "source": "Hacker News",
-    "published": "2026-04-23T11:53:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47874647\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Agent Vault \u2013 Open-source credential proxy and vault for agents",
-    "link": "https://github.com/Infisical/agent-vault",
-    "source": "Hacker News",
-    "published": "2026-04-22T16:25:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47865822\">Comments</a>"
-  },
-  {
-    "title": "Your hex editor should color-code bytes",
-    "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-    "source": "Hacker News",
-    "published": "2026-04-21T09:52:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47846688\">Comments</a>"
   }
 ]
