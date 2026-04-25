@@ -1,5 +1,37 @@
 [
   {
+    "title": "Lambda Calculus Benchmark for AI",
+    "link": "https://victortaelin.github.io/lambench/",
+    "source": "Hacker News",
+    "published": "2026-04-25T11:16:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900506\">Comments</a>"
+  },
+  {
+    "title": "Only One Side Will Be the True Successor to MS-DOS \u2013 Windows 2.x",
+    "link": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
+    "source": "Hacker News",
+    "published": "2026-04-25T11:03:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900451\">Comments</a>"
+  },
+  {
+    "title": "A web-based RDP client built with Go WebAssembly and grdp",
+    "link": "https://github.com/nakagami/grdpwasm",
+    "source": "Hacker News",
+    "published": "2026-04-25T10:59:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900440\">Comments</a>"
+  },
+  {
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "link": "https://github.com/MartinGalway/C64_music",
+    "source": "Hacker News",
+    "published": "2026-04-25T10:46:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900398\">Comments</a>"
+  },
+  {
     "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
     "link": "https://github.com/nex-crm/wuphf",
     "source": "Hacker News",
@@ -14,30 +46,6 @@
     "published": "2026-04-25T05:56:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47899053\">Comments</a>"
-  },
-  {
-    "title": "Turbo Vision 2.0 \u2013 a modern port",
-    "link": "https://github.com/magiblot/tvision",
-    "source": "Hacker News",
-    "published": "2026-04-25T04:18:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47898597\">Comments</a>"
-  },
-  {
-    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-    "link": "https://alash3al.github.io/stash?_v01",
-    "source": "Hacker News",
-    "published": "2026-04-25T01:24:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47897790\">Comments</a>"
-  },
-  {
-    "title": "Cosmology with Geometry Nodes",
-    "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-    "source": "Hacker News",
-    "published": "2026-04-25T01:08:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47897706\">Comments</a>"
   },
   {
     "title": "Plain text has been around for decades and it\u2019s here to stay",
@@ -64,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47894747\">Comments</a>"
   },
   {
-    "title": "There Will Be a Scientific Theory of Deep Learning",
-    "link": "https://arxiv.org/abs/2604.21691",
-    "source": "Hacker News",
-    "published": "2026-04-24T18:06:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47893779\">Comments</a>"
-  },
-  {
     "title": "Google plans to invest up to $40B in Anthropic",
     "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
     "source": "Hacker News",
@@ -88,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47890799\">Comments</a>"
   },
   {
-    "title": "PCR is a surprisingly near-optimal technology",
-    "link": "https://nikomc.com/2026/04/22/pcr/",
+    "title": "Commenting and Approving Pull Requests",
+    "link": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
     "source": "Hacker News",
-    "published": "2026-04-22T16:57:35+00:00",
+    "published": "2026-04-23T11:47:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47866215\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47874613\">Comments</a>"
   },
   {
-    "title": "Iliad fragment found in Roman-era mummy",
-    "link": "https://www.thehistoryblog.com/archives/75877",
+    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+    "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
     "source": "Hacker News",
-    "published": "2026-04-22T14:18:35+00:00",
+    "published": "2026-04-22T13:46:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47864056\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47863570\">Comments</a>"
   },
   {
     "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
