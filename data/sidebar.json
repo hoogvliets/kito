@@ -1,5 +1,61 @@
 [
   {
+    "title": "\"Why not just use Lean?\"",
+    "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+    "source": "Hacker News",
+    "published": "2026-04-27T14:24:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47922079\">Comments</a>"
+  },
+  {
+    "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
+    "link": "https://github.com/serverless-dna/tendril",
+    "source": "Hacker News",
+    "published": "2026-04-27T13:34:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921377\">Comments</a>"
+  },
+  {
+    "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "source": "Hacker News",
+    "published": "2026-04-27T13:22:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921248\">Comments</a>"
+  },
+  {
+    "title": "Running Local LLMs Offline on a Ten-Hour Flight",
+    "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+    "source": "Hacker News",
+    "published": "2026-04-27T13:05:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921064\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "link": "https://github.com/dirac-run/dirac",
+    "source": "Hacker News",
+    "published": "2026-04-27T12:35:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920787\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+    "link": "https://github.com/garritfra/cell",
+    "source": "Hacker News",
+    "published": "2026-04-27T11:39:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920289\">Comments</a>"
+  },
+  {
+    "title": "Men Who Stare at Walls",
+    "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "source": "Hacker News",
+    "published": "2026-04-27T11:08:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920074\">Comments</a>"
+  },
+  {
     "title": "Pgbackrest is no longer being maintained",
     "link": "https://github.com/pgbackrest/pgbackrest",
     "source": "Hacker News",
@@ -8,36 +64,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47919997\">Comments</a>"
   },
   {
-    "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-    "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
     "source": "Hacker News",
-    "published": "2026-04-27T10:14:15+00:00",
+    "published": "2026-04-27T10:15:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919725\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919733\">Comments</a>"
   },
   {
-    "title": "Moleskine's AI Lord of the Rings collection can only mock",
-    "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
     "source": "Hacker News",
-    "published": "2026-04-27T09:19:06+00:00",
+    "published": "2026-04-27T09:57:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919386\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919630\">Comments</a>"
   },
   {
-    "title": "It's OK to abandon your side-project (2024)",
-    "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "title": "Quarkdown \u2013 Markdown with Superpowers",
+    "link": "https://quarkdown.com/",
     "source": "Hacker News",
-    "published": "2026-04-27T08:11:16+00:00",
+    "published": "2026-04-27T08:54:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47918961\">Comments</a>"
-  },
-  {
-    "title": "The Prompt API",
-    "link": "https://developer.chrome.com/docs/ai/prompt-api",
-    "source": "Hacker News",
-    "published": "2026-04-27T02:18:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47917026\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919240\">Comments</a>"
   },
   {
     "title": "TurboQuant: A first-principles walkthrough",
@@ -56,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47914165\">Comments</a>"
   },
   {
-    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:18:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47913855\">Comments</a>"
-  },
-  {
     "title": "AI should elevate your thinking, not replace it",
     "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
     "source": "Hacker News",
     "published": "2026-04-26T20:03:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47913650\">Comments</a>"
-  },
-  {
-    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-    "source": "Hacker News",
-    "published": "2026-04-26T13:58:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
-  },
-  {
-    "title": "Branimir Lambov from IBM on Cassandra",
-    "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
-    "source": "Hacker News",
-    "published": "2026-04-26T13:45:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47910287\">Comments</a>"
-  },
-  {
-    "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
-    "source": "Hacker News",
-    "published": "2026-04-26T12:42:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47909860\">Comments</a>"
   },
   {
     "title": "Self-updating screenshots",
@@ -104,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47908051\">Comments</a>"
   },
   {
-    "title": "A Guide to CubeSat Mission and Bus Design",
-    "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+    "title": "Understanding the short circuit in solid-state batteries",
+    "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
     "source": "Hacker News",
-    "published": "2026-04-26T02:15:36+00:00",
+    "published": "2026-04-25T23:43:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47906666\">Comments</a>"
-  },
-  {
-    "title": "Three constraints before I build anything",
-    "link": "https://jordanlord.co.uk/blog/3-constraints/",
-    "source": "Hacker News",
-    "published": "2026-04-25T18:41:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47905761\">Comments</a>"
   },
   {
     "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47901433\">Comments</a>"
   },
   {
-    "title": "Rust Memory Management: Ownership vs. Reference Counting",
-    "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+    "title": "Getting my daily news from a dot matrix printer 2024",
+    "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
     "source": "Hacker News",
-    "published": "2026-04-25T09:20:55+00:00",
+    "published": "2026-04-25T11:39:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899989\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900649\">Comments</a>"
   },
   {
-    "title": "Electrostatics and High Voltage Links",
-    "link": "http://amasci.com/static/electrostatic1.html",
+    "title": "Managing the Unmanaged Switch",
+    "link": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
     "source": "Hacker News",
-    "published": "2026-04-24T09:47:21+00:00",
+    "published": "2026-04-25T07:11:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47887907\">Comments</a>"
-  },
-  {
-    "title": "Box to save memory in Rust",
-    "link": "https://dystroy.org/blog/box-to-save-memory/",
-    "source": "Hacker News",
-    "published": "2026-04-23T17:02:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47878231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899399\">Comments</a>"
   },
   {
     "title": "Flipdiscs",
