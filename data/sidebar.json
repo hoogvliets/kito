@@ -1,11 +1,51 @@
 [
   {
-    "title": "Show HN: Startup Equity Adventure Game",
-    "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "title": "The Prompt API",
+    "link": "https://developer.chrome.com/docs/ai/prompt-api",
     "source": "Hacker News",
-    "published": "2026-04-26T22:14:59+00:00",
+    "published": "2026-04-27T02:18:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47915274\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47917026\">Comments</a>"
+  },
+  {
+    "title": "Notepad++ for Mac \u2013\u00a0Independent community port",
+    "link": "https://notepad-plus-plus-mac.org/",
+    "source": "Hacker News",
+    "published": "2026-04-27T02:06:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916964\">Comments</a>"
+  },
+  {
+    "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+    "link": "https://github.com/evanklem/evanflow",
+    "source": "Hacker News",
+    "published": "2026-04-27T01:56:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916909\">Comments</a>"
+  },
+  {
+    "title": "TurboQuant: A First-Principles Walkthrough",
+    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "source": "Hacker News",
+    "published": "2026-04-27T01:54:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916890\">Comments</a>"
+  },
+  {
+    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+    "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+    "source": "Hacker News",
+    "published": "2026-04-27T00:34:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916410\">Comments</a>"
+  },
+  {
+    "title": "FreeBSD Device Drivers Book",
+    "link": "https://github.com/ebrandi/FDD-book",
+    "source": "Hacker News",
+    "published": "2026-04-26T22:53:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47915632\">Comments</a>"
   },
   {
     "title": "Butterflies are in decline across North America, a look at the Western Monarch",
@@ -14,22 +54,6 @@
     "published": "2026-04-26T21:23:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47914677\">Comments</a>"
-  },
-  {
-    "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
-    "link": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
-    "source": "Hacker News",
-    "published": "2026-04-26T21:04:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914438\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Tiao, A two-player turn-based board game",
-    "link": "https://playtiao.com",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:59:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914369\">Comments</a>"
   },
   {
     "title": "Show HN: AI memory with biological decay (52% recall)",
@@ -56,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47914165\">Comments</a>"
   },
   {
-    "title": "MoQ Boy",
-    "link": "https://moq.dev/blog/moq-boy/",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:40:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914161\">Comments</a>"
-  },
-  {
     "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
     "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
     "source": "Hacker News",
@@ -80,38 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47913650\">Comments</a>"
   },
   {
-    "title": "The 1944 Warsaw Uprising, in Color",
-    "link": "https://www.barwypowstania.pl/",
-    "source": "Hacker News",
-    "published": "2026-04-26T19:44:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47913406\">Comments</a>"
-  },
-  {
-    "title": "The Visible Zorker: Zork 1",
-    "link": "https://eblong.com/infocom/visi/zork1/",
-    "source": "Hacker News",
-    "published": "2026-04-26T16:42:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47911644\">Comments</a>"
-  },
-  {
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "source": "Hacker News",
-    "published": "2026-04-26T16:27:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47911524\">Comments</a>"
-  },
-  {
-    "title": "Clay PCB Tutorial",
-    "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-    "source": "Hacker News",
-    "published": "2026-04-26T16:02:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47911350\">Comments</a>"
-  },
-  {
     "title": "SWE-bench Verified no longer measures frontier coding capabilities",
     "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
     "source": "Hacker News",
@@ -120,43 +104,59 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
   },
   {
-    "title": "The Last of the Lost Generation",
-    "link": "https://porticoquarterly.com/book/the-last-of-the-lost-generation/",
+    "title": "The fastest Linux timestamps",
+    "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
     "source": "Hacker News",
-    "published": "2026-04-25T02:42:06+00:00",
+    "published": "2026-04-26T13:00:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47898142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47909979\">Comments</a>"
   },
   {
-    "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-    "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+    "title": "Self-updating screenshots",
+    "link": "https://interblah.net/self-updating-screenshots",
     "source": "Hacker News",
-    "published": "2026-04-24T04:57:16+00:00",
+    "published": "2026-04-26T07:00:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885719\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47908051\">Comments</a>"
   },
   {
-    "title": "XOXO Festival Archive",
-    "link": "https://xoxofest.com/",
+    "title": "When the cheap one is the cool one",
+    "link": "https://arun.is/blog/cheap-cool/",
     "source": "Hacker News",
-    "published": "2026-04-24T02:40:39+00:00",
+    "published": "2026-04-26T01:25:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47884850\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47906420\">Comments</a>"
   },
   {
-    "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-    "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+    "title": "Revocation of X.509 Certificates",
+    "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
     "source": "Hacker News",
-    "published": "2026-04-24T00:03:20+00:00",
+    "published": "2026-04-25T19:40:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47883839\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47903959\">Comments</a>"
   },
   {
-    "title": "Box to Save Memory in Rust",
+    "title": "Three constraints before I build anything",
+    "link": "https://jordanlord.co.uk/blog/3-constraints/",
+    "source": "Hacker News",
+    "published": "2026-04-25T18:41:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
+  },
+  {
+    "title": "Box to save memory in Rust",
     "link": "https://dystroy.org/blog/box-to-save-memory/",
     "source": "Hacker News",
     "published": "2026-04-23T17:02:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47878231\">Comments</a>"
+  },
+  {
+    "title": "When Your Digital Life Vanishes",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+    "source": "Hacker News",
+    "published": "2026-04-22T22:31:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870162\">Comments</a>"
   }
 ]
