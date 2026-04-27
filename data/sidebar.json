@@ -1,19 +1,35 @@
 [
   {
+    "title": "Pgbackrest is no longer being maintained",
+    "link": "https://github.com/pgbackrest/pgbackrest",
+    "source": "Hacker News",
+    "published": "2026-04-27T10:56:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919997\">Comments</a>"
+  },
+  {
+    "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+    "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "source": "Hacker News",
+    "published": "2026-04-27T10:14:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919725\">Comments</a>"
+  },
+  {
+    "title": "Moleskine's AI Lord of the Rings collection can only mock",
+    "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+    "source": "Hacker News",
+    "published": "2026-04-27T09:19:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919386\">Comments</a>"
+  },
+  {
     "title": "It's OK to abandon your side-project (2024)",
     "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
     "source": "Hacker News",
     "published": "2026-04-27T08:11:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47918961\">Comments</a>"
-  },
-  {
-    "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
-    "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
-    "source": "Hacker News",
-    "published": "2026-04-27T07:21:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47918657\">Comments</a>"
   },
   {
     "title": "The Prompt API",
@@ -30,22 +46,6 @@
     "published": "2026-04-27T01:54:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47916890\">Comments</a>"
-  },
-  {
-    "title": "FreeBSD Device Drivers Book",
-    "link": "https://github.com/ebrandi/FDD-book",
-    "source": "Hacker News",
-    "published": "2026-04-26T22:53:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47915632\">Comments</a>"
-  },
-  {
-    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:56:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914350\">Comments</a>"
   },
   {
     "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
@@ -80,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
   },
   {
+    "title": "Branimir Lambov from IBM on Cassandra",
+    "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
+    "source": "Hacker News",
+    "published": "2026-04-26T13:45:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47910287\">Comments</a>"
+  },
+  {
     "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
     "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
     "source": "Hacker News",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47906666\">Comments</a>"
   },
   {
-    "title": "When the cheap one is the cool one",
-    "link": "https://arun.is/blog/cheap-cool/",
-    "source": "Hacker News",
-    "published": "2026-04-26T01:25:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47906420\">Comments</a>"
-  },
-  {
     "title": "Three constraints before I build anything",
     "link": "https://jordanlord.co.uk/blog/3-constraints/",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
   },
   {
+    "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+    "link": "https://github.com/WeebLabs/DSPi",
+    "source": "Hacker News",
+    "published": "2026-04-25T13:28:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47901433\">Comments</a>"
+  },
+  {
     "title": "Rust Memory Management: Ownership vs. Reference Counting",
     "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
     "source": "Hacker News",
     "published": "2026-04-25T09:20:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47899989\">Comments</a>"
-  },
-  {
-    "title": "Mystery Cpuid Bit",
-    "link": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
-    "source": "Hacker News",
-    "published": "2026-04-25T06:27:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899199\">Comments</a>"
   },
   {
     "title": "Electrostatics and High Voltage Links",
