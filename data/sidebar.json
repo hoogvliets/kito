@@ -1,19 +1,27 @@
 [
   {
+    "title": "It's OK to abandon your side-project (2024)",
+    "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "source": "Hacker News",
+    "published": "2026-04-27T08:11:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47918961\">Comments</a>"
+  },
+  {
+    "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+    "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+    "source": "Hacker News",
+    "published": "2026-04-27T07:21:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47918657\">Comments</a>"
+  },
+  {
     "title": "The Prompt API",
     "link": "https://developer.chrome.com/docs/ai/prompt-api",
     "source": "Hacker News",
     "published": "2026-04-27T02:18:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47917026\">Comments</a>"
-  },
-  {
-    "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
-    "link": "https://github.com/evanklem/evanflow",
-    "source": "Hacker News",
-    "published": "2026-04-27T01:56:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916909\">Comments</a>"
   },
   {
     "title": "TurboQuant: A first-principles walkthrough",
@@ -30,14 +38,6 @@
     "published": "2026-04-26T22:53:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47915632\">Comments</a>"
-  },
-  {
-    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-    "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-    "source": "Hacker News",
-    "published": "2026-04-26T21:23:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914677\">Comments</a>"
   },
   {
     "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
@@ -80,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
   },
   {
+    "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+    "source": "Hacker News",
+    "published": "2026-04-26T12:42:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47909860\">Comments</a>"
+  },
+  {
     "title": "Self-updating screenshots",
     "link": "https://interblah.net/self-updating-screenshots",
     "source": "Hacker News",
@@ -104,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47906420\">Comments</a>"
   },
   {
-    "title": "Revocation of X.509 Certificates",
-    "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
-    "source": "Hacker News",
-    "published": "2026-04-25T19:40:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47903959\">Comments</a>"
-  },
-  {
     "title": "Three constraints before I build anything",
     "link": "https://jordanlord.co.uk/blog/3-constraints/",
     "source": "Hacker News",
     "published": "2026-04-25T18:41:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
+  },
+  {
+    "title": "Rust Memory Management: Ownership vs. Reference Counting",
+    "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+    "source": "Hacker News",
+    "published": "2026-04-25T09:20:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899989\">Comments</a>"
   },
   {
     "title": "Mystery Cpuid Bit",
@@ -128,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47899199\">Comments</a>"
   },
   {
-    "title": "Quirks of Human Anatomy",
-    "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+    "title": "Electrostatics and High Voltage Links",
+    "link": "http://amasci.com/static/electrostatic1.html",
     "source": "Hacker News",
-    "published": "2026-04-25T04:31:14+00:00",
+    "published": "2026-04-24T09:47:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47898660\">Comments</a>"
-  },
-  {
-    "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-    "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
-    "source": "Hacker News",
-    "published": "2026-04-24T04:57:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885719\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47887907\">Comments</a>"
   },
   {
     "title": "Box to save memory in Rust",
