@@ -1,11 +1,83 @@
 [
   {
-    "title": "\"Why not just use Lean?\"",
+    "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+    "link": "https://github.com/Hanqaqa/Easyduino",
+    "source": "Hacker News",
+    "published": "2026-04-27T17:45:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924813\">Comments</a>"
+  },
+  {
+    "title": "GitHub is having issues now",
+    "link": "https://www.githubstatus.com",
+    "source": "Hacker News",
+    "published": "2026-04-27T17:42:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924775\">Comments</a>"
+  },
+  {
+    "title": "Canada's first sovereign wealth fund",
+    "link": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238",
+    "source": "Hacker News",
+    "published": "2026-04-27T16:58:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924188\">Comments</a>"
+  },
+  {
+    "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+    "link": "https://deepmind.google/blog/decoupled-diloco/",
+    "source": "Hacker News",
+    "published": "2026-04-27T16:57:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924181\">Comments</a>"
+  },
+  {
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "source": "Hacker News",
+    "published": "2026-04-27T16:03:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47923357\">Comments</a>"
+  },
+  {
+    "title": "Networking changes coming in macOS\u00a027",
+    "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "source": "Hacker News",
+    "published": "2026-04-27T15:36:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47923010\">Comments</a>"
+  },
+  {
+    "title": "The woes of sanitizing SVGs",
+    "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
+    "source": "Hacker News",
+    "published": "2026-04-27T15:31:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47922957\">Comments</a>"
+  },
+  {
+    "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+    "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+    "source": "Hacker News",
+    "published": "2026-04-27T15:12:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47922712\">Comments</a>"
+  },
+  {
+    "title": "\u201cWhy not just use Lean?\u201d",
     "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
     "source": "Hacker News",
     "published": "2026-04-27T14:24:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47922079\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
+    "link": "https://www.systalyze.com/utilyze",
+    "source": "Hacker News",
+    "published": "2026-04-27T13:55:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921626\">Comments</a>"
   },
   {
     "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
@@ -16,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47921377\">Comments</a>"
   },
   {
-    "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
     "source": "Hacker News",
     "published": "2026-04-27T13:22:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47921248\">Comments</a>"
-  },
-  {
-    "title": "Running Local LLMs Offline on a Ten-Hour Flight",
-    "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-    "source": "Hacker News",
-    "published": "2026-04-27T13:05:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921064\">Comments</a>"
   },
   {
     "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
@@ -40,15 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47920787\">Comments</a>"
   },
   {
-    "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
-    "link": "https://github.com/garritfra/cell",
-    "source": "Hacker News",
-    "published": "2026-04-27T11:39:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920289\">Comments</a>"
-  },
-  {
-    "title": "Men Who Stare at Walls",
+    "title": "Men who stare at walls",
     "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
     "source": "Hacker News",
     "published": "2026-04-27T11:08:26+00:00",
@@ -64,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47919997\">Comments</a>"
   },
   {
-    "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
     "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
     "source": "Hacker News",
     "published": "2026-04-27T10:15:17+00:00",
@@ -80,52 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47919630\">Comments</a>"
   },
   {
-    "title": "Quarkdown \u2013 Markdown with Superpowers",
-    "link": "https://quarkdown.com/",
+    "title": "Boats crash/break and can kill their passengers when falling certain distances",
+    "link": "https://bugs.mojang.com/browse/MC/issues/MC-119369",
     "source": "Hacker News",
-    "published": "2026-04-27T08:54:57+00:00",
+    "published": "2026-04-25T20:43:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47919240\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47904420\">Comments</a>"
   },
   {
-    "title": "TurboQuant: A first-principles walkthrough",
-    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "title": "Adding a team was the wrong strategic decision",
+    "link": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
     "source": "Hacker News",
-    "published": "2026-04-27T01:54:32+00:00",
+    "published": "2026-04-25T19:53:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916890\">Comments</a>"
-  },
-  {
-    "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:41:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914165\">Comments</a>"
-  },
-  {
-    "title": "AI should elevate your thinking, not replace it",
-    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:03:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47913650\">Comments</a>"
-  },
-  {
-    "title": "Self-updating screenshots",
-    "link": "https://interblah.net/self-updating-screenshots",
-    "source": "Hacker News",
-    "published": "2026-04-26T07:00:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47908051\">Comments</a>"
-  },
-  {
-    "title": "Understanding the short circuit in solid-state batteries",
-    "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
-    "source": "Hacker News",
-    "published": "2026-04-25T23:43:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47905761\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47904053\">Comments</a>"
   },
   {
     "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
@@ -134,29 +158,5 @@
     "published": "2026-04-25T13:28:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47901433\">Comments</a>"
-  },
-  {
-    "title": "Getting my daily news from a dot matrix printer 2024",
-    "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "source": "Hacker News",
-    "published": "2026-04-25T11:39:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47900649\">Comments</a>"
-  },
-  {
-    "title": "Managing the Unmanaged Switch",
-    "link": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
-    "source": "Hacker News",
-    "published": "2026-04-25T07:11:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899399\">Comments</a>"
-  },
-  {
-    "title": "Flipdiscs",
-    "link": "https://flipdisc.io",
-    "source": "Hacker News",
-    "published": "2026-04-23T13:54:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47875795\">Comments</a>"
   }
 ]
