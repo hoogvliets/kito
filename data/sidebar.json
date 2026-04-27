@@ -8,14 +8,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47917026\">Comments</a>"
   },
   {
-    "title": "Notepad++ for Mac \u2013\u00a0Independent community port",
-    "link": "https://notepad-plus-plus-mac.org/",
-    "source": "Hacker News",
-    "published": "2026-04-27T02:06:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916964\">Comments</a>"
-  },
-  {
     "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
     "link": "https://github.com/evanklem/evanflow",
     "source": "Hacker News",
@@ -24,20 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47916909\">Comments</a>"
   },
   {
-    "title": "TurboQuant: A First-Principles Walkthrough",
+    "title": "TurboQuant: A first-principles walkthrough",
     "link": "https://arkaung.github.io/interactive-turboquant/",
     "source": "Hacker News",
     "published": "2026-04-27T01:54:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47916890\">Comments</a>"
-  },
-  {
-    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-    "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-    "source": "Hacker News",
-    "published": "2026-04-27T00:34:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47916410\">Comments</a>"
   },
   {
     "title": "FreeBSD Device Drivers Book",
@@ -54,14 +38,6 @@
     "published": "2026-04-26T21:23:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47914677\">Comments</a>"
-  },
-  {
-    "title": "Show HN: AI memory with biological decay (52% recall)",
-    "link": "https://github.com/sachitrafa/YourMemory",
-    "source": "Hacker News",
-    "published": "2026-04-26T20:58:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47914367\">Comments</a>"
   },
   {
     "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
@@ -104,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
   },
   {
-    "title": "The fastest Linux timestamps",
-    "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
-    "source": "Hacker News",
-    "published": "2026-04-26T13:00:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47909979\">Comments</a>"
-  },
-  {
     "title": "Self-updating screenshots",
     "link": "https://interblah.net/self-updating-screenshots",
     "source": "Hacker News",
     "published": "2026-04-26T07:00:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47908051\">Comments</a>"
+  },
+  {
+    "title": "A Guide to CubeSat Mission and Bus Design",
+    "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+    "source": "Hacker News",
+    "published": "2026-04-26T02:15:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47906666\">Comments</a>"
   },
   {
     "title": "When the cheap one is the cool one",
@@ -144,6 +120,30 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
   },
   {
+    "title": "Mystery Cpuid Bit",
+    "link": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+    "source": "Hacker News",
+    "published": "2026-04-25T06:27:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47899199\">Comments</a>"
+  },
+  {
+    "title": "Quirks of Human Anatomy",
+    "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+    "source": "Hacker News",
+    "published": "2026-04-25T04:31:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47898660\">Comments</a>"
+  },
+  {
+    "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+    "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+    "source": "Hacker News",
+    "published": "2026-04-24T04:57:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885719\">Comments</a>"
+  },
+  {
     "title": "Box to save memory in Rust",
     "link": "https://dystroy.org/blog/box-to-save-memory/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47878231\">Comments</a>"
   },
   {
-    "title": "When Your Digital Life Vanishes",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+    "title": "Flipdiscs",
+    "link": "https://flipdisc.io",
     "source": "Hacker News",
-    "published": "2026-04-22T22:31:24+00:00",
+    "published": "2026-04-23T13:54:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47870162\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47875795\">Comments</a>"
   }
 ]
