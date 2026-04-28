@@ -1,11 +1,75 @@
 [
   {
-    "title": "Claude.ai is unavailable",
+    "title": "BP profits more than double as Iran war sends oil prices higher",
+    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no",
+    "source": "Hacker News",
+    "published": "2026-04-28T20:50:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940545\">Comments</a>"
+  },
+  {
+    "title": "I Won a Championship That Doesn't Exist",
+    "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+    "source": "Hacker News",
+    "published": "2026-04-28T20:38:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940389\">Comments</a>"
+  },
+  {
+    "title": "Ghostty is leaving GitHub",
+    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "source": "Hacker News",
+    "published": "2026-04-28T19:44:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939579\">Comments</a>"
+  },
+  {
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "source": "Hacker News",
+    "published": "2026-04-28T19:24:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939320\">Comments</a>"
+  },
+  {
+    "title": "CJIT: C, Just in Time",
+    "link": "https://dyne.org/cjit/",
+    "source": "Hacker News",
+    "published": "2026-04-28T19:10:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939105\">Comments</a>"
+  },
+  {
+    "title": "A playable DOOM MCP app",
+    "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "source": "Hacker News",
+    "published": "2026-04-28T19:08:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939079\">Comments</a>"
+  },
+  {
+    "title": "Waymo in Portland",
+    "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
+    "source": "Hacker News",
+    "published": "2026-04-28T18:08:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47938184\">Comments</a>"
+  },
+  {
+    "title": "Claude.ai unavailable and elevated errors on the API",
     "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
     "source": "Hacker News",
     "published": "2026-04-28T18:01:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47938097\">Comments</a>"
+  },
+  {
+    "title": "Warp is now Open-Source",
+    "link": "https://github.com/warpdotdev/warp",
+    "source": "Hacker News",
+    "published": "2026-04-28T17:09:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937349\">Comments</a>"
   },
   {
     "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
@@ -16,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47937203\">Comments</a>"
   },
   {
-    "title": "AI's Economics Don't Make Sense",
-    "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:39:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936867\">Comments</a>"
-  },
-  {
-    "title": "Laguna XS.2 and M.1",
-    "link": "https://poolside.ai/blog/laguna-a-deeper-dive",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:17:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936511\">Comments</a>"
-  },
-  {
     "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
     "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
     "source": "Hacker News",
@@ -40,55 +88,39 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47936479\">Comments</a>"
   },
   {
-    "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
-    "link": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "link": "https://github.com/trycua/cua",
     "source": "Hacker News",
-    "published": "2026-04-28T16:07:58+00:00",
+    "published": "2026-04-28T16:03:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936370\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936312\">Comments</a>"
   },
   {
-    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-    "link": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "title": "Warp is now open-source",
+    "link": "https://www.warp.dev/blog/warp-is-now-open-source",
     "source": "Hacker News",
-    "published": "2026-04-28T16:06:01+00:00",
+    "published": "2026-04-28T15:58:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936347\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936264\">Comments</a>"
   },
   {
-    "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-    "link": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+    "title": "Your phone is about to stop being yours",
+    "link": "https://keepandroidopen.org/en/",
     "source": "Hacker News",
-    "published": "2026-04-28T15:54:21+00:00",
+    "published": "2026-04-28T15:21:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936210\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47935853\">Comments</a>"
   },
   {
-    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "title": "UAE to leave OPEC",
+    "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
     "source": "Hacker News",
-    "published": "2026-04-28T15:49:22+00:00",
+    "published": "2026-04-28T13:02:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936156\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47933983\">Comments</a>"
   },
   {
-    "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-    "link": "https://www.lumara-space.app/",
-    "source": "Hacker News",
-    "published": "2026-04-28T13:25:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47934261\">Comments</a>"
-  },
-  {
-    "title": "GitHub Actions is the weakest link",
-    "link": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-    "source": "Hacker News",
-    "published": "2026-04-28T11:58:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47933257\">Comments</a>"
-  },
-  {
-    "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+    "title": "VibeVoice: Open-source frontier voice AI",
     "link": "https://github.com/microsoft/VibeVoice",
     "source": "Hacker News",
     "published": "2026-04-28T11:56:04+00:00",
@@ -104,44 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47933208\">Comments</a>"
   },
   {
-    "title": "Who owns the code Claude Code wrote?",
-    "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "title": "Patch applies fake diffs from commit messages",
+    "link": "https://samizdat.dev/phantom-patch/",
     "source": "Hacker News",
-    "published": "2026-04-28T11:24:52+00:00",
+    "published": "2026-04-27T03:00:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932937\">Comments</a>"
-  },
-  {
-    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-    "link": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-    "source": "Hacker News",
-    "published": "2026-04-28T09:01:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932028\">Comments</a>"
-  },
-  {
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "link": "https://talkie-lm.com/introducing-talkie",
-    "source": "Hacker News",
-    "published": "2026-04-27T21:55:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>"
-  },
-  {
-    "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-    "link": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-    "source": "Hacker News",
-    "published": "2026-04-26T21:51:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47915023\">Comments</a>"
-  },
-  {
-    "title": "Things C++26 define_static_array can't do",
-    "link": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
-    "source": "Hacker News",
-    "published": "2026-04-26T13:32:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47910201\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47917250\">Comments</a>"
   },
   {
     "title": "I have officially retired from Emacs",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47906651\">Comments</a>"
   },
   {
-    "title": "ASML became the chokepoint for cutting-edge chips",
-    "link": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+    "title": "Intel Arc Pro B70 Review",
+    "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
     "source": "Hacker News",
-    "published": "2026-04-25T12:47:32+00:00",
+    "published": "2026-04-24T04:44:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47901064\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47885644\">Comments</a>"
   }
 ]
