@@ -1,6 +1,22 @@
 [
   {
-    "title": "Three men are facing 44 charges in Toronto SMS Blaster Arrests",
+    "title": "New Integrated by Design FreeBSD Book",
+    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "source": "Hacker News",
+    "published": "2026-04-27T23:14:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>"
+  },
+  {
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "link": "https://talkie-lm.com/introducing-talkie",
+    "source": "Hacker News",
+    "published": "2026-04-27T21:55:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>"
+  },
+  {
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
     "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
     "source": "Hacker News",
     "published": "2026-04-27T20:44:16+00:00",
@@ -8,20 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47927070\">Comments</a>"
   },
   {
-    "title": "L123: A Lotus 1-2-3\u2013style terminal spreadsheet with modern Excel compatibility",
-    "link": "https://github.com/duane1024/l123",
+    "title": "Is my blue your blue?",
+    "link": "https://ismy.blue/",
     "source": "Hacker News",
-    "published": "2026-04-27T19:53:29+00:00",
+    "published": "2026-04-27T20:24:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926480\">Comments</a>"
-  },
-  {
-    "title": "U.S. companies back Sam Altman's World ID even as much of the world pushes back",
-    "link": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/",
-    "source": "Hacker News",
-    "published": "2026-04-27T19:35:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926259\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926861\">Comments</a>"
   },
   {
     "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
@@ -80,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47921248\">Comments</a>"
   },
   {
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-    "link": "https://github.com/dirac-run/dirac",
-    "source": "Hacker News",
-    "published": "2026-04-27T12:35:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920787\">Comments</a>"
-  },
-  {
     "title": "China blocks Meta's acquisition of AI startup Manus",
     "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
     "source": "Hacker News",
@@ -120,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47919630\">Comments</a>"
   },
   {
+    "title": "The Secret Life of NaN",
+    "link": "https://anniecherkaev.com/the-secret-life-of-nan",
+    "source": "Hacker News",
+    "published": "2026-04-26T10:56:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47909252\">Comments</a>"
+  },
+  {
     "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
     "link": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
     "source": "Hacker News",
@@ -128,23 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47907175\">Comments</a>"
   },
   {
-    "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
-    "link": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+    "title": "Meetings Are Forcing Functions",
+    "link": "https://www.mooreds.com/wordpress/archives/3734",
     "source": "Hacker News",
-    "published": "2026-04-25T21:17:02+00:00",
+    "published": "2026-04-26T03:12:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47904615\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47906942\">Comments</a>"
   },
   {
-    "title": "Adding a team was the wrong strategic decision",
-    "link": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
-    "source": "Hacker News",
-    "published": "2026-04-25T19:53:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47904053\">Comments</a>"
-  },
-  {
-    "title": "The Quiet Resurgence of RF Engineering",
+    "title": "The quiet resurgence of RF engineering",
     "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
     "source": "Hacker News",
     "published": "2026-04-25T18:25:54+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47903439\">Comments</a>"
   },
   {
-    "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-    "link": "https://github.com/WeebLabs/DSPi",
+    "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
+    "link": "https://radarlaboratory.com/",
     "source": "Hacker News",
-    "published": "2026-04-25T13:28:29+00:00",
+    "published": "2026-04-25T14:24:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47901433\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47901776\">Comments</a>"
   }
 ]
