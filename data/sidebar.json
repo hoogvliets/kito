@@ -8,12 +8,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47931035\">Comments</a>"
   },
   {
-    "title": "Vibe Coding Will Break Your Company",
-    "link": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
+    "title": "WASM is not quite a stack machine",
+    "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
     "source": "Hacker News",
-    "published": "2026-04-28T05:35:34+00:00",
+    "published": "2026-04-28T04:34:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47930738\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47930493\">Comments</a>"
   },
   {
     "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
@@ -24,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47930170\">Comments</a>"
   },
   {
-    "title": "Show HN: AgentSwift \u2013 Open-source iOS builder agent",
-    "link": "https://github.com/hpennington/agentswift",
-    "source": "Hacker News",
-    "published": "2026-04-28T01:14:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47929375\">Comments</a>"
-  },
-  {
     "title": "High Performance Git",
     "link": "https://gitperf.com/",
     "source": "Hacker News",
     "published": "2026-04-28T00:32:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47929035\">Comments</a>"
-  },
-  {
-    "title": "Integrated by Design",
-    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-    "source": "Hacker News",
-    "published": "2026-04-27T23:14:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>"
   },
   {
     "title": "Talkie: a 13B vintage language model from 1930",
@@ -120,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47919630\">Comments</a>"
   },
   {
+    "title": "Can You Find the Comet?",
+    "link": "https://apod.nasa.gov/apod/ap260427.html",
+    "source": "Hacker News",
+    "published": "2026-04-27T07:59:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47918891\">Comments</a>"
+  },
+  {
     "title": "Meetings are forcing functions",
     "link": "https://www.mooreds.com/wordpress/archives/3734",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-04-25T15:41:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47902269\">Comments</a>"
+  },
+  {
+    "title": "The World's Most Complex Machine",
+    "link": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+    "source": "Hacker News",
+    "published": "2026-04-25T12:47:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47901064\">Comments</a>"
   },
   {
     "title": "Pgrx: Build Postgres Extensions with Rust",
