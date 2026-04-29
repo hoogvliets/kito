@@ -1,11 +1,19 @@
 [
   {
-    "title": "Bugs Rust Won't Catch",
+    "title": "Bugs Rust won't catch",
     "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
     "source": "Hacker News",
     "published": "2026-04-29T02:19:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47943499\">Comments</a>"
+  },
+  {
+    "title": "When the Internet Was a Place",
+    "link": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
+    "source": "Hacker News",
+    "published": "2026-04-29T01:36:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47943190\">Comments</a>"
   },
   {
     "title": "We decreased our LLM costs with Opus",
@@ -30,14 +38,6 @@
     "published": "2026-04-28T23:54:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>"
-  },
-  {
-    "title": "Claude for Creative Work",
-    "link": "https://www.anthropic.com/news/claude-for-creative-work",
-    "source": "Hacker News",
-    "published": "2026-04-28T23:46:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47942386\">Comments</a>"
   },
   {
     "title": "Apple CMF (Color-Matching Functions) 2026",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47936479\">Comments</a>"
   },
   {
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "link": "https://github.com/trycua/cua",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:03:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936312\">Comments</a>"
-  },
-  {
     "title": "Warp is now open-source",
     "link": "https://www.warp.dev/blog/warp-is-now-open-source",
     "source": "Hacker News",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47932937\">Comments</a>"
   },
   {
-    "title": "Nonlinearity Affects a Pendulum",
-    "link": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "link": "https://talkie-lm.com/introducing-talkie",
     "source": "Hacker News",
-    "published": "2026-04-27T14:56:21+00:00",
+    "published": "2026-04-27T21:55:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47922482\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>"
+  },
+  {
+    "title": "Withnail's Coat and I",
+    "link": "https://ontherow.substack.com/p/withnails-coat-and-i",
+    "source": "Hacker News",
+    "published": "2026-04-27T19:27:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926148\">Comments</a>"
   },
   {
     "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
