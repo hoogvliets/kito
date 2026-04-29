@@ -1,5 +1,69 @@
 [
   {
+    "title": "Why AI companies want you to be afraid of them",
+    "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+    "source": "Hacker News",
+    "published": "2026-04-29T15:26:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949750\">Comments</a>"
+  },
+  {
+    "title": "Mistral Medium 3.5",
+    "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "source": "Hacker News",
+    "published": "2026-04-29T15:17:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949642\">Comments</a>"
+  },
+  {
+    "title": "Zed is 1.0",
+    "link": "https://zed.dev/blog/zed-1-0",
+    "source": "Hacker News",
+    "published": "2026-04-29T14:34:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949027\">Comments</a>"
+  },
+  {
+    "title": "Tangled \u2013 We need a federation of forges",
+    "link": "https://blog.tangled.org/federation/",
+    "source": "Hacker News",
+    "published": "2026-04-29T14:00:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47948603\">Comments</a>"
+  },
+  {
+    "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+    "link": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+    "source": "Hacker News",
+    "published": "2026-04-29T13:05:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947834\">Comments</a>"
+  },
+  {
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "source": "Hacker News",
+    "published": "2026-04-29T12:43:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
+    "link": "https://github.com/electricant/adblock-rust-manager",
+    "source": "Hacker News",
+    "published": "2026-04-29T12:24:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947369\">Comments</a>"
+  },
+  {
+    "title": "Coffee with a splash of physics: how to make the most out of your brew",
+    "link": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
+    "source": "Hacker News",
+    "published": "2026-04-29T12:18:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947318\">Comments</a>"
+  },
+  {
     "title": "Stardex Is Hiring a Founding Customer Success Lead",
     "link": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
     "source": "Hacker News",
@@ -8,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47947125\">Comments</a>"
   },
   {
-    "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-    "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+    "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+    "link": "https://github.com/DOS-History/Paterson-Listings",
     "source": "Hacker News",
-    "published": "2026-04-29T11:42:46+00:00",
+    "published": "2026-04-29T11:25:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47946958\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47946813\">Comments</a>"
   },
   {
     "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
@@ -30,30 +94,6 @@
     "published": "2026-04-29T09:14:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47945918\">Comments</a>"
-  },
-  {
-    "title": "Why Law Is Law-Shaped",
-    "link": "https://lawvm.org/why-law-is-law-shaped/",
-    "source": "Hacker News",
-    "published": "2026-04-29T09:03:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47945861\">Comments</a>"
-  },
-  {
-    "title": "Tell HN: An update from the new Tindie team",
-    "link": "https://news.ycombinator.com/item?id=47945522",
-    "source": "Hacker News",
-    "published": "2026-04-29T08:16:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47945522\">Comments</a>"
-  },
-  {
-    "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-    "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-    "source": "Hacker News",
-    "published": "2026-04-29T06:47:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47944931\">Comments</a>"
   },
   {
     "title": "HardenedBSD Is Now Officially on Radicle",
@@ -88,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47940921\">Comments</a>"
   },
   {
-    "title": "I won a championship that doesn't exist",
-    "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-    "source": "Hacker News",
-    "published": "2026-04-28T20:38:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940389\">Comments</a>"
-  },
-  {
     "title": "Ghostty is leaving GitHub",
     "link": "https://mitchellh.com/writing/ghostty-leaving-github",
     "source": "Hacker News",
     "published": "2026-04-28T19:44:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47939579\">Comments</a>"
-  },
-  {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "source": "Hacker News",
-    "published": "2026-04-28T19:24:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939320\">Comments</a>"
   },
   {
     "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
@@ -120,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47937380\">Comments</a>"
   },
   {
-    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-    "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:15:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936479\">Comments</a>"
-  },
-  {
     "title": "Show HN: Rocky \u2013 Rust SQL engine with branches, replay, column lineage",
     "link": "https://github.com/rocky-data/rocky",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47935246\">Comments</a>"
   },
   {
-    "title": "Who owns the code Claude Code wrote?",
-    "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "source": "Hacker News",
-    "published": "2026-04-28T11:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932937\">Comments</a>"
-  },
-  {
     "title": "Withnail's Coat and I",
     "link": "https://ontherow.substack.com/p/withnails-coat-and-i",
     "source": "Hacker News",
     "published": "2026-04-27T19:27:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47926148\">Comments</a>"
-  },
-  {
-    "title": "Gallium oxide electronics withstand extreme cold",
-    "link": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
-    "source": "Hacker News",
-    "published": "2026-04-27T11:31:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47920214\">Comments</a>"
   }
 ]
