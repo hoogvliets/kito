@@ -1,14 +1,30 @@
 [
   {
-    "title": "BP profits more than double as Iran war sends oil prices higher",
-    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no",
+    "title": "ChatGPT serves ads. Here's the full attribution loop",
+    "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
     "source": "Hacker News",
-    "published": "2026-04-28T20:50:08+00:00",
+    "published": "2026-04-28T23:54:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940545\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>"
   },
   {
-    "title": "I Won a Championship That Doesn't Exist",
+    "title": "Carrot Disclosure: Forgejo",
+    "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "source": "Hacker News",
+    "published": "2026-04-28T22:14:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47941590\">Comments</a>"
+  },
+  {
+    "title": "Before GitHub",
+    "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "source": "Hacker News",
+    "published": "2026-04-28T21:17:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940921\">Comments</a>"
+  },
+  {
+    "title": "I won a championship that doesn't exist",
     "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
     "source": "Hacker News",
     "published": "2026-04-28T20:38:21+00:00",
@@ -48,30 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47939079\">Comments</a>"
   },
   {
-    "title": "Waymo in Portland",
-    "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
-    "source": "Hacker News",
-    "published": "2026-04-28T18:08:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47938184\">Comments</a>"
-  },
-  {
-    "title": "Claude.ai unavailable and elevated errors on the API",
-    "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "source": "Hacker News",
-    "published": "2026-04-28T18:01:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47938097\">Comments</a>"
-  },
-  {
-    "title": "Warp is now Open-Source",
-    "link": "https://github.com/warpdotdev/warp",
-    "source": "Hacker News",
-    "published": "2026-04-28T17:09:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937349\">Comments</a>"
-  },
-  {
     "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
     "link": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
     "source": "Hacker News",
@@ -86,14 +78,6 @@
     "published": "2026-04-28T16:15:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47936479\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "link": "https://github.com/trycua/cua",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:03:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936312\">Comments</a>"
   },
   {
     "title": "Warp is now open-source",
@@ -112,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47935853\">Comments</a>"
   },
   {
-    "title": "UAE to leave OPEC",
-    "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-    "source": "Hacker News",
-    "published": "2026-04-28T13:02:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47933983\">Comments</a>"
-  },
-  {
     "title": "VibeVoice: Open-source frontier voice AI",
     "link": "https://github.com/microsoft/VibeVoice",
     "source": "Hacker News",
@@ -136,6 +112,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47933208\">Comments</a>"
   },
   {
+    "title": "Who owns the code Claude Code wrote?",
+    "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "source": "Hacker News",
+    "published": "2026-04-28T11:24:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932937\">Comments</a>"
+  },
+  {
+    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+    "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+    "source": "Hacker News",
+    "published": "2026-04-27T13:54:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47921610\">Comments</a>"
+  },
+  {
     "title": "Patch applies fake diffs from commit messages",
     "link": "https://samizdat.dev/phantom-patch/",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-04-26T02:12:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47906651\">Comments</a>"
+  },
+  {
+    "title": "APL\\? (1990)",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/97811.97845",
+    "source": "Hacker News",
+    "published": "2026-04-24T18:49:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47894312\">Comments</a>"
   },
   {
     "title": "Intel Arc Pro B70 Review",
