@@ -1,11 +1,59 @@
 [
   {
-    "title": "Recovering files from beyond the grave using PhotoRec",
-    "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+    "title": "Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017",
+    "link": "https://github.com/rootsecdev/cve_2026_31431",
     "source": "Hacker News",
-    "published": "2026-04-30T17:42:11+00:00",
+    "published": "2026-04-30T20:48:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965835\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47968027\">Comments</a>"
+  },
+  {
+    "title": "Rivian allows you to disable all internet connectivity",
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "source": "Hacker News",
+    "published": "2026-04-30T20:27:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967786\">Comments</a>"
+  },
+  {
+    "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+    "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+    "source": "Hacker News",
+    "published": "2026-04-30T19:42:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967289\">Comments</a>"
+  },
+  {
+    "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+    "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+    "source": "Hacker News",
+    "published": "2026-04-30T19:40:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967262\">Comments</a>"
+  },
+  {
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "source": "Hacker News",
+    "published": "2026-04-30T19:22:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967069\">Comments</a>"
+  },
+  {
+    "title": "Does Postgres Scale?",
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "source": "Hacker News",
+    "published": "2026-04-30T18:45:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966625\">Comments</a>"
+  },
+  {
+    "title": "Full-Text Search with DuckDB",
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "source": "Hacker News",
+    "published": "2026-04-30T18:14:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966254\">Comments</a>"
   },
   {
     "title": "I built a Game Boy emulator in F#",
@@ -16,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>"
   },
   {
-    "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
-    "link": "https://github.com/carlovalenti/TRiP",
-    "source": "Hacker News",
-    "published": "2026-04-30T16:48:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965161\">Comments</a>"
-  },
-  {
-    "title": "CopyFail Was Not Disclosed to Distros",
+    "title": "CopyFail was not disclosed to Gentoo developer",
     "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
     "source": "Hacker News",
     "published": "2026-04-30T16:43:47+00:00",
@@ -40,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47965060\">Comments</a>"
   },
   {
-    "title": "SatoshiGuesser \u2013 Roll for Bitcoin",
-    "link": "https://github.com/Pathos0925/SatoshiGuesser",
-    "source": "Hacker News",
-    "published": "2026-04-30T16:29:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964897\">Comments</a>"
-  },
-  {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
     "source": "Hacker News",
     "published": "2026-04-30T16:09:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>"
-  },
-  {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "source": "Hacker News",
-    "published": "2026-04-30T15:31:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964034\">Comments</a>"
-  },
-  {
-    "title": "A 1960s art school experiment that redefined creativity",
-    "link": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-    "source": "Hacker News",
-    "published": "2026-04-30T15:20:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963868\">Comments</a>"
   },
   {
     "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
@@ -88,15 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47963204\">Comments</a>"
   },
   {
-    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-    "link": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
-    "source": "Hacker News",
-    "published": "2026-04-30T14:26:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963026\">Comments</a>"
-  },
-  {
-    "title": "How an Oil Refinery Works",
+    "title": "How an oil refinery works",
     "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
     "source": "Hacker News",
     "published": "2026-04-30T13:54:20+00:00",
@@ -120,36 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47961319\">Comments</a>"
   },
   {
-    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-    "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "source": "Hacker News",
-    "published": "2026-04-30T10:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47960507\">Comments</a>"
-  },
-  {
     "title": "Mozilla's opposition to Chrome's Prompt API",
-    "link": "https://github.com/mozilla/standards-positions/issues/1213",
+    "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
     "source": "Hacker News",
     "published": "2026-04-30T07:43:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
   },
   {
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "title": "The Church Rock Uranium Mill Spill",
+    "link": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
     "source": "Hacker News",
-    "published": "2026-04-30T02:15:47+00:00",
+    "published": "2026-04-28T19:13:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957294\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939158\">Comments</a>"
   },
   {
-    "title": "10Gb/s Ethernet: what I did to get it working in my home",
-    "link": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+    "title": "Reverse Engineering SimTower",
+    "link": "https://phulin.me/blog/simtower",
     "source": "Hacker News",
-    "published": "2026-04-29T13:15:46+00:00",
+    "published": "2026-04-28T17:41:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947944\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937814\">Comments</a>"
   },
   {
     "title": "You can beat the binary search",
