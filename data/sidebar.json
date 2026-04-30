@@ -1,5 +1,85 @@
 [
   {
+    "title": "Recovering files from beyond the grave using PhotoRec",
+    "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+    "source": "Hacker News",
+    "published": "2026-04-30T17:42:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965835\">Comments</a>"
+  },
+  {
+    "title": "I built a Game Boy emulator in F#",
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "source": "Hacker News",
+    "published": "2026-04-30T17:14:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
+    "link": "https://github.com/carlovalenti/TRiP",
+    "source": "Hacker News",
+    "published": "2026-04-30T16:48:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965161\">Comments</a>"
+  },
+  {
+    "title": "CopyFail Was Not Disclosed to Distros",
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "source": "Hacker News",
+    "published": "2026-04-30T16:43:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965108\">Comments</a>"
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "source": "Hacker News",
+    "published": "2026-04-30T16:41:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965060\">Comments</a>"
+  },
+  {
+    "title": "SatoshiGuesser \u2013 Roll for Bitcoin",
+    "link": "https://github.com/Pathos0925/SatoshiGuesser",
+    "source": "Hacker News",
+    "published": "2026-04-30T16:29:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964897\">Comments</a>"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "source": "Hacker News",
+    "published": "2026-04-30T16:09:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>"
+  },
+  {
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "source": "Hacker News",
+    "published": "2026-04-30T15:31:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964034\">Comments</a>"
+  },
+  {
+    "title": "A 1960s art school experiment that redefined creativity",
+    "link": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+    "source": "Hacker News",
+    "published": "2026-04-30T15:20:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963868\">Comments</a>"
+  },
+  {
+    "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
+    "link": "https://honker.dev/",
+    "source": "Hacker News",
+    "published": "2026-04-30T14:43:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963316\">Comments</a>"
+  },
+  {
     "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
     "link": "https://twitter.com/theo/status/2049645973350363168",
     "source": "Hacker News",
@@ -8,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47963204\">Comments</a>"
   },
   {
-    "title": "The More Young People Use AI, the More They Hate It",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+    "link": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
     "source": "Hacker News",
-    "published": "2026-04-30T14:34:36+00:00",
+    "published": "2026-04-30T14:26:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963163\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963026\">Comments</a>"
   },
   {
     "title": "How an Oil Refinery Works",
@@ -22,30 +102,6 @@
     "published": "2026-04-30T13:54:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
-  },
-  {
-    "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
-    "link": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:45:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962386\">Comments</a>"
-  },
-  {
-    "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
-    "link": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:15:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961934\">Comments</a>"
-  },
-  {
-    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-    "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:07:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>"
   },
   {
     "title": "I aggregated 28 US Government auction sites into one search",
@@ -64,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47961319\">Comments</a>"
   },
   {
-    "title": "GCC 16 has been released",
-    "link": "https://gcc.gnu.org/gcc-16/changes.html",
-    "source": "Hacker News",
-    "published": "2026-04-30T11:40:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961004\">Comments</a>"
-  },
-  {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
     "source": "Hacker News",
@@ -80,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47960507\">Comments</a>"
   },
   {
-    "title": "Mozilla's Opposition to Chrome's Prompt API",
+    "title": "Mozilla's opposition to Chrome's Prompt API",
     "link": "https://github.com/mozilla/standards-positions/issues/1213",
     "source": "Hacker News",
     "published": "2026-04-30T07:43:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
-  },
-  {
-    "title": "Where the goblins came from",
-    "link": "https://openai.com/index/where-the-goblins-came-from/",
-    "source": "Hacker News",
-    "published": "2026-04-30T03:21:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957688\">Comments</a>"
   },
   {
     "title": "The Zig project's rationale for their anti-AI contribution policy",
@@ -104,52 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957294\">Comments</a>"
   },
   {
-    "title": "Craig Venter has died",
-    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "title": "10Gb/s Ethernet: what I did to get it working in my home",
+    "link": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
     "source": "Hacker News",
-    "published": "2026-04-30T01:44:56+00:00",
+    "published": "2026-04-29T13:15:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>"
-  },
-  {
-    "title": "Copy Fail",
-    "link": "https://copy.fail/",
-    "source": "Hacker News",
-    "published": "2026-04-29T18:13:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47952181\">Comments</a>"
-  },
-  {
-    "title": "A Primer on B\u00e9zier Curves \u2013 So What Makes a B\u00e9zier Curve?",
-    "link": "https://pomax.github.io/bezierinfo/",
-    "source": "Hacker News",
-    "published": "2026-04-28T12:57:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47933934\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I wrote a DOOM clone in my own programming language",
-    "link": "https://spectrelang.org/log/devlog#cubedoom",
-    "source": "Hacker News",
-    "published": "2026-04-28T11:29:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932974\">Comments</a>"
-  },
-  {
-    "title": "Noctua releases official 3D CAD models for its cooling fans",
-    "link": "https://www.noctua.at/en/3d-cad-models",
-    "source": "Hacker News",
-    "published": "2026-04-27T21:35:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47927627\">Comments</a>"
-  },
-  {
-    "title": "My Stratum-0 Atomic Clock",
-    "link": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
-    "source": "Hacker News",
-    "published": "2026-04-27T19:02:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47925792\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47947944\">Comments</a>"
   },
   {
     "title": "You can beat the binary search",
