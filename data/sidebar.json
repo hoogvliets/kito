@@ -1,19 +1,75 @@
 [
   {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "source": "Hacker News",
+    "published": "2026-04-30T14:36:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963204\">Comments</a>"
+  },
+  {
+    "title": "The More Young People Use AI, the More They Hate It",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "source": "Hacker News",
+    "published": "2026-04-30T14:34:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963163\">Comments</a>"
+  },
+  {
+    "title": "How an Oil Refinery Works",
+    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "source": "Hacker News",
+    "published": "2026-04-30T13:54:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
+  },
+  {
+    "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
+    "link": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+    "source": "Hacker News",
+    "published": "2026-04-30T13:45:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962386\">Comments</a>"
+  },
+  {
+    "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
+    "link": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+    "source": "Hacker News",
+    "published": "2026-04-30T13:15:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961934\">Comments</a>"
+  },
+  {
+    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+    "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+    "source": "Hacker News",
+    "published": "2026-04-30T13:07:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>"
+  },
+  {
+    "title": "I aggregated 28 US Government auction sites into one search",
+    "link": "https://bidprowl.com",
+    "source": "Hacker News",
+    "published": "2026-04-30T12:24:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961378\">Comments</a>"
+  },
+  {
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "source": "Hacker News",
+    "published": "2026-04-30T12:17:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961319\">Comments</a>"
+  },
+  {
     "title": "GCC 16 has been released",
     "link": "https://gcc.gnu.org/gcc-16/changes.html",
     "source": "Hacker News",
     "published": "2026-04-30T11:40:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47961004\">Comments</a>"
-  },
-  {
-    "title": "How to Disable Firefox's New Emoji Picker",
-    "link": "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/",
-    "source": "Hacker News",
-    "published": "2026-04-30T10:49:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47960643\">Comments</a>"
   },
   {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
@@ -24,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47960507\">Comments</a>"
   },
   {
-    "title": "DataCenter.FM \u2013 background noise app featuring the sound of the AI bubble",
-    "link": "https://datacenter.fm/",
-    "source": "Hacker News",
-    "published": "2026-04-30T07:52:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47959513\">Comments</a>"
-  },
-  {
     "title": "Mozilla's Opposition to Chrome's Prompt API",
     "link": "https://github.com/mozilla/standards-positions/issues/1213",
     "source": "Hacker News",
@@ -40,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
   },
   {
-    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-    "link": "https://burrito.bio/essays/biology-is-a-burrito",
-    "source": "Hacker News",
-    "published": "2026-04-30T03:24:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957714\">Comments</a>"
-  },
-  {
     "title": "Where the goblins came from",
     "link": "https://openai.com/index/where-the-goblins-came-from/",
     "source": "Hacker News",
     "published": "2026-04-30T03:21:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957688\">Comments</a>"
-  },
-  {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "source": "Hacker News",
-    "published": "2026-04-30T03:11:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957627\">Comments</a>"
   },
   {
     "title": "The Zig project's rationale for their anti-AI contribution policy",
@@ -80,52 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>"
   },
   {
-    "title": "OpenTrafficMap",
-    "link": "https://opentrafficmap.org/",
-    "source": "Hacker News",
-    "published": "2026-04-29T19:49:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47953541\">Comments</a>"
-  },
-  {
     "title": "Copy Fail",
     "link": "https://copy.fail/",
     "source": "Hacker News",
     "published": "2026-04-29T18:13:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47952181\">Comments</a>"
-  },
-  {
-    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-    "source": "Hacker News",
-    "published": "2026-04-29T16:16:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47950510\">Comments</a>"
-  },
-  {
-    "title": "Cursor Camp",
-    "link": "https://neal.fun/cursor-camp/",
-    "source": "Hacker News",
-    "published": "2026-04-29T15:39:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949939\">Comments</a>"
-  },
-  {
-    "title": "Zed 1.0",
-    "link": "https://zed.dev/blog/zed-1-0",
-    "source": "Hacker News",
-    "published": "2026-04-29T14:34:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949027\">Comments</a>"
-  },
-  {
-    "title": "London to Calcutta by Bus (2022)",
-    "link": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-    "source": "Hacker News",
-    "published": "2026-04-28T22:52:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47941931\">Comments</a>"
   },
   {
     "title": "A Primer on B\u00e9zier Curves \u2013 So What Makes a B\u00e9zier Curve?",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47933934\">Comments</a>"
   },
   {
+    "title": "Show HN: I wrote a DOOM clone in my own programming language",
+    "link": "https://spectrelang.org/log/devlog#cubedoom",
+    "source": "Hacker News",
+    "published": "2026-04-28T11:29:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47932974\">Comments</a>"
+  },
+  {
     "title": "Noctua releases official 3D CAD models for its cooling fans",
     "link": "https://www.noctua.at/en/3d-cad-models",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47927627\">Comments</a>"
   },
   {
-    "title": "The Duolingo taxi test\u2013could being rude to the driver cost you your dream job?",
-    "link": "https://phys.org/news/2026-04-duolingo-taxi-rude-driver-job.html",
+    "title": "My Stratum-0 Atomic Clock",
+    "link": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
     "source": "Hacker News",
-    "published": "2026-04-27T19:55:15+00:00",
+    "published": "2026-04-27T19:02:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926506\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47925792\">Comments</a>"
   },
   {
-    "title": "\"Parse, don't validate\" through the years with C++",
-    "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+    "title": "You can beat the binary search",
+    "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
     "source": "Hacker News",
-    "published": "2026-04-27T16:08:34+00:00",
+    "published": "2026-04-27T17:52:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47923429\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924912\">Comments</a>"
   }
 ]
