@@ -1,19 +1,43 @@
 [
   {
+    "title": "GCC 16 has been released",
+    "link": "https://gcc.gnu.org/gcc-16/changes.html",
+    "source": "Hacker News",
+    "published": "2026-04-30T11:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961004\">Comments</a>"
+  },
+  {
+    "title": "How to Disable Firefox's New Emoji Picker",
+    "link": "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/",
+    "source": "Hacker News",
+    "published": "2026-04-30T10:49:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47960643\">Comments</a>"
+  },
+  {
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "source": "Hacker News",
+    "published": "2026-04-30T10:31:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47960507\">Comments</a>"
+  },
+  {
+    "title": "DataCenter.FM \u2013 background noise app featuring the sound of the AI bubble",
+    "link": "https://datacenter.fm/",
+    "source": "Hacker News",
+    "published": "2026-04-30T07:52:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47959513\">Comments</a>"
+  },
+  {
     "title": "Mozilla's Opposition to Chrome's Prompt API",
     "link": "https://github.com/mozilla/standards-positions/issues/1213",
     "source": "Hacker News",
     "published": "2026-04-30T07:43:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
-  },
-  {
-    "title": "Monad Tutorials Timeline",
-    "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
-    "source": "Hacker News",
-    "published": "2026-04-30T04:28:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47958106\">Comments</a>"
   },
   {
     "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
@@ -40,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957627\">Comments</a>"
   },
   {
-    "title": "Functional programmers need to take a look at Zig",
-    "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-    "source": "Hacker News",
-    "published": "2026-04-30T03:11:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957624\">Comments</a>"
-  },
-  {
     "title": "The Zig project's rationale for their anti-AI contribution policy",
     "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
     "source": "Hacker News",
@@ -64,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>"
   },
   {
-    "title": "Mike: open-source legal AI",
-    "link": "https://mikeoss.com/",
-    "source": "Hacker News",
-    "published": "2026-04-30T00:56:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47956739\">Comments</a>"
-  },
-  {
     "title": "OpenTrafficMap",
     "link": "https://opentrafficmap.org/",
     "source": "Hacker News",
     "published": "2026-04-29T19:49:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47953541\">Comments</a>"
-  },
-  {
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "link": "https://github.com/anthropics/claude-code/issues/53262",
-    "source": "Hacker News",
-    "published": "2026-04-29T18:54:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47952722\">Comments</a>"
   },
   {
     "title": "Copy Fail",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47941931\">Comments</a>"
   },
   {
-    "title": "Creating a Color Palette from an Image",
-    "link": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+    "title": "A Primer on B\u00e9zier Curves \u2013 So What Makes a B\u00e9zier Curve?",
+    "link": "https://pomax.github.io/bezierinfo/",
     "source": "Hacker News",
-    "published": "2026-04-28T16:23:50+00:00",
+    "published": "2026-04-28T12:57:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936610\">Comments</a>"
-  },
-  {
-    "title": "A 25-Year-Fight over a 2-Second Sample",
-    "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
-    "source": "Hacker News",
-    "published": "2026-04-28T16:00:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936288\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47933934\">Comments</a>"
   },
   {
     "title": "Noctua releases official 3D CAD models for its cooling fans",
@@ -150,6 +142,14 @@
     "published": "2026-04-27T21:35:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47927627\">Comments</a>"
+  },
+  {
+    "title": "The Duolingo taxi test\u2013could being rude to the driver cost you your dream job?",
+    "link": "https://phys.org/news/2026-04-duolingo-taxi-rude-driver-job.html",
+    "source": "Hacker News",
+    "published": "2026-04-27T19:55:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47926506\">Comments</a>"
   },
   {
     "title": "\"Parse, don't validate\" through the years with C++",
