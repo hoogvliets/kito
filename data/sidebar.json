@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mozilla's Opposition to Chrome's Prompt API",
+    "link": "https://github.com/mozilla/standards-positions/issues/1213",
+    "source": "Hacker News",
+    "published": "2026-04-30T07:43:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
+  },
+  {
     "title": "Monad Tutorials Timeline",
     "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
     "source": "Hacker News",
@@ -40,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957624\">Comments</a>"
   },
   {
-    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "title": "The Zig project's rationale for their anti-AI contribution policy",
     "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
     "source": "Hacker News",
     "published": "2026-04-30T02:15:47+00:00",
@@ -54,14 +62,6 @@
     "published": "2026-04-30T01:44:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>"
-  },
-  {
-    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-    "source": "Hacker News",
-    "published": "2026-04-30T01:01:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47956781\">Comments</a>"
   },
   {
     "title": "Mike: open-source legal AI",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47949027\">Comments</a>"
   },
   {
-    "title": "Why I still reach for Lisp and Scheme instead of Haskell",
-    "link": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-    "source": "Hacker News",
-    "published": "2026-04-29T08:43:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47945707\">Comments</a>"
-  },
-  {
     "title": "London to Calcutta by Bus (2022)",
     "link": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
     "source": "Hacker News",
@@ -144,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47936610\">Comments</a>"
   },
   {
+    "title": "A 25-Year-Fight over a 2-Second Sample",
+    "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
+    "source": "Hacker News",
+    "published": "2026-04-28T16:00:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936288\">Comments</a>"
+  },
+  {
     "title": "Noctua releases official 3D CAD models for its cooling fans",
     "link": "https://www.noctua.at/en/3d-cad-models",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47927627\">Comments</a>"
   },
   {
-    "title": "Who Is That Knocking at My (SSH) Door?",
-    "link": "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html",
+    "title": "\"Parse, don't validate\" through the years with C++",
+    "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
     "source": "Hacker News",
-    "published": "2026-04-27T17:28:18+00:00",
+    "published": "2026-04-27T16:08:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924575\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47923429\">Comments</a>"
   }
 ]
