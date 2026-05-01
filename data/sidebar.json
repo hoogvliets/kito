@@ -1,19 +1,27 @@
 [
   {
-    "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-    "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+    "title": "Grok 4.3",
+    "link": "https://docs.x.ai/developers/models/grok-4.3",
     "source": "Hacker News",
-    "published": "2026-05-01T06:20:33+00:00",
+    "published": "2026-05-01T08:29:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47971768\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972447\">Comments</a>"
   },
   {
-    "title": "OpenWarp",
-    "link": "https://openwarp.zerx.dev",
+    "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
     "source": "Hacker News",
-    "published": "2026-05-01T02:10:46+00:00",
+    "published": "2026-05-01T07:44:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47970622\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972213\">Comments</a>"
+  },
+  {
+    "title": "If I Could Make My Own GitHub",
+    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "source": "Hacker News",
+    "published": "2026-05-01T06:21:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47971771\">Comments</a>"
   },
   {
     "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
@@ -64,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>"
   },
   {
-    "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
-    "link": "https://honker.dev/",
-    "source": "Hacker News",
-    "published": "2026-04-30T14:43:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963316\">Comments</a>"
-  },
-  {
     "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
     "link": "https://twitter.com/theo/status/2049645973350363168",
     "source": "Hacker News",
@@ -88,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
   },
   {
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-    "source": "Hacker News",
-    "published": "2026-04-30T12:17:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961319\">Comments</a>"
-  },
-  {
     "title": "Opus 4.7 knows the real Kelsey",
     "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
     "source": "Hacker News",
     "published": "2026-04-29T17:09:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47951295\">Comments</a>"
+  },
+  {
+    "title": "We Run iSCSI over the Internet",
+    "link": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
+    "source": "Hacker News",
+    "published": "2026-04-29T13:30:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47948188\">Comments</a>"
   },
   {
     "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47942863\">Comments</a>"
   },
   {
-    "title": "Reverse Engineering SimTower",
-    "link": "https://phulin.me/blog/simtower",
+    "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
+    "link": "https://nikhiljha.com/posts/vt100/",
     "source": "Hacker News",
-    "published": "2026-04-28T17:41:38+00:00",
+    "published": "2026-04-28T19:17:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937814\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939227\">Comments</a>"
   },
   {
-    "title": "New mechanical panoramic film camera from Jeff Bridges",
-    "link": "https://wideluxx.com",
+    "title": "Auto Polo",
+    "link": "https://en.wikipedia.org/wiki/Auto_polo",
     "source": "Hacker News",
-    "published": "2026-04-28T16:49:12+00:00",
+    "published": "2026-04-28T15:51:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937033\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936184\">Comments</a>"
   },
   {
     "title": "Softmax, can you derive the Jacobian? And should you care?",
