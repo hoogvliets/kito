@@ -1,11 +1,19 @@
 [
   {
-    "title": "Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017",
-    "link": "https://github.com/rootsecdev/cve_2026_31431",
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
     "source": "Hacker News",
-    "published": "2026-04-30T20:48:48+00:00",
+    "published": "2026-04-30T22:18:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47968027\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47968982\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+    "link": "https://pu.dev/",
+    "source": "Hacker News",
+    "published": "2026-04-30T20:55:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47968112\">Comments</a>"
   },
   {
     "title": "Rivian allows you to disable all internet connectivity",
@@ -16,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47967786\">Comments</a>"
   },
   {
-    "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
-    "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+    "title": "The upsell game \u2013 Vercel upselling tactics revealed",
+    "link": "https://theupsellgame.com/",
     "source": "Hacker News",
-    "published": "2026-04-30T19:42:33+00:00",
+    "published": "2026-04-30T20:02:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967289\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967508\">Comments</a>"
   },
   {
     "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
@@ -30,22 +38,6 @@
     "published": "2026-04-30T19:40:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47967262\">Comments</a>"
-  },
-  {
-    "title": "Follow-up to Carrot disclosure: Forgejo",
-    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
-    "source": "Hacker News",
-    "published": "2026-04-30T19:22:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967069\">Comments</a>"
-  },
-  {
-    "title": "Does Postgres Scale?",
-    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-    "source": "Hacker News",
-    "published": "2026-04-30T18:45:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966625\">Comments</a>"
   },
   {
     "title": "Full-Text Search with DuckDB",
@@ -64,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>"
   },
   {
-    "title": "CopyFail was not disclosed to Gentoo developer",
+    "title": "CopyFail was not disclosed to distro developers?",
     "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
     "source": "Hacker News",
     "published": "2026-04-30T16:43:47+00:00",
@@ -112,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
   },
   {
-    "title": "I aggregated 28 US Government auction sites into one search",
-    "link": "https://bidprowl.com",
-    "source": "Hacker News",
-    "published": "2026-04-30T12:24:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961378\">Comments</a>"
-  },
-  {
     "title": "Belgium stops decommissioning nuclear power plants",
     "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
     "source": "Hacker News",
@@ -136,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
   },
   {
+    "title": "Opus 4.7 knows the real Kelsey",
+    "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+    "source": "Hacker News",
+    "published": "2026-04-29T17:09:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47951295\">Comments</a>"
+  },
+  {
     "title": "The Church Rock Uranium Mill Spill",
     "link": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-04-28T17:41:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47937814\">Comments</a>"
+  },
+  {
+    "title": "New mechanical panoramic film camera from Jeff Bridges",
+    "link": "https://wideluxx.com",
+    "source": "Hacker News",
+    "published": "2026-04-28T16:49:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47937033\">Comments</a>"
   },
   {
     "title": "You can beat the binary search",
