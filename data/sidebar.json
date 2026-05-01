@@ -1,5 +1,69 @@
 [
   {
+    "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "link": "https://www.pagetable.com/?p=1854",
+    "source": "Hacker News",
+    "published": "2026-05-01T11:58:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>"
+  },
+  {
+    "title": "Apple accidentally left Claude.md files Apple Support app",
+    "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
+    "source": "Hacker News",
+    "published": "2026-05-01T11:08:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973378\">Comments</a>"
+  },
+  {
+    "title": "Your Website Is Not for You",
+    "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+    "source": "Hacker News",
+    "published": "2026-05-01T11:08:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973376\">Comments</a>"
+  },
+  {
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "source": "Hacker News",
+    "published": "2026-05-01T10:28:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973108\">Comments</a>"
+  },
+  {
+    "title": "A beginner's guide to Sourcehut (2025)",
+    "link": "https://btxx.org/posts/beginners-guide-sourcehut/",
+    "source": "Hacker News",
+    "published": "2026-05-01T10:23:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973084\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+    "link": "https://news.ycombinator.com/item?id=47972888",
+    "source": "Hacker News",
+    "published": "2026-05-01T09:52:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972888\">Comments</a>"
+  },
+  {
+    "title": "The Rotary Un-Smartphone (2023)",
+    "link": "https://skysedge.com/telecom/RUSP/index.html",
+    "source": "Hacker News",
+    "published": "2026-05-01T09:39:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972807\">Comments</a>"
+  },
+  {
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "link": "https://github.com/darrylmorley/whatcable",
+    "source": "Hacker News",
+    "published": "2026-05-01T08:43:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972511\">Comments</a>"
+  },
+  {
     "title": "Grok 4.3",
     "link": "https://docs.x.ai/developers/models/grok-4.3",
     "source": "Hacker News",
@@ -8,44 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47972447\">Comments</a>"
   },
   {
-    "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
-    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+    "title": "OpenWarp",
+    "link": "https://openwarp.zerx.dev",
     "source": "Hacker News",
-    "published": "2026-05-01T07:44:17+00:00",
+    "published": "2026-05-01T02:10:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972213\">Comments</a>"
-  },
-  {
-    "title": "If I Could Make My Own GitHub",
-    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-    "source": "Hacker News",
-    "published": "2026-05-01T06:21:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47971771\">Comments</a>"
-  },
-  {
-    "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
-    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-    "source": "Hacker News",
-    "published": "2026-04-30T22:48:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47969288\">Comments</a>"
-  },
-  {
-    "title": "Can I disable all data collection from my vehicle?",
-    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "source": "Hacker News",
-    "published": "2026-04-30T20:27:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967786\">Comments</a>"
-  },
-  {
-    "title": "I built a Game Boy emulator in F#",
-    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "source": "Hacker News",
-    "published": "2026-04-30T17:14:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47970622\">Comments</a>"
   },
   {
     "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
@@ -88,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
   },
   {
+    "title": "If I could make my own GitHub",
+    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "source": "Hacker News",
+    "published": "2026-04-30T13:38:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962269\">Comments</a>"
+  },
+  {
     "title": "Opus 4.7 knows the real Kelsey",
     "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
     "source": "Hacker News",
     "published": "2026-04-29T17:09:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47951295\">Comments</a>"
-  },
-  {
-    "title": "We Run iSCSI over the Internet",
-    "link": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
-    "source": "Hacker News",
-    "published": "2026-04-29T13:30:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47948188\">Comments</a>"
-  },
-  {
-    "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-    "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-    "source": "Hacker News",
-    "published": "2026-04-29T13:28:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47948152\">Comments</a>"
   },
   {
     "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47942863\">Comments</a>"
   },
   {
-    "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-    "link": "https://nikhiljha.com/posts/vt100/",
-    "source": "Hacker News",
-    "published": "2026-04-28T19:17:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939227\">Comments</a>"
-  },
-  {
-    "title": "Auto Polo",
-    "link": "https://en.wikipedia.org/wiki/Auto_polo",
-    "source": "Hacker News",
-    "published": "2026-04-28T15:51:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47936184\">Comments</a>"
-  },
-  {
     "title": "Softmax, can you derive the Jacobian? And should you care?",
     "link": "https://idlemachines.co.uk/essays/softmax",
     "source": "Hacker News",
     "published": "2026-04-27T20:38:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47927011\">Comments</a>"
-  },
-  {
-    "title": "You can beat the binary search",
-    "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-    "source": "Hacker News",
-    "published": "2026-04-27T17:52:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47924912\">Comments</a>"
   }
 ]
