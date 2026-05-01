@@ -1,5 +1,29 @@
 [
   {
+    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+    "link": "https://github.com/kernalix7/winpodx",
+    "source": "Hacker News",
+    "published": "2026-05-01T02:23:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47970690\">Comments</a>"
+  },
+  {
+    "title": "OpenWarp",
+    "link": "https://openwarp.zerx.dev",
+    "source": "Hacker News",
+    "published": "2026-05-01T02:10:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47970622\">Comments</a>"
+  },
+  {
+    "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "source": "Hacker News",
+    "published": "2026-04-30T22:48:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47969288\">Comments</a>"
+  },
+  {
     "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
     "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
     "source": "Hacker News",
@@ -8,15 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47968982\">Comments</a>"
   },
   {
-    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
-    "link": "https://pu.dev/",
-    "source": "Hacker News",
-    "published": "2026-04-30T20:55:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47968112\">Comments</a>"
-  },
-  {
-    "title": "Rivian allows you to disable all internet connectivity",
+    "title": "Can I disable all data collection from my vehicle?",
     "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
     "source": "Hacker News",
     "published": "2026-04-30T20:27:22+00:00",
@@ -24,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47967786\">Comments</a>"
   },
   {
-    "title": "The upsell game \u2013 Vercel upselling tactics revealed",
+    "title": "Vercel\u2019s pricing page",
     "link": "https://theupsellgame.com/",
     "source": "Hacker News",
     "published": "2026-04-30T20:02:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47967508\">Comments</a>"
-  },
-  {
-    "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-    "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-    "source": "Hacker News",
-    "published": "2026-04-30T19:40:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47967262\">Comments</a>"
-  },
-  {
-    "title": "Full-Text Search with DuckDB",
-    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-    "source": "Hacker News",
-    "published": "2026-04-30T18:14:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966254\">Comments</a>"
   },
   {
     "title": "I built a Game Boy emulator in F#",
@@ -56,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>"
   },
   {
-    "title": "CopyFail was not disclosed to distro developers?",
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
     "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
     "source": "Hacker News",
     "published": "2026-04-30T16:43:47+00:00",
@@ -80,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>"
   },
   {
-    "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
+    "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
     "link": "https://honker.dev/",
     "source": "Hacker News",
     "published": "2026-04-30T14:43:02+00:00",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47961319\">Comments</a>"
   },
   {
-    "title": "Mozilla's opposition to Chrome's Prompt API",
-    "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-    "source": "Hacker News",
-    "published": "2026-04-30T07:43:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47959463\">Comments</a>"
-  },
-  {
     "title": "Opus 4.7 knows the real Kelsey",
     "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
     "source": "Hacker News",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47951295\">Comments</a>"
   },
   {
-    "title": "The Church Rock Uranium Mill Spill",
-    "link": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+    "title": "Maladaptive Frugality",
+    "link": "https://herbertlui.net/maladaptive-frugality/",
     "source": "Hacker News",
-    "published": "2026-04-28T19:13:26+00:00",
+    "published": "2026-04-29T00:50:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939158\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47942863\">Comments</a>"
+  },
+  {
+    "title": "I Got Sick of Remembering Port Numbers",
+    "link": "https://gregraiz.com/blog/local-vibe/",
+    "source": "Hacker News",
+    "published": "2026-04-28T19:19:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47939246\">Comments</a>"
   },
   {
     "title": "Reverse Engineering SimTower",
