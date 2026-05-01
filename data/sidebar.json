@@ -1,11 +1,43 @@
 [
   {
+    "title": "whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
+    "link": "https://github.com/whohas/whohas",
+    "source": "Hacker News",
+    "published": "2026-05-01T15:01:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975592\">Comments</a>"
+  },
+  {
+    "title": "GhostBox \u2013 disposable little machines from the Global Free Tier.",
+    "link": "https://www.ghost.charity/",
+    "source": "Hacker News",
+    "published": "2026-05-01T14:52:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975472\">Comments</a>"
+  },
+  {
+    "title": "Sally McKee, who coined the term \"the Memory Wall\", has died",
+    "link": "https://www.online-tribute.com/SallyMcKee",
+    "source": "Hacker News",
+    "published": "2026-05-01T14:45:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975392\">Comments</a>"
+  },
+  {
     "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
     "link": "https://www.pagetable.com/?p=1854",
     "source": "Hacker News",
     "published": "2026-05-01T11:58:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>"
+  },
+  {
+    "title": "A Letter from Dijkstra on APL",
+    "link": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
+    "source": "Hacker News",
+    "published": "2026-05-01T11:42:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973635\">Comments</a>"
   },
   {
     "title": "Apple accidentally left Claude.md files Apple Support app",
@@ -24,22 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47973376\">Comments</a>"
   },
   {
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "source": "Hacker News",
-    "published": "2026-05-01T10:28:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973108\">Comments</a>"
-  },
-  {
-    "title": "A beginner's guide to Sourcehut (2025)",
-    "link": "https://btxx.org/posts/beginners-guide-sourcehut/",
-    "source": "Hacker News",
-    "published": "2026-05-01T10:23:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47973084\">Comments</a>"
-  },
-  {
     "title": "Show HN: Perfect Bluetooth MIDI for Windows",
     "link": "https://news.ycombinator.com/item?id=47972888",
     "source": "Hacker News",
@@ -48,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47972888\">Comments</a>"
   },
   {
-    "title": "The Rotary Un-Smartphone (2023)",
-    "link": "https://skysedge.com/telecom/RUSP/index.html",
+    "title": "Advanced Quantization Algorithm for LLMs",
+    "link": "https://github.com/intel/auto-round",
     "source": "Hacker News",
-    "published": "2026-05-01T09:39:07+00:00",
+    "published": "2026-05-01T09:10:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972807\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972659\">Comments</a>"
   },
   {
     "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
@@ -70,6 +86,14 @@
     "published": "2026-05-01T08:29:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47972447\">Comments</a>"
+  },
+  {
+    "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+    "link": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+    "source": "Hacker News",
+    "published": "2026-05-01T08:14:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972367\">Comments</a>"
   },
   {
     "title": "OpenWarp",
@@ -104,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47964617\">Comments</a>"
   },
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "link": "https://twitter.com/theo/status/2049645973350363168",
-    "source": "Hacker News",
-    "published": "2026-04-30T14:36:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47963204\">Comments</a>"
-  },
-  {
-    "title": "How an oil refinery works",
-    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:54:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962548\">Comments</a>"
-  },
-  {
     "title": "If I could make my own GitHub",
     "link": "https://matduggan.com/if-i-could-make-my-own-github/",
     "source": "Hacker News",
@@ -142,14 +150,6 @@
     "published": "2026-04-29T11:35:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47946899\">Comments</a>"
-  },
-  {
-    "title": "Maladaptive Frugality",
-    "link": "https://herbertlui.net/maladaptive-frugality/",
-    "source": "Hacker News",
-    "published": "2026-04-29T00:50:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47942863\">Comments</a>"
   },
   {
     "title": "Softmax, can you derive the Jacobian? And should you care?",
