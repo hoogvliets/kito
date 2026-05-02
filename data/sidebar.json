@@ -1,5 +1,21 @@
 [
   {
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "link": "https://github.com/microsoft/vscode/pull/310226",
+    "source": "Hacker News",
+    "published": "2026-05-02T19:57:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47989883\">Comments</a>"
+  },
+  {
+    "title": "Unsigned Sizes: A Five Year Mistake",
+    "link": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+    "source": "Hacker News",
+    "published": "2026-05-02T18:40:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47989154\">Comments</a>"
+  },
+  {
     "title": "NetHack 5.0.0",
     "link": "https://nethack.org/v500/release.html",
     "source": "Hacker News",
@@ -8,12 +24,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47988776\">Comments</a>"
   },
   {
-    "title": "Ask HN: Is the Job Market Actually Bad?",
-    "link": "https://news.ycombinator.com/item?id=47988268",
+    "title": "California to begin ticketing driverless cars that violate traffic laws",
+    "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
     "source": "Hacker News",
-    "published": "2026-05-02T17:10:35+00:00",
+    "published": "2026-05-02T17:59:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988268\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988742\">Comments</a>"
+  },
+  {
+    "title": "Do_not_track",
+    "link": "https://donottrack.sh/",
+    "source": "Hacker News",
+    "published": "2026-05-02T17:40:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988592\">Comments</a>"
+  },
+  {
+    "title": "Dav2d",
+    "link": "https://code.videolan.org/videolan/dav2d",
+    "source": "Hacker News",
+    "published": "2026-05-02T17:32:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988504\">Comments</a>"
+  },
+  {
+    "title": "Flue is a TypeScript framework for building the next generation of agents",
+    "link": "https://flueframework.com/",
+    "source": "Hacker News",
+    "published": "2026-05-02T17:32:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988501\">Comments</a>"
+  },
+  {
+    "title": "Welcome to Hell Developer",
+    "link": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/",
+    "source": "Hacker News",
+    "published": "2026-05-02T17:25:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988441\">Comments</a>"
   },
   {
     "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
@@ -30,30 +78,6 @@
     "published": "2026-05-02T15:38:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47987333\">Comments</a>"
-  },
-  {
-    "title": "Zugzwang",
-    "link": "https://en.wikipedia.org/wiki/Zugzwang",
-    "source": "Hacker News",
-    "published": "2026-05-02T15:34:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47987304\">Comments</a>"
-  },
-  {
-    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "link": "https://arxiv.org/abs/2509.00462",
-    "source": "Hacker News",
-    "published": "2026-05-02T15:28:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47987256\">Comments</a>"
-  },
-  {
-    "title": "America's Expanding Domestic Surveillance",
-    "link": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
-    "source": "Hacker News",
-    "published": "2026-05-02T15:02:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47987006\">Comments</a>"
   },
   {
     "title": "Refusal in Language Models Is Mediated by a Single Direction",
@@ -96,39 +120,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47983352\">Comments</a>"
   },
   {
-    "title": "Ti-84 Evo",
-    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "title": "Little Magazines Are Back",
+    "link": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
     "source": "Hacker News",
-    "published": "2026-05-01T20:06:59+00:00",
+    "published": "2026-04-30T14:03:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47979583\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962681\">Comments</a>"
   },
   {
-    "title": "New research suggests people can communicate and practice skills while dreaming",
-    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-    "source": "Hacker News",
-    "published": "2026-05-01T17:47:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47977748\">Comments</a>"
-  },
-  {
-    "title": "Dotcl: Common Lisp Implementation on .NET",
-    "link": "https://github.com/dotcl/dotcl",
-    "source": "Hacker News",
-    "published": "2026-04-30T16:33:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964957\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Pollen \u2013 distributed WASM runtime, no control plane, single binary",
-    "link": "https://github.com/sambigeara/pollen",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:15:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961935\">Comments</a>"
-  },
-  {
-    "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+    "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
     "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
     "source": "Hacker News",
     "published": "2026-04-30T09:12:23+00:00",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47960015\">Comments</a>"
   },
   {
-    "title": "Artemis II Photo Timeline",
-    "link": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+    "title": "Why IPv6 is so complicated",
+    "link": "https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md",
     "source": "Hacker News",
-    "published": "2026-04-29T20:48:17+00:00",
+    "published": "2026-04-29T19:37:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47954394\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47953347\">Comments</a>"
   },
   {
-    "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
-    "link": "https://github.com/bruin-data/dac",
+    "title": "The USB Situation",
+    "link": "https://randsinrepose.com/archives/the-usb-situation/",
     "source": "Hacker News",
-    "published": "2026-04-29T14:37:20+00:00",
+    "published": "2026-04-29T16:49:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949066\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47950993\">Comments</a>"
   },
   {
     "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
