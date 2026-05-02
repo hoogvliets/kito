@@ -1,5 +1,29 @@
 [
   {
+    "title": "Show HN: Piruetas \u2013 A self-hosted diary app I built for my girlfriend",
+    "link": "https://piruet.app",
+    "source": "Hacker News",
+    "published": "2026-05-02T10:42:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985210\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
+    "link": "https://mljar.com/",
+    "source": "Hacker News",
+    "published": "2026-05-02T10:21:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985077\">Comments</a>"
+  },
+  {
+    "title": "How fast is a macOS VM, and how small could it be?",
+    "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "source": "Hacker News",
+    "published": "2026-05-02T09:30:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984852\">Comments</a>"
+  },
+  {
     "title": "Show HN: Browser-based light pollution simulator using real photometric data",
     "link": "https://iesna.eu/?wasm=skyglow_demo",
     "source": "Hacker News",
@@ -8,20 +32,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47984734\">Comments</a>"
   },
   {
-    "title": "SKILL.make: Makefile Styled Skill File",
-    "link": "https://github.com/Teaonly/SKILL.make",
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+    "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
     "source": "Hacker News",
-    "published": "2026-05-02T08:18:15+00:00",
+    "published": "2026-05-02T08:54:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984486\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984675\">Comments</a>"
   },
   {
-    "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-    "link": "https://mathstick.github.io",
+    "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+    "link": "https://snewpapers.com/",
     "source": "Hacker News",
-    "published": "2026-05-02T05:04:39+00:00",
+    "published": "2026-05-02T08:42:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47983485\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984614\">Comments</a>"
+  },
+  {
+    "title": "Why are there both TMP and TEMP environment variables? (2015)",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+    "source": "Hacker News",
+    "published": "2026-05-02T08:23:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984522\">Comments</a>"
   },
   {
     "title": "CollectWise (YC F24) Is Hiring",
@@ -56,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47983176\">Comments</a>"
   },
   {
-    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-    "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-    "source": "Hacker News",
-    "published": "2026-05-01T23:24:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47981669\">Comments</a>"
-  },
-  {
     "title": "Ti-84 Evo",
     "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
     "source": "Hacker News",
     "published": "2026-05-01T20:06:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47979583\">Comments</a>"
-  },
-  {
-    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-    "link": "https://github.com/microsoft/lib0xc",
-    "source": "Hacker News",
-    "published": "2026-05-01T19:10:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47978834\">Comments</a>"
   },
   {
     "title": "New research suggests people can communicate and practice skills while dreaming",
@@ -96,36 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47975676\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who is hiring? (May 2026)",
-    "link": "https://news.ycombinator.com/item?id=47975571",
+    "title": "SFO Gate Explorer",
+    "link": "https://www.flysfo.com/passengers/services/gate-explorer",
     "source": "Hacker News",
-    "published": "2026-05-01T15:00:07+00:00",
+    "published": "2026-04-30T18:01:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975571\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966084\">Comments</a>"
   },
   {
-    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-    "link": "https://github.com/darrylmorley/whatcable",
+    "title": "Dotcl: Common Lisp Implementation on .NET",
+    "link": "https://github.com/dotcl/dotcl",
     "source": "Hacker News",
-    "published": "2026-05-01T08:43:45+00:00",
+    "published": "2026-04-30T16:33:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972511\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47964957\">Comments</a>"
   },
   {
-    "title": "A Gopher Meets a Crab",
-    "link": "https://miren.dev/blog/gopher-meets-crab",
+    "title": "Bitmap and tilemap generation from a single example",
+    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
     "source": "Hacker News",
-    "published": "2026-04-30T06:30:53+00:00",
+    "published": "2026-04-30T11:51:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47958944\">Comments</a>"
-  },
-  {
-    "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-    "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-    "source": "Hacker News",
-    "published": "2026-04-30T03:15:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47957648\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961100\">Comments</a>"
   },
   {
     "title": "Artemis II Photo Timeline",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47954394\">Comments</a>"
   },
   {
-    "title": "The USB Situation",
-    "link": "https://randsinrepose.com/archives/the-usb-situation/",
-    "source": "Hacker News",
-    "published": "2026-04-29T16:49:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47950993\">Comments</a>"
-  },
-  {
-    "title": "The smelly baby problem",
-    "link": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-    "source": "Hacker News",
-    "published": "2026-04-29T15:48:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47950070\">Comments</a>"
-  },
-  {
     "title": "To Restore an Island Paradise, Add Fungi",
     "link": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
     "source": "Hacker News",
     "published": "2026-04-29T15:28:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47949794\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+    "link": "https://github.com/bruin-data/dac",
+    "source": "Hacker News",
+    "published": "2026-04-29T14:37:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47949066\">Comments</a>"
   }
 ]
