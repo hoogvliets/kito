@@ -1,11 +1,51 @@
 [
   {
-    "title": "Show HN: Piruetas \u2013 A self-hosted diary app I built for my girlfriend",
-    "link": "https://piruet.app",
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "link": "https://arxiv.org/abs/2406.11717",
     "source": "Hacker News",
-    "published": "2026-05-02T10:42:55+00:00",
+    "published": "2026-05-02T13:15:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985210\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47986136\">Comments</a>"
+  },
+  {
+    "title": "Russia Poisons Wikipedia",
+    "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+    "source": "Hacker News",
+    "published": "2026-05-02T13:07:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47986083\">Comments</a>"
+  },
+  {
+    "title": "An unknown Sega Saturn project has come to light after 29 years",
+    "link": "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased",
+    "source": "Hacker News",
+    "published": "2026-05-02T12:39:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985901\">Comments</a>"
+  },
+  {
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "link": "https://github.com/nexu-io/open-design",
+    "source": "Hacker News",
+    "published": "2026-05-02T12:16:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985750\">Comments</a>"
+  },
+  {
+    "title": "Craig Venter of Human Genome Project Dies at 79",
+    "link": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+    "source": "Hacker News",
+    "published": "2026-05-02T12:08:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985704\">Comments</a>"
+  },
+  {
+    "title": "Becoming a father shrinks your cerebrum (2022)",
+    "link": "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum",
+    "source": "Hacker News",
+    "published": "2026-05-02T11:45:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985553\">Comments</a>"
   },
   {
     "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
@@ -40,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47984675\">Comments</a>"
   },
   {
-    "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-    "link": "https://snewpapers.com/",
-    "source": "Hacker News",
-    "published": "2026-05-02T08:42:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47984614\">Comments</a>"
-  },
-  {
     "title": "Why are there both TMP and TEMP environment variables? (2015)",
     "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
     "source": "Hacker News",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47984522\">Comments</a>"
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-    "source": "Hacker News",
-    "published": "2026-05-02T04:43:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47983385\">Comments</a>"
-  },
-  {
     "title": "Why does it take so long to release black fan versions?",
     "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
     "source": "Hacker News",
     "published": "2026-05-02T04:38:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47983352\">Comments</a>"
-  },
-  {
-    "title": "Ask.com has closed",
-    "link": "https://www.ask.com/",
-    "source": "Hacker News",
-    "published": "2026-05-02T04:12:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47983226\">Comments</a>"
-  },
-  {
-    "title": "K3k: Kubernetes in Kubernetes",
-    "link": "https://github.com/rancher/k3k",
-    "source": "Hacker News",
-    "published": "2026-05-02T04:00:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47983176\">Comments</a>"
   },
   {
     "title": "Ti-84 Evo",
@@ -104,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47977748\">Comments</a>"
   },
   {
-    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-    "link": "https://news.ycombinator.com/item?id=47975676",
+    "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
+    "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
     "source": "Hacker News",
-    "published": "2026-05-01T15:07:02+00:00",
+    "published": "2026-05-01T16:52:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975676\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47977026\">Comments</a>"
   },
   {
     "title": "SFO Gate Explorer",
@@ -126,14 +134,6 @@
     "published": "2026-04-30T16:33:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47964957\">Comments</a>"
-  },
-  {
-    "title": "Bitmap and tilemap generation from a single example",
-    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
-    "source": "Hacker News",
-    "published": "2026-04-30T11:51:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961100\">Comments</a>"
   },
   {
     "title": "Artemis II Photo Timeline",
