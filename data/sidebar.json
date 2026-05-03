@@ -1,22 +1,14 @@
 [
   {
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
+    "link": "https://acai.sh/blog/specsmaxxing",
     "source": "Hacker News",
-    "published": "2026-05-03T04:05:28+00:00",
+    "published": "2026-05-03T06:33:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47993235\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47994012\">Comments</a>"
   },
   {
-    "title": "Windows API Is Successful Cross-Platform API",
-    "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-    "source": "Hacker News",
-    "published": "2026-05-03T02:53:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47992859\">Comments</a>"
-  },
-  {
-    "title": "Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels",
+    "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
     "link": "https://www.newsonjapan.com/article/149075.php",
     "source": "Hacker News",
     "published": "2026-05-03T01:38:38+00:00",
@@ -24,20 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47992446\">Comments</a>"
   },
   {
-    "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+    "title": "Maryland to ban A.I.-driven price increases in grocery stores",
     "link": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
     "source": "Hacker News",
     "published": "2026-05-03T01:24:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47992349\">Comments</a>"
-  },
-  {
-    "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-    "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
-    "source": "Hacker News",
-    "published": "2026-05-03T01:22:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47992338\">Comments</a>"
   },
   {
     "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
@@ -120,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47988504\">Comments</a>"
   },
   {
-    "title": "Windows quality update: Progress we've made since March",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
+    "title": "A physics engine with incremental rollback for multiplayer games",
+    "link": "https://easel.games/blog/2026-rollback-physics",
     "source": "Hacker News",
-    "published": "2026-05-01T21:02:04+00:00",
+    "published": "2026-05-02T00:12:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47980279\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47981979\">Comments</a>"
   },
   {
     "title": "A more efficient implementation of Shor's algorithm",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47969045\">Comments</a>"
   },
   {
+    "title": "Forging ZK proofs to mint arbitrary DUSK tokens",
+    "link": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
+    "source": "Hacker News",
+    "published": "2026-04-30T19:14:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47966975\">Comments</a>"
+  },
+  {
     "title": "The IBM Granite 4.1 family of models",
     "link": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-04-30T09:12:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47960015\">Comments</a>"
+  },
+  {
+    "title": "Because It Doesn't Have To",
+    "link": "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html",
+    "source": "Hacker News",
+    "published": "2026-04-29T16:42:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47950880\">Comments</a>"
   }
 ]
