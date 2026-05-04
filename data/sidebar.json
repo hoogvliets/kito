@@ -1,35 +1,27 @@
 [
   {
-    "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-    "link": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
+    "title": "ASML's Best Selling Product Isn't What You Think It Is",
+    "link": "https://www.siliconimist.com/p/asmls-best-selling-product",
     "source": "Hacker News",
-    "published": "2026-05-04T08:40:41+00:00",
+    "published": "2026-05-04T11:08:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48006123\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48007145\">Comments</a>"
   },
   {
-    "title": "Stitch together lots of little HTML pages with navigations for interactions",
-    "link": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
     "source": "Hacker News",
-    "published": "2026-05-04T04:43:36+00:00",
+    "published": "2026-05-04T09:40:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48004734\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48006445\">Comments</a>"
   },
   {
-    "title": "Humanoid Robot Actuators",
-    "link": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
     "source": "Hacker News",
-    "published": "2026-05-04T03:42:09+00:00",
+    "published": "2026-05-04T09:31:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48004380\">Comments</a>"
-  },
-  {
-    "title": "Debunking the CIA's \u201cmagic\u201d heartbeat sensor [video]",
-    "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-    "source": "Hacker News",
-    "published": "2026-05-03T23:45:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002839\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48006402\">Comments</a>"
   },
   {
     "title": "Let's Buy Spirit Air",
@@ -72,6 +64,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47998946\">Comments</a>"
   },
   {
+    "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+    "link": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+    "source": "Hacker News",
+    "published": "2026-05-03T16:15:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47998449\">Comments</a>"
+  },
+  {
     "title": "A desktop made for one",
     "link": "https://isene.org/2026/05/Audience-of-One.html",
     "source": "Hacker News",
@@ -88,12 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47991981\">Comments</a>"
   },
   {
-    "title": "From CVS to Git, thirty years of source control",
-    "link": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
+    "title": "World's biggest RC A380 [video]",
+    "link": "https://www.youtube.com/watch?v=wr9YLGbhxng",
     "source": "Hacker News",
-    "published": "2026-05-02T11:51:31+00:00",
+    "published": "2026-05-02T18:04:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47985589\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988781\">Comments</a>"
+  },
+  {
+    "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+    "link": "https://reiner.org/neural-net-ciphers",
+    "source": "Hacker News",
+    "published": "2026-05-02T05:00:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47983467\">Comments</a>"
   },
   {
     "title": "Texico: Learn the principles of programming without even touching a computer",
@@ -102,6 +110,14 @@
     "published": "2026-05-02T04:34:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47983333\">Comments</a>"
+  },
+  {
+    "title": "The Road to a Billion-Token Context",
+    "link": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
+    "source": "Hacker News",
+    "published": "2026-05-01T22:28:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47981227\">Comments</a>"
   },
   {
     "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
@@ -120,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47976081\">Comments</a>"
   },
   {
-    "title": "K3sup \u2013 bootstrap K3s over SSH in < 60s",
-    "link": "https://github.com/alexellis/k3sup",
+    "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
+    "link": "https://guille.site/posts/abstract-nonsense/",
     "source": "Hacker News",
-    "published": "2026-05-01T14:16:38+00:00",
+    "published": "2026-05-01T14:24:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975069\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975166\">Comments</a>"
   },
   {
     "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
@@ -142,21 +158,5 @@
     "published": "2026-04-30T21:02:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47968187\">Comments</a>"
-  },
-  {
-    "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-    "link": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-    "source": "Hacker News",
-    "published": "2026-04-30T12:03:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961208\">Comments</a>"
-  },
-  {
-    "title": "Denuvo has been cracked in all single-player games it previously protected",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
-    "source": "Hacker News",
-    "published": "2026-04-28T21:08:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47940789\">Comments</a>"
   }
 ]
