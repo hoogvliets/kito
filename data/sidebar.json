@@ -1,6 +1,38 @@
 [
   {
-    "title": "Make Your Own Microforest",
+    "title": "The 'Hidden' Costs of Great Abstractions",
+    "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+    "source": "Hacker News",
+    "published": "2026-05-03T23:12:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002607\">Comments</a>"
+  },
+  {
+    "title": "Agentic Coding Is a Trap",
+    "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "source": "Hacker News",
+    "published": "2026-05-03T22:52:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002442\">Comments</a>"
+  },
+  {
+    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "link": "https://github.com/aattaran/deepclaude",
+    "source": "Hacker News",
+    "published": "2026-05-03T22:13:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002136\">Comments</a>"
+  },
+  {
+    "title": "Introduction to Atom",
+    "link": "https://validator.w3.org/feed/docs/atom.html",
+    "source": "Hacker News",
+    "published": "2026-05-03T22:08:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002089\">Comments</a>"
+  },
+  {
+    "title": "Make your own microforest (2025)",
     "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
     "source": "Hacker News",
     "published": "2026-05-03T19:31:35+00:00",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48000507\">Comments</a>"
   },
   {
-    "title": "Statue of a man blinded by a flag put up by Banksy in central London",
+    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
     "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
     "source": "Hacker News",
     "published": "2026-05-03T18:54:28+00:00",
@@ -22,14 +54,6 @@
     "published": "2026-05-03T18:42:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48000028\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ableton Live MCP",
-    "link": "https://github.com/bschoepke/ableton-live-mcp",
-    "source": "Hacker News",
-    "published": "2026-05-03T18:05:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47999656\">Comments</a>"
   },
   {
     "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
@@ -48,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47999460\">Comments</a>"
   },
   {
-    "title": "How far behind is each major Chromium browser?",
-    "link": "https://chromium-drift.pages.dev/",
-    "source": "Hacker News",
-    "published": "2026-05-03T17:05:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47999006\">Comments</a>"
-  },
-  {
     "title": "Southwest Headquarters Tour",
     "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
     "source": "Hacker News",
     "published": "2026-05-03T17:02:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47998946\">Comments</a>"
-  },
-  {
-    "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-    "link": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-    "source": "Hacker News",
-    "published": "2026-05-03T16:48:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47998790\">Comments</a>"
   },
   {
     "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47997418\">Comments</a>"
   },
   {
-    "title": "Alert-driven monitoring",
-    "link": "https://simpleobservability.com/docs/alert-driven-monitoring",
-    "source": "Hacker News",
-    "published": "2026-05-03T14:02:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47997056\">Comments</a>"
-  },
-  {
     "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
     "source": "Hacker News",
@@ -120,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47991981\">Comments</a>"
   },
   {
+    "title": "Automatic Brightness in Plasma",
+    "link": "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html",
+    "source": "Hacker News",
+    "published": "2026-05-01T14:39:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47975322\">Comments</a>"
+  },
+  {
     "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
     "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
     "source": "Hacker News",
     "published": "2026-05-01T13:38:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47974682\">Comments</a>"
-  },
-  {
-    "title": "What is Z-Angle Memory and why is Intel developing it?",
-    "link": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
-    "source": "Hacker News",
-    "published": "2026-05-01T09:56:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47972922\">Comments</a>"
   },
   {
     "title": "Lost in translation: The linguistic challenges facing N. Korean defectors (2025)",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47970497\">Comments</a>"
   },
   {
-    "title": "I built my own hair electrolysis machine",
-    "link": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "title": "Tar files made in macOS generate \"xattr\" errors when expanded in Linux",
+    "link": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
     "source": "Hacker News",
-    "published": "2026-04-29T02:42:46+00:00",
+    "published": "2026-04-30T12:03:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47943632\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47961208\">Comments</a>"
   }
 ]
