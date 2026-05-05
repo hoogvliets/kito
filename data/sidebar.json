@@ -1,43 +1,99 @@
 [
   {
-    "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
-    "link": "https://github.com/aragossa/pii-shield",
+    "title": "Clarification on the Notepad++ Trademark Issue",
+    "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
     "source": "Hacker News",
-    "published": "2026-05-05T15:09:28+00:00",
+    "published": "2026-05-05T18:04:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48023587\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48026206\">Comments</a>"
   },
   {
-    "title": "The best is over: The fun has been optimized out of the Internet",
-    "link": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "link": "https://arxiv.org/abs/2604.26752",
     "source": "Hacker News",
-    "published": "2026-05-05T14:29:24+00:00",
+    "published": "2026-05-05T17:52:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022992\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48026021\">Comments</a>"
   },
   {
-    "title": "AI didn't delete your database, you did",
-    "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+    "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
     "source": "Hacker News",
-    "published": "2026-05-05T14:07:50+00:00",
+    "published": "2026-05-05T17:38:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022742\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48025828\">Comments</a>"
   },
   {
-    "title": "Simple Meta-Harness on Islo.dev",
-    "link": "https://zozo123.github.io/meta-harness-on-islo-page/",
+    "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
     "source": "Hacker News",
-    "published": "2026-05-05T13:55:45+00:00",
+    "published": "2026-05-05T17:28:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022596\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48025687\">Comments</a>"
   },
   {
-    "title": "AI Product Graveyard",
-    "link": "https://tooldirectory.ai/ai-graveyard",
+    "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
     "source": "Hacker News",
-    "published": "2026-05-05T13:00:47+00:00",
+    "published": "2026-05-05T17:00:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021968\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48025244\">Comments</a>"
+  },
+  {
+    "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+    "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "source": "Hacker News",
+    "published": "2026-05-05T16:34:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024859\">Comments</a>"
+  },
+  {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "source": "Hacker News",
+    "published": "2026-05-05T16:14:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024540\">Comments</a>"
+  },
+  {
+    "title": "UK: Two millionth electric car registered as market rebounds strongly",
+    "link": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+    "source": "Hacker News",
+    "published": "2026-05-05T16:03:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024364\">Comments</a>"
+  },
+  {
+    "title": "I'm Scared About Biological Computing",
+    "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "source": "Hacker News",
+    "published": "2026-05-05T16:03:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024358\">Comments</a>"
+  },
+  {
+    "title": "EEVblog: The 555 Timer is 55 years old",
+    "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "source": "Hacker News",
+    "published": "2026-05-05T15:47:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024129\">Comments</a>"
+  },
+  {
+    "title": "Three Inverse Laws of AI",
+    "link": "https://susam.net/inverse-laws-of-robotics.html",
+    "source": "Hacker News",
+    "published": "2026-05-05T15:27:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48023861\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "link": "https://news.ycombinator.com/item?id=48023496",
+    "source": "Hacker News",
+    "published": "2026-05-05T15:03:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48023496\">Comments</a>"
   },
   {
     "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
@@ -48,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48021561\">Comments</a>"
   },
   {
-    "title": "Show HN: I built a new word game, Wordtrak",
-    "link": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
-    "source": "Hacker News",
-    "published": "2026-05-05T12:14:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021420\">Comments</a>"
-  },
-  {
     "title": "When everyone has AI and the company still learns nothing",
     "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
     "source": "Hacker News",
     "published": "2026-05-05T09:30:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48020063\">Comments</a>"
-  },
-  {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "source": "Hacker News",
-    "published": "2026-05-05T07:34:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48019219\">Comments</a>"
   },
   {
     "title": "Async Rust never left the MVP state",
@@ -80,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48019163\">Comments</a>"
   },
   {
-    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "source": "Hacker News",
-    "published": "2026-05-05T07:05:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48019025\">Comments</a>"
-  },
-  {
     "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
     "link": "https://walzr.com/empty-screenings",
     "source": "Hacker News",
@@ -96,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48018066\">Comments</a>"
   },
   {
-    "title": "Hand Drawn QR Codes (2025)",
-    "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
+    "title": "Collaborative Editing in CodeMirror",
+    "link": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
     "source": "Hacker News",
-    "published": "2026-05-05T04:02:01+00:00",
+    "published": "2026-05-03T17:39:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017907\">Comments</a>"
-  },
-  {
-    "title": "Bun is being ported from Zig to Rust",
-    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "source": "Hacker News",
-    "published": "2026-05-05T01:08:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48016880\">Comments</a>"
-  },
-  {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "source": "Hacker News",
-    "published": "2026-05-04T19:42:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48013919\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47999391\">Comments</a>"
   },
   {
     "title": "Comparing the Z80 and 6502 to Their Relatives",
@@ -126,22 +142,6 @@
     "published": "2026-05-03T04:06:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47993240\">Comments</a>"
-  },
-  {
-    "title": "The first photo published in a newspaper",
-    "link": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
-    "source": "Hacker News",
-    "published": "2026-05-03T03:54:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47993181\">Comments</a>"
-  },
-  {
-    "title": "sRGB profile comparison",
-    "link": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
-    "source": "Hacker News",
-    "published": "2026-05-02T14:40:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47986798\">Comments</a>"
   },
   {
     "title": "Docker 29 has changed its default image store for new installs",
