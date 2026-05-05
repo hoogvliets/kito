@@ -1,5 +1,13 @@
 [
   {
+    "title": "When everyone has AI and the company still learns nothing",
+    "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "source": "Hacker News",
+    "published": "2026-05-05T09:30:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48020063\">Comments</a>"
+  },
+  {
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
     "source": "Hacker News",
@@ -40,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48018066\">Comments</a>"
   },
   {
-    "title": "2-D Mathematical Curves",
-    "link": "https://www.2dcurves.com/",
-    "source": "Hacker News",
-    "published": "2026-05-05T04:27:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48018034\">Comments</a>"
-  },
-  {
     "title": "Train Your Own LLM from Scratch",
     "link": "https://github.com/angelos-p/llm-from-scratch",
     "source": "Hacker News",
@@ -56,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48017948\">Comments</a>"
   },
   {
-    "title": "Hand Drawn QR Codes",
+    "title": "Hand Drawn QR Codes (2025)",
     "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
     "source": "Hacker News",
     "published": "2026-05-05T04:02:01+00:00",
@@ -70,6 +70,14 @@
     "published": "2026-05-05T03:43:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48017813\">Comments</a>"
+  },
+  {
+    "title": "Biscuit",
+    "link": "https://github.com/yattsu/biscuit",
+    "source": "Hacker News",
+    "published": "2026-05-05T03:09:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017641\">Comments</a>"
   },
   {
     "title": "Bun is being ported from Zig to Rust",
@@ -86,14 +94,6 @@
     "published": "2026-05-04T21:40:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48015397\">Comments</a>"
-  },
-  {
-    "title": "When Networking Doesn't Work",
-    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-    "source": "Hacker News",
-    "published": "2026-05-04T20:56:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48014868\">Comments</a>"
   },
   {
     "title": "How OpenAI delivers low-latency voice AI at scale",
@@ -120,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48009983\">Comments</a>"
   },
   {
-    "title": "Gaps in national food production, worldwide",
-    "link": "https://www.nature.com/articles/s43016-025-01173-4",
+    "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
+    "link": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d",
     "source": "Hacker News",
-    "published": "2026-05-04T12:55:16+00:00",
+    "published": "2026-05-04T14:02:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48008104\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48008925\">Comments</a>"
   },
   {
     "title": "Why I Created phpc.tv",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47990491\">Comments</a>"
   },
   {
-    "title": "pgxbackup: Continuity Support for pgBackRest",
-    "link": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+    "title": "Should I Run Plain Docker Compose in Production in 2026?",
+    "link": "https://distr.sh/blog/running-docker-in-production/",
     "source": "Hacker News",
-    "published": "2026-05-02T17:25:43+00:00",
+    "published": "2026-04-30T13:21:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988439\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962032\">Comments</a>"
   }
 ]
