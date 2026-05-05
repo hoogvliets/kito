@@ -1,5 +1,61 @@
 [
   {
+    "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
+    "link": "https://github.com/aragossa/pii-shield",
+    "source": "Hacker News",
+    "published": "2026-05-05T15:09:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48023587\">Comments</a>"
+  },
+  {
+    "title": "The best is over: The fun has been optimized out of the Internet",
+    "link": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+    "source": "Hacker News",
+    "published": "2026-05-05T14:29:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022992\">Comments</a>"
+  },
+  {
+    "title": "AI didn't delete your database, you did",
+    "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "source": "Hacker News",
+    "published": "2026-05-05T14:07:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022742\">Comments</a>"
+  },
+  {
+    "title": "Simple Meta-Harness on Islo.dev",
+    "link": "https://zozo123.github.io/meta-harness-on-islo-page/",
+    "source": "Hacker News",
+    "published": "2026-05-05T13:55:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48022596\">Comments</a>"
+  },
+  {
+    "title": "AI Product Graveyard",
+    "link": "https://tooldirectory.ai/ai-graveyard",
+    "source": "Hacker News",
+    "published": "2026-05-05T13:00:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021968\">Comments</a>"
+  },
+  {
+    "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+    "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+    "source": "Hacker News",
+    "published": "2026-05-05T12:28:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021561\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I built a new word game, Wordtrak",
+    "link": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+    "source": "Hacker News",
+    "published": "2026-05-05T12:14:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021420\">Comments</a>"
+  },
+  {
     "title": "When everyone has AI and the company still learns nothing",
     "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
     "source": "Hacker News",
@@ -14,14 +70,6 @@
     "published": "2026-05-05T07:34:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48019219\">Comments</a>"
-  },
-  {
-    "title": "The Frog for Whom the Bell Tolls",
-    "link": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
-    "source": "Hacker News",
-    "published": "2026-05-05T07:26:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48019165\">Comments</a>"
   },
   {
     "title": "Async Rust never left the MVP state",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48018066\">Comments</a>"
   },
   {
-    "title": "Train Your Own LLM from Scratch",
-    "link": "https://github.com/angelos-p/llm-from-scratch",
-    "source": "Hacker News",
-    "published": "2026-05-05T04:09:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017948\">Comments</a>"
-  },
-  {
     "title": "Hand Drawn QR Codes (2025)",
     "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
     "source": "Hacker News",
     "published": "2026-05-05T04:02:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48017907\">Comments</a>"
-  },
-  {
-    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "source": "Hacker News",
-    "published": "2026-05-05T03:43:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017813\">Comments</a>"
-  },
-  {
-    "title": "Biscuit",
-    "link": "https://github.com/yattsu/biscuit",
-    "source": "Hacker News",
-    "published": "2026-05-05T03:09:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017641\">Comments</a>"
   },
   {
     "title": "Bun is being ported from Zig to Rust",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48016880\">Comments</a>"
   },
   {
-    "title": "Agent Skills",
-    "link": "https://addyosmani.com/blog/agent-skills/",
-    "source": "Hacker News",
-    "published": "2026-05-04T21:40:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48015397\">Comments</a>"
-  },
-  {
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
     "source": "Hacker News",
@@ -104,52 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48013919\">Comments</a>"
   },
   {
-    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "title": "Comparing the Z80 and 6502 to Their Relatives",
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
     "source": "Hacker News",
-    "published": "2026-05-04T17:46:32+00:00",
+    "published": "2026-05-03T04:06:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48012162\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47993240\">Comments</a>"
   },
   {
-    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-    "link": "https://www.nber.org/papers/w35117",
+    "title": "The first photo published in a newspaper",
+    "link": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
     "source": "Hacker News",
-    "published": "2026-05-04T15:32:46+00:00",
+    "published": "2026-05-03T03:54:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48009983\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47993181\">Comments</a>"
   },
   {
-    "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
-    "link": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d",
+    "title": "sRGB profile comparison",
+    "link": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
     "source": "Hacker News",
-    "published": "2026-05-04T14:02:32+00:00",
+    "published": "2026-05-02T14:40:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48008925\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47986798\">Comments</a>"
   },
   {
-    "title": "Why I Created phpc.tv",
-    "link": "https://afilina.com/why-phpc-tv",
+    "title": "Docker 29 has changed its default image store for new installs",
+    "link": "https://docs.docker.com/engine/storage/containerd",
     "source": "Hacker News",
-    "published": "2026-05-03T23:53:05+00:00",
+    "published": "2026-05-02T13:41:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48002890\">Comments</a>"
-  },
-  {
-    "title": "Mouse Pointer as a Mere Mortal",
-    "link": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
-    "source": "Hacker News",
-    "published": "2026-05-03T05:17:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47993585\">Comments</a>"
-  },
-  {
-    "title": "Farewell to a Giant of Botany",
-    "link": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
-    "source": "Hacker News",
-    "published": "2026-05-02T21:03:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47990491\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47986331\">Comments</a>"
   },
   {
     "title": "Should I Run Plain Docker Compose in Production in 2026?",
