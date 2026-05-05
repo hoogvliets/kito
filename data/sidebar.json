@@ -1,5 +1,61 @@
 [
   {
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "source": "Hacker News",
+    "published": "2026-05-05T03:43:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017813\">Comments</a>"
+  },
+  {
+    "title": "Linux, Windows or macOS: Which Operating System to Use in 2026?",
+    "link": "https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/",
+    "source": "Hacker News",
+    "published": "2026-05-05T02:45:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017526\">Comments</a>"
+  },
+  {
+    "title": "Pulitzer Prize Winner in International Reporting",
+    "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+    "source": "Hacker News",
+    "published": "2026-05-05T02:22:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017399\">Comments</a>"
+  },
+  {
+    "title": "What I'm Hearing About Cognitive Debt (So Far)",
+    "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+    "source": "Hacker News",
+    "published": "2026-05-05T02:08:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017298\">Comments</a>"
+  },
+  {
+    "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+    "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
+    "source": "Hacker News",
+    "published": "2026-05-05T02:01:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48017251\">Comments</a>"
+  },
+  {
+    "title": "Bun is being ported from Zig to Rust",
+    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "source": "Hacker News",
+    "published": "2026-05-05T01:08:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48016880\">Comments</a>"
+  },
+  {
+    "title": "Y Combinator's Stake in OpenAI (0.6%)",
+    "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "source": "Hacker News",
+    "published": "2026-05-05T00:09:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48016534\">Comments</a>"
+  },
+  {
     "title": "Agent Skills",
     "link": "https://addyosmani.com/blog/agent-skills/",
     "source": "Hacker News",
@@ -8,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48015397\">Comments</a>"
   },
   {
-    "title": "Pulitzer Prize Winners 2026",
-    "link": "https://www.pulitzer.org/prize-winners-by-year/2026",
+    "title": "When Networking Doesn't Work",
+    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
     "source": "Hacker News",
-    "published": "2026-05-04T21:14:38+00:00",
+    "published": "2026-05-04T20:56:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48015097\">Comments</a>"
-  },
-  {
-    "title": "Formatting a 25M-line codebase overnight",
-    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-    "source": "Hacker News",
-    "published": "2026-05-04T20:11:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48014325\">Comments</a>"
-  },
-  {
-    "title": "Transformers Are Inherently Succinct",
-    "link": "https://arxiv.org/abs/2510.19315",
-    "source": "Hacker News",
-    "published": "2026-05-04T20:03:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48014197\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48014868\">Comments</a>"
   },
   {
     "title": "How OpenAI delivers low-latency voice AI at scale",
@@ -56,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48012162\">Comments</a>"
   },
   {
-    "title": "Let's talk about LLMs",
-    "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "source": "Hacker News",
-    "published": "2026-05-04T17:29:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48011904\">Comments</a>"
-  },
-  {
-    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-    "source": "Hacker News",
-    "published": "2026-05-04T17:16:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48011689\">Comments</a>"
-  },
-  {
     "title": "I am worried about Bun",
     "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
     "source": "Hacker News",
@@ -94,22 +118,6 @@
     "published": "2026-05-04T15:22:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48009840\">Comments</a>"
-  },
-  {
-    "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
-    "link": "https://www.fuelinsight.co.uk",
-    "source": "Hacker News",
-    "published": "2026-05-04T15:15:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48009747\">Comments</a>"
-  },
-  {
-    "title": "Pomiferous: The most extensive apples (pommes) database",
-    "link": "https://pomiferous.com/",
-    "source": "Hacker News",
-    "published": "2026-05-04T14:47:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48009441\">Comments</a>"
   },
   {
     "title": "Redis array: short story of a long development process",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48007438\">Comments</a>"
   },
   {
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-    "source": "Hacker News",
-    "published": "2026-05-04T09:31:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48006402\">Comments</a>"
-  },
-  {
     "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
     "link": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47998158\">Comments</a>"
   },
   {
-    "title": "Jonathan Swift's Last Joke",
-    "link": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+    "title": "pgxbackup: Continuity Support for pgBackRest",
+    "link": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
     "source": "Hacker News",
-    "published": "2026-05-02T19:27:30+00:00",
+    "published": "2026-05-02T17:25:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47989594\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47988439\">Comments</a>"
   }
 ]
