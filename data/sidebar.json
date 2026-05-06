@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+    "link": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+    "source": "Hacker News",
+    "published": "2026-05-05T22:07:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48029334\">Comments</a>"
+  },
+  {
+    "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+    "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+    "source": "Hacker News",
+    "published": "2026-05-05T21:50:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48029114\">Comments</a>"
+  },
+  {
+    "title": "Write some software, give it away for free",
+    "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "source": "Hacker News",
+    "published": "2026-05-05T21:26:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>"
+  },
+  {
     "title": ".de TLD offline due to DNSSEC?",
     "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
     "source": "Hacker News",
@@ -32,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48026021\">Comments</a>"
   },
   {
-    "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-    "source": "Hacker News",
-    "published": "2026-05-05T17:28:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48025687\">Comments</a>"
-  },
-  {
     "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
     "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
     "source": "Hacker News",
@@ -62,6 +78,14 @@
     "published": "2026-05-05T16:14:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48024540\">Comments</a>"
+  },
+  {
+    "title": "I'm scared about biological computing",
+    "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "source": "Hacker News",
+    "published": "2026-05-05T16:03:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024358\">Comments</a>"
   },
   {
     "title": "EEVblog: The 555 Timer is 55 years old [video]",
@@ -96,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48023496\">Comments</a>"
   },
   {
-    "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-    "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-    "source": "Hacker News",
-    "published": "2026-05-05T12:28:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021561\">Comments</a>"
-  },
-  {
     "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
     "link": "https://twitter.com/brian_armstrong/status/2051616759145185723",
     "source": "Hacker News",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48019219\">Comments</a>"
   },
   {
-    "title": "Async Rust never left the MVP state",
-    "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "title": "Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
+    "link": "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise",
     "source": "Hacker News",
-    "published": "2026-05-05T07:26:03+00:00",
+    "published": "2026-05-03T20:02:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48019163\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48000811\">Comments</a>"
   },
   {
-    "title": "The extended predicative Mahlo universe in Martin-L\u00f6f type theory",
-    "link": "https://academic.oup.com/logcom/article/34/6/1032/7158523",
+    "title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+    "link": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
     "source": "Hacker News",
-    "published": "2026-05-03T12:43:12+00:00",
+    "published": "2026-05-03T13:25:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47996395\">Comments</a>"
-  },
-  {
-    "title": "Researchers print structural colour with an inkjet printer",
-    "link": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
-    "source": "Hacker News",
-    "published": "2026-05-03T08:58:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47994946\">Comments</a>"
-  },
-  {
-    "title": "Should I Run Plain Docker Compose in Production in 2026?",
-    "link": "https://distr.sh/blog/running-docker-in-production/",
-    "source": "Hacker News",
-    "published": "2026-04-30T13:21:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=47962032\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47996740\">Comments</a>"
   }
 ]
