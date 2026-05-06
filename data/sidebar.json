@@ -1,11 +1,27 @@
 [
   {
-    "title": "The Boring Internet",
-    "link": "https://www.terrygodier.com/the-boring-internet",
+    "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "link": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
     "source": "Hacker News",
-    "published": "2026-05-06T08:23:43+00:00",
+    "published": "2026-05-06T12:00:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48033689\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48035223\">Comments</a>"
+  },
+  {
+    "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "link": "https://catstret.ch/202605/srss-hipster202510/",
+    "source": "Hacker News",
+    "published": "2026-05-06T10:53:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48034762\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
+    "link": "https://red-squares.cian.lol/",
+    "source": "Hacker News",
+    "published": "2026-05-06T10:28:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48034587\">Comments</a>"
   },
   {
     "title": "Reverse-engineering the 1998 Ultima Online demo server",
@@ -56,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48031261\">Comments</a>"
   },
   {
-    "title": "Telus Uses AI to Alter Call-Agent Accents",
-    "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-    "source": "Hacker News",
-    "published": "2026-05-06T01:38:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48031109\">Comments</a>"
-  },
-  {
     "title": "YouTube, your RSS feeds are broken",
     "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
     "source": "Hacker News",
@@ -78,14 +86,6 @@
     "published": "2026-05-05T21:26:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>"
-  },
-  {
-    "title": "Why most product tours get skipped",
-    "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "source": "Hacker News",
-    "published": "2026-05-05T21:05:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48028546\">Comments</a>"
   },
   {
     "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48024540\">Comments</a>"
   },
   {
-    "title": "EEVblog: The 555 Timer is 55 years old [video]",
-    "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-    "source": "Hacker News",
-    "published": "2026-05-05T15:47:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48024129\">Comments</a>"
-  },
-  {
     "title": "Three Inverse Laws of AI",
     "link": "https://susam.net/inverse-laws-of-robotics.html",
     "source": "Hacker News",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48011077\">Comments</a>"
   },
   {
+    "title": "The bottleneck was never the code",
+    "link": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+    "source": "Hacker News",
+    "published": "2026-05-04T10:46:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48006967\">Comments</a>"
+  },
+  {
     "title": "CARA 2.0 \u2013 \u201cI Built a Better Robot Dog\u201d",
     "link": "https://www.aaedmusa.com/projects/cara2",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48005432\">Comments</a>"
   },
   {
-    "title": "Make some art with your phone sensors",
-    "link": "https://tautme.github.io/phone-sensors/sensor-etch.html",
-    "source": "Hacker News",
-    "published": "2026-05-04T01:25:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48003549\">Comments</a>"
-  },
-  {
     "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
     "link": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
     "source": "Hacker News",
     "published": "2026-05-03T16:32:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=47998638\">Comments</a>"
+  },
+  {
+    "title": "Virtual violin produces realistic sounds",
+    "link": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+    "source": "Hacker News",
+    "published": "2026-05-03T13:16:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=47996668\">Comments</a>"
   }
 ]
