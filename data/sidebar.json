@@ -1,11 +1,43 @@
 [
   {
-    "title": "Show HN: Social Network for Corporate Cringe",
-    "link": "https://CringeOut.com",
+    "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+    "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
     "source": "Hacker News",
-    "published": "2026-05-07T08:26:36+00:00",
+    "published": "2026-05-07T12:01:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48046874\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48048339\">Comments</a>"
+  },
+  {
+    "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+    "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+    "source": "Hacker News",
+    "published": "2026-05-07T11:10:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047981\">Comments</a>"
+  },
+  {
+    "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+    "link": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+    "source": "Hacker News",
+    "published": "2026-05-07T11:08:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047970\">Comments</a>"
+  },
+  {
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "link": "https://ahk.cardor.dev",
+    "source": "Hacker News",
+    "published": "2026-05-07T10:45:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047826\">Comments</a>"
+  },
+  {
+    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+    "link": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+    "source": "Hacker News",
+    "published": "2026-05-07T08:56:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047082\">Comments</a>"
   },
   {
     "title": "Making LLM Training Faster with Unsloth and NVIDIA",
@@ -14,22 +46,6 @@
     "published": "2026-05-07T07:15:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48046397\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
-    "link": "https://github.com/darkrishabh/agent-skills-eval",
-    "source": "Hacker News",
-    "published": "2026-05-07T06:12:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48046023\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Trust \u2013 Coding Rust like it's 1989",
-    "link": "https://github.com/wojtczyk/trust",
-    "source": "Hacker News",
-    "published": "2026-05-07T05:58:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48045939\">Comments</a>"
   },
   {
     "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
@@ -80,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48039362\">Comments</a>"
   },
   {
-    "title": "From Supabase to Clerk to Better Auth",
-    "link": "https://blog.val.town/better-auth",
-    "source": "Hacker News",
-    "published": "2026-05-06T17:19:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48038827\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hallucinopedia",
-    "link": "http://halupedia.com/",
-    "source": "Hacker News",
-    "published": "2026-05-06T16:37:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48038257\">Comments</a>"
-  },
-  {
     "title": "Appearing productive in the workplace",
     "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
     "source": "Hacker News",
@@ -118,14 +118,6 @@
     "published": "2026-05-06T15:06:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48037128\">Comments</a>"
-  },
-  {
-    "title": "What I learned making an app for my family",
-    "link": "https://mendelgreenberg.com/posts/ourcar/",
-    "source": "Hacker News",
-    "published": "2026-05-06T13:44:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036190\">Comments</a>"
   },
   {
     "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
@@ -158,5 +150,13 @@
     "published": "2026-05-04T18:17:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48012649\">Comments</a>"
+  },
+  {
+    "title": "Indian matchbox labels as a visual archive",
+    "link": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+    "source": "Hacker News",
+    "published": "2026-05-04T14:08:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48008999\">Comments</a>"
   }
 ]
