@@ -1,6 +1,54 @@
 [
   {
-    "title": "I Want to Live Like Costco People",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "source": "Hacker News",
+    "published": "2026-05-07T17:54:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48052537\">Comments</a>"
+  },
+  {
+    "title": "Agents need control flow, not more prompts",
+    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "source": "Hacker News",
+    "published": "2026-05-07T16:43:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48051562\">Comments</a>"
+  },
+  {
+    "title": "I switched from Mac to a Lenovo Chromebook",
+    "link": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+    "source": "Hacker News",
+    "published": "2026-05-07T16:01:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48051025\">Comments</a>"
+  },
+  {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "source": "Hacker News",
+    "published": "2026-05-07T15:56:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050964\">Comments</a>"
+  },
+  {
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "link": "https://github.com/antirez/ds4",
+    "source": "Hacker News",
+    "published": "2026-05-07T15:40:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050751\">Comments</a>"
+  },
+  {
+    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "source": "Hacker News",
+    "published": "2026-05-07T15:23:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050540\">Comments</a>"
+  },
+  {
+    "title": "I want to live like Costco people",
     "link": "https://tastecooking.com/i-want-to-live-like-costco-people/",
     "source": "Hacker News",
     "published": "2026-05-07T15:19:27+00:00",
@@ -14,6 +62,14 @@
     "published": "2026-05-07T15:02:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48050278\">Comments</a>"
+  },
+  {
+    "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+    "link": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+    "source": "Hacker News",
+    "published": "2026-05-07T14:32:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049963\">Comments</a>"
   },
   {
     "title": "The Self-Cancelling Subscription",
@@ -40,36 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48049208\">Comments</a>"
   },
   {
+    "title": "How Cloudflare responded to the \u201cCopy Fail\u201d Linux vulnerability",
+    "link": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+    "source": "Hacker News",
+    "published": "2026-05-07T13:25:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049160\">Comments</a>"
+  },
+  {
     "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
     "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
     "source": "Hacker News",
     "published": "2026-05-07T12:01:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48048339\">Comments</a>"
-  },
-  {
-    "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-    "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-    "source": "Hacker News",
-    "published": "2026-05-07T11:10:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047981\">Comments</a>"
-  },
-  {
-    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-    "link": "https://ahk.cardor.dev",
-    "source": "Hacker News",
-    "published": "2026-05-07T10:45:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047826\">Comments</a>"
-  },
-  {
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "link": "https://aniket.foo/posts/20260505-netboot/",
-    "source": "Hacker News",
-    "published": "2026-05-07T03:13:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48045012\">Comments</a>"
   },
   {
     "title": "SQLite Is a Library of Congress Recommended Storage Format",
@@ -80,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48042434\">Comments</a>"
   },
   {
+    "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+    "link": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+    "source": "Hacker News",
+    "published": "2026-05-06T19:21:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48040465\">Comments</a>"
+  },
+  {
     "title": "Appearing productive in the workplace",
     "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
     "source": "Hacker News",
@@ -88,55 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48038001\">Comments</a>"
   },
   {
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+    "title": "PySimpleGUI 6",
+    "link": "https://github.com/PySimpleGUI/PySimpleGUI",
     "source": "Hacker News",
-    "published": "2026-05-06T15:44:13+00:00",
+    "published": "2026-05-05T18:18:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48037555\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48026412\">Comments</a>"
   },
   {
-    "title": "Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer)",
-    "link": "https://newsletter.signoz.io/p/why-should-a-trace-id-be-128-bits",
-    "source": "Hacker News",
-    "published": "2026-05-06T08:47:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48033853\">Comments</a>"
-  },
-  {
-    "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-    "link": "https://singleride.nyc/",
-    "source": "Hacker News",
-    "published": "2026-05-05T22:02:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48029261\">Comments</a>"
-  },
-  {
-    "title": "The mechanical latching memory of an adhesive tape",
-    "link": "https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc",
-    "source": "Hacker News",
-    "published": "2026-05-05T19:17:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48027191\">Comments</a>"
-  },
-  {
-    "title": "The brave souls who bought a used, 340k-mile rental camper van",
-    "link": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-    "source": "Hacker News",
-    "published": "2026-05-05T18:43:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48026710\">Comments</a>"
-  },
-  {
-    "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-    "link": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-    "source": "Hacker News",
-    "published": "2026-05-04T20:28:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48014521\">Comments</a>"
-  },
-  {
-    "title": "37x Speedup in Lattice Boltzmann Cylinder Flow",
+    "title": "Speedup in Lattice Boltzmann Cylinder Flow",
     "link": "https://github.com/alikamp/Parks-KPBM-Scaling",
     "source": "Hacker News",
     "published": "2026-05-04T17:57:13+00:00",
@@ -150,13 +158,5 @@
     "published": "2026-05-04T16:19:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48010729\">Comments</a>"
-  },
-  {
-    "title": "Indian matchbox labels as a visual archive",
-    "link": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-    "source": "Hacker News",
-    "published": "2026-05-04T14:08:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48008999\">Comments</a>"
   }
 ]
