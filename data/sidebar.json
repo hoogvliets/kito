@@ -1,5 +1,13 @@
 [
   {
+    "title": "GeoJSON",
+    "link": "https://geojson.org/",
+    "source": "Hacker News",
+    "published": "2026-05-08T09:55:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48060918\">Comments</a>"
+  },
+  {
     "title": "ClojureScript Gets Async/Await",
     "link": "https://clojurescript.org/news/2026-05-07-release",
     "source": "Hacker News",
@@ -8,12 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48059662\">Comments</a>"
   },
   {
-    "title": "HantaWatch Real time hantavirus outbreak tracker",
-    "link": "https://hantawatch.net/",
+    "title": "Nintendo announces price increases for Nintendo Switch 2",
+    "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
     "source": "Hacker News",
-    "published": "2026-05-08T05:24:24+00:00",
+    "published": "2026-05-08T06:56:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058917\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059606\">Comments</a>"
   },
   {
     "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
@@ -22,30 +30,6 @@
     "published": "2026-05-08T04:44:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48058644\">Comments</a>"
-  },
-  {
-    "title": "Digging into Drama at the Document Foundation",
-    "link": "https://lwn.net/Articles/1066418/",
-    "source": "Hacker News",
-    "published": "2026-05-08T03:51:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058337\">Comments</a>"
-  },
-  {
-    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "link": "https://github.com/robertdfrench/ifuncd-up",
-    "source": "Hacker News",
-    "published": "2026-05-08T00:03:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48056749\">Comments</a>"
-  },
-  {
-    "title": "Plasticity and language in the anaesthetized human hippocampus",
-    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "source": "Hacker News",
-    "published": "2026-05-07T23:06:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48056268\">Comments</a>"
   },
   {
     "title": "Maybe you shouldn't install new software for a bit",
@@ -88,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48052537\">Comments</a>"
   },
   {
+    "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "source": "Hacker News",
+    "published": "2026-05-07T17:42:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48052371\">Comments</a>"
+  },
+  {
     "title": "Agents need control flow, not more prompts",
     "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "source": "Hacker News",
@@ -128,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48045778\">Comments</a>"
   },
   {
-    "title": "Rumors of my death are slightly exaggerated",
-    "link": "https://news.ycombinator.com/item?id=48037336",
+    "title": "Floats Don't Agree with Themselves",
+    "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
     "source": "Hacker News",
-    "published": "2026-05-06T15:24:51+00:00",
+    "published": "2026-05-06T14:48:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48037336\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036923\">Comments</a>"
   },
   {
     "title": "Pinocchio is weirder than you remembered",
@@ -142,6 +134,14 @@
     "published": "2026-05-06T12:27:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48035420\">Comments</a>"
+  },
+  {
+    "title": "Singapore introduces caning for boys who bully others at school",
+    "link": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+    "source": "Hacker News",
+    "published": "2026-05-06T06:29:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48032968\">Comments</a>"
   },
   {
     "title": "A polynomial autoencoder beats PCA on transformer embeddings",
