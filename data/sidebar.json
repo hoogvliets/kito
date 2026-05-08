@@ -1,5 +1,69 @@
 [
   {
+    "title": "Show HN: Git for AI Agents",
+    "link": "https://github.com/regent-vcs/re_gent",
+    "source": "Hacker News",
+    "published": "2026-05-08T14:15:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48063548\">Comments</a>"
+  },
+  {
+    "title": "PC Engine CPU",
+    "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+    "source": "Hacker News",
+    "published": "2026-05-08T14:14:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48063521\">Comments</a>"
+  },
+  {
+    "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+    "link": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+    "source": "Hacker News",
+    "published": "2026-05-08T13:58:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48063240\">Comments</a>"
+  },
+  {
+    "title": "Podman rootless containers and the Copy Fail exploit",
+    "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "source": "Hacker News",
+    "published": "2026-05-08T13:22:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062745\">Comments</a>"
+  },
+  {
+    "title": "A web page that shows you everything the browser told it without asking",
+    "link": "https://sinceyouarrived.world/taken",
+    "source": "Hacker News",
+    "published": "2026-05-08T12:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062178\">Comments</a>"
+  },
+  {
+    "title": "Poland is now among the 20 largest economies. How it happened",
+    "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "source": "Hacker News",
+    "published": "2026-05-08T12:30:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062117\">Comments</a>"
+  },
+  {
+    "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
+    "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+    "source": "Hacker News",
+    "published": "2026-05-08T12:20:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062035\">Comments</a>"
+  },
+  {
+    "title": "An Introduction to Meshtastic",
+    "link": "https://meshtastic.org/docs/introduction/",
+    "source": "Hacker News",
+    "published": "2026-05-08T11:22:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48061566\">Comments</a>"
+  },
+  {
     "title": "GeoJSON",
     "link": "https://geojson.org/",
     "source": "Hacker News",
@@ -16,20 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48059662\">Comments</a>"
   },
   {
-    "title": "Nintendo announces price increases for Nintendo Switch 2",
-    "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+    "title": "QBE \u2013 Compiler Back End",
+    "link": "https://c9x.me/compile/",
     "source": "Hacker News",
-    "published": "2026-05-08T06:56:13+00:00",
+    "published": "2026-05-08T07:00:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059606\">Comments</a>"
-  },
-  {
-    "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "link": "https://github.com/graemeg/blaise",
-    "source": "Hacker News",
-    "published": "2026-05-08T04:44:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058644\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059633\">Comments</a>"
   },
   {
     "title": "Maybe you shouldn't install new software for a bit",
@@ -64,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48053623\">Comments</a>"
   },
   {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "source": "Hacker News",
-    "published": "2026-05-07T17:54:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48052537\">Comments</a>"
-  },
-  {
-    "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-    "source": "Hacker News",
-    "published": "2026-05-07T17:42:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48052371\">Comments</a>"
-  },
-  {
     "title": "Agents need control flow, not more prompts",
     "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "source": "Hacker News",
     "published": "2026-05-07T16:43:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48051562\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek 4 Flash local inference engine for Metal",
-    "link": "https://github.com/antirez/ds4",
-    "source": "Hacker News",
-    "published": "2026-05-07T15:40:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050751\">Comments</a>"
-  },
-  {
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "source": "Hacker News",
-    "published": "2026-05-07T15:02:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050278\">Comments</a>"
   },
   {
     "title": "The map that keeps Burning Man honest",
@@ -112,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48049653\">Comments</a>"
   },
   {
-    "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
-    "link": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+    "title": "Rumors of my death are slightly exaggerated",
+    "link": "https://news.ycombinator.com/item?id=48037336",
     "source": "Hacker News",
-    "published": "2026-05-07T05:37:10+00:00",
+    "published": "2026-05-06T15:24:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48045778\">Comments</a>"
-  },
-  {
-    "title": "Floats Don't Agree with Themselves",
-    "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
-    "source": "Hacker News",
-    "published": "2026-05-06T14:48:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48037336\">Comments</a>"
   },
   {
     "title": "Pinocchio is weirder than you remembered",
@@ -134,22 +150,6 @@
     "published": "2026-05-06T12:27:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48035420\">Comments</a>"
-  },
-  {
-    "title": "Singapore introduces caning for boys who bully others at school",
-    "link": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-    "source": "Hacker News",
-    "published": "2026-05-06T06:29:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48032968\">Comments</a>"
-  },
-  {
-    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-    "link": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-    "source": "Hacker News",
-    "published": "2026-05-05T11:31:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48021023\">Comments</a>"
   },
   {
     "title": "Dithering with CSS",
