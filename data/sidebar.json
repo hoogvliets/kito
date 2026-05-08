@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apple, Intel have reached preliminary chip-making deal",
+    "link": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+    "source": "Hacker News",
+    "published": "2026-05-08T17:25:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48066169\">Comments</a>"
+  },
+  {
+    "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
+    "link": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "source": "Hacker News",
+    "published": "2026-05-08T17:06:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48065916\">Comments</a>"
+  },
+  {
+    "title": "Cartoon Network Flash Games",
+    "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "source": "Hacker News",
+    "published": "2026-05-08T16:29:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48065360\">Comments</a>"
+  },
+  {
+    "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+    "link": "https://btxx.org/posts/memory/",
+    "source": "Hacker News",
+    "published": "2026-05-08T15:10:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48064312\">Comments</a>"
+  },
+  {
     "title": "Show HN: Git for AI Agents",
     "link": "https://github.com/regent-vcs/re_gent",
     "source": "Hacker News",
@@ -16,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48063521\">Comments</a>"
   },
   {
-    "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-    "link": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
     "source": "Hacker News",
-    "published": "2026-05-08T13:58:32+00:00",
+    "published": "2026-05-08T13:56:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48063240\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48063199\">Comments</a>"
   },
   {
     "title": "Podman rootless containers and the Copy Fail exploit",
@@ -40,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48062178\">Comments</a>"
   },
   {
-    "title": "Poland is now among the 20 largest economies. How it happened",
+    "title": "Poland is now among the 20 largest economies",
     "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
     "source": "Hacker News",
     "published": "2026-05-08T12:30:05+00:00",
@@ -48,12 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48062117\">Comments</a>"
   },
   {
-    "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
-    "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+    "title": "US Government releases first batch of UAP documents and videos",
+    "link": "https://www.war.gov/UFO/",
     "source": "Hacker News",
-    "published": "2026-05-08T12:20:01+00:00",
+    "published": "2026-05-08T12:10:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062035\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48061938\">Comments</a>"
+  },
+  {
+    "title": "David Attenborough's 100th Birthday",
+    "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+    "source": "Hacker News",
+    "published": "2026-05-08T12:03:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48061884\">Comments</a>"
   },
   {
     "title": "An Introduction to Meshtastic",
@@ -72,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48060918\">Comments</a>"
   },
   {
-    "title": "ClojureScript Gets Async/Await",
-    "link": "https://clojurescript.org/news/2026-05-07-release",
+    "title": "Mojo 1.0 Beta",
+    "link": "https://mojolang.org/",
     "source": "Hacker News",
-    "published": "2026-05-08T07:04:24+00:00",
+    "published": "2026-05-08T02:49:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059662\">Comments</a>"
-  },
-  {
-    "title": "QBE \u2013 Compiler Back End",
-    "link": "https://c9x.me/compile/",
-    "source": "Hacker News",
-    "published": "2026-05-08T07:00:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059633\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48057901\">Comments</a>"
   },
   {
     "title": "Maybe you shouldn't install new software for a bit",
@@ -96,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48056227\">Comments</a>"
   },
   {
-    "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+    "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
     "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
     "source": "Hacker News",
     "published": "2026-05-07T22:22:21+00:00",
@@ -104,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48055913\">Comments</a>"
   },
   {
-    "title": "Cloudflare to cut about 20% workforce",
+    "title": "Cloudflare to cut about 20% of its workforce",
     "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
     "source": "Hacker News",
     "published": "2026-05-07T20:23:37+00:00",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48053623\">Comments</a>"
   },
   {
-    "title": "Agents need control flow, not more prompts",
-    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "source": "Hacker News",
-    "published": "2026-05-07T16:43:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48051562\">Comments</a>"
-  },
-  {
-    "title": "The map that keeps Burning Man honest",
-    "link": "https://www.not-ship.com/burning-man-moop/",
-    "source": "Hacker News",
-    "published": "2026-05-07T14:06:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049653\">Comments</a>"
-  },
-  {
     "title": "Rumors of my death are slightly exaggerated",
     "link": "https://news.ycombinator.com/item?id=48037336",
     "source": "Hacker News",
     "published": "2026-05-06T15:24:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48037336\">Comments</a>"
-  },
-  {
-    "title": "Pinocchio is weirder than you remembered",
-    "link": "https://storica.club/blog/pinocchio-in-italian/",
-    "source": "Hacker News",
-    "published": "2026-05-06T12:27:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48035420\">Comments</a>"
-  },
-  {
-    "title": "Dithering with CSS",
-    "link": "https://ikesau.co/blog/dithering-with-css/",
-    "source": "Hacker News",
-    "published": "2026-05-04T15:26:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48009879\">Comments</a>"
   }
 ]
