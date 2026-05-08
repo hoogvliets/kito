@@ -1,5 +1,21 @@
 [
   {
+    "title": "ClojureScript Gets Async/Await",
+    "link": "https://clojurescript.org/news/2026-05-07-release",
+    "source": "Hacker News",
+    "published": "2026-05-08T07:04:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059662\">Comments</a>"
+  },
+  {
+    "title": "HantaWatch Real time hantavirus outbreak tracker",
+    "link": "https://hantawatch.net/",
+    "source": "Hacker News",
+    "published": "2026-05-08T05:24:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058917\">Comments</a>"
+  },
+  {
     "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
     "link": "https://github.com/graemeg/blaise",
     "source": "Hacker News",
@@ -8,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48058644\">Comments</a>"
   },
   {
-    "title": "Mojo 1.0 Beta",
-    "link": "https://mojolang.org/",
+    "title": "Digging into Drama at the Document Foundation",
+    "link": "https://lwn.net/Articles/1066418/",
     "source": "Hacker News",
-    "published": "2026-05-08T02:49:01+00:00",
+    "published": "2026-05-08T03:51:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48057901\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058337\">Comments</a>"
   },
   {
     "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
@@ -22,14 +38,6 @@
     "published": "2026-05-08T00:03:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48056749\">Comments</a>"
-  },
-  {
-    "title": "Gambling ads on social media reach more than twice as many men as women: study",
-    "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-    "source": "Hacker News",
-    "published": "2026-05-07T23:17:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48056359\">Comments</a>"
   },
   {
     "title": "Plasticity and language in the anaesthetized human hippocampus",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48053623\">Comments</a>"
   },
   {
-    "title": "AI slop is killing online communities",
-    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "source": "Hacker News",
-    "published": "2026-05-07T18:46:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48053203\">Comments</a>"
-  },
-  {
     "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "link": "https://www.anthropic.com/research/natural-language-autoencoders",
     "source": "Hacker News",
     "published": "2026-05-07T17:54:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48052537\">Comments</a>"
-  },
-  {
-    "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-    "source": "Hacker News",
-    "published": "2026-05-07T17:42:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48052371\">Comments</a>"
   },
   {
     "title": "Agents need control flow, not more prompts",
@@ -128,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48049653\">Comments</a>"
   },
   {
-    "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-    "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+    "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+    "link": "https://sdocs.dev/blogs/journey-to-pdf-generation",
     "source": "Hacker News",
-    "published": "2026-05-06T14:31:42+00:00",
+    "published": "2026-05-07T05:37:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036746\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48045778\">Comments</a>"
   },
   {
-    "title": "Los Alamos and the long path to detecting neutrinos",
-    "link": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+    "title": "Rumors of my death are slightly exaggerated",
+    "link": "https://news.ycombinator.com/item?id=48037336",
     "source": "Hacker News",
-    "published": "2026-05-06T14:21:07+00:00",
+    "published": "2026-05-06T15:24:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036622\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48037336\">Comments</a>"
   },
   {
     "title": "Pinocchio is weirder than you remembered",
@@ -158,5 +150,13 @@
     "published": "2026-05-05T11:31:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48021023\">Comments</a>"
+  },
+  {
+    "title": "Dithering with CSS",
+    "link": "https://ikesau.co/blog/dithering-with-css/",
+    "source": "Hacker News",
+    "published": "2026-05-04T15:26:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48009879\">Comments</a>"
   }
 ]
