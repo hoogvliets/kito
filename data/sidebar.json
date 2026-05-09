@@ -1,19 +1,59 @@
 [
   {
-    "title": "The FCC Wants Your ID Before You Get a Phone Number",
-    "link": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
+    "title": "Zed Editor Theme-Builder",
+    "link": "https://zed.dev/theme-builder",
     "source": "Hacker News",
-    "published": "2026-05-09T14:18:13+00:00",
+    "published": "2026-05-09T17:30:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075185\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>"
   },
   {
-    "title": "Read Programming as Theory Building",
-    "link": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
     "source": "Hacker News",
-    "published": "2026-05-09T13:31:53+00:00",
+    "published": "2026-05-09T17:06:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48074829\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076465\">Comments</a>"
+  },
+  {
+    "title": "I Will Not Add Query Strings to Your URLs",
+    "link": "https://susam.net/no-query-strings.html",
+    "source": "Hacker News",
+    "published": "2026-05-09T16:28:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>"
+  },
+  {
+    "title": "Introduction to Beaver Triples",
+    "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+    "source": "Hacker News",
+    "published": "2026-05-09T16:02:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076009\">Comments</a>"
+  },
+  {
+    "title": "PipeDream on the Acorn Archimedes",
+    "link": "https://stonetools.ghost.io/pipedream-archimedes/",
+    "source": "Hacker News",
+    "published": "2026-05-09T15:01:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075528\">Comments</a>"
+  },
+  {
+    "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+    "link": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+    "source": "Hacker News",
+    "published": "2026-05-09T14:11:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075144\">Comments</a>"
+  },
+  {
+    "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+    "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "source": "Hacker News",
+    "published": "2026-05-09T13:48:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48074952\">Comments</a>"
   },
   {
     "title": "Internet Archive Switzerland",
@@ -22,22 +62,6 @@
     "published": "2026-05-09T12:00:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>"
-  },
-  {
-    "title": "Forking the Web",
-    "link": "https://dillo-browser.org/lab/web-fork/",
-    "source": "Hacker News",
-    "published": "2026-05-09T11:33:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48074087\">Comments</a>"
-  },
-  {
-    "title": "Killswitch: Per-function short-circuit mitigation primitive",
-    "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-    "source": "Hacker News",
-    "published": "2026-05-09T09:14:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48073394\">Comments</a>"
   },
   {
     "title": "LLMs Corrupt Your Documents When You Delegate",
@@ -72,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48067119\">Comments</a>"
   },
   {
-    "title": "AI is breaking two vulnerability cultures",
-    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "source": "Hacker News",
-    "published": "2026-05-08T17:55:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48066524\">Comments</a>"
-  },
-  {
     "title": "David Attenborough's 100th Birthday",
     "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
     "source": "Hacker News",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48048679\">Comments</a>"
   },
   {
-    "title": "Removing fsync from our local storage engine",
-    "link": "https://fractalbits.com/blog/remove-fsync/",
-    "source": "Hacker News",
-    "published": "2026-05-07T09:25:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047280\">Comments</a>"
-  },
-  {
     "title": "Mythical Man Month",
     "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48046436\">Comments</a>"
   },
   {
-    "title": "Making Julia as Fast as C++ (2019)",
-    "link": "https://flow.byu.edu/posts/julia-c++",
+    "title": "Building the TD4 4-Bit CPU",
+    "link": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
     "source": "Hacker News",
-    "published": "2026-05-06T21:36:42+00:00",
+    "published": "2026-05-07T04:25:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48042204\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48045384\">Comments</a>"
   },
   {
     "title": "Reviving the IBM Selectric Composer Fonts (2023)",
@@ -134,14 +142,6 @@
     "published": "2026-05-06T19:16:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48040412\">Comments</a>"
-  },
-  {
-    "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-    "link": "https://www.wiisfi.com/",
-    "source": "Hacker News",
-    "published": "2026-05-06T16:01:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48037760\">Comments</a>"
   },
   {
     "title": "What causes lightning? The answer keeps getting more interesting",
