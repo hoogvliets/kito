@@ -1,11 +1,27 @@
 [
   {
+    "title": "Rotten Dot Com",
+    "link": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "source": "Hacker News",
+    "published": "2026-05-10T08:25:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082039\">Comments</a>"
+  },
+  {
     "title": "Debian must ship reproducible packages",
     "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
     "source": "Hacker News",
     "published": "2026-05-10T05:26:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48081245\">Comments</a>"
+  },
+  {
+    "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+    "link": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+    "source": "Hacker News",
+    "published": "2026-05-10T04:47:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48081094\">Comments</a>"
   },
   {
     "title": "Gemini API File Search is now multimodal",
@@ -22,14 +38,6 @@
     "published": "2026-05-10T03:01:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48080587\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Rust but Lisp",
-    "link": "https://github.com/ThatXliner/rust-but-lisp",
-    "source": "Hacker News",
-    "published": "2026-05-09T21:46:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>"
   },
   {
     "title": "Local privilege escalation via execve()",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48071262\">Comments</a>"
   },
   {
-    "title": "The Serial TTL connector we deserve",
-    "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-    "source": "Hacker News",
-    "published": "2026-05-07T14:19:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>"
-  },
-  {
     "title": "Making your own programming language is easier than you think (but also harder)",
     "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48048407\">Comments</a>"
   },
   {
+    "title": "Idempotency Is Easy Until the Second Request Is Different",
+    "link": "https://blog.dochia.dev/blog/idempotency/",
+    "source": "Hacker News",
+    "published": "2026-05-07T11:02:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047930\">Comments</a>"
+  },
+  {
     "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
     "link": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
     "source": "Hacker News",
     "published": "2026-05-06T17:52:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48039249\">Comments</a>"
-  },
-  {
-    "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
-    "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-    "source": "Hacker News",
-    "published": "2026-05-06T17:00:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48038573\">Comments</a>"
   },
   {
     "title": "We see something that works, and then we understand it",
