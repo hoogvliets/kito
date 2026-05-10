@@ -1,6 +1,22 @@
 [
   {
-    "title": "FreeBSD: Local Privilege Escalation via Execve()",
+    "title": "France Moves to Break Encrypted Messaging",
+    "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "source": "Hacker News",
+    "published": "2026-05-09T22:14:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48078811\">Comments</a>"
+  },
+  {
+    "title": "Rust but Lisp",
+    "link": "https://github.com/ThatXliner/rust-but-lisp",
+    "source": "Hacker News",
+    "published": "2026-05-09T21:46:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>"
+  },
+  {
+    "title": "Local privilege escalation via execve()",
     "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
     "source": "Hacker News",
     "published": "2026-05-09T20:31:21+00:00",
@@ -8,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>"
   },
   {
-    "title": "I Caught the Car",
+    "title": "I caught the car",
     "link": "https://undecidability.net/senior/",
     "source": "Hacker News",
     "published": "2026-05-09T20:31:07+00:00",
@@ -16,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48077966\">Comments</a>"
   },
   {
-    "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
-    "link": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
-    "source": "Hacker News",
-    "published": "2026-05-09T18:59:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48077314\">Comments</a>"
-  },
-  {
-    "title": "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+    "title": "Meta's embrace of A.I. is making its employees miserable",
     "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
     "source": "Hacker News",
     "published": "2026-05-09T18:33:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48077126\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "link": "https://github.com/nooga/let-go",
+    "source": "Hacker News",
+    "published": "2026-05-09T17:52:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>"
   },
   {
     "title": "Zed Editor Theme-Builder",
@@ -54,14 +70,6 @@
     "published": "2026-05-09T16:28:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>"
-  },
-  {
-    "title": "PipeDream on the Acorn Archimedes",
-    "link": "https://stonetools.ghost.io/pipedream-archimedes/",
-    "source": "Hacker News",
-    "published": "2026-05-09T15:01:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075528\">Comments</a>"
   },
   {
     "title": "Distributing Mac software is increasing my cortisol levels",
@@ -112,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48071940\">Comments</a>"
   },
   {
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "source": "Hacker News",
+    "published": "2026-05-09T02:41:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48071262\">Comments</a>"
+  },
+  {
     "title": "Production engineering when trading billions of dollars a day [video]",
     "link": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
     "source": "Hacker News",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48067786\">Comments</a>"
   },
   {
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "title": "The Serial TTL connector we deserve",
+    "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
     "source": "Hacker News",
-    "published": "2026-05-08T18:45:58+00:00",
+    "published": "2026-05-07T14:19:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48067119\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>"
   },
   {
-    "title": "The ROKR wooden typewriter: a closer look",
-    "link": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
+    "title": "Making your own programming language is easier than you think (but also harder)",
+    "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
     "source": "Hacker News",
-    "published": "2026-05-07T14:25:16+00:00",
+    "published": "2026-05-07T13:01:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049890\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48048902\">Comments</a>"
   },
   {
-    "title": "How LEDs are made (2014)",
-    "link": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+    "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+    "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
     "source": "Hacker News",
-    "published": "2026-05-07T12:39:45+00:00",
+    "published": "2026-05-06T17:00:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48048679\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I wrote a flight simulator in my own programming language",
-    "link": "https://github.com/navid-m/flightsim",
-    "source": "Hacker News",
-    "published": "2026-05-06T21:58:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48042427\">Comments</a>"
-  },
-  {
-    "title": "Random Tie Knots",
-    "link": "https://tieknots.how/",
-    "source": "Hacker News",
-    "published": "2026-05-06T14:00:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48036356\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48038573\">Comments</a>"
   }
 ]
