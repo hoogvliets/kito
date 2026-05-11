@@ -1,5 +1,45 @@
 [
   {
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "source": "Hacker News",
+    "published": "2026-05-10T23:36:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48089263\">Comments</a>"
+  },
+  {
+    "title": "Running local models on an M4 with 24GB memory",
+    "link": "https://jola.dev/posts/running-local-models-on-m4",
+    "source": "Hacker News",
+    "published": "2026-05-10T23:09:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>"
+  },
+  {
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "source": "Hacker News",
+    "published": "2026-05-10T22:02:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48088576\">Comments</a>"
+  },
+  {
+    "title": "Why modern parents feel more sleep deprived than our ancestors did",
+    "link": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+    "source": "Hacker News",
+    "published": "2026-05-10T21:36:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48088343\">Comments</a>"
+  },
+  {
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "source": "Hacker News",
+    "published": "2026-05-10T21:16:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48088151\">Comments</a>"
+  },
+  {
     "title": "Hardware Attestation as Monopoly Enabler",
     "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
     "source": "Hacker News",
@@ -40,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48085782\">Comments</a>"
   },
   {
-    "title": "YC's Biggest Scandals",
-    "link": "https://ycombinator.fyi/",
+    "title": "The locals don't know",
+    "link": "https://www.quarter--mile.com/The-Locals-Dont-Know",
     "source": "Hacker News",
-    "published": "2026-05-10T16:30:34+00:00",
+    "published": "2026-05-10T16:03:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48085314\">Comments</a>"
-  },
-  {
-    "title": "Shunting-Yard Animation",
-    "link": "https://somethingorotherwhatever.com/shunting-yard-animation/",
-    "source": "Hacker News",
-    "published": "2026-05-10T15:00:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48084547\">Comments</a>"
-  },
-  {
-    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-    "source": "Hacker News",
-    "published": "2026-05-10T14:47:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48084432\">Comments</a>"
-  },
-  {
-    "title": "Show HN: An index of indie web/blog indexes",
-    "link": "https://theindex.fyi",
-    "source": "Hacker News",
-    "published": "2026-05-10T12:50:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48083580\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48085055\">Comments</a>"
   },
   {
     "title": "What's a mathematician to do? (2010)",
@@ -80,44 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48083007\">Comments</a>"
   },
   {
-    "title": "Space Cadet Pinball on Linux",
-    "link": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-    "source": "Hacker News",
-    "published": "2026-05-10T11:22:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082968\">Comments</a>"
-  },
-  {
-    "title": "Think Linear Algebra (2023)",
-    "link": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-    "source": "Hacker News",
-    "published": "2026-05-10T09:40:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082396\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "link": "https://github.com/imtomt/ymawky",
-    "source": "Hacker News",
-    "published": "2026-05-10T03:01:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080587\">Comments</a>"
-  },
-  {
-    "title": "Walking slower? Your ears, not your knees, might be the problem",
-    "link": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-    "source": "Hacker News",
-    "published": "2026-05-09T14:49:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075429\">Comments</a>"
-  },
-  {
     "title": "I returned to AWS and was reminded why I left",
     "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
     "source": "Hacker News",
     "published": "2026-05-09T08:37:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48073201\">Comments</a>"
+  },
+  {
+    "title": "James Schuyler's Genius",
+    "link": "https://yalereview.org/article/james-schuylers-genius",
+    "source": "Hacker News",
+    "published": "2026-05-09T00:23:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48070436\">Comments</a>"
+  },
+  {
+    "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+    "source": "Hacker News",
+    "published": "2026-05-08T19:36:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48067698\">Comments</a>"
   },
   {
     "title": "Lakebase architecture delivers faster Postgres writes",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48061556\">Comments</a>"
   },
   {
-    "title": "The One Dollar Counterfeiter",
-    "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+    "title": "The people preserving the scientific practice of bird banding",
+    "link": "https://thenarwhal.ca/bird-banding-ontario/",
     "source": "Hacker News",
-    "published": "2026-05-07T12:40:35+00:00",
+    "published": "2026-05-07T23:49:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48048684\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48056639\">Comments</a>"
   },
   {
-    "title": "Idempotency is easy until the second request is different",
-    "link": "https://blog.dochia.dev/blog/idempotency/",
+    "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+    "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
     "source": "Hacker News",
-    "published": "2026-05-07T11:02:28+00:00",
+    "published": "2026-05-07T15:34:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48047930\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48050666\">Comments</a>"
   }
 ]
