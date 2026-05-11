@@ -1,11 +1,19 @@
 [
   {
-    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
-    "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "title": "Show HN: Free tool to see how much AI bots are costing your site",
+    "link": "https://botcost.dev",
     "source": "Hacker News",
-    "published": "2026-05-11T11:05:04+00:00",
+    "published": "2026-05-11T15:09:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48093446\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48096045\">Comments</a>"
+  },
+  {
+    "title": "Create a 90s GeoCities style website in seconds (Python)",
+    "link": "https://pypi.org/project/create-geocities-app/",
+    "source": "Hacker News",
+    "published": "2026-05-11T13:10:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48094521\">Comments</a>"
   },
   {
     "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
@@ -14,22 +22,6 @@
     "published": "2026-05-11T10:13:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48093100\">Comments</a>"
-  },
-  {
-    "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
-    "link": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-    "source": "Hacker News",
-    "published": "2026-05-11T10:04:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48093043\">Comments</a>"
-  },
-  {
-    "title": "The Adventure Family Tree",
-    "link": "https://mipmip.org/advfamily/advfamily.html",
-    "source": "Hacker News",
-    "published": "2026-05-11T08:16:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48092367\">Comments</a>"
   },
   {
     "title": "Gmail registration now requires scanning a QR code and sending a text message",
@@ -48,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48091737\">Comments</a>"
   },
   {
-    "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-    "link": "https://matt.might.net/articles/implementing-a-programming-language/",
-    "source": "Hacker News",
-    "published": "2026-05-11T04:34:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48091085\">Comments</a>"
-  },
-  {
     "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
     "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
     "source": "Hacker News",
     "published": "2026-05-11T02:43:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48090521\">Comments</a>"
-  },
-  {
-    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
-    "link": "https://github.com/adamjgmiller/adamsreview",
-    "source": "Hacker News",
-    "published": "2026-05-11T02:06:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48090276\">Comments</a>"
   },
   {
     "title": "I'm going back to writing code by hand",
@@ -128,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>"
   },
   {
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "source": "Hacker News",
+    "published": "2026-05-10T17:05:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48085685\">Comments</a>"
+  },
+  {
     "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
     "link": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
     "source": "Hacker News",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48068072\">Comments</a>"
   },
   {
+    "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+    "link": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+    "source": "Hacker News",
+    "published": "2026-05-08T18:51:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48067184\">Comments</a>"
+  },
+  {
+    "title": "Am\u00e1lia and the Future of European Portuguese LLMs",
+    "link": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+    "source": "Hacker News",
+    "published": "2026-05-08T16:34:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48065429\">Comments</a>"
+  },
+  {
+    "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+    "link": "https://imtomt.github.io/ymawky/",
+    "source": "Hacker News",
+    "published": "2026-05-08T13:39:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062977\">Comments</a>"
+  },
+  {
     "title": "Guitar tuner that uses phone accelerometer",
     "link": "https://tautme.github.io/phone-sensors/accel-tuner.html",
     "source": "Hacker News",
     "published": "2026-05-08T03:43:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48058260\">Comments</a>"
-  },
-  {
-    "title": "Bliss (Photograph)",
-    "link": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
-    "source": "Hacker News",
-    "published": "2026-05-08T02:31:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48057790\">Comments</a>"
   }
 ]
