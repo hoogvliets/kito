@@ -1,19 +1,59 @@
 [
   {
+    "title": "If AI Writes Your Code, Why Use Python?",
+    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "source": "Hacker News",
+    "published": "2026-05-11T20:45:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100433\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OpenGravity \u2013 A zero-install, BYOK vanilla JS clone of Antigravity",
+    "link": "https://github.com/ab-613/opengravity",
+    "source": "Hacker News",
+    "published": "2026-05-11T20:23:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100192\">Comments</a>"
+  },
+  {
+    "title": "Linux Terminal Memory Usage",
+    "link": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+    "source": "Hacker News",
+    "published": "2026-05-11T19:49:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48099790\">Comments</a>"
+  },
+  {
+    "title": "Library for fast mapping of Java records to native memory",
+    "link": "https://github.com/mamba-studio/TypedMemory",
+    "source": "Hacker News",
+    "published": "2026-05-11T19:33:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48099616\">Comments</a>"
+  },
+  {
+    "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+    "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+    "source": "Hacker News",
+    "published": "2026-05-11T18:12:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48098537\">Comments</a>"
+  },
+  {
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "source": "Hacker News",
+    "published": "2026-05-11T17:53:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48098261\">Comments</a>"
+  },
+  {
     "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
     "link": "https://bild.ai/jobs",
     "source": "Hacker News",
     "published": "2026-05-11T17:43:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48098122\">Comments</a>"
-  },
-  {
-    "title": "Microsoft Israel chief leaves amid ethical controversy",
-    "link": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-    "source": "Hacker News",
-    "published": "2026-05-11T17:18:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48097796\">Comments</a>"
   },
   {
     "title": "Interfaze: A new model architecture built for high accuracy at scale",
@@ -24,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48097078\">Comments</a>"
   },
   {
-    "title": "Show HN: TikTok but for Scientific Papers",
-    "link": "https://andreaturchet.github.io/website/index.html",
-    "source": "Hacker News",
-    "published": "2026-05-11T16:05:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48096842\">Comments</a>"
-  },
-  {
     "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
     "link": "https://nvlabs.github.io/cuda-oxide/index.html",
     "source": "Hacker News",
     "published": "2026-05-11T15:55:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48096692\">Comments</a>"
-  },
-  {
-    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-    "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-    "source": "Hacker News",
-    "published": "2026-05-11T15:53:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48096674\">Comments</a>"
   },
   {
     "title": "Software engineering may no longer be a lifetime career",
@@ -72,38 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48092028\">Comments</a>"
   },
   {
-    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-    "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "source": "Hacker News",
-    "published": "2026-05-11T02:43:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48090521\">Comments</a>"
-  },
-  {
-    "title": "I'm going back to writing code by hand",
-    "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-    "source": "Hacker News",
-    "published": "2026-05-11T01:23:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>"
-  },
-  {
-    "title": "Running local models on an M4 with 24GB memory",
-    "link": "https://jola.dev/posts/running-local-models-on-m4",
-    "source": "Hacker News",
-    "published": "2026-05-10T23:09:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>"
-  },
-  {
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "source": "Hacker News",
-    "published": "2026-05-10T17:54:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48086190\">Comments</a>"
-  },
-  {
     "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
     "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
     "source": "Hacker News",
@@ -112,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48085685\">Comments</a>"
   },
   {
+    "title": "Counting Fast in Erlang with:counters and:atomics",
+    "link": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+    "source": "Hacker News",
+    "published": "2026-05-09T08:26:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48073121\">Comments</a>"
+  },
+  {
     "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
     "link": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
     "source": "Hacker News",
     "published": "2026-05-09T00:42:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48070571\">Comments</a>"
+  },
+  {
+    "title": "The Boston library where you still can borrow a giant puppet",
+    "link": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
+    "source": "Hacker News",
+    "published": "2026-05-08T22:47:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48069685\">Comments</a>"
   },
   {
     "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
@@ -136,15 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48062977\">Comments</a>"
   },
   {
-    "title": "Holding Community Space",
-    "link": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-    "source": "Hacker News",
-    "published": "2026-05-08T13:15:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062646\">Comments</a>"
-  },
-  {
-    "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+    "title": "Nullsoft, 1997-2004 (2004)",
     "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
     "source": "Hacker News",
     "published": "2026-05-08T08:00:44+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48060077\">Comments</a>"
   },
   {
-    "title": "Guitar tuner that uses phone accelerometer",
-    "link": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+    "title": "From Buffon's Needle to Buffon's Noodle",
+    "link": "https://mbmccoy.dev/posts/buffons-noodle/",
     "source": "Hacker News",
-    "published": "2026-05-08T03:43:08+00:00",
+    "published": "2026-05-07T13:42:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48058260\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48049343\">Comments</a>"
   }
 ]
