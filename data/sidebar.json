@@ -1,19 +1,27 @@
 [
   {
+    "title": "Screenshots of Old Desktop OSes",
+    "link": "http://www.typewritten.org/Media/",
+    "source": "Hacker News",
+    "published": "2026-05-12T05:11:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48104428\">Comments</a>"
+  },
+  {
+    "title": "Extremely Low Frequencies",
+    "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "source": "Hacker News",
+    "published": "2026-05-12T03:59:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48104041\">Comments</a>"
+  },
+  {
     "title": "Software Internals Book Club",
     "link": "https://eatonphil.com/bookclub.html",
     "source": "Hacker News",
     "published": "2026-05-12T02:28:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48103511\">Comments</a>"
-  },
-  {
-    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
-    "link": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
-    "source": "Hacker News",
-    "published": "2026-05-12T02:22:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48103459\">Comments</a>"
   },
   {
     "title": "Claude Platform on AWS",
@@ -32,15 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48102700\">Comments</a>"
   },
   {
-    "title": "Griffin PowerMate driver for modern macOS",
-    "link": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-    "source": "Hacker News",
-    "published": "2026-05-11T21:35:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100970\">Comments</a>"
-  },
-  {
-    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "title": "Postmortem: TanStack NPM supply-chain compromise",
     "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
     "source": "Hacker News",
     "published": "2026-05-11T21:08:25+00:00",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48098261\">Comments</a>"
   },
   {
-    "title": "Interfaze: A new model architecture built for high accuracy at scale",
-    "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-    "source": "Hacker News",
-    "published": "2026-05-11T16:22:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48097078\">Comments</a>"
-  },
-  {
     "title": "Google says criminal hackers used AI to find a major software flaw",
     "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
     "source": "Hacker News",
@@ -112,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48094641\">Comments</a>"
   },
   {
-    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "title": "High-precision HDC reference instrument for the Sol Star System",
+    "link": "https://pypi.org/project/ephemerides-spectral/",
     "source": "Hacker News",
-    "published": "2026-05-10T17:05:05+00:00",
+    "published": "2026-05-10T06:59:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48085685\">Comments</a>"
-  },
-  {
-    "title": "Silverback Imfura took a chance, and ended up alone",
-    "link": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
-    "source": "Hacker News",
-    "published": "2026-05-10T02:06:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080316\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48081634\">Comments</a>"
   },
   {
     "title": "VGA Memory Access Is Complicated",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48074668\">Comments</a>"
   },
   {
+    "title": "Boriel BASIC",
+    "link": "https://zxbasic.readthedocs.io/en/docs/",
+    "source": "Hacker News",
+    "published": "2026-05-09T12:49:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48074589\">Comments</a>"
+  },
+  {
     "title": "Nullsoft, 1997-2004 (2004)",
     "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
     "source": "Hacker News",
     "published": "2026-05-08T08:00:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48060077\">Comments</a>"
+  },
+  {
+    "title": "I hate soldering",
+    "link": "https://user8.bearblog.dev/rant/",
+    "source": "Hacker News",
+    "published": "2026-05-08T07:26:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48059831\">Comments</a>"
   },
   {
     "title": "A lost ancient script reveals how writing as we know it began",
