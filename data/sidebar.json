@@ -1,19 +1,35 @@
 [
   {
+    "title": "Bambu Lab is abusing the open source social contract",
+    "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "source": "Hacker News",
+    "published": "2026-05-12T14:54:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109224\">Comments</a>"
+  },
+  {
+    "title": "Rendering the Sky, Sunsets, and Planets",
+    "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "source": "Hacker News",
+    "published": "2026-05-12T13:26:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107997\">Comments</a>"
+  },
+  {
+    "title": "UnDUNE II",
+    "link": "https://liquidream.itch.io/undune2",
+    "source": "Hacker News",
+    "published": "2026-05-12T12:38:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107404\">Comments</a>"
+  },
+  {
     "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
     "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
     "source": "Hacker News",
     "published": "2026-05-12T12:00:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107024\">Comments</a>"
-  },
-  {
-    "title": "Houses are for living, not for speculation",
-    "link": "https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation",
-    "source": "Hacker News",
-    "published": "2026-05-12T11:20:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48106670\">Comments</a>"
   },
   {
     "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
@@ -32,36 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48106367\">Comments</a>"
   },
   {
-    "title": "A HN post with negative points \u2013 how?",
-    "link": "https://news.ycombinator.com/item?id=48104663",
-    "source": "Hacker News",
-    "published": "2026-05-12T10:29:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48106316\">Comments</a>"
-  },
-  {
     "title": "Learning Software Architecture",
     "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
     "source": "Hacker News",
     "published": "2026-05-12T09:30:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48106024\">Comments</a>"
-  },
-  {
-    "title": "Music has scales / raagas. What about storytelling in movies and prestige shows?",
-    "link": "https://arc.quanten.co/archetype",
-    "source": "Hacker News",
-    "published": "2026-05-12T08:28:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48105670\">Comments</a>"
-  },
-  {
-    "title": "Toxicity on Social Media \u2013 The Noisy Room",
-    "link": "https://thenoisyroom.com",
-    "source": "Hacker News",
-    "published": "2026-05-12T07:31:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48105297\">Comments</a>"
   },
   {
     "title": "Screenshots of Old Desktop OSes",
@@ -96,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48102700\">Comments</a>"
   },
   {
+    "title": "Through the looking glass of benchmark hacking",
+    "link": "https://poolside.ai/blog/through-the-looking-glass",
+    "source": "Hacker News",
+    "published": "2026-05-11T21:24:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100868\">Comments</a>"
+  },
+  {
     "title": "Postmortem: TanStack NPM supply-chain compromise",
     "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
     "source": "Hacker News",
@@ -128,35 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48098261\">Comments</a>"
   },
   {
-    "title": "Google says criminal hackers used AI to find a major software flaw",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "title": "The Surprisingly Long Life of the Vacuum Tube",
+    "link": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
     "source": "Hacker News",
-    "published": "2026-05-11T13:20:14+00:00",
+    "published": "2026-05-11T15:30:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48094641\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48096328\">Comments</a>"
   },
   {
-    "title": "Optimize for change not application performance",
-    "link": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
+    "title": "Profiling.sampling \u2013 Statistical Profiler",
+    "link": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
     "source": "Hacker News",
-    "published": "2026-05-09T18:45:01+00:00",
+    "published": "2026-05-10T11:19:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48077205\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082948\">Comments</a>"
   },
   {
-    "title": "Docker images are MB; a full game engine compiles to 35MB WASM",
-    "link": "https://bogomolov.work/blog/posts/wasm-vs-docker/",
+    "title": "Analysis points to a unexpected cause of reading difficulties",
+    "link": "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html",
     "source": "Hacker News",
-    "published": "2026-05-09T15:40:49+00:00",
+    "published": "2026-05-10T01:45:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080179\">Comments</a>"
   },
   {
-    "title": "Rtwatch: Watch videos with friends using WebRTC",
-    "link": "https://github.com/pion/rtwatch",
+    "title": "Chasing Chicago's movable bridges (2014)",
+    "link": "https://aresluna.org/seesaws-for-giants/",
     "source": "Hacker News",
-    "published": "2026-05-09T14:09:14+00:00",
+    "published": "2026-05-10T01:31:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48075131\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080111\">Comments</a>"
   }
 ]
