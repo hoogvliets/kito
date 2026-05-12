@@ -1,6 +1,46 @@
 [
   {
-    "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+    "title": "How to make your text look futuristic (2016)",
+    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+    "source": "Hacker News",
+    "published": "2026-05-12T20:16:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48113895\">Comments</a>"
+  },
+  {
+    "title": "Beyond Semantic Similarity",
+    "link": "https://arxiv.org/abs/2605.05242",
+    "source": "Hacker News",
+    "published": "2026-05-12T19:51:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48113518\">Comments</a>"
+  },
+  {
+    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+    "source": "Hacker News",
+    "published": "2026-05-12T18:12:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48112042\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "link": "https://github.com/cactus-compute/needle",
+    "source": "Hacker News",
+    "published": "2026-05-12T18:03:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111896\">Comments</a>"
+  },
+  {
+    "title": "Quack: The DuckDB Client-Server Protocol",
+    "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:54:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111765\">Comments</a>"
+  },
+  {
+    "title": "Dead.Letter (CVE-2026-45185) \u2013 How XBOW found an unauthenticated RCE on Exim",
     "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
     "source": "Hacker News",
     "published": "2026-05-12T17:52:34+00:00",
@@ -24,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111545\">Comments</a>"
   },
   {
+    "title": "Is this why science advances one funeral at a time?",
+    "link": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:16:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111243\">Comments</a>"
+  },
+  {
     "title": "Show HN: Agentic interface for mainframes and COBOL",
     "link": "https://www.hypercubic.ai/hopper",
     "source": "Hacker News",
     "published": "2026-05-12T17:10:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111143\">Comments</a>"
-  },
-  {
-    "title": "Testing UPS Output Waveforms",
-    "link": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
-    "source": "Hacker News",
-    "published": "2026-05-12T16:50:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48110858\">Comments</a>"
   },
   {
     "title": "The Future of Obsidian Plugins",
@@ -88,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107997\">Comments</a>"
   },
   {
-    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-    "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
-    "source": "Hacker News",
-    "published": "2026-05-12T12:00:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107024\">Comments</a>"
-  },
-  {
     "title": "Learning Software Architecture",
     "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
     "source": "Hacker News",
@@ -112,44 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48104428\">Comments</a>"
   },
   {
-    "title": "Instructure pays ransom to Canvas hackers",
-    "link": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+    "title": "A Preview of the Future",
+    "link": "https://unsung.aresluna.org/a-preview-of-the-future/",
     "source": "Hacker News",
-    "published": "2026-05-12T02:56:31+00:00",
+    "published": "2026-05-11T00:13:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48103668\">Comments</a>"
-  },
-  {
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
-    "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "source": "Hacker News",
-    "published": "2026-05-11T21:08:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100706\">Comments</a>"
-  },
-  {
-    "title": "The Surprisingly Long Life of the Vacuum Tube",
-    "link": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
-    "source": "Hacker News",
-    "published": "2026-05-11T15:30:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48096328\">Comments</a>"
-  },
-  {
-    "title": "Profiling.sampling \u2013 Statistical Profiler",
-    "link": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-    "source": "Hacker News",
-    "published": "2026-05-10T11:19:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082948\">Comments</a>"
-  },
-  {
-    "title": "The Real Story of Troy",
-    "link": "https://storica.club/blog/troy-was-real/",
-    "source": "Hacker News",
-    "published": "2026-05-09T23:10:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48079202\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48089548\">Comments</a>"
   },
   {
     "title": "When life gives you lemons, write better error messages",
