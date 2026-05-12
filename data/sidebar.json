@@ -1,11 +1,83 @@
 [
   {
+    "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+    "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:52:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111748\">Comments</a>"
+  },
+  {
+    "title": "Reimagining the mouse pointer for the AI era",
+    "link": "https://deepmind.google/blog/ai-pointer/",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111581\">Comments</a>"
+  },
+  {
+    "title": "Googlebook",
+    "link": "https://googlebook.google/",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:37:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111545\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "link": "https://www.hypercubic.ai/hopper",
+    "source": "Hacker News",
+    "published": "2026-05-12T17:10:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111143\">Comments</a>"
+  },
+  {
+    "title": "Testing UPS Output Waveforms",
+    "link": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+    "source": "Hacker News",
+    "published": "2026-05-12T16:50:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48110858\">Comments</a>"
+  },
+  {
+    "title": "The Future of Obsidian Plugins",
+    "link": "https://obsidian.md/blog/future-of-plugins/",
+    "source": "Hacker News",
+    "published": "2026-05-12T15:45:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109970\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+    "link": "https://voker.ai",
+    "source": "Hacker News",
+    "published": "2026-05-12T15:45:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109962\">Comments</a>"
+  },
+  {
+    "title": "Why senior developers fail to communicate their expertise",
+    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "source": "Hacker News",
+    "published": "2026-05-12T15:08:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109460\">Comments</a>"
+  },
+  {
     "title": "Bambu Lab is abusing the open source social contract",
     "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
     "source": "Hacker News",
     "published": "2026-05-12T14:54:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48109224\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
+    "link": "https://github.com/statewright/statewright",
+    "source": "Hacker News",
+    "published": "2026-05-12T14:24:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48108778\">Comments</a>"
   },
   {
     "title": "Rendering the Sky, Sunsets, and Planets",
@@ -16,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107997\">Comments</a>"
   },
   {
-    "title": "UnDUNE II",
-    "link": "https://liquidream.itch.io/undune2",
-    "source": "Hacker News",
-    "published": "2026-05-12T12:38:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107404\">Comments</a>"
-  },
-  {
     "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
     "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
     "source": "Hacker News",
     "published": "2026-05-12T12:00:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107024\">Comments</a>"
-  },
-  {
-    "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-    "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-    "source": "Hacker News",
-    "published": "2026-05-12T11:00:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48106534\">Comments</a>"
-  },
-  {
-    "title": "Coursera and Udemy are now one company",
-    "link": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-    "source": "Hacker News",
-    "published": "2026-05-12T10:37:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48106367\">Comments</a>"
   },
   {
     "title": "Learning Software Architecture",
@@ -64,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48104428\">Comments</a>"
   },
   {
-    "title": "Extremely Low Frequencies",
-    "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "title": "Instructure pays ransom to Canvas hackers",
+    "link": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
     "source": "Hacker News",
-    "published": "2026-05-12T03:59:35+00:00",
+    "published": "2026-05-12T02:56:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48104041\">Comments</a>"
-  },
-  {
-    "title": "Claude Platform on AWS",
-    "link": "https://claude.com/blog/claude-platform-on-aws",
-    "source": "Hacker News",
-    "published": "2026-05-12T01:24:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48103042\">Comments</a>"
-  },
-  {
-    "title": "They Live (1988) inspired Adblocker",
-    "link": "https://github.com/davmlaw/they_live_adblocker",
-    "source": "Hacker News",
-    "published": "2026-05-12T00:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48102700\">Comments</a>"
-  },
-  {
-    "title": "Through the looking glass of benchmark hacking",
-    "link": "https://poolside.ai/blog/through-the-looking-glass",
-    "source": "Hacker News",
-    "published": "2026-05-11T21:24:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100868\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48103668\">Comments</a>"
   },
   {
     "title": "Postmortem: TanStack NPM supply-chain compromise",
@@ -102,30 +126,6 @@
     "published": "2026-05-11T21:08:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48100706\">Comments</a>"
-  },
-  {
-    "title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-    "source": "Hacker News",
-    "published": "2026-05-11T21:04:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100662\">Comments</a>"
-  },
-  {
-    "title": "If AI writes your code, why use Python?",
-    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "source": "Hacker News",
-    "published": "2026-05-11T20:45:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100433\">Comments</a>"
-  },
-  {
-    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-    "source": "Hacker News",
-    "published": "2026-05-11T17:53:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48098261\">Comments</a>"
   },
   {
     "title": "The Surprisingly Long Life of the Vacuum Tube",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48082948\">Comments</a>"
   },
   {
-    "title": "Analysis points to a unexpected cause of reading difficulties",
-    "link": "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html",
+    "title": "The Real Story of Troy",
+    "link": "https://storica.club/blog/troy-was-real/",
     "source": "Hacker News",
-    "published": "2026-05-10T01:45:49+00:00",
+    "published": "2026-05-09T23:10:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080179\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48079202\">Comments</a>"
   },
   {
-    "title": "Chasing Chicago's movable bridges (2014)",
-    "link": "https://aresluna.org/seesaws-for-giants/",
+    "title": "When life gives you lemons, write better error messages",
+    "link": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
     "source": "Hacker News",
-    "published": "2026-05-10T01:31:23+00:00",
+    "published": "2026-05-08T21:31:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080111\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48069032\">Comments</a>"
   }
 ]
