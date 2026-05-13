@@ -1,5 +1,37 @@
 [
   {
+    "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+    "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+    "source": "Hacker News",
+    "published": "2026-05-13T12:00:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48120776\">Comments</a>"
+  },
+  {
+    "title": "I Moved My Digital Stack to Europe",
+    "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+    "source": "Hacker News",
+    "published": "2026-05-13T11:42:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48120629\">Comments</a>"
+  },
+  {
+    "title": "Using OR-Tools CP-SAT for Scheduling Problems",
+    "link": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
+    "source": "Hacker News",
+    "published": "2026-05-13T11:02:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48120351\">Comments</a>"
+  },
+  {
+    "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+    "link": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+    "source": "Hacker News",
+    "published": "2026-05-13T08:41:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48119326\">Comments</a>"
+  },
+  {
     "title": "SecurityBaseline.eu",
     "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
     "source": "Hacker News",
@@ -16,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48117810\">Comments</a>"
   },
   {
-    "title": "My graduation cap runs Rust",
-    "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-    "source": "Hacker News",
-    "published": "2026-05-13T00:04:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48116207\">Comments</a>"
-  },
-  {
-    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "title": "When \u201cidle\u201d isn't idle: how a Linux kernel optimization became a QUIC bug",
     "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
     "source": "Hacker News",
     "published": "2026-05-12T23:46:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48116064\">Comments</a>"
-  },
-  {
-    "title": "Kraftwerk's radical 1976 track",
-    "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-    "source": "Hacker News",
-    "published": "2026-05-12T23:13:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48115823\">Comments</a>"
   },
   {
     "title": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -80,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111896\">Comments</a>"
   },
   {
-    "title": "Quack: The DuckDB Client-Server Protocol",
-    "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-    "source": "Hacker News",
-    "published": "2026-05-12T17:54:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111765\">Comments</a>"
-  },
-  {
     "title": "Googlebook",
     "link": "https://googlebook.google/",
     "source": "Hacker News",
     "published": "2026-05-12T17:37:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111545\">Comments</a>"
-  },
-  {
-    "title": "The Future of Obsidian Plugins",
-    "link": "https://obsidian.md/blog/future-of-plugins/",
-    "source": "Hacker News",
-    "published": "2026-05-12T15:45:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109970\">Comments</a>"
   },
   {
     "title": "Why senior developers fail to communicate their expertise",
@@ -112,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48109460\">Comments</a>"
   },
   {
-    "title": "Rendering the Sky, Sunsets, and Planets",
-    "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-    "source": "Hacker News",
-    "published": "2026-05-12T13:26:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107997\">Comments</a>"
-  },
-  {
     "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
     "link": "https://github.com/tracewayapp/traceway",
     "source": "Hacker News",
@@ -128,15 +120,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48091898\">Comments</a>"
   },
   {
-    "title": "Up in Smoke",
-    "link": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
+    "title": "Preserving Fisher-Price Pixter",
+    "link": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
     "source": "Hacker News",
-    "published": "2026-05-11T02:13:02+00:00",
+    "published": "2026-05-11T06:52:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48090321\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48091812\">Comments</a>"
   },
   {
-    "title": "New stainless steel can survive conditions needed for green hydrogen production",
+    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
     "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
     "source": "Hacker News",
     "published": "2026-05-11T01:05:59+00:00",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48089921\">Comments</a>"
   },
   {
-    "title": "What if there was no BASIC in EndBASIC?",
-    "link": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
+    "title": "Web Server on a Nintendo Wii",
+    "link": "http://wii.sjmulder.nl/",
     "source": "Hacker News",
-    "published": "2026-05-09T11:55:29+00:00",
+    "published": "2026-05-09T21:32:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48074226\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48078452\">Comments</a>"
+  },
+  {
+    "title": "The Boring Part of Bell Labs (2025)",
+    "link": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
+    "source": "Hacker News",
+    "published": "2026-05-08T13:00:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48062447\">Comments</a>"
   },
   {
     "title": "The vi family",
