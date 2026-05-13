@@ -1,5 +1,45 @@
 [
   {
+    "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+    "link": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+    "source": "Hacker News",
+    "published": "2026-05-13T15:26:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48123198\">Comments</a>"
+  },
+  {
+    "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+    "link": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+    "source": "Hacker News",
+    "published": "2026-05-13T15:18:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48123090\">Comments</a>"
+  },
+  {
+    "title": "Setting up a free *.city.state.us locality domain",
+    "link": "https://fredchan.org/blog/locality-domains-guide/",
+    "source": "Hacker News",
+    "published": "2026-05-13T14:45:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48122635\">Comments</a>"
+  },
+  {
+    "title": "Dutch suicide prevention website shares data with tech companies without consent",
+    "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+    "source": "Hacker News",
+    "published": "2026-05-13T12:57:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48121299\">Comments</a>"
+  },
+  {
+    "title": "Why I'm leaving GitHub for Forgejo",
+    "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "source": "Hacker News",
+    "published": "2026-05-13T12:54:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48121266\">Comments</a>"
+  },
+  {
     "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
     "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
     "source": "Hacker News",
@@ -24,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48120351\">Comments</a>"
   },
   {
-    "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
-    "link": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-    "source": "Hacker News",
-    "published": "2026-05-13T08:41:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48119326\">Comments</a>"
-  },
-  {
-    "title": "SecurityBaseline.eu",
-    "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-    "source": "Hacker News",
-    "published": "2026-05-13T07:11:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48118763\">Comments</a>"
-  },
-  {
     "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
     "link": "https://arxiv.org/abs/2605.08419",
     "source": "Hacker News",
@@ -48,44 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48117810\">Comments</a>"
   },
   {
-    "title": "When \u201cidle\u201d isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "source": "Hacker News",
-    "published": "2026-05-12T23:46:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48116064\">Comments</a>"
-  },
-  {
     "title": "Restore full BambuNetwork support for Bambu Lab printers",
     "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
     "source": "Hacker News",
     "published": "2026-05-12T21:55:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48115127\">Comments</a>"
-  },
-  {
-    "title": "Scrcpy v4.0",
-    "link": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-    "source": "Hacker News",
-    "published": "2026-05-12T20:50:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48114356\">Comments</a>"
-  },
-  {
-    "title": "How to make your text look futuristic (2016)",
-    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-    "source": "Hacker News",
-    "published": "2026-05-12T20:16:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48113895\">Comments</a>"
-  },
-  {
-    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "source": "Hacker News",
-    "published": "2026-05-12T18:12:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48112042\">Comments</a>"
   },
   {
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
@@ -104,20 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111545\">Comments</a>"
   },
   {
-    "title": "Why senior developers fail to communicate their expertise",
-    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "title": "Heritability of human life span is ~50% when heritability is redefined",
+    "link": "https://dynomight.net/lifespan/",
     "source": "Hacker News",
-    "published": "2026-05-12T15:08:40+00:00",
+    "published": "2026-05-12T15:30:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109460\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109772\">Comments</a>"
   },
   {
-    "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-    "link": "https://github.com/tracewayapp/traceway",
+    "title": "An idiot's guide to lead optimisation for proteins",
+    "link": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
     "source": "Hacker News",
-    "published": "2026-05-11T07:05:01+00:00",
+    "published": "2026-05-11T11:21:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48091898\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48093578\">Comments</a>"
   },
   {
     "title": "Preserving Fisher-Price Pixter",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48078452\">Comments</a>"
   },
   {
+    "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "link": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+    "source": "Hacker News",
+    "published": "2026-05-09T20:25:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48077924\">Comments</a>"
+  },
+  {
+    "title": "Nailing jelly to a wall: is it possible? (2005)",
+    "link": "https://greem.co.uk/otherbits/jelly.html",
+    "source": "Hacker News",
+    "published": "2026-05-09T16:50:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48076342\">Comments</a>"
+  },
+  {
     "title": "The Boring Part of Bell Labs (2025)",
     "link": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
     "source": "Hacker News",
     "published": "2026-05-08T13:00:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48062447\">Comments</a>"
-  },
-  {
-    "title": "The vi family",
-    "link": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-    "source": "Hacker News",
-    "published": "2026-05-06T07:51:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48033483\">Comments</a>"
   }
 ]
