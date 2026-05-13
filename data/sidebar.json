@@ -1,5 +1,13 @@
 [
   {
+    "title": "Starship V3",
+    "link": "https://www.spacex.com/updates#starship-v3",
+    "source": "Hacker News",
+    "published": "2026-05-13T01:29:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48116781\">Comments</a>"
+  },
+  {
     "title": "My graduation cap runs Rust",
     "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
     "source": "Hacker News",
@@ -8,12 +16,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48116207\">Comments</a>"
   },
   {
+    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "source": "Hacker News",
+    "published": "2026-05-12T23:46:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48116064\">Comments</a>"
+  },
+  {
     "title": "Kraftwerk's radical 1976 track",
     "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
     "source": "Hacker News",
     "published": "2026-05-12T23:13:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48115823\">Comments</a>"
+  },
+  {
+    "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+    "link": "https://www.savethearchive.com/newsleaders/",
+    "source": "Hacker News",
+    "published": "2026-05-12T23:11:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48115807\">Comments</a>"
   },
   {
     "title": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -30,14 +54,6 @@
     "published": "2026-05-12T20:16:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48113895\">Comments</a>"
-  },
-  {
-    "title": "Beyond Semantic Similarity",
-    "link": "https://arxiv.org/abs/2605.05242",
-    "source": "Hacker News",
-    "published": "2026-05-12T19:51:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48113518\">Comments</a>"
   },
   {
     "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
@@ -64,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48111765\">Comments</a>"
   },
   {
-    "title": "Dead.Letter (CVE-2026-45185) \u2013 How XBOW found an unauthenticated RCE on Exim",
-    "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-    "source": "Hacker News",
-    "published": "2026-05-12T17:52:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48111748\">Comments</a>"
-  },
-  {
     "title": "Reimagining the mouse pointer for the AI era",
     "link": "https://deepmind.google/blog/ai-pointer/",
     "source": "Hacker News",
@@ -96,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48109970\">Comments</a>"
   },
   {
-    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
-    "link": "https://voker.ai",
-    "source": "Hacker News",
-    "published": "2026-05-12T15:45:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109962\">Comments</a>"
-  },
-  {
     "title": "Why senior developers fail to communicate their expertise",
     "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "source": "Hacker News",
     "published": "2026-05-12T15:08:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48109460\">Comments</a>"
-  },
-  {
-    "title": "Bambu Lab is abusing the open source social contract",
-    "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "source": "Hacker News",
-    "published": "2026-05-12T14:54:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109224\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
-    "link": "https://github.com/statewright/statewright",
-    "source": "Hacker News",
-    "published": "2026-05-12T14:24:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48108778\">Comments</a>"
   },
   {
     "title": "Rendering the Sky, Sunsets, and Planets",
@@ -136,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107997\">Comments</a>"
   },
   {
-    "title": "Learning Software Architecture",
-    "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
+    "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+    "link": "https://github.com/tracewayapp/traceway",
     "source": "Hacker News",
-    "published": "2026-05-12T09:30:21+00:00",
+    "published": "2026-05-11T07:05:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48106024\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48091898\">Comments</a>"
   },
   {
-    "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
-    "link": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+    "title": "Referer Reality",
+    "link": "https://www.robinsloan.com/lab/referer/",
     "source": "Hacker News",
-    "published": "2026-05-10T23:09:53+00:00",
+    "published": "2026-05-10T20:31:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48089098\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48087643\">Comments</a>"
+  },
+  {
+    "title": "Fc, a lossless compressor for floating-point streams",
+    "link": "https://github.com/xtellect/fc",
+    "source": "Hacker News",
+    "published": "2026-05-10T10:14:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48082586\">Comments</a>"
   },
   {
     "title": "Lanzaboote \u2013 NixOS Secure Boot",
@@ -158,5 +150,13 @@
     "published": "2026-05-09T18:55:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48077291\">Comments</a>"
+  },
+  {
+    "title": "The vi family",
+    "link": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+    "source": "Hacker News",
+    "published": "2026-05-06T07:51:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48033483\">Comments</a>"
   }
 ]
