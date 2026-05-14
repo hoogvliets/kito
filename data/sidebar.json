@@ -1,11 +1,99 @@
 [
   {
-    "title": "Bun's Rust rewrite has been merged",
-    "link": "https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/",
+    "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
     "source": "Hacker News",
-    "published": "2026-05-14T17:37:39+00:00",
+    "published": "2026-05-14T21:00:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138572\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48141191\">Comments</a>"
+  },
+  {
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "source": "Hacker News",
+    "published": "2026-05-14T20:41:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140953\">Comments</a>"
+  },
+  {
+    "title": "Amazonbot is finally respecting robots.txt",
+    "link": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+    "source": "Hacker News",
+    "published": "2026-05-14T20:22:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140730\">Comments</a>"
+  },
+  {
+    "title": "RISC-V Router",
+    "link": "https://router.start9.com/",
+    "source": "Hacker News",
+    "published": "2026-05-14T20:06:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140541\">Comments</a>"
+  },
+  {
+    "title": "WinUI 3 Performance: A Leap Forward",
+    "link": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
+    "source": "Hacker News",
+    "published": "2026-05-14T19:01:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139704\">Comments</a>"
+  },
+  {
+    "title": "The AI Zombification of Universities",
+    "link": "https://www.thenewcritic.com/p/the-great-zombification",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:37:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139355\">Comments</a>"
+  },
+  {
+    "title": "The Power of a Free Popsicle (2018)",
+    "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:33:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139316\">Comments</a>"
+  },
+  {
+    "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+    "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:25:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139220\">Comments</a>"
+  },
+  {
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:25:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139219\">Comments</a>"
+  },
+  {
+    "title": "AI is making me dumb",
+    "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:19:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139148\">Comments</a>"
+  },
+  {
+    "title": "You Don't Align an AI, You Align with It",
+    "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+    "source": "Hacker News",
+    "published": "2026-05-14T18:19:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139144\">Comments</a>"
+  },
+  {
+    "title": "What's in a GGUF, besides the weights \u2013 and what's still missing?",
+    "link": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+    "source": "Hacker News",
+    "published": "2026-05-14T17:21:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138332\">Comments</a>"
   },
   {
     "title": "New Nginx Exploit",
@@ -16,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48138268\">Comments</a>"
   },
   {
-    "title": "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
     "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
     "source": "Hacker News",
     "published": "2026-05-14T17:08:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48138136\">Comments</a>"
-  },
-  {
-    "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
-    "link": "https://www.workatastartup.com/companies/terranox-ai",
-    "source": "Hacker News",
-    "published": "2026-05-14T17:01:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138063\">Comments</a>"
   },
   {
     "title": "HDD Firmware Hacking",
@@ -48,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48137145\">Comments</a>"
   },
   {
-    "title": "On The Conflation of Money and Things",
-    "link": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
-    "source": "Hacker News",
-    "published": "2026-05-14T15:36:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136992\">Comments</a>"
-  },
-  {
-    "title": "Anthropic forms $200M partnership with the Gates Foundation",
-    "link": "https://www.anthropic.com/news/gates-foundation-partnership",
-    "source": "Hacker News",
-    "published": "2026-05-14T15:15:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136662\">Comments</a>"
-  },
-  {
-    "title": "MIT: 20% drop in incoming graduate students",
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
     "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
     "source": "Hacker News",
     "published": "2026-05-14T14:51:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48136262\">Comments</a>"
-  },
-  {
-    "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-    "source": "Hacker News",
-    "published": "2026-05-14T14:49:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136240\">Comments</a>"
   },
   {
     "title": "Computer Hobby Movement in Canada",
@@ -88,46 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48134743\">Comments</a>"
   },
   {
-    "title": "Myths about /dev/urandom (2014)",
-    "link": "https://www.2uo.de/myths-about-urandom/",
-    "source": "Hacker News",
-    "published": "2026-05-14T11:26:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48133908\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Running the second public ODoH relay",
-    "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-    "source": "Hacker News",
-    "published": "2026-05-14T10:44:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48133561\">Comments</a>"
-  },
-  {
-    "title": "Claude for Small Business",
-    "link": "https://www.anthropic.com/news/claude-for-small-business",
-    "source": "Hacker News",
-    "published": "2026-05-14T03:59:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48130950\">Comments</a>"
-  },
-  {
-    "title": "Scorched Earth 2000 \u2013 Web",
-    "link": "http://www.scorch2000.com/web/",
-    "source": "Hacker News",
-    "published": "2026-05-14T00:41:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48129694\">Comments</a>"
-  },
-  {
-    "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
-    "link": "https://arxiv.org/abs/2510.03154",
-    "source": "Hacker News",
-    "published": "2026-05-13T19:22:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48126241\">Comments</a>"
-  },
-  {
     "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
     "link": "https://gynvael.coldwind.pl/?id=372",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48108621\">Comments</a>"
   },
   {
-    "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
-    "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+    "title": "Porting 3D Movie Maker to Linux",
+    "link": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
     "source": "Hacker News",
-    "published": "2026-05-11T20:39:21+00:00",
+    "published": "2026-05-11T17:17:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48100368\">Comments</a>"
-  },
-  {
-    "title": "The Tree House: A voyage to the source of a backyard dream",
-    "link": "https://www.laphamsquarterly.org/roundtable/tree-house",
-    "source": "Hacker News",
-    "published": "2026-05-11T19:41:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48099688\">Comments</a>"
-  },
-  {
-    "title": "60fps Video on a CGA? \u2013 The GlyphBlaster",
-    "link": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
-    "source": "Hacker News",
-    "published": "2026-05-10T01:01:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48079933\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48097786\">Comments</a>"
   }
 ]
