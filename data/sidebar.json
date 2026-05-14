@@ -1,11 +1,27 @@
 [
   {
-    "title": "Rewrite Bun in Rust has been merged",
-    "link": "https://github.com/oven-sh/bun/pull/30412",
+    "title": "Myths about /dev/urandom (2014)",
+    "link": "https://www.2uo.de/myths-about-urandom/",
     "source": "Hacker News",
-    "published": "2026-05-14T08:15:31+00:00",
+    "published": "2026-05-14T11:26:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132488\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48133908\">Comments</a>"
+  },
+  {
+    "title": "They Said It Would Cost $54M. We Said \"No Thanks.\"",
+    "link": "https://nateglubish.substack.com/p/they-said-it-would-cost-54-million",
+    "source": "Hacker News",
+    "published": "2026-05-14T11:05:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48133728\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Running the second public ODoH relay",
+    "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+    "source": "Hacker News",
+    "published": "2026-05-14T10:44:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48133561\">Comments</a>"
   },
   {
     "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
@@ -24,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48130950\">Comments</a>"
   },
   {
-    "title": "Arena AI Model ELO History",
-    "link": "https://mayerwin.github.io/AI-Arena-History/",
-    "source": "Hacker News",
-    "published": "2026-05-14T03:19:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48130711\">Comments</a>"
-  },
-  {
     "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
     "link": "https://github.com/DrCatHicks/learning-opportunities",
     "source": "Hacker News",
@@ -46,22 +54,6 @@
     "published": "2026-05-14T01:46:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48130186\">Comments</a>"
-  },
-  {
-    "title": "Cisco workforce reductions",
-    "link": "https://blogs.cisco.com/news/our-path-forward",
-    "source": "Hacker News",
-    "published": "2026-05-14T01:38:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48130123\">Comments</a>"
-  },
-  {
-    "title": "delta time",
-    "link": "https://www.deltatime.life/",
-    "source": "Hacker News",
-    "published": "2026-05-14T01:15:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48129953\">Comments</a>"
   },
   {
     "title": "Avoiding and reducing microplastic false positives from dry glove contact",
@@ -104,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48118727\">Comments</a>"
   },
   {
-    "title": "Twin brothers wipe 96 government databases minutes after being fired",
-    "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "source": "Hacker News",
-    "published": "2026-05-12T22:28:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48115438\">Comments</a>"
-  },
-  {
-    "title": "Notes from Optimizing CPU-Bound Go Hot Paths",
-    "link": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
-    "source": "Hacker News",
-    "published": "2026-05-12T04:46:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48104285\">Comments</a>"
-  },
-  {
     "title": "Extraordinary Ordinals",
     "link": "https://text.marvinborner.de/2026-04-09-17.html",
     "source": "Hacker News",
@@ -128,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48102901\">Comments</a>"
   },
   {
+    "title": "The Tree House: A voyage to the source of a backyard dream",
+    "link": "https://www.laphamsquarterly.org/roundtable/tree-house",
+    "source": "Hacker News",
+    "published": "2026-05-11T19:41:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48099688\">Comments</a>"
+  },
+  {
     "title": "Chess puzzle I found in my dad's old book",
     "link": "https://ardoedo.it/kempelen/",
     "source": "Hacker News",
     "published": "2026-05-11T16:00:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48096760\">Comments</a>"
+  },
+  {
+    "title": "Saying Goodbye to one line of APL",
+    "link": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
+    "source": "Hacker News",
+    "published": "2026-05-11T10:38:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48093244\">Comments</a>"
   },
   {
     "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -150,6 +142,14 @@
     "published": "2026-05-10T14:56:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48084516\">Comments</a>"
+  },
+  {
+    "title": "Leaving the Physical World",
+    "link": "https://www.eff.org/pages/leaving-physical-world",
+    "source": "Hacker News",
+    "published": "2026-05-10T13:54:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48084012\">Comments</a>"
   },
   {
     "title": "A History of IDEs at Google",
