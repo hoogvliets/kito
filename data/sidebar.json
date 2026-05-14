@@ -1,5 +1,21 @@
 [
   {
+    "title": "Rewrite Bun in Rust has been merged",
+    "link": "https://github.com/oven-sh/bun/pull/30412",
+    "source": "Hacker News",
+    "published": "2026-05-14T08:15:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132488\">Comments</a>"
+  },
+  {
+    "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "link": "https://classic7.lol/",
+    "source": "Hacker News",
+    "published": "2026-05-14T07:03:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132030\">Comments</a>"
+  },
+  {
     "title": "Claude for Small Business",
     "link": "https://www.anthropic.com/news/claude-for-small-business",
     "source": "Hacker News",
@@ -22,14 +38,6 @@
     "published": "2026-05-14T03:13:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48130679\">Comments</a>"
-  },
-  {
-    "title": "Microsoft BitLocker \u2013 YellowKey zero-day exploit",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-    "source": "Hacker News",
-    "published": "2026-05-14T02:45:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48130519\">Comments</a>"
   },
   {
     "title": "Show HN: Nibble",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48129694\">Comments</a>"
   },
   {
-    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "source": "Hacker News",
-    "published": "2026-05-13T20:12:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48126848\">Comments</a>"
-  },
-  {
     "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
     "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
     "source": "Hacker News",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48122635\">Comments</a>"
   },
   {
-    "title": "The US is winning the AI race where it matters most: commercialization",
-    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "source": "Hacker News",
-    "published": "2026-05-13T13:53:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48121929\">Comments</a>"
-  },
-  {
     "title": "The Emacsification of Software",
     "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
     "source": "Hacker News",
@@ -118,6 +110,14 @@
     "published": "2026-05-12T22:28:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48115438\">Comments</a>"
+  },
+  {
+    "title": "Notes from Optimizing CPU-Bound Go Hot Paths",
+    "link": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
+    "source": "Hacker News",
+    "published": "2026-05-12T04:46:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48104285\">Comments</a>"
   },
   {
     "title": "Extraordinary Ordinals",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48087887\">Comments</a>"
   },
   {
-    "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-    "link": "https://github.com/nooga/xsofy",
+    "title": "Technical Dimensions of Live Feedback in Programming Systems",
+    "link": "https://joshuahhh.com/dims-of-feedback/",
     "source": "Hacker News",
-    "published": "2026-05-10T03:32:59+00:00",
+    "published": "2026-05-10T14:56:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48080755\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48084516\">Comments</a>"
   },
   {
     "title": "A History of IDEs at Google",
