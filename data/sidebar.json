@@ -1,5 +1,85 @@
 [
   {
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:28:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151383\">Comments</a>"
+  },
+  {
+    "title": "Feedr v0.8.0 \u2013 a TUI RSS reader, now read the full article from your terminal",
+    "link": "https://github.com/bahdotsh/feedr",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:22:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151317\">Comments</a>"
+  },
+  {
+    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "link": "https://github.com/gdevic/FPGA-Calculator",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:15:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151237\">Comments</a>"
+  },
+  {
+    "title": "Aperio Lang",
+    "link": "https://aperio-lang.github.io/aperio/introduction.html",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:12:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151199\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+    "link": "https://github.com/sleuth-io/sx",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:03:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151058\">Comments</a>"
+  },
+  {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "link": "https://hightouch.com/careers",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:01:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151034\">Comments</a>"
+  },
+  {
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "link": "https://github.com/oven-sh/bun/issues/30719",
+    "source": "Hacker News",
+    "published": "2026-05-15T16:51:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150900\">Comments</a>"
+  },
+  {
+    "title": "Project Gutenberg \u2013 keeps getting better",
+    "link": "https://www.gutenberg.org/",
+    "source": "Hacker News",
+    "published": "2026-05-15T16:15:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150431\">Comments</a>"
+  },
+  {
+    "title": "I built Zenith: a live local-first fixed viewport planetarium",
+    "link": "https://smorgasb.org/zenith-tech/",
+    "source": "Hacker News",
+    "published": "2026-05-15T15:45:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150097\">Comments</a>"
+  },
+  {
+    "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "link": "https://github.com/neilsonnn/image-blaster",
+    "source": "Hacker News",
+    "published": "2026-05-15T15:42:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150069\">Comments</a>"
+  },
+  {
     "title": "ASCII by Jason Scott",
     "link": "https://ascii.textfiles.com/",
     "source": "Hacker News",
@@ -16,36 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48148460\">Comments</a>"
   },
   {
-    "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
-    "link": "https://turso.tech/blog/the-wonders-of-ai",
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "link": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
     "source": "Hacker News",
-    "published": "2026-05-15T13:33:15+00:00",
+    "published": "2026-05-15T13:28:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148391\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148337\">Comments</a>"
   },
   {
-    "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+    "title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
     "link": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
     "source": "Hacker News",
     "published": "2026-05-15T13:25:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48148309\">Comments</a>"
-  },
-  {
-    "title": "Trade Dollars with other startups. Book it as revenue",
-    "link": "https://www.revswap.ai/",
-    "source": "Hacker News",
-    "published": "2026-05-15T13:05:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148084\">Comments</a>"
-  },
-  {
-    "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
-    "link": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
-    "source": "Hacker News",
-    "published": "2026-05-15T12:49:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147945\">Comments</a>"
   },
   {
     "title": "Radicle: Sovereign {code forge} built on Git",
@@ -56,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48147603\">Comments</a>"
   },
   {
-    "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-    "link": "https://signoz.io/careers",
-    "source": "Hacker News",
-    "published": "2026-05-15T12:00:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147533\">Comments</a>"
-  },
-  {
     "title": "O(x)Caml in Space",
     "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
     "source": "Hacker News",
@@ -72,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48147058\">Comments</a>"
   },
   {
-    "title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
-    "link": "https://github.com/aymanhs/nanotdb",
+    "title": "A new book on Steve Jobs at NeXT",
+    "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
     "source": "Hacker News",
-    "published": "2026-05-15T10:31:51+00:00",
+    "published": "2026-05-15T10:34:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146877\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-    "link": "https://github.com/Andyyyy64/whichllm",
-    "source": "Hacker News",
-    "published": "2026-05-15T09:19:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146369\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146908\">Comments</a>"
   },
   {
     "title": "Explore Wikipedia Like a Windows XP Desktop",
@@ -96,46 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48146129\">Comments</a>"
   },
   {
-    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "source": "Hacker News",
-    "published": "2026-05-15T03:56:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48144380\">Comments</a>"
-  },
-  {
-    "title": "UK government replaces Palantir software with internally-built refugee system",
-    "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-    "source": "Hacker News",
-    "published": "2026-05-14T22:44:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142251\">Comments</a>"
-  },
-  {
-    "title": "A few words on DS4",
-    "link": "https://antirez.com/news/165",
-    "source": "Hacker News",
-    "published": "2026-05-14T22:29:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142108\">Comments</a>"
-  },
-  {
-    "title": "Codex is now in the ChatGPT mobile app",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "source": "Hacker News",
-    "published": "2026-05-14T20:06:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140529\">Comments</a>"
-  },
-  {
-    "title": "First public macOS kernel memory corruption exploit on Apple M5",
-    "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-    "source": "Hacker News",
-    "published": "2026-05-14T18:25:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139219\">Comments</a>"
-  },
-  {
     "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
     "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48138136\">Comments</a>"
   },
   {
-    "title": "Building ML framework with Rust and Category Theory",
-    "link": "https://hghalebi.github.io/category_theory_transformer_rs/",
+    "title": "Show HN: Watch a neural net learn to play Snake",
+    "link": "https://ppo.gradexp.xyz/",
     "source": "Hacker News",
-    "published": "2026-05-14T16:24:28+00:00",
+    "published": "2026-05-14T15:35:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48137629\">Comments</a>"
-  },
-  {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "source": "Hacker News",
-    "published": "2026-05-14T15:47:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48137145\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136981\">Comments</a>"
   }
 ]
