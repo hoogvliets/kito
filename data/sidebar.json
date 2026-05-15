@@ -1,11 +1,75 @@
 [
   {
+    "title": "Radicle: Sovereign {code forge} built on Git",
+    "link": "https://radicle.dev/",
+    "source": "Hacker News",
+    "published": "2026-05-15T12:07:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147603\">Comments</a>"
+  },
+  {
+    "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+    "link": "https://signoz.io/careers",
+    "source": "Hacker News",
+    "published": "2026-05-15T12:00:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147533\">Comments</a>"
+  },
+  {
+    "title": "Welcome to the Strip Mining Era of OSS Security",
+    "link": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+    "source": "Hacker News",
+    "published": "2026-05-15T11:37:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147339\">Comments</a>"
+  },
+  {
+    "title": "O(x)Caml in Space",
+    "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+    "source": "Hacker News",
+    "published": "2026-05-15T10:55:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147058\">Comments</a>"
+  },
+  {
+    "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+    "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
+    "source": "Hacker News",
+    "published": "2026-05-15T10:34:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146908\">Comments</a>"
+  },
+  {
+    "title": "UK sovereign LLM inference",
+    "link": "https://relax.ai/docs",
+    "source": "Hacker News",
+    "published": "2026-05-15T09:27:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146424\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "link": "https://github.com/Andyyyy64/whichllm",
+    "source": "Hacker News",
+    "published": "2026-05-15T09:19:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146369\">Comments</a>"
+  },
+  {
     "title": "Explore Wikipedia Like a Windows XP Desktop",
     "link": "https://explorer.samismith.com/",
     "source": "Hacker News",
     "published": "2026-05-15T08:45:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48146129\">Comments</a>"
+  },
+  {
+    "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
+    "link": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
+    "source": "Hacker News",
+    "published": "2026-05-15T08:16:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48145913\">Comments</a>"
   },
   {
     "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
@@ -16,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48144670\">Comments</a>"
   },
   {
-    "title": "Solar-based sleep patterns compared to modern norms",
-    "link": "https://dylan.gr/1775146616",
-    "source": "Hacker News",
-    "published": "2026-05-15T04:15:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48144490\">Comments</a>"
-  },
-  {
     "title": "Details of the Daring Airdrop at Tristan Da Cunha",
     "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
     "source": "Hacker News",
     "published": "2026-05-15T03:56:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48144380\">Comments</a>"
-  },
-  {
-    "title": "Mullvad exit IPs are surprisingly identifying",
-    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-    "source": "Hacker News",
-    "published": "2026-05-15T02:35:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48143880\">Comments</a>"
-  },
-  {
-    "title": "Access to frontier AI will soon be limited by economic and security constraints",
-    "link": "https://writing.antonleicht.me/p/cut-off",
-    "source": "Hacker News",
-    "published": "2026-05-15T01:08:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48143284\">Comments</a>"
   },
   {
     "title": "UK government replaces Palantir software with internally-built refugee system",
@@ -62,22 +102,6 @@
     "published": "2026-05-14T22:29:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48142108\">Comments</a>"
-  },
-  {
-    "title": "Claude for Legal",
-    "link": "https://github.com/anthropics/claude-for-legal",
-    "source": "Hacker News",
-    "published": "2026-05-14T21:05:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48141234\">Comments</a>"
-  },
-  {
-    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-    "source": "Hacker News",
-    "published": "2026-05-14T20:41:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140953\">Comments</a>"
   },
   {
     "title": "Codex is now in the ChatGPT mobile app",
@@ -120,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48137629\">Comments</a>"
   },
   {
-    "title": "HDD Firmware Hacking",
-    "link": "https://icode4.coffee/?p=1465",
-    "source": "Hacker News",
-    "published": "2026-05-14T16:19:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48137553\">Comments</a>"
-  },
-  {
     "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
     "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48137145\">Comments</a>"
   },
   {
-    "title": "Rewrite Bun in Rust has been merged",
-    "link": "https://github.com/oven-sh/bun/pull/30412",
-    "source": "Hacker News",
-    "published": "2026-05-14T08:15:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132488\">Comments</a>"
-  },
-  {
     "title": "Gyroflow: Video stabilization using gyroscope data",
     "link": "https://github.com/gyroflow/gyroflow",
     "source": "Hacker News",
     "published": "2026-05-12T13:11:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48107766\">Comments</a>"
-  },
-  {
-    "title": "Porting 3D Movie Maker to Linux",
-    "link": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-    "source": "Hacker News",
-    "published": "2026-05-11T17:17:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48097786\">Comments</a>"
   }
 ]
