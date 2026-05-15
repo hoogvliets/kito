@@ -1,27 +1,35 @@
 [
   {
-    "title": "Have a Coherent AI Policy",
-    "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
     "source": "Hacker News",
-    "published": "2026-05-14T23:24:45+00:00",
+    "published": "2026-05-15T02:35:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142553\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48143880\">Comments</a>"
   },
   {
-    "title": "More than 60 percent of the United States is experiencing drought conditions",
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "link": "https://writing.antonleicht.me/p/cut-off",
+    "source": "Hacker News",
+    "published": "2026-05-15T01:08:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48143284\">Comments</a>"
+  },
+  {
+    "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "link": "https://www.theembeddedrustacean.com/uferris",
+    "source": "Hacker News",
+    "published": "2026-05-15T01:04:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48143256\">Comments</a>"
+  },
+  {
+    "title": "More than sixty percent of the United States is experiencing drought conditions",
     "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
     "source": "Hacker News",
     "published": "2026-05-14T22:38:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48142193\">Comments</a>"
-  },
-  {
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "source": "Hacker News",
-    "published": "2026-05-14T22:37:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142188\">Comments</a>"
   },
   {
     "title": "A few words on DS4",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48140922\">Comments</a>"
   },
   {
-    "title": "Amazonbot is finally respecting robots.txt",
-    "link": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-    "source": "Hacker News",
-    "published": "2026-05-14T20:22:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140730\">Comments</a>"
-  },
-  {
     "title": "RISC-V Router",
     "link": "https://router.start9.com/",
     "source": "Hacker News",
@@ -94,14 +94,6 @@
     "published": "2026-05-14T20:06:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48140529\">Comments</a>"
-  },
-  {
-    "title": "The Power of a Free Popsicle (2018)",
-    "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-    "source": "Hacker News",
-    "published": "2026-05-14T18:33:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48139316\">Comments</a>"
   },
   {
     "title": "First public macOS kernel memory corruption exploit on Apple M5",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48137145\">Comments</a>"
   },
   {
-    "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
-    "link": "https://gynvael.coldwind.pl/?id=372",
+    "title": "Rewrite Bun in Rust has been merged",
+    "link": "https://github.com/oven-sh/bun/pull/30412",
     "source": "Hacker News",
-    "published": "2026-05-12T14:14:04+00:00",
+    "published": "2026-05-14T08:15:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48108621\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132488\">Comments</a>"
+  },
+  {
+    "title": "Gyroflow: Video stabilization using gyroscope data",
+    "link": "https://github.com/gyroflow/gyroflow",
+    "source": "Hacker News",
+    "published": "2026-05-12T13:11:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107766\">Comments</a>"
   },
   {
     "title": "Porting 3D Movie Maker to Linux",
