@@ -1,5 +1,53 @@
 [
   {
+    "title": "ASCII by Jason Scott",
+    "link": "https://ascii.textfiles.com/",
+    "source": "Hacker News",
+    "published": "2026-05-15T14:02:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148726\">Comments</a>"
+  },
+  {
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "source": "Hacker News",
+    "published": "2026-05-15T13:39:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148460\">Comments</a>"
+  },
+  {
+    "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+    "link": "https://turso.tech/blog/the-wonders-of-ai",
+    "source": "Hacker News",
+    "published": "2026-05-15T13:33:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148391\">Comments</a>"
+  },
+  {
+    "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+    "link": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+    "source": "Hacker News",
+    "published": "2026-05-15T13:25:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148309\">Comments</a>"
+  },
+  {
+    "title": "Trade Dollars with other startups. Book it as revenue",
+    "link": "https://www.revswap.ai/",
+    "source": "Hacker News",
+    "published": "2026-05-15T13:05:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148084\">Comments</a>"
+  },
+  {
+    "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+    "link": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+    "source": "Hacker News",
+    "published": "2026-05-15T12:49:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147945\">Comments</a>"
+  },
+  {
     "title": "Radicle: Sovereign {code forge} built on Git",
     "link": "https://radicle.dev/",
     "source": "Hacker News",
@@ -16,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48147533\">Comments</a>"
   },
   {
-    "title": "Welcome to the Strip Mining Era of OSS Security",
-    "link": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
-    "source": "Hacker News",
-    "published": "2026-05-15T11:37:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147339\">Comments</a>"
-  },
-  {
     "title": "O(x)Caml in Space",
     "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
     "source": "Hacker News",
@@ -32,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48147058\">Comments</a>"
   },
   {
-    "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
-    "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
+    "title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
+    "link": "https://github.com/aymanhs/nanotdb",
     "source": "Hacker News",
-    "published": "2026-05-15T10:34:58+00:00",
+    "published": "2026-05-15T10:31:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146908\">Comments</a>"
-  },
-  {
-    "title": "UK sovereign LLM inference",
-    "link": "https://relax.ai/docs",
-    "source": "Hacker News",
-    "published": "2026-05-15T09:27:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146424\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146877\">Comments</a>"
   },
   {
     "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
@@ -62,22 +94,6 @@
     "published": "2026-05-15T08:45:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48146129\">Comments</a>"
-  },
-  {
-    "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
-    "link": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
-    "source": "Hacker News",
-    "published": "2026-05-15T08:16:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48145913\">Comments</a>"
-  },
-  {
-    "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-    "link": "https://github.com/GlycemicGPT/GlycemicGPT",
-    "source": "Hacker News",
-    "published": "2026-05-15T04:48:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48144670\">Comments</a>"
   },
   {
     "title": "Details of the Daring Airdrop at Tristan Da Cunha",
@@ -120,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48139219\">Comments</a>"
   },
   {
-    "title": "New Nginx Exploit",
-    "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-    "source": "Hacker News",
-    "published": "2026-05-14T17:17:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138268\">Comments</a>"
-  },
-  {
     "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
     "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-05-14T15:47:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48137145\">Comments</a>"
-  },
-  {
-    "title": "Gyroflow: Video stabilization using gyroscope data",
-    "link": "https://github.com/gyroflow/gyroflow",
-    "source": "Hacker News",
-    "published": "2026-05-12T13:11:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48107766\">Comments</a>"
   }
 ]
