@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "source": "Hacker News",
+    "published": "2026-05-16T20:14:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48163392\">Comments</a>"
+  },
+  {
+    "title": "Japan\u2019s robot wolf sells out as record bear attacks drive demand",
+    "link": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+    "source": "Hacker News",
+    "published": "2026-05-16T19:10:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48162882\">Comments</a>"
+  },
+  {
     "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
     "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
     "source": "Hacker News",
@@ -16,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48161881\">Comments</a>"
   },
   {
-    "title": "You don't know HTML Lists",
+    "title": "HTML Lists",
     "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
     "source": "Hacker News",
     "published": "2026-05-16T16:58:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48161861\">Comments</a>"
-  },
-  {
-    "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-    "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-    "source": "Hacker News",
-    "published": "2026-05-16T15:12:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48160914\">Comments</a>"
   },
   {
     "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
@@ -38,14 +46,6 @@
     "published": "2026-05-16T14:58:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48160807\">Comments</a>"
-  },
-  {
-    "title": "Accelerate",
-    "link": "https://github.com/AccelerateHS/accelerate",
-    "source": "Hacker News",
-    "published": "2026-05-16T13:42:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48160211\">Comments</a>"
   },
   {
     "title": "My Favorite Bugs: Invalid Surrogate Pairs",
@@ -64,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48159445\">Comments</a>"
   },
   {
-    "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-    "source": "Hacker News",
-    "published": "2026-05-16T12:01:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48159405\">Comments</a>"
-  },
-  {
     "title": "Greek Alphabet Cards",
     "link": "https://labs.randomquark.com/alphabet_cards/",
     "source": "Hacker News",
@@ -88,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48159241\">Comments</a>"
   },
   {
-    "title": "Futhark by Example",
+    "title": "Futhark by example",
     "link": "https://futhark-lang.org/examples.html",
     "source": "Hacker News",
     "published": "2026-05-16T09:50:10+00:00",
@@ -112,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48158400\">Comments</a>"
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "title": "We've made the world too complicated",
+    "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
     "source": "Hacker News",
-    "published": "2026-05-15T20:26:47+00:00",
+    "published": "2026-05-16T08:25:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48153379\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48158065\">Comments</a>"
+  },
+  {
+    "title": "Frontier AI has broken the open CTF format",
+    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "source": "Hacker News",
+    "published": "2026-05-16T07:01:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48157559\">Comments</a>"
   },
   {
     "title": "Project Gutenberg \u2013 keeps getting better",
@@ -128,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48150431\">Comments</a>"
   },
   {
-    "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
-    "link": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+    "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+    "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
     "source": "Hacker News",
-    "published": "2026-05-14T07:36:20+00:00",
+    "published": "2026-05-14T00:30:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48132232\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48129593\">Comments</a>"
   },
   {
     "title": "Windows 9x Subsystem for Linux",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48115816\">Comments</a>"
   },
   {
-    "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
-    "link": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+    "title": "A molecule with half-M\u00f6bius topology",
+    "link": "https://www.science.org/doi/10.1126/science.aea3321",
     "source": "Hacker News",
-    "published": "2026-05-12T16:47:38+00:00",
+    "published": "2026-05-12T15:28:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48110804\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48109756\">Comments</a>"
   }
 ]
