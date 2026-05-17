@@ -1,6 +1,30 @@
 [
   {
-    "title": "A Nicer Voltmeter Clock",
+    "title": "Hosting a website on an 8-bit microcontroller",
+    "link": "https://maurycyz.com/projects/mcusite/",
+    "source": "Hacker News",
+    "published": "2026-05-17T01:25:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165295\">Comments</a>"
+  },
+  {
+    "title": "Self-Distillation Enables Continual Learning [pdf]",
+    "link": "https://arxiv.org/abs/2601.19897",
+    "source": "Hacker News",
+    "published": "2026-05-17T01:19:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165265\">Comments</a>"
+  },
+  {
+    "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+    "link": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+    "source": "Hacker News",
+    "published": "2026-05-16T23:59:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164891\">Comments</a>"
+  },
+  {
+    "title": "A nicer voltmeter clock",
     "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
     "source": "Hacker News",
     "published": "2026-05-16T22:45:16+00:00",
@@ -24,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48164287\">Comments</a>"
   },
   {
-    "title": "Japan\u2019s robot wolf sells out as record bear attacks drive demand",
-    "link": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "source": "Hacker News",
-    "published": "2026-05-16T19:10:38+00:00",
+    "published": "2026-05-16T20:14:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48162882\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48163392\">Comments</a>"
   },
   {
     "title": "Halt and Catch Fire",
@@ -40,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48162468\">Comments</a>"
   },
   {
-    "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-    "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-    "source": "Hacker News",
-    "published": "2026-05-16T17:12:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48161997\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
-    "link": "https://tangled.org/rocksky.app/rocksky",
-    "source": "Hacker News",
-    "published": "2026-05-16T17:00:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48161881\">Comments</a>"
-  },
-  {
     "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
     "link": "https://nvlabs.github.io/Sana/WM/",
     "source": "Hacker News",
     "published": "2026-05-16T12:06:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48159445\">Comments</a>"
-  },
-  {
-    "title": "Greek Alphabet Cards",
-    "link": "https://labs.randomquark.com/alphabet_cards/",
-    "source": "Hacker News",
-    "published": "2026-05-16T11:53:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48159354\">Comments</a>"
   },
   {
     "title": "Accelerando (2005)",
@@ -112,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48157559\">Comments</a>"
   },
   {
-    "title": "Project Gutenberg \u2013 keeps getting better",
-    "link": "https://www.gutenberg.org/",
+    "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+    "link": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
     "source": "Hacker News",
-    "published": "2026-05-15T16:15:36+00:00",
+    "published": "2026-05-15T04:32:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150431\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48144584\">Comments</a>"
+  },
+  {
+    "title": "Colossus: The Forbin Project",
+    "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+    "source": "Hacker News",
+    "published": "2026-05-14T22:30:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142115\">Comments</a>"
   },
   {
     "title": "The Third Hard Problem",
@@ -128,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48134784\">Comments</a>"
   },
   {
-    "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
-    "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
-    "source": "Hacker News",
-    "published": "2026-05-14T00:30:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48129593\">Comments</a>"
-  },
-  {
     "title": "Content-defined chunking added to Bazel",
     "link": "https://www.buildbuddy.io/blog/content-defined-chunking/",
     "source": "Hacker News",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48127453\">Comments</a>"
   },
   {
-    "title": "3D Gaussian Splatting in a Weekend",
-    "link": "https://bfeldman.me/3dgs-weekend/",
+    "title": "Unknowable Math Can Help Hide Secrets",
+    "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
     "source": "Hacker News",
-    "published": "2026-05-13T19:38:19+00:00",
+    "published": "2026-05-13T16:09:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48126431\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48123801\">Comments</a>"
   },
   {
     "title": "A molecule with half-M\u00f6bius topology",
