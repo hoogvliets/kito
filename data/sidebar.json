@@ -1,19 +1,59 @@
 [
   {
+    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+    "link": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+    "source": "Hacker News",
+    "published": "2026-05-17T17:29:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48171015\">Comments</a>"
+  },
+  {
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "link": "https://twitter.com/ryangrim/status/2055992439031185782",
+    "source": "Hacker News",
+    "published": "2026-05-17T17:10:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170810\">Comments</a>"
+  },
+  {
+    "title": "The occasional ECONNRESET",
+    "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+    "source": "Hacker News",
+    "published": "2026-05-17T17:09:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170799\">Comments</a>"
+  },
+  {
+    "title": "Americans Are Smashing Flock Cameras",
+    "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "source": "Hacker News",
+    "published": "2026-05-17T17:09:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170798\">Comments</a>"
+  },
+  {
+    "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+    "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+    "source": "Hacker News",
+    "published": "2026-05-17T16:04:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170122\">Comments</a>"
+  },
+  {
+    "title": "XS: A programming language. Anywhere, anytime, by anyone",
+    "link": "https://xslang.org",
+    "source": "Hacker News",
+    "published": "2026-05-17T14:48:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48169424\">Comments</a>"
+  },
+  {
     "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
     "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
     "source": "Hacker News",
     "published": "2026-05-17T13:42:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168856\">Comments</a>"
-  },
-  {
-    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-    "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-    "source": "Hacker News",
-    "published": "2026-05-17T13:22:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168708\">Comments</a>"
   },
   {
     "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
@@ -64,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168198\">Comments</a>"
   },
   {
-    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
-    "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-    "source": "Hacker News",
-    "published": "2026-05-17T12:03:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168159\">Comments</a>"
-  },
-  {
     "title": "Native all the way, until you need text",
     "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
     "source": "Hacker News",
@@ -88,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168056\">Comments</a>"
   },
   {
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "source": "Hacker News",
-    "published": "2026-05-17T06:17:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48166459\">Comments</a>"
-  },
-  {
-    "title": "Hosting a website on an 8-bit microcontroller",
-    "link": "https://maurycyz.com/projects/mcusite/",
-    "source": "Hacker News",
-    "published": "2026-05-17T01:25:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165295\">Comments</a>"
-  },
-  {
-    "title": "A nicer voltmeter clock",
-    "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-    "source": "Hacker News",
-    "published": "2026-05-16T22:45:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164432\">Comments</a>"
-  },
-  {
     "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
     "link": "https://crates.io/crates/zerostack/1.0.0",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48164287\">Comments</a>"
   },
   {
-    "title": "How Diamonds Are Made",
-    "link": "https://diamond.jaydip.me/",
+    "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+    "link": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
     "source": "Hacker News",
-    "published": "2026-05-15T23:18:39+00:00",
+    "published": "2026-05-15T11:39:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155185\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147351\">Comments</a>"
   },
   {
     "title": "Prolog Basics Explained with Pok\u00e9mon",
@@ -134,14 +142,6 @@
     "published": "2026-05-15T11:02:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48147091\">Comments</a>"
-  },
-  {
-    "title": "Colossus: The Forbin Project",
-    "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-    "source": "Hacker News",
-    "published": "2026-05-14T22:30:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142115\">Comments</a>"
   },
   {
     "title": "Hindenburg's Smoking Room",
