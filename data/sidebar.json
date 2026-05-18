@@ -1,5 +1,53 @@
 [
   {
+    "title": "Linux security mailing list 'almost unmanageable'",
+    "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+    "source": "Hacker News",
+    "published": "2026-05-18T12:20:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178692\">Comments</a>"
+  },
+  {
+    "title": "I automated opt-outs for 500 data broker sites (open source)",
+    "link": "https://github.com/stephenlthorn/auto-identity-remove",
+    "source": "Hacker News",
+    "published": "2026-05-18T11:32:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178184\">Comments</a>"
+  },
+  {
+    "title": "Eric Schmidt speech about AI booed during graduation",
+    "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+    "source": "Hacker News",
+    "published": "2026-05-18T10:50:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177785\">Comments</a>"
+  },
+  {
+    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "link": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "source": "Hacker News",
+    "published": "2026-05-18T10:43:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177716\">Comments</a>"
+  },
+  {
+    "title": "WHO declares major outbreak of Ebola virus species an international emergency",
+    "link": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
+    "source": "Hacker News",
+    "published": "2026-05-18T10:28:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177584\">Comments</a>"
+  },
+  {
+    "title": "Dogme 25 \u2013 Vow of Chastity",
+    "link": "https://dogma25.dk/",
+    "source": "Hacker News",
+    "published": "2026-05-18T10:05:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177452\">Comments</a>"
+  },
+  {
     "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
     "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
     "source": "Hacker News",
@@ -8,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48177300\">Comments</a>"
   },
   {
-    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-    "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "title": "Where Are the Vibecoded Photoshops?",
+    "link": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
     "source": "Hacker News",
-    "published": "2026-05-18T09:12:10+00:00",
+    "published": "2026-05-18T09:28:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177107\">Comments</a>"
-  },
-  {
-    "title": "Germany goes from labour shortages to hiring freezes",
-    "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
-    "source": "Hacker News",
-    "published": "2026-05-18T09:08:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177086\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177228\">Comments</a>"
   },
   {
     "title": "It is time to give up the dualism introduced by the debate on consciousness",
@@ -40,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48173962\">Comments</a>"
   },
   {
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "source": "Hacker News",
-    "published": "2026-05-17T21:45:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173468\">Comments</a>"
-  },
-  {
     "title": "GenCAD",
     "link": "https://gencad.github.io/",
     "source": "Hacker News",
     "published": "2026-05-17T21:40:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>"
-  },
-  {
-    "title": "Prolog Coding Horror",
-    "link": "https://www.metalevel.at/prolog/horror",
-    "source": "Hacker News",
-    "published": "2026-05-17T21:15:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>"
   },
   {
     "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
@@ -80,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>"
   },
   {
-    "title": "CUDA Books",
-    "link": "https://github.com/alternbits/awesome-cuda-books",
+    "title": "Writing Z80 assembly, 4 decades later:-)",
+    "link": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
     "source": "Hacker News",
-    "published": "2026-05-17T12:52:06+00:00",
+    "published": "2026-05-17T08:55:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168485\">Comments</a>"
-  },
-  {
-    "title": "kharp \u2013 k version 3 Language Interpreter in C#",
-    "link": "https://github.com/ERufian/ksharp",
-    "source": "Hacker News",
-    "published": "2026-05-17T07:44:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48166856\">Comments</a>"
-  },
-  {
-    "title": "Tesla Solar Roof is on life support as it pivot to panels",
-    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-    "source": "Hacker News",
-    "published": "2026-05-17T04:09:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165980\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48167177\">Comments</a>"
   },
   {
     "title": "Profunctor Equipment in Haskell",
@@ -110,22 +118,6 @@
     "published": "2026-05-16T15:18:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48160964\">Comments</a>"
-  },
-  {
-    "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-    "source": "Hacker News",
-    "published": "2026-05-16T05:56:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48157229\">Comments</a>"
-  },
-  {
-    "title": "Magical Realism: \u201cNorthern Exposure\u201d 25 Years Later (2015)",
-    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-    "source": "Hacker News",
-    "published": "2026-05-16T01:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155936\">Comments</a>"
   },
   {
     "title": "Crystals found inside wreckage from the first nuclear bomb test",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48151251\">Comments</a>"
   },
   {
-    "title": "The SGI Buyer's Guide (2003)",
-    "link": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml",
+    "title": "Graphing Scientific Calculator Based on the ESP32",
+    "link": "https://github.com/El-EnderJ/NeoCalculator",
     "source": "Hacker News",
-    "published": "2026-05-15T14:05:25+00:00",
+    "published": "2026-05-15T13:29:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148766\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148351\">Comments</a>"
+  },
+  {
+    "title": "Math Jokes in Alice in Wonderland",
+    "link": "https://storica.club/blog/alice-is-math-jokes/",
+    "source": "Hacker News",
+    "published": "2026-05-14T13:28:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48135096\">Comments</a>"
   }
 ]
