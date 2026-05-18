@@ -1,35 +1,59 @@
 [
   {
-    "title": "VoIP brings back old-fashioned pay phones to rural Vermont",
+    "title": "Design posters showcasing your country's electrical grid",
+    "link": "https://github.com/open-energy-transition/grid2poster",
+    "source": "Hacker News",
+    "published": "2026-05-17T22:47:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173849\">Comments</a>"
+  },
+  {
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "link": "https://xca-attacks.github.io/fabricked/",
+    "source": "Hacker News",
+    "published": "2026-05-17T22:23:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173708\">Comments</a>"
+  },
+  {
+    "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+    "link": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "source": "Hacker News",
+    "published": "2026-05-17T21:56:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173547\">Comments</a>"
+  },
+  {
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "source": "Hacker News",
+    "published": "2026-05-17T21:45:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173468\">Comments</a>"
+  },
+  {
+    "title": "GenCAD",
+    "link": "https://gencad.github.io/",
+    "source": "Hacker News",
+    "published": "2026-05-17T21:40:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>"
+  },
+  {
+    "title": "Prolog Coding Horror",
+    "link": "https://www.metalevel.at/prolog/horror",
+    "source": "Hacker News",
+    "published": "2026-05-17T21:15:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>"
+  },
+  {
+    "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
     "link": "https://spectrum.ieee.org/payphone-voip",
     "source": "Hacker News",
     "published": "2026-05-17T19:39:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48172505\">Comments</a>"
-  },
-  {
-    "title": "Scientists \u201cbottle the sun\u201d with a liquid battery that stores solar energy",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
-    "source": "Hacker News",
-    "published": "2026-05-17T18:42:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48171906\">Comments</a>"
-  },
-  {
-    "title": "The occasional ECONNRESET",
-    "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-    "source": "Hacker News",
-    "published": "2026-05-17T17:09:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170799\">Comments</a>"
-  },
-  {
-    "title": "Don\u2019t Outsource the Learning",
-    "link": "https://addyosmani.com/blog/dont-outsource-learning/",
-    "source": "Hacker News",
-    "published": "2026-05-17T16:04:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170118\">Comments</a>"
   },
   {
     "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>"
   },
   {
-    "title": "AI is a technology not a product",
-    "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "source": "Hacker News",
-    "published": "2026-05-17T13:11:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168626\">Comments</a>"
-  },
-  {
     "title": "CUDA Books",
     "link": "https://github.com/alternbits/awesome-cuda-books",
     "source": "Hacker News",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168221\">Comments</a>"
   },
   {
-    "title": "Apple Silicon costs more than OpenRouter",
-    "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-    "source": "Hacker News",
-    "published": "2026-05-17T12:09:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168198\">Comments</a>"
-  },
-  {
     "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
     "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
     "source": "Hacker News",
@@ -88,36 +96,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168159\">Comments</a>"
   },
   {
-    "title": "Native all the way, until you need text",
-    "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-    "source": "Hacker News",
-    "published": "2026-05-17T11:49:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168058\">Comments</a>"
-  },
-  {
-    "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-    "link": "https://crates.io/crates/zerostack/1.0.0",
-    "source": "Hacker News",
-    "published": "2026-05-16T22:23:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164287\">Comments</a>"
-  },
-  {
-    "title": "Schanuel's Conjecture and the Semantics of Triton's FPSan",
-    "link": "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/",
-    "source": "Hacker News",
-    "published": "2026-05-16T03:34:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48156596\">Comments</a>"
-  },
-  {
     "title": "Magical Realism: \u201cNorthern Exposure\u201d 25 Years Later (2015)",
     "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
     "source": "Hacker News",
     "published": "2026-05-16T01:25:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48155936\">Comments</a>"
+  },
+  {
+    "title": "New Nightmare Just Dropped: '3D' Animated Ads on Trucks in Traffic",
+    "link": "https://www.thedrive.com/news/new-nightmare-just-dropped-3d-animated-ads-on-trucks-in-traffic",
+    "source": "Hacker News",
+    "published": "2026-05-16T00:21:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155589\">Comments</a>"
+  },
+  {
+    "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+    "link": "https://askanastronaut.issinrealtime.org/",
+    "source": "Hacker News",
+    "published": "2026-05-15T19:25:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48152754\">Comments</a>"
+  },
+  {
+    "title": "Jank now has its own custom IR",
+    "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
+    "source": "Hacker News",
+    "published": "2026-05-15T17:17:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151251\">Comments</a>"
   },
   {
     "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
@@ -142,14 +150,6 @@
     "published": "2026-05-14T20:08:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48140556\">Comments</a>"
-  },
-  {
-    "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
-    "source": "Hacker News",
-    "published": "2026-05-14T19:56:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140368\">Comments</a>"
   },
   {
     "title": "High-Entropy Alloy",
