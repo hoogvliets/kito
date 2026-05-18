@@ -1,5 +1,53 @@
 [
   {
+    "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+    "link": "https://modal.com/blog/truly-serverless-gpus",
+    "source": "Hacker News",
+    "published": "2026-05-18T17:56:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183038\">Comments</a>"
+  },
+  {
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "source": "Hacker News",
+    "published": "2026-05-18T17:38:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182754\">Comments</a>"
+  },
+  {
+    "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+    "source": "Hacker News",
+    "published": "2026-05-18T17:25:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182592\">Comments</a>"
+  },
+  {
+    "title": "Cursor Introduces Composer 2.5",
+    "link": "https://twitter.com/cursor_ai/status/2056415413077233983",
+    "source": "Hacker News",
+    "published": "2026-05-18T17:20:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182516\">Comments</a>"
+  },
+  {
+    "title": "Anthropic Acquires Stainless",
+    "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "source": "Hacker News",
+    "published": "2026-05-18T17:01:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182281\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.7 Preview",
+    "link": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+    "source": "Hacker News",
+    "published": "2026-05-18T16:24:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48181877\">Comments</a>"
+  },
+  {
     "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
     "link": "https://archestra.ai/blog/only-responsible-ai",
     "source": "Hacker News",
@@ -14,14 +62,6 @@
     "published": "2026-05-18T14:13:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48180204\">Comments</a>"
-  },
-  {
-    "title": "Actually, Democracy Dies in H.R.",
-    "link": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
-    "source": "Hacker News",
-    "published": "2026-05-18T14:04:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180091\">Comments</a>"
   },
   {
     "title": "Project Glasswing: what Mythos showed us",
@@ -48,20 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48179183\">Comments</a>"
   },
   {
-    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+    "title": "Learn Harness Engineering",
+    "link": "https://walkinglabs.github.io/learn-harness-engineering/en/",
     "source": "Hacker News",
-    "published": "2026-05-18T12:49:54+00:00",
+    "published": "2026-05-18T12:17:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48179029\">Comments</a>"
-  },
-  {
-    "title": "Linux security mailing list 'almost unmanageable'",
-    "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-    "source": "Hacker News",
-    "published": "2026-05-18T12:20:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178692\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178652\">Comments</a>"
   },
   {
     "title": "When Kierkegaard Got Cancelled",
@@ -80,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48178378\">Comments</a>"
   },
   {
-    "title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
-    "link": "https://github.com/stephenlthorn/auto-identity-remove",
-    "source": "Hacker News",
-    "published": "2026-05-18T11:32:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178184\">Comments</a>"
-  },
-  {
-    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
-    "source": "Hacker News",
-    "published": "2026-05-18T09:40:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177300\">Comments</a>"
-  },
-  {
     "title": "It is time to give up the dualism introduced by the debate on consciousness",
     "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
     "source": "Hacker News",
     "published": "2026-05-18T02:59:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48175140\">Comments</a>"
-  },
-  {
-    "title": "GenCAD",
-    "link": "https://gencad.github.io/",
-    "source": "Hacker News",
-    "published": "2026-05-17T21:40:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>"
-  },
-  {
-    "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
-    "link": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
-    "source": "Hacker News",
-    "published": "2026-05-17T08:55:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48167177\">Comments</a>"
   },
   {
     "title": "The Quiet Renovation at Bitwarden",
@@ -128,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48163389\">Comments</a>"
   },
   {
+    "title": "The Fil-C Optimized Calling Convention",
+    "link": "https://fil-c.org/calling_convention",
+    "source": "Hacker News",
+    "published": "2026-05-16T19:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48162876\">Comments</a>"
+  },
+  {
     "title": "What Is Date:Italy?",
     "link": "http://aesthetikx.info/blog/date_italy.html",
     "source": "Hacker News",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48162157\">Comments</a>"
   },
   {
-    "title": "Crystals found inside wreckage from the first nuclear bomb test",
-    "link": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+    "title": "Two computers, one monitor, zero fiddling \u2013 Alex Plescan",
+    "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
     "source": "Hacker News",
-    "published": "2026-05-15T23:54:33+00:00",
+    "published": "2026-05-16T02:13:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155450\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48156186\">Comments</a>"
   },
   {
     "title": "The Aperiodic Table",
@@ -150,13 +158,5 @@
     "published": "2026-05-15T18:23:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48151990\">Comments</a>"
-  },
-  {
-    "title": "Math Jokes in Alice in Wonderland",
-    "link": "https://storica.club/blog/alice-is-math-jokes/",
-    "source": "Hacker News",
-    "published": "2026-05-14T13:28:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48135096\">Comments</a>"
   }
 ]
