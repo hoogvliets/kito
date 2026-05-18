@@ -1,5 +1,69 @@
 [
   {
+    "title": "No More JetBrains Products for Me",
+    "link": "https://matthewkosarek.xyz/posts/jetbrains/",
+    "source": "Hacker News",
+    "published": "2026-05-18T20:30:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48185188\">Comments</a>"
+  },
+  {
+    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+    "link": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+    "source": "Hacker News",
+    "published": "2026-05-18T19:50:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184635\">Comments</a>"
+  },
+  {
+    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+    "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+    "source": "Hacker News",
+    "published": "2026-05-18T19:28:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184350\">Comments</a>"
+  },
+  {
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "link": "https://hyperpolyglot.org/lisp",
+    "source": "Hacker News",
+    "published": "2026-05-18T19:27:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184322\">Comments</a>"
+  },
+  {
+    "title": "loopmaster \u2013 Livecoding Music IDE",
+    "link": "https://loopmaster.xyz/",
+    "source": "Hacker News",
+    "published": "2026-05-18T18:44:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183757\">Comments</a>"
+  },
+  {
+    "title": "Agora-1: The Multi-Agent World Model",
+    "link": "https://odyssey.ml/introducing-agora-1",
+    "source": "Hacker News",
+    "published": "2026-05-18T18:43:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183748\">Comments</a>"
+  },
+  {
+    "title": "Haiku OS runs on M1 Macs now",
+    "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+    "source": "Hacker News",
+    "published": "2026-05-18T18:30:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183579\">Comments</a>"
+  },
+  {
+    "title": "We let AIs run radio stations",
+    "link": "https://andonlabs.com/blog/andon-fm",
+    "source": "Hacker News",
+    "published": "2026-05-18T18:12:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183301\">Comments</a>"
+  },
+  {
     "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
     "link": "https://modal.com/blog/truly-serverless-gpus",
     "source": "Hacker News",
@@ -16,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48182754\">Comments</a>"
   },
   {
-    "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
     "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
     "source": "Hacker News",
     "published": "2026-05-18T17:25:54+00:00",
@@ -24,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48182592\">Comments</a>"
   },
   {
-    "title": "Cursor Introduces Composer 2.5",
-    "link": "https://twitter.com/cursor_ai/status/2056415413077233983",
-    "source": "Hacker News",
-    "published": "2026-05-18T17:20:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182516\">Comments</a>"
-  },
-  {
-    "title": "Anthropic Acquires Stainless",
+    "title": "Anthropic acquires Stainless",
     "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "source": "Hacker News",
     "published": "2026-05-18T17:01:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48182281\">Comments</a>"
-  },
-  {
-    "title": "Qwen 3.7 Preview",
-    "link": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
-    "source": "Hacker News",
-    "published": "2026-05-18T16:24:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48181877\">Comments</a>"
   },
   {
     "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
@@ -54,14 +102,6 @@
     "published": "2026-05-18T15:24:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48181125\">Comments</a>"
-  },
-  {
-    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-    "link": "https://github.com/2b2tplace/1m_release",
-    "source": "Hacker News",
-    "published": "2026-05-18T14:13:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180204\">Comments</a>"
   },
   {
     "title": "Project Glasswing: what Mythos showed us",
@@ -80,44 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48179677\">Comments</a>"
   },
   {
-    "title": "'We mould trees to grow into the shape of chairs'",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+    "title": "Designing an FPGA Calculator from Scratch",
+    "link": "https://baltazarstudios.com/calculator/",
     "source": "Hacker News",
-    "published": "2026-05-18T13:01:18+00:00",
+    "published": "2026-05-18T00:26:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48179183\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48174409\">Comments</a>"
   },
   {
-    "title": "Learn Harness Engineering",
-    "link": "https://walkinglabs.github.io/learn-harness-engineering/en/",
+    "title": "Understanding Singleflight in Go",
+    "link": "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work",
     "source": "Hacker News",
-    "published": "2026-05-18T12:17:04+00:00",
+    "published": "2026-05-16T21:57:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178652\">Comments</a>"
-  },
-  {
-    "title": "When Kierkegaard Got Cancelled",
-    "link": "https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled",
-    "source": "Hacker News",
-    "published": "2026-05-18T12:03:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178510\">Comments</a>"
-  },
-  {
-    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-    "link": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-    "source": "Hacker News",
-    "published": "2026-05-18T11:51:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178378\">Comments</a>"
-  },
-  {
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "source": "Hacker News",
-    "published": "2026-05-18T02:59:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48175140\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164147\">Comments</a>"
   },
   {
     "title": "The Quiet Renovation at Bitwarden",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48162876\">Comments</a>"
   },
   {
-    "title": "What Is Date:Italy?",
-    "link": "http://aesthetikx.info/blog/date_italy.html",
-    "source": "Hacker News",
-    "published": "2026-05-16T17:31:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48162157\">Comments</a>"
-  },
-  {
-    "title": "Two computers, one monitor, zero fiddling \u2013 Alex Plescan",
+    "title": "Two computers, one monitor, zero fiddling (2025)",
     "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
     "source": "Hacker News",
     "published": "2026-05-16T02:13:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48156186\">Comments</a>"
-  },
-  {
-    "title": "The Aperiodic Table",
-    "link": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
-    "source": "Hacker News",
-    "published": "2026-05-15T18:23:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151990\">Comments</a>"
   }
 ]
