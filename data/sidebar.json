@@ -1,19 +1,43 @@
 [
   {
+    "title": "PyTorch Landscape",
+    "link": "https://pytorch.landscape2.io",
+    "source": "Hacker News",
+    "published": "2026-05-19T04:29:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189178\">Comments</a>"
+  },
+  {
+    "title": "Codex-maxxing",
+    "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+    "source": "Hacker News",
+    "published": "2026-05-19T04:24:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189156\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hsrs \u2013 Type-Safe Haskell Bindings Generator for Rust",
+    "link": "https://github.com/harmont-dev/hsrs",
+    "source": "Hacker News",
+    "published": "2026-05-19T04:06:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189044\">Comments</a>"
+  },
+  {
+    "title": "Peter Neumann has died",
+    "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+    "source": "Hacker News",
+    "published": "2026-05-19T03:17:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188787\">Comments</a>"
+  },
+  {
     "title": "Peter Salus has died",
     "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
     "source": "Hacker News",
     "published": "2026-05-19T02:56:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48188665\">Comments</a>"
-  },
-  {
-    "title": "War game exposed U.S. vulnerability to low-tech warfare",
-    "link": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-    "source": "Hacker News",
-    "published": "2026-05-19T02:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188506\">Comments</a>"
   },
   {
     "title": "The last six months in LLMs in five minutes",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48184322\">Comments</a>"
   },
   {
-    "title": "Agora-1: The Multi-Agent World Model",
-    "link": "https://odyssey.ml/introducing-agora-1",
-    "source": "Hacker News",
-    "published": "2026-05-18T18:43:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183748\">Comments</a>"
-  },
-  {
     "title": "We let AIs run radio stations",
     "link": "https://andonlabs.com/blog/andon-fm",
     "source": "Hacker News",
@@ -64,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48183301\">Comments</a>"
   },
   {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "title": "Cursor Introduces Composer 2.5",
+    "link": "https://cursor.com/blog/composer-2-5",
     "source": "Hacker News",
-    "published": "2026-05-18T17:38:22+00:00",
+    "published": "2026-05-18T17:20:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182754\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182516\">Comments</a>"
   },
   {
     "title": "Anthropic acquires Stainless",
@@ -88,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48181125\">Comments</a>"
   },
   {
-    "title": "Project Glasswing: what Mythos showed us",
-    "link": "https://blog.cloudflare.com/cyber-frontier-models/",
+    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "link": "https://github.com/2b2tplace/1m_release",
     "source": "Hacker News",
-    "published": "2026-05-18T13:37:11+00:00",
+    "published": "2026-05-18T14:13:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48179732\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-    "link": "https://github.com/zakirullin/files.md",
-    "source": "Hacker News",
-    "published": "2026-05-18T13:33:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48179677\">Comments</a>"
-  },
-  {
-    "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
-    "link": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
-    "source": "Hacker News",
-    "published": "2026-05-18T08:36:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48176873\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180204\">Comments</a>"
   },
   {
     "title": "When can the C++ compiler devirtualize a call?",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48165944\">Comments</a>"
   },
   {
-    "title": "The Quiet Renovation at Bitwarden",
-    "link": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+    "title": "Make ZIP files smaller with ZIP Shrinker",
+    "link": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
     "source": "Hacker News",
-    "published": "2026-05-16T20:13:41+00:00",
+    "published": "2026-05-17T00:26:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48163389\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165030\">Comments</a>"
   },
   {
-    "title": "Why is it called Kent House?",
-    "link": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+    "title": "Turn your Android phone into a ham radio transceiver",
+    "link": "https://www.kv4p.com/",
     "source": "Hacker News",
-    "published": "2026-05-16T10:19:02+00:00",
+    "published": "2026-05-16T16:49:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48158780\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48161772\">Comments</a>"
   },
   {
     "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
