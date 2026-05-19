@@ -1,11 +1,67 @@
 [
   {
-    "title": "Colonization of Venus",
-    "link": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+    "title": "Launch HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
+    "link": "https://superlog.sh/",
     "source": "Hacker News",
-    "published": "2026-05-19T12:26:45+00:00",
+    "published": "2026-05-19T15:54:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48195021\">Comments</a>"
+  },
+  {
+    "title": "I've built a virtual museum with nearly every operating system you can think of",
+    "link": "https://virtualosmuseum.org/",
+    "source": "Hacker News",
+    "published": "2026-05-19T15:53:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48195009\">Comments</a>"
+  },
+  {
+    "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+    "link": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+    "source": "Hacker News",
+    "published": "2026-05-19T15:27:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48194614\">Comments</a>"
+  },
+  {
+    "title": "I\u2019ve joined Anthropic",
+    "link": "https://twitter.com/karpathy/status/2056753169888334312",
+    "source": "Hacker News",
+    "published": "2026-05-19T15:07:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48194352\">Comments</a>"
+  },
+  {
+    "title": "Why is almost everyone right-handed?",
+    "link": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+    "source": "Hacker News",
+    "published": "2026-05-19T14:50:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48194098\">Comments</a>"
+  },
+  {
+    "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+    "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
+    "source": "Hacker News",
+    "published": "2026-05-19T14:12:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48193578\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I made a 3D pose maker for artists",
+    "link": "https://setpose.com/",
+    "source": "Hacker News",
+    "published": "2026-05-19T14:04:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48193474\">Comments</a>"
+  },
+  {
+    "title": "OpenBSD 7.9",
+    "link": "https://www.openbsd.org/79.html",
+    "source": "Hacker News",
+    "published": "2026-05-19T13:11:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192882\">Comments</a>"
   },
   {
     "title": "New accessibility features powered by Apple Intelligence",
@@ -16,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48192224\">Comments</a>"
   },
   {
-    "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
-    "link": "https://github.com/vostride/id-agent",
-    "source": "Hacker News",
-    "published": "2026-05-19T11:16:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48191852\">Comments</a>"
-  },
-  {
     "title": "Gaussian Splat of a Strawberry",
     "link": "https://superspl.at/scene/84df8849",
     "source": "Hacker News",
     "published": "2026-05-19T10:38:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48191602\">Comments</a>"
+  },
+  {
+    "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "source": "Hacker News",
+    "published": "2026-05-19T07:45:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48190454\">Comments</a>"
   },
   {
     "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
@@ -40,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48189368\">Comments</a>"
   },
   {
-    "title": "PyTorch Landscape",
-    "link": "https://pytorch.landscape2.io",
-    "source": "Hacker News",
-    "published": "2026-05-19T04:29:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189178\">Comments</a>"
-  },
-  {
     "title": "Peter Neumann has died",
     "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "source": "Hacker News",
@@ -56,52 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48188787\">Comments</a>"
   },
   {
-    "title": "The last six months in LLMs in five minutes",
-    "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "title": "An Apple (II) for Teacher",
+    "link": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
     "source": "Hacker News",
-    "published": "2026-05-19T01:30:42+00:00",
+    "published": "2026-05-19T00:25:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188183\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48187752\">Comments</a>"
   },
   {
-    "title": "Click (2016)",
-    "link": "https://clickclickclick.click/",
+    "title": "Hanoi's humble beer glass and the memory of a nation",
+    "link": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
     "source": "Hacker News",
-    "published": "2026-05-18T23:03:02+00:00",
+    "published": "2026-05-18T17:45:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48187054\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182872\">Comments</a>"
   },
   {
-    "title": "We let AIs run radio stations",
-    "link": "https://andonlabs.com/blog/andon-fm",
+    "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+    "link": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
     "source": "Hacker News",
-    "published": "2026-05-18T18:12:18+00:00",
+    "published": "2026-05-17T15:52:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183301\">Comments</a>"
-  },
-  {
-    "title": "Cursor Introduces Composer 2.5",
-    "link": "https://cursor.com/blog/composer-2-5",
-    "source": "Hacker News",
-    "published": "2026-05-18T17:20:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182516\">Comments</a>"
-  },
-  {
-    "title": "Anthropic acquires Stainless",
-    "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "source": "Hacker News",
-    "published": "2026-05-18T17:01:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48182281\">Comments</a>"
-  },
-  {
-    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-    "link": "https://github.com/2b2tplace/1m_release",
-    "source": "Hacker News",
-    "published": "2026-05-18T14:13:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180204\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170007\">Comments</a>"
   },
   {
     "title": "Nim-Presto \u2013 REST API Framework for Nim Language",
@@ -134,29 +158,5 @@
     "published": "2026-05-17T03:25:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48165797\">Comments</a>"
-  },
-  {
-    "title": "The lasting influence of Netscape Time",
-    "link": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-    "source": "Hacker News",
-    "published": "2026-05-17T01:22:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165283\">Comments</a>"
-  },
-  {
-    "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-    "link": "https://www.kv4p.com/",
-    "source": "Hacker News",
-    "published": "2026-05-16T16:49:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48161772\">Comments</a>"
-  },
-  {
-    "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-    "link": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-    "source": "Hacker News",
-    "published": "2026-05-14T15:30:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136909\">Comments</a>"
   }
 ]
