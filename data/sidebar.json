@@ -1,6 +1,30 @@
 [
   {
-    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+    "title": "Peter Salus has died",
+    "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "source": "Hacker News",
+    "published": "2026-05-19T02:56:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188665\">Comments</a>"
+  },
+  {
+    "title": "War game exposed U.S. vulnerability to low-tech warfare",
+    "link": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+    "source": "Hacker News",
+    "published": "2026-05-19T02:25:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188506\">Comments</a>"
+  },
+  {
+    "title": "The last six months in LLMs in five minutes",
+    "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "source": "Hacker News",
+    "published": "2026-05-19T01:30:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188183\">Comments</a>"
+  },
+  {
+    "title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
     "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
     "source": "Hacker News",
     "published": "2026-05-18T23:18:10+00:00",
@@ -8,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48187201\">Comments</a>"
   },
   {
-    "title": "Click",
+    "title": "Click (2016)",
     "link": "https://clickclickclick.click/",
     "source": "Hacker News",
     "published": "2026-05-18T23:03:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48187054\">Comments</a>"
-  },
-  {
-    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-    "source": "Hacker News",
-    "published": "2026-05-18T19:28:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184350\">Comments</a>"
   },
   {
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
@@ -30,14 +46,6 @@
     "published": "2026-05-18T19:27:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48184322\">Comments</a>"
-  },
-  {
-    "title": "Loopmaster \u2013 Livecoding Music IDE",
-    "link": "https://loopmaster.xyz/",
-    "source": "Hacker News",
-    "published": "2026-05-18T18:44:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183757\">Comments</a>"
   },
   {
     "title": "Agora-1: The Multi-Agent World Model",
@@ -54,14 +62,6 @@
     "published": "2026-05-18T18:12:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48183301\">Comments</a>"
-  },
-  {
-    "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-    "link": "https://modal.com/blog/truly-serverless-gpus",
-    "source": "Hacker News",
-    "published": "2026-05-18T17:56:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183038\">Comments</a>"
   },
   {
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
@@ -88,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48181125\">Comments</a>"
   },
   {
+    "title": "Project Glasswing: what Mythos showed us",
+    "link": "https://blog.cloudflare.com/cyber-frontier-models/",
+    "source": "Hacker News",
+    "published": "2026-05-18T13:37:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48179732\">Comments</a>"
+  },
+  {
     "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
     "link": "https://github.com/zakirullin/files.md",
     "source": "Hacker News",
@@ -104,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48176873\">Comments</a>"
   },
   {
-    "title": "Designing an FPGA Calculator from Scratch",
-    "link": "https://baltazarstudios.com/calculator/",
+    "title": "When can the C++ compiler devirtualize a call?",
+    "link": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
     "source": "Hacker News",
-    "published": "2026-05-18T00:26:33+00:00",
+    "published": "2026-05-17T08:58:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48174409\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48167187\">Comments</a>"
   },
   {
-    "title": "The Futility of Lava Lamps: What Random Means",
-    "link": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
+    "title": "Anyone on the Internet Can Ring Your Doorbell",
+    "link": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
     "source": "Hacker News",
-    "published": "2026-05-16T22:40:37+00:00",
+    "published": "2026-05-17T03:59:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164388\">Comments</a>"
-  },
-  {
-    "title": "Understanding Singleflight in Go",
-    "link": "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work",
-    "source": "Hacker News",
-    "published": "2026-05-16T21:57:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164147\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165944\">Comments</a>"
   },
   {
     "title": "The Quiet Renovation at Bitwarden",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48163389\">Comments</a>"
   },
   {
-    "title": "The Fil-C Optimized Calling Convention",
-    "link": "https://fil-c.org/calling_convention",
+    "title": "Why is it called Kent House?",
+    "link": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
     "source": "Hacker News",
-    "published": "2026-05-16T19:10:08+00:00",
+    "published": "2026-05-16T10:19:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48162876\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48158780\">Comments</a>"
   },
   {
-    "title": "Two computers, one monitor, zero fiddling (2025)",
-    "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
+    "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+    "link": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
     "source": "Hacker News",
-    "published": "2026-05-16T02:13:19+00:00",
+    "published": "2026-05-14T15:30:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48156186\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48136909\">Comments</a>"
   },
   {
     "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
