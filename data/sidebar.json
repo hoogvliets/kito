@@ -1,5 +1,37 @@
 [
   {
+    "title": "Colonization of Venus",
+    "link": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+    "source": "Hacker News",
+    "published": "2026-05-19T12:26:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192410\">Comments</a>"
+  },
+  {
+    "title": "New accessibility features powered by Apple Intelligence",
+    "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+    "source": "Hacker News",
+    "published": "2026-05-19T12:04:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192224\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
+    "link": "https://github.com/vostride/id-agent",
+    "source": "Hacker News",
+    "published": "2026-05-19T11:16:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48191852\">Comments</a>"
+  },
+  {
+    "title": "Gaussian Splat of a Strawberry",
+    "link": "https://superspl.at/scene/84df8849",
+    "source": "Hacker News",
+    "published": "2026-05-19T10:38:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48191602\">Comments</a>"
+  },
+  {
     "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
     "link": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
     "source": "Hacker News",
@@ -14,14 +46,6 @@
     "published": "2026-05-19T04:29:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48189178\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hsrs \u2013 Type-Safe Haskell Bindings Generator for Rust",
-    "link": "https://github.com/harmont-dev/hsrs",
-    "source": "Hacker News",
-    "published": "2026-05-19T04:06:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189044\">Comments</a>"
   },
   {
     "title": "Peter Neumann has died",
@@ -40,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48188183\">Comments</a>"
   },
   {
-    "title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
-    "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "source": "Hacker News",
-    "published": "2026-05-18T23:18:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48187201\">Comments</a>"
-  },
-  {
     "title": "Click (2016)",
     "link": "https://clickclickclick.click/",
     "source": "Hacker News",
     "published": "2026-05-18T23:03:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48187054\">Comments</a>"
-  },
-  {
-    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "link": "https://hyperpolyglot.org/lisp",
-    "source": "Hacker News",
-    "published": "2026-05-18T19:27:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184322\">Comments</a>"
   },
   {
     "title": "We let AIs run radio stations",
@@ -96,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48180204\">Comments</a>"
   },
   {
-    "title": "When can the C++ compiler devirtualize a call?",
-    "link": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+    "title": "Nim-Presto \u2013 REST API Framework for Nim Language",
+    "link": "https://github.com/status-im/nim-presto",
     "source": "Hacker News",
-    "published": "2026-05-17T08:58:31+00:00",
+    "published": "2026-05-17T13:09:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48167187\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168610\">Comments</a>"
+  },
+  {
+    "title": "Photo GIMP \u2013 A Patch for GIMP 3 for Photoshop Users",
+    "link": "https://github.com/Diolinux/PhotoGIMP",
+    "source": "Hacker News",
+    "published": "2026-05-17T11:18:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48167890\">Comments</a>"
   },
   {
     "title": "Polypad",
@@ -128,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48165283\">Comments</a>"
   },
   {
-    "title": "Make ZIP files smaller with ZIP Shrinker",
-    "link": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
-    "source": "Hacker News",
-    "published": "2026-05-17T00:26:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165030\">Comments</a>"
-  },
-  {
     "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
     "link": "https://www.kv4p.com/",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-05-14T15:30:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48136909\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-    "link": "https://isabisabel.com/gacha/",
-    "source": "Hacker News",
-    "published": "2026-05-13T15:39:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48123359\">Comments</a>"
   }
 ]
