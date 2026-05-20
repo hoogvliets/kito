@@ -1,14 +1,30 @@
 [
   {
-    "title": "Evals Will Break and You Won't See It Coming",
-    "link": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
+    "title": "Everything in C is undefined behavior",
+    "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
     "source": "Hacker News",
-    "published": "2026-05-20T03:10:30+00:00",
+    "published": "2026-05-20T06:07:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48202658\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48203698\">Comments</a>"
   },
   {
-    "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
+    "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+    "link": "https://andlukyane.com//blog/minimax-m27-workflows",
+    "source": "Hacker News",
+    "published": "2026-05-20T04:51:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48203249\">Comments</a>"
+  },
+  {
+    "title": "GitHub Compromised",
+    "link": "https://twitter.com/github/status/2056949168208552080",
+    "source": "Hacker News",
+    "published": "2026-05-20T04:12:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48202993\">Comments</a>"
+  },
+  {
+    "title": "FiveThirtyEight articles on the Internet Archive",
     "link": "https://fivethirtyeightindex.com/",
     "source": "Hacker News",
     "published": "2026-05-20T01:34:19+00:00",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48195009\">Comments</a>"
   },
   {
-    "title": "I\u2019ve joined Anthropic",
-    "link": "https://twitter.com/karpathy/status/2056753169888334312",
-    "source": "Hacker News",
-    "published": "2026-05-19T15:07:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48194352\">Comments</a>"
-  },
-  {
     "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "link": "https://github.com/antoinezambelli/forge",
     "source": "Hacker News",
@@ -120,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48192224\">Comments</a>"
   },
   {
-    "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "title": "Skills in Web, iOS, and Android",
+    "link": "https://x.ai/news/grok-skills",
     "source": "Hacker News",
-    "published": "2026-05-19T07:45:53+00:00",
+    "published": "2026-05-18T20:15:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48190454\">Comments</a>"
-  },
-  {
-    "title": "Lisp in Web-Based Applications (2001)",
-    "link": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
-    "source": "Hacker News",
-    "published": "2026-05-18T11:51:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48178390\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48184941\">Comments</a>"
   },
   {
     "title": "The Mercury logic programming system",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48176384\">Comments</a>"
   },
   {
-    "title": "Museum of Imaginary Musical Instruments",
-    "link": "https://imaginaryinstruments.org/",
+    "title": "Nostalgic Electronics Kits Central",
+    "link": "https://www.nostalgickitscentral.com/",
     "source": "Hacker News",
-    "published": "2026-05-18T00:45:52+00:00",
+    "published": "2026-05-17T17:14:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48174516\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170855\">Comments</a>"
   },
   {
-    "title": "Growing Neural Cellular Automata",
-    "link": "https://distill.pub/2020/growing-ca/",
+    "title": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" \u2013 by accident",
+    "link": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
     "source": "Hacker News",
-    "published": "2026-05-17T19:21:09+00:00",
+    "published": "2026-05-17T16:00:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48172320\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48170096\">Comments</a>"
   }
 ]
