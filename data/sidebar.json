@@ -1,6 +1,38 @@
 [
   {
-    "title": "SBCL: The Assembly Code Breadboard (2014)",
+    "title": "I Don't Vibe Code",
+    "link": "https://jacobharr.is/personal/i-dont-vibe-code",
+    "source": "Hacker News",
+    "published": "2026-05-20T16:56:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210667\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
+    "link": "https://news.ycombinator.com/item?id=48210590",
+    "source": "Hacker News",
+    "published": "2026-05-20T16:50:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210590\">Comments</a>"
+  },
+  {
+    "title": "Apparently Google hates us now",
+    "link": "https://twitter.com/pokemoncentral/status/2057123807404638250",
+    "source": "Hacker News",
+    "published": "2026-05-20T16:27:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210263\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Lance \u2013 image/video generation and understanding in one model",
+    "link": "https://github.com/bytedance/Lance",
+    "source": "Hacker News",
+    "published": "2026-05-20T15:45:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209668\">Comments</a>"
+  },
+  {
+    "title": "SBCL: the ultimate assembly code breadboard (2014)",
     "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
     "source": "Hacker News",
     "published": "2026-05-20T15:39:48+00:00",
@@ -8,12 +40,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209558\">Comments</a>"
   },
   {
-    "title": "Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel",
-    "link": "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/",
+    "title": "Formal Verification Gates for AI Coding Loops",
+    "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
     "source": "Hacker News",
-    "published": "2026-05-20T15:10:43+00:00",
+    "published": "2026-05-20T15:25:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209112\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209323\">Comments</a>"
+  },
+  {
+    "title": "Stable Audio 3",
+    "link": "https://arxiv.org/abs/2605.17991",
+    "source": "Hacker News",
+    "published": "2026-05-20T15:10:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209105\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hocuspocus 4 \u2013 self-hosted Yjs collaboration backend",
+    "link": "https://github.com/ueberdosis/hocuspocus",
+    "source": "Hacker News",
+    "published": "2026-05-20T14:51:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48208834\">Comments</a>"
   },
   {
     "title": "Testing distributed systems with AI agents",
@@ -32,23 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48208502\">Comments</a>"
   },
   {
-    "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
-    "link": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen",
-    "source": "Hacker News",
-    "published": "2026-05-20T13:19:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48207251\">Comments</a>"
-  },
-  {
-    "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-    "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-    "source": "Hacker News",
-    "published": "2026-05-20T13:02:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48207004\">Comments</a>"
-  },
-  {
-    "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+    "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
     "link": "https://www.alqst.org/ar/posts/1190",
     "source": "Hacker News",
     "published": "2026-05-20T12:43:41+00:00",
@@ -88,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48205626\">Comments</a>"
   },
   {
+    "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
+    "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "source": "Hacker News",
+    "published": "2026-05-20T08:37:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48204770\">Comments</a>"
+  },
+  {
     "title": "Everything in C is undefined behavior",
     "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
     "source": "Hacker News",
@@ -96,44 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48203698\">Comments</a>"
   },
   {
-    "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-    "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+    "title": "Sharla Boehm, the programmer whose code underpins the Internet",
+    "link": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
     "source": "Hacker News",
-    "published": "2026-05-20T01:43:06+00:00",
+    "published": "2026-05-18T14:10:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48202047\">Comments</a>"
-  },
-  {
-    "title": "FiveThirtyEight articles on the Internet Archive",
-    "link": "https://fivethirtyeightindex.com/",
-    "source": "Hacker News",
-    "published": "2026-05-20T01:34:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48201973\">Comments</a>"
-  },
-  {
-    "title": "Gemini 3.5 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "source": "Hacker News",
-    "published": "2026-05-19T17:43:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48196570\">Comments</a>"
-  },
-  {
-    "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-    "link": "https://virtualosmuseum.org/",
-    "source": "Hacker News",
-    "published": "2026-05-19T15:53:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48195009\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "link": "https://github.com/antoinezambelli/forge",
-    "source": "Hacker News",
-    "published": "2026-05-19T12:23:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192383\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180173\">Comments</a>"
   },
   {
     "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48180172\">Comments</a>"
   },
   {
-    "title": "Autoregressive next token prediction and KV Cache in transformers",
-    "link": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
+    "title": "How fast is N tokens per second really?",
+    "link": "https://mikeveerman.github.io/tokenspeed/",
     "source": "Hacker News",
-    "published": "2026-05-17T20:07:14+00:00",
+    "published": "2026-05-18T02:04:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48172747\">Comments</a>"
-  },
-  {
-    "title": "Smartmedia Card Spec Opened, available free (2000)",
-    "link": "https://www.edn.com/smartmedia-card-interface-spec-opened-available-for-free/#google_vignette",
-    "source": "Hacker News",
-    "published": "2026-05-17T19:22:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48172336\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48174920\">Comments</a>"
   }
 ]
