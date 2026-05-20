@@ -1,35 +1,59 @@
 [
   {
-    "title": "I Don't Vibe Code",
-    "link": "https://jacobharr.is/personal/i-dont-vibe-code",
+    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+    "link": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
     "source": "Hacker News",
-    "published": "2026-05-20T16:56:42+00:00",
+    "published": "2026-05-20T21:11:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210667\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214188\">Comments</a>"
   },
   {
-    "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
-    "link": "https://news.ycombinator.com/item?id=48210590",
+    "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+    "link": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
     "source": "Hacker News",
-    "published": "2026-05-20T16:50:54+00:00",
+    "published": "2026-05-20T19:38:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210590\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212992\">Comments</a>"
   },
   {
-    "title": "Apparently Google hates us now",
-    "link": "https://twitter.com/pokemoncentral/status/2057123807404638250",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
     "source": "Hacker News",
-    "published": "2026-05-20T16:27:25+00:00",
+    "published": "2026-05-20T19:05:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210263\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212493\">Comments</a>"
   },
   {
-    "title": "Show HN: Lance \u2013 image/video generation and understanding in one model",
-    "link": "https://github.com/bytedance/Lance",
+    "title": "Node.js 26.0.0 (Now with Temporal)",
+    "link": "https://nodejs.org/en/blog/release/v26.0.0",
     "source": "Hacker News",
-    "published": "2026-05-20T15:45:32+00:00",
+    "published": "2026-05-20T18:48:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209668\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212242\">Comments</a>"
+  },
+  {
+    "title": "Flipper One Tech Specs",
+    "link": "https://docs.flipper.net/one/general/tech-specs",
+    "source": "Hacker News",
+    "published": "2026-05-20T18:33:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212046\">Comments</a>"
+  },
+  {
+    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+    "source": "Hacker News",
+    "published": "2026-05-20T17:48:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48211409\">Comments</a>"
+  },
+  {
+    "title": "Why is Inkwell stuck in review",
+    "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+    "source": "Hacker News",
+    "published": "2026-05-20T17:30:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48211134\">Comments</a>"
   },
   {
     "title": "SBCL: the ultimate assembly code breadboard (2014)",
@@ -40,44 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209558\">Comments</a>"
   },
   {
-    "title": "Formal Verification Gates for AI Coding Loops",
-    "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
     "source": "Hacker News",
-    "published": "2026-05-20T15:25:45+00:00",
+    "published": "2026-05-20T13:43:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209323\">Comments</a>"
-  },
-  {
-    "title": "Stable Audio 3",
-    "link": "https://arxiv.org/abs/2605.17991",
-    "source": "Hacker News",
-    "published": "2026-05-20T15:10:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209105\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hocuspocus 4 \u2013 self-hosted Yjs collaboration backend",
-    "link": "https://github.com/ueberdosis/hocuspocus",
-    "source": "Hacker News",
-    "published": "2026-05-20T14:51:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48208834\">Comments</a>"
-  },
-  {
-    "title": "Testing distributed systems with AI agents",
-    "link": "https://github.com/shenli/distributed-system-testing",
-    "source": "Hacker News",
-    "published": "2026-05-20T14:40:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48208685\">Comments</a>"
-  },
-  {
-    "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
-    "link": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-    "source": "Hacker News",
-    "published": "2026-05-20T14:30:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48208502\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48207660\">Comments</a>"
   },
   {
     "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48203698\">Comments</a>"
   },
   {
+    "title": "LoRA and Weight Decay (2023)",
+    "link": "https://irhum.github.io/blog/lorawd/",
+    "source": "Hacker News",
+    "published": "2026-05-18T22:33:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48186730\">Comments</a>"
+  },
+  {
     "title": "Sharla Boehm, the programmer whose code underpins the Internet",
     "link": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
     "source": "Hacker News",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48180173\">Comments</a>"
   },
   {
-    "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
-    "link": "https://github.com/deng-ai-lab/SFHformer",
+    "title": "\u00c9tienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+    "link": "https://www.youtube.com/watch?v=1OIxzewWilc",
     "source": "Hacker News",
-    "published": "2026-05-18T14:10:47+00:00",
+    "published": "2026-05-18T04:38:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48180172\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48175637\">Comments</a>"
   },
   {
     "title": "How fast is N tokens per second really?",
