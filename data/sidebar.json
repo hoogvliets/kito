@@ -1,51 +1,59 @@
 [
   {
+    "title": "OpenAI to confidentially file for IPO as soon as Friday",
+    "link": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+    "source": "Hacker News",
+    "published": "2026-05-21T02:24:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48217052\">Comments</a>"
+  },
+  {
+    "title": "Haskell Foundation 2026 Update",
+    "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "source": "Hacker News",
+    "published": "2026-05-21T02:13:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216983\">Comments</a>"
+  },
+  {
+    "title": "What is Demand Coop and why tech workers should join one",
+    "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+    "source": "Hacker News",
+    "published": "2026-05-21T01:20:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216619\">Comments</a>"
+  },
+  {
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "source": "Hacker News",
+    "published": "2026-05-21T00:36:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216278\">Comments</a>"
+  },
+  {
+    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+    "source": "Hacker News",
+    "published": "2026-05-20T23:58:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216016\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I reverse engineered Apple's video wallpapers",
+    "link": "https://github.com/kageroumado/phosphene",
+    "source": "Hacker News",
+    "published": "2026-05-20T23:54:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48215979\">Comments</a>"
+  },
+  {
     "title": "DOS Zone",
     "link": "https://dos.zone/",
     "source": "Hacker News",
     "published": "2026-05-20T22:53:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48215418\">Comments</a>"
-  },
-  {
-    "title": "Google Declaring War on the Web",
-    "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-    "source": "Hacker News",
-    "published": "2026-05-20T21:33:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214449\">Comments</a>"
-  },
-  {
-    "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-    "link": "https://github.com/kouhxp/yapsnap",
-    "source": "Hacker News",
-    "published": "2026-05-20T21:28:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214399\">Comments</a>"
-  },
-  {
-    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-    "link": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-    "source": "Hacker News",
-    "published": "2026-05-20T21:11:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214188\">Comments</a>"
-  },
-  {
-    "title": "Anthropic is expanding to Colossus2. Will use GB200",
-    "link": "https://xcancel.com/nottombrown/status/2057194829986300375",
-    "source": "Hacker News",
-    "published": "2026-05-20T20:55:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214017\">Comments</a>"
-  },
-  {
-    "title": "SpaceX S-1",
-    "link": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-    "source": "Hacker News",
-    "published": "2026-05-20T20:49:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48213933\">Comments</a>"
   },
   {
     "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
@@ -88,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48211134\">Comments</a>"
   },
   {
-    "title": "SBCL: the ultimate assembly code breadboard (2014)",
-    "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-    "source": "Hacker News",
-    "published": "2026-05-20T15:39:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209558\">Comments</a>"
-  },
-  {
     "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
     "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
     "source": "Hacker News",
@@ -120,28 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48205782\">Comments</a>"
   },
   {
-    "title": "Map of Metal",
-    "link": "https://mapofmetal.com/",
+    "title": "New features in GCC 16: Improved error messages and SARIF output",
+    "link": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
     "source": "Hacker News",
-    "published": "2026-05-20T10:47:20+00:00",
+    "published": "2026-05-19T01:51:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48205699\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188302\">Comments</a>"
   },
   {
-    "title": "Qwen3.7-Max: The Agent Frontier",
-    "link": "https://qwen.ai/blog?id=qwen3.7",
+    "title": "Your Most Improbable Life",
+    "link": "https://kevinkelly.substack.com/p/your-most-improbable-life",
     "source": "Hacker News",
-    "published": "2026-05-20T10:35:02+00:00",
+    "published": "2026-05-18T18:04:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48205626\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183167\">Comments</a>"
   },
   {
-    "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
-    "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+    "link": "https://yes-we-scan.app/details",
     "source": "Hacker News",
-    "published": "2026-05-20T08:37:55+00:00",
+    "published": "2026-05-18T10:08:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48204770\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177467\">Comments</a>"
   },
   {
     "title": "How fast is N tokens per second really?",
