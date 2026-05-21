@@ -1,5 +1,85 @@
 [
   {
+    "title": "Michael Keating has died",
+    "link": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+    "source": "Hacker News",
+    "published": "2026-05-21T14:31:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48223303\">Comments</a>"
+  },
+  {
+    "title": "Get your passwords out of Bitwarden while you still can",
+    "link": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
+    "source": "Hacker News",
+    "published": "2026-05-21T14:29:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48223258\">Comments</a>"
+  },
+  {
+    "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+    "source": "Hacker News",
+    "published": "2026-05-21T14:01:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48222733\">Comments</a>"
+  },
+  {
+    "title": "Google's Antigravity Bait and Switch",
+    "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+    "source": "Hacker News",
+    "published": "2026-05-21T13:50:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48222529\">Comments</a>"
+  },
+  {
+    "title": "AI is just unauthorised plagiarism at a bigger scale",
+    "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "source": "Hacker News",
+    "published": "2026-05-21T13:38:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48222383\">Comments</a>"
+  },
+  {
+    "title": "Magic the Gathering format: Fun 40 (2025)",
+    "link": "https://fabiensanglard.net/mtg/fun//index.html",
+    "source": "Hacker News",
+    "published": "2026-05-21T13:13:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48222105\">Comments</a>"
+  },
+  {
+    "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+    "source": "Hacker News",
+    "published": "2026-05-21T12:58:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221915\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+    "link": "https://news.ycombinator.com/item?id=48221896",
+    "source": "Hacker News",
+    "published": "2026-05-21T12:56:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221896\">Comments</a>"
+  },
+  {
+    "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+    "source": "Hacker News",
+    "published": "2026-05-21T12:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221877\">Comments</a>"
+  },
+  {
+    "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "link": "https://fatgid.io/",
+    "source": "Hacker News",
+    "published": "2026-05-21T12:15:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221415\">Comments</a>"
+  },
+  {
     "title": "Cekura (YC F24) Is Hiring",
     "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
     "source": "Hacker News",
@@ -32,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48220639\">Comments</a>"
   },
   {
-    "title": "Google officially announces that ads will be included in AI Mode search results",
+    "title": "IBM invented semiconductor manufacturing automation",
+    "link": "https://spectrum.ieee.org/semiconductor-fabrication",
+    "source": "Hacker News",
+    "published": "2026-05-21T10:39:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48220446\">Comments</a>"
+  },
+  {
+    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
     "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
     "source": "Hacker News",
     "published": "2026-05-21T09:49:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48220105\">Comments</a>"
-  },
-  {
-    "title": "No Slop Grenade",
-    "link": "https://noslopgrenade.com/",
-    "source": "Hacker News",
-    "published": "2026-05-21T09:31:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219992\">Comments</a>"
   },
   {
     "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
@@ -56,60 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48219918\">Comments</a>"
   },
   {
-    "title": "Haskell Foundation 2026 Update",
-    "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "title": "Vivaldi 8.0",
+    "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
     "source": "Hacker News",
-    "published": "2026-05-21T02:13:23+00:00",
+    "published": "2026-05-21T07:21:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216983\">Comments</a>"
-  },
-  {
-    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-    "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-    "source": "Hacker News",
-    "published": "2026-05-20T23:58:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216016\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I reverse engineered Apple's video wallpapers",
-    "link": "https://github.com/kageroumado/phosphene",
-    "source": "Hacker News",
-    "published": "2026-05-20T23:54:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48215979\">Comments</a>"
-  },
-  {
-    "title": "DOS Zone",
-    "link": "https://dos.zone/",
-    "source": "Hacker News",
-    "published": "2026-05-20T22:53:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48215418\">Comments</a>"
-  },
-  {
-    "title": "Anthropic is expanding to Colossus2. Will use GB200",
-    "link": "https://twitter.com/nottombrown/status/2057194829986300375",
-    "source": "Hacker News",
-    "published": "2026-05-20T20:55:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214017\">Comments</a>"
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "source": "Hacker News",
-    "published": "2026-05-20T19:05:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212493\">Comments</a>"
-  },
-  {
-    "title": "Flipper One Tech Specs",
-    "link": "https://docs.flipper.net/one/general/tech-specs",
-    "source": "Hacker News",
-    "published": "2026-05-20T18:33:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212046\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219060\">Comments</a>"
   },
   {
     "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
@@ -120,43 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48207660\">Comments</a>"
   },
   {
-    "title": "All the bugs they found",
-    "link": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+    "title": "Mounting Git commits as folders with NFS",
+    "link": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
     "source": "Hacker News",
-    "published": "2026-05-19T10:33:35+00:00",
+    "published": "2026-05-19T07:32:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48191572\">Comments</a>"
-  },
-  {
-    "title": "Fender escalates legal campaign against S-style guitars",
-    "link": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
-    "source": "Hacker News",
-    "published": "2026-05-19T05:28:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48189539\">Comments</a>"
-  },
-  {
-    "title": "New features in GCC 16: Improved error messages and SARIF output",
-    "link": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-    "source": "Hacker News",
-    "published": "2026-05-19T01:51:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48188302\">Comments</a>"
-  },
-  {
-    "title": "What Do G\u00f6del's Incompleteness Theorems Mean?",
-    "link": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-    "source": "Hacker News",
-    "published": "2026-05-18T17:59:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48183097\">Comments</a>"
-  },
-  {
-    "title": "How fast is N tokens per second really?",
-    "link": "https://mikeveerman.github.io/tokenspeed/",
-    "source": "Hacker News",
-    "published": "2026-05-18T02:04:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48174920\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48190373\">Comments</a>"
   }
 ]
