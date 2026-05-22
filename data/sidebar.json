@@ -8,14 +8,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48232118\">Comments</a>"
   },
   {
-    "title": "Show HN: KVBoost \u2013 chunk-level KV cache reuse for HuggingFace, 5\u201348x faster TTFT",
-    "link": "https://pythongiant.github.io/KVBoost/",
-    "source": "Hacker News",
-    "published": "2026-05-22T04:47:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48232060\">Comments</a>"
-  },
-  {
     "title": "Slumber a TUI HTTP Client",
     "link": "https://slumber.lucaspickering.me",
     "source": "Hacker News",
@@ -48,6 +40,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48228788\">Comments</a>"
   },
   {
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "link": "https://arxiv.org/abs/2605.12460",
+    "source": "Hacker News",
+    "published": "2026-05-21T19:37:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48227923\">Comments</a>"
+  },
+  {
     "title": "Using Kagi Search with Low Vision",
     "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
     "source": "Hacker News",
@@ -64,12 +64,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48227397\">Comments</a>"
   },
   {
+    "title": "Spotify will start reserving concert tickets for fans",
+    "link": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+    "source": "Hacker News",
+    "published": "2026-05-21T16:26:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225357\">Comments</a>"
+  },
+  {
     "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
     "link": "https://valhovey.github.io/gaia-mary/",
     "source": "Hacker News",
     "published": "2026-05-21T16:23:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48225297\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+    "link": "https://www.runtm.com/",
+    "source": "Hacker News",
+    "published": "2026-05-21T16:07:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225040\">Comments</a>"
   },
   {
     "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
@@ -120,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209905\">Comments</a>"
   },
   {
-    "title": "The Hardware Lottery",
-    "link": "https://hardwarelottery.github.io/",
-    "source": "Hacker News",
-    "published": "2026-05-20T15:48:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48209706\">Comments</a>"
-  },
-  {
     "title": "The surprising story behind the first British person in space",
     "link": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
     "source": "Hacker News",
     "published": "2026-05-20T15:47:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209691\">Comments</a>"
-  },
-  {
-    "title": "Tristan Davey's Punch Card Archive",
-    "link": "https://punchcards.tristandavey.com/",
-    "source": "Hacker News",
-    "published": "2026-05-19T14:39:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48193932\">Comments</a>"
   },
   {
     "title": "The death of the brick and mortar toy store",
