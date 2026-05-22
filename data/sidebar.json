@@ -1,19 +1,19 @@
 [
   {
-    "title": "Tell HN: I'm tired of AI-generated answers",
-    "link": "https://news.ycombinator.com/item?id=48230104",
+    "title": "SpaceX not the behemoth everyone thought",
+    "link": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai",
     "source": "Hacker News",
-    "published": "2026-05-21T23:37:14+00:00",
+    "published": "2026-05-22T04:03:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48230104\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48231815\">Comments</a>"
   },
   {
-    "title": "AI is killing the cheap smartphone",
-    "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
     "source": "Hacker News",
-    "published": "2026-05-21T21:55:56+00:00",
+    "published": "2026-05-22T01:30:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48229319\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48230892\">Comments</a>"
   },
   {
     "title": "Uv is fantastic, but its package management UX is a mess",
@@ -22,6 +22,14 @@
     "published": "2026-05-21T20:56:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48228788\">Comments</a>"
+  },
+  {
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "link": "https://arxiv.org/abs/2605.12460",
+    "source": "Hacker News",
+    "published": "2026-05-21T19:37:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48227923\">Comments</a>"
   },
   {
     "title": "Using Kagi Search with Low Vision",
@@ -38,22 +46,6 @@
     "published": "2026-05-21T18:54:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48227397\">Comments</a>"
-  },
-  {
-    "title": "BBEdit 16",
-    "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
-    "source": "Hacker News",
-    "published": "2026-05-21T18:21:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48226944\">Comments</a>"
-  },
-  {
-    "title": "Where are all the UK red telephone kiosks?",
-    "link": "https://www.thek6project.co.uk/",
-    "source": "Hacker News",
-    "published": "2026-05-21T18:04:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48226703\">Comments</a>"
   },
   {
     "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48220639\">Comments</a>"
   },
   {
-    "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-    "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-    "source": "Hacker News",
-    "published": "2026-05-21T09:49:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48220105\">Comments</a>"
-  },
-  {
     "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
     "link": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
     "source": "Hacker News",
     "published": "2026-05-20T16:01:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209905\">Comments</a>"
+  },
+  {
+    "title": "Tristan Davey's Punch Card Archive",
+    "link": "https://punchcards.tristandavey.com/",
+    "source": "Hacker News",
+    "published": "2026-05-19T14:39:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48193932\">Comments</a>"
+  },
+  {
+    "title": "The Death of the Brick and Mortar Toy Store",
+    "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+    "source": "Hacker News",
+    "published": "2026-05-19T12:48:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48192605\">Comments</a>"
   },
   {
     "title": "Was my $48K GPU server worth it?",
