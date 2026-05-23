@@ -1,5 +1,45 @@
 [
   {
+    "title": "JWT is a scam and your app doesn't need it",
+    "link": "https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it",
+    "source": "Hacker News",
+    "published": "2026-05-23T17:42:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48249553\">Comments</a>"
+  },
+  {
+    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+    "source": "Hacker News",
+    "published": "2026-05-23T16:24:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48248954\">Comments</a>"
+  },
+  {
+    "title": "Evaluating Spec CPU2026",
+    "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
+    "source": "Hacker News",
+    "published": "2026-05-23T16:13:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48248861\">Comments</a>"
+  },
+  {
+    "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "source": "Hacker News",
+    "published": "2026-05-23T16:02:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48248775\">Comments</a>"
+  },
+  {
+    "title": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+    "source": "Hacker News",
+    "published": "2026-05-23T15:47:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48248659\">Comments</a>"
+  },
+  {
     "title": "z386: An Open-Source 80386 Built Around Original Microcode",
     "link": "https://nand2mario.github.io/posts/2026/z386/",
     "source": "Hacker News",
@@ -8,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48248014\">Comments</a>"
   },
   {
-    "title": "Oura says it gets government demands for user data. Will it share how many?",
+    "title": "Oura says it gets government demands for user data",
     "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
     "source": "Hacker News",
     "published": "2026-05-23T14:09:57+00:00",
@@ -32,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48247325\">Comments</a>"
   },
   {
-    "title": "I Miss Terry Pratchett",
-    "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+    "title": "The Art of Money Getting",
+    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
     "source": "Hacker News",
-    "published": "2026-05-23T12:35:28+00:00",
+    "published": "2026-05-23T12:48:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247127\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247208\">Comments</a>"
   },
   {
     "title": "80386 Microcode Disassembled",
@@ -48,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48247004\">Comments</a>"
   },
   {
-    "title": "Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
-    "link": "https://twitter.com/i/status/2058064720553222567",
-    "source": "Hacker News",
-    "published": "2026-05-23T11:54:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48246917\">Comments</a>"
-  },
-  {
     "title": "Making Deep Learning Go Brrrr from First Principles",
     "link": "https://horace.io/brrr_intro.html",
     "source": "Hacker News",
     "published": "2026-05-23T11:50:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48246889\">Comments</a>"
-  },
-  {
-    "title": "US tech firms share Dutch regulator officials' names with Senate",
-    "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-    "source": "Hacker News",
-    "published": "2026-05-23T10:57:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48246614\">Comments</a>"
-  },
-  {
-    "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-    "link": "https://xcancel.com/josefprusa/status/2054602354851254330",
-    "source": "Hacker News",
-    "published": "2026-05-23T08:24:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48245862\">Comments</a>"
   },
   {
     "title": "Rubish: A Unix shell written in pure Ruby",
@@ -96,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48241997\">Comments</a>"
   },
   {
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+    "link": "https://victoriaritvo.com/blog/hengefinder/",
     "source": "Hacker News",
-    "published": "2026-05-22T17:32:04+00:00",
+    "published": "2026-05-22T20:39:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48238896\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48241335\">Comments</a>"
   },
   {
     "title": "Why Japanese companies do so many different things",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48237163\">Comments</a>"
   },
   {
-    "title": "Improving C# Memory Safety",
-    "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-    "source": "Hacker News",
-    "published": "2026-05-21T16:54:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225782\">Comments</a>"
-  },
-  {
     "title": "Highest Random Weight in Elixir",
     "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
     "source": "Hacker News",
@@ -128,35 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48222492\">Comments</a>"
   },
   {
-    "title": "ArcBrush \u2013 Node-based 2D image editor",
-    "link": "https://arcbrush.com/",
+    "title": "AI Engineering from Scratch",
+    "link": "https://aiengineeringfromscratch.com",
     "source": "Hacker News",
-    "published": "2026-05-20T16:11:15+00:00",
+    "published": "2026-05-21T09:14:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210041\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219853\">Comments</a>"
   },
   {
-    "title": "The quadratic sandwich",
-    "link": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+    "title": "My two-part desk setup",
+    "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
     "source": "Hacker News",
-    "published": "2026-05-20T12:06:56+00:00",
+    "published": "2026-05-20T21:21:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48206387\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214311\">Comments</a>"
   },
   {
-    "title": "Solving the \"Zork\" Mystery",
-    "link": "https://www.dpolakovic.space/blogs/zork-part2",
+    "title": "PHP's Oddities",
+    "link": "https://flowtwo.io/post/php%27s-oddities",
     "source": "Hacker News",
-    "published": "2026-05-19T19:56:58+00:00",
+    "published": "2026-05-19T20:41:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48198615\">Comments</a>"
-  },
-  {
-    "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
-    "link": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-    "source": "Hacker News",
-    "published": "2026-05-19T16:55:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48195941\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48199314\">Comments</a>"
   }
 ]
