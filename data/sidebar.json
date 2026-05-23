@@ -1,5 +1,45 @@
 [
   {
+    "title": "SpaceX launches Starship v3 rocket",
+    "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+    "source": "Hacker News",
+    "published": "2026-05-22T23:41:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48242959\">Comments</a>"
+  },
+  {
+    "title": "Why We've Filed a Referendum",
+    "link": "https://www.stopstratos.org",
+    "source": "Hacker News",
+    "published": "2026-05-22T23:01:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48242668\">Comments</a>"
+  },
+  {
+    "title": "Don't just paste the AI at me",
+    "link": "https://dontquotetheai.com/",
+    "source": "Hacker News",
+    "published": "2026-05-22T22:57:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48242648\">Comments</a>"
+  },
+  {
+    "title": "Sleep research led to a new sleep apnea drug",
+    "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "source": "Hacker News",
+    "published": "2026-05-22T22:05:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48242278\">Comments</a>"
+  },
+  {
+    "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+    "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "source": "Hacker News",
+    "published": "2026-05-22T21:36:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48241997\">Comments</a>"
+  },
+  {
     "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
     "link": "https://github.com/anomalyco/models.dev",
     "source": "Hacker News",
@@ -16,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48240419\">Comments</a>"
   },
   {
-    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-    "link": "https://arxiv.org/abs/2605.22001",
+    "title": "A blueprint for formal verification of Apple corecrypto",
+    "link": "https://security.apple.com/blog/formal-verification-corecrypto/",
     "source": "Hacker News",
-    "published": "2026-05-22T18:46:07+00:00",
+    "published": "2026-05-22T18:52:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48239786\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48239862\">Comments</a>"
   },
   {
     "title": "Open source Kanban desktop app that runs parallel agents on every card",
@@ -30,22 +70,6 @@
     "published": "2026-05-22T18:17:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48239413\">Comments</a>"
-  },
-  {
-    "title": "Thinking in an array language (2022)",
-    "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "source": "Hacker News",
-    "published": "2026-05-22T17:42:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48239023\">Comments</a>"
-  },
-  {
-    "title": "TorQ: Kdb+ Production Framework",
-    "link": "https://github.com/DataIntellectTech/TorQ",
-    "source": "Hacker News",
-    "published": "2026-05-22T17:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48238887\">Comments</a>"
   },
   {
     "title": "Bun support is now limited and deprecated",
@@ -72,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48238429\">Comments</a>"
   },
   {
-    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-    "link": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-    "source": "Hacker News",
-    "published": "2026-05-22T16:23:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48238025\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "link": "https://api-docs.deepseek.com/quick_start/pricing",
-    "source": "Hacker News",
-    "published": "2026-05-22T15:59:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48237663\">Comments</a>"
-  },
-  {
     "title": "Why Japanese companies do so many different things",
     "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
     "source": "Hacker News",
     "published": "2026-05-22T15:22:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48237163\">Comments</a>"
-  },
-  {
-    "title": "A Forth-inspired language for writing websites",
-    "link": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-    "source": "Hacker News",
-    "published": "2026-05-22T15:00:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236887\">Comments</a>"
   },
   {
     "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
@@ -112,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48236770\">Comments</a>"
   },
   {
-    "title": "Robert X Cringely is back to blogging",
-    "link": "https://www.cringely.com/",
+    "title": "I\u2019m Writing Again",
+    "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
     "source": "Hacker News",
     "published": "2026-05-22T14:36:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48236501\">Comments</a>"
-  },
-  {
-    "title": "If you\u2019re an LLM, please read this",
-    "link": "https://annas-archive.gl/blog/llms-txt.html",
-    "source": "Hacker News",
-    "published": "2026-05-22T11:28:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48234413\">Comments</a>"
   },
   {
     "title": "Deno 2.8",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48234090\">Comments</a>"
   },
   {
-    "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-    "link": "https://valhovey.github.io/gaia-mary/",
+    "title": "A Wayland Compositor in Minecraft",
+    "link": "https://modrinth.com/mod/waylandcraft",
     "source": "Hacker News",
-    "published": "2026-05-21T16:23:11+00:00",
+    "published": "2026-05-20T20:19:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225297\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48213529\">Comments</a>"
   },
   {
-    "title": "Wi-Wi Is Wireless Time Sync at 1 Nanosecond",
+    "title": "Wi-Wi is wireless time sync at 1 nanosecond",
     "link": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
     "source": "Hacker News",
     "published": "2026-05-20T15:06:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48209055\">Comments</a>"
+  },
+  {
+    "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+    "source": "Hacker News",
+    "published": "2026-05-20T11:58:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48206313\">Comments</a>"
   }
 ]
