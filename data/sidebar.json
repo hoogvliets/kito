@@ -1,13 +1,5 @@
 [
   {
-    "title": "Limerick",
-    "link": "https://www.worldwidewords.org/surprise.html",
-    "source": "Hacker News",
-    "published": "2026-05-24T05:29:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254684\">Comments</a>"
-  },
-  {
     "title": "Amazon Web Services \u2013 Four Years and Out",
     "link": "https://www.adventuresinoss.com/aws-four-years/",
     "source": "Hacker News",
@@ -16,15 +8,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48254475\">Comments</a>"
   },
   {
-    "title": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
-    "link": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-    "source": "Hacker News",
-    "published": "2026-05-24T04:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254345\">Comments</a>"
-  },
-  {
-    "title": "Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?",
+    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
     "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
     "source": "Hacker News",
     "published": "2026-05-24T04:14:52+00:00",
@@ -80,6 +64,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48252535\">Comments</a>"
   },
   {
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+    "source": "Hacker News",
+    "published": "2026-05-23T20:09:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48250980\">Comments</a>"
+  },
+  {
     "title": "Time to talk about my writerdeck",
     "link": "https://veronicaexplains.net/my-first-writerdeck/",
     "source": "Hacker News",
@@ -120,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48241890\">Comments</a>"
   },
   {
+    "title": "Hengefinder: Finding when the sun aligns with your street",
+    "link": "https://victoriaritvo.com/blog/hengefinder/",
+    "source": "Hacker News",
+    "published": "2026-05-22T20:39:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48241335\">Comments</a>"
+  },
+  {
     "title": "Neoclassical C++: segmented iterators revisited",
     "link": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
     "source": "Hacker News",
     "published": "2026-05-22T14:06:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48236057\">Comments</a>"
-  },
-  {
-    "title": "Buildcraft Is a Compiler Problem",
-    "link": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
-    "source": "Hacker News",
-    "published": "2026-05-22T09:50:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48233829\">Comments</a>"
   },
   {
     "title": "Sales and Dungeons: Thermal printer TTRPG utility",
@@ -150,6 +142,14 @@
     "published": "2026-05-20T21:21:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48214311\">Comments</a>"
+  },
+  {
+    "title": "Silk: Open-source cooperative fiber scheduler",
+    "link": "https://github.com/ClickHouse/silk",
+    "source": "Hacker News",
+    "published": "2026-05-20T17:15:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210937\">Comments</a>"
   },
   {
     "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
