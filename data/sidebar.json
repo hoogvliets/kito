@@ -1,19 +1,51 @@
 [
   {
+    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "link": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+    "source": "Hacker News",
+    "published": "2026-05-24T19:12:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48260140\">Comments</a>"
+  },
+  {
+    "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+    "link": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+    "source": "Hacker News",
+    "published": "2026-05-24T18:56:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259990\">Comments</a>"
+  },
+  {
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "source": "Hacker News",
+    "published": "2026-05-24T18:39:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259861\">Comments</a>"
+  },
+  {
+    "title": "Migrating from Go to Rust",
+    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "source": "Hacker News",
+    "published": "2026-05-24T18:31:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259808\">Comments</a>"
+  },
+  {
+    "title": "Claude is not your architect. Stop letting it pretend",
+    "link": "https://www.hollandtech.net/claude-is-not-your-architect/",
+    "source": "Hacker News",
+    "published": "2026-05-24T18:28:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259784\">Comments</a>"
+  },
+  {
     "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
     "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
     "source": "Hacker News",
     "published": "2026-05-24T17:00:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48258995\">Comments</a>"
-  },
-  {
-    "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-    "link": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
-    "source": "Hacker News",
-    "published": "2026-05-24T16:36:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258736\">Comments</a>"
   },
   {
     "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -38,14 +70,6 @@
     "published": "2026-05-24T15:43:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48258194\">Comments</a>"
-  },
-  {
-    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-    "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-    "source": "Hacker News",
-    "published": "2026-05-24T15:21:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48257980\">Comments</a>"
   },
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
@@ -88,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48256475\">Comments</a>"
   },
   {
+    "title": "Greg Brockman interview [video]",
+    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "source": "Hacker News",
+    "published": "2026-05-24T08:29:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48255593\">Comments</a>"
+  },
+  {
     "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
     "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
     "source": "Hacker News",
@@ -96,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48253386\">Comments</a>"
   },
   {
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "source": "Hacker News",
-    "published": "2026-05-24T00:51:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48253186\">Comments</a>"
-  },
-  {
-    "title": "Wake up! 16b",
-    "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-    "source": "Hacker News",
-    "published": "2026-05-24T00:30:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48253060\">Comments</a>"
-  },
-  {
     "title": "Noroboto: Lying Fonts and Mitigation in Rust",
     "link": "https://tritium.legal/blog/noroboto",
     "source": "Hacker News",
     "published": "2026-05-22T14:55:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48236791\">Comments</a>"
-  },
-  {
-    "title": "I keep bouncing off the Scheme language",
-    "link": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
-    "source": "Hacker News",
-    "published": "2026-05-22T08:32:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48233398\">Comments</a>"
   },
   {
     "title": "Build Adafruit projects right from Firefox",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48223997\">Comments</a>"
   },
   {
-    "title": "Curly braces: An evolution of Unix and C",
-    "link": "https://thalia.dev/blog/unix-braces/",
+    "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+    "link": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
     "source": "Hacker News",
-    "published": "2026-05-20T17:49:48+00:00",
+    "published": "2026-05-19T16:40:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48211418\">Comments</a>"
-  },
-  {
-    "title": "Silk: Open-source cooperative fiber scheduler",
-    "link": "https://github.com/ClickHouse/silk",
-    "source": "Hacker News",
-    "published": "2026-05-20T17:15:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48210937\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48195698\">Comments</a>"
   }
 ]
