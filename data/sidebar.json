@@ -1,5 +1,45 @@
 [
   {
+    "title": "Jony Ive's Ferrari",
+    "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+    "source": "Hacker News",
+    "published": "2026-05-25T21:00:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271629\">Comments</a>"
+  },
+  {
+    "title": "Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality",
+    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+    "source": "Hacker News",
+    "published": "2026-05-25T19:43:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270812\">Comments</a>"
+  },
+  {
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "source": "Hacker News",
+    "published": "2026-05-25T19:37:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270770\">Comments</a>"
+  },
+  {
+    "title": "The bootstrapper's EU stack for under \u20ac10 per month",
+    "link": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+    "source": "Hacker News",
+    "published": "2026-05-25T18:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270111\">Comments</a>"
+  },
+  {
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "source": "Hacker News",
+    "published": "2026-05-25T18:19:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269961\">Comments</a>"
+  },
+  {
     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
     "link": "https://jobs.ashbyhq.com/workweave",
     "source": "Hacker News",
@@ -8,12 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48269937\">Comments</a>"
   },
   {
-    "title": "The Coming Layoffs and the Revenge of the Measurers",
-    "link": "https://www.hackyexperiments.com/blog/the-revenge-of-the-measurers",
+    "title": "Exit IP VPN servers mitigation rollout",
+    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
     "source": "Hacker News",
-    "published": "2026-05-25T17:35:34+00:00",
+    "published": "2026-05-25T17:45:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269457\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269580\">Comments</a>"
+  },
+  {
+    "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+    "link": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+    "source": "Hacker News",
+    "published": "2026-05-25T16:20:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48268609\">Comments</a>"
   },
   {
     "title": "Launch HN: Chert (YC P26) \u2013 Twilio for iMessage",
@@ -40,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48266906\">Comments</a>"
   },
   {
-    "title": "2026 HIPAA Security Rule Update",
-    "link": "https://medcurity.com/hipaa-security-rule-2026-update/",
-    "source": "Hacker News",
-    "published": "2026-05-25T13:55:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266895\">Comments</a>"
-  },
-  {
-    "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
-    "link": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
-    "source": "Hacker News",
-    "published": "2026-05-25T13:09:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266422\">Comments</a>"
-  },
-  {
     "title": "Magnifica Humanitas",
     "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
     "source": "Hacker News",
@@ -72,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48265056\">Comments</a>"
   },
   {
-    "title": "Show HN: Geomatic \u2013 A command-driven geometry studio enabled with autodiff",
-    "link": "https://www.tinyvolt.com/geomatic",
-    "source": "Hacker News",
-    "published": "2026-05-25T08:25:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264635\">Comments</a>"
-  },
-  {
-    "title": "Migrating from Go to Rust",
-    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "source": "Hacker News",
-    "published": "2026-05-24T18:31:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259808\">Comments</a>"
-  },
-  {
     "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
     "link": "https://audiomass.co/?multitrack=1",
     "source": "Hacker News",
     "published": "2026-05-24T15:25:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48258015\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "source": "Hacker News",
-    "published": "2026-05-24T13:02:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256953\">Comments</a>"
-  },
-  {
-    "title": "The analog computer museum's online library",
-    "link": "https://www.analogmuseum.org/english/library.html",
-    "source": "Hacker News",
-    "published": "2026-05-23T04:04:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48244547\">Comments</a>"
   },
   {
     "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
@@ -120,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48243666\">Comments</a>"
   },
   {
-    "title": "AI errno(2) values",
-    "link": "https://www.netmeister.org/blog/ai-errno.html",
+    "title": "Jensen\u2013Shannon Divergence",
+    "link": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
     "source": "Hacker News",
-    "published": "2026-05-22T14:56:57+00:00",
+    "published": "2026-05-22T19:27:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236816\">Comments</a>"
-  },
-  {
-    "title": "Bytecode VMs in surprising places (2024)",
-    "link": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-    "source": "Hacker News",
-    "published": "2026-05-22T14:12:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236122\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48240356\">Comments</a>"
   },
   {
     "title": "Gnutella: A Protocol Outliving the World That Created It",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48231247\">Comments</a>"
   },
   {
-    "title": "The physicists who convinced Fermilab to send Brazil's emails",
-    "link": "https://buttondown.com/blog/brazil-fermilab-email",
+    "title": "Show HN: Write your BPF programs in Go, not C",
+    "link": "https://github.com/boratanrikulu/gobee",
     "source": "Hacker News",
-    "published": "2026-05-21T08:06:45+00:00",
+    "published": "2026-05-21T16:25:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219373\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225338\">Comments</a>"
   },
   {
-    "title": "He Lost It at the Movies",
-    "link": "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/",
+    "title": "CPPL: A Circuit Prompt Programming Language",
+    "link": "https://arxiv.org/abs/2605.17892",
     "source": "Hacker News",
-    "published": "2026-05-21T05:22:07+00:00",
+    "published": "2026-05-21T11:50:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48218210\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221122\">Comments</a>"
+  },
+  {
+    "title": "Everyone Against Us (2023)",
+    "link": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+    "source": "Hacker News",
+    "published": "2026-05-20T19:02:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212461\">Comments</a>"
   }
 ]
