@@ -1,5 +1,21 @@
 [
   {
+    "title": "Jira Is Turing-Complete",
+    "link": "https://seriot.ch/computation/jira.html",
+    "source": "Hacker News",
+    "published": "2026-05-25T03:54:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48263253\">Comments</a>"
+  },
+  {
+    "title": "The Eternal Sloptember",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "source": "Hacker News",
+    "published": "2026-05-25T03:47:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48263238\">Comments</a>"
+  },
+  {
     "title": "A fundamental principle of aeronautical engineering has been overturned",
     "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
     "source": "Hacker News",
@@ -48,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48256912\">Comments</a>"
   },
   {
-    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
-    "link": "https://apple.github.io/ml-pico/",
-    "source": "Hacker News",
-    "published": "2026-05-24T12:01:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256565\">Comments</a>"
-  },
-  {
     "title": "Mastering Dyalog APL",
     "link": "https://mastering.dyalog.com/README.html",
     "source": "Hacker News",
     "published": "2026-05-24T11:42:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48256475\">Comments</a>"
-  },
-  {
-    "title": "Greg Brockman interview [video]",
-    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-    "source": "Hacker News",
-    "published": "2026-05-24T08:29:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48255593\">Comments</a>"
   },
   {
     "title": "Microsoft open-sources \u201cthe earliest DOS source code discovered to date\u201d",
@@ -80,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48253386\">Comments</a>"
   },
   {
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "source": "Hacker News",
-    "published": "2026-05-24T00:51:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48253186\">Comments</a>"
-  },
-  {
     "title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
     "link": "https://ohwr.org/projects/white-rabbit/",
     "source": "Hacker News",
     "published": "2026-05-23T08:38:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48245916\">Comments</a>"
+  },
+  {
+    "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "source": "Hacker News",
+    "published": "2026-05-23T01:37:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48243666\">Comments</a>"
   },
   {
     "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
@@ -104,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48242546\">Comments</a>"
   },
   {
-    "title": "Noroboto: Lying Fonts and Mitigation in Rust",
-    "link": "https://tritium.legal/blog/noroboto",
+    "title": "I love my Bluetooth keyboard",
+    "link": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
     "source": "Hacker News",
-    "published": "2026-05-22T14:55:37+00:00",
+    "published": "2026-05-22T19:04:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236791\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48240025\">Comments</a>"
   },
   {
     "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48228608\">Comments</a>"
   },
   {
-    "title": "Getting an old Computer online with Android Ethernet tethering",
-    "link": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
-    "source": "Hacker News",
-    "published": "2026-05-21T18:03:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48226697\">Comments</a>"
-  },
-  {
     "title": "I spent 50 hours drawing a line graph",
     "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
     "source": "Hacker News",
     "published": "2026-05-21T15:05:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48223997\">Comments</a>"
+  },
+  {
+    "title": "Gorilla: A fast, scalable, in-memory time series database (2016)",
+    "link": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+    "source": "Hacker News",
+    "published": "2026-05-20T20:36:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48213750\">Comments</a>"
   },
   {
     "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
