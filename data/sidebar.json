@@ -8,20 +8,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48260117\">Comments</a>"
   },
   {
-    "title": "Defeating Git Rigour Fatigue with Jujutsu",
-    "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "title": "Migrating from Go to Rust",
+    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
     "source": "Hacker News",
-    "published": "2026-05-24T18:39:10+00:00",
+    "published": "2026-05-24T18:31:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259861\">Comments</a>"
-  },
-  {
-    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-    "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-    "source": "Hacker News",
-    "published": "2026-05-24T17:00:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258995\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259808\">Comments</a>"
   },
   {
     "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -56,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48256912\">Comments</a>"
   },
   {
-    "title": "Childhood Computing",
-    "link": "https://susam.net/childhood-computing.html",
+    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "link": "https://apple.github.io/ml-pico/",
     "source": "Hacker News",
-    "published": "2026-05-24T12:07:34+00:00",
+    "published": "2026-05-24T12:01:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256597\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256565\">Comments</a>"
   },
   {
     "title": "Mastering Dyalog APL",
@@ -96,12 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48253186\">Comments</a>"
   },
   {
-    "title": "Selling SaaS in Germany",
-    "link": "https://embedworkflow.com/blog/selling-saas-in-germany-austria-and-switzerland-dach/",
+    "title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
+    "link": "https://ohwr.org/projects/white-rabbit/",
     "source": "Hacker News",
-    "published": "2026-05-22T15:05:07+00:00",
+    "published": "2026-05-23T08:38:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236940\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48245916\">Comments</a>"
+  },
+  {
+    "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "link": "https://phabricator.services.mozilla.com/D301917",
+    "source": "Hacker News",
+    "published": "2026-05-22T22:43:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48242546\">Comments</a>"
   },
   {
     "title": "Noroboto: Lying Fonts and Mitigation in Rust",
@@ -128,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48231547\">Comments</a>"
   },
   {
+    "title": "C constructs that still don't work in C++",
+    "link": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+    "source": "Hacker News",
+    "published": "2026-05-21T20:40:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48228608\">Comments</a>"
+  },
+  {
     "title": "Getting an old Computer online with Android Ethernet tethering",
     "link": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
     "source": "Hacker News",
@@ -142,14 +150,6 @@
     "published": "2026-05-21T15:05:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48223997\">Comments</a>"
-  },
-  {
-    "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
-    "link": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
-    "source": "Hacker News",
-    "published": "2026-05-21T00:15:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48216146\">Comments</a>"
   },
   {
     "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
