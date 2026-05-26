@@ -1,11 +1,43 @@
 [
   {
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "link": "https://earthiongame.com/",
+    "source": "Hacker News",
+    "published": "2026-05-26T03:42:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48274711\">Comments</a>"
+  },
+  {
+    "title": "Why the Smart Home Bubble Popped",
+    "link": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
+    "source": "Hacker News",
+    "published": "2026-05-26T03:35:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48274667\">Comments</a>"
+  },
+  {
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "link": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+    "source": "Hacker News",
+    "published": "2026-05-26T00:36:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273597\">Comments</a>"
+  },
+  {
     "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
     "link": "https://support.apple.com/en-us/127115",
     "source": "Hacker News",
     "published": "2026-05-25T23:40:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48273169\">Comments</a>"
+  },
+  {
+    "title": "Performance of Rust Language [pdf]",
+    "link": "https://github.com/yugr/rust-slides/",
+    "source": "Hacker News",
+    "published": "2026-05-25T23:37:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273147\">Comments</a>"
   },
   {
     "title": "Nobody cracks open a programming book anymore",
@@ -24,6 +56,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48272984\">Comments</a>"
   },
   {
+    "title": "How Shamir's Secret Sharing Works",
+    "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+    "source": "Hacker News",
+    "published": "2026-05-25T22:37:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272715\">Comments</a>"
+  },
+  {
+    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+    "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+    "source": "Hacker News",
+    "published": "2026-05-25T22:30:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272670\">Comments</a>"
+  },
+  {
     "title": "Show HN: OpenBrief \u2013 Local-first video downloader/summarizer",
     "link": "https://github.com/tantara/openbrief",
     "source": "Hacker News",
@@ -32,44 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48272393\">Comments</a>"
   },
   {
-    "title": "Microsoft Copilot Cowork Exfiltrates Files",
-    "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-    "source": "Hacker News",
-    "published": "2026-05-25T21:45:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272354\">Comments</a>"
-  },
-  {
-    "title": "Riscrithm \u2013 An intuitive RISC-V assembler and optimizer coded in Go",
-    "link": "https://github.com/ghetea-patrick/riscrithm",
-    "source": "Hacker News",
-    "published": "2026-05-25T21:01:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271632\">Comments</a>"
-  },
-  {
-    "title": "Ferrari Luce \u2013 Designed with Jony Ive",
+    "title": "Ferrari Luce",
     "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
     "source": "Hacker News",
     "published": "2026-05-25T21:00:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48271629\">Comments</a>"
-  },
-  {
-    "title": "Yoti age checks share facial photos and device fingerprints with third parties",
-    "link": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-    "source": "Hacker News",
-    "published": "2026-05-25T20:30:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271327\">Comments</a>"
-  },
-  {
-    "title": "Ninth Circuit Panel Goes Out of Its Way to Question Section 230\u2013DOE vs. Meta",
-    "link": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
-    "source": "Hacker News",
-    "published": "2026-05-25T20:24:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271270\">Comments</a>"
   },
   {
     "title": "Hacker News front page as a site",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48269961\">Comments</a>"
   },
   {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "link": "https://jobs.ashbyhq.com/workweave",
-    "source": "Hacker News",
-    "published": "2026-05-25T18:18:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269937\">Comments</a>"
-  },
-  {
     "title": "Exit IP VPN servers mitigation rollout",
     "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
     "source": "Hacker News",
@@ -120,28 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48268609\">Comments</a>"
   },
   {
-    "title": "C extensions, portability, and alternative compilers",
-    "link": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "What we lost when we stopped letting kids leave the front yard",
+    "link": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
     "source": "Hacker News",
-    "published": "2026-05-25T14:15:19+00:00",
+    "published": "2026-05-25T14:29:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267126\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267290\">Comments</a>"
   },
   {
-    "title": "Magnifica Humanitas",
-    "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "title": "Squares in Squares",
+    "link": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
     "source": "Hacker News",
-    "published": "2026-05-25T10:11:29+00:00",
+    "published": "2026-05-24T13:20:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265206\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48257087\">Comments</a>"
   },
   {
-    "title": "Jensen\u2013Shannon Divergence",
-    "link": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+    "title": "A Comma and a Question Mark",
+    "link": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
     "source": "Hacker News",
-    "published": "2026-05-22T19:27:27+00:00",
+    "published": "2026-05-22T10:38:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48240356\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48234091\">Comments</a>"
   },
   {
     "title": "Show HN: Write your BPF programs in Go, not C",
@@ -150,13 +158,5 @@
     "published": "2026-05-21T16:25:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48225338\">Comments</a>"
-  },
-  {
-    "title": "Everyone Against Us (2023)",
-    "link": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
-    "source": "Hacker News",
-    "published": "2026-05-20T19:02:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212461\">Comments</a>"
   }
 ]
