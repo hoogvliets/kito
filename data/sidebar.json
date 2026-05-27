@@ -1,5 +1,45 @@
 [
   {
+    "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
+    "link": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
+    "source": "Hacker News",
+    "published": "2026-05-27T20:53:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48300509\">Comments</a>"
+  },
+  {
+    "title": "YouTube to automatically label AI-generated videos",
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "Hacker News",
+    "published": "2026-05-27T20:00:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299753\">Comments</a>"
+  },
+  {
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "link": "https://sverre.me/blog/rust-on-kindle/",
+    "source": "Hacker News",
+    "published": "2026-05-27T19:51:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299623\">Comments</a>"
+  },
+  {
+    "title": "On Labubu and the Hyperreal",
+    "link": "https://2earth.github.io/website/20260525.html",
+    "source": "Hacker News",
+    "published": "2026-05-27T19:31:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299335\">Comments</a>"
+  },
+  {
+    "title": "What Apple and Google are doing to push notifications",
+    "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "source": "Hacker News",
+    "published": "2026-05-27T19:24:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299220\">Comments</a>"
+  },
+  {
     "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
     "link": "https://arxiv.org/abs/2605.21779",
     "source": "Hacker News",
@@ -56,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48296649\">Comments</a>"
   },
   {
-    "title": "Training our own AI models",
-    "link": "https://posthog.com/blog/training-ai-models",
+    "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
     "source": "Hacker News",
-    "published": "2026-05-27T16:08:42+00:00",
+    "published": "2026-05-27T16:26:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296359\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296622\">Comments</a>"
   },
   {
     "title": "Last.fm is now independent",
@@ -80,60 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48295679\">Comments</a>"
   },
   {
-    "title": "Show HN: I made an emergency page for my family",
-    "link": "https://help.delduca.org",
-    "source": "Hacker News",
-    "published": "2026-05-27T14:18:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48294791\">Comments</a>"
-  },
-  {
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-    "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "source": "Hacker News",
-    "published": "2026-05-27T12:15:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48293080\">Comments</a>"
-  },
-  {
-    "title": "XLIDE: VBA without excel",
-    "link": "https://github.com/WilliamSmithEdward/xlide_vscode",
-    "source": "Hacker News",
-    "published": "2026-05-27T12:08:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48293014\">Comments</a>"
-  },
-  {
     "title": "Mini Micro Fantasy Computer",
     "link": "https://miniscript.org/MiniMicro/index.html#about",
     "source": "Hacker News",
     "published": "2026-05-27T09:56:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48291947\">Comments</a>"
-  },
-  {
-    "title": "All of human cooking compressed into 2 megabytes",
-    "link": "https://arxiv.org/abs/2605.22391",
-    "source": "Hacker News",
-    "published": "2026-05-27T08:14:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291225\">Comments</a>"
-  },
-  {
-    "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
-    "link": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-    "source": "Hacker News",
-    "published": "2026-05-25T19:14:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270514\">Comments</a>"
-  },
-  {
-    "title": "My new obsession: A horse-racing board game of pure luck",
-    "link": "https://alexanderbjoy.com/horse-race-board-game/",
-    "source": "Hacker News",
-    "published": "2026-05-25T15:45:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48268185\">Comments</a>"
   },
   {
     "title": "In-Browser Container Builds",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48266323\">Comments</a>"
   },
   {
-    "title": "Theseus: Translating Win32 to WASM",
-    "link": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Freediving, Embodiment and Humanity \u2013 Joanna Rutkowska",
+    "link": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
     "source": "Hacker News",
-    "published": "2026-05-25T07:26:20+00:00",
+    "published": "2026-05-25T01:41:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264328\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48262703\">Comments</a>"
+  },
+  {
+    "title": "Reconstructing a Mixbook movie from its data API with FFmpeg",
+    "link": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
+    "source": "Hacker News",
+    "published": "2026-05-24T00:31:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48253063\">Comments</a>"
   },
   {
     "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
