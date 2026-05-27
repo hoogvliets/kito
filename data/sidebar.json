@@ -1,5 +1,69 @@
 [
   {
+    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "link": "https://arxiv.org/abs/2605.21779",
+    "source": "Hacker News",
+    "published": "2026-05-27T17:42:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297723\">Comments</a>"
+  },
+  {
+    "title": "SimCity 3k in 4k (2025)",
+    "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "source": "Hacker News",
+    "published": "2026-05-27T17:36:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297645\">Comments</a>"
+  },
+  {
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "source": "Hacker News",
+    "published": "2026-05-27T17:24:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297467\">Comments</a>"
+  },
+  {
+    "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+    "link": "https://www.ycombinator.com/companies/reflex/jobs",
+    "source": "Hacker News",
+    "published": "2026-05-27T17:01:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297116\">Comments</a>"
+  },
+  {
+    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+    "source": "Hacker News",
+    "published": "2026-05-27T16:53:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296994\">Comments</a>"
+  },
+  {
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "source": "Hacker News",
+    "published": "2026-05-27T16:39:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296794\">Comments</a>"
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source": "Hacker News",
+    "published": "2026-05-27T16:28:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296649\">Comments</a>"
+  },
+  {
+    "title": "Training our own AI models",
+    "link": "https://posthog.com/blog/training-ai-models",
+    "source": "Hacker News",
+    "published": "2026-05-27T16:08:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296359\">Comments</a>"
+  },
+  {
     "title": "Last.fm is now independent",
     "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
     "source": "Hacker News",
@@ -8,36 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48295892\">Comments</a>"
   },
   {
-    "title": "Declassified CIA Cartography Maps from the 1980s",
-    "link": "https://brilliantmaps.com/cia-maps-1980s/",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
     "source": "Hacker News",
-    "published": "2026-05-27T14:21:20+00:00",
+    "published": "2026-05-27T15:20:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48294831\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48295679\">Comments</a>"
   },
   {
-    "title": "Show HN: I made an emergency page for my family. You should too",
+    "title": "Show HN: I made an emergency page for my family",
     "link": "https://help.delduca.org",
     "source": "Hacker News",
     "published": "2026-05-27T14:18:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48294791\">Comments</a>"
-  },
-  {
-    "title": "The VibeSec Reckoning",
-    "link": "https://martinfowler.com/articles/vibesec-reckoning.html",
-    "source": "Hacker News",
-    "published": "2026-05-27T14:09:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48294670\">Comments</a>"
-  },
-  {
-    "title": "Evolving Webflow for the Agentic Web",
-    "link": "https://webflow.com/blog/evolving-webflow-for-the-agentic-web",
-    "source": "Hacker News",
-    "published": "2026-05-27T14:02:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48294549\">Comments</a>"
   },
   {
     "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
@@ -56,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48293014\">Comments</a>"
   },
   {
-    "title": "Private Equity Bought America's Essential Services",
-    "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "source": "Hacker News",
-    "published": "2026-05-27T12:00:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48292941\">Comments</a>"
-  },
-  {
-    "title": "I'm Tired of Talking to AI",
-    "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-    "source": "Hacker News",
-    "published": "2026-05-27T10:43:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48292224\">Comments</a>"
-  },
-  {
     "title": "Mini Micro Fantasy Computer",
     "link": "https://miniscript.org/MiniMicro/index.html#about",
     "source": "Hacker News",
@@ -88,60 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48291225\">Comments</a>"
   },
   {
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-    "link": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+    "link": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
     "source": "Hacker News",
-    "published": "2026-05-27T05:13:39+00:00",
+    "published": "2026-05-25T19:14:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48289950\">Comments</a>"
-  },
-  {
-    "title": "Cloudflare Flagship",
-    "link": "https://developers.cloudflare.com/flagship/",
-    "source": "Hacker News",
-    "published": "2026-05-26T23:36:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287468\">Comments</a>"
-  },
-  {
-    "title": "Phloto for My Photo Flow",
-    "link": "https://cceckman.com/writing/phloto/",
-    "source": "Hacker News",
-    "published": "2026-05-26T21:11:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48286028\">Comments</a>"
-  },
-  {
-    "title": "That Methyl Methacrylate Tank",
-    "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-    "source": "Hacker News",
-    "published": "2026-05-26T19:25:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48284712\">Comments</a>"
-  },
-  {
-    "title": "The Melancholy of Slaying Monsters",
-    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-    "source": "Hacker News",
-    "published": "2026-05-26T19:25:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48284711\">Comments</a>"
-  },
-  {
-    "title": "Raft Consensus with a Minority of Nodes",
-    "link": "https://padhye.org/raft-minority/",
-    "source": "Hacker News",
-    "published": "2026-05-26T10:30:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48277723\">Comments</a>"
-  },
-  {
-    "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
-    "link": "https://badhost.org/",
-    "source": "Hacker News",
-    "published": "2026-05-26T09:07:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48277107\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270514\">Comments</a>"
   },
   {
     "title": "My new obsession: A horse-racing board game of pure luck",
@@ -152,7 +136,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48268185\">Comments</a>"
   },
   {
-    "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+    "title": "In-Browser Container Builds",
+    "link": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+    "source": "Hacker News",
+    "published": "2026-05-25T13:00:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266323\">Comments</a>"
+  },
+  {
+    "title": "Theseus: Translating Win32 to WASM",
+    "link": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "source": "Hacker News",
+    "published": "2026-05-25T07:26:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264328\">Comments</a>"
+  },
+  {
+    "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
     "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
     "source": "Hacker News",
     "published": "2026-05-23T12:11:47+00:00",
