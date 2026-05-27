@@ -1,11 +1,27 @@
 [
   {
-    "title": "Big Tech's Anti-Labor Playbook Has Come for Wikipedia",
+    "title": "Colorado and California Exempt Open Source from Age Attestation",
+    "link": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+    "source": "Hacker News",
+    "published": "2026-05-26T22:42:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287007\">Comments</a>"
+  },
+  {
+    "title": "Big tech's anti-labor playbook has come for Wikipedia",
     "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
     "source": "Hacker News",
     "published": "2026-05-26T20:33:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48285592\">Comments</a>"
+  },
+  {
+    "title": "The worst job interview I ever had",
+    "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "source": "Hacker News",
+    "published": "2026-05-26T20:11:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48285344\">Comments</a>"
   },
   {
     "title": "Chemistry behind the Garden Grove chemical tank",
@@ -88,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48278610\">Comments</a>"
   },
   {
-    "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-    "link": "https://dynip.dev/",
+    "title": "A portentous reunion",
+    "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
     "source": "Hacker News",
-    "published": "2026-05-26T07:35:20+00:00",
+    "published": "2026-05-26T05:57:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48276363\">Comments</a>"
-  },
-  {
-    "title": "Performance of Rust Language [pdf]",
-    "link": "https://github.com/yugr/rust-slides/",
-    "source": "Hacker News",
-    "published": "2026-05-25T23:37:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273147\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48275564\">Comments</a>"
   },
   {
     "title": "A few interesting modern pixel fonts",
@@ -112,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48271448\">Comments</a>"
   },
   {
+    "title": "C array types are weird",
+    "link": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "source": "Hacker News",
+    "published": "2026-05-25T05:05:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48263560\">Comments</a>"
+  },
+  {
+    "title": "Liverpool and Manchester Railway",
+    "link": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "source": "Hacker News",
+    "published": "2026-05-24T15:56:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258314\">Comments</a>"
+  },
+  {
     "title": "The Steinwinter Supercargo",
     "link": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
     "source": "Hacker News",
@@ -120,36 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48251709\">Comments</a>"
   },
   {
-    "title": "Opaque Types in Python",
-    "link": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-    "source": "Hacker News",
-    "published": "2026-05-23T13:17:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247416\">Comments</a>"
-  },
-  {
     "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
     "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
     "source": "Hacker News",
     "published": "2026-05-22T17:17:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48238703\">Comments</a>"
-  },
-  {
-    "title": "Use boring languages with LLMs",
-    "link": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "source": "Hacker News",
-    "published": "2026-05-22T15:10:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48237012\">Comments</a>"
-  },
-  {
-    "title": "Are we self-sovereign PKI yet?",
-    "link": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-    "source": "Hacker News",
-    "published": "2026-05-21T22:49:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48229776\">Comments</a>"
   },
   {
     "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
