@@ -1,5 +1,29 @@
 [
   {
+    "title": "Mini Micro Fantasy Computer",
+    "link": "https://miniscript.org/MiniMicro/index.html#about",
+    "source": "Hacker News",
+    "published": "2026-05-27T09:56:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291947\">Comments</a>"
+  },
+  {
+    "title": "Unicode 18.0.0 Beta",
+    "link": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "source": "Hacker News",
+    "published": "2026-05-27T07:28:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48290881\">Comments</a>"
+  },
+  {
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "link": "https://arps18.github.io/posts/claude-code-mastery/",
+    "source": "Hacker News",
+    "published": "2026-05-27T05:13:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48289950\">Comments</a>"
+  },
+  {
     "title": "Show HN: Posthorn, self-hosted mail without the mail server",
     "link": "https://github.com/craigmccaskill/posthorn",
     "source": "Hacker News",
@@ -8,52 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48289624\">Comments</a>"
   },
   {
-    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-    "link": "https://tsduck.io/",
-    "source": "Hacker News",
-    "published": "2026-05-27T02:22:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288709\">Comments</a>"
-  },
-  {
-    "title": "Tunecat: Simple Internet Radio",
-    "link": "https://codeberg.org/lindenii/tunecat/",
-    "source": "Hacker News",
-    "published": "2026-05-27T01:08:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288174\">Comments</a>"
-  },
-  {
-    "title": "Stripe is friendly to \u201cfriendly fraud\u201d",
-    "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-    "source": "Hacker News",
-    "published": "2026-05-27T00:40:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287982\">Comments</a>"
-  },
-  {
     "title": "Cloudflare Flagship",
     "link": "https://developers.cloudflare.com/flagship/",
     "source": "Hacker News",
     "published": "2026-05-26T23:36:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48287468\">Comments</a>"
-  },
-  {
-    "title": "From Rust to Ruby",
-    "link": "https://xlii.space/eng/from-rust-to-ruby/",
-    "source": "Hacker News",
-    "published": "2026-05-26T21:57:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48286561\">Comments</a>"
-  },
-  {
-    "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "source": "Hacker News",
-    "published": "2026-05-26T20:33:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48285592\">Comments</a>"
   },
   {
     "title": "The worst job interview I ever had",
@@ -72,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48284712\">Comments</a>"
   },
   {
+    "title": "The Melancholy of Slaying Monsters",
+    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "source": "Hacker News",
+    "published": "2026-05-26T19:25:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48284711\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
     "link": "https://www.minicor.com/",
     "source": "Hacker News",
@@ -86,6 +78,22 @@
     "published": "2026-05-26T13:08:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48279316\">Comments</a>"
+  },
+  {
+    "title": "Raft Consensus with a Minority of Nodes",
+    "link": "https://padhye.org/raft-minority/",
+    "source": "Hacker News",
+    "published": "2026-05-26T10:30:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48277723\">Comments</a>"
+  },
+  {
+    "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "link": "https://badhost.org/",
+    "source": "Hacker News",
+    "published": "2026-05-26T09:07:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48277107\">Comments</a>"
   },
   {
     "title": "A portentous reunion",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48263560\">Comments</a>"
   },
   {
-    "title": "IBM Confidential: System/360 File Organization [video]",
-    "link": "https://www.youtube.com/watch?v=zokKqP0plrM",
-    "source": "Hacker News",
-    "published": "2026-05-24T21:21:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48261120\">Comments</a>"
-  },
-  {
     "title": "A history of obituaries in American newspapers",
     "link": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
     "source": "Hacker News",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48260219\">Comments</a>"
   },
   {
-    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
-    "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "title": "What Gets Kept",
+    "link": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
     "source": "Hacker News",
-    "published": "2026-05-24T10:17:19+00:00",
+    "published": "2026-05-24T16:46:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256053\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258848\">Comments</a>"
   },
   {
-    "title": "The Forgotten Art of the LAN Party (2023)",
-    "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "title": "Seeking a Language in Mathematics 1523-1571",
+    "link": "https://tyndale.org/journals/reformj01/bmarsden.html",
     "source": "Hacker News",
-    "published": "2026-05-23T19:01:13+00:00",
+    "published": "2026-05-24T05:56:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48250300\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254795\">Comments</a>"
   },
   {
     "title": "I built a Git-tracked book production pipeline",
