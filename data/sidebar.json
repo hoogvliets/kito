@@ -32,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48302745\">Comments</a>"
   },
   {
+    "title": "I analysed 20 years of my chats",
+    "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "source": "Hacker News",
+    "published": "2026-05-27T23:31:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302220\">Comments</a>"
+  },
+  {
     "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
     "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
     "source": "Hacker News",
     "published": "2026-05-27T23:23:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48302151\">Comments</a>"
-  },
-  {
-    "title": "Warm up your MacBook (2019)",
-    "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "source": "Hacker News",
-    "published": "2026-05-27T20:42:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48300342\">Comments</a>"
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
@@ -112,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48293080\">Comments</a>"
   },
   {
-    "title": "Go: Support for Generic Methods",
-    "link": "https://github.com/golang/go/issues/77273",
-    "source": "Hacker News",
-    "published": "2026-05-27T09:02:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291575\">Comments</a>"
-  },
-  {
-    "title": "Interleaved Deltas",
-    "link": "https://mmapped.blog/posts/51-interleaved-deltas",
-    "source": "Hacker News",
-    "published": "2026-05-26T14:30:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48280356\">Comments</a>"
-  },
-  {
     "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
     "link": "https://retrogamecoders.com/zero-lines-maze/",
     "source": "Hacker News",
     "published": "2026-05-26T13:22:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48279507\">Comments</a>"
+  },
+  {
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "link": "https://arxiv.org/abs/2510.04950",
+    "source": "Hacker News",
+    "published": "2026-05-26T07:43:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48276429\">Comments</a>"
   },
   {
     "title": "A New Typst Template for Pandoc (2025)",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48267558\">Comments</a>"
   },
   {
-    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-    "link": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+    "title": "Our 2D game character grew 3% taller every time he walked",
+    "link": "https://hey.paris/posts/leo-sprite-alignment/",
     "source": "Hacker News",
-    "published": "2026-05-25T14:41:09+00:00",
+    "published": "2026-05-25T07:07:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267432\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264223\">Comments</a>"
+  },
+  {
+    "title": "The Green Side of the Lua",
+    "link": "https://arxiv.org/abs/2601.16670",
+    "source": "Hacker News",
+    "published": "2026-05-24T23:44:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48262160\">Comments</a>"
   }
 ]
