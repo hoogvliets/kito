@@ -1,27 +1,67 @@
 [
   {
-    "title": "We replaced Zendesk",
-    "link": "https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "link": "https://www.anthropic.com/news/series-h",
     "source": "Hacker News",
-    "published": "2026-05-28T15:42:25+00:00",
+    "published": "2026-05-28T18:09:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48310604\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48313048\">Comments</a>"
   },
   {
-    "title": "Creusot helps you prove your Rust code is correct",
-    "link": "https://github.com/creusot-rs/creusot/tree/master",
+    "title": "Hold on for Dear Life",
+    "link": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
     "source": "Hacker News",
-    "published": "2026-05-28T14:42:04+00:00",
+    "published": "2026-05-28T17:51:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309645\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48312734\">Comments</a>"
   },
   {
-    "title": "New York Passes Tax on the Ultra-Wealthy",
-    "link": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+    "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+    "link": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
     "source": "Hacker News",
-    "published": "2026-05-28T14:37:51+00:00",
+    "published": "2026-05-28T17:10:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309584\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48312082\">Comments</a>"
+  },
+  {
+    "title": "Dynamic Workflows in Claude Code",
+    "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "source": "Hacker News",
+    "published": "2026-05-28T16:52:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48311705\">Comments</a>"
+  },
+  {
+    "title": "Claude Opus 4.8",
+    "link": "https://www.anthropic.com/news/claude-opus-4-8",
+    "source": "Hacker News",
+    "published": "2026-05-28T16:49:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48311647\">Comments</a>"
+  },
+  {
+    "title": "Trivial Pursuits",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
+    "source": "Hacker News",
+    "published": "2026-05-28T16:43:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48311539\">Comments</a>"
+  },
+  {
+    "title": "The Permanent Upper Crow",
+    "link": "https://permanent-upper-crow.jasonwu.ink/",
+    "source": "Hacker News",
+    "published": "2026-05-28T15:23:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48310280\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
+    "link": "https://github.com/Kaelio/ktx",
+    "source": "Hacker News",
+    "published": "2026-05-28T15:05:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309986\">Comments</a>"
   },
   {
     "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
@@ -32,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48309302\">Comments</a>"
   },
   {
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "source": "Hacker News",
-    "published": "2026-05-28T14:13:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>"
-  },
-  {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "link": "https://llmgame.scalex.dev",
     "source": "Hacker News",
@@ -48,28 +80,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48308376\">Comments</a>"
   },
   {
-    "title": "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
-    "link": "https://lenz.io/research/llm-disagreement",
-    "source": "Hacker News",
-    "published": "2026-05-28T12:20:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48307887\">Comments</a>"
-  },
-  {
-    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-    "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-    "source": "Hacker News",
-    "published": "2026-05-28T10:56:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48307231\">Comments</a>"
-  },
-  {
-    "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+    "title": "Show HN: Hallucinate \u2013 Massively Multiplayer Online Rave",
     "link": "https://hallucinate.site",
     "source": "Hacker News",
     "published": "2026-05-28T03:50:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48304260\">Comments</a>"
+  },
+  {
+    "title": "Bttf is a command line datetime Swiss army knife",
+    "link": "https://github.com/BurntSushi/bttf",
+    "source": "Hacker News",
+    "published": "2026-05-28T02:58:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48303881\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "source": "Hacker News",
+    "published": "2026-05-27T20:37:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48300280\">Comments</a>"
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
@@ -80,44 +112,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48299753\">Comments</a>"
   },
   {
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "source": "Hacker News",
-    "published": "2026-05-27T19:52:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299638\">Comments</a>"
-  },
-  {
-    "title": "What Apple and Google are doing to push notifications",
-    "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-    "source": "Hacker News",
-    "published": "2026-05-27T19:24:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299220\">Comments</a>"
-  },
-  {
-    "title": "SimCity 3k in 4k (2025)",
-    "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "source": "Hacker News",
-    "published": "2026-05-27T17:36:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297645\">Comments</a>"
-  },
-  {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "source": "Hacker News",
-    "published": "2026-05-27T16:39:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296794\">Comments</a>"
-  },
-  {
     "title": "Indoor Wi-Fi Roaming with OpenWRT",
     "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
     "source": "Hacker News",
     "published": "2026-05-26T16:41:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48282180\">Comments</a>"
+  },
+  {
+    "title": "News about Raspberry Pi 6 and Microcontroller Development",
+    "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "source": "Hacker News",
+    "published": "2026-05-26T08:02:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48276598\">Comments</a>"
+  },
+  {
+    "title": "US's big bet on quantum computing may not be legal",
+    "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "source": "Hacker News",
+    "published": "2026-05-25T23:11:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272948\">Comments</a>"
+  },
+  {
+    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "link": "https://github.com/highpost/tailscale-macos-vm",
+    "source": "Hacker News",
+    "published": "2026-05-25T22:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272545\">Comments</a>"
   },
   {
     "title": "Boston and Bermuda",
@@ -128,35 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48272402\">Comments</a>"
   },
   {
-    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
-    "link": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+    "title": "You Were Never Declaring State. You Were Observing by Hand",
+    "link": "https://webframp.com/posts/you-were-never-declaring-state/",
     "source": "Hacker News",
-    "published": "2026-05-25T18:49:32+00:00",
+    "published": "2026-05-25T17:47:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270265\">Comments</a>"
-  },
-  {
-    "title": "The Ask",
-    "link": "https://randsinrepose.com/archives/the-ask/",
-    "source": "Hacker News",
-    "published": "2026-05-25T14:51:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267558\">Comments</a>"
-  },
-  {
-    "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
-    "link": "https://spectrum.ieee.org/smartphone-grade-lidar",
-    "source": "Hacker News",
-    "published": "2026-05-25T11:32:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265668\">Comments</a>"
-  },
-  {
-    "title": "Libwce: The entropy layer of a wavelet codec, on its own",
-    "link": "https://yogthos.net/posts/2026-05-24-libwce.html",
-    "source": "Hacker News",
-    "published": "2026-05-24T13:43:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48257224\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269609\">Comments</a>"
   }
 ]
