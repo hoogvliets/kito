@@ -1,19 +1,59 @@
 [
   {
-    "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+    "title": "We replaced Zendesk",
+    "link": "https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours",
+    "source": "Hacker News",
+    "published": "2026-05-28T15:42:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48310604\">Comments</a>"
+  },
+  {
+    "title": "Creusot helps you prove your Rust code is correct",
+    "link": "https://github.com/creusot-rs/creusot/tree/master",
+    "source": "Hacker News",
+    "published": "2026-05-28T14:42:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309645\">Comments</a>"
+  },
+  {
+    "title": "New York Passes Tax on the Ultra-Wealthy",
+    "link": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+    "source": "Hacker News",
+    "published": "2026-05-28T14:37:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309584\">Comments</a>"
+  },
+  {
+    "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
+    "link": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+    "source": "Hacker News",
+    "published": "2026-05-28T14:18:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309302\">Comments</a>"
+  },
+  {
+    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+    "source": "Hacker News",
+    "published": "2026-05-28T14:13:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "link": "https://llmgame.scalex.dev",
+    "source": "Hacker News",
+    "published": "2026-05-28T13:02:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48308376\">Comments</a>"
+  },
+  {
+    "title": "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
     "link": "https://lenz.io/research/llm-disagreement",
     "source": "Hacker News",
     "published": "2026-05-28T12:20:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48307887\">Comments</a>"
-  },
-  {
-    "title": "Commission fines Temu \u20ac200M for breaching the Digital Services Act",
-    "link": "https://ec.europa.eu/commission/presscorner/home/en",
-    "source": "Hacker News",
-    "published": "2026-05-28T10:57:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48307237\">Comments</a>"
   },
   {
     "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
@@ -24,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48307231\">Comments</a>"
   },
   {
-    "title": "AI sticker shock hits corporate America",
-    "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-    "source": "Hacker News",
-    "published": "2026-05-28T10:39:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48307098\">Comments</a>"
-  },
-  {
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "source": "Hacker News",
-    "published": "2026-05-28T06:40:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48305446\">Comments</a>"
-  },
-  {
     "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
     "link": "https://hallucinate.site",
     "source": "Hacker News",
     "published": "2026-05-28T03:50:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48304260\">Comments</a>"
-  },
-  {
-    "title": "I analysed 20 years of my chats",
-    "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "source": "Hacker News",
-    "published": "2026-05-27T23:31:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302220\">Comments</a>"
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
@@ -70,14 +86,6 @@
     "published": "2026-05-27T19:52:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48299638\">Comments</a>"
-  },
-  {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "link": "https://sverre.me/blog/rust-on-kindle/",
-    "source": "Hacker News",
-    "published": "2026-05-27T19:51:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299623\">Comments</a>"
   },
   {
     "title": "What Apple and Google are doing to push notifications",
@@ -104,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48296794\">Comments</a>"
   },
   {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT",
+    "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
     "source": "Hacker News",
-    "published": "2026-05-27T16:28:41+00:00",
+    "published": "2026-05-26T16:41:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296649\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48282180\">Comments</a>"
   },
   {
-    "title": "More Whimsical OEIS Sequences",
-    "link": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
+    "title": "Boston and Bermuda",
+    "link": "https://askthepilot.com/boston-and-bermuda/",
     "source": "Hacker News",
-    "published": "2026-05-26T15:45:12+00:00",
+    "published": "2026-05-25T21:50:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48281336\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272402\">Comments</a>"
   },
   {
     "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
@@ -142,14 +150,6 @@
     "published": "2026-05-25T11:32:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48265668\">Comments</a>"
-  },
-  {
-    "title": "Rapira (\u0420\u0430\u043f\u0438\u0440\u0430) \u2013 Soviet programming language interpreter",
-    "link": "https://github.com/begoon/rapira",
-    "source": "Hacker News",
-    "published": "2026-05-25T08:37:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264705\">Comments</a>"
   },
   {
     "title": "Libwce: The entropy layer of a wavelet codec, on its own",
