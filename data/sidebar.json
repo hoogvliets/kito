@@ -1,6 +1,22 @@
 [
   {
-    "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+    "title": "Zot now supports Claude Opus 4.8",
+    "link": "https://www.zot.sh",
+    "source": "Hacker News",
+    "published": "2026-05-29T05:48:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48319524\">Comments</a>"
+  },
+  {
+    "title": "Python utility package for building Claude Code hooks",
+    "link": "https://github.com/RasmusGodske/claude-hook-utils",
+    "source": "Hacker News",
+    "published": "2026-05-29T04:18:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318978\">Comments</a>"
+  },
+  {
+    "title": "Blue Origin\u2019s New Glenn rocket exploded during a static fire test",
     "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
     "source": "Hacker News",
     "published": "2026-05-29T03:32:15+00:00",
@@ -8,12 +24,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48318678\">Comments</a>"
   },
   {
-    "title": "Cars are trying to spy on you, and it's only just the beginning",
+    "title": "Cars collect a startling amount of data about you",
     "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
     "source": "Hacker News",
     "published": "2026-05-29T03:01:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48318481\">Comments</a>"
+  },
+  {
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "source": "Hacker News",
+    "published": "2026-05-29T02:33:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318313\">Comments</a>"
+  },
+  {
+    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
+    "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "source": "Hacker News",
+    "published": "2026-05-29T02:13:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318174\">Comments</a>"
   },
   {
     "title": "Blue Origin's New Glenn blows up during static fire test",
@@ -30,14 +62,6 @@
     "published": "2026-05-29T00:09:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48317294\">Comments</a>"
-  },
-  {
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "source": "Hacker News",
-    "published": "2026-05-28T23:42:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48317093\">Comments</a>"
   },
   {
     "title": "Garnix (A Nix CI) is shutting down",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48314002\">Comments</a>"
   },
   {
-    "title": "Building durable workflows on Postgres",
-    "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "source": "Hacker News",
-    "published": "2026-05-28T18:41:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48313530\">Comments</a>"
-  },
-  {
     "title": "I hated writing until I learned there\u2019s a science to it (2024)",
     "link": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
     "source": "Hacker News",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48311647\">Comments</a>"
   },
   {
-    "title": "The Permanent Upper Crow",
-    "link": "https://permanent-upper-crow.jasonwu.ink/",
-    "source": "Hacker News",
-    "published": "2026-05-28T15:23:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48310280\">Comments</a>"
-  },
-  {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "link": "https://llmgame.scalex.dev",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48308376\">Comments</a>"
   },
   {
-    "title": "Indoor Wi-Fi Roaming with OpenWRT",
-    "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
+    "link": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "source": "Hacker News",
-    "published": "2026-05-26T16:41:58+00:00",
+    "published": "2026-05-26T15:15:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48282180\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48280967\">Comments</a>"
   },
   {
     "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
@@ -142,14 +150,6 @@
     "published": "2026-05-26T08:02:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48276598\">Comments</a>"
-  },
-  {
-    "title": "The Pack That Killed the Pack Mule",
-    "link": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
-    "source": "Hacker News",
-    "published": "2026-05-25T12:00:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265849\">Comments</a>"
   },
   {
     "title": "Ten Basic Clouds",
