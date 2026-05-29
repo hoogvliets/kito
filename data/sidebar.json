@@ -1,6 +1,38 @@
 [
   {
-    "title": "Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+    "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+    "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "source": "Hacker News",
+    "published": "2026-05-29T03:32:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318678\">Comments</a>"
+  },
+  {
+    "title": "Cars are trying to spy on you, and it's only just the beginning",
+    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "source": "Hacker News",
+    "published": "2026-05-29T03:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318481\">Comments</a>"
+  },
+  {
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "source": "Hacker News",
+    "published": "2026-05-29T01:16:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48317774\">Comments</a>"
+  },
+  {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "source": "Hacker News",
+    "published": "2026-05-29T00:09:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48317294\">Comments</a>"
+  },
+  {
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
     "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
     "source": "Hacker News",
     "published": "2026-05-28T23:42:47+00:00",
@@ -48,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48314002\">Comments</a>"
   },
   {
-    "title": "Various LLM Smells",
-    "link": "https://shvbsle.in/various-llm-smells/",
-    "source": "Hacker News",
-    "published": "2026-05-28T19:02:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48313810\">Comments</a>"
-  },
-  {
     "title": "Building durable workflows on Postgres",
     "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
     "source": "Hacker News",
     "published": "2026-05-28T18:41:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48313530\">Comments</a>"
-  },
-  {
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-    "link": "https://www.anthropic.com/news/series-h",
-    "source": "Hacker News",
-    "published": "2026-05-28T18:09:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48313048\">Comments</a>"
-  },
-  {
-    "title": "Bitburner, programming-based incremental game",
-    "link": "https://bitburner-official.github.io/",
-    "source": "Hacker News",
-    "published": "2026-05-28T17:43:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48312616\">Comments</a>"
   },
   {
     "title": "I hated writing until I learned there\u2019s a science to it (2024)",
@@ -102,14 +110,6 @@
     "published": "2026-05-28T15:23:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48310280\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
-    "link": "https://github.com/Kaelio/ktx",
-    "source": "Hacker News",
-    "published": "2026-05-28T15:05:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309986\">Comments</a>"
   },
   {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48276598\">Comments</a>"
   },
   {
-    "title": "The most unlikely school bag",
-    "link": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "title": "The Pack That Killed the Pack Mule",
+    "link": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
     "source": "Hacker News",
-    "published": "2026-05-25T13:45:05+00:00",
+    "published": "2026-05-25T12:00:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266757\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265849\">Comments</a>"
   },
   {
     "title": "Ten Basic Clouds",
