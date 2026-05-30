@@ -1,5 +1,53 @@
 [
   {
+    "title": "Zig ELF Linker Improvements Devlog",
+    "link": "https://ziglang.org/devlog/2026/#2026-05-30",
+    "source": "Hacker News",
+    "published": "2026-05-30T17:29:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48338673\">Comments</a>"
+  },
+  {
+    "title": "OpenRouter raises $113M Series B",
+    "link": "https://openrouter.ai/announcements/series-b",
+    "source": "Hacker News",
+    "published": "2026-05-30T17:27:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48338660\">Comments</a>"
+  },
+  {
+    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+    "link": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "source": "Hacker News",
+    "published": "2026-05-30T17:27:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48338656\">Comments</a>"
+  },
+  {
+    "title": "Downdetector and Speedtest sold to Accenture for $1.2B",
+    "link": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
+    "source": "Hacker News",
+    "published": "2026-05-30T16:28:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48337987\">Comments</a>"
+  },
+  {
+    "title": "Werner Herzog in conversation with Paul Cronin (2014)",
+    "link": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+    "source": "Hacker News",
+    "published": "2026-05-30T16:13:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48337808\">Comments</a>"
+  },
+  {
+    "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits",
+    "link": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
+    "source": "Hacker News",
+    "published": "2026-05-30T15:15:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48337137\">Comments</a>"
+  },
+  {
     "title": "Voxel Space",
     "link": "https://s-macke.github.io/VoxelSpace/",
     "source": "Hacker News",
@@ -14,22 +62,6 @@
     "published": "2026-05-30T14:03:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48336312\">Comments</a>"
-  },
-  {
-    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-    "source": "Hacker News",
-    "published": "2026-05-30T13:56:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48336233\">Comments</a>"
-  },
-  {
-    "title": "Proposed new US funding rules: We can cancel any grant at any time",
-    "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-    "source": "Hacker News",
-    "published": "2026-05-30T11:41:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48335135\">Comments</a>"
   },
   {
     "title": "Show HN: Helios \u2013 what plug-in solar could generate for any address in Britain",
@@ -48,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48334854\">Comments</a>"
   },
   {
-    "title": "Leo's first encyclical attacks technological messianism",
-    "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-    "source": "Hacker News",
-    "published": "2026-05-30T10:30:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48334710\">Comments</a>"
-  },
-  {
     "title": "Pandoc Templates",
     "link": "https://pandoc-templates.org/",
     "source": "Hacker News",
@@ -72,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48334048\">Comments</a>"
   },
   {
-    "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-    "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-    "source": "Hacker News",
-    "published": "2026-05-30T08:00:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48333820\">Comments</a>"
-  },
-  {
-    "title": "MCP is dead?",
-    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "source": "Hacker News",
-    "published": "2026-05-29T22:56:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330436\">Comments</a>"
-  },
-  {
     "title": "SQLite is all you need for durable workflows",
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "source": "Hacker News",
@@ -102,6 +110,14 @@
     "published": "2026-05-29T16:22:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48325340\">Comments</a>"
+  },
+  {
+    "title": "Stateless Actors",
+    "link": "https://www.massicotte.org/stateless-actors/",
+    "source": "Hacker News",
+    "published": "2026-05-29T13:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48322853\">Comments</a>"
   },
   {
     "title": "Testing the WWI concrete ships and WWII concrete barges",
@@ -128,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48286745\">Comments</a>"
   },
   {
-    "title": "Snowboard Kids 2 is 100% Decompiled",
-    "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+    "title": "It Takes Two Neurons to Ride a Bicycle",
+    "link": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
     "source": "Hacker News",
-    "published": "2026-05-26T19:12:59+00:00",
+    "published": "2026-05-26T16:51:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48284494\">Comments</a>"
-  },
-  {
-    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-    "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "source": "Hacker News",
-    "published": "2026-05-26T18:05:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48283410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48282335\">Comments</a>"
   },
   {
     "title": "What Happened to the Locusts?",
@@ -150,13 +158,5 @@
     "published": "2026-05-26T16:15:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48281772\">Comments</a>"
-  },
-  {
-    "title": "Floor and Ceil versus Denormals on CPU and GPU",
-    "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-    "source": "Hacker News",
-    "published": "2026-05-26T13:22:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48279499\">Comments</a>"
   }
 ]
