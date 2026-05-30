@@ -8,28 +8,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48332151\">Comments</a>"
   },
   {
-    "title": "Naphtha Shortages Having a Growing Impact in Japan",
+    "title": "Naphtha shortages in Japan",
     "link": "https://www.nippon.com/en/japan-data/h02783/",
     "source": "Hacker News",
     "published": "2026-05-30T02:20:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48331786\">Comments</a>"
-  },
-  {
-    "title": "WH proposes rules giving political appointees final approval on research grants",
-    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-    "source": "Hacker News",
-    "published": "2026-05-30T01:39:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331511\">Comments</a>"
-  },
-  {
-    "title": "Ember.js 7.0",
-    "link": "https://blog.emberjs.com/ember-released-7-0/",
-    "source": "Hacker News",
-    "published": "2026-05-29T23:57:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330902\">Comments</a>"
   },
   {
     "title": "What Is a Dickover?",
@@ -48,6 +32,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48330436\">Comments</a>"
   },
   {
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "link": "https://github.com/secluso/core",
+    "source": "Hacker News",
+    "published": "2026-05-29T22:32:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330192\">Comments</a>"
+  },
+  {
+    "title": "The Last Technical Interview",
+    "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "source": "Hacker News",
+    "published": "2026-05-29T19:58:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328405\">Comments</a>"
+  },
+  {
     "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
     "link": "https://github.com/jmaczan/tiny-vllm",
     "source": "Hacker News",
@@ -62,14 +62,6 @@
     "published": "2026-05-29T19:16:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48327962\">Comments</a>"
-  },
-  {
-    "title": "On Rendering Diffs",
-    "link": "https://pierre.computer/writing/on-rendering-diffs",
-    "source": "Hacker News",
-    "published": "2026-05-29T19:04:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48327809\">Comments</a>"
   },
   {
     "title": "SQLite is all you need for durable workflows",
@@ -94,14 +86,6 @@
     "published": "2026-05-29T16:19:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48325306\">Comments</a>"
-  },
-  {
-    "title": "You can just say it",
-    "link": "https://noperator.dev/posts/you-can-just-say-it/",
-    "source": "Hacker News",
-    "published": "2026-05-29T15:54:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324853\">Comments</a>"
   },
   {
     "title": "The dead economy theory",
@@ -136,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>"
   },
   {
+    "title": "What It Takes to Preserve Floppy Disks",
+    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+    "source": "Hacker News",
+    "published": "2026-05-28T02:23:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48303623\">Comments</a>"
+  },
+  {
     "title": "Math-to-Manim",
     "link": "https://github.com/HarleyCoops/Math-To-Manim",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-05-26T18:05:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48283410\">Comments</a>"
+  },
+  {
+    "title": "Algebraic Effects for the Rest of Us",
+    "link": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+    "source": "Hacker News",
+    "published": "2026-05-26T17:38:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48283009\">Comments</a>"
   }
 ]
