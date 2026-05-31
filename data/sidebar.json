@@ -8,14 +8,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48341578\">Comments</a>"
   },
   {
-    "title": "Custom Errors Are Non-Negotiable in My Rust Applications",
-    "link": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
-    "source": "Hacker News",
-    "published": "2026-05-30T23:14:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48341505\">Comments</a>"
-  },
-  {
     "title": "Cheese Paper: a text editor specifically designed for writing",
     "link": "https://brie.gay/cheese-paper/",
     "source": "Hacker News",
@@ -24,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48341407\">Comments</a>"
   },
   {
-    "title": "Shantell Sans",
+    "title": "Shantell Sans (2023)",
     "link": "https://shantellsans.com/process",
     "source": "Hacker News",
     "published": "2026-05-30T22:06:38+00:00",
@@ -32,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48341062\">Comments</a>"
   },
   {
-    "title": "Design Engineering Magazine",
-    "link": "https://interfaces.dev/",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "link": "https://av2.aomedia.org",
     "source": "Hacker News",
-    "published": "2026-05-30T20:46:54+00:00",
+    "published": "2026-05-30T21:46:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48340448\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48340910\">Comments</a>"
   },
   {
     "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
@@ -54,14 +46,6 @@
     "published": "2026-05-30T20:40:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48340411\">Comments</a>"
-  },
-  {
-    "title": "Dusklight \u2013 GC Twilight Princess Decompiled",
-    "link": "https://twilitrealm.dev/",
-    "source": "Hacker News",
-    "published": "2026-05-30T20:24:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48340262\">Comments</a>"
   },
   {
     "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
@@ -136,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48334854\">Comments</a>"
   },
   {
+    "title": "Pandoc Templates",
+    "link": "https://pandoc-templates.org/",
+    "source": "Hacker News",
+    "published": "2026-05-30T09:56:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48334515\">Comments</a>"
+  },
+  {
+    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+    "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+    "source": "Hacker News",
+    "published": "2026-05-29T03:22:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48318624\">Comments</a>"
+  },
+  {
     "title": "I found a seashell in the middle of the desert",
     "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
     "source": "Hacker News",
@@ -144,7 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48318402\">Comments</a>"
   },
   {
-    "title": "Gustav Klimt and Egon Schiele in Conversation",
+    "title": "Gustav Klimt and Egon Schiele in Conversation (2018)",
     "link": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
     "source": "Hacker News",
     "published": "2026-05-28T22:29:31+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48316424\">Comments</a>"
   },
   {
-    "title": "Tsplat \u2013 Run Gaussian splatting in your terminal",
-    "link": "https://github.com/darshanmakwana412/tsplat",
+    "title": "Racket v9.2 is now available",
+    "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
     "source": "Hacker News",
-    "published": "2026-05-28T12:15:55+00:00",
+    "published": "2026-05-28T09:42:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48307851\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48306713\">Comments</a>"
   }
 ]
