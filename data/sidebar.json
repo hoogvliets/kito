@@ -1,27 +1,35 @@
 [
   {
-    "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "title": "GitHub and the Crime Against Software",
+    "link": "https://eblog.fly.dev/githubbad.html",
     "source": "Hacker News",
-    "published": "2026-06-01T16:33:59+00:00",
+    "published": "2026-06-01T18:54:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48359130\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48361064\">Comments</a>"
   },
   {
-    "title": "The Newest Instagram \"Exploit\" Is the Goofiest I've Seen",
+    "title": "Should you normalize RGB values by 255 or 256?",
+    "link": "https://30fps.net/pages/255-vs-256-division/",
+    "source": "Hacker News",
+    "published": "2026-06-01T17:37:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48360054\">Comments</a>"
+  },
+  {
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "source": "Hacker News",
+    "published": "2026-06-01T16:41:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48359232\">Comments</a>"
+  },
+  {
+    "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
     "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
     "source": "Hacker News",
     "published": "2026-06-01T16:31:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48359102\">Comments</a>"
-  },
-  {
-    "title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "source": "Hacker News",
-    "published": "2026-06-01T16:00:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48358646\">Comments</a>"
   },
   {
     "title": "Lifelike biochemistry continued to unfold in sterilized soil",
@@ -40,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48357725\">Comments</a>"
   },
   {
-    "title": "KDE at 30",
-    "link": "https://kde.org/anniversaries/30/",
+    "title": "Ask HN: Who wants to be hired? (June 2026)",
+    "link": "https://news.ycombinator.com/item?id=48357724",
     "source": "Hacker News",
-    "published": "2026-06-01T14:31:26+00:00",
+    "published": "2026-06-01T15:00:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48357355\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48357724\">Comments</a>"
   },
   {
     "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
@@ -64,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48357075\">Comments</a>"
   },
   {
-    "title": "Show HN: A CSS 3D Engine (no WebGL)",
-    "link": "https://github.com/LayoutitStudio/polycss",
-    "source": "Hacker News",
-    "published": "2026-06-01T13:58:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356946\">Comments</a>"
-  },
-  {
     "title": "Sysadmining Like It's 2009",
     "link": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
     "source": "Hacker News",
     "published": "2026-06-01T13:50:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48356847\">Comments</a>"
-  },
-  {
-    "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
-    "link": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
-    "source": "Hacker News",
-    "published": "2026-06-01T13:39:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356741\">Comments</a>"
   },
   {
     "title": "Malicious npm packages detected across Red Hat Cloud Services",
@@ -112,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48356490\">Comments</a>"
   },
   {
-    "title": "Linux Basics for Hackers (2019)",
-    "link": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
-    "source": "Hacker News",
-    "published": "2026-06-01T13:19:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356468\">Comments</a>"
-  },
-  {
     "title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
     "link": "https://news.ycombinator.com/item?id=48356312",
     "source": "Hacker News",
@@ -136,20 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48353348\">Comments</a>"
   },
   {
+    "title": "Nvidia RTX Spark",
+    "link": "https://www.nvidia.com/en-us/products/rtx-spark/",
+    "source": "Hacker News",
+    "published": "2026-06-01T05:24:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48352939\">Comments</a>"
+  },
+  {
+    "title": "Mumbai's famed dabbawalas fed millions for over 100 years",
+    "link": "https://www.bbc.co.uk/news/articles/c202d0l92weo",
+    "source": "Hacker News",
+    "published": "2026-05-30T21:08:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48340645\">Comments</a>"
+  },
+  {
+    "title": "Stealing from Biologists to Compile Haskell Faster",
+    "link": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+    "source": "Hacker News",
+    "published": "2026-05-30T17:50:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48338891\">Comments</a>"
+  },
+  {
     "title": "I made my phone slow on purpose",
     "link": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
     "source": "Hacker News",
     "published": "2026-05-28T17:30:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48312443\">Comments</a>"
-  },
-  {
-    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-    "link": "https://blainsmith.com/articles/httptrace-with-go/",
-    "source": "Hacker News",
-    "published": "2026-05-28T16:46:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48311587\">Comments</a>"
   },
   {
     "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
