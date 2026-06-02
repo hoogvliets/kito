@@ -1,5 +1,37 @@
 [
   {
+    "title": "Americans don't know how to fight AI so they're fighting data centers",
+    "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+    "source": "Hacker News",
+    "published": "2026-06-02T15:32:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48371592\">Comments</a>"
+  },
+  {
+    "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+    "link": "https://blog.davidedmundson.co.uk/blog/596/",
+    "source": "Hacker News",
+    "published": "2026-06-02T14:16:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48370588\">Comments</a>"
+  },
+  {
+    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "link": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+    "source": "Hacker News",
+    "published": "2026-06-02T13:53:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48370291\">Comments</a>"
+  },
+  {
+    "title": "A walking tour of surveillance infrastructure in Seattle",
+    "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "source": "Hacker News",
+    "published": "2026-06-02T13:24:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48369980\">Comments</a>"
+  },
+  {
     "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
     "link": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
     "source": "Hacker News",
@@ -56,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48367904\">Comments</a>"
   },
   {
+    "title": "Show HN: Eyeball",
+    "link": "https://eyeball.rory.codes/",
+    "source": "Hacker News",
+    "published": "2026-06-02T09:04:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48367723\">Comments</a>"
+  },
+  {
     "title": "macOS needs its grid back",
     "link": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
     "source": "Hacker News",
     "published": "2026-06-02T01:28:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48364800\">Comments</a>"
-  },
-  {
-    "title": "How is Groq raising more money?",
-    "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-    "source": "Hacker News",
-    "published": "2026-06-02T01:05:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48364620\">Comments</a>"
   },
   {
     "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
@@ -80,46 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48364055\">Comments</a>"
   },
   {
-    "title": "Chipotlai Max",
-    "link": "https://github.com/cyberpapiii/chipotlai-max",
-    "source": "Hacker News",
-    "published": "2026-06-01T23:06:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48363765\">Comments</a>"
-  },
-  {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "source": "Hacker News",
-    "published": "2026-06-01T21:50:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48363132\">Comments</a>"
-  },
-  {
-    "title": "Debug Project",
-    "link": "https://debug.com/",
-    "source": "Hacker News",
-    "published": "2026-06-01T20:40:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48362347\">Comments</a>"
-  },
-  {
-    "title": "Should you normalize RGB values by 255 or 256?",
-    "link": "https://30fps.net/pages/255-vs-256-division/",
-    "source": "Hacker News",
-    "published": "2026-06-01T17:37:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48360054\">Comments</a>"
-  },
-  {
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "source": "Hacker News",
-    "published": "2026-06-01T16:41:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48359232\">Comments</a>"
-  },
-  {
     "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
     "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
     "source": "Hacker News",
@@ -128,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48359102\">Comments</a>"
   },
   {
-    "title": "CS336: Language Modeling from Scratch",
-    "link": "https://cs336.stanford.edu/",
+    "title": "Why Custom Attributes in .NET Give Me Nightmares",
+    "link": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
     "source": "Hacker News",
-    "published": "2026-06-01T14:10:32+00:00",
+    "published": "2026-05-31T06:16:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48357075\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48343435\">Comments</a>"
   },
   {
-    "title": "Muxcard, a dyi credit card size computer",
-    "link": "https://github.com/krauseler/muxcard",
+    "title": "PCMFlowG722 wideband (HD voice) codec for ESP32",
+    "link": "https://github.com/tanakamasayuki/PCMFlowG722",
     "source": "Hacker News",
-    "published": "2026-05-31T01:59:06+00:00",
+    "published": "2026-05-30T15:19:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48342399\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48337190\">Comments</a>"
   },
   {
     "title": "Webcam head tracking, webcam to control in\u2011game FOV",
@@ -158,5 +150,13 @@
     "published": "2026-05-30T11:18:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48335022\">Comments</a>"
+  },
+  {
+    "title": "Reviving Teletext for Ham Radio",
+    "link": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
+    "source": "Hacker News",
+    "published": "2026-05-29T16:41:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48325668\">Comments</a>"
   }
 ]
