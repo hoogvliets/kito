@@ -1,19 +1,35 @@
 [
   {
+    "title": "The Frame Problem",
+    "link": "https://plato.stanford.edu/entries/frame-problem/",
+    "source": "Hacker News",
+    "published": "2026-06-01T23:25:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48363903\">Comments</a>"
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "source": "Hacker News",
+    "published": "2026-06-01T21:50:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48363132\">Comments</a>"
+  },
+  {
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "source": "Hacker News",
+    "published": "2026-06-01T20:55:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48362515\">Comments</a>"
+  },
+  {
     "title": "Debug Project",
     "link": "https://debug.com/",
     "source": "Hacker News",
     "published": "2026-06-01T20:40:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48362347\">Comments</a>"
-  },
-  {
-    "title": "GitHub and the crime against software",
-    "link": "https://eblog.fly.dev/githubbad.html",
-    "source": "Hacker News",
-    "published": "2026-06-01T18:54:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48361064\">Comments</a>"
   },
   {
     "title": "GrapheneOS Speech Services version 2 released",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48359102\">Comments</a>"
   },
   {
-    "title": "Florida sues OpenAI and Sam Altman over AI risks",
-    "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-    "source": "Hacker News",
-    "published": "2026-06-01T16:02:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48358667\">Comments</a>"
-  },
-  {
     "title": "Anthropic confidentially submits draft S-1 to the SEC",
     "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
     "source": "Hacker News",
@@ -80,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48357725\">Comments</a>"
   },
   {
+    "title": "Ask HN: Who wants to be hired? (June 2026)",
+    "link": "https://news.ycombinator.com/item?id=48357724",
+    "source": "Hacker News",
+    "published": "2026-06-01T15:00:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48357724\">Comments</a>"
+  },
+  {
     "title": "CS336: Language Modeling from Scratch",
     "link": "https://cs336.stanford.edu/",
     "source": "Hacker News",
@@ -96,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48356603\">Comments</a>"
   },
   {
-    "title": "Flipper Zero Zig Template",
-    "link": "https://github.com/NishantJoshi00/flipper-template",
+    "title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
+    "link": "https://news.ycombinator.com/item?id=48356312",
     "source": "Hacker News",
-    "published": "2026-06-01T13:20:54+00:00",
+    "published": "2026-06-01T13:05:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356490\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356312\">Comments</a>"
   },
   {
     "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
@@ -110,14 +126,6 @@
     "published": "2026-06-01T12:04:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48355720\">Comments</a>"
-  },
-  {
-    "title": "A 10 year old Xeon is all you need",
-    "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "source": "Hacker News",
-    "published": "2026-06-01T06:38:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48353348\">Comments</a>"
   },
   {
     "title": "Nvidia RTX Spark",
@@ -134,14 +142,6 @@
     "published": "2026-05-30T17:50:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48338891\">Comments</a>"
-  },
-  {
-    "title": "I missed Network integrated tools on Windows so I built a Linux equivalent",
-    "link": "https://github.com/thongor77/nmlinux",
-    "source": "Hacker News",
-    "published": "2026-05-30T16:40:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48338145\">Comments</a>"
   },
   {
     "title": "I made my phone slow on purpose",
