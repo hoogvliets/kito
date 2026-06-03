@@ -1,11 +1,51 @@
 [
   {
+    "title": "LLMs are not the black box you were promised",
+    "link": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+    "source": "Hacker News",
+    "published": "2026-06-02T23:27:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377631\">Comments</a>"
+  },
+  {
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "link": "https://github.com/c0dejedi/nbd-vram",
+    "source": "Hacker News",
+    "published": "2026-06-02T22:55:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377404\">Comments</a>"
+  },
+  {
+    "title": "4K years ago, Mohenjo-daro grew more equal over time",
+    "link": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+    "source": "Hacker News",
+    "published": "2026-06-02T22:22:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377140\">Comments</a>"
+  },
+  {
+    "title": "Gleam v1.17.0",
+    "link": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+    "source": "Hacker News",
+    "published": "2026-06-02T22:16:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377080\">Comments</a>"
+  },
+  {
     "title": "CT scans of BYD car parts",
     "link": "https://www.lumafield.com/scan-of-the-month/byd",
     "source": "Hacker News",
     "published": "2026-06-02T20:30:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48375824\">Comments</a>"
+  },
+  {
+    "title": "Now AI agents need what RSS does",
+    "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+    "source": "Hacker News",
+    "published": "2026-06-02T20:19:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375673\">Comments</a>"
   },
   {
     "title": "My thoughts after using Clojure for about a month",
@@ -48,52 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48374685\">Comments</a>"
   },
   {
-    "title": "Launch HN: Rudus (YC P26) \u2013 AI for concrete contractors",
-    "link": "https://news.ycombinator.com/item?id=48374528",
-    "source": "Hacker News",
-    "published": "2026-06-02T18:51:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374528\">Comments</a>"
-  },
-  {
     "title": "MAI-Code-1-Flash",
     "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
     "source": "Hacker News",
     "published": "2026-06-02T18:47:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48374466\">Comments</a>"
-  },
-  {
-    "title": "MAI-Thinking-1",
-    "link": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-    "source": "Hacker News",
-    "published": "2026-06-02T18:39:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374362\">Comments</a>"
-  },
-  {
-    "title": "GitHub Copilot App",
-    "link": "https://github.com/features/preview/github-app",
-    "source": "Hacker News",
-    "published": "2026-06-02T17:58:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373764\">Comments</a>"
-  },
-  {
-    "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-    "link": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-    "source": "Hacker News",
-    "published": "2026-06-02T17:52:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373675\">Comments</a>"
-  },
-  {
-    "title": "QBE \u2013 Compiler Backend \u2013 1.3",
-    "link": "https://c9x.me/compile/release/qbe-1.3.html",
-    "source": "Hacker News",
-    "published": "2026-06-02T17:37:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373442\">Comments</a>"
   },
   {
     "title": "Trump signs downsized AI order after weeks of reversals",
@@ -110,14 +110,6 @@
     "published": "2026-06-02T16:13:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48372239\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
-    "link": "https://github.com/shiihaa-app/shiihaa-breath-detection",
-    "source": "Hacker News",
-    "published": "2026-06-02T16:02:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48372036\">Comments</a>"
   },
   {
     "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48367907\">Comments</a>"
   },
   {
-    "title": "Review of the MoErgo Glove80 Keyboard",
-    "link": "https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/",
+    "title": "California\u2019s university system went all in on AI, now it's tearing itself apart",
+    "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
     "source": "Hacker News",
-    "published": "2026-05-31T22:22:49+00:00",
+    "published": "2026-06-02T07:46:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48350311\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48367223\">Comments</a>"
   },
   {
     "title": "Multicore suppport for DOS is real \u2013 partly",
@@ -158,5 +150,13 @@
     "published": "2026-05-31T08:06:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48343901\">Comments</a>"
+  },
+  {
+    "title": "MP3s from Google Drive in Music Assistant on Home Assistant",
+    "link": "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/",
+    "source": "Hacker News",
+    "published": "2026-05-30T15:01:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48337000\">Comments</a>"
   }
 ]
