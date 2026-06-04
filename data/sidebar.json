@@ -1,19 +1,35 @@
 [
   {
+    "title": "The \u00dc Programming Language",
+    "link": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+    "source": "Hacker News",
+    "published": "2026-06-04T00:00:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48391838\">Comments</a>"
+  },
+  {
+    "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+    "link": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+    "source": "Hacker News",
+    "published": "2026-06-03T21:55:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48390688\">Comments</a>"
+  },
+  {
+    "title": "A Mathematician's Lament \u2013 Paul Lockhart (2002) [pdf]",
+    "link": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+    "source": "Hacker News",
+    "published": "2026-06-03T21:32:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48390400\">Comments</a>"
+  },
+  {
     "title": "Ableton Extensions SDK",
     "link": "https://www.ableton.com/en/live/extensions/",
     "source": "Hacker News",
     "published": "2026-06-03T20:39:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48389681\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-    "link": "https://github.com/zaydmulani09/mnemo",
-    "source": "Hacker News",
-    "published": "2026-06-03T20:32:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48389586\">Comments</a>"
   },
   {
     "title": "A Man Who Reads Books for a Living (One Every Two Days)",
@@ -24,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48389284\">Comments</a>"
   },
   {
-    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-    "link": "https://brume.aftertone.co/",
+    "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+    "link": "https://github.com/tastyeffectco/sandboxes",
     "source": "Hacker News",
-    "published": "2026-06-03T19:41:21+00:00",
+    "published": "2026-06-03T19:43:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48388870\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48388909\">Comments</a>"
   },
   {
     "title": "Elixir v1.20: Now a gradually typed language",
@@ -40,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48388324\">Comments</a>"
   },
   {
-    "title": "Rootshell: A new E2EE email service hosted in Iceland",
-    "link": "https://rootshell.is",
+    "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
+    "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
     "source": "Hacker News",
-    "published": "2026-06-03T18:58:05+00:00",
+    "published": "2026-06-03T17:51:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48388253\">Comments</a>"
-  },
-  {
-    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-    "link": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-    "source": "Hacker News",
-    "published": "2026-06-03T17:50:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48387251\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48387270\">Comments</a>"
   },
   {
     "title": "Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
@@ -70,22 +78,6 @@
     "published": "2026-06-03T17:12:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48386725\">Comments</a>"
-  },
-  {
-    "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-    "link": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
-    "source": "Hacker News",
-    "published": "2026-06-03T17:01:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48386588\">Comments</a>"
-  },
-  {
-    "title": "MacBook Neo is so popular that Apple doubled production",
-    "link": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "source": "Hacker News",
-    "published": "2026-06-03T16:33:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48386238\">Comments</a>"
   },
   {
     "title": "ESP32-S31",
@@ -128,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48384355\">Comments</a>"
   },
   {
-    "title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-    "source": "Hacker News",
-    "published": "2026-06-03T12:42:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48383220\">Comments</a>"
-  },
-  {
     "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
     "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
     "source": "Hacker News",
@@ -144,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48383056\">Comments</a>"
   },
   {
-    "title": "Hacking your PC using your speaker without ever touching it",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
     "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
     "source": "Hacker News",
     "published": "2026-06-03T10:53:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48382310\">Comments</a>"
+  },
+  {
+    "title": "Meteor Explodes over Massachusetts",
+    "link": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+    "source": "Hacker News",
+    "published": "2026-06-01T20:31:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48362255\">Comments</a>"
   },
   {
     "title": "Stop Killing Games",
@@ -158,5 +150,13 @@
     "published": "2026-06-01T13:16:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48356449\">Comments</a>"
+  },
+  {
+    "title": "Patching my guitar amp's firmware",
+    "link": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "source": "Hacker News",
+    "published": "2026-05-31T20:26:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48349404\">Comments</a>"
   }
 ]
