@@ -1,5 +1,53 @@
 [
   {
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "link": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "source": "Hacker News",
+    "published": "2026-06-05T03:14:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407499\">Comments</a>"
+  },
+  {
+    "title": "The Causes of Long Covid",
+    "link": "https://www.science.org/content/blog-post/causes-long-covid",
+    "source": "Hacker News",
+    "published": "2026-06-05T03:04:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407451\">Comments</a>"
+  },
+  {
+    "title": "What happens if Japan takes in zero immigrants?",
+    "link": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero",
+    "source": "Hacker News",
+    "published": "2026-06-05T01:56:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407068\">Comments</a>"
+  },
+  {
+    "title": "Meta enables ADB on deprecated Portal devices [video]",
+    "link": "https://fb.watch/HxPu0fSyeH/",
+    "source": "Hacker News",
+    "published": "2026-06-05T00:44:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406640\">Comments</a>"
+  },
+  {
+    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+    "link": "https://github.com/alibaba/open-code-review",
+    "source": "Hacker News",
+    "published": "2026-06-05T00:04:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406358\">Comments</a>"
+  },
+  {
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "source": "Hacker News",
+    "published": "2026-06-04T23:45:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406198\">Comments</a>"
+  },
+  {
     "title": "Do transformers need three projections? Systematic study of QKV variants",
     "link": "https://arxiv.org/abs/2606.04032",
     "source": "Hacker News",
@@ -8,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>"
   },
   {
-    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-    "link": "https://arxiv.org/abs/2604.24881",
+    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
     "source": "Hacker News",
-    "published": "2026-06-04T23:01:40+00:00",
+    "published": "2026-06-04T22:48:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405841\">Comments</a>"
-  },
-  {
-    "title": "IPv6 zones in URLs are a mistake",
-    "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "source": "Hacker News",
-    "published": "2026-06-04T21:42:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405718\">Comments</a>"
   },
   {
     "title": "Queen bees emerge from special wax chambers",
@@ -30,14 +70,6 @@
     "published": "2026-06-04T21:31:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48404905\">Comments</a>"
-  },
-  {
-    "title": "Show HN: FFmpeg WebCLI \u2013 Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-    "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-    "source": "Hacker News",
-    "published": "2026-06-04T20:32:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404224\">Comments</a>"
   },
   {
     "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
@@ -54,30 +86,6 @@
     "published": "2026-06-04T19:52:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48403753\">Comments</a>"
-  },
-  {
-    "title": "Meta's ships facial recognition on smart glasses",
-    "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "source": "Hacker News",
-    "published": "2026-06-04T19:36:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403588\">Comments</a>"
-  },
-  {
-    "title": "WSL 2 is getting faster Windows file system access",
-    "link": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-    "source": "Hacker News",
-    "published": "2026-06-04T19:21:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403377\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hitoku Draft \u2013 Context aware local assistant",
-    "link": "https://hitoku.me/draft/",
-    "source": "Hacker News",
-    "published": "2026-06-04T17:48:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402082\">Comments</a>"
   },
   {
     "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
@@ -112,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48398055\">Comments</a>"
   },
   {
-    "title": "Ian's Secure Shoelace Knot",
-    "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "I'm skeptical about efforts to revolutionize schooling",
+    "link": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
     "source": "Hacker News",
-    "published": "2026-06-04T11:17:34+00:00",
+    "published": "2026-06-02T20:43:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48397028\">Comments</a>"
-  },
-  {
-    "title": "External Clock Generation on RTX 50 Series",
-    "link": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-    "source": "Hacker News",
-    "published": "2026-06-03T03:35:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379580\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48376008\">Comments</a>"
   },
   {
     "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
@@ -136,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48375445\">Comments</a>"
   },
   {
-    "title": "JLink JTAG Access on the Pinecil",
-    "link": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+    "title": "I made a kernel 2.2x faster. It made my training loop 3x slower",
+    "link": "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
     "source": "Hacker News",
-    "published": "2026-06-02T19:30:44+00:00",
+    "published": "2026-06-02T17:26:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375064\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373266\">Comments</a>"
+  },
+  {
+    "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+    "link": "https://github.com/tarpediem/zenvision-linux",
+    "source": "Hacker News",
+    "published": "2026-06-02T10:29:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48368338\">Comments</a>"
   },
   {
     "title": "Samurai City",
@@ -150,13 +158,5 @@
     "published": "2026-06-02T04:32:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48366090\">Comments</a>"
-  },
-  {
-    "title": "Making Debian or Fedora persistent live images",
-    "link": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-    "source": "Hacker News",
-    "published": "2026-06-01T18:02:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48360414\">Comments</a>"
   }
 ]
