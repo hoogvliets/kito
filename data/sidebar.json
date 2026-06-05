@@ -1,5 +1,37 @@
 [
   {
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+    "link": "https://nango.dev/careers",
+    "source": "Hacker News",
+    "published": "2026-06-05T12:00:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48411227\">Comments</a>"
+  },
+  {
+    "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
+    "link": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+    "source": "Hacker News",
+    "published": "2026-06-05T11:56:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48411190\">Comments</a>"
+  },
+  {
+    "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+    "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+    "source": "Hacker News",
+    "published": "2026-06-05T10:44:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48410602\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "link": "https://github.com/zdk/lowfat",
+    "source": "Hacker News",
+    "published": "2026-06-05T09:10:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409955\">Comments</a>"
+  },
+  {
     "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
     "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
     "source": "Hacker News",
@@ -32,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48409191\">Comments</a>"
   },
   {
-    "title": "Lee Kuan Yew's Singapore Story",
-    "link": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-    "source": "Hacker News",
-    "published": "2026-06-05T07:23:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409173\">Comments</a>"
-  },
-  {
-    "title": "There's no escaping it: an exploration of ANSI codes",
-    "link": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-    "source": "Hacker News",
-    "published": "2026-06-05T07:02:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408995\">Comments</a>"
-  },
-  {
     "title": "Fine-tuning an LLM to write docs like it's 1995",
     "link": "https://passo.uno/fine-tuning-docs-llm/",
     "source": "Hacker News",
@@ -70,14 +86,6 @@
     "published": "2026-06-05T04:37:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48408016\">Comments</a>"
-  },
-  {
-    "title": "Linear Cosine Palettes(2025)",
-    "link": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-    "source": "Hacker News",
-    "published": "2026-06-05T03:40:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407653\">Comments</a>"
   },
   {
     "title": "Meta enables ADB on deprecated Portal devices [video]",
@@ -120,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48402116\">Comments</a>"
   },
   {
+    "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+    "link": "https://redis.io/blog/announcing-redis-8-8/",
+    "source": "Hacker News",
+    "published": "2026-06-03T10:05:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382047\">Comments</a>"
+  },
+  {
     "title": "databow: a Rust CLI to query any database with an ADBC driver",
     "link": "https://columnar.tech/blog/introducing-databow//",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48376008\">Comments</a>"
   },
   {
-    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-    "link": "https://tiki.li/blog/blqsort",
+    "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
+    "link": "https://github.com/prostomarkeloff/ohbin",
     "source": "Hacker News",
-    "published": "2026-06-02T20:00:54+00:00",
+    "published": "2026-06-02T12:02:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375445\">Comments</a>"
-  },
-  {
-    "title": "Watching a Z80 from an RP2350",
-    "link": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-    "source": "Hacker News",
-    "published": "2026-06-02T18:18:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374049\">Comments</a>"
-  },
-  {
-    "title": "WiFi Time",
-    "link": "https://mitxela.com/projects/wifi_time",
-    "source": "Hacker News",
-    "published": "2026-06-02T14:30:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48370775\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48369105\">Comments</a>"
   }
 ]
