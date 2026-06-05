@@ -1,35 +1,59 @@
 [
   {
+    "title": "Stop Using Conventional Commits",
+    "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "source": "Hacker News",
+    "published": "2026-06-05T15:39:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48414027\">Comments</a>"
+  },
+  {
+    "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+    "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "source": "Hacker News",
+    "published": "2026-06-05T15:00:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413464\">Comments</a>"
+  },
+  {
+    "title": "New York just passed a one-year temporary ban on data centers",
+    "link": "https://scienceaim.com/new-york-just-passed-a-one-year-temporary-ban-on-data-centers/",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:49:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413303\">Comments</a>"
+  },
+  {
+    "title": "Dutch gov't will only allow European company to operate DigiD platform",
+    "link": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:48:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413295\">Comments</a>"
+  },
+  {
+    "title": "Technical Interviews Reject the Wrong Engineers",
+    "link": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:39:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413183\">Comments</a>"
+  },
+  {
+    "title": "I tested every IP KVM in my Homelab",
+    "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:30:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413072\">Comments</a>"
+  },
+  {
     "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
     "link": "https://nango.dev/careers",
     "source": "Hacker News",
     "published": "2026-06-05T12:00:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48411227\">Comments</a>"
-  },
-  {
-    "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-    "link": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-    "source": "Hacker News",
-    "published": "2026-06-05T11:56:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48411190\">Comments</a>"
-  },
-  {
-    "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-    "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-    "source": "Hacker News",
-    "published": "2026-06-05T10:44:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48410602\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
-    "link": "https://github.com/zdk/lowfat",
-    "source": "Hacker News",
-    "published": "2026-06-05T09:10:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409955\">Comments</a>"
   },
   {
     "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
@@ -56,12 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48409306\">Comments</a>"
   },
   {
-    "title": "Changing How We Develop Ladybird",
+    "title": "Changing how we develop Ladybird",
     "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "source": "Hacker News",
     "published": "2026-06-05T07:26:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48409191\">Comments</a>"
+  },
+  {
+    "title": "Lee Kuan Yew's Singapore Story (2023)",
+    "link": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
+    "source": "Hacker News",
+    "published": "2026-06-05T07:23:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409173\">Comments</a>"
   },
   {
     "title": "Fine-tuning an LLM to write docs like it's 1995",
@@ -72,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48408442\">Comments</a>"
   },
   {
-    "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-    "link": "https://isupmap.com/",
-    "source": "Hacker News",
-    "published": "2026-06-05T04:44:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408067\">Comments</a>"
-  },
-  {
     "title": "C++: The Documentary",
     "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
     "source": "Hacker News",
     "published": "2026-06-05T04:37:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48408016\">Comments</a>"
+  },
+  {
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "link": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "source": "Hacker News",
+    "published": "2026-06-05T03:14:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407499\">Comments</a>"
   },
   {
     "title": "Meta enables ADB on deprecated Portal devices [video]",
@@ -96,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48406640\">Comments</a>"
   },
   {
-    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-    "link": "https://github.com/alibaba/open-code-review",
+    "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+    "link": "https://mouseless.click",
     "source": "Hacker News",
-    "published": "2026-06-05T00:04:29+00:00",
+    "published": "2026-06-03T13:22:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406358\">Comments</a>"
-  },
-  {
-    "title": "Do transformers need three projections? Systematic study of QKV variants",
-    "link": "https://arxiv.org/abs/2606.04032",
-    "source": "Hacker News",
-    "published": "2026-06-04T23:11:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>"
-  },
-  {
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "link": "https://github.com/anthropics/defending-code-reference-harness",
-    "source": "Hacker News",
-    "published": "2026-06-04T20:11:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403980\">Comments</a>"
-  },
-  {
-    "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-    "link": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-    "source": "Hacker News",
-    "published": "2026-06-04T17:51:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402116\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48383667\">Comments</a>"
   },
   {
     "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48382047\">Comments</a>"
   },
   {
+    "title": "Cooldown Support for Ruby Bundler",
+    "link": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "source": "Hacker News",
+    "published": "2026-06-03T05:15:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48380174\">Comments</a>"
+  },
+  {
     "title": "databow: a Rust CLI to query any database with an ADBC driver",
     "link": "https://columnar.tech/blog/introducing-databow//",
     "source": "Hacker News",
     "published": "2026-06-02T23:11:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48377510\">Comments</a>"
-  },
-  {
-    "title": "I'm skeptical about efforts to revolutionize schooling",
-    "link": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-    "source": "Hacker News",
-    "published": "2026-06-02T20:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48376008\">Comments</a>"
-  },
-  {
-    "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
-    "link": "https://github.com/prostomarkeloff/ohbin",
-    "source": "Hacker News",
-    "published": "2026-06-02T12:02:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48369105\">Comments</a>"
   }
 ]
