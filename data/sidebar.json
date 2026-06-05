@@ -1,11 +1,35 @@
 [
   {
-    "title": "NSA using Anthropic's Mythos for cyber attacks",
-    "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "link": "https://arxiv.org/abs/2606.04032",
     "source": "Hacker News",
-    "published": "2026-06-04T20:33:02+00:00",
+    "published": "2026-06-04T23:11:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404233\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>"
+  },
+  {
+    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "link": "https://arxiv.org/abs/2604.24881",
+    "source": "Hacker News",
+    "published": "2026-06-04T23:01:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405841\">Comments</a>"
+  },
+  {
+    "title": "IPv6 zones in URLs are a mistake",
+    "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "source": "Hacker News",
+    "published": "2026-06-04T21:42:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405019\">Comments</a>"
+  },
+  {
+    "title": "Queen bees emerge from special wax chambers",
+    "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "source": "Hacker News",
+    "published": "2026-06-04T21:31:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404905\">Comments</a>"
   },
   {
     "title": "Show HN: FFmpeg WebCLI \u2013 Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
@@ -40,12 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48403588\">Comments</a>"
   },
   {
-    "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-    "link": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+    "title": "WSL 2 is getting faster Windows file system access",
+    "link": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
     "source": "Hacker News",
-    "published": "2026-06-04T17:00:37+00:00",
+    "published": "2026-06-04T19:21:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48401433\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403377\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hitoku Draft \u2013 Context aware local assistant",
+    "link": "https://hitoku.me/draft/",
+    "source": "Hacker News",
+    "published": "2026-06-04T17:48:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402082\">Comments</a>"
   },
   {
     "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
@@ -72,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48399974\">Comments</a>"
   },
   {
-    "title": "AI, Ashby Engineering, and the future",
-    "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-    "source": "Hacker News",
-    "published": "2026-06-04T14:48:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48399528\">Comments</a>"
-  },
-  {
     "title": "VoidZero Is Joining Cloudflare",
     "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "source": "Hacker News",
@@ -96,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48397028\">Comments</a>"
   },
   {
-    "title": "Gaussian Point Splatting",
-    "link": "https://momentsingraphics.de/Siggraph2026.html",
+    "title": "External Clock Generation on RTX 50 Series",
+    "link": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
     "source": "Hacker News",
-    "published": "2026-06-04T10:48:13+00:00",
+    "published": "2026-06-03T03:35:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48396792\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379580\">Comments</a>"
   },
   {
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "link": "https://tiki.li/blog/blqsort",
     "source": "Hacker News",
-    "published": "2026-06-04T00:18:02+00:00",
+    "published": "2026-06-02T20:00:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48392004\">Comments</a>"
-  },
-  {
-    "title": "They\u2019re made out of weights",
-    "link": "https://maxleiter.com/blog/weights",
-    "source": "Hacker News",
-    "published": "2026-06-03T23:37:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48391611\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375445\">Comments</a>"
   },
   {
     "title": "JLink JTAG Access on the Pinecil",
@@ -126,14 +142,6 @@
     "published": "2026-06-02T19:30:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48375064\">Comments</a>"
-  },
-  {
-    "title": "U.S. Army Corps of Engineers Bay Model",
-    "link": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-    "source": "Hacker News",
-    "published": "2026-06-02T17:50:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373642\">Comments</a>"
   },
   {
     "title": "Samurai City",
@@ -150,13 +158,5 @@
     "published": "2026-06-01T18:02:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48360414\">Comments</a>"
-  },
-  {
-    "title": "Sum-product, unit distances, and number fields",
-    "link": "https://www.erdosproblems.com/forum/thread/blog:6",
-    "source": "Hacker News",
-    "published": "2026-06-01T05:54:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48353098\">Comments</a>"
   }
 ]
