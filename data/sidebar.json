@@ -1,5 +1,37 @@
 [
   {
+    "title": "Moving beyond fork() + exec()",
+    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "source": "Hacker News",
+    "published": "2026-06-06T14:34:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425528\">Comments</a>"
+  },
+  {
+    "title": "Benchmarks in Leipzig",
+    "link": "https://arxiv.org/abs/2606.05818",
+    "source": "Hacker News",
+    "published": "2026-06-06T14:00:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425247\">Comments</a>"
+  },
+  {
+    "title": "US House lawmakers release draft bill to prohibit state AI rules",
+    "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "source": "Hacker News",
+    "published": "2026-06-06T13:40:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425031\">Comments</a>"
+  },
+  {
+    "title": "The new bibliomaniacs",
+    "link": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+    "source": "Hacker News",
+    "published": "2026-06-06T12:03:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48424125\">Comments</a>"
+  },
+  {
     "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
     "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
     "source": "Hacker News",
@@ -8,60 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48424103\">Comments</a>"
   },
   {
-    "title": "There's still no point in gigabit broadband",
-    "link": "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "link": "https://pokeemerald.com/",
     "source": "Hacker News",
-    "published": "2026-06-06T12:00:06+00:00",
+    "published": "2026-06-06T11:12:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48424098\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423762\">Comments</a>"
   },
   {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "title": "Azure Linux Desktop",
+    "link": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
     "source": "Hacker News",
-    "published": "2026-06-06T11:46:15+00:00",
+    "published": "2026-06-06T07:42:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423990\">Comments</a>"
-  },
-  {
-    "title": "Introduction \u2013 Rust for Python Programmers",
-    "link": "https://microsoft.github.io/RustTraining/python-book/",
-    "source": "Hacker News",
-    "published": "2026-06-06T10:52:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423615\">Comments</a>"
-  },
-  {
-    "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
-    "link": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
-    "source": "Hacker News",
-    "published": "2026-06-06T10:42:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423541\">Comments</a>"
-  },
-  {
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-    "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "source": "Hacker News",
-    "published": "2026-06-06T09:17:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422993\">Comments</a>"
-  },
-  {
-    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-    "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-    "source": "Hacker News",
-    "published": "2026-06-06T08:43:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422798\">Comments</a>"
-  },
-  {
-    "title": "Zig Zen Update",
-    "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-    "source": "Hacker News",
-    "published": "2026-06-06T08:38:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422769\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422451\">Comments</a>"
   },
   {
     "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
@@ -88,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48420148\">Comments</a>"
   },
   {
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+    "link": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
     "source": "Hacker News",
-    "published": "2026-06-05T16:18:48+00:00",
+    "published": "2026-06-05T20:52:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48414653\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48418125\">Comments</a>"
   },
   {
     "title": "pg_durable: Microsoft open sources in-database durable execution",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48389360\">Comments</a>"
   },
   {
-    "title": "What 100k concurrent sandboxes has taught us so far",
-    "link": "https://www.computesdk.com/blog/scale-invitational-update/",
-    "source": "Hacker News",
-    "published": "2026-06-03T16:12:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48385990\">Comments</a>"
-  },
-  {
     "title": "Social Cache Busting",
     "link": "https://www.autodidacts.io/social-cache-busting/",
     "source": "Hacker News",
     "published": "2026-06-02T13:15:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48369864\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Soft Body Jiggle Physics",
+    "link": "https://github.com/xloveee/jiggle-physics",
+    "source": "Hacker News",
+    "published": "2026-06-01T20:20:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48362115\">Comments</a>"
+  },
+  {
+    "title": "Building Rust Procedural Macros from the Grounds Up",
+    "link": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "source": "Hacker News",
+    "published": "2026-05-31T19:28:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48348876\">Comments</a>"
   }
 ]
