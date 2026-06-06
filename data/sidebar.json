@@ -1,21 +1,5 @@
 [
   {
-    "title": "Hacker News, Sans AI",
-    "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-    "source": "Hacker News",
-    "published": "2026-06-05T20:38:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48417916\">Comments</a>"
-  },
-  {
-    "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
-    "link": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
-    "source": "Hacker News",
-    "published": "2026-06-05T19:15:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48416936\">Comments</a>"
-  },
-  {
     "title": "Three of our worst VC stories",
     "link": "https://twitter.com/eastdakota/status/2062860530360959273",
     "source": "Hacker News",
@@ -32,20 +16,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48416635\">Comments</a>"
   },
   {
+    "title": "Aging and Eye Problems",
+    "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
+    "source": "Hacker News",
+    "published": "2026-06-05T18:30:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48416392\">Comments</a>"
+  },
+  {
     "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
     "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
     "source": "Hacker News",
     "published": "2026-06-05T16:55:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48415217\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
-    "link": "https://news.ycombinator.com/item?id=48414869",
-    "source": "Hacker News",
-    "published": "2026-06-05T16:33:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48414869\">Comments</a>"
   },
   {
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
@@ -88,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48413464\">Comments</a>"
   },
   {
+    "title": "India's surprise baby bust",
+    "link": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:44:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413254\">Comments</a>"
+  },
+  {
     "title": "I tested every IP KVM in my Homelab",
     "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
     "source": "Hacker News",
@@ -96,12 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48413072\">Comments</a>"
   },
   {
+    "title": "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
+    "link": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+    "source": "Hacker News",
+    "published": "2026-06-05T12:56:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48411799\">Comments</a>"
+  },
+  {
     "title": "Did Claude increase bugs in rsync?",
     "link": "https://alexispurslane.github.io/rsync-analysis/",
     "source": "Hacker News",
     "published": "2026-06-05T12:43:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48411635\">Comments</a>"
+  },
+  {
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "link": "https://arxiv.org/abs/2606.03673",
+    "source": "Hacker News",
+    "published": "2026-06-05T08:32:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409664\">Comments</a>"
   },
   {
     "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
@@ -118,14 +126,6 @@
     "published": "2026-06-04T18:31:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48402744\">Comments</a>"
-  },
-  {
-    "title": "Do the Hardest Thing",
-    "link": "https://justinjackson.ca/hard-thing",
-    "source": "Hacker News",
-    "published": "2026-06-04T16:07:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400653\">Comments</a>"
   },
   {
     "title": "My Agent Skill for Test-Driven Development",
