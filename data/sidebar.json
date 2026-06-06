@@ -1,5 +1,21 @@
 [
   {
+    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+    "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+    "source": "Hacker News",
+    "published": "2026-06-06T08:43:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422798\">Comments</a>"
+  },
+  {
+    "title": "Zig Zen Update",
+    "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+    "source": "Hacker News",
+    "published": "2026-06-06T08:38:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48422769\">Comments</a>"
+  },
+  {
     "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "source": "Hacker News",
@@ -46,14 +62,6 @@
     "published": "2026-06-05T23:13:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48419571\">Comments</a>"
-  },
-  {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "source": "Hacker News",
-    "published": "2026-06-05T16:55:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48415217\">Comments</a>"
   },
   {
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
@@ -112,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48398925\">Comments</a>"
   },
   {
+    "title": "We shrank our TimescaleDB chunks from 30 days to 7",
+    "link": "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5",
+    "source": "Hacker News",
+    "published": "2026-06-03T22:27:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48390993\">Comments</a>"
+  },
+  {
     "title": "How LLMs work",
     "link": "https://www.0xkato.xyz/how-llms-actually-work/",
     "source": "Hacker News",
     "published": "2026-06-03T20:15:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48389360\">Comments</a>"
-  },
-  {
-    "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
-    "link": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
-    "source": "Hacker News",
-    "published": "2026-06-03T13:29:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48383760\">Comments</a>"
   },
   {
     "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
@@ -142,14 +150,6 @@
     "published": "2026-06-03T07:17:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48380932\">Comments</a>"
-  },
-  {
-    "title": "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",
-    "link": "https://irfanali.org/blog/zcom",
-    "source": "Hacker News",
-    "published": "2026-06-02T18:12:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373954\">Comments</a>"
   },
   {
     "title": "Social Cache Busting",
