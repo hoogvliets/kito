@@ -1,19 +1,43 @@
 [
   {
-    "title": "Universal Memory Protocol \u2013 a shared format for agent memory",
-    "link": "https://universalmemoryprotocol.io/",
+    "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+    "link": "https://news.ycombinator.com/item?id=48430077",
     "source": "Hacker News",
-    "published": "2026-06-06T20:39:21+00:00",
+    "published": "2026-06-06T23:21:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428796\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430077\">Comments</a>"
   },
   {
-    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? \u2013 EE Times",
+    "title": "Show HN: Keybench \u2013 Scriptable, extensible performance tool for key value stores",
+    "link": "https://github.com/guycipher/keybench",
+    "source": "Hacker News",
+    "published": "2026-06-06T23:06:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48429957\">Comments</a>"
+  },
+  {
+    "title": "New U.S. college grads now have higher unemployment than the average worker",
+    "link": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "source": "Hacker News",
+    "published": "2026-06-06T20:35:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428763\">Comments</a>"
+  },
+  {
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
     "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
     "source": "Hacker News",
     "published": "2026-06-06T20:24:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48428647\">Comments</a>"
+  },
+  {
+    "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+    "link": "https://ataraxy-labs.github.io/sem/",
+    "source": "Hacker News",
+    "published": "2026-06-06T20:03:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428475\">Comments</a>"
   },
   {
     "title": "Home alone: Remote work, isolation, and mental health",
@@ -56,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48426202\">Comments</a>"
   },
   {
-    "title": "Police in England and Wales told to halt AI use in court statements",
-    "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-    "source": "Hacker News",
-    "published": "2026-06-06T15:35:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48426022\">Comments</a>"
-  },
-  {
     "title": "Zeroserve: A zero-config web server you can script with eBPF",
     "link": "https://su3.io/posts/introducing-zeroserve",
     "source": "Hacker News",
@@ -72,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48425723\">Comments</a>"
   },
   {
-    "title": "Running Python code in a sandbox with MicroPython and WASM",
-    "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "title": "Moving beyond fork() + exec()",
+    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
     "source": "Hacker News",
-    "published": "2026-06-06T14:15:32+00:00",
+    "published": "2026-06-06T14:34:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425347\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425528\">Comments</a>"
   },
   {
     "title": "Benchmarks in Leipzig",
@@ -96,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48424605\">Comments</a>"
   },
   {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "title": "The new bibliomaniacs",
+    "link": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
     "source": "Hacker News",
-    "published": "2026-06-06T11:46:15+00:00",
+    "published": "2026-06-06T12:03:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423990\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48424125\">Comments</a>"
   },
   {
     "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
@@ -112,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48423762\">Comments</a>"
   },
   {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
     "source": "Hacker News",
-    "published": "2026-06-06T04:38:36+00:00",
+    "published": "2026-06-05T20:06:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48421442\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48417490\">Comments</a>"
   },
   {
-    "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
-    "link": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering/",
     "source": "Hacker News",
-    "published": "2026-06-04T10:47:07+00:00",
+    "published": "2026-06-05T18:20:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48396783\">Comments</a>"
-  },
-  {
-    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
-    "link": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-    "source": "Hacker News",
-    "published": "2026-06-04T07:32:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48395370\">Comments</a>"
-  },
-  {
-    "title": "How LLMs work",
-    "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "source": "Hacker News",
-    "published": "2026-06-03T20:15:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48389360\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48416264\">Comments</a>"
   },
   {
     "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00e9 disk",
