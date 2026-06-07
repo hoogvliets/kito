@@ -1,5 +1,21 @@
 [
   {
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "link": "https://www.ioccc.org/2025/",
+    "source": "Hacker News",
+    "published": "2026-06-07T05:47:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48432199\">Comments</a>"
+  },
+  {
+    "title": "I design with Claude more than Figma now",
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "source": "Hacker News",
+    "published": "2026-06-07T05:04:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431981\">Comments</a>"
+  },
+  {
     "title": "Valve P2P networking broken for more than 2 months",
     "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
     "source": "Hacker News",
@@ -8,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48431461\">Comments</a>"
   },
   {
-    "title": "The Russian who invented semiconductors 25 years before the USA",
-    "link": "https://www.semidoped.com/p/til-the-man-who-invented-the-future",
-    "source": "Hacker News",
-    "published": "2026-06-07T03:00:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431367\">Comments</a>"
-  },
-  {
     "title": "Field of clones: How horse replicas came to dominate polo",
     "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
     "source": "Hacker News",
     "published": "2026-06-07T02:46:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48431286\">Comments</a>"
-  },
-  {
-    "title": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
-    "link": "https://github.com/las7/TakoVM",
-    "source": "Hacker News",
-    "published": "2026-06-07T02:42:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431257\">Comments</a>"
   },
   {
     "title": "How Liminalism Became the Defining Aesthetic of Our Time",
@@ -56,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48430923\">Comments</a>"
   },
   {
-    "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight \u2013 Radio World",
-    "link": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-    "source": "Hacker News",
-    "published": "2026-06-07T01:24:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430860\">Comments</a>"
-  },
-  {
     "title": "Public Domain Image Archive",
     "link": "https://pdimagearchive.org/",
     "source": "Hacker News",
@@ -72,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48430539\">Comments</a>"
   },
   {
-    "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
-    "link": "https://ataraxy-labs.github.io/sem/",
+    "title": "Human-Like Neural Nets by Catapulting",
+    "link": "https://gwern.net/llm-catapult",
     "source": "Hacker News",
-    "published": "2026-06-06T20:03:55+00:00",
+    "published": "2026-06-06T23:45:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428475\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430282\">Comments</a>"
   },
   {
     "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
@@ -120,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48424605\">Comments</a>"
   },
   {
-    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "source": "Hacker News",
-    "published": "2026-06-05T20:06:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48417490\">Comments</a>"
-  },
-  {
     "title": "Harness engineering: Leveraging Codex in an agent-first world",
     "link": "https://openai.com/index/harness-engineering/",
     "source": "Hacker News",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48415457\">Comments</a>"
   },
   {
+    "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
+    "link": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "source": "Hacker News",
+    "published": "2026-06-05T10:19:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48410427\">Comments</a>"
+  },
+  {
     "title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
     "link": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-06-04T03:12:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48393252\">Comments</a>"
+  },
+  {
+    "title": "My Software North Star",
+    "link": "https://kristoff.it/blog/north-star/",
+    "source": "Hacker News",
+    "published": "2026-06-03T20:16:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48389368\">Comments</a>"
   }
 ]
