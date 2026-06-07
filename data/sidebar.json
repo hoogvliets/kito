@@ -64,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48430539\">Comments</a>"
   },
   {
-    "title": "Human-Like Neural Nets by Catapulting",
-    "link": "https://gwern.net/llm-catapult",
-    "source": "Hacker News",
-    "published": "2026-06-06T23:45:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430282\">Comments</a>"
-  },
-  {
     "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
     "link": "https://ntsc.rs/",
     "source": "Hacker News",
     "published": "2026-06-06T19:17:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48428025\">Comments</a>"
-  },
-  {
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "source": "Hacker News",
-    "published": "2026-06-06T18:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48427643\">Comments</a>"
-  },
-  {
-    "title": "Zeroserve: A zero-config web server you can script with eBPF",
-    "link": "https://su3.io/posts/introducing-zeroserve",
-    "source": "Hacker News",
-    "published": "2026-06-06T14:59:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425723\">Comments</a>"
   },
   {
     "title": "Moving beyond fork() + exec()",
@@ -128,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48415457\">Comments</a>"
   },
   {
+    "title": "Win16 Memory Management",
+    "link": "http://www.os2museum.com/wp/win16-memory-management/",
+    "source": "Hacker News",
+    "published": "2026-06-05T11:16:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48410844\">Comments</a>"
+  },
+  {
     "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
     "link": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
     "source": "Hacker News",
@@ -142,6 +126,22 @@
     "published": "2026-06-04T22:58:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48405815\">Comments</a>"
+  },
+  {
+    "title": "Games Between Programs: The Ruliology of Competition",
+    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "source": "Hacker News",
+    "published": "2026-06-04T17:54:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402157\">Comments</a>"
+  },
+  {
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
+    "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "source": "Hacker News",
+    "published": "2026-06-04T15:29:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400151\">Comments</a>"
   },
   {
     "title": "Biohub releases a world model of protein biology",
