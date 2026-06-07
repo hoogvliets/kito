@@ -1,35 +1,75 @@
 [
   {
-    "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-    "link": "https://news.ycombinator.com/item?id=48430077",
+    "title": "Valve P2P networking broken for more than 2 months",
+    "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
     "source": "Hacker News",
-    "published": "2026-06-06T23:21:20+00:00",
+    "published": "2026-06-07T03:21:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430077\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431461\">Comments</a>"
   },
   {
-    "title": "Show HN: Keybench \u2013 Scriptable, extensible performance tool for key value stores",
-    "link": "https://github.com/guycipher/keybench",
+    "title": "The Russian who invented semiconductors 25 years before the USA",
+    "link": "https://www.semidoped.com/p/til-the-man-who-invented-the-future",
     "source": "Hacker News",
-    "published": "2026-06-06T23:06:06+00:00",
+    "published": "2026-06-07T03:00:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48429957\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431367\">Comments</a>"
   },
   {
-    "title": "New U.S. college grads now have higher unemployment than the average worker",
-    "link": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "title": "Field of clones: How horse replicas came to dominate polo",
+    "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
     "source": "Hacker News",
-    "published": "2026-06-06T20:35:40+00:00",
+    "published": "2026-06-07T02:46:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428763\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431286\">Comments</a>"
   },
   {
-    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-    "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "title": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
+    "link": "https://github.com/las7/TakoVM",
     "source": "Hacker News",
-    "published": "2026-06-06T20:24:29+00:00",
+    "published": "2026-06-07T02:42:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428647\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431257\">Comments</a>"
+  },
+  {
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "source": "Hacker News",
+    "published": "2026-06-07T02:12:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431085\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Oproxy \u2013 inspect and modify network traffic from the browser",
+    "link": "https://github.com/sauravrao637/oproxy",
+    "source": "Hacker News",
+    "published": "2026-06-07T02:11:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48431079\">Comments</a>"
+  },
+  {
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "link": "https://arxiv.org/abs/2601.14470",
+    "source": "Hacker News",
+    "published": "2026-06-07T01:37:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430923\">Comments</a>"
+  },
+  {
+    "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight \u2013 Radio World",
+    "link": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+    "source": "Hacker News",
+    "published": "2026-06-07T01:24:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430860\">Comments</a>"
+  },
+  {
+    "title": "Public Domain Image Archive",
+    "link": "https://pdimagearchive.org/",
+    "source": "Hacker News",
+    "published": "2026-06-07T00:22:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430539\">Comments</a>"
   },
   {
     "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
@@ -38,14 +78,6 @@
     "published": "2026-06-06T20:03:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48428475\">Comments</a>"
-  },
-  {
-    "title": "Home alone: Remote work, isolation, and mental health",
-    "link": "https://www.science.org/doi/10.1126/science.aec7671",
-    "source": "Hacker News",
-    "published": "2026-06-06T19:51:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428356\">Comments</a>"
   },
   {
     "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
@@ -64,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48427643\">Comments</a>"
   },
   {
-    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-    "source": "Hacker News",
-    "published": "2026-06-06T18:21:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48427523\">Comments</a>"
-  },
-  {
-    "title": "You Can Run",
-    "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-    "source": "Hacker News",
-    "published": "2026-06-06T15:55:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48426202\">Comments</a>"
-  },
-  {
     "title": "Zeroserve: A zero-config web server you can script with eBPF",
     "link": "https://su3.io/posts/introducing-zeroserve",
     "source": "Hacker News",
@@ -96,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48425528\">Comments</a>"
   },
   {
-    "title": "Benchmarks in Leipzig",
-    "link": "https://arxiv.org/abs/2606.05818",
-    "source": "Hacker News",
-    "published": "2026-06-06T14:00:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425247\">Comments</a>"
-  },
-  {
     "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
     "link": "https://twitter.com/lemire/status/2062880075117113739",
     "source": "Hacker News",
     "published": "2026-06-06T12:52:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48424605\">Comments</a>"
-  },
-  {
-    "title": "The new bibliomaniacs",
-    "link": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-    "source": "Hacker News",
-    "published": "2026-06-06T12:03:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48424125\">Comments</a>"
-  },
-  {
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "link": "https://pokeemerald.com/",
-    "source": "Hacker News",
-    "published": "2026-06-06T11:12:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48423762\">Comments</a>"
   },
   {
     "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48416264\">Comments</a>"
   },
   {
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00e9 disk",
-    "link": "https://uonr.github.io/poincake/",
+    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+    "link": "https://symbolica.io/posts/symbolica_2_0_release/",
     "source": "Hacker News",
-    "published": "2026-06-02T16:08:26+00:00",
+    "published": "2026-06-05T17:13:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48372138\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48415457\">Comments</a>"
   },
   {
-    "title": "PyTorch Custom Operation",
-    "link": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+    "title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
+    "link": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
     "source": "Hacker News",
-    "published": "2026-06-01T15:39:29+00:00",
+    "published": "2026-06-04T22:58:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48358339\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405815\">Comments</a>"
+  },
+  {
+    "title": "Biohub releases a world model of protein biology",
+    "link": "https://biohub.org/news/world-model-of-protein-biology/",
+    "source": "Hacker News",
+    "published": "2026-06-04T03:12:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48393252\">Comments</a>"
   }
 ]
