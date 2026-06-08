@@ -1,5 +1,61 @@
 [
   {
+    "title": "I'm building a parallel internet, and it's called The Thinnernet",
+    "link": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "source": "Hacker News",
+    "published": "2026-06-08T19:45:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450694\">Comments</a>"
+  },
+  {
+    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+    "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "source": "Hacker News",
+    "published": "2026-06-08T19:42:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450646\">Comments</a>"
+  },
+  {
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "source": "Hacker News",
+    "published": "2026-06-08T19:14:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450142\">Comments</a>"
+  },
+  {
+    "title": "Why are cells small?",
+    "link": "https://burrito.bio/essays/what-limits-a-cells-size",
+    "source": "Hacker News",
+    "published": "2026-06-08T19:10:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450065\">Comments</a>"
+  },
+  {
+    "title": "Switzerland wil have a referendum to cap population at 10M",
+    "link": "https://www.admin.ch/en/sustainability-initiative",
+    "source": "Hacker News",
+    "published": "2026-06-08T19:09:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450059\">Comments</a>"
+  },
+  {
+    "title": "Apple Core AI Framework",
+    "link": "https://developer.apple.com/documentation/coreai/",
+    "source": "Hacker News",
+    "published": "2026-06-08T18:47:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48449665\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "link": "https://news.ycombinator.com/item?id=48449187",
+    "source": "Hacker News",
+    "published": "2026-06-08T18:22:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48449187\">Comments</a>"
+  },
+  {
     "title": "Siri AI",
     "link": "https://www.apple.com/apple-intelligence/",
     "source": "Hacker News",
@@ -24,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48448357\">Comments</a>"
   },
   {
-    "title": "Apple WWDC 2026 Livestream",
-    "link": "https://www.apple.com/apple-events/event-stream/",
-    "source": "Hacker News",
-    "published": "2026-06-08T17:14:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448106\">Comments</a>"
-  },
-  {
-    "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
-    "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-    "source": "Hacker News",
-    "published": "2026-06-08T17:07:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448012\">Comments</a>"
-  },
-  {
     "title": "Stop the Apple Music app from launching",
     "link": "https://lowtechguys.com/musicdecoy/",
     "source": "Hacker News",
@@ -48,12 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48447935\">Comments</a>"
   },
   {
-    "title": "AI Is Slowing Down",
-    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, anti-AI, and written in Rust",
+    "link": "https://gitdot.io/",
     "source": "Hacker News",
-    "published": "2026-06-08T15:46:37+00:00",
+    "published": "2026-06-08T16:52:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446893\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447806\">Comments</a>"
+  },
+  {
+    "title": "EU-banned pesticides found in rice, tea and spices",
+    "link": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+    "source": "Hacker News",
+    "published": "2026-06-08T15:59:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447062\">Comments</a>"
   },
   {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -64,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48446639\">Comments</a>"
   },
   {
-    "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
-    "link": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-    "source": "Hacker News",
-    "published": "2026-06-08T15:14:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446439\">Comments</a>"
-  },
-  {
     "title": "xAI is looking more like a datacentre REIT than a frontier lab",
     "link": "https://martinalderson.com/posts/xais-new-rental-business/",
     "source": "Hacker News",
@@ -80,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48446428\">Comments</a>"
   },
   {
-    "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
+    "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
     "link": "https://vorpus.github.io/performativeUI/",
     "source": "Hacker News",
     "published": "2026-06-08T14:05:16+00:00",
@@ -96,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48445171\">Comments</a>"
   },
   {
-    "title": "Zig by Example",
-    "link": "https://github.com/boringcollege/zig-by-example",
-    "source": "Hacker News",
-    "published": "2026-06-08T13:06:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444871\">Comments</a>"
-  },
-  {
-    "title": "Are you expected to run five Python type-checkers now?",
-    "link": "https://pyrefly.org/blog/too-many-type-checkers/",
-    "source": "Hacker News",
-    "published": "2026-06-08T12:24:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444442\">Comments</a>"
-  },
-  {
     "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
     "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
     "source": "Hacker News",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48444228\">Comments</a>"
   },
   {
-    "title": "The Cypherpunk Library",
-    "link": "https://www.cypherpunkbooks.com",
+    "title": "Fooling Go's X.509 Certificate Verification",
+    "link": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
     "source": "Hacker News",
-    "published": "2026-06-08T08:32:52+00:00",
+    "published": "2026-06-06T13:52:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442725\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425166\">Comments</a>"
   },
   {
-    "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-    "link": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+    "title": "Show HN: Courtside \u2013 TUI for NBA Games",
+    "link": "https://github.com/NolanFogarty/courtside",
     "source": "Hacker News",
-    "published": "2026-06-08T06:56:06+00:00",
+    "published": "2026-06-05T23:43:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442075\">Comments</a>"
-  },
-  {
-    "title": "Dopamine Fracking",
-    "link": "https://igerman.cc/blog/dopamine-fracking/",
-    "source": "Hacker News",
-    "published": "2026-06-08T02:42:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440792\">Comments</a>"
-  },
-  {
-    "title": "OCaml Onboarding: Introduction to the Dune build system",
-    "link": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "source": "Hacker News",
-    "published": "2026-06-04T17:52:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402137\">Comments</a>"
-  },
-  {
-    "title": "Mutation Testing in Haskell",
-    "link": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-    "source": "Hacker News",
-    "published": "2026-06-03T14:29:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48384630\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48419823\">Comments</a>"
   }
 ]
