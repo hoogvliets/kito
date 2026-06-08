@@ -1,19 +1,67 @@
 [
   {
+    "title": "Siri AI",
+    "link": "https://www.apple.com/apple-intelligence/",
+    "source": "Hacker News",
+    "published": "2026-06-08T18:17:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48449084\">Comments</a>"
+  },
+  {
+    "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+    "link": "https://siraben.github.io/ti84p-re/",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:41:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448493\">Comments</a>"
+  },
+  {
+    "title": "Thunderbird Littering My Home",
+    "link": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:31:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448357\">Comments</a>"
+  },
+  {
+    "title": "Apple WWDC 2026 Livestream",
+    "link": "https://www.apple.com/apple-events/event-stream/",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:14:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448106\">Comments</a>"
+  },
+  {
+    "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+    "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:07:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448012\">Comments</a>"
+  },
+  {
+    "title": "Stop the Apple Music app from launching",
+    "link": "https://lowtechguys.com/musicdecoy/",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:01:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447935\">Comments</a>"
+  },
+  {
+    "title": "AI Is Slowing Down",
+    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "source": "Hacker News",
+    "published": "2026-06-08T15:46:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446893\">Comments</a>"
+  },
+  {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
     "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
     "source": "Hacker News",
     "published": "2026-06-08T15:27:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48446639\">Comments</a>"
-  },
-  {
-    "title": "I replaced Spotify with a homemade FM radio station",
-    "link": "https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/",
-    "source": "Hacker News",
-    "published": "2026-06-08T15:25:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446611\">Comments</a>"
   },
   {
     "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
@@ -24,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48446439\">Comments</a>"
   },
   {
-    "title": "Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO",
-    "link": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "link": "https://martinalderson.com/posts/xais-new-rental-business/",
     "source": "Hacker News",
-    "published": "2026-06-08T15:04:17+00:00",
+    "published": "2026-06-08T15:13:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446310\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446428\">Comments</a>"
   },
   {
     "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
@@ -56,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48444871\">Comments</a>"
   },
   {
+    "title": "Are you expected to run five Python type-checkers now?",
+    "link": "https://pyrefly.org/blog/too-many-type-checkers/",
+    "source": "Hacker News",
+    "published": "2026-06-08T12:24:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444442\">Comments</a>"
+  },
+  {
     "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
     "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
     "source": "Hacker News",
     "published": "2026-06-08T11:58:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48444228\">Comments</a>"
-  },
-  {
-    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-    "link": "https://safedep.io/config-files-that-run-code/",
-    "source": "Hacker News",
-    "published": "2026-06-08T09:35:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48443135\">Comments</a>"
   },
   {
     "title": "The Cypherpunk Library",
@@ -88,52 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48442075\">Comments</a>"
   },
   {
-    "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-    "link": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-    "source": "Hacker News",
-    "published": "2026-06-08T03:17:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440952\">Comments</a>"
-  },
-  {
     "title": "Dopamine Fracking",
     "link": "https://igerman.cc/blog/dopamine-fracking/",
     "source": "Hacker News",
     "published": "2026-06-08T02:42:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48440792\">Comments</a>"
-  },
-  {
-    "title": "APC\u20132 \u2013 A professional record cutter for producing original playback discs",
-    "link": "https://teenage.engineering/products/apc-2",
-    "source": "Hacker News",
-    "published": "2026-06-08T01:27:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440383\">Comments</a>"
-  },
-  {
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-    "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "source": "Hacker News",
-    "published": "2026-06-08T00:28:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440064\">Comments</a>"
-  },
-  {
-    "title": "Building from zero after addiction, prison, and a felony",
-    "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "source": "Hacker News",
-    "published": "2026-06-07T18:33:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48437406\">Comments</a>"
-  },
-  {
-    "title": "A Family Project (2022)",
-    "link": "https://bittersoutherner.com/feature/2022/a-family-project",
-    "source": "Hacker News",
-    "published": "2026-06-05T15:15:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413645\">Comments</a>"
   },
   {
     "title": "OCaml Onboarding: Introduction to the Dune build system",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48402137\">Comments</a>"
   },
   {
-    "title": "Zig Structs of Arrays (2024)",
-    "link": "https://andreashohmann.com/zig-struct-of-arrays/",
+    "title": "Mutation Testing in Haskell",
+    "link": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
     "source": "Hacker News",
-    "published": "2026-06-04T06:28:36+00:00",
+    "published": "2026-06-03T14:29:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48394799\">Comments</a>"
-  },
-  {
-    "title": "Spherical Voronoi Diagram",
-    "link": "https://www.jasondavies.com/maps/voronoi/",
-    "source": "Hacker News",
-    "published": "2026-06-03T15:32:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48385457\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48384630\">Comments</a>"
   }
 ]
