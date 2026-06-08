@@ -1,19 +1,19 @@
 [
   {
-    "title": "Flock license plate reader wrongly linked a San Diego man to a violent crime",
-    "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "link": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
     "source": "Hacker News",
-    "published": "2026-06-07T20:52:11+00:00",
+    "published": "2026-06-07T22:41:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48438421\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48439348\">Comments</a>"
   },
   {
-    "title": "The architecture of the internet creates risks for democracy",
-    "link": "https://www.science.org/doi/10.1126/science.aei2409",
+    "title": "VibeOS: First ever AI-native operating system",
+    "link": "https://vibeos.sh/",
     "source": "Hacker News",
-    "published": "2026-06-07T20:28:19+00:00",
+    "published": "2026-06-07T21:29:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48438212\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48438754\">Comments</a>"
   },
   {
     "title": "How's Linear so fast? A technical breakdown",
@@ -30,14 +30,6 @@
     "published": "2026-06-07T18:54:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48437568\">Comments</a>"
-  },
-  {
-    "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-    "link": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
-    "source": "Hacker News",
-    "published": "2026-06-07T18:36:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48437442\">Comments</a>"
   },
   {
     "title": "Building from zero after addiction, prison, and a felony",
@@ -64,15 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48437290\">Comments</a>"
   },
   {
-    "title": "The complete IPv4 address space, mapped",
-    "link": "https://worldip.io/",
-    "source": "Hacker News",
-    "published": "2026-06-07T18:14:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48437279\">Comments</a>"
-  },
-  {
-    "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+    "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
     "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
     "source": "Hacker News",
     "published": "2026-06-07T17:22:28+00:00",
@@ -88,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48436819\">Comments</a>"
   },
   {
-    "title": "Proliferate (YC S25) is hiring to building open source Codex",
-    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "title": "Podman 6: machine usability improvements (2025)",
+    "link": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
     "source": "Hacker News",
-    "published": "2026-06-07T17:01:17+00:00",
+    "published": "2026-06-07T14:01:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48436669\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48434963\">Comments</a>"
   },
   {
     "title": "Anthropic, please ship an official Claude Desktop for Linux",
@@ -102,6 +86,14 @@
     "published": "2026-06-07T13:06:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48434436\">Comments</a>"
+  },
+  {
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "source": "Hacker News",
+    "published": "2026-06-07T12:49:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48434312\">Comments</a>"
   },
   {
     "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
@@ -128,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48427480\">Comments</a>"
   },
   {
-    "title": "A visual introduction to kernel functions",
-    "link": "https://kelvinpaschal.com/blog/kernel-functions/",
-    "source": "Hacker News",
-    "published": "2026-06-05T14:11:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48412818\">Comments</a>"
-  },
-  {
     "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
     "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
     "source": "Hacker News",
@@ -144,7 +128,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48409474\">Comments</a>"
   },
   {
-    "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
+    "title": "Show HN: I Derived a Pancake",
+    "link": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "source": "Hacker News",
+    "published": "2026-06-05T06:42:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408854\">Comments</a>"
+  },
+  {
+    "title": "Learn PHP in 2026 (Yes, Really)",
+    "link": "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84",
+    "source": "Hacker News",
+    "published": "2026-06-04T12:35:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48397765\">Comments</a>"
+  },
+  {
+    "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
     "link": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
     "source": "Hacker News",
     "published": "2026-06-03T14:21:19+00:00",
