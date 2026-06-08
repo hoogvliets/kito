@@ -1,5 +1,29 @@
 [
   {
+    "title": "Is This the Dawn of the Tokenpocalypse?",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "source": "Hacker News",
+    "published": "2026-06-08T07:05:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442136\">Comments</a>"
+  },
+  {
+    "title": "Cannibalism",
+    "link": "https://b-ark.ca/2026/06/07/cannibalism.html",
+    "source": "Hacker News",
+    "published": "2026-06-08T05:22:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48441591\">Comments</a>"
+  },
+  {
+    "title": "Richard Scolyer Has Died",
+    "link": "https://www.bbc.com/news/articles/c14yz5jg476o",
+    "source": "Hacker News",
+    "published": "2026-06-08T04:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48441242\">Comments</a>"
+  },
+  {
     "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
     "link": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
     "source": "Hacker News",
@@ -14,22 +38,6 @@
     "published": "2026-06-08T02:42:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48440792\">Comments</a>"
-  },
-  {
-    "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-    "link": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-    "source": "Hacker News",
-    "published": "2026-06-08T02:05:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440610\">Comments</a>"
-  },
-  {
-    "title": "Tech sell-off widens as South Korea index plunges",
-    "link": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-    "source": "Hacker News",
-    "published": "2026-06-08T02:01:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440583\">Comments</a>"
   },
   {
     "title": "Algorithmic Monocultures in Hiring",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48440383\">Comments</a>"
   },
   {
-    "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-    "link": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-    "source": "Hacker News",
-    "published": "2026-06-08T01:22:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440360\">Comments</a>"
-  },
-  {
     "title": "The Smallest Brain You Can Build: A Perceptron in Python",
     "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
     "source": "Hacker News",
@@ -94,14 +94,6 @@
     "published": "2026-06-08T00:17:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48440008\">Comments</a>"
-  },
-  {
-    "title": "How's Linear so fast? A technical breakdown",
-    "link": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "source": "Hacker News",
-    "published": "2026-06-07T19:01:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48437609\">Comments</a>"
   },
   {
     "title": "Building from zero after addiction, prison, and a felony",
@@ -120,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48437290\">Comments</a>"
   },
   {
-    "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-    "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+    "title": "Tiny hackable CUDA language model implementation",
+    "link": "https://github.com/markusheimerl/gpt",
     "source": "Hacker News",
-    "published": "2026-06-05T08:08:33+00:00",
+    "published": "2026-06-05T17:41:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48409474\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48415828\">Comments</a>"
+  },
+  {
+    "title": "Playing with Vision Embeddings",
+    "link": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:54:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413366\">Comments</a>"
   },
   {
     "title": "Show HN: I Derived a Pancake",
@@ -134,6 +134,14 @@
     "published": "2026-06-05T06:42:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48408854\">Comments</a>"
+  },
+  {
+    "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+    "link": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
+    "source": "Hacker News",
+    "published": "2026-06-04T23:07:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405890\">Comments</a>"
   },
   {
     "title": "A discovery about GCC's unidirectional rotation algorithm",
@@ -150,13 +158,5 @@
     "published": "2026-06-03T21:14:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48390175\">Comments</a>"
-  },
-  {
-    "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
-    "link": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
-    "source": "Hacker News",
-    "published": "2026-06-03T14:21:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48384525\">Comments</a>"
   }
 ]
