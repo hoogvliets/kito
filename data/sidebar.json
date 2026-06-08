@@ -1,5 +1,37 @@
 [
   {
+    "title": "Zig by Example",
+    "link": "https://github.com/boringcollege/zig-by-example",
+    "source": "Hacker News",
+    "published": "2026-06-08T13:06:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444871\">Comments</a>"
+  },
+  {
+    "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+    "source": "Hacker News",
+    "published": "2026-06-08T12:25:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444451\">Comments</a>"
+  },
+  {
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+    "source": "Hacker News",
+    "published": "2026-06-08T11:58:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444228\">Comments</a>"
+  },
+  {
+    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+    "link": "https://safedep.io/config-files-that-run-code/",
+    "source": "Hacker News",
+    "published": "2026-06-08T09:35:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48443135\">Comments</a>"
+  },
+  {
     "title": "The Cypherpunk Library",
     "link": "https://www.cypherpunkbooks.com",
     "source": "Hacker News",
@@ -8,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48442725\">Comments</a>"
   },
   {
-    "title": "OneDrive data now has an expiry date",
-    "link": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+    "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+    "link": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
     "source": "Hacker News",
-    "published": "2026-06-08T08:11:24+00:00",
+    "published": "2026-06-08T06:56:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442569\">Comments</a>"
-  },
-  {
-    "title": "The EU Open Source Strategy",
-    "link": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-    "source": "Hacker News",
-    "published": "2026-06-08T08:00:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442503\">Comments</a>"
-  },
-  {
-    "title": "Do agents.md files help coding agents?",
-    "link": "https://twitter.com/rasbt/status/2063649136323252397",
-    "source": "Hacker News",
-    "published": "2026-06-08T05:21:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48441589\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442075\">Comments</a>"
   },
   {
     "title": "Richard Scolyer Has Died",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48440463\">Comments</a>"
   },
   {
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-    "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "source": "Hacker News",
-    "published": "2026-06-08T01:39:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48440448\">Comments</a>"
-  },
-  {
     "title": "APC\u20132 \u2013 A professional record cutter for producing original playback discs",
     "link": "https://teenage.engineering/products/apc-2",
     "source": "Hacker News",
@@ -112,23 +120,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48437290\">Comments</a>"
   },
   {
-    "title": "Giant Floating Victorian Drydock",
-    "link": "https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869",
+    "title": "A modular impact diverting mechanism for football helmets [pdf]",
+    "link": "https://www.sfu.ca/~gwa5/pdf/2020_04.pdf",
     "source": "Hacker News",
-    "published": "2026-06-06T14:22:08+00:00",
+    "published": "2026-06-07T00:33:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425413\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430608\">Comments</a>"
   },
   {
-    "title": "Tiny hackable CUDA language model implementation",
-    "link": "https://github.com/markusheimerl/gpt",
-    "source": "Hacker News",
-    "published": "2026-06-05T17:41:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48415828\">Comments</a>"
-  },
-  {
-    "title": "A Family Project",
+    "title": "A Family Project (2022)",
     "link": "https://bittersoutherner.com/feature/2022/a-family-project",
     "source": "Hacker News",
     "published": "2026-06-05T15:15:03+00:00",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48413366\">Comments</a>"
   },
   {
-    "title": "Show HN: I Derived a Pancake",
-    "link": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "title": "Zig Structs of Arrays (2024)",
+    "link": "https://andreashohmann.com/zig-struct-of-arrays/",
     "source": "Hacker News",
-    "published": "2026-06-05T06:42:42+00:00",
+    "published": "2026-06-04T06:28:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408854\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48394799\">Comments</a>"
   },
   {
     "title": "Spherical Voronoi Diagram",
