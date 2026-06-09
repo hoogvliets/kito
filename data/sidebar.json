@@ -1,11 +1,19 @@
 [
   {
-    "title": "I'm building a parallel internet, and it's called The Thinnernet",
-    "link": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "title": "OpenAI Submits S-1 Draft to SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1/",
     "source": "Hacker News",
-    "published": "2026-06-08T19:45:04+00:00",
+    "published": "2026-06-08T21:22:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450694\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452317\">Comments</a>"
+  },
+  {
+    "title": "FrontierCode",
+    "link": "https://cognition.ai/blog/frontier-code",
+    "source": "Hacker News",
+    "published": "2026-06-08T20:45:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48451723\">Comments</a>"
   },
   {
     "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48450065\">Comments</a>"
   },
   {
-    "title": "Switzerland wil have a referendum to cap population at 10M",
-    "link": "https://www.admin.ch/en/sustainability-initiative",
-    "source": "Hacker News",
-    "published": "2026-06-08T19:09:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450059\">Comments</a>"
-  },
-  {
     "title": "Apple Core AI Framework",
     "link": "https://developer.apple.com/documentation/coreai/",
     "source": "Hacker News",
@@ -64,31 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48449084\">Comments</a>"
   },
   {
-    "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-    "link": "https://siraben.github.io/ti84p-re/",
-    "source": "Hacker News",
-    "published": "2026-06-08T17:41:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448493\">Comments</a>"
-  },
-  {
-    "title": "Thunderbird Littering My Home",
-    "link": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-    "source": "Hacker News",
-    "published": "2026-06-08T17:31:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448357\">Comments</a>"
-  },
-  {
-    "title": "Stop the Apple Music app from launching",
-    "link": "https://lowtechguys.com/musicdecoy/",
-    "source": "Hacker News",
-    "published": "2026-06-08T17:01:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447935\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, anti-AI, and written in Rust",
+    "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
     "link": "https://gitdot.io/",
     "source": "Hacker News",
     "published": "2026-06-08T16:52:11+00:00",
@@ -102,6 +78,14 @@
     "published": "2026-06-08T15:59:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48447062\">Comments</a>"
+  },
+  {
+    "title": "AI is slowing down",
+    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "source": "Hacker News",
+    "published": "2026-06-08T15:46:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446893\">Comments</a>"
   },
   {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48444228\">Comments</a>"
   },
   {
-    "title": "Fooling Go's X.509 Certificate Verification",
-    "link": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+    "title": "Games Between Programs: The Ruliology of Competition",
+    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
     "source": "Hacker News",
-    "published": "2026-06-06T13:52:42+00:00",
+    "published": "2026-06-05T23:36:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48425166\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48419769\">Comments</a>"
   },
   {
-    "title": "Show HN: Courtside \u2013 TUI for NBA Games",
-    "link": "https://github.com/NolanFogarty/courtside",
+    "title": "Looking Forward to Postgres 19: Query Hints",
+    "link": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
     "source": "Hacker News",
-    "published": "2026-06-05T23:43:04+00:00",
+    "published": "2026-06-05T15:15:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48419823\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413655\">Comments</a>"
+  },
+  {
+    "title": "Doing Something That's Never Been Done Before",
+    "link": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+    "source": "Hacker News",
+    "published": "2026-06-05T14:30:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413067\">Comments</a>"
+  },
+  {
+    "title": "OCaml Onboarding: Introduction to the Dune build system",
+    "link": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "source": "Hacker News",
+    "published": "2026-06-04T17:52:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402137\">Comments</a>"
   }
 ]
