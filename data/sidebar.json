@@ -1,11 +1,19 @@
 [
   {
-    "title": "OpenAI Submits S-1 Draft to SEC",
-    "link": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
     "source": "Hacker News",
-    "published": "2026-06-08T21:22:43+00:00",
+    "published": "2026-06-09T03:34:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452317\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48456015\">Comments</a>"
+  },
+  {
+    "title": "Job: Head of Stonehenge",
+    "link": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+    "source": "Hacker News",
+    "published": "2026-06-09T03:20:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48455928\">Comments</a>"
   },
   {
     "title": "FrontierCode",
@@ -16,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48451723\">Comments</a>"
   },
   {
-    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
     "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
     "source": "Hacker News",
     "published": "2026-06-08T19:42:28+00:00",
@@ -64,6 +72,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48449084\">Comments</a>"
   },
   {
+    "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+    "link": "https://news.ycombinator.com/item?id=48448313",
+    "source": "Hacker News",
+    "published": "2026-06-08T17:28:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448313\">Comments</a>"
+  },
+  {
     "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
     "link": "https://gitdot.io/",
     "source": "Hacker News",
@@ -72,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48447806\">Comments</a>"
   },
   {
+    "title": "Old'aVista \u2013 The most powerful guide to the old Internet",
+    "link": "https://oldavista.com/",
+    "source": "Hacker News",
+    "published": "2026-06-08T16:02:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447111\">Comments</a>"
+  },
+  {
     "title": "EU-banned pesticides found in rice, tea and spices",
     "link": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
     "source": "Hacker News",
     "published": "2026-06-08T15:59:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48447062\">Comments</a>"
-  },
-  {
-    "title": "AI is slowing down",
-    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "source": "Hacker News",
-    "published": "2026-06-08T15:46:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446893\">Comments</a>"
   },
   {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48445554\">Comments</a>"
   },
   {
-    "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
-    "link": "https://intunedhq.com",
-    "source": "Hacker News",
-    "published": "2026-06-08T13:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48445171\">Comments</a>"
-  },
-  {
     "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
     "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
     "source": "Hacker News",
@@ -128,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48444228\">Comments</a>"
   },
   {
-    "title": "Games Between Programs: The Ruliology of Competition",
-    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "How much do amd64 microarchitecture levels help in Go?",
+    "link": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
     "source": "Hacker News",
-    "published": "2026-06-05T23:36:00+00:00",
+    "published": "2026-06-07T21:10:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48419769\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48438595\">Comments</a>"
+  },
+  {
+    "title": "Passing DBs through continuations",
+    "link": "https://remy.wang/blog/cps.html",
+    "source": "Hacker News",
+    "published": "2026-06-07T01:17:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48430821\">Comments</a>"
   },
   {
     "title": "Looking Forward to Postgres 19: Query Hints",
@@ -142,21 +158,5 @@
     "published": "2026-06-05T15:15:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48413655\">Comments</a>"
-  },
-  {
-    "title": "Doing Something That's Never Been Done Before",
-    "link": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-    "source": "Hacker News",
-    "published": "2026-06-05T14:30:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48413067\">Comments</a>"
-  },
-  {
-    "title": "OCaml Onboarding: Introduction to the Dune build system",
-    "link": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "source": "Hacker News",
-    "published": "2026-06-04T17:52:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402137\">Comments</a>"
   }
 ]
