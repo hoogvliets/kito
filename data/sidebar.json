@@ -1,6 +1,38 @@
 [
   {
-    "title": "What Is It Like to Be a Bat? [pdf] (1974)",
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "source": "Hacker News",
+    "published": "2026-06-11T00:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48484584\">Comments</a>"
+  },
+  {
+    "title": "Deficient executive control in transformer attention",
+    "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+    "source": "Hacker News",
+    "published": "2026-06-10T23:35:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48484282\">Comments</a>"
+  },
+  {
+    "title": "Unix GC Remastered",
+    "link": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+    "source": "Hacker News",
+    "published": "2026-06-10T22:48:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483854\">Comments</a>"
+  },
+  {
+    "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+    "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "source": "Hacker News",
+    "published": "2026-06-10T22:07:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483387\">Comments</a>"
+  },
+  {
+    "title": "What is it like to be a bat? (1974) [pdf]",
     "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
     "source": "Hacker News",
     "published": "2026-06-10T20:35:07+00:00",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48482293\">Comments</a>"
   },
   {
-    "title": "Raspberry Pi 5 \u2013 16 GB, $350",
+    "title": "Raspberry Pi 5 \u2013 16GB RAM",
     "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
     "source": "Hacker News",
     "published": "2026-06-10T20:05:21+00:00",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48480978\">Comments</a>"
   },
   {
-    "title": "Anthropic's Model Naming, Extrapolated",
-    "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-    "source": "Hacker News",
-    "published": "2026-06-10T18:45:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48480852\">Comments</a>"
-  },
-  {
     "title": "GeoLibre 1.0",
     "link": "https://geolibre.app/",
     "source": "Hacker News",
@@ -56,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48479705\">Comments</a>"
   },
   {
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-    "link": "https://github.com/anthropics/claude-code/issues/29045",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "source": "Hacker News",
-    "published": "2026-06-10T17:11:56+00:00",
+    "published": "2026-06-10T16:42:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479452\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48478969\">Comments</a>"
   },
   {
     "title": "Show HN: Extend UI \u2013 open-source UI kit for modern document apps",
@@ -78,22 +102,6 @@
     "published": "2026-06-10T15:47:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48478148\">Comments</a>"
-  },
-  {
-    "title": "Authentication issues related to API requests",
-    "link": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-    "source": "Hacker News",
-    "published": "2026-06-10T15:29:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477851\">Comments</a>"
-  },
-  {
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "link": "https://burr.apache.org/",
-    "source": "Hacker News",
-    "published": "2026-06-10T15:01:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477400\">Comments</a>"
   },
   {
     "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
@@ -120,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48475483\">Comments</a>"
   },
   {
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-    "link": "https://jivx.com/eki",
+    "title": "Who's the smartest corvid?",
+    "link": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
     "source": "Hacker News",
-    "published": "2026-06-10T12:11:28+00:00",
+    "published": "2026-06-09T17:37:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48475100\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48464484\">Comments</a>"
   },
   {
-    "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-    "link": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "link": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
     "source": "Hacker News",
-    "published": "2026-06-10T07:44:49+00:00",
+    "published": "2026-06-09T17:23:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48472877\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Artie \u2013 Real-time data replication to your warehouse, now self-serve",
-    "link": "https://www.artie.com",
-    "source": "Hacker News",
-    "published": "2026-06-10T05:27:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48471805\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Atlasphere \u2013 Live Infrastructure Diagrams",
-    "link": "https://news.ycombinator.com/item?id=48460286",
-    "source": "Hacker News",
-    "published": "2026-06-09T12:35:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48460286\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48464258\">Comments</a>"
   },
   {
     "title": "L'Affaire Siloxane",
@@ -158,5 +150,13 @@
     "published": "2026-06-09T05:21:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48456808\">Comments</a>"
+  },
+  {
+    "title": "World Capitals Voronoi",
+    "link": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "source": "Hacker News",
+    "published": "2026-06-08T15:20:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446532\">Comments</a>"
   }
 ]
