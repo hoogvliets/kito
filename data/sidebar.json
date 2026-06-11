@@ -1,11 +1,27 @@
 [
   {
+    "title": "Software Is Made Between Commits",
+    "link": "https://zed.dev/blog/introducing-deltadb",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:28:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>"
+  },
+  {
     "title": "Solar generates more energy in US than coal for first time",
     "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
     "source": "Hacker News",
     "published": "2026-06-11T16:10:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48492306\">Comments</a>"
+  },
+  {
+    "title": "Waymo Premier",
+    "link": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:10:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492304\">Comments</a>"
   },
   {
     "title": "The RCE that AMD wouldn't fix",
@@ -16,6 +32,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48492215\">Comments</a>"
   },
   {
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "source": "Hacker News",
+    "published": "2026-06-11T15:37:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491830\">Comments</a>"
+  },
+  {
     "title": "FPS.cob: A first person shooter in COBOL",
     "link": "https://github.com/icitry/FPS.cob",
     "source": "Hacker News",
@@ -24,15 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48491486\">Comments</a>"
   },
   {
-    "title": "Show HN: Open-source API Key server written in Go by Ory",
-    "link": "https://github.com/ory/talos/tree/master",
-    "source": "Hacker News",
-    "published": "2026-06-11T15:09:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491426\">Comments</a>"
-  },
-  {
-    "title": "MiMo Code Is Now Released and Open-Source",
+    "title": "MiMo Code is now released and open-source",
     "link": "https://mimo.xiaomi.com/mimocode",
     "source": "Hacker News",
     "published": "2026-06-11T14:27:19+00:00",
@@ -48,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48490715\">Comments</a>"
   },
   {
-    "title": "MapComplete \u2013 Contibute to OpenStreetMaps",
-    "link": "https://mapcomplete.org/",
+    "title": "Show HN: Homebrew 6.0.0",
+    "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
     "source": "Hacker News",
-    "published": "2026-06-11T14:04:05+00:00",
+    "published": "2026-06-11T13:24:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490532\">Comments</a>"
-  },
-  {
-    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-    "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-    "source": "Hacker News",
-    "published": "2026-06-11T13:26:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490057\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490024\">Comments</a>"
   },
   {
     "title": "Open Reproduction of DeepSeek-R1",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>"
   },
   {
-    "title": "Lines of Code Got a Better Publicist",
+    "title": "Lines of code got a better publicist",
     "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "source": "Hacker News",
     "published": "2026-06-11T12:26:42+00:00",
@@ -80,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>"
   },
   {
-    "title": "Web Browsers on Video Game Consoles",
-    "link": "https://vale.rocks/posts/game-console-browsers",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source": "Hacker News",
-    "published": "2026-06-11T08:47:36+00:00",
+    "published": "2026-06-11T12:05:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487897\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489229\">Comments</a>"
   },
   {
     "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
@@ -96,67 +104,59 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>"
   },
   {
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "title": "Fully autonomous drones have killed human soldiers for the first time",
+    "link": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
     "source": "Hacker News",
-    "published": "2026-06-11T00:10:08+00:00",
+    "published": "2026-06-10T13:46:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48484584\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48476214\">Comments</a>"
   },
   {
-    "title": "\u03c0FS",
-    "link": "https://github.com/philipl/pifs",
+    "title": "Emacs appearances in pop culture",
+    "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
     "source": "Hacker News",
-    "published": "2026-06-10T18:54:54+00:00",
+    "published": "2026-06-10T10:37:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48480978\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48474274\">Comments</a>"
   },
   {
-    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "title": "Programming a GBA Game on an iPhone",
+    "link": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
     "source": "Hacker News",
-    "published": "2026-06-10T16:42:00+00:00",
+    "published": "2026-06-09T22:12:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48478969\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48468495\">Comments</a>"
   },
   {
-    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-    "link": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
     "source": "Hacker News",
-    "published": "2026-06-09T17:23:40+00:00",
+    "published": "2026-06-09T15:01:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48464258\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462070\">Comments</a>"
   },
   {
-    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
     "source": "Hacker News",
-    "published": "2026-06-09T14:29:34+00:00",
+    "published": "2026-06-08T21:02:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48461635\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452001\">Comments</a>"
   },
   {
-    "title": "Queues Don't Fix Overload (2014)",
-    "link": "https://ferd.ca/queues-don-t-fix-overload.html",
+    "title": "How Terry Tao became an evangelist for AI in math",
+    "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
     "source": "Hacker News",
-    "published": "2026-06-09T04:10:19+00:00",
+    "published": "2026-06-08T15:30:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48456279\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446673\">Comments</a>"
   },
   {
-    "title": "Supporting Exchange and beyond",
-    "link": "https://brendan.abolivier.bzh/exchange-pt-2/",
+    "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+    "link": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
     "source": "Hacker News",
-    "published": "2026-06-08T23:34:15+00:00",
+    "published": "2026-06-06T21:00:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48453949\">Comments</a>"
-  },
-  {
-    "title": "SVG-Line: Better Status Bars for Emacs \u2013 Charlie Holland's Blog",
-    "link": "https://www.chiply.dev/post-svg-line",
-    "source": "Hacker News",
-    "published": "2026-06-08T20:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48451013\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428959\">Comments</a>"
   }
 ]
