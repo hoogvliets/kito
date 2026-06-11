@@ -1,27 +1,27 @@
 [
   {
+    "title": "Web Browsers on Video Game Consoles",
+    "link": "https://vale.rocks/posts/game-console-browsers",
+    "source": "Hacker News",
+    "published": "2026-06-11T08:47:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487897\">Comments</a>"
+  },
+  {
+    "title": "Why AI hasn't replaced software engineers, and won't",
+    "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "source": "Hacker News",
+    "published": "2026-06-11T07:51:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487540\">Comments</a>"
+  },
+  {
     "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
     "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
     "source": "Hacker News",
     "published": "2026-06-11T06:42:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>"
-  },
-  {
-    "title": "Macaroni \u2013 a single HTML file messenger",
-    "link": "https://github.com/vanyapr/makaroshki",
-    "source": "Hacker News",
-    "published": "2026-06-11T06:32:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48486944\">Comments</a>"
-  },
-  {
-    "title": "Are insecure code completions in PyCharm a vulnerability?",
-    "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
-    "source": "Hacker News",
-    "published": "2026-06-11T01:26:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48485160\">Comments</a>"
   },
   {
     "title": "AI agent runs amok in Fedora and elsewhere",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48478969\">Comments</a>"
   },
   {
-    "title": "Show HN: Extend UI \u2013 open-source UI kit for modern document apps",
-    "link": "https://www.extend.ai/ui",
-    "source": "Hacker News",
-    "published": "2026-06-10T16:09:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48478469\">Comments</a>"
-  },
-  {
     "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
     "link": "https://news.ycombinator.com/item?id=48477135",
     "source": "Hacker News",
@@ -112,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48464258\">Comments</a>"
   },
   {
-    "title": "CSS: Unavoidable Bad Parts",
-    "link": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
     "source": "Hacker News",
-    "published": "2026-06-09T11:30:20+00:00",
+    "published": "2026-06-09T14:29:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48459678\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48461635\">Comments</a>"
+  },
+  {
+    "title": "Linux latency measurements and compositor tuning",
+    "link": "https://farnoy.dev/posts/linux-latency",
+    "source": "Hacker News",
+    "published": "2026-06-09T09:50:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48458895\">Comments</a>"
   },
   {
     "title": "L'Affaire Siloxane",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48450024\">Comments</a>"
   },
   {
-    "title": "The Road to the WASM Component Model 1.0",
-    "link": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+    "title": "Making a Shading Language for My Offline Renderer",
+    "link": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
     "source": "Hacker News",
-    "published": "2026-06-08T17:12:44+00:00",
+    "published": "2026-06-08T13:03:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448083\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444841\">Comments</a>"
   },
   {
     "title": "Reverse engineering the Creative Katana soundbar to control it from Linux",
