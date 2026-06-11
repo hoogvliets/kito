@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
+    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "source": "Hacker News",
+    "published": "2026-06-11T06:42:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>"
+  },
+  {
+    "title": "Macaroni \u2013 a single HTML file messenger",
+    "link": "https://github.com/vanyapr/makaroshki",
+    "source": "Hacker News",
+    "published": "2026-06-11T06:32:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48486944\">Comments</a>"
+  },
+  {
+    "title": "Are insecure code completions in PyCharm a vulnerability?",
+    "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+    "source": "Hacker News",
+    "published": "2026-06-11T01:26:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48485160\">Comments</a>"
+  },
+  {
     "title": "AI agent runs amok in Fedora and elsewhere",
     "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
     "source": "Hacker News",
@@ -8,36 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48484584\">Comments</a>"
   },
   {
-    "title": "Deficient executive control in transformer attention",
-    "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
-    "source": "Hacker News",
-    "published": "2026-06-10T23:35:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48484282\">Comments</a>"
-  },
-  {
     "title": "Sequoyah\u2019s syllabary created a written language for the Cherokee",
     "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
     "source": "Hacker News",
     "published": "2026-06-10T22:07:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48483387\">Comments</a>"
-  },
-  {
-    "title": "What is it like to be a bat? (1974) [pdf]",
-    "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "source": "Hacker News",
-    "published": "2026-06-10T20:35:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48482293\">Comments</a>"
-  },
-  {
-    "title": "Raspberry Pi 5 \u2013 16GB RAM",
-    "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
-    "source": "Hacker News",
-    "published": "2026-06-10T20:05:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481857\">Comments</a>"
   },
   {
     "title": "\u03c0FS",
@@ -96,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48476466\">Comments</a>"
   },
   {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "link": "https://mohkohn.co.uk/writing/html-first/",
-    "source": "Hacker News",
-    "published": "2026-06-10T12:45:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48475483\">Comments</a>"
-  },
-  {
     "title": "Vacuum-Form Signage",
     "link": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
     "source": "Hacker News",
     "published": "2026-06-10T02:48:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48470748\">Comments</a>"
-  },
-  {
-    "title": "Who's the smartest corvid?",
-    "link": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
-    "source": "Hacker News",
-    "published": "2026-06-09T17:37:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48464484\">Comments</a>"
   },
   {
     "title": "Anthropic requires 30 day data retention for Fable and Mythos",
@@ -144,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48456808\">Comments</a>"
   },
   {
+    "title": "Starfish by Peter Watts (1999)",
+    "link": "https://www.rifters.com/real/STARFISH.htm#prelude",
+    "source": "Hacker News",
+    "published": "2026-06-09T01:45:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48455145\">Comments</a>"
+  },
+  {
     "title": "Klondike Solitaire game for curses in 5k of C",
     "link": "https://nanochess.org/klondike_in_c.html",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-06-08T17:12:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48448083\">Comments</a>"
+  },
+  {
+    "title": "Reverse engineering the Creative Katana soundbar to control it from Linux",
+    "link": "https://blog.nns.ee/2026/02/20/katana-v2x-re/",
+    "source": "Hacker News",
+    "published": "2026-06-07T11:20:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48433777\">Comments</a>"
   }
 ]
