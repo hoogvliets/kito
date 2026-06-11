@@ -1,5 +1,77 @@
 [
   {
+    "title": "Solar generates more energy in US than coal for first time",
+    "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:10:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492306\">Comments</a>"
+  },
+  {
+    "title": "The RCE that AMD wouldn't fix",
+    "link": "https://mrbruh.com/amd2/",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:03:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492215\">Comments</a>"
+  },
+  {
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "link": "https://github.com/icitry/FPS.cob",
+    "source": "Hacker News",
+    "published": "2026-06-11T15:13:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491486\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Open-source API Key server written in Go by Ory",
+    "link": "https://github.com/ory/talos/tree/master",
+    "source": "Hacker News",
+    "published": "2026-06-11T15:09:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491426\">Comments</a>"
+  },
+  {
+    "title": "MiMo Code Is Now Released and Open-Source",
+    "link": "https://mimo.xiaomi.com/mimocode",
+    "source": "Hacker News",
+    "published": "2026-06-11T14:27:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490826\">Comments</a>"
+  },
+  {
+    "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "link": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+    "source": "Hacker News",
+    "published": "2026-06-11T14:17:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490715\">Comments</a>"
+  },
+  {
+    "title": "MapComplete \u2013 Contibute to OpenStreetMaps",
+    "link": "https://mapcomplete.org/",
+    "source": "Hacker News",
+    "published": "2026-06-11T14:04:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490532\">Comments</a>"
+  },
+  {
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+    "source": "Hacker News",
+    "published": "2026-06-11T13:26:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490057\">Comments</a>"
+  },
+  {
+    "title": "Open Reproduction of DeepSeek-R1",
+    "link": "https://github.com/huggingface/open-r1",
+    "source": "Hacker News",
+    "published": "2026-06-11T13:14:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>"
+  },
+  {
     "title": "Lines of Code Got a Better Publicist",
     "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "source": "Hacker News",
@@ -8,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>"
   },
   {
-    "title": "BYD is bringing its 5-min 'Flash' electric car charging to Canada",
-    "link": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
-    "source": "Hacker News",
-    "published": "2026-06-11T11:41:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489004\">Comments</a>"
-  },
-  {
-    "title": "Human migration has surged since 2000 \u2013 these maps reveal where people are going",
-    "link": "https://www.nature.com/articles/d41586-026-01796-y",
-    "source": "Hacker News",
-    "published": "2026-06-11T11:26:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48488901\">Comments</a>"
-  },
-  {
     "title": "Web Browsers on Video Game Consoles",
     "link": "https://vale.rocks/posts/game-console-browsers",
     "source": "Hacker News",
     "published": "2026-06-11T08:47:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48487897\">Comments</a>"
-  },
-  {
-    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-    "link": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "source": "Hacker News",
-    "published": "2026-06-11T07:35:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487435\">Comments</a>"
   },
   {
     "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
@@ -56,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48484584\">Comments</a>"
   },
   {
-    "title": "Sequoyah\u2019s syllabary created a written language for the Cherokee",
-    "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-    "source": "Hacker News",
-    "published": "2026-06-10T22:07:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483387\">Comments</a>"
-  },
-  {
     "title": "\u03c0FS",
     "link": "https://github.com/philipl/pifs",
     "source": "Hacker News",
@@ -72,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48480978\">Comments</a>"
   },
   {
-    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-    "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "source": "Hacker News",
-    "published": "2026-06-10T17:30:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479705\">Comments</a>"
-  },
-  {
     "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "source": "Hacker News",
     "published": "2026-06-10T16:42:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48478969\">Comments</a>"
-  },
-  {
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-    "link": "https://news.ycombinator.com/item?id=48477135",
-    "source": "Hacker News",
-    "published": "2026-06-10T14:47:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477135\">Comments</a>"
-  },
-  {
-    "title": "PgDog is funded and coming to a database near you",
-    "link": "https://pgdog.dev/blog/our-funding-announcement",
-    "source": "Hacker News",
-    "published": "2026-06-10T14:02:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48476466\">Comments</a>"
   },
   {
     "title": "Anthropic requires 30 day data retention for Fable and Mythos",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48461635\">Comments</a>"
   },
   {
-    "title": "Linux latency measurements and compositor tuning",
-    "link": "https://farnoy.dev/posts/linux-latency",
+    "title": "Queues Don't Fix Overload (2014)",
+    "link": "https://ferd.ca/queues-don-t-fix-overload.html",
     "source": "Hacker News",
-    "published": "2026-06-09T09:50:50+00:00",
+    "published": "2026-06-09T04:10:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48458895\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48456279\">Comments</a>"
   },
   {
-    "title": "Starfish by Peter Watts (1999)",
-    "link": "https://www.rifters.com/real/STARFISH.htm#prelude",
+    "title": "Supporting Exchange and beyond",
+    "link": "https://brendan.abolivier.bzh/exchange-pt-2/",
     "source": "Hacker News",
-    "published": "2026-06-09T01:45:38+00:00",
+    "published": "2026-06-08T23:34:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48455145\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48453949\">Comments</a>"
   },
   {
-    "title": "The Life and Works of Raoul Bott",
-    "link": "https://arxiv.org/abs/math/0201027",
+    "title": "SVG-Line: Better Status Bars for Emacs \u2013 Charlie Holland's Blog",
+    "link": "https://www.chiply.dev/post-svg-line",
     "source": "Hacker News",
-    "published": "2026-06-08T17:33:40+00:00",
+    "published": "2026-06-08T20:01:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448386\">Comments</a>"
-  },
-  {
-    "title": "Making a Shading Language for My Offline Renderer",
-    "link": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
-    "source": "Hacker News",
-    "published": "2026-06-08T13:03:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48444841\">Comments</a>"
-  },
-  {
-    "title": "Reverse engineering the Creative Katana soundbar to control it from Linux",
-    "link": "https://blog.nns.ee/2026/02/20/katana-v2x-re/",
-    "source": "Hacker News",
-    "published": "2026-06-07T11:20:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48433777\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48451013\">Comments</a>"
   }
 ]
