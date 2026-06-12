@@ -1,19 +1,51 @@
 [
   {
-    "title": "Report on an Unidentified Space Station",
-    "link": "https://sseh.uchicago.edu/doc/roauss.htm",
+    "title": "Maxproof",
+    "link": "https://arxiv.org/abs/2606.13473",
     "source": "Hacker News",
-    "published": "2026-06-12T07:35:46+00:00",
+    "published": "2026-06-12T12:00:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48501012\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503014\">Comments</a>"
   },
   {
-    "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
-    "link": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+    "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
+    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
     "source": "Hacker News",
-    "published": "2026-06-12T05:53:19+00:00",
+    "published": "2026-06-12T11:26:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48500404\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502730\">Comments</a>"
+  },
+  {
+    "title": "Ryanair dark UX patterns summer 2026 refresher",
+    "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+    "source": "Hacker News",
+    "published": "2026-06-12T11:11:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502601\">Comments</a>"
+  },
+  {
+    "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+    "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+    "source": "Hacker News",
+    "published": "2026-06-12T10:42:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502347\">Comments</a>"
+  },
+  {
+    "title": "The Future of Email",
+    "link": "https://www.fastmail.com/blog/the-future-of-email/",
+    "source": "Hacker News",
+    "published": "2026-06-12T10:38:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502321\">Comments</a>"
+  },
+  {
+    "title": "AUR Packages Compromised with Infostealer and Rootkit",
+    "link": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+    "source": "Hacker News",
+    "published": "2026-06-12T05:59:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48500447\">Comments</a>"
   },
   {
     "title": "AI agent bankrupted their operator while trying to scan DN42",
@@ -64,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48496539\">Comments</a>"
   },
   {
-    "title": "Software is made between commits",
-    "link": "https://zed.dev/blog/introducing-deltadb",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:28:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>"
-  },
-  {
-    "title": "Claude Fable 5: mid-tier results on coding tasks",
-    "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:03:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492210\">Comments</a>"
-  },
-  {
     "title": "Petition to Withdraw Canada's Bill C-22",
     "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
     "source": "Hacker News",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48490024\">Comments</a>"
   },
   {
-    "title": "Lines of code got a better publicist",
-    "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "source": "Hacker News",
-    "published": "2026-06-11T12:26:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>"
-  },
-  {
     "title": "Anthropic apologizes for invisible Claude Fable guardrails",
     "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489229\">Comments</a>"
   },
   {
-    "title": "Emacs appearances in pop culture",
-    "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
     "source": "Hacker News",
-    "published": "2026-06-10T10:37:45+00:00",
+    "published": "2026-06-11T08:38:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48474274\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487829\">Comments</a>"
   },
   {
     "title": "How we made hit video game Prince of Persia",
@@ -142,14 +150,6 @@
     "published": "2026-06-09T15:01:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48462070\">Comments</a>"
-  },
-  {
-    "title": "Ear Training Practice",
-    "link": "https://tonedear.com/",
-    "source": "Hacker News",
-    "published": "2026-06-08T16:38:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447598\">Comments</a>"
   },
   {
     "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
