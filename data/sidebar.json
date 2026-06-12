@@ -1,5 +1,77 @@
 [
   {
+    "title": "I Am Not a Reverse Centaur",
+    "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "source": "Hacker News",
+    "published": "2026-06-12T17:53:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48507282\">Comments</a>"
+  },
+  {
+    "title": "\"Don't You Just Upload It to ChatGPT?\"",
+    "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "source": "Hacker News",
+    "published": "2026-06-12T17:52:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48507278\">Comments</a>"
+  },
+  {
+    "title": "Tesla Full Self Driving uses bicycle lane in official Denmark approval video",
+    "link": "https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu",
+    "source": "Hacker News",
+    "published": "2026-06-12T17:49:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48507248\">Comments</a>"
+  },
+  {
+    "title": "How to Setup a Local Coding Agent on macOS",
+    "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "source": "Hacker News",
+    "published": "2026-06-12T17:34:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48507020\">Comments</a>"
+  },
+  {
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+    "link": "https://piwodlaiwo.github.io/pirates/",
+    "source": "Hacker News",
+    "published": "2026-06-12T17:07:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506659\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+    "link": "https://bitboard.work/",
+    "source": "Hacker News",
+    "published": "2026-06-12T16:58:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506545\">Comments</a>"
+  },
+  {
+    "title": "Looking Forward to Postgres 19: It's About Time",
+    "link": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+    "source": "Hacker News",
+    "published": "2026-06-12T16:44:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506372\">Comments</a>"
+  },
+  {
+    "title": "A PDF that changes based on how its read",
+    "link": "https://sgaud.com/texts/pdf",
+    "source": "Hacker News",
+    "published": "2026-06-12T16:32:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506209\">Comments</a>"
+  },
+  {
+    "title": "Keygen.music",
+    "link": "https://keygen.music",
+    "source": "Hacker News",
+    "published": "2026-06-12T15:42:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48505561\">Comments</a>"
+  },
+  {
     "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
     "link": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
     "source": "Hacker News",
@@ -8,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48505452\">Comments</a>"
   },
   {
-    "title": "CRISPR Tech Selectively Shreds Cancer Cells, Including \"Undruggable\" Cancers",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
     "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
     "source": "Hacker News",
     "published": "2026-06-12T15:15:24+00:00",
@@ -16,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48505231\">Comments</a>"
   },
   {
-    "title": "Show HN: Script to bulk delete Claude chats from the web UI",
-    "link": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+    "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+    "link": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
     "source": "Hacker News",
-    "published": "2026-06-12T15:08:59+00:00",
+    "published": "2026-06-12T14:50:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48505161\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48504929\">Comments</a>"
   },
   {
     "title": "Slightly reducing the sloppiness of AI generated front end",
@@ -32,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48504912\">Comments</a>"
   },
   {
-    "title": "WhatsApp Business API pricing 2026: what's free and where markup hides",
-    "link": "https://wexio.io/blog/free-whatsapp-business-api",
-    "source": "Hacker News",
-    "published": "2026-06-12T14:37:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48504753\">Comments</a>"
-  },
-  {
     "title": "A Call to Action: Stop the FCC's KYC Regime",
     "link": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
     "source": "Hacker News",
     "published": "2026-06-12T14:33:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48504697\">Comments</a>"
-  },
-  {
-    "title": "How to automate Instagram engagements with computer vision (and get banned)",
-    "link": "https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html",
-    "source": "Hacker News",
-    "published": "2026-06-12T14:21:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48504544\">Comments</a>"
   },
   {
     "title": "A dumpster arrived behind my university's library",
@@ -64,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48504543\">Comments</a>"
   },
   {
-    "title": "WASI 0.3.0 Released",
-    "link": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-    "source": "Hacker News",
-    "published": "2026-06-12T13:51:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48504063\">Comments</a>"
-  },
-  {
-    "title": "European sunscreens are safer than American (2024)",
-    "link": "https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526",
-    "source": "Hacker News",
-    "published": "2026-06-12T13:40:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503940\">Comments</a>"
-  },
-  {
     "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
     "link": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
     "source": "Hacker News",
     "published": "2026-06-12T13:14:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48503717\">Comments</a>"
-  },
-  {
-    "title": "Encrypted Spaces An architecture for collaborative applications",
-    "link": "https://encryptedspaces.org/",
-    "source": "Hacker News",
-    "published": "2026-06-12T12:22:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503219\">Comments</a>"
   },
   {
     "title": "Maxproof",
@@ -104,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48503014\">Comments</a>"
   },
   {
-    "title": "The Future of Email",
-    "link": "https://www.fastmail.com/blog/the-future-of-email/",
-    "source": "Hacker News",
-    "published": "2026-06-12T10:38:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502321\">Comments</a>"
-  },
-  {
-    "title": "AUR Packages Compromised with Infostealer and Rootkit",
-    "link": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-    "source": "Hacker News",
-    "published": "2026-06-12T05:59:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48500447\">Comments</a>"
-  },
-  {
     "title": "AI agent bankrupted their operator while trying to scan DN42",
     "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
     "source": "Hacker News",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48500012\">Comments</a>"
   },
   {
-    "title": "Claude Fable is relentlessly proactive",
-    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+    "link": "https://twitter.com/jsrailton/status/2064661778978533571",
     "source": "Hacker News",
-    "published": "2026-06-12T01:06:51+00:00",
+    "published": "2026-06-11T20:24:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498573\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495928\">Comments</a>"
   },
   {
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "title": "There Is Life Before Main in Rust",
+    "link": "https://grack.com/blog/2026/06/11/life-before-main/",
     "source": "Hacker News",
-    "published": "2026-06-12T00:38:11+00:00",
+    "published": "2026-06-11T17:32:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498385\">Comments</a>"
-  },
-  {
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "link": "https://tombedor.dev/human-attention-and-human-effort/",
-    "source": "Hacker News",
-    "published": "2026-06-11T23:01:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497609\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Homebrew 6.0.0",
-    "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "source": "Hacker News",
-    "published": "2026-06-11T13:24:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490024\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48493512\">Comments</a>"
   }
 ]
