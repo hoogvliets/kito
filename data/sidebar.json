@@ -1,5 +1,21 @@
 [
   {
+    "title": "Claude Fable is relentlessly proactive",
+    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "source": "Hacker News",
+    "published": "2026-06-12T01:06:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498573\">Comments</a>"
+  },
+  {
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "source": "Hacker News",
+    "published": "2026-06-12T00:38:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498385\">Comments</a>"
+  },
+  {
     "title": "If you are asking for human attention, demonstrate human effort",
     "link": "https://tombedor.dev/human-attention-and-human-effort/",
     "source": "Hacker News",
@@ -24,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48496539\">Comments</a>"
   },
   {
-    "title": "Show HN: Boo \u2013 Screen-style terminal multiplexer built on libghostty",
-    "link": "https://github.com/coder/boo",
+    "title": "Software is made between commits",
+    "link": "https://zed.dev/blog/introducing-deltadb",
     "source": "Hacker News",
-    "published": "2026-06-11T20:52:26+00:00",
+    "published": "2026-06-11T16:28:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496250\">Comments</a>"
-  },
-  {
-    "title": "Shall we play a game? My AI nuclear simulation",
-    "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-    "source": "Hacker News",
-    "published": "2026-06-11T19:54:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495575\">Comments</a>"
-  },
-  {
-    "title": "Waymo Premier",
-    "link": "https://waymo.com/blog/2026/06/waymo-premier/",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:10:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492304\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>"
   },
   {
     "title": "The RCE that AMD wouldn't fix",
@@ -64,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48492210\">Comments</a>"
   },
   {
-    "title": "MTG Bench: Testing how well LLMs can play Magic",
-    "link": "https://mtgautodeck.com/articles/mtg-bench/",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:01:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492177\">Comments</a>"
-  },
-  {
     "title": "Petition to Withdraw Canada's Bill C-22",
     "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
     "source": "Hacker News",
     "published": "2026-06-11T15:37:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48491830\">Comments</a>"
-  },
-  {
-    "title": "FPS.cob: A first person shooter in COBOL",
-    "link": "https://github.com/icitry/FPS.cob",
-    "source": "Hacker News",
-    "published": "2026-06-11T15:13:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491486\">Comments</a>"
   },
   {
     "title": "MiMo Code is now released and open-source",
@@ -120,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489229\">Comments</a>"
   },
   {
-    "title": "Making a vintage LLM from scratch",
-    "link": "https://crlf.link/log/entries/260525-1/",
+    "title": "A greyscale iPhone setup that works in everyday life",
+    "link": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
     "source": "Hacker News",
-    "published": "2026-06-11T08:38:00+00:00",
+    "published": "2026-06-11T07:06:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487829\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487229\">Comments</a>"
+  },
+  {
+    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+    "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+    "source": "Hacker News",
+    "published": "2026-06-10T17:03:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479314\">Comments</a>"
   },
   {
     "title": "Emacs appearances in pop culture",
@@ -134,6 +126,14 @@
     "published": "2026-06-10T10:37:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48474274\">Comments</a>"
+  },
+  {
+    "title": "How we made hit video game Prince of Persia",
+    "link": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+    "source": "Hacker News",
+    "published": "2026-06-09T22:44:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48468852\">Comments</a>"
   },
   {
     "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
