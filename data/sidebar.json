@@ -1,5 +1,21 @@
 [
   {
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "link": "https://tombedor.dev/human-attention-and-human-effort/",
+    "source": "Hacker News",
+    "published": "2026-06-11T23:01:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497609\">Comments</a>"
+  },
+  {
+    "title": "A jacket that harvests drinking water from the air",
+    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "source": "Hacker News",
+    "published": "2026-06-11T22:59:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497576\">Comments</a>"
+  },
+  {
     "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
     "link": "https://fablepool.com",
     "source": "Hacker News",
@@ -8,44 +24,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48496539\">Comments</a>"
   },
   {
-    "title": "I stopped tracking my time. Now I can't focus",
-    "link": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
+    "title": "Show HN: Boo \u2013 Screen-style terminal multiplexer built on libghostty",
+    "link": "https://github.com/coder/boo",
     "source": "Hacker News",
-    "published": "2026-06-11T20:14:33+00:00",
+    "published": "2026-06-11T20:52:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495818\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496250\">Comments</a>"
   },
   {
-    "title": "Travel Locally, Where You Are",
-    "link": "https://www.ssp.sh/brain/travel-where-you-are/",
-    "source": "Hacker News",
-    "published": "2026-06-11T20:08:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495751\">Comments</a>"
-  },
-  {
-    "title": "Shall we play a game? \u2013 LLMs use tactical nukes in 95% of simulations",
+    "title": "Shall we play a game? My AI nuclear simulation",
     "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
     "source": "Hacker News",
     "published": "2026-06-11T19:54:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48495575\">Comments</a>"
-  },
-  {
-    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "source": "Hacker News",
-    "published": "2026-06-11T17:35:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48493564\">Comments</a>"
-  },
-  {
-    "title": "Software Is Made Between Commits",
-    "link": "https://zed.dev/blog/introducing-deltadb",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:28:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>"
   },
   {
     "title": "Waymo Premier",
@@ -72,12 +64,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48492210\">Comments</a>"
   },
   {
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "link": "https://mtgautodeck.com/articles/mtg-bench/",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:01:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492177\">Comments</a>"
+  },
+  {
     "title": "Petition to Withdraw Canada's Bill C-22",
     "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
     "source": "Hacker News",
     "published": "2026-06-11T15:37:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48491830\">Comments</a>"
+  },
+  {
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "link": "https://github.com/icitry/FPS.cob",
+    "source": "Hacker News",
+    "published": "2026-06-11T15:13:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491486\">Comments</a>"
   },
   {
     "title": "MiMo Code is now released and open-source",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48490024\">Comments</a>"
   },
   {
-    "title": "Open Reproduction of DeepSeek-R1",
-    "link": "https://github.com/huggingface/open-r1",
-    "source": "Hacker News",
-    "published": "2026-06-11T13:14:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>"
-  },
-  {
     "title": "Lines of code got a better publicist",
     "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "source": "Hacker News",
@@ -112,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>"
   },
   {
-    "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source": "Hacker News",
-    "published": "2026-06-11T06:42:06+00:00",
+    "published": "2026-06-11T12:05:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489229\">Comments</a>"
   },
   {
-    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-    "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "title": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
     "source": "Hacker News",
-    "published": "2026-06-10T17:47:46+00:00",
+    "published": "2026-06-11T08:38:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479996\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487829\">Comments</a>"
   },
   {
     "title": "Emacs appearances in pop culture",
@@ -152,7 +152,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48452001\">Comments</a>"
   },
   {
-    "title": "Ear Training Practice Exercises",
+    "title": "Ear Training Practice",
     "link": "https://tonedear.com/",
     "source": "Hacker News",
     "published": "2026-06-08T16:38:07+00:00",
