@@ -1,35 +1,115 @@
 [
   {
-    "title": "Don't trust large context windows",
-    "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Perlisisms",
+    "link": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
     "source": "Hacker News",
-    "published": "2026-06-14T06:07:09+00:00",
+    "published": "2026-06-14T14:56:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524620\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527820\">Comments</a>"
   },
   {
-    "title": "Tribblix: The retro Illumos distribution",
-    "link": "http://tribblix.org/",
+    "title": "UK set to announce social media ban for under-16s",
+    "link": "https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132",
     "source": "Hacker News",
-    "published": "2026-06-14T05:23:12+00:00",
+    "published": "2026-06-14T14:51:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524434\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527766\">Comments</a>"
   },
   {
-    "title": "Phoenix LiveView 1.2",
-    "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+    "title": "Dangerous hormone-disrupting chemicals found in US breast milk samples",
+    "link": "https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals",
     "source": "Hacker News",
-    "published": "2026-06-14T04:53:51+00:00",
+    "published": "2026-06-14T14:47:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524293\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527731\">Comments</a>"
   },
   {
-    "title": "Pac-Man, but you're the ghost",
-    "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "No, everyone is not using AI for everything",
+    "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
     "source": "Hacker News",
-    "published": "2026-06-14T04:18:45+00:00",
+    "published": "2026-06-14T14:44:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524135\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527700\">Comments</a>"
+  },
+  {
+    "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown \u2013 CNN",
+    "link": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+    "source": "Hacker News",
+    "published": "2026-06-14T14:40:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527658\">Comments</a>"
+  },
+  {
+    "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+    "link": "https://twitter.com/zenmagnets/status/2065796012820848699",
+    "source": "Hacker News",
+    "published": "2026-06-14T14:38:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527634\">Comments</a>"
+  },
+  {
+    "title": "Extinction-Level Capitalism",
+    "link": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "source": "Hacker News",
+    "published": "2026-06-14T14:29:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527533\">Comments</a>"
+  },
+  {
+    "title": "FarOutCompany",
+    "link": "https://faroutcompany.com/",
+    "source": "Hacker News",
+    "published": "2026-06-14T14:09:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527360\">Comments</a>"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "source": "Hacker News",
+    "published": "2026-06-14T14:01:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527297\">Comments</a>"
+  },
+  {
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "link": "https://su3.io/posts/zeroserve-caddy-compat",
+    "source": "Hacker News",
+    "published": "2026-06-14T13:43:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527145\">Comments</a>"
+  },
+  {
+    "title": "How did Atari apply side art to Arcade Cabinets?",
+    "link": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "source": "Hacker News",
+    "published": "2026-06-14T12:57:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526793\">Comments</a>"
+  },
+  {
+    "title": "The Birth and Death of JavaScript (2014)",
+    "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "source": "Hacker News",
+    "published": "2026-06-14T12:38:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526661\">Comments</a>"
+  },
+  {
+    "title": "Formal Methods and the Future of Programming",
+    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "source": "Hacker News",
+    "published": "2026-06-14T12:35:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526633\">Comments</a>"
+  },
+  {
+    "title": "How to Earn a Billion Dollars",
+    "link": "https://paulgraham.com/earn.html",
+    "source": "Hacker News",
+    "published": "2026-06-14T11:50:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526360\">Comments</a>"
   },
   {
     "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
@@ -40,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48523992\">Comments</a>"
   },
   {
-    "title": "Building a serial and VGA \"everything console\"",
-    "link": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "source": "Hacker News",
-    "published": "2026-06-14T02:31:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523615\">Comments</a>"
-  },
-  {
     "title": "Honda Civics and the Evil Valet",
     "link": "https://juniperspring.org/posts/honda-evil-valet/",
     "source": "Hacker News",
@@ -56,107 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>"
   },
   {
-    "title": "GLM 5.2 Is Out",
-    "link": "https://twitter.com/jietang/status/2065784751345287314",
+    "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
+    "link": "https://www.science.org/doi/10.1126/science.adu4373",
     "source": "Hacker News",
-    "published": "2026-06-13T16:18:31+00:00",
+    "published": "2026-06-13T16:58:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519102\">Comments</a>"
   },
   {
-    "title": "Noise infusion banned from statistical products published by Census Bureau",
-    "link": "https://desfontain.es/blog/banning-noise.html",
+    "title": "The only scalable delete in Postgres is DROP TABLE",
+    "link": "https://planetscale.com/blog/the-only-scalable-delete",
     "source": "Hacker News",
-    "published": "2026-06-13T13:54:56+00:00",
+    "published": "2026-06-11T16:48:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48517377\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492822\">Comments</a>"
   },
   {
-    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-    "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "title": "Lisp's Influence on Ruby",
+    "link": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
     "source": "Hacker News",
-    "published": "2026-06-13T13:34:00+00:00",
+    "published": "2026-06-11T14:43:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48517199\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491048\">Comments</a>"
   },
   {
-    "title": "Every Frame Perfect",
-    "link": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Firewood Splitting Simulator",
+    "link": "https://screen.toys/firewood/",
     "source": "Hacker News",
-    "published": "2026-06-13T11:40:20+00:00",
+    "published": "2026-06-10T05:01:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>"
-  },
-  {
-    "title": "A low-carbon computing platform from your retired phones",
-    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "source": "Hacker News",
-    "published": "2026-06-13T09:38:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515336\">Comments</a>"
-  },
-  {
-    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-    "link": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "source": "Hacker News",
-    "published": "2026-06-12T02:58:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48499348\">Comments</a>"
-  },
-  {
-    "title": "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
-    "link": "https://github.com/raress96/dolby-atmos-encoder",
-    "source": "Hacker News",
-    "published": "2026-06-12T01:27:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498705\">Comments</a>"
-  },
-  {
-    "title": "Codex for open source",
-    "link": "https://openai.com/form/codex-for-oss/",
-    "source": "Hacker News",
-    "published": "2026-06-11T22:20:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>"
-  },
-  {
-    "title": "Beagle: Git, URIs and all the dirty words",
-    "link": "https://replicated.wiki/blog/uris.html",
-    "source": "Hacker News",
-    "published": "2026-06-11T18:05:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48494135\">Comments</a>"
-  },
-  {
-    "title": "Windows 1.0 and the WinAPI, 40 Years Later",
-    "link": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
-    "source": "Hacker News",
-    "published": "2026-06-11T16:14:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492366\">Comments</a>"
-  },
-  {
-    "title": "FreeOberon \u2013 Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-    "link": "https://github.com/kekcleader/FreeOberon",
-    "source": "Hacker News",
-    "published": "2026-06-11T14:34:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>"
-  },
-  {
-    "title": "LaserWriter seeds",
-    "link": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "source": "Hacker News",
-    "published": "2026-06-10T22:47:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483841\">Comments</a>"
-  },
-  {
-    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-    "link": "https://blog.pyodide.org/posts/314-release/",
-    "source": "Hacker News",
-    "published": "2026-06-09T15:54:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462759\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48471638\">Comments</a>"
   }
 ]
