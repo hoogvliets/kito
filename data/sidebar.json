@@ -1,11 +1,43 @@
 [
   {
-    "title": "State Attorneys General Are Investigating OpenAI",
-    "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+    "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+    "link": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
     "source": "Hacker News",
-    "published": "2026-06-13T23:52:19+00:00",
+    "published": "2026-06-14T02:59:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522675\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523773\">Comments</a>"
+  },
+  {
+    "title": "Building a serial and VGA \"everything console\"",
+    "link": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "source": "Hacker News",
+    "published": "2026-06-14T02:31:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523615\">Comments</a>"
+  },
+  {
+    "title": "Apt Encounters of the Third Kind",
+    "link": "https://igor-blue.github.io/2021/03/24/apt1.html",
+    "source": "Hacker News",
+    "published": "2026-06-14T02:17:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523550\">Comments</a>"
+  },
+  {
+    "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+    "link": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+    "source": "Hacker News",
+    "published": "2026-06-14T01:10:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523203\">Comments</a>"
+  },
+  {
+    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+    "link": "https://juniperspring.org/posts/honda-evil-valet/",
+    "source": "Hacker News",
+    "published": "2026-06-14T00:49:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>"
   },
   {
     "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
@@ -14,14 +46,6 @@
     "published": "2026-06-13T23:22:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48522486\">Comments</a>"
-  },
-  {
-    "title": "Ancient genome duplications laid the foundations of complex brains",
-    "link": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-    "source": "Hacker News",
-    "published": "2026-06-13T22:54:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522310\">Comments</a>"
   },
   {
     "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
@@ -56,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48519092\">Comments</a>"
   },
   {
-    "title": "The adder at the heart of Intel's 8087 floating-point chip",
-    "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "source": "Hacker News",
-    "published": "2026-06-13T16:49:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519011\">Comments</a>"
-  },
-  {
     "title": "GLM 5.2 Is Out",
     "link": "https://twitter.com/jietang/status/2065784751345287314",
     "source": "Hacker News",
     "published": "2026-06-13T16:18:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>"
-  },
-  {
-    "title": "Orthodox C++ (2016)",
-    "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "source": "Hacker News",
-    "published": "2026-06-13T13:58:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48517412\">Comments</a>"
   },
   {
     "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48517199\">Comments</a>"
   },
   {
-    "title": "The experience of rendering Arabic typography and its technical debt",
-    "link": "https://lr0.org/blog/p/arabic/",
-    "source": "Hacker News",
-    "published": "2026-06-13T12:40:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516710\">Comments</a>"
-  },
-  {
     "title": "Every Frame Perfect",
     "link": "https://tonsky.me/blog/every-frame-perfect/",
     "source": "Hacker News",
@@ -112,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>"
   },
   {
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-    "link": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "Python 3.14 garbage collection rigamarole",
+    "link": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
     "source": "Hacker News",
-    "published": "2026-06-13T09:55:32+00:00",
+    "published": "2026-06-12T11:59:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515454\">Comments</a>"
-  },
-  {
-    "title": "A low-carbon computing platform from your retired phones",
-    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "source": "Hacker News",
-    "published": "2026-06-13T09:38:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515336\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503009\">Comments</a>"
   },
   {
     "title": "Codex for open source",
@@ -136,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>"
   },
   {
-    "title": "Resurrecting a Soaked, corroded, and damaged Commodore SX\u201164 (2025)",
-    "link": "https://jerrylparker.com/blogs/posts/sx-64.html",
+    "title": "FreeOberon \u2013 Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "link": "https://github.com/kekcleader/FreeOberon",
     "source": "Hacker News",
-    "published": "2026-06-11T15:46:27+00:00",
+    "published": "2026-06-11T14:34:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491968\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>"
+  },
+  {
+    "title": "A whale necropolis has been found",
+    "link": "https://www.nature.com/articles/d41586-026-01581-x",
+    "source": "Hacker News",
+    "published": "2026-06-10T19:40:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481546\">Comments</a>"
   },
   {
     "title": "Appreciating Exif",
