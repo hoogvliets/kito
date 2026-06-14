@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+    "link": "https://zinnia-os.org/",
+    "source": "Hacker News",
+    "published": "2026-06-14T21:04:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48532705\">Comments</a>"
+  },
+  {
+    "title": "Chaosnet (1981)",
+    "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "source": "Hacker News",
+    "published": "2026-06-14T19:14:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48531449\">Comments</a>"
+  },
+  {
+    "title": "Yserver: A modern X11 server written in Rust",
+    "link": "https://github.com/joske/yserver",
+    "source": "Hacker News",
+    "published": "2026-06-14T19:10:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48531394\">Comments</a>"
+  },
+  {
     "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
     "link": "https://github.com/tamnd/kage",
     "source": "Hacker News",
@@ -8,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48529990\">Comments</a>"
   },
   {
-    "title": "Swiss voters reject proposal to cap population at ten million",
-    "link": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-    "source": "Hacker News",
-    "published": "2026-06-14T16:28:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48529149\">Comments</a>"
-  },
-  {
     "title": "Ask HN: What are you working on? (June 2026)",
     "link": "https://news.ycombinator.com/item?id=48528779",
     "source": "Hacker News",
     "published": "2026-06-14T16:05:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48528779\">Comments</a>"
-  },
-  {
-    "title": "Linux 7.1",
-    "link": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-    "source": "Hacker News",
-    "published": "2026-06-14T16:01:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48528729\">Comments</a>"
   },
   {
     "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -48,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48528029\">Comments</a>"
   },
   {
-    "title": "Perlisisms",
+    "title": "Perlisisms (1982)",
     "link": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
     "source": "Hacker News",
     "published": "2026-06-14T14:56:56+00:00",
@@ -56,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48527820\">Comments</a>"
   },
   {
-    "title": "No, everyone is not using AI for everything",
+    "title": "Not everyone is using AI for everything",
     "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
     "source": "Hacker News",
     "published": "2026-06-14T14:44:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48527700\">Comments</a>"
-  },
-  {
-    "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-    "link": "https://twitter.com/zenmagnets/status/2065796012820848699",
-    "source": "Hacker News",
-    "published": "2026-06-14T14:38:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527634\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
-    "link": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-    "source": "Hacker News",
-    "published": "2026-06-14T14:37:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527623\">Comments</a>"
   },
   {
     "title": "FarOutCompany",
@@ -104,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48526661\">Comments</a>"
   },
   {
-    "title": "Formal Methods and the Future of Programming",
+    "title": "Formal methods and the future of programming",
     "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
     "source": "Hacker News",
     "published": "2026-06-14T12:35:27+00:00",
@@ -112,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48526633\">Comments</a>"
   },
   {
-    "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
-    "link": "https://www.science.org/doi/10.1126/science.adu4373",
+    "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
+    "link": "https://traceapp.info",
     "source": "Hacker News",
-    "published": "2026-06-13T16:58:52+00:00",
+    "published": "2026-06-13T20:41:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519102\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521236\">Comments</a>"
+  },
+  {
+    "title": "The first game engine for robotics",
+    "link": "https://luckyrobots.com/",
+    "source": "Hacker News",
+    "published": "2026-06-12T10:02:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48502053\">Comments</a>"
   },
   {
     "title": "The only scalable delete in Postgres is DROP TABLE",
@@ -136,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48491048\">Comments</a>"
   },
   {
-    "title": "Quivers: A year of linear algebra by drawing arrows",
-    "link": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "title": "Segmented type appreciation corner (2018)",
+    "link": "https://aresluna.org/segmented-type/",
     "source": "Hacker News",
-    "published": "2026-06-10T11:57:21+00:00",
+    "published": "2026-06-11T12:50:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48474982\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489636\">Comments</a>"
+  },
+  {
+    "title": "Inverse Rubric Optimization: A testbed for agent science",
+    "link": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+    "source": "Hacker News",
+    "published": "2026-06-11T01:43:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48485277\">Comments</a>"
   },
   {
     "title": "Firewood Splitting Simulator",
@@ -150,13 +158,5 @@
     "published": "2026-06-10T05:01:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48471638\">Comments</a>"
-  },
-  {
-    "title": "Show HN: 3D print Z reinforcement via injected loops",
-    "link": "https://mgunlogson.github.io/magma/",
-    "source": "Hacker News",
-    "published": "2026-06-09T13:17:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48460762\">Comments</a>"
   }
 ]
