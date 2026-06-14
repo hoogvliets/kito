@@ -16,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48524434\">Comments</a>"
   },
   {
-    "title": "Phoenix LiveView 1.2 Released",
+    "title": "Phoenix LiveView 1.2",
     "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
     "source": "Hacker News",
     "published": "2026-06-14T04:53:51+00:00",
@@ -38,22 +38,6 @@
     "published": "2026-06-14T03:43:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48523992\">Comments</a>"
-  },
-  {
-    "title": "Making Claude a Chemist",
-    "link": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "source": "Hacker News",
-    "published": "2026-06-14T02:55:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523752\">Comments</a>"
-  },
-  {
-    "title": "Weave: Merging based on language structure and not lines",
-    "link": "https://ataraxy-labs.github.io/weave/",
-    "source": "Hacker News",
-    "published": "2026-06-14T02:45:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523705\">Comments</a>"
   },
   {
     "title": "Building a serial and VGA \"everything console\"",
@@ -104,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>"
   },
   {
-    "title": "Python 3.14 garbage collection rigamarole",
-    "link": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "title": "A low-carbon computing platform from your retired phones",
+    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
     "source": "Hacker News",
-    "published": "2026-06-12T11:59:40+00:00",
+    "published": "2026-06-13T09:38:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503009\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515336\">Comments</a>"
   },
   {
     "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
@@ -120,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48499348\">Comments</a>"
   },
   {
-    "title": "Cooling in Space",
-    "link": "https://guille.site/posts/space-cooling/",
+    "title": "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
+    "link": "https://github.com/raress96/dolby-atmos-encoder",
     "source": "Hacker News",
-    "published": "2026-06-11T20:43:32+00:00",
+    "published": "2026-06-12T01:27:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496156\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498705\">Comments</a>"
+  },
+  {
+    "title": "Codex for open source",
+    "link": "https://openai.com/form/codex-for-oss/",
+    "source": "Hacker News",
+    "published": "2026-06-11T22:20:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>"
   },
   {
     "title": "Beagle: Git, URIs and all the dirty words",
@@ -134,6 +126,14 @@
     "published": "2026-06-11T18:05:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48494135\">Comments</a>"
+  },
+  {
+    "title": "Windows 1.0 and the WinAPI, 40 Years Later",
+    "link": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
+    "source": "Hacker News",
+    "published": "2026-06-11T16:14:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492366\">Comments</a>"
   },
   {
     "title": "FreeOberon \u2013 Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
