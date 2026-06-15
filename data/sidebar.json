@@ -1,43 +1,27 @@
 [
   {
-    "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+    "title": "Even more batteries included with Emacs",
+    "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "source": "Hacker News",
+    "published": "2026-06-15T02:30:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48535886\">Comments</a>"
+  },
+  {
+    "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+    "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+    "source": "Hacker News",
+    "published": "2026-06-15T00:07:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48534628\">Comments</a>"
+  },
+  {
+    "title": "Your ePub Is fine",
     "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
     "source": "Hacker News",
     "published": "2026-06-14T22:54:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>"
-  },
-  {
-    "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-    "link": "https://iza.ac/posts/2026/06/food-authenticity/",
-    "source": "Hacker News",
-    "published": "2026-06-14T22:53:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533829\">Comments</a>"
-  },
-  {
-    "title": "The Jqwik Anti-AI Affair",
-    "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "source": "Hacker News",
-    "published": "2026-06-14T22:43:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533736\">Comments</a>"
-  },
-  {
-    "title": "Did Anthropic ask for this?",
-    "link": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-    "source": "Hacker News",
-    "published": "2026-06-14T22:23:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533504\">Comments</a>"
-  },
-  {
-    "title": "AI is code \u2013 and can't be prompted into being smarter",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "source": "Hacker News",
-    "published": "2026-06-14T20:17:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48532178\">Comments</a>"
   },
   {
     "title": "Chaosnet (1981)",
@@ -46,6 +30,14 @@
     "published": "2026-06-14T19:14:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48531449\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "link": "https://www.orangecrumbs.com/",
+    "source": "Hacker News",
+    "published": "2026-06-14T17:54:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48530382\">Comments</a>"
   },
   {
     "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
@@ -80,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48527820\">Comments</a>"
   },
   {
-    "title": "FarOutCompany",
-    "link": "https://faroutcompany.com/",
-    "source": "Hacker News",
-    "published": "2026-06-14T14:09:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527360\">Comments</a>"
-  },
-  {
     "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
     "link": "https://su3.io/posts/zeroserve-caddy-compat",
     "source": "Hacker News",
@@ -120,6 +104,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48507039\">Comments</a>"
   },
   {
+    "title": "Prove you're human by winning a claw machine",
+    "link": "https://feralui.vercel.app/#/captcha",
+    "source": "Hacker News",
+    "published": "2026-06-12T13:23:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503806\">Comments</a>"
+  },
+  {
+    "title": "Bitsy",
+    "link": "https://bitsy.org/",
+    "source": "Hacker News",
+    "published": "2026-06-11T20:56:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496290\">Comments</a>"
+  },
+  {
     "title": "The only scalable delete in Postgres is DROP TABLE",
     "link": "https://planetscale.com/blog/the-only-scalable-delete",
     "source": "Hacker News",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48489636\">Comments</a>"
   },
   {
-    "title": "Chopped, Stored, Secured \u2013 The Story of the Hash Function",
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+    "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+    "link": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
     "source": "Hacker News",
-    "published": "2026-06-10T21:27:10+00:00",
+    "published": "2026-06-11T00:25:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48482951\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48484711\">Comments</a>"
   },
   {
     "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
