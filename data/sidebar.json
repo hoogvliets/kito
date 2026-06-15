@@ -1,19 +1,43 @@
 [
   {
-    "title": "The Alaska Server",
-    "link": "https://serialport.org/blog/the-alaska-server/",
+    "title": "Techno-libertarians are flocking to the Caribbean",
+    "link": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
     "source": "Hacker News",
-    "published": "2026-06-15T18:37:27+00:00",
+    "published": "2026-06-15T21:30:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48545293\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547271\">Comments</a>"
   },
   {
-    "title": "Around 200 Stanford students walk out as Google CEO takes stage",
-    "link": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
+    "title": "US battery manufacturing output continues to break records",
+    "link": "https://fred.stlouisfed.org/series/IPG33591S",
     "source": "Hacker News",
-    "published": "2026-06-15T18:34:14+00:00",
+    "published": "2026-06-15T20:28:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48545260\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546616\">Comments</a>"
+  },
+  {
+    "title": "I Love the Computer",
+    "link": "https://michaelenger.com/blog/i-love-the-computer/",
+    "source": "Hacker News",
+    "published": "2026-06-15T20:14:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546441\">Comments</a>"
+  },
+  {
+    "title": "A backdoor in a LinkedIn job offer",
+    "link": "https://roman.pt/posts/linkedin-backdoor/",
+    "source": "Hacker News",
+    "published": "2026-06-15T20:00:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546294\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+    "link": "https://grassdx.com/",
+    "source": "Hacker News",
+    "published": "2026-06-15T17:56:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544823\">Comments</a>"
   },
   {
     "title": "Game Engine White Papers Commander Keen",
@@ -24,36 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48544781\">Comments</a>"
   },
   {
-    "title": "Claude Corps",
-    "link": "https://www.anthropic.com/news/claude-corps",
-    "source": "Hacker News",
-    "published": "2026-06-15T17:41:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544637\">Comments</a>"
-  },
-  {
     "title": "How TimescaleDB compresses time-series data",
     "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
     "source": "Hacker News",
     "published": "2026-06-15T17:29:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48544451\">Comments</a>"
-  },
-  {
-    "title": "Typst 0.15.0",
-    "link": "https://typst.app/docs/changelog/0.15.0/",
-    "source": "Hacker News",
-    "published": "2026-06-15T17:24:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544396\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
-    "link": "https://news.ycombinator.com/item?id=48543908",
-    "source": "Hacker News",
-    "published": "2026-06-15T16:47:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543908\">Comments</a>"
   },
   {
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
@@ -64,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48543475\">Comments</a>"
   },
   {
-    "title": "Boot Naked Linux",
-    "link": "https://nick.zoic.org/art/boot-naked-linux/",
+    "title": "How memory safety CVEs differ between Rust and C/C++",
+    "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
     "source": "Hacker News",
-    "published": "2026-06-15T16:03:26+00:00",
+    "published": "2026-06-15T16:11:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543269\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543392\">Comments</a>"
   },
   {
     "title": "Iroh 1.0",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48542100\">Comments</a>"
   },
   {
-    "title": "CrankGPT",
-    "link": "https://crankgpt.com",
-    "source": "Hacker News",
-    "published": "2026-06-15T13:20:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48540854\">Comments</a>"
-  },
-  {
     "title": "Hetzner Price Adjustment",
     "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
     "source": "Hacker News",
@@ -128,28 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48540499\">Comments</a>"
   },
   {
-    "title": "Apple Foundation Models",
-    "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-    "source": "Hacker News",
-    "published": "2026-06-15T04:55:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48536776\">Comments</a>"
-  },
-  {
-    "title": "Your ePub Is fine",
-    "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "source": "Hacker News",
-    "published": "2026-06-14T22:54:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>"
-  },
-  {
     "title": "Making glass-to-metal seals for home\u00admade vacuum tubes",
     "link": "https://maurycyz.com/projects/glass/1/",
     "source": "Hacker News",
     "published": "2026-06-14T15:52:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48528587\">Comments</a>"
+  },
+  {
+    "title": "What every coder should know about Gamma Correction",
+    "link": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "source": "Hacker News",
+    "published": "2026-06-13T22:01:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521925\">Comments</a>"
+  },
+  {
+    "title": "A calculator that doesn't round",
+    "link": "https://constructive-calculator.dimview.org/writeup.html",
+    "source": "Hacker News",
+    "published": "2026-06-12T16:18:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506023\">Comments</a>"
+  },
+  {
+    "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+    "link": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
+    "source": "Hacker News",
+    "published": "2026-06-12T12:52:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503509\">Comments</a>"
   },
   {
     "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
