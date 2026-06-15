@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anthropic's Safety Superpower",
+    "link": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "source": "Hacker News",
+    "published": "2026-06-15T10:06:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48539078\">Comments</a>"
+  },
+  {
+    "title": "Anthropic flies staff to D.C. to clean up White House fight",
+    "link": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
+    "source": "Hacker News",
+    "published": "2026-06-15T09:23:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48538737\">Comments</a>"
+  },
+  {
+    "title": "What the Fuck Happened to Nerds",
+    "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "source": "Hacker News",
+    "published": "2026-06-15T08:23:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48538229\">Comments</a>"
+  },
+  {
+    "title": "Openrouter Fusion API",
+    "link": "https://openrouter.ai/openrouter/fusion",
+    "source": "Hacker News",
+    "published": "2026-06-15T07:10:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537641\">Comments</a>"
+  },
+  {
     "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
     "link": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
     "source": "Hacker News",
@@ -48,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>"
   },
   {
-    "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-    "source": "Hacker News",
-    "published": "2026-06-14T21:42:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533101\">Comments</a>"
-  },
-  {
-    "title": "Chaosnet (1981)",
-    "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-    "source": "Hacker News",
-    "published": "2026-06-14T19:14:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48531449\">Comments</a>"
-  },
-  {
     "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
     "link": "https://github.com/tamnd/kage",
     "source": "Hacker News",
     "published": "2026-06-14T17:25:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48529990\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: What are you working on? (June 2026)",
-    "link": "https://news.ycombinator.com/item?id=48528779",
-    "source": "Hacker News",
-    "published": "2026-06-14T16:05:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48528779\">Comments</a>"
   },
   {
     "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -88,30 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48528371\">Comments</a>"
   },
   {
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-    "link": "https://su3.io/posts/zeroserve-caddy-compat",
-    "source": "Hacker News",
-    "published": "2026-06-14T13:43:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48527145\">Comments</a>"
-  },
-  {
-    "title": "Formal methods and the future of programming",
-    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-    "source": "Hacker News",
-    "published": "2026-06-14T12:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526633\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
-    "link": "https://traceapp.info",
-    "source": "Hacker News",
-    "published": "2026-06-13T20:41:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521236\">Comments</a>"
-  },
-  {
     "title": "Why does paper fold so well?",
     "link": "https://www.bbc.co.uk/programmes/w3ct8k70",
     "source": "Hacker News",
@@ -120,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48520596\">Comments</a>"
   },
   {
-    "title": "The Last Surviving Japanese Porsche 912 Police Car",
-    "link": "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car",
+    "title": "Being an old school web-based sports sim dev in the era of vibe coded games",
+    "link": "https://zengm.com/blog/2026/06/vibecoded-games/",
     "source": "Hacker News",
-    "published": "2026-06-13T01:58:11+00:00",
+    "published": "2026-06-12T18:52:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48511734\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48508021\">Comments</a>"
+  },
+  {
+    "title": "Exploring building a tiny FUSE filesystem",
+    "link": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+    "source": "Hacker News",
+    "published": "2026-06-12T16:38:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506286\">Comments</a>"
+  },
+  {
+    "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
+    "link": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+    "source": "Hacker News",
+    "published": "2026-06-12T04:24:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48499898\">Comments</a>"
   },
   {
     "title": "Bitsy",
