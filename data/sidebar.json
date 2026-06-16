@@ -1,5 +1,29 @@
 [
   {
+    "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "source": "Hacker News",
+    "published": "2026-06-16T20:34:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48561654\">Comments</a>"
+  },
+  {
+    "title": "Frood, an Alpine Initramfs NAS (2024)",
+    "link": "https://words.filippo.io/frood/",
+    "source": "Hacker News",
+    "published": "2026-06-16T20:17:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48561402\">Comments</a>"
+  },
+  {
+    "title": "Apple is about to make Hide My Email useless",
+    "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "source": "Hacker News",
+    "published": "2026-06-16T18:37:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48559935\">Comments</a>"
+  },
+  {
     "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
     "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "source": "Hacker News",
@@ -14,14 +38,6 @@
     "published": "2026-06-16T17:48:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48559083\">Comments</a>"
-  },
-  {
-    "title": "Claude: Elevated errors across many models",
-    "link": "https://status.claude.com/incidents/xmhsglsz3h3w",
-    "source": "Hacker News",
-    "published": "2026-06-16T17:30:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558766\">Comments</a>"
   },
   {
     "title": "Has AI already killed self-help nonfiction books?",
@@ -40,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48558147\">Comments</a>"
   },
   {
-    "title": "Why is Meta destroying its engineering organization?",
+    "title": "Is Meta destroying its engineering organization?",
     "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
     "source": "Hacker News",
     "published": "2026-06-16T16:42:32+00:00",
@@ -80,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48557079\">Comments</a>"
   },
   {
-    "title": "After AI Takes Everything",
-    "link": "https://ursb.me/en/posts/after-ai-takes-everything/",
-    "source": "Hacker News",
-    "published": "2026-06-16T15:20:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556644\">Comments</a>"
-  },
-  {
-    "title": "SubQ 1.1 Small",
-    "link": "https://subq.ai/subq-1-1-small-technical-report",
-    "source": "Hacker News",
-    "published": "2026-06-16T14:50:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556163\">Comments</a>"
-  },
-  {
     "title": "Running local models is good now",
     "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "source": "Hacker News",
@@ -104,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48555993\">Comments</a>"
   },
   {
-    "title": "But yak shaving is fun",
+    "title": "But yak shaving is fun (2019)",
     "link": "https://parksb.github.io/en/article/32.html",
     "source": "Hacker News",
     "published": "2026-06-16T14:26:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48555838\">Comments</a>"
-  },
-  {
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-    "link": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "source": "Hacker News",
-    "published": "2026-06-16T13:15:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554814\">Comments</a>"
   },
   {
     "title": "Mechanical Watch (2022)",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48552844\">Comments</a>"
   },
   {
-    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "title": "W.H. Auden and James Schuyler in life and literature",
+    "link": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
     "source": "Hacker News",
-    "published": "2026-06-16T04:58:15+00:00",
+    "published": "2026-06-13T22:14:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48550779\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522037\">Comments</a>"
   },
   {
-    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+    "title": "ASM Shader Toy",
+    "link": "https://wegfawefgawefg.github.io/asm-shader-toy/",
     "source": "Hacker News",
-    "published": "2026-06-16T04:46:36+00:00",
+    "published": "2026-06-12T02:04:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48550693\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498981\">Comments</a>"
+  },
+  {
+    "title": "Formal Methods and the Future of Programming",
+    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "source": "Hacker News",
+    "published": "2026-06-11T22:07:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497067\">Comments</a>"
   }
 ]
