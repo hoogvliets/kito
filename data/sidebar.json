@@ -1,38 +1,94 @@
 [
   {
-    "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
-    "link": "https://twitter.com/fguzmanai/status/2065832668172845209",
+    "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
+    "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "source": "Hacker News",
-    "published": "2026-06-16T16:12:26+00:00",
+    "published": "2026-06-16T17:54:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557535\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48559188\">Comments</a>"
   },
   {
-    "title": "UK to require ID or face scan before you can make social media accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
     "source": "Hacker News",
-    "published": "2026-06-16T15:39:36+00:00",
+    "published": "2026-06-16T17:48:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556985\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48559083\">Comments</a>"
   },
   {
-    "title": "Fable ban was never about a jailbreak",
-    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "title": "Claude: Elevated errors across many models",
+    "link": "https://status.claude.com/incidents/xmhsglsz3h3w",
     "source": "Hacker News",
-    "published": "2026-06-16T15:27:56+00:00",
+    "published": "2026-06-16T17:30:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556785\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558766\">Comments</a>"
   },
   {
-    "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
-    "link": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+    "title": "Has AI already killed self-help nonfiction books?",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "source": "Hacker News",
-    "published": "2026-06-16T15:05:09+00:00",
+    "published": "2026-06-16T17:11:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556414\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558489\">Comments</a>"
   },
   {
-    "title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+    "title": "Stop Using JWTs",
+    "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "source": "Hacker News",
+    "published": "2026-06-16T16:49:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558147\">Comments</a>"
+  },
+  {
+    "title": "Why is Meta destroying its engineering organization?",
+    "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "source": "Hacker News",
+    "published": "2026-06-16T16:42:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558045\">Comments</a>"
+  },
+  {
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "source": "Hacker News",
+    "published": "2026-06-16T16:40:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558018\">Comments</a>"
+  },
+  {
+    "title": "Making ast.walk 220x Faster",
+    "link": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+    "source": "Hacker News",
+    "published": "2026-06-16T16:25:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557768\">Comments</a>"
+  },
+  {
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+    "source": "Hacker News",
+    "published": "2026-06-16T16:12:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557530\">Comments</a>"
+  },
+  {
+    "title": "Calvin and Hobbes and the price of integrity",
+    "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "source": "Hacker News",
+    "published": "2026-06-16T15:44:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557079\">Comments</a>"
+  },
+  {
+    "title": "After AI Takes Everything",
+    "link": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "source": "Hacker News",
+    "published": "2026-06-16T15:20:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556644\">Comments</a>"
+  },
+  {
+    "title": "SubQ 1.1 Small",
     "link": "https://subq.ai/subq-1-1-small-technical-report",
     "source": "Hacker News",
     "published": "2026-06-16T14:50:10+00:00",
@@ -56,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48555838\">Comments</a>"
   },
   {
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "link": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "source": "Hacker News",
+    "published": "2026-06-16T13:15:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554814\">Comments</a>"
+  },
+  {
     "title": "Mechanical Watch (2022)",
     "link": "https://ciechanow.ski/mechanical-watch/",
     "source": "Hacker News",
     "published": "2026-06-16T11:26:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48553550\">Comments</a>"
-  },
-  {
-    "title": "Unicorn \u2013 The Ultimate CPU Emulator",
-    "link": "https://www.unicorn-engine.org/",
-    "source": "Hacker News",
-    "published": "2026-06-16T11:14:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553450\">Comments</a>"
   },
   {
     "title": "SpaceX to buy Cursor for $60B",
@@ -88,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48552844\">Comments</a>"
   },
   {
-    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-    "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "source": "Hacker News",
-    "published": "2026-06-16T09:26:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48552687\">Comments</a>"
-  },
-  {
     "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
     "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
     "source": "Hacker News",
@@ -110,53 +158,5 @@
     "published": "2026-06-16T04:46:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48550693\">Comments</a>"
-  },
-  {
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "link": "https://www.richardosgood.com/posts/banned-book-library/",
-    "source": "Hacker News",
-    "published": "2026-06-15T22:37:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547985\">Comments</a>"
-  },
-  {
-    "title": "Getting Creative with Perlin Noise Fields",
-    "link": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "source": "Hacker News",
-    "published": "2026-06-13T22:55:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522316\">Comments</a>"
-  },
-  {
-    "title": "The history of butterfly swimming",
-    "link": "https://www.swimming.org/sport/history-of-butterfly/",
-    "source": "Hacker News",
-    "published": "2026-06-13T21:00:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521414\">Comments</a>"
-  },
-  {
-    "title": "An interview with an Apple emoji designer",
-    "link": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-    "source": "Hacker News",
-    "published": "2026-06-13T17:56:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519723\">Comments</a>"
-  },
-  {
-    "title": "4\u00d7 RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave",
-    "link": "https://sabareesh.com/posts/blackwell-waterblock/",
-    "source": "Hacker News",
-    "published": "2026-06-12T19:37:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48508550\">Comments</a>"
-  },
-  {
-    "title": "Infineon to open fab in Germany as part of sovereignty push",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
-    "source": "Hacker News",
-    "published": "2026-06-12T05:26:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48500251\">Comments</a>"
   }
 ]
