@@ -1,35 +1,59 @@
 [
   {
-    "title": "Is Fable 5 Back?",
-    "link": "https://isfable5back.com",
+    "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+    "link": "https://twitter.com/fguzmanai/status/2065832668172845209",
     "source": "Hacker News",
-    "published": "2026-06-16T13:05:07+00:00",
+    "published": "2026-06-16T16:12:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554680\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557535\">Comments</a>"
   },
   {
-    "title": "Show HN: Voice Age Verification",
-    "link": "https://agewarden.ai/",
+    "title": "UK to require ID or face scan before you can make social media accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
     "source": "Hacker News",
-    "published": "2026-06-16T13:04:56+00:00",
+    "published": "2026-06-16T15:39:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554677\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556985\">Comments</a>"
   },
   {
-    "title": "SpaceX Is Buying Cursor",
-    "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
+    "title": "Fable ban was never about a jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
     "source": "Hacker News",
-    "published": "2026-06-16T12:31:37+00:00",
+    "published": "2026-06-16T15:27:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554215\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556785\">Comments</a>"
   },
   {
-    "title": "Russian artist and Putin critic shot dead in Poland",
-    "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o",
+    "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
+    "link": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
     "source": "Hacker News",
-    "published": "2026-06-16T12:31:18+00:00",
+    "published": "2026-06-16T15:05:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554208\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556414\">Comments</a>"
+  },
+  {
+    "title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+    "link": "https://subq.ai/subq-1-1-small-technical-report",
+    "source": "Hacker News",
+    "published": "2026-06-16T14:50:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556163\">Comments</a>"
+  },
+  {
+    "title": "Running local models is good now",
+    "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "source": "Hacker News",
+    "published": "2026-06-16T14:36:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48555993\">Comments</a>"
+  },
+  {
+    "title": "But yak shaving is fun",
+    "link": "https://parksb.github.io/en/article/32.html",
+    "source": "Hacker News",
+    "published": "2026-06-16T14:26:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48555838\">Comments</a>"
   },
   {
     "title": "Mechanical Watch (2022)",
@@ -40,20 +64,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48553550\">Comments</a>"
   },
   {
+    "title": "Unicorn \u2013 The Ultimate CPU Emulator",
+    "link": "https://www.unicorn-engine.org/",
+    "source": "Hacker News",
+    "published": "2026-06-16T11:14:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553450\">Comments</a>"
+  },
+  {
+    "title": "SpaceX to buy Cursor for $60B",
+    "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "source": "Hacker News",
+    "published": "2026-06-16T10:44:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553224\">Comments</a>"
+  },
+  {
     "title": "Correlated randomness in Slay the Spire 2",
     "link": "https://tck.mn/blog/correlated-randomness-sts2/",
     "source": "Hacker News",
     "published": "2026-06-16T09:46:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48552844\">Comments</a>"
-  },
-  {
-    "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "link": "https://trinket.strivemath.org/",
-    "source": "Hacker News",
-    "published": "2026-06-16T09:30:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48552723\">Comments</a>"
   },
   {
     "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
@@ -64,15 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48552687\">Comments</a>"
   },
   {
-    "title": "Understanding the rationale behind a rule when trying to circumvent it",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-    "source": "Hacker News",
-    "published": "2026-06-16T07:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48551876\">Comments</a>"
-  },
-  {
-    "title": "John Carmack on Fabrice Bellard",
+    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
     "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
     "source": "Hacker News",
     "published": "2026-06-16T04:58:15+00:00",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48550693\">Comments</a>"
   },
   {
-    "title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
-    "link": "https://garden-of-flowers.heikkilotvonen.com/",
-    "source": "Hacker News",
-    "published": "2026-06-16T04:25:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48550569\">Comments</a>"
-  },
-  {
     "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
     "link": "https://www.richardosgood.com/posts/banned-book-library/",
     "source": "Hacker News",
@@ -104,59 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48547985\">Comments</a>"
   },
   {
-    "title": "I Love the Computer",
-    "link": "https://michaelenger.com/blog/i-love-the-computer/",
-    "source": "Hacker News",
-    "published": "2026-06-15T20:14:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546441\">Comments</a>"
-  },
-  {
-    "title": "A backdoor in a LinkedIn job offer",
-    "link": "https://roman.pt/posts/linkedin-backdoor/",
-    "source": "Hacker News",
-    "published": "2026-06-15T20:00:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546294\">Comments</a>"
-  },
-  {
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "link": "https://tinywind.io",
-    "source": "Hacker News",
-    "published": "2026-06-15T16:15:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543475\">Comments</a>"
-  },
-  {
-    "title": "Iroh 1.0",
-    "link": "https://www.iroh.computer/blog/v1",
-    "source": "Hacker News",
-    "published": "2026-06-15T15:13:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48542480\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "link": "https://news.ycombinator.com/item?id=48542100",
-    "source": "Hacker News",
-    "published": "2026-06-15T14:46:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48542100\">Comments</a>"
-  },
-  {
-    "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
-    "link": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
-    "source": "Hacker News",
-    "published": "2026-06-14T00:59:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523126\">Comments</a>"
-  },
-  {
     "title": "Getting Creative with Perlin Noise Fields",
     "link": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
     "source": "Hacker News",
     "published": "2026-06-13T22:55:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48522316\">Comments</a>"
+  },
+  {
+    "title": "The history of butterfly swimming",
+    "link": "https://www.swimming.org/sport/history-of-butterfly/",
+    "source": "Hacker News",
+    "published": "2026-06-13T21:00:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521414\">Comments</a>"
+  },
+  {
+    "title": "An interview with an Apple emoji designer",
+    "link": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+    "source": "Hacker News",
+    "published": "2026-06-13T17:56:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519723\">Comments</a>"
+  },
+  {
+    "title": "4\u00d7 RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave",
+    "link": "https://sabareesh.com/posts/blackwell-waterblock/",
+    "source": "Hacker News",
+    "published": "2026-06-12T19:37:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48508550\">Comments</a>"
+  },
+  {
+    "title": "Infineon to open fab in Germany as part of sovereignty push",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
+    "source": "Hacker News",
+    "published": "2026-06-12T05:26:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48500251\">Comments</a>"
   }
 ]
