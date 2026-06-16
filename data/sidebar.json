@@ -1,11 +1,27 @@
 [
   {
-    "title": "Techno-libertarians are flocking to the Caribbean",
-    "link": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "link": "https://www.richardosgood.com/posts/banned-book-library/",
     "source": "Hacker News",
-    "published": "2026-06-15T21:30:41+00:00",
+    "published": "2026-06-15T22:37:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547271\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547985\">Comments</a>"
+  },
+  {
+    "title": "Why I email complete strangers",
+    "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "source": "Hacker News",
+    "published": "2026-06-15T21:57:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547566\">Comments</a>"
+  },
+  {
+    "title": "Peopleless economy? Not technically impossible",
+    "link": "https://gmalandrakis.com/writings/ad-economicum.html",
+    "source": "Hacker News",
+    "published": "2026-06-15T21:10:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547062\">Comments</a>"
   },
   {
     "title": "US battery manufacturing output continues to break records",
@@ -24,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48546441\">Comments</a>"
   },
   {
+    "title": "What job interviews taught me about Kubernetes",
+    "link": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "source": "Hacker News",
+    "published": "2026-06-15T20:12:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546428\">Comments</a>"
+  },
+  {
     "title": "A backdoor in a LinkedIn job offer",
     "link": "https://roman.pt/posts/linkedin-backdoor/",
     "source": "Hacker News",
     "published": "2026-06-15T20:00:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48546294\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Vet turned founder, AI lawn diagnosis",
-    "link": "https://grassdx.com/",
-    "source": "Hacker News",
-    "published": "2026-06-15T17:56:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544823\">Comments</a>"
   },
   {
     "title": "Game Engine White Papers Commander Keen",
@@ -56,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48544451\">Comments</a>"
   },
   {
+    "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
+    "link": "https://news.ycombinator.com/item?id=48543908",
+    "source": "Hacker News",
+    "published": "2026-06-15T16:47:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543908\">Comments</a>"
+  },
+  {
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
     "link": "https://tinywind.io",
     "source": "Hacker News",
     "published": "2026-06-15T16:15:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48543475\">Comments</a>"
-  },
-  {
-    "title": "How memory safety CVEs differ between Rust and C/C++",
-    "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "source": "Hacker News",
-    "published": "2026-06-15T16:11:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543392\">Comments</a>"
   },
   {
     "title": "Iroh 1.0",
@@ -120,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48540499\">Comments</a>"
   },
   {
-    "title": "Making glass-to-metal seals for home\u00admade vacuum tubes",
-    "link": "https://maurycyz.com/projects/glass/1/",
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+    "link": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
     "source": "Hacker News",
-    "published": "2026-06-14T15:52:09+00:00",
+    "published": "2026-06-15T12:08:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48528587\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48540126\">Comments</a>"
   },
   {
     "title": "What every coder should know about Gamma Correction",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48521925\">Comments</a>"
   },
   {
-    "title": "A calculator that doesn't round",
-    "link": "https://constructive-calculator.dimview.org/writeup.html",
+    "title": "An O(x)Caml book that runs",
+    "link": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
     "source": "Hacker News",
-    "published": "2026-06-12T16:18:20+00:00",
+    "published": "2026-06-13T13:11:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506023\">Comments</a>"
-  },
-  {
-    "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
-    "link": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
-    "source": "Hacker News",
-    "published": "2026-06-12T12:52:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503509\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
-    "link": "https://fata.dev",
-    "source": "Hacker News",
-    "published": "2026-06-11T11:57:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489163\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516964\">Comments</a>"
   }
 ]
