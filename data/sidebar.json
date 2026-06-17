@@ -1,6 +1,30 @@
 [
   {
-    "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "source": "Hacker News",
+    "published": "2026-06-16T23:15:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48563609\">Comments</a>"
+  },
+  {
+    "title": "NLnet announces funding for 67 more open-source projects",
+    "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+    "source": "Hacker News",
+    "published": "2026-06-16T23:12:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48563569\">Comments</a>"
+  },
+  {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "source": "Hacker News",
+    "published": "2026-06-16T22:53:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48563394\">Comments</a>"
+  },
+  {
+    "title": "GrapheneOS has been ported to Android 17",
     "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
     "source": "Hacker News",
     "published": "2026-06-16T20:34:35+00:00",
@@ -56,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48558147\">Comments</a>"
   },
   {
-    "title": "Is Meta destroying its engineering organization?",
-    "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "source": "Hacker News",
-    "published": "2026-06-16T16:42:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48558045\">Comments</a>"
-  },
-  {
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "source": "Hacker News",
     "published": "2026-06-16T16:40:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48558018\">Comments</a>"
-  },
-  {
-    "title": "Making ast.walk 220x Faster",
-    "link": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
-    "source": "Hacker News",
-    "published": "2026-06-16T16:25:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48557768\">Comments</a>"
   },
   {
     "title": "Apple's weird anti-nausea dots cured my car sickness",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48552844\">Comments</a>"
   },
   {
-    "title": "W.H. Auden and James Schuyler in life and literature",
-    "link": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
+    "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
+    "link": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
     "source": "Hacker News",
-    "published": "2026-06-13T22:14:53+00:00",
+    "published": "2026-06-15T04:37:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522037\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48536660\">Comments</a>"
   },
   {
-    "title": "ASM Shader Toy",
-    "link": "https://wegfawefgawefg.github.io/asm-shader-toy/",
+    "title": "A Nipkow Disk Mechanical TV Simulator",
+    "link": "https://analogtv.net/mechanical-lab",
     "source": "Hacker News",
-    "published": "2026-06-12T02:04:55+00:00",
+    "published": "2026-06-14T11:33:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498981\">Comments</a>"
-  },
-  {
-    "title": "Formal Methods and the Future of Programming",
-    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "source": "Hacker News",
-    "published": "2026-06-11T22:07:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497067\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526256\">Comments</a>"
   }
 ]
