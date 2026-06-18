@@ -1,5 +1,53 @@
 [
   {
+    "title": "Has W Social switched to closed source?",
+    "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "source": "Hacker News",
+    "published": "2026-06-18T12:46:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584497\">Comments</a>"
+  },
+  {
+    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+    "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "source": "Hacker News",
+    "published": "2026-06-18T12:10:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584135\">Comments</a>"
+  },
+  {
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    "link": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "source": "Hacker News",
+    "published": "2026-06-18T11:20:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583703\">Comments</a>"
+  },
+  {
+    "title": "Advanced Compilers: The Self-Guided Online Course",
+    "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+    "source": "Hacker News",
+    "published": "2026-06-18T11:04:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583606\">Comments</a>"
+  },
+  {
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+    "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "source": "Hacker News",
+    "published": "2026-06-18T10:33:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583386\">Comments</a>"
+  },
+  {
+    "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+    "link": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+    "source": "Hacker News",
+    "published": "2026-06-18T09:08:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582794\">Comments</a>"
+  },
+  {
     "title": "I need your clothes, your boots, and your motorcycle",
     "link": "https://rbelmont.mameworld.info/?p=1725",
     "source": "Hacker News",
@@ -14,22 +62,6 @@
     "published": "2026-06-18T08:08:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48582320\">Comments</a>"
-  },
-  {
-    "title": "The Forge We Deserve",
-    "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-    "source": "Hacker News",
-    "published": "2026-06-18T07:46:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582147\">Comments</a>"
-  },
-  {
-    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-    "link": "https://www.acma.gov.au/sms-sender-id-register",
-    "source": "Hacker News",
-    "published": "2026-06-18T06:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48581489\">Comments</a>"
   },
   {
     "title": "DeepSeek Introduces Vision",
@@ -64,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48579650\">Comments</a>"
   },
   {
-    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-    "link": "https://www.horg.com/horg/?page_id=921",
-    "source": "Hacker News",
-    "published": "2026-06-17T23:20:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48578388\">Comments</a>"
-  },
-  {
     "title": "Clojure Hosted on Go",
     "link": "https://github.com/glojurelang/glojure",
     "source": "Hacker News",
     "published": "2026-06-17T23:14:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48578326\">Comments</a>"
-  },
-  {
-    "title": "Storied Colors \u2013 A catalogue of named colors",
-    "link": "https://storiedcolors.com/",
-    "source": "Hacker News",
-    "published": "2026-06-17T21:49:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48577374\">Comments</a>"
-  },
-  {
-    "title": "Loreline \u2013 Tools for writing interactive fiction",
-    "link": "https://loreline.app/en/",
-    "source": "Hacker News",
-    "published": "2026-06-17T20:29:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48576395\">Comments</a>"
   },
   {
     "title": "How Madrid built its metro cheaply (2024)",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48553876\">Comments</a>"
   },
   {
-    "title": "About ASCII art and Jgs font (2023)",
-    "link": "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/",
-    "source": "Hacker News",
-    "published": "2026-06-16T10:51:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553265\">Comments</a>"
-  },
-  {
     "title": "Sogen \u2013 High-performance Windows and Linux userspace emulator",
     "link": "https://sogen.dev/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48537481\">Comments</a>"
   },
   {
-    "title": "Smashed Toilet Phone Web Server",
-    "link": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
+    "title": "Vinyl Cache and Varnish Cache",
+    "link": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
     "source": "Hacker News",
-    "published": "2026-06-15T02:19:48+00:00",
+    "published": "2026-06-15T00:32:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48535821\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48534900\">Comments</a>"
   }
 ]
