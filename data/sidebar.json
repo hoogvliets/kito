@@ -1,5 +1,29 @@
 [
   {
+    "title": "I need your clothes, your boots, and your motorcycle",
+    "link": "https://rbelmont.mameworld.info/?p=1725",
+    "source": "Hacker News",
+    "published": "2026-06-18T08:28:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582464\">Comments</a>"
+  },
+  {
+    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "source": "Hacker News",
+    "published": "2026-06-18T08:08:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582320\">Comments</a>"
+  },
+  {
+    "title": "The Forge We Deserve",
+    "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "source": "Hacker News",
+    "published": "2026-06-18T07:46:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582147\">Comments</a>"
+  },
+  {
     "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
     "link": "https://www.acma.gov.au/sms-sender-id-register",
     "source": "Hacker News",
@@ -16,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48581458\">Comments</a>"
   },
   {
-    "title": "SteamOS Linux 3.8 released as stable",
-    "link": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+    "title": "I hate compilers",
+    "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
     "source": "Hacker News",
-    "published": "2026-06-18T04:05:06+00:00",
+    "published": "2026-06-18T05:10:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48580686\">Comments</a>"
-  },
-  {
-    "title": "Nim Conf 2026 (Online, Sat June 20)",
-    "link": "https://conf.nim-lang.org/",
-    "source": "Hacker News",
-    "published": "2026-06-18T03:38:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48580504\">Comments</a>"
-  },
-  {
-    "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
-    "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
-    "source": "Hacker News",
-    "published": "2026-06-18T03:34:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48580466\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48581070\">Comments</a>"
   },
   {
     "title": "Local Qwen isn't a worse Opus, it's a different tool",
@@ -46,14 +54,6 @@
     "published": "2026-06-18T03:04:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48580209\">Comments</a>"
-  },
-  {
-    "title": "[x86] AI Compute Extensions (ACE) Specification",
-    "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-    "source": "Hacker News",
-    "published": "2026-06-18T02:32:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48579913\">Comments</a>"
   },
   {
     "title": "Midjourney Medical",
@@ -104,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48575997\">Comments</a>"
   },
   {
-    "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-    "link": "https://github.com/Adam-CAD/CADAM",
-    "source": "Hacker News",
-    "published": "2026-06-17T16:14:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48572553\">Comments</a>"
-  },
-  {
     "title": "Lore \u2013 Open source version control system designed for scalability",
     "link": "https://lore.org/",
     "source": "Hacker News",
     "published": "2026-06-17T14:30:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48571081\">Comments</a>"
-  },
-  {
-    "title": "Why thinking out loud with someone beats thinking alone",
-    "link": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-    "source": "Hacker News",
-    "published": "2026-06-17T13:00:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48569894\">Comments</a>"
-  },
-  {
-    "title": "RFC 10008: The new HTTP Query Method",
-    "link": "https://www.rfc-editor.org/info/rfc10008/",
-    "source": "Hacker News",
-    "published": "2026-06-17T10:51:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48568502\">Comments</a>"
   },
   {
     "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48556561\">Comments</a>"
   },
   {
-    "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
-    "link": "https://github.com/c0rRupT9/STEPLA-1",
+    "title": "The 2-Year Apartment Rule",
+    "link": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
     "source": "Hacker News",
-    "published": "2026-06-15T20:22:48+00:00",
+    "published": "2026-06-16T12:00:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546549\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553876\">Comments</a>"
+  },
+  {
+    "title": "About ASCII art and Jgs font (2023)",
+    "link": "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/",
+    "source": "Hacker News",
+    "published": "2026-06-16T10:51:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553265\">Comments</a>"
+  },
+  {
+    "title": "Sogen \u2013 High-performance Windows and Linux userspace emulator",
+    "link": "https://sogen.dev/",
+    "source": "Hacker News",
+    "published": "2026-06-15T06:47:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537481\">Comments</a>"
+  },
+  {
+    "title": "Smashed Toilet Phone Web Server",
+    "link": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
+    "source": "Hacker News",
+    "published": "2026-06-15T02:19:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48535821\">Comments</a>"
   }
 ]
