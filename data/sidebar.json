@@ -1,11 +1,83 @@
 [
   {
+    "title": "Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
+    "link": "https://llm-wiki.net/",
+    "source": "Hacker News",
+    "published": "2026-06-18T15:23:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586811\">Comments</a>"
+  },
+  {
+    "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+    "link": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+    "source": "Hacker News",
+    "published": "2026-06-18T15:13:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586648\">Comments</a>"
+  },
+  {
+    "title": "A website that lists websites to submit your website to",
+    "link": "https://www.submission.directory/",
+    "source": "Hacker News",
+    "published": "2026-06-18T15:12:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586631\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
+    "link": "https://tester.army",
+    "source": "Hacker News",
+    "published": "2026-06-18T14:49:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586299\">Comments</a>"
+  },
+  {
+    "title": "What was nice about the UI of Windows 2000",
+    "link": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "source": "Hacker News",
+    "published": "2026-06-18T14:45:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586231\">Comments</a>"
+  },
+  {
+    "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "link": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "source": "Hacker News",
+    "published": "2026-06-18T14:24:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48585866\">Comments</a>"
+  },
+  {
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "source": "Hacker News",
+    "published": "2026-06-18T14:17:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48585746\">Comments</a>"
+  },
+  {
+    "title": "How Alberta Eradicated Rats",
+    "link": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+    "source": "Hacker News",
+    "published": "2026-06-18T13:05:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584709\">Comments</a>"
+  },
+  {
     "title": "Has W Social switched to closed source?",
     "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
     "source": "Hacker News",
     "published": "2026-06-18T12:46:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48584497\">Comments</a>"
+  },
+  {
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "source": "Hacker News",
+    "published": "2026-06-18T12:19:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584207\">Comments</a>"
   },
   {
     "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
@@ -16,12 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48584135\">Comments</a>"
   },
   {
-    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-    "link": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
     "source": "Hacker News",
-    "published": "2026-06-18T11:20:18+00:00",
+    "published": "2026-06-18T11:45:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583703\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583928\">Comments</a>"
+  },
+  {
+    "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+    "link": "https://spectrum.ieee.org/modos-e-paper-monitor",
+    "source": "Hacker News",
+    "published": "2026-06-18T11:41:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583897\">Comments</a>"
   },
   {
     "title": "Advanced Compilers: The Self-Guided Online Course",
@@ -40,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48583386\">Comments</a>"
   },
   {
-    "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
-    "link": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+    "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
+    "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "source": "Hacker News",
-    "published": "2026-06-18T09:08:04+00:00",
+    "published": "2026-06-18T10:29:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582794\">Comments</a>"
-  },
-  {
-    "title": "I need your clothes, your boots, and your motorcycle",
-    "link": "https://rbelmont.mameworld.info/?p=1725",
-    "source": "Hacker News",
-    "published": "2026-06-18T08:28:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582464\">Comments</a>"
-  },
-  {
-    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-    "source": "Hacker News",
-    "published": "2026-06-18T08:08:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582320\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583356\">Comments</a>"
   },
   {
     "title": "DeepSeek Introduces Vision",
@@ -70,14 +134,6 @@
     "published": "2026-06-18T06:17:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48581458\">Comments</a>"
-  },
-  {
-    "title": "I hate compilers",
-    "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "source": "Hacker News",
-    "published": "2026-06-18T05:10:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48581070\">Comments</a>"
   },
   {
     "title": "Local Qwen isn't a worse Opus, it's a different tool",
@@ -96,67 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48579650\">Comments</a>"
   },
   {
-    "title": "Clojure Hosted on Go",
-    "link": "https://github.com/glojurelang/glojure",
+    "title": "Dwarf Fortress in the Browser",
+    "link": "https://github.com/Sessa93/remote-df",
     "source": "Hacker News",
-    "published": "2026-06-17T23:14:49+00:00",
+    "published": "2026-06-15T08:55:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48578326\">Comments</a>"
-  },
-  {
-    "title": "How Madrid built its metro cheaply (2024)",
-    "link": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "source": "Hacker News",
-    "published": "2026-06-17T19:59:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48575997\">Comments</a>"
-  },
-  {
-    "title": "Lore \u2013 Open source version control system designed for scalability",
-    "link": "https://lore.org/",
-    "source": "Hacker News",
-    "published": "2026-06-17T14:30:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48571081\">Comments</a>"
-  },
-  {
-    "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
-    "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-    "source": "Hacker News",
-    "published": "2026-06-17T03:55:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48565498\">Comments</a>"
-  },
-  {
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-    "link": "https://browser-use.com/posts/firecracker-browser-infra",
-    "source": "Hacker News",
-    "published": "2026-06-16T15:15:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48556561\">Comments</a>"
-  },
-  {
-    "title": "The 2-Year Apartment Rule",
-    "link": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
-    "source": "Hacker News",
-    "published": "2026-06-16T12:00:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48553876\">Comments</a>"
-  },
-  {
-    "title": "Sogen \u2013 High-performance Windows and Linux userspace emulator",
-    "link": "https://sogen.dev/",
-    "source": "Hacker News",
-    "published": "2026-06-15T06:47:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537481\">Comments</a>"
-  },
-  {
-    "title": "Vinyl Cache and Varnish Cache",
-    "link": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
-    "source": "Hacker News",
-    "published": "2026-06-15T00:32:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48534900\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48538483\">Comments</a>"
   }
 ]
