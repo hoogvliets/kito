@@ -1,11 +1,43 @@
 [
   {
+    "title": "Update on Ocean Observatories Initiative",
+    "link": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "source": "Hacker News",
+    "published": "2026-06-18T23:41:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48593093\">Comments</a>"
+  },
+  {
+    "title": "The AirPods Effect",
+    "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "source": "Hacker News",
+    "published": "2026-06-18T23:08:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48592832\">Comments</a>"
+  },
+  {
+    "title": "Zero-Touch OAuth for MCP",
+    "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "source": "Hacker News",
+    "published": "2026-06-18T21:54:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48592163\">Comments</a>"
+  },
+  {
     "title": "Show HN: Are You in the Weights?",
     "link": "https://www.intheweights.com/",
     "source": "Hacker News",
     "published": "2026-06-18T20:49:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48591348\">Comments</a>"
+  },
+  {
+    "title": "Zork name origin got an update on Wikipedia",
+    "link": "https://www.dpolakovic.space/blogs/zork-part2#update",
+    "source": "Hacker News",
+    "published": "2026-06-18T20:27:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48591066\">Comments</a>"
   },
   {
     "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
@@ -22,22 +54,6 @@
     "published": "2026-06-18T17:37:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48588755\">Comments</a>"
-  },
-  {
-    "title": "Migrating from GNU Stow to Chezmoi",
-    "link": "https://rednafi.com/misc/chezmoi/",
-    "source": "Hacker News",
-    "published": "2026-06-18T17:09:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48588413\">Comments</a>"
-  },
-  {
-    "title": "The founder of Craigslist has given away half a billion dollars",
-    "link": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "source": "Hacker News",
-    "published": "2026-06-18T16:55:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48588216\">Comments</a>"
   },
   {
     "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
@@ -88,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48583928\">Comments</a>"
   },
   {
-    "title": "Modos Color Monitor Pushes E-Paper Displays Further",
-    "link": "https://spectrum.ieee.org/modos-e-paper-monitor",
-    "source": "Hacker News",
-    "published": "2026-06-18T11:41:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48583897\">Comments</a>"
-  },
-  {
     "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
     "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
     "source": "Hacker News",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48583356\">Comments</a>"
   },
   {
-    "title": "Ask HN: Is anyone using the A2A protocol?",
-    "link": "https://news.ycombinator.com/item?id=48582679",
-    "source": "Hacker News",
-    "published": "2026-06-18T08:52:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48582679\">Comments</a>"
-  },
-  {
     "title": "Noam Shazeer Joins OpenAI",
     "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
     "source": "Hacker News",
@@ -144,7 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48573268\">Comments</a>"
   },
   {
-    "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+    "title": "Cell-based architecture for resilient payment systems",
     "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
     "source": "Hacker News",
     "published": "2026-06-15T22:36:33+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48547969\">Comments</a>"
   },
   {
-    "title": "Dutch Railways offers unlimited off-peak train travel nationwide for \u20ac49/month",
-    "link": "https://www.ns.nl/en/season-tickets/dal-vrij",
+    "title": "It doesn't matter if it works",
+    "link": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
     "source": "Hacker News",
-    "published": "2026-06-15T16:44:54+00:00",
+    "published": "2026-06-15T10:48:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543872\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48539412\">Comments</a>"
   }
 ]
