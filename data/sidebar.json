@@ -1,19 +1,35 @@
 [
   {
-    "title": "Update on Ocean Observatories Initiative",
-    "link": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "title": "Let's Encrypt has been down most of today",
+    "link": "https://letsencrypt.status.io/#2026",
     "source": "Hacker News",
-    "published": "2026-06-18T23:41:48+00:00",
+    "published": "2026-06-19T04:18:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48593093\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48594715\">Comments</a>"
   },
   {
-    "title": "The AirPods Effect",
-    "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+    "link": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
     "source": "Hacker News",
-    "published": "2026-06-18T23:08:35+00:00",
+    "published": "2026-06-19T03:50:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48592832\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48594592\">Comments</a>"
+  },
+  {
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "source": "Hacker News",
+    "published": "2026-06-19T01:06:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48593731\">Comments</a>"
+  },
+  {
+    "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "link": "https://www.flexport.com/company/careers/",
+    "source": "Hacker News",
+    "published": "2026-06-19T01:01:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48593694\">Comments</a>"
   },
   {
     "title": "Zero-Touch OAuth for MCP",
@@ -48,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48589501\">Comments</a>"
   },
   {
-    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-    "link": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "title": "Building a robotics research setup that lives next to my desk",
+    "link": "https://dfdxlabs.com/research/2026/robotics-setup/",
     "source": "Hacker News",
-    "published": "2026-06-18T17:37:00+00:00",
+    "published": "2026-06-18T14:51:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48588755\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586329\">Comments</a>"
   },
   {
     "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
@@ -78,22 +94,6 @@
     "published": "2026-06-18T14:17:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48585746\">Comments</a>"
-  },
-  {
-    "title": "W Social, public institutions and the theater of European digital sovereignty",
-    "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "source": "Hacker News",
-    "published": "2026-06-18T12:46:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584497\">Comments</a>"
-  },
-  {
-    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "source": "Hacker News",
-    "published": "2026-06-18T12:44:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584484\">Comments</a>"
   },
   {
     "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48583356\">Comments</a>"
   },
   {
-    "title": "Noam Shazeer Joins OpenAI",
-    "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "title": "How Japan's railways stayed one while splitting apart",
+    "link": "https://arun.is/blog/jr-logo/",
     "source": "Hacker News",
-    "published": "2026-06-18T00:26:06+00:00",
+    "published": "2026-06-17T14:03:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48578913\">Comments</a>"
-  },
-  {
-    "title": "Agentic Resource Discovery Specification",
-    "link": "https://agenticresourcediscovery.org/introduction/",
-    "source": "Hacker News",
-    "published": "2026-06-17T17:03:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48573268\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48570730\">Comments</a>"
   },
   {
     "title": "Cell-based architecture for resilient payment systems",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48547969\">Comments</a>"
   },
   {
-    "title": "It doesn't matter if it works",
-    "link": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+    "title": "To study how chips work, MIT researchers built their own operating system",
+    "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
     "source": "Hacker News",
-    "published": "2026-06-15T10:48:59+00:00",
+    "published": "2026-06-15T16:06:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48539412\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543311\">Comments</a>"
+  },
+  {
+    "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+    "link": "https://horizons.lambda-combine.net/",
+    "source": "Hacker News",
+    "published": "2026-06-15T03:15:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48536167\">Comments</a>"
   }
 ]
