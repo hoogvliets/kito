@@ -1,11 +1,59 @@
 [
   {
-    "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-    "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+    "title": "Web Browsers on PDAS",
+    "link": "https://vale.rocks/posts/pda-browsers",
     "source": "Hacker News",
-    "published": "2026-06-20T11:43:29+00:00",
+    "published": "2026-06-20T14:20:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608503\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609422\">Comments</a>"
+  },
+  {
+    "title": "The European Social Stack",
+    "link": "https://european.social",
+    "source": "Hacker News",
+    "published": "2026-06-20T14:20:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609421\">Comments</a>"
+  },
+  {
+    "title": "VPN ban update for UK households as government looks at 'age-gate'",
+    "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+    "source": "Hacker News",
+    "published": "2026-06-20T14:14:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609385\">Comments</a>"
+  },
+  {
+    "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source": "Hacker News",
+    "published": "2026-06-20T13:44:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609194\">Comments</a>"
+  },
+  {
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+    "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "source": "Hacker News",
+    "published": "2026-06-20T11:58:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608591\">Comments</a>"
+  },
+  {
+    "title": "Temporary Cloudflare Accounts for AI Agents",
+    "link": "https://blog.cloudflare.com/temporary-accounts/",
+    "source": "Hacker News",
+    "published": "2026-06-20T11:19:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608394\">Comments</a>"
+  },
+  {
+    "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
+    "link": "https://bootimus.com",
+    "source": "Hacker News",
+    "published": "2026-06-20T10:55:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608255\">Comments</a>"
   },
   {
     "title": "CSSQuake",
@@ -24,52 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48606619\">Comments</a>"
   },
   {
-    "title": "Satellite reveals immense scale of GPS signal tampering",
-    "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-    "source": "Hacker News",
-    "published": "2026-06-20T04:07:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48606271\">Comments</a>"
-  },
-  {
     "title": "Where to Find the Colors Your Screen Can't Show You",
     "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
     "source": "Hacker News",
     "published": "2026-06-20T03:36:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48606140\">Comments</a>"
-  },
-  {
-    "title": "LLMs Are Complicated Now",
-    "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-    "source": "Hacker News",
-    "published": "2026-06-20T01:25:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48605355\">Comments</a>"
-  },
-  {
-    "title": "Surprising economics of load-balanced systems",
-    "link": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "source": "Hacker News",
-    "published": "2026-06-19T20:30:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48602918\">Comments</a>"
-  },
-  {
-    "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-    "link": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-    "source": "Hacker News",
-    "published": "2026-06-19T19:35:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48602352\">Comments</a>"
-  },
-  {
-    "title": "Hyundai buys Boston Dynamics",
-    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-    "source": "Hacker News",
-    "published": "2026-06-19T16:28:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48600312\">Comments</a>"
   },
   {
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
@@ -80,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48600167\">Comments</a>"
   },
   {
-    "title": "Norway imposes near ban on AI in elementary school",
-    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "title": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps",
+    "link": "https://point.free/blog/delete-12-flags/",
     "source": "Hacker News",
-    "published": "2026-06-19T16:03:15+00:00",
+    "published": "2026-06-19T15:19:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48600093\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48599626\">Comments</a>"
   },
   {
     "title": "There are no instances in ATProto",
@@ -96,28 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48599515\">Comments</a>"
   },
   {
-    "title": "How many of the 170k English words do you know?",
-    "link": "https://vocabowl-870366514258.us-west1.run.app/",
-    "source": "Hacker News",
-    "published": "2026-06-19T13:51:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48598586\">Comments</a>"
-  },
-  {
-    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "source": "Hacker News",
-    "published": "2026-06-19T06:35:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48595511\">Comments</a>"
-  },
-  {
     "title": "Can you see three trees?",
     "link": "https://www.not-ship.com/can-you-see-three-trees/",
     "source": "Hacker News",
     "published": "2026-06-18T08:16:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48582374\">Comments</a>"
+  },
+  {
+    "title": "Computed goto for efficient dispatch tables (2012)",
+    "link": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
+    "source": "Hacker News",
+    "published": "2026-06-17T13:51:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48570585\">Comments</a>"
+  },
+  {
+    "title": "Human Judgment as a Specification",
+    "link": "https://blog.brownplt.org/2026/06/09/pick.html",
+    "source": "Hacker News",
+    "published": "2026-06-17T12:45:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48569677\">Comments</a>"
   },
   {
     "title": "The discovery that changed how scientists think about memory",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48562662\">Comments</a>"
   },
   {
-    "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-    "link": "https://ironicsans.ghost.io/the-color-strike/",
+    "title": "The Doctor Who Treats Patients with a Gaming Mouse",
+    "link": "https://textexpander.com/blog/doctor-gaming-mouse",
     "source": "Hacker News",
-    "published": "2026-06-16T18:24:39+00:00",
+    "published": "2026-06-16T14:03:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48559729\">Comments</a>"
-  },
-  {
-    "title": "Soccer Arcade Games Through the Years",
-    "link": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-    "source": "Hacker News",
-    "published": "2026-06-16T14:30:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48555903\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48555505\">Comments</a>"
   }
 ]
