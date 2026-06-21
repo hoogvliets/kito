@@ -1,11 +1,59 @@
 [
   {
-    "title": "UK Home Office launches \u00a375M 'PoliceAI' to capitalise on artificial intelligence",
-    "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+    "title": "Project Fetch: Phase Two",
+    "link": "https://www.anthropic.com/research/project-fetch-phase-two",
     "source": "Hacker News",
-    "published": "2026-06-20T20:41:06+00:00",
+    "published": "2026-06-21T00:00:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48612806\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48614311\">Comments</a>"
+  },
+  {
+    "title": "Epoll vs. Io_uring in Linux",
+    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "source": "Hacker News",
+    "published": "2026-06-20T23:07:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613872\">Comments</a>"
+  },
+  {
+    "title": "Not just books: renting a sewing machine from the library can improve democracy",
+    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "source": "Hacker News",
+    "published": "2026-06-20T22:54:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613755\">Comments</a>"
+  },
+  {
+    "title": "Pre-2022 Books",
+    "link": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+    "source": "Hacker News",
+    "published": "2026-06-20T22:36:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613631\">Comments</a>"
+  },
+  {
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "source": "Hacker News",
+    "published": "2026-06-20T22:22:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613555\">Comments</a>"
+  },
+  {
+    "title": "Supermarket giant Tesco sues VMware for breach of contract",
+    "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+    "source": "Hacker News",
+    "published": "2026-06-20T21:09:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613008\">Comments</a>"
+  },
+  {
+    "title": "Alice is impatient",
+    "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "source": "Hacker News",
+    "published": "2026-06-20T20:32:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48612740\">Comments</a>"
   },
   {
     "title": "Unauthorized alert sent to cell phones across Brazil",
@@ -24,22 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48611942\">Comments</a>"
   },
   {
-    "title": "Show HN: Tiny \u2013 An interpeted dynamic langauge with inline Go native functions",
-    "link": "https://github.com/confh/Tiny",
-    "source": "Hacker News",
-    "published": "2026-06-20T18:53:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48611857\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-    "link": "https://github.com/overflowy/make-look-scanned",
-    "source": "Hacker News",
-    "published": "2026-06-20T18:17:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48611513\">Comments</a>"
-  },
-  {
     "title": "The Wholesale Plagiarism of Obscure Sorrows",
     "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "source": "Hacker News",
@@ -56,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48610853\">Comments</a>"
   },
   {
-    "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-    "link": "https://github.com/oven-sh/WebKit/pull/249",
-    "source": "Hacker News",
-    "published": "2026-06-20T17:02:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48610841\">Comments</a>"
-  },
-  {
     "title": "SMPTE Makes Its Standards Freely Accessible",
     "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "source": "Hacker News",
     "published": "2026-06-20T17:01:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48610827\">Comments</a>"
-  },
-  {
-    "title": "Ember, a native iOS Hacker News reader I built around accessibility",
-    "link": "https://github.com/DatanoiseTV/ember-hackernews",
-    "source": "Hacker News",
-    "published": "2026-06-20T17:00:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48610816\">Comments</a>"
   },
   {
     "title": "Show HN: StartupWiki \u2013 A Free Alternative to Crunchbase",
@@ -96,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48609766\">Comments</a>"
   },
   {
-    "title": "Vacation With An Artist \u2013 Mini-Apprenticeships with Artists in Their Studios",
-    "link": "https://vawaa.com/",
+    "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "link": "https://github.com/mysk-research/loupe",
     "source": "Hacker News",
-    "published": "2026-06-20T14:40:12+00:00",
+    "published": "2026-06-20T12:08:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609553\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608645\">Comments</a>"
   },
   {
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-    "link": "https://www.argusred.com/cli",
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "link": "https://townsquare.cauenapier.com/",
     "source": "Hacker News",
-    "published": "2026-06-20T13:49:03+00:00",
+    "published": "2026-06-20T11:55:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608570\">Comments</a>"
   },
   {
     "title": "The rise of South Korea\u2019s weapons business",
@@ -120,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48608515\">Comments</a>"
   },
   {
-    "title": "Temporary Cloudflare accounts for AI agents",
-    "link": "https://blog.cloudflare.com/temporary-accounts/",
-    "source": "Hacker News",
-    "published": "2026-06-20T11:19:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608394\">Comments</a>"
-  },
-  {
     "title": "CSSQuake",
     "link": "https://cssquake.com/",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48608223\">Comments</a>"
   },
   {
-    "title": "Why has the pointe shoe been so resistant to change?",
-    "link": "https://dancemagazine.com/pointe-shoe-innovation/",
+    "title": "Inference cost at scale with napkin math",
+    "link": "https://injuly.in/blog/napkin-inference-cost/index.html",
     "source": "Hacker News",
-    "published": "2026-06-20T01:18:30+00:00",
+    "published": "2026-06-16T18:57:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48605310\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48560227\">Comments</a>"
   },
   {
-    "title": "Now You Don't: When Espionage Meets Magic",
-    "link": "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic",
+    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
     "source": "Hacker News",
-    "published": "2026-06-17T20:15:57+00:00",
+    "published": "2026-06-16T12:31:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48576217\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Microcrad \u2013 Micrograd Reimplemented in C",
-    "link": "https://github.com/oraziorillo/microcrad",
-    "source": "Hacker News",
-    "published": "2026-06-17T13:34:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48570364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48554206\">Comments</a>"
   }
 ]
