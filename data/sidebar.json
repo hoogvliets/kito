@@ -1,27 +1,27 @@
 [
   {
-    "title": "The 100k Whys of AI",
-    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "title": "Google Hits 50% IPv6",
+    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
     "source": "Hacker News",
-    "published": "2026-06-21T05:45:21+00:00",
+    "published": "2026-06-21T08:21:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616017\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616800\">Comments</a>"
   },
   {
-    "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
-    "link": "https://spectrum.ieee.org/alan-turings-delilah",
+    "title": "A 3D voxel game engine written in APL",
+    "link": "https://github.com/namgyaaal/avoxelgame",
     "source": "Hacker News",
-    "published": "2026-06-21T05:15:33+00:00",
+    "published": "2026-06-21T08:04:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48615890\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616713\">Comments</a>"
   },
   {
-    "title": "Public Service Announcement: Don't Say You Use AI for Writing",
-    "link": "https://www.satisfice.com/blog/archives/488148",
+    "title": "Windows UI evolution: Clicking an unassociated file",
+    "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
     "source": "Hacker News",
-    "published": "2026-06-21T04:50:46+00:00",
+    "published": "2026-06-21T06:24:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48615776\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616173\">Comments</a>"
   },
   {
     "title": "Building reliable agentic AI systems",
@@ -32,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48615680\">Comments</a>"
   },
   {
-    "title": "Your brain was never designed for this much bad news",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "source": "Hacker News",
-    "published": "2026-06-21T04:02:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48615569\">Comments</a>"
-  },
-  {
     "title": "Developers don't understand CORS (2019)",
     "link": "https://fosterelli.co/developers-dont-understand-cors",
     "source": "Hacker News",
     "published": "2026-06-21T01:35:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48614844\">Comments</a>"
-  },
-  {
-    "title": "When I reject AI code even if it works",
-    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "source": "Hacker News",
-    "published": "2026-06-21T00:58:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48614631\">Comments</a>"
   },
   {
     "title": "Epoll vs. io_uring in Linux",
@@ -128,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48608570\">Comments</a>"
   },
   {
+    "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "link": "https://taoofmac.com/space/blog/2026/06/18/1845",
+    "source": "Hacker News",
+    "published": "2026-06-19T15:13:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48599555\">Comments</a>"
+  },
+  {
     "title": "Guide to the TD4 4-bit DIY CPU",
     "link": "https://www.philipzucker.com/td4-4bit-cpu/",
     "source": "Hacker News",
@@ -150,6 +142,14 @@
     "published": "2026-06-18T10:36:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48583407\">Comments</a>"
+  },
+  {
+    "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+    "link": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+    "source": "Hacker News",
+    "published": "2026-06-17T22:07:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48577601\">Comments</a>"
   },
   {
     "title": "Zigzag Decoding with AVX-512",
