@@ -1,5 +1,37 @@
 [
   {
+    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+    "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "source": "Hacker News",
+    "published": "2026-06-21T14:43:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619394\">Comments</a>"
+  },
+  {
+    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+    "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+    "source": "Hacker News",
+    "published": "2026-06-21T14:09:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619140\">Comments</a>"
+  },
+  {
+    "title": "Smashing the NIMBYs created modern capitalism",
+    "link": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+    "source": "Hacker News",
+    "published": "2026-06-21T12:42:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618442\">Comments</a>"
+  },
+  {
+    "title": "David Ahl's Basic Computer Games Ported to C",
+    "link": "https://github.com/proteanthread/bcg",
+    "source": "Hacker News",
+    "published": "2026-06-21T12:11:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618226\">Comments</a>"
+  },
+  {
     "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
     "link": "https://www.beyondallreason.info",
     "source": "Hacker News",
@@ -72,52 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48613555\">Comments</a>"
   },
   {
-    "title": "Unauthorized alert sent to cell phones across Brazil",
-    "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-    "source": "Hacker News",
-    "published": "2026-06-20T20:05:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48612502\">Comments</a>"
-  },
-  {
-    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-    "link": "https://www.lispm.net/apps/uhf-x11/",
-    "source": "Hacker News",
-    "published": "2026-06-20T17:04:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48610853\">Comments</a>"
-  },
-  {
-    "title": "SMPTE Makes Its Standards Freely Accessible",
-    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "source": "Hacker News",
-    "published": "2026-06-20T17:01:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48610827\">Comments</a>"
-  },
-  {
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-    "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "source": "Hacker News",
-    "published": "2026-06-20T15:10:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609766\">Comments</a>"
-  },
-  {
     "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
     "link": "https://github.com/mysk-research/loupe",
     "source": "Hacker News",
     "published": "2026-06-20T12:08:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48608645\">Comments</a>"
-  },
-  {
-    "title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "link": "https://townsquare.cauenapier.com/",
-    "source": "Hacker News",
-    "published": "2026-06-20T11:55:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608570\">Comments</a>"
   },
   {
     "title": "Running MicroVMs in Proxmox VE, the Easy Way",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48599555\">Comments</a>"
   },
   {
-    "title": "15-minute at-home Lyme disease tick test",
-    "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "title": "Two Qwen3 models on one DGX Spark: the residency math",
+    "link": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
     "source": "Hacker News",
-    "published": "2026-06-18T12:22:36+00:00",
+    "published": "2026-06-18T16:29:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48584261\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48587865\">Comments</a>"
+  },
+  {
+    "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+    "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+    "source": "Hacker News",
+    "published": "2026-06-18T16:12:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48587619\">Comments</a>"
   },
   {
     "title": "Zigzag Decoding with AVX-512",
