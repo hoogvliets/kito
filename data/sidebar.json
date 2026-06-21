@@ -1,5 +1,53 @@
 [
   {
+    "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+    "source": "Hacker News",
+    "published": "2026-06-21T17:00:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620504\">Comments</a>"
+  },
+  {
+    "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+    "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+    "source": "Hacker News",
+    "published": "2026-06-21T16:56:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620462\">Comments</a>"
+  },
+  {
+    "title": "The Minimum Viable Unit of Saleable Software",
+    "link": "https://brandur.org/minimum-viable-unit",
+    "source": "Hacker News",
+    "published": "2026-06-21T16:41:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620342\">Comments</a>"
+  },
+  {
+    "title": "The early hiring funnel is now breaking on both ends",
+    "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "source": "Hacker News",
+    "published": "2026-06-21T16:14:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620142\">Comments</a>"
+  },
+  {
+    "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+    "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "source": "Hacker News",
+    "published": "2026-06-21T16:08:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620090\">Comments</a>"
+  },
+  {
+    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+    "link": "https://norvig.com/lispy.html",
+    "source": "Hacker News",
+    "published": "2026-06-21T15:36:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619831\">Comments</a>"
+  },
+  {
     "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
     "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
     "source": "Hacker News",
@@ -8,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48619394\">Comments</a>"
   },
   {
-    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-    "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+    "title": "Identity verification on Claude",
+    "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
     "source": "Hacker News",
-    "published": "2026-06-21T14:09:07+00:00",
+    "published": "2026-06-21T12:44:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619140\">Comments</a>"
-  },
-  {
-    "title": "Smashing the NIMBYs created modern capitalism",
-    "link": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
-    "source": "Hacker News",
-    "published": "2026-06-21T12:42:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618442\">Comments</a>"
-  },
-  {
-    "title": "David Ahl's Basic Computer Games Ported to C",
-    "link": "https://github.com/proteanthread/bcg",
-    "source": "Hacker News",
-    "published": "2026-06-21T12:11:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618226\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618455\">Comments</a>"
   },
   {
     "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
@@ -40,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48617990\">Comments</a>"
   },
   {
-    "title": "The case against geometric algebra (2024)",
-    "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-    "source": "Hacker News",
-    "published": "2026-06-21T11:06:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48617782\">Comments</a>"
-  },
-  {
-    "title": "Google Hits 50% IPv6",
-    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-    "source": "Hacker News",
-    "published": "2026-06-21T08:21:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616800\">Comments</a>"
-  },
-  {
     "title": "A 3D voxel game engine written in APL",
     "link": "https://github.com/namgyaaal/avoxelgame",
     "source": "Hacker News",
     "published": "2026-06-21T08:04:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48616713\">Comments</a>"
-  },
-  {
-    "title": "Windows UI evolution: Clicking an unassociated file",
-    "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "source": "Hacker News",
-    "published": "2026-06-21T06:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48616173\">Comments</a>"
   },
   {
     "title": "Developers don't understand CORS (2019)",
@@ -80,28 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48614844\">Comments</a>"
   },
   {
-    "title": "Epoll vs. io_uring in Linux",
-    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "source": "Hacker News",
-    "published": "2026-06-20T23:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613872\">Comments</a>"
-  },
-  {
-    "title": "Renting a sewing machine from the library",
-    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "source": "Hacker News",
-    "published": "2026-06-20T22:54:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613755\">Comments</a>"
-  },
-  {
     "title": "Slow breathing modulates brain function and risk behavior",
     "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
     "source": "Hacker News",
     "published": "2026-06-20T22:22:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48613555\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Pulse \u2013 Dashboard for Claude Code, approve tool calls from your phone",
+    "link": "https://github.com/nikitadoudikov/claude-pulse",
+    "source": "Hacker News",
+    "published": "2026-06-20T20:46:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48612844\">Comments</a>"
   },
   {
     "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
@@ -120,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48599555\">Comments</a>"
   },
   {
+    "title": "An Embedded Linux on a Single Floppy",
+    "link": "https://github.com/w84death/floppinux",
+    "source": "Hacker News",
+    "published": "2026-06-19T02:10:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48594090\">Comments</a>"
+  },
+  {
     "title": "Two Qwen3 models on one DGX Spark: the residency math",
     "link": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
     "source": "Hacker News",
@@ -128,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48587865\">Comments</a>"
   },
   {
-    "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+    "title": "The Commodore Callback 8020 smart flip phone",
     "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
     "source": "Hacker News",
     "published": "2026-06-18T16:12:21+00:00",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48587619\">Comments</a>"
   },
   {
-    "title": "Zigzag Decoding with AVX-512",
-    "link": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+    "link": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
     "source": "Hacker News",
-    "published": "2026-06-17T17:43:22+00:00",
+    "published": "2026-06-17T14:35:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48573902\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48571136\">Comments</a>"
   },
   {
-    "title": "A tale of two path separators",
-    "link": "https://alexwlchan.net/2021/slashes/",
+    "title": "System call instrumentation on Linux/x86\u201164 using memory\u2011indirect calls, part I",
+    "link": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
     "source": "Hacker News",
-    "published": "2026-06-17T10:14:53+00:00",
+    "published": "2026-06-17T07:03:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48568181\">Comments</a>"
-  },
-  {
-    "title": "Rare medieval bookmark exceeds expectations at auction",
-    "link": "https://www.thehistoryblog.com/archives/76314",
-    "source": "Hacker News",
-    "published": "2026-06-16T18:46:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48560050\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48566824\">Comments</a>"
   }
 ]
