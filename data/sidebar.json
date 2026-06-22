@@ -1,19 +1,75 @@
 [
   {
-    "title": "window.showDirectoryPicker opens up a whole new world",
-    "link": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "title": "Git is forever. I'm building Oak anyways",
+    "link": "https://oak.space/blog",
     "source": "Hacker News",
-    "published": "2026-06-22T12:42:22+00:00",
+    "published": "2026-06-22T15:37:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629387\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631726\">Comments</a>"
   },
   {
-    "title": "Becoming a dad changes men's brains",
-    "link": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+    "link": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
     "source": "Hacker News",
-    "published": "2026-06-22T12:39:43+00:00",
+    "published": "2026-06-22T14:55:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629356\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631058\">Comments</a>"
+  },
+  {
+    "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+    "link": "https://github.com/0xroylee/ponytrail",
+    "source": "Hacker News",
+    "published": "2026-06-22T14:54:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631043\">Comments</a>"
+  },
+  {
+    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+    "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "source": "Hacker News",
+    "published": "2026-06-22T14:22:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630535\">Comments</a>"
+  },
+  {
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "link": "https://hustvl.github.io/Moebius/",
+    "source": "Hacker News",
+    "published": "2026-06-22T13:53:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630171\">Comments</a>"
+  },
+  {
+    "title": "Never Give Them Your Face",
+    "link": "https://nevergivethemyourface.com/",
+    "source": "Hacker News",
+    "published": "2026-06-22T13:45:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630066\">Comments</a>"
+  },
+  {
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+    "link": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "source": "Hacker News",
+    "published": "2026-06-22T13:43:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630029\">Comments</a>"
+  },
+  {
+    "title": "Pledging Another $400k to the Zig Software Foundation",
+    "link": "https://mitchellh.com/writing/zig-donation-2026",
+    "source": "Hacker News",
+    "published": "2026-06-22T13:43:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630020\">Comments</a>"
+  },
+  {
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+    "link": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+    "source": "Hacker News",
+    "published": "2026-06-22T13:40:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629982\">Comments</a>"
   },
   {
     "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
@@ -24,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48629064\">Comments</a>"
   },
   {
-    "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
-    "link": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
-    "source": "Hacker News",
-    "published": "2026-06-22T10:35:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48628328\">Comments</a>"
-  },
-  {
     "title": "Codex logging bug may write TBs to local SSDs",
     "link": "https://github.com/openai/codex/issues/28224",
     "source": "Hacker News",
     "published": "2026-06-22T07:30:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48626930\">Comments</a>"
-  },
-  {
-    "title": "Investors get real-time view of UK bond market activity for the first time",
-    "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-    "source": "Hacker News",
-    "published": "2026-06-22T07:29:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48626918\">Comments</a>"
   },
   {
     "title": "GLM 5.2 vs. Opus",
@@ -64,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48626137\">Comments</a>"
   },
   {
-    "title": "Sakana Fugu",
-    "link": "https://sakana.ai/fugu/",
-    "source": "Hacker News",
-    "published": "2026-06-22T02:08:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624782\">Comments</a>"
-  },
-  {
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "source": "Hacker News",
-    "published": "2026-06-21T22:55:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48623434\">Comments</a>"
-  },
-  {
     "title": "Did my old job only exist because of fraud?",
     "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
     "source": "Hacker News",
@@ -96,20 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622778\">Comments</a>"
   },
   {
-    "title": "Everything is logarithms",
-    "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+    "link": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
     "source": "Hacker News",
-    "published": "2026-06-21T21:10:32+00:00",
+    "published": "2026-06-21T20:19:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622626\">Comments</a>"
-  },
-  {
-    "title": "There is minimal downside to switching to open models",
-    "link": "https://www.marble.onl/posts/cancel_claude.html",
-    "source": "Hacker News",
-    "published": "2026-06-21T20:56:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622518\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622241\">Comments</a>"
   },
   {
     "title": "Maria Isabel S\u00e1nchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
@@ -120,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48607671\">Comments</a>"
   },
   {
-    "title": "Lisp in the Rust Type System",
-    "link": "https://github.com/playX18/lisp-in-types/",
-    "source": "Hacker News",
-    "published": "2026-06-20T05:43:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48606654\">Comments</a>"
-  },
-  {
-    "title": "Memory Safe Inline Assembly",
-    "link": "https://fil-c.org/inlineasm",
-    "source": "Hacker News",
-    "published": "2026-06-20T03:29:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48606096\">Comments</a>"
-  },
-  {
     "title": "Help I accidentally a wigglegram",
     "link": "https://lmao.center/blog/wiggle-accidents/",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48605561\">Comments</a>"
   },
   {
+    "title": "Granularity comes at a cost \u2013 Game Theory",
+    "link": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+    "source": "Hacker News",
+    "published": "2026-06-19T19:16:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48602144\">Comments</a>"
+  },
+  {
     "title": "Munich 1991: The Roots of the Current AI Boom",
     "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
     "source": "Hacker News",
     "published": "2026-06-19T15:54:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48599998\">Comments</a>"
-  },
-  {
-    "title": "My 1992 view of the problems of computer programming in 1992",
-    "link": "https://blog.plover.com/prog/fortran-i.html",
-    "source": "Hacker News",
-    "published": "2026-06-19T14:30:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48599057\">Comments</a>"
   }
 ]
