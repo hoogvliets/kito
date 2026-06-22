@@ -1,6 +1,46 @@
 [
   {
-    "title": "Simple hard way to conjugate Japanese verbs",
+    "title": "The Flat Curve Society",
+    "link": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+    "source": "Hacker News",
+    "published": "2026-06-22T03:09:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48625192\">Comments</a>"
+  },
+  {
+    "title": "Canadian government spent $46.8M on a secret Palantir contract",
+    "link": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
+    "source": "Hacker News",
+    "published": "2026-06-22T02:16:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624834\">Comments</a>"
+  },
+  {
+    "title": "Sakana Fugu",
+    "link": "https://sakana.ai/fugu/",
+    "source": "Hacker News",
+    "published": "2026-06-22T02:08:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624782\">Comments</a>"
+  },
+  {
+    "title": "1983 Northern Telecom Commodore Phone",
+    "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+    "source": "Hacker News",
+    "published": "2026-06-22T00:34:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624114\">Comments</a>"
+  },
+  {
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "source": "Hacker News",
+    "published": "2026-06-21T22:55:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48623434\">Comments</a>"
+  },
+  {
+    "title": "Japanese verb conjugation the simple hard way",
     "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
     "source": "Hacker News",
     "published": "2026-06-21T22:53:50+00:00",
@@ -14,14 +54,6 @@
     "published": "2026-06-21T21:40:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622867\">Comments</a>"
-  },
-  {
-    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-    "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-    "source": "Hacker News",
-    "published": "2026-06-21T21:30:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622788\">Comments</a>"
   },
   {
     "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
@@ -48,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622626\">Comments</a>"
   },
   {
-    "title": "Show HN: Recall \u2013 fully-local project memory for Claude Code",
-    "link": "https://github.com/raiyanyahya/recall",
-    "source": "Hacker News",
-    "published": "2026-06-21T21:05:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622590\">Comments</a>"
-  },
-  {
     "title": "There is minimal downside to switching to open models",
     "link": "https://www.marble.onl/posts/cancel_claude.html",
     "source": "Hacker News",
@@ -64,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622518\">Comments</a>"
   },
   {
-    "title": "Ask for no, don't ask for yes (2022)",
-    "link": "https://www.mooreds.com/wordpress/archives/3518",
-    "source": "Hacker News",
-    "published": "2026-06-21T20:17:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622234\">Comments</a>"
-  },
-  {
-    "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-    "link": "https://clevercrow.io",
-    "source": "Hacker News",
-    "published": "2026-06-21T19:06:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48621645\">Comments</a>"
-  },
-  {
-    "title": "JSON-LD Explained for Personal Websites",
+    "title": "JSON-LD explained for personal websites",
     "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
     "source": "Hacker News",
     "published": "2026-06-21T18:51:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48621517\">Comments</a>"
-  },
-  {
-    "title": "The minimum viable unit of saleable software",
-    "link": "https://brandur.org/minimum-viable-unit",
-    "source": "Hacker News",
-    "published": "2026-06-21T16:41:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48620342\">Comments</a>"
   },
   {
     "title": "Prefer duplication over the wrong abstraction (2016)",
@@ -102,14 +102,6 @@
     "published": "2026-06-21T16:08:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48620090\">Comments</a>"
-  },
-  {
-    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-    "link": "https://norvig.com/lispy.html",
-    "source": "Hacker News",
-    "published": "2026-06-21T15:36:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619831\">Comments</a>"
   },
   {
     "title": "Identity verification on Claude",
@@ -128,35 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48617990\">Comments</a>"
   },
   {
-    "title": "An Embedded Linux on a Single Floppy",
-    "link": "https://github.com/w84death/floppinux",
+    "title": "Show HN: HN Game Stories \u2013 mini-documentary of games that hit the front page",
+    "link": "https://video.intellios.ai",
     "source": "Hacker News",
-    "published": "2026-06-19T02:10:16+00:00",
+    "published": "2026-06-20T23:31:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48594090\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48614087\">Comments</a>"
   },
   {
-    "title": "I Play Video Games with Spinal Muscular Atrophy",
+    "title": "Memory Safe Inline Assembly",
+    "link": "https://fil-c.org/inlineasm",
+    "source": "Hacker News",
+    "published": "2026-06-20T03:29:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48606096\">Comments</a>"
+  },
+  {
+    "title": "Help I accidentally a wigglegram",
+    "link": "https://lmao.center/blog/wiggle-accidents/",
+    "source": "Hacker News",
+    "published": "2026-06-20T01:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48605561\">Comments</a>"
+  },
+  {
+    "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+    "link": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+    "source": "Hacker News",
+    "published": "2026-06-20T00:42:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48605085\">Comments</a>"
+  },
+  {
+    "title": "How I play video games with spinal muscular atrophy",
     "link": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
     "source": "Hacker News",
     "published": "2026-06-18T18:45:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48589687\">Comments</a>"
-  },
-  {
-    "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
-    "link": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
-    "source": "Hacker News",
-    "published": "2026-06-18T00:36:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48579013\">Comments</a>"
-  },
-  {
-    "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-    "link": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-    "source": "Hacker News",
-    "published": "2026-06-17T07:33:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48567028\">Comments</a>"
   }
 ]
