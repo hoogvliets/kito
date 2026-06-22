@@ -1,5 +1,37 @@
 [
   {
+    "title": "window.showDirectoryPicker opens up a whole new world",
+    "link": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "source": "Hacker News",
+    "published": "2026-06-22T12:42:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629387\">Comments</a>"
+  },
+  {
+    "title": "Becoming a dad changes men's brains",
+    "link": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+    "source": "Hacker News",
+    "published": "2026-06-22T12:39:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629356\">Comments</a>"
+  },
+  {
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+    "link": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "source": "Hacker News",
+    "published": "2026-06-22T12:09:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629064\">Comments</a>"
+  },
+  {
+    "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+    "link": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+    "source": "Hacker News",
+    "published": "2026-06-22T10:35:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48628328\">Comments</a>"
+  },
+  {
     "title": "Codex logging bug may write TBs to local SSDs",
     "link": "https://github.com/openai/codex/issues/28224",
     "source": "Hacker News",
@@ -32,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48626137\">Comments</a>"
   },
   {
+    "title": "Sakana Fugu",
+    "link": "https://sakana.ai/fugu/",
+    "source": "Hacker News",
+    "published": "2026-06-22T02:08:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624782\">Comments</a>"
+  },
+  {
     "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
     "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
     "source": "Hacker News",
     "published": "2026-06-21T22:55:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48623434\">Comments</a>"
-  },
-  {
-    "title": "Japanese verb conjugation the simple hard way",
-    "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "source": "Hacker News",
-    "published": "2026-06-21T22:53:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48623419\">Comments</a>"
   },
   {
     "title": "Did my old job only exist because of fraud?",
@@ -80,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622518\">Comments</a>"
   },
   {
-    "title": "JSON-LD explained for personal websites",
-    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "Maria Isabel S\u00e1nchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
+    "link": "https://www.amightygirl.com/blog?p=36753",
     "source": "Hacker News",
-    "published": "2026-06-21T18:51:47+00:00",
+    "published": "2026-06-20T09:13:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48621517\">Comments</a>"
-  },
-  {
-    "title": "Identity verification on Claude",
-    "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "source": "Hacker News",
-    "published": "2026-06-21T12:44:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48618455\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48607671\">Comments</a>"
   },
   {
     "title": "Lisp in the Rust Type System",
@@ -120,22 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48605561\">Comments</a>"
   },
   {
-    "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
-    "link": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
-    "source": "Hacker News",
-    "published": "2026-06-20T00:42:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48605085\">Comments</a>"
-  },
-  {
-    "title": "Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks",
-    "source": "Hacker News",
-    "published": "2026-06-19T19:00:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48601953\">Comments</a>"
-  },
-  {
     "title": "Munich 1991: The Roots of the Current AI Boom",
     "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-06-19T14:30:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48599057\">Comments</a>"
-  },
-  {
-    "title": "Writing Postcards with a 3D Printer",
-    "link": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
-    "source": "Hacker News",
-    "published": "2026-06-19T00:20:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48593424\">Comments</a>"
   }
 ]
