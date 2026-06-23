@@ -1,19 +1,51 @@
 [
   {
-    "title": "AI's Affordability Crisis",
-    "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "title": "I am a person who will look at the Steam Machine and cry",
+    "link": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
     "source": "Hacker News",
-    "published": "2026-06-23T15:11:17+00:00",
+    "published": "2026-06-23T18:07:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646276\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648893\">Comments</a>"
   },
   {
-    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
-    "link": "https://dandylyons.github.io/treedocs/",
+    "title": "Swift Package Index Joins Apple",
+    "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
     "source": "Hacker News",
-    "published": "2026-06-23T15:07:30+00:00",
+    "published": "2026-06-23T18:00:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646209\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648779\">Comments</a>"
+  },
+  {
+    "title": "The truth about being a manager",
+    "link": "https://sofiakodar.github.io/posts/becomingmanager/",
+    "source": "Hacker News",
+    "published": "2026-06-23T17:46:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648558\">Comments</a>"
+  },
+  {
+    "title": "Claude Tag",
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source": "Hacker News",
+    "published": "2026-06-23T17:09:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648039\">Comments</a>"
+  },
+  {
+    "title": "San Diego photologs from the 1970s",
+    "link": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "source": "Hacker News",
+    "published": "2026-06-23T16:55:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48647823\">Comments</a>"
+  },
+  {
+    "title": "F3",
+    "link": "https://github.com/future-file-format/f3",
+    "source": "Hacker News",
+    "published": "2026-06-23T16:53:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48647799\">Comments</a>"
   },
   {
     "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
@@ -40,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48645390\">Comments</a>"
   },
   {
-    "title": "Spying on kids to save kids from spying is stupid",
-    "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "title": "Elevated error rate across multiple models",
+    "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
     "source": "Hacker News",
-    "published": "2026-06-23T14:04:43+00:00",
+    "published": "2026-06-23T14:19:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645173\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645386\">Comments</a>"
   },
   {
     "title": "Mistral OCR 4",
@@ -64,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48644781\">Comments</a>"
   },
   {
-    "title": "Lossless GIF recompression via exhaustive search",
-    "link": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-    "source": "Hacker News",
-    "published": "2026-06-23T12:56:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644257\">Comments</a>"
-  },
-  {
-    "title": "80386 Early Start Memory Access",
-    "link": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-    "source": "Hacker News",
-    "published": "2026-06-23T12:37:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644022\">Comments</a>"
-  },
-  {
     "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
     "link": "https://github.com/baidu/Unlimited-OCR",
     "source": "Hacker News",
@@ -88,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48643426\">Comments</a>"
   },
   {
-    "title": "Crypto in 2026: Oh, This Is the Bad Place",
-    "link": "https://www.stephendiehl.com/posts/bad_place_2026/",
+    "title": "The Coming Loop",
+    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "source": "Hacker News",
-    "published": "2026-06-23T10:04:04+00:00",
+    "published": "2026-06-23T11:06:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642699\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Neural Particle Automata",
-    "link": "https://selforg-npa.github.io/",
-    "source": "Hacker News",
-    "published": "2026-06-23T08:31:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642030\">Comments</a>"
-  },
-  {
-    "title": "Will It Mythos?",
-    "link": "https://swelljoe.com/post/will-it-mythos/",
-    "source": "Hacker News",
-    "published": "2026-06-23T04:15:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48640196\">Comments</a>"
-  },
-  {
-    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-    "link": "https://arxiv.org/abs/2606.16140",
-    "source": "Hacker News",
-    "published": "2026-06-23T02:01:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639240\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643180\">Comments</a>"
   },
   {
     "title": "GLM-5.2 \u2013 How to Run Locally",
@@ -128,28 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48636377\">Comments</a>"
   },
   {
-    "title": "Steam Machine launches today",
-    "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "title": "Five monitors on a Commodore 128 [video]",
+    "link": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
     "source": "Hacker News",
-    "published": "2026-06-22T17:09:51+00:00",
+    "published": "2026-06-22T18:39:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48632884\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48634187\">Comments</a>"
   },
   {
-    "title": "Researchers used math to crack Wordle",
-    "link": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
+    "title": "The deadly rise of giant trucks and SUVs",
+    "link": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
     "source": "Hacker News",
-    "published": "2026-06-20T22:38:46+00:00",
+    "published": "2026-06-21T22:42:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613650\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48623347\">Comments</a>"
   },
   {
-    "title": "Open Source for IBM Z and LinuxONE",
-    "link": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
+    "title": "Performance Improvements in Libffi",
+    "link": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
     "source": "Hacker News",
-    "published": "2026-06-20T10:32:35+00:00",
+    "published": "2026-06-21T14:18:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608114\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619207\">Comments</a>"
+  },
+  {
+    "title": "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
+    "link": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
+    "source": "Hacker News",
+    "published": "2026-06-19T11:03:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48597201\">Comments</a>"
   },
   {
     "title": "Plotnine",
