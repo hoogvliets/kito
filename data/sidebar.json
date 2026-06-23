@@ -1,6 +1,38 @@
 [
   {
-    "title": "Unsloth GLM-5.2 \u2013 How to Run Locally",
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "link": "https://arxiv.org/abs/2606.16140",
+    "source": "Hacker News",
+    "published": "2026-06-23T02:01:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639240\">Comments</a>"
+  },
+  {
+    "title": "1,700 free online courses from top universities",
+    "link": "https://www.openculture.com/freeonlinecourses",
+    "source": "Hacker News",
+    "published": "2026-06-23T01:54:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639184\">Comments</a>"
+  },
+  {
+    "title": "An Introduction to YOLO26",
+    "link": "https://blog.roboflow.com/yolo26/",
+    "source": "Hacker News",
+    "published": "2026-06-23T01:52:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639165\">Comments</a>"
+  },
+  {
+    "title": "In praise of memcached",
+    "link": "https://jchri.st/blog/in-praise-of-memcached/",
+    "source": "Hacker News",
+    "published": "2026-06-23T01:15:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48638886\">Comments</a>"
+  },
+  {
+    "title": "GLM-5.2 \u2013 How to Run Locally",
     "link": "https://unsloth.ai/docs/models/glm-5.2",
     "source": "Hacker News",
     "published": "2026-06-22T21:21:01+00:00",
@@ -14,14 +46,6 @@
     "published": "2026-06-22T21:00:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48636125\">Comments</a>"
-  },
-  {
-    "title": "Job application asked for my SAT scores",
-    "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "source": "Hacker News",
-    "published": "2026-06-22T20:55:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48636062\">Comments</a>"
   },
   {
     "title": "Japanese symbols that speak without words",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48634778\">Comments</a>"
   },
   {
-    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-    "link": "https://ipvm.com/reports/police-chiefs-track",
-    "source": "Hacker News",
-    "published": "2026-06-22T19:13:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48634694\">Comments</a>"
-  },
-  {
     "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
     "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
     "source": "Hacker News",
@@ -64,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48634585\">Comments</a>"
   },
   {
-    "title": "Linux and Secure Boot certificate expiration (2025)",
-    "link": "https://lwn.net/Articles/1029767/",
-    "source": "Hacker News",
-    "published": "2026-06-22T18:24:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48633941\">Comments</a>"
-  },
-  {
-    "title": "Finding the Best Dog Treat with Statistics",
-    "link": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-    "source": "Hacker News",
-    "published": "2026-06-22T17:46:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48633410\">Comments</a>"
-  },
-  {
     "title": "Steam Machine launches today",
     "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
     "source": "Hacker News",
     "published": "2026-06-22T17:09:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48632884\">Comments</a>"
-  },
-  {
-    "title": "DisplayMate",
-    "link": "https://www.displaymate.com/",
-    "source": "Hacker News",
-    "published": "2026-06-22T16:45:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48632613\">Comments</a>"
   },
   {
     "title": "Show HN: Oak \u2013 Git alternative designed for agents",
@@ -112,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48630171\">Comments</a>"
   },
   {
-    "title": "PivCo-Huffman \"Merge\" Operations",
-    "link": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
+    "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+    "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
     "source": "Hacker News",
-    "published": "2026-06-21T23:25:24+00:00",
+    "published": "2026-06-21T01:12:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48623665\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48614715\">Comments</a>"
   },
   {
-    "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
-    "link": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+    "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
     "source": "Hacker News",
-    "published": "2026-06-21T20:19:06+00:00",
+    "published": "2026-06-20T23:33:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48622241\">Comments</a>"
-  },
-  {
-    "title": "Canyon HUD helmet for road riding",
-    "link": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
-    "source": "Hacker News",
-    "published": "2026-06-20T13:33:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48609129\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48614097\">Comments</a>"
   },
   {
     "title": "Cyberdecks, going analog, and convivial technology",
@@ -142,6 +126,14 @@
     "published": "2026-06-20T02:29:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48605776\">Comments</a>"
+  },
+  {
+    "title": "Windows NT for GameCube/Wii",
+    "link": "https://github.com/Wack0/entii-for-workcubes",
+    "source": "Hacker News",
+    "published": "2026-06-19T13:51:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48598591\">Comments</a>"
   },
   {
     "title": "My Mathematical Regression",
@@ -158,5 +150,13 @@
     "published": "2026-06-18T16:57:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48588247\">Comments</a>"
+  },
+  {
+    "title": "Package Managers need global hooks",
+    "link": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+    "source": "Hacker News",
+    "published": "2026-06-18T15:20:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48586767\">Comments</a>"
   }
 ]
