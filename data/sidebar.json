@@ -1,11 +1,83 @@
 [
   {
-    "title": "Oracle shed about 20k roles globally in the last year",
-    "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
+    "title": "AI's Affordability Crisis",
+    "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
     "source": "Hacker News",
-    "published": "2026-06-23T11:54:48+00:00",
+    "published": "2026-06-23T15:11:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643620\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646276\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+    "link": "https://dandylyons.github.io/treedocs/",
+    "source": "Hacker News",
+    "published": "2026-06-23T15:07:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646209\">Comments</a>"
+  },
+  {
+    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+    "link": "https://lift4d.github.io/",
+    "source": "Hacker News",
+    "published": "2026-06-23T14:40:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645721\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+    "link": "https://tikz.dev/editor/",
+    "source": "Hacker News",
+    "published": "2026-06-23T14:24:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645437\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM",
+    "link": "https://github.com/ilbertt/bun-sqlgen",
+    "source": "Hacker News",
+    "published": "2026-06-23T14:20:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645390\">Comments</a>"
+  },
+  {
+    "title": "Spying on kids to save kids from spying is stupid",
+    "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "source": "Hacker News",
+    "published": "2026-06-23T14:04:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645173\">Comments</a>"
+  },
+  {
+    "title": "Mistral OCR 4",
+    "link": "https://mistral.ai/news/ocr-4/",
+    "source": "Hacker News",
+    "published": "2026-06-23T14:03:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645152\">Comments</a>"
+  },
+  {
+    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+    "link": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "source": "Hacker News",
+    "published": "2026-06-23T13:36:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644781\">Comments</a>"
+  },
+  {
+    "title": "Lossless GIF recompression via exhaustive search",
+    "link": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
+    "source": "Hacker News",
+    "published": "2026-06-23T12:56:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644257\">Comments</a>"
+  },
+  {
+    "title": "80386 Early Start Memory Access",
+    "link": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+    "source": "Hacker News",
+    "published": "2026-06-23T12:37:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644022\">Comments</a>"
   },
   {
     "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
@@ -16,30 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48643426\">Comments</a>"
   },
   {
-    "title": "Wikipedia cofounder Larry Sanger blocked from editing Wikipedia",
-    "link": "https://en.wikipedia.org/wiki/User:Larry_Sanger",
-    "source": "Hacker News",
-    "published": "2026-06-23T11:33:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643407\">Comments</a>"
-  },
-  {
-    "title": "The Coming Loop",
-    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "source": "Hacker News",
-    "published": "2026-06-23T11:06:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643180\">Comments</a>"
-  },
-  {
-    "title": "Apple is going to raise device prices, but when?",
-    "link": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "source": "Hacker News",
-    "published": "2026-06-23T10:54:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643079\">Comments</a>"
-  },
-  {
     "title": "Crypto in 2026: Oh, This Is the Bad Place",
     "link": "https://www.stephendiehl.com/posts/bad_place_2026/",
     "source": "Hacker News",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48642699\">Comments</a>"
   },
   {
-    "title": "Show HN: Shumai \u2013 open-source Frame.io alternative for creative work",
-    "link": "https://github.com/shumaiOne/shumai",
-    "source": "Hacker News",
-    "published": "2026-06-23T10:02:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642686\">Comments</a>"
-  },
-  {
-    "title": "The Traditional Vi",
-    "link": "https://ex-vi.sourceforge.net/",
-    "source": "Hacker News",
-    "published": "2026-06-23T09:00:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642232\">Comments</a>"
-  },
-  {
     "title": "Show HN: Neural Particle Automata",
     "link": "https://selforg-npa.github.io/",
     "source": "Hacker News",
     "published": "2026-06-23T08:31:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48642030\">Comments</a>"
-  },
-  {
-    "title": "The new HTTP QUERY method explained",
-    "link": "https://kreya.app/blog/new-http-query-method-explained/",
-    "source": "Hacker News",
-    "published": "2026-06-23T06:05:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48640974\">Comments</a>"
   },
   {
     "title": "Will It Mythos?",
@@ -96,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48639240\">Comments</a>"
   },
   {
-    "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
-    "link": "https://openai.com/index/daybreak-securing-the-world/",
-    "source": "Hacker News",
-    "published": "2026-06-23T01:36:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639063\">Comments</a>"
-  },
-  {
-    "title": "In praise of memcached",
-    "link": "https://jchri.st/blog/in-praise-of-memcached/",
-    "source": "Hacker News",
-    "published": "2026-06-23T01:15:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48638886\">Comments</a>"
-  },
-  {
     "title": "GLM-5.2 \u2013 How to Run Locally",
     "link": "https://unsloth.ai/docs/models/glm-5.2",
     "source": "Hacker News",
     "published": "2026-06-22T21:21:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48636377\">Comments</a>"
-  },
-  {
-    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-    "link": "https://github.com/dorukkumkumoglu/optocamzero",
-    "source": "Hacker News",
-    "published": "2026-06-22T19:19:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48634778\">Comments</a>"
   },
   {
     "title": "Steam Machine launches today",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48632884\">Comments</a>"
   },
   {
-    "title": "8086 Segmented Memory was a good idea",
-    "link": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
+    "title": "Researchers used math to crack Wordle",
+    "link": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
     "source": "Hacker News",
-    "published": "2026-06-21T14:07:11+00:00",
+    "published": "2026-06-20T22:38:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619125\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613650\">Comments</a>"
   },
   {
-    "title": "My Mathematical Regression",
-    "link": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "title": "Open Source for IBM Z and LinuxONE",
+    "link": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
     "source": "Hacker News",
-    "published": "2026-06-19T11:06:04+00:00",
+    "published": "2026-06-20T10:32:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48597221\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48608114\">Comments</a>"
   },
   {
     "title": "Plotnine",
