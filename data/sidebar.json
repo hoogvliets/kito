@@ -1,5 +1,21 @@
 [
   {
+    "title": "Zero-Downtime Deployments with Docker Compose \u2013 No Kubernetes Required",
+    "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
+    "source": "Hacker News",
+    "published": "2026-06-24T20:20:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665130\">Comments</a>"
+  },
+  {
+    "title": "Thomann takes legal action against Fender",
+    "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "source": "Hacker News",
+    "published": "2026-06-24T19:08:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664384\">Comments</a>"
+  },
+  {
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "source": "Hacker News",
@@ -24,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48662381\">Comments</a>"
   },
   {
-    "title": "I taught a bucket to speak Git",
-    "link": "https://www.tigrisdata.com/blog/objgit/",
-    "source": "Hacker News",
-    "published": "2026-06-24T16:04:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48661938\">Comments</a>"
-  },
-  {
     "title": "There are a few things that I look back on as my mistakes in the early days",
     "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
     "source": "Hacker News",
     "published": "2026-06-24T15:56:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48661825\">Comments</a>"
-  },
-  {
-    "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-    "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-    "source": "Hacker News",
-    "published": "2026-06-24T15:37:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48661535\">Comments</a>"
   },
   {
     "title": "RubyLLM: A Ruby framework for all major AI providers",
@@ -80,20 +80,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48660267\">Comments</a>"
   },
   {
+    "title": "45\u00b0C cooling design cuts data center water use to near zero",
+    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "source": "Hacker News",
+    "published": "2026-06-24T14:10:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48660178\">Comments</a>"
+  },
+  {
+    "title": "Qualcomm to Acquire Modular",
+    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "source": "Hacker News",
+    "published": "2026-06-24T13:49:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659798\">Comments</a>"
+  },
+  {
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+    "link": "https://lookaway.com",
+    "source": "Hacker News",
+    "published": "2026-06-24T13:29:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659483\">Comments</a>"
+  },
+  {
     "title": "Stealing Is a Skill",
     "link": "https://ben-mini.com/2026/stealing-is-a-skill",
     "source": "Hacker News",
     "published": "2026-06-24T13:08:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48659165\">Comments</a>"
-  },
-  {
-    "title": "NSA lost access to Mythos amid Anthropic dispute",
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-    "source": "Hacker News",
-    "published": "2026-06-24T11:45:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658300\">Comments</a>"
   },
   {
     "title": "We\u2019re making Bunny DNS free",
@@ -112,44 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48646659\">Comments</a>"
   },
   {
-    "title": "Show HN: peerd \u2013 AI agent harness that runs entirely in your browser",
-    "link": "https://github.com/NotASithLord/peerd",
+    "title": "GLM-5.2 is a step change for open agents",
+    "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
     "source": "Hacker News",
-    "published": "2026-06-23T15:05:00+00:00",
+    "published": "2026-06-23T03:23:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646165\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639840\">Comments</a>"
   },
   {
-    "title": "Why eval startups fail (2025)",
-    "link": "https://thomasliao.com/eval-startups",
+    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+    "link": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
     "source": "Hacker News",
-    "published": "2026-06-22T23:20:53+00:00",
+    "published": "2026-06-21T14:12:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48637868\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619159\">Comments</a>"
   },
   {
-    "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
-    "link": "https://www.monolisa.dev/",
+    "title": "I can haz smoller NixOS ISOs?",
+    "link": "https://natkr.com/2026-06-19-nixos-but-smol/",
     "source": "Hacker News",
-    "published": "2026-06-22T14:05:23+00:00",
+    "published": "2026-06-19T21:55:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630318\">Comments</a>"
-  },
-  {
-    "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
-    "link": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-    "source": "Hacker News",
-    "published": "2026-06-22T14:00:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630254\">Comments</a>"
-  },
-  {
-    "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-    "link": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-    "source": "Hacker News",
-    "published": "2026-06-20T03:55:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48606222\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48603726\">Comments</a>"
   },
   {
     "title": "Pull request limits are cutting down the noise",
