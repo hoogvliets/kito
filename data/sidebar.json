@@ -1,19 +1,51 @@
 [
   {
+    "title": "Show HN: Make your game multiplayer in one prompt",
+    "link": "https://antics.gg/",
+    "source": "Hacker News",
+    "published": "2026-06-24T12:13:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658544\">Comments</a>"
+  },
+  {
+    "title": "Minimus container images are now free",
+    "link": "https://images.minimus.io/",
+    "source": "Hacker News",
+    "published": "2026-06-24T11:52:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658361\">Comments</a>"
+  },
+  {
+    "title": "A deadly fungus that can infect cats and people is spreading",
+    "link": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+    "source": "Hacker News",
+    "published": "2026-06-24T11:31:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658186\">Comments</a>"
+  },
+  {
+    "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+    "link": "https://haystack.deepset.ai/",
+    "source": "Hacker News",
+    "published": "2026-06-24T11:21:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658095\">Comments</a>"
+  },
+  {
+    "title": "Too many R packages: CRAN is inundated with submissions",
+    "link": "https://rworks.dev/posts/too-many-R-packages/",
+    "source": "Hacker News",
+    "published": "2026-06-24T10:59:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48657940\">Comments</a>"
+  },
+  {
     "title": "We're making Bunny DNS free: because a faster internet won't build itself",
     "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
     "source": "Hacker News",
     "published": "2026-06-24T08:50:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48657030\">Comments</a>"
-  },
-  {
-    "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-    "link": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-    "source": "Hacker News",
-    "published": "2026-06-24T08:41:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48656943\">Comments</a>"
   },
   {
     "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
@@ -72,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48648959\">Comments</a>"
   },
   {
-    "title": "Swift Package Index joins Apple",
-    "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-    "source": "Hacker News",
-    "published": "2026-06-23T18:00:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648779\">Comments</a>"
-  },
-  {
     "title": "FUTO Swipe \u2013 A new swipe typing model",
     "link": "https://swipe.futo.tech/",
     "source": "Hacker News",
@@ -88,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48648619\">Comments</a>"
   },
   {
-    "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-    "link": "https://tikz.dev/editor/",
+    "title": "Krea 2 Technical Report",
+    "link": "https://www.krea.ai/blog/krea-2-technical-report",
     "source": "Hacker News",
-    "published": "2026-06-23T14:24:21+00:00",
+    "published": "2026-06-23T15:31:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645437\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646659\">Comments</a>"
   },
   {
     "title": "Why eval startups fail (2025)",
@@ -104,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48637868\">Comments</a>"
   },
   {
-    "title": "Vector Graphics in Lil",
-    "link": "http://beyondloom.com/blog/vectorgraphics.html",
+    "title": "Statistics that live in your SQL",
+    "link": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
     "source": "Hacker News",
-    "published": "2026-06-22T21:05:44+00:00",
+    "published": "2026-06-22T13:25:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48636188\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48629810\">Comments</a>"
   },
   {
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-    "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "title": "Cointegration and Long-Horizon Forecasting (2025)",
+    "link": "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting",
     "source": "Hacker News",
-    "published": "2026-06-22T18:03:03+00:00",
+    "published": "2026-06-21T14:48:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48633643\">Comments</a>"
-  },
-  {
-    "title": "Rhombus Language 1.0",
-    "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "source": "Hacker News",
-    "published": "2026-06-22T17:50:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48633473\">Comments</a>"
-  },
-  {
-    "title": "Remaking BBC test cards to teach you video processing",
-    "link": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-    "source": "Hacker News",
-    "published": "2026-06-22T01:20:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624462\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619434\">Comments</a>"
   },
   {
     "title": "Printing Gaussian Splats",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48618481\">Comments</a>"
   },
   {
-    "title": "Show HN: An ASCII 3D Rendering Engine",
-    "link": "https://glyphcss.com",
+    "title": "Fran\u00e7ois Englert (1932 \u2013 2026)",
+    "link": "https://home.cern/francois-englert-1932-2026/",
     "source": "Hacker News",
-    "published": "2026-06-20T19:10:41+00:00",
+    "published": "2026-06-20T21:51:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48612025\">Comments</a>"
-  },
-  {
-    "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-    "link": "https://ps.tc/pages/blog-usbliter8.html",
-    "source": "Hacker News",
-    "published": "2026-06-18T14:23:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48585852\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48613336\">Comments</a>"
   }
 ]
