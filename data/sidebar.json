@@ -1,35 +1,59 @@
 [
   {
+    "title": "The Teensy Executable Revisited",
+    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+    "source": "Hacker News",
+    "published": "2026-06-24T02:30:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48654411\">Comments</a>"
+  },
+  {
+    "title": "The war on terror primed America for autocracy",
+    "link": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+    "source": "Hacker News",
+    "published": "2026-06-24T02:23:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48654367\">Comments</a>"
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "link": "https://arxiv.org/abs/2606.24597",
+    "source": "Hacker News",
+    "published": "2026-06-24T02:21:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48654351\">Comments</a>"
+  },
+  {
+    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+    "link": "https://github.com/End2End-Diffusion/diffusion-bench",
+    "source": "Hacker News",
+    "published": "2026-06-24T02:12:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48654274\">Comments</a>"
+  },
+  {
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "source": "Hacker News",
+    "published": "2026-06-24T00:28:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48653575\">Comments</a>"
+  },
+  {
+    "title": "Vulnerability reports are not special anymore",
+    "link": "https://words.filippo.io/vuln-reports/",
+    "source": "Hacker News",
+    "published": "2026-06-23T23:42:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48653216\">Comments</a>"
+  },
+  {
     "title": "Extreme Heat conference cancelled due to extreme heat warning",
     "link": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
     "source": "Hacker News",
     "published": "2026-06-23T23:26:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48653060\">Comments</a>"
-  },
-  {
-    "title": "United Wizards of the Coast recognized by NLRB",
-    "link": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
-    "source": "Hacker News",
-    "published": "2026-06-23T21:57:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48652028\">Comments</a>"
-  },
-  {
-    "title": "Trains halted across Germany because of communication system problem",
-    "link": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-    "source": "Hacker News",
-    "published": "2026-06-23T21:19:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48651613\">Comments</a>"
-  },
-  {
-    "title": "Don't verify email addresses by sending spam to them",
-    "link": "https://milek7.pl/mailverifyspam/",
-    "source": "Hacker News",
-    "published": "2026-06-23T20:23:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48650837\">Comments</a>"
   },
   {
     "title": "Jerry's Map",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48645437\">Comments</a>"
   },
   {
-    "title": "Unlimited OCR: One-shot long-horizon parsing",
-    "link": "https://github.com/baidu/Unlimited-OCR",
-    "source": "Hacker News",
-    "published": "2026-06-23T11:35:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643426\">Comments</a>"
-  },
-  {
     "title": "The Coming Loop",
     "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "source": "Hacker News",
@@ -112,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48633473\">Comments</a>"
   },
   {
-    "title": "Inventing the Future, One Lisp Machine at a Time",
-    "link": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-    "source": "Hacker News",
-    "published": "2026-06-22T15:24:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631511\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
-    "link": "https://www.monolisa.dev/",
-    "source": "Hacker News",
-    "published": "2026-06-22T14:05:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48630318\">Comments</a>"
-  },
-  {
     "title": "F* file system \u2013 file search that reads SSD directly bypassing OS kernel",
     "link": "https://github.com/dmtrKovalenko/ffs",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48622433\">Comments</a>"
   },
   {
+    "title": "Hunting Million-Digit Primes from My Loft",
+    "link": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
+    "source": "Hacker News",
+    "published": "2026-06-21T17:58:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48621018\">Comments</a>"
+  },
+  {
     "title": "Printing Gaussian Splats",
     "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
     "source": "Hacker News",
     "published": "2026-06-21T12:49:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48618481\">Comments</a>"
-  },
-  {
-    "title": "Dirty Little Zine \u2013 a tool for making an 8 page printable Zine",
-    "link": "https://dirtylittlezine.com/",
-    "source": "Hacker News",
-    "published": "2026-06-20T18:58:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48611896\">Comments</a>"
   },
   {
     "title": "Usbliter8: an A12/A13 SecureROM Exploit",
