@@ -1,5 +1,29 @@
 [
   {
+    "title": "Half-Life 2 in a Browser",
+    "link": "https://hl2.slqnt.dev/",
+    "source": "Hacker News",
+    "published": "2026-06-25T06:00:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>"
+  },
+  {
+    "title": "The Unbearable Cheapness of Open Weight Models",
+    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "source": "Hacker News",
+    "published": "2026-06-25T02:51:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668255\">Comments</a>"
+  },
+  {
+    "title": "Medical students are using popular research tool to pump out misleading studies",
+    "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+    "source": "Hacker News",
+    "published": "2026-06-25T02:30:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668119\">Comments</a>"
+  },
+  {
     "title": "Cloudflare launched self-managed OAuth for all",
     "link": "https://blog.cloudflare.com/oauth-for-all/",
     "source": "Hacker News",
@@ -16,44 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48668020\">Comments</a>"
   },
   {
-    "title": "Writers and Drugs",
-    "link": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-    "source": "Hacker News",
-    "published": "2026-06-25T01:50:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667853\">Comments</a>"
-  },
-  {
-    "title": "Bible as RAG Database",
-    "link": "https://www.crosscanon.com/",
-    "source": "Hacker News",
-    "published": "2026-06-25T01:42:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667807\">Comments</a>"
-  },
-  {
-    "title": "Ending All Respiratory Infections",
-    "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-    "source": "Hacker News",
-    "published": "2026-06-25T01:14:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667588\">Comments</a>"
-  },
-  {
     "title": "Mixing Visual and Textual Code",
     "link": "https://arxiv.org/abs/2603.15855",
     "source": "Hacker News",
     "published": "2026-06-25T01:11:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48667560\">Comments</a>"
-  },
-  {
-    "title": "What I'm Finding About LLM Code Style and Token Costs",
-    "link": "https://www.jimmont.com/llm-style-token-costs",
-    "source": "Hacker News",
-    "published": "2026-06-25T00:52:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667409\">Comments</a>"
   },
   {
     "title": "LuaJIT 3.0 proposed syntax extensions",
@@ -128,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48659798\">Comments</a>"
   },
   {
+    "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+    "link": "https://markdy.com",
+    "source": "Hacker News",
+    "published": "2026-06-23T15:00:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646077\">Comments</a>"
+  },
+  {
     "title": "GLM-5.2 is a step change for open agents",
     "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
     "source": "Hacker News",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48639840\">Comments</a>"
   },
   {
+    "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "link": "https://github.com/BohemiaInteractive/CWR",
+    "source": "Hacker News",
+    "published": "2026-06-22T21:52:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48636753\">Comments</a>"
+  },
+  {
     "title": "Dostoyevsky isn't difficult",
     "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
     "source": "Hacker News",
     "published": "2026-06-22T15:15:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48631366\">Comments</a>"
-  },
-  {
-    "title": "Optimizing [sqlx:test] rebuild time",
-    "link": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-    "source": "Hacker News",
-    "published": "2026-06-22T08:39:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48627471\">Comments</a>"
   },
   {
     "title": "Show HN: Write SaaS apps where users control where their data is stored",
