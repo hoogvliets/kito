@@ -1,19 +1,83 @@
 [
   {
-    "title": "PostgreSQL is enough (2024)",
-    "link": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "title": "Cloudflare launched self-managed OAuth for all",
+    "link": "https://blog.cloudflare.com/oauth-for-all/",
     "source": "Hacker News",
-    "published": "2026-06-24T22:39:37+00:00",
+    "published": "2026-06-25T02:18:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48666433\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668033\">Comments</a>"
   },
   {
-    "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
-    "link": "https://infosec.exchange/@mttaggart/116806641273303255",
+    "title": "Zombie unicorns are haunting Silicon Valley",
+    "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
     "source": "Hacker News",
-    "published": "2026-06-24T19:40:11+00:00",
+    "published": "2026-06-25T02:16:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664733\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668020\">Comments</a>"
+  },
+  {
+    "title": "Writers and Drugs",
+    "link": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+    "source": "Hacker News",
+    "published": "2026-06-25T01:50:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667853\">Comments</a>"
+  },
+  {
+    "title": "Bible as RAG Database",
+    "link": "https://www.crosscanon.com/",
+    "source": "Hacker News",
+    "published": "2026-06-25T01:42:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667807\">Comments</a>"
+  },
+  {
+    "title": "Ending All Respiratory Infections",
+    "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+    "source": "Hacker News",
+    "published": "2026-06-25T01:14:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667588\">Comments</a>"
+  },
+  {
+    "title": "Mixing Visual and Textual Code",
+    "link": "https://arxiv.org/abs/2603.15855",
+    "source": "Hacker News",
+    "published": "2026-06-25T01:11:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667560\">Comments</a>"
+  },
+  {
+    "title": "What I'm Finding About LLM Code Style and Token Costs",
+    "link": "https://www.jimmont.com/llm-style-token-costs",
+    "source": "Hacker News",
+    "published": "2026-06-25T00:52:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667409\">Comments</a>"
+  },
+  {
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "source": "Hacker News",
+    "published": "2026-06-25T00:41:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667336\">Comments</a>"
+  },
+  {
+    "title": "Blogging can just be stating the obvious",
+    "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "source": "Hacker News",
+    "published": "2026-06-24T23:46:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48666927\">Comments</a>"
+  },
+  {
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "source": "Hacker News",
+    "published": "2026-06-24T19:48:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664814\">Comments</a>"
   },
   {
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
@@ -32,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48662999\">Comments</a>"
   },
   {
-    "title": "The Xteink X4 E-Ink Reader",
-    "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "source": "Hacker News",
-    "published": "2026-06-24T16:35:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48662381\">Comments</a>"
-  },
-  {
-    "title": "There are a few things that I look back on as my mistakes in the early days",
-    "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-    "source": "Hacker News",
-    "published": "2026-06-24T15:56:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48661825\">Comments</a>"
-  },
-  {
     "title": "RubyLLM: A Ruby framework for all major AI providers",
     "link": "https://rubyllm.com/",
     "source": "Hacker News",
@@ -62,14 +110,6 @@
     "published": "2026-06-24T14:32:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48660579\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
-    "link": "https://github.com/nubjs/nub",
-    "source": "Hacker News",
-    "published": "2026-06-24T14:14:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48660267\">Comments</a>"
   },
   {
     "title": "45\u00b0C cooling design cuts data center water use to near zero",
@@ -88,54 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48659798\">Comments</a>"
   },
   {
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-    "link": "https://lookaway.com",
-    "source": "Hacker News",
-    "published": "2026-06-24T13:29:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659483\">Comments</a>"
-  },
-  {
-    "title": "Stealing Is a Skill",
-    "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "source": "Hacker News",
-    "published": "2026-06-24T13:08:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659165\">Comments</a>"
-  },
-  {
-    "title": "We\u2019re making Bunny DNS free",
-    "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "source": "Hacker News",
-    "published": "2026-06-24T08:50:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48657030\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Wordit \u2013 Change One Letter, Keep the Chain Going",
-    "link": "https://victorribeiro.com/wordit/",
-    "source": "Hacker News",
-    "published": "2026-06-23T18:57:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48649697\">Comments</a>"
-  },
-  {
-    "title": "Krea 2: SOTA open-weights 12B image model",
-    "link": "https://www.krea.ai/blog/krea-2-technical-report",
-    "source": "Hacker News",
-    "published": "2026-06-23T15:31:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646659\">Comments</a>"
-  },
-  {
-    "title": "It's Only When You Look Back",
-    "link": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "source": "Hacker News",
-    "published": "2026-06-23T10:52:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643051\">Comments</a>"
-  },
-  {
     "title": "GLM-5.2 is a step change for open agents",
     "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
     "source": "Hacker News",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48639840\">Comments</a>"
   },
   {
-    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-    "link": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+    "title": "Dostoyevsky isn't difficult",
+    "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
     "source": "Hacker News",
-    "published": "2026-06-21T14:12:48+00:00",
+    "published": "2026-06-22T15:15:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48619159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631366\">Comments</a>"
   },
   {
-    "title": "I can haz smoller NixOS ISOs?",
-    "link": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "Optimizing [sqlx:test] rebuild time",
+    "link": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
     "source": "Hacker News",
-    "published": "2026-06-19T21:55:24+00:00",
+    "published": "2026-06-22T08:39:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48603726\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48627471\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Write SaaS apps where users control where their data is stored",
+    "link": "https://github.com/wolfoo2931/linkedrecords/",
+    "source": "Hacker News",
+    "published": "2026-06-19T07:37:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48595882\">Comments</a>"
   }
 ]
