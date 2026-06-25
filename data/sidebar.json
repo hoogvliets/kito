@@ -1,19 +1,27 @@
 [
   {
+    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+    "source": "Hacker News",
+    "published": "2026-06-25T08:07:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48670411\">Comments</a>"
+  },
+  {
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "link": "https://utaw.tech/news/wikipedia-recognition",
+    "source": "Hacker News",
+    "published": "2026-06-25T07:02:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48669932\">Comments</a>"
+  },
+  {
     "title": "Half-Life 2 in a Browser",
     "link": "https://hl2.slqnt.dev/",
     "source": "Hacker News",
     "published": "2026-06-25T06:00:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>"
-  },
-  {
-    "title": "The Unbearable Cheapness of Open Weight Models",
-    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "source": "Hacker News",
-    "published": "2026-06-25T02:51:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668255\">Comments</a>"
   },
   {
     "title": "Medical students are using popular research tool to pump out misleading studies",
@@ -38,14 +46,6 @@
     "published": "2026-06-25T02:16:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48668020\">Comments</a>"
-  },
-  {
-    "title": "Mixing Visual and Textual Code",
-    "link": "https://arxiv.org/abs/2603.15855",
-    "source": "Hacker News",
-    "published": "2026-06-25T01:11:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48667560\">Comments</a>"
   },
   {
     "title": "LuaJIT 3.0 proposed syntax extensions",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48663324\">Comments</a>"
   },
   {
-    "title": "Computer use in Gemini 3.5 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "source": "Hacker News",
-    "published": "2026-06-24T17:21:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48662999\">Comments</a>"
-  },
-  {
     "title": "RubyLLM: A Ruby framework for all major AI providers",
     "link": "https://rubyllm.com/",
     "source": "Hacker News",
@@ -120,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48659798\">Comments</a>"
   },
   {
+    "title": "Show HN: Nimic \u2013 Pure Python as a systems language with AOT compilation",
+    "link": "https://github.com/dima-quant/nimic",
+    "source": "Hacker News",
+    "published": "2026-06-23T15:09:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48646239\">Comments</a>"
+  },
+  {
     "title": "Markdy: Like Mermaid Diagrams, but for Motion",
     "link": "https://markdy.com",
     "source": "Hacker News",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48639840\">Comments</a>"
   },
   {
+    "title": "Lies, Damn Lies and Database Benchmarks",
+    "link": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+    "source": "Hacker News",
+    "published": "2026-06-23T02:27:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48639429\">Comments</a>"
+  },
+  {
     "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
     "link": "https://github.com/BohemiaInteractive/CWR",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-06-22T15:15:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48631366\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Write SaaS apps where users control where their data is stored",
-    "link": "https://github.com/wolfoo2931/linkedrecords/",
-    "source": "Hacker News",
-    "published": "2026-06-19T07:37:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48595882\">Comments</a>"
   }
 ]
