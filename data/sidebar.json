@@ -1,19 +1,19 @@
 [
   {
-    "title": "Zero-Downtime Deployments with Docker Compose \u2013 No Kubernetes Required",
-    "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
+    "title": "PostgreSQL is enough (2024)",
+    "link": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
     "source": "Hacker News",
-    "published": "2026-06-24T20:20:33+00:00",
+    "published": "2026-06-24T22:39:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665130\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48666433\">Comments</a>"
   },
   {
-    "title": "Thomann takes legal action against Fender",
-    "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+    "link": "https://infosec.exchange/@mttaggart/116806641273303255",
     "source": "Hacker News",
-    "published": "2026-06-24T19:08:22+00:00",
+    "published": "2026-06-24T19:40:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664384\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664733\">Comments</a>"
   },
   {
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
@@ -54,14 +54,6 @@
     "published": "2026-06-24T14:41:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48660711\">Comments</a>"
-  },
-  {
-    "title": "Running Windows Games on a Hobby OS with Wine",
-    "link": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "source": "Hacker News",
-    "published": "2026-06-24T14:38:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48660671\">Comments</a>"
   },
   {
     "title": "PR spam today looks like email spam in the early 2000s",
@@ -120,12 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48657030\">Comments</a>"
   },
   {
+    "title": "Show HN: Wordit \u2013 Change One Letter, Keep the Chain Going",
+    "link": "https://victorribeiro.com/wordit/",
+    "source": "Hacker News",
+    "published": "2026-06-23T18:57:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48649697\">Comments</a>"
+  },
+  {
     "title": "Krea 2: SOTA open-weights 12B image model",
     "link": "https://www.krea.ai/blog/krea-2-technical-report",
     "source": "Hacker News",
     "published": "2026-06-23T15:31:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48646659\">Comments</a>"
+  },
+  {
+    "title": "It's Only When You Look Back",
+    "link": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "source": "Hacker News",
+    "published": "2026-06-23T10:52:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643051\">Comments</a>"
   },
   {
     "title": "GLM-5.2 is a step change for open agents",
@@ -150,13 +158,5 @@
     "published": "2026-06-19T21:55:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48603726\">Comments</a>"
-  },
-  {
-    "title": "Pull request limits are cutting down the noise",
-    "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-    "source": "Hacker News",
-    "published": "2026-06-19T10:03:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48596834\">Comments</a>"
   }
 ]
