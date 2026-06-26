@@ -1,5 +1,45 @@
 [
   {
+    "title": "Silicon Valley Has an Empathy Vacuum (2016)",
+    "link": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+    "source": "Hacker News",
+    "published": "2026-06-25T23:53:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48680727\">Comments</a>"
+  },
+  {
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+    "link": "https://gchandbook.org/",
+    "source": "Hacker News",
+    "published": "2026-06-25T23:10:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48680370\">Comments</a>"
+  },
+  {
+    "title": "Military branches restore flu shot requirement after virus swept through base",
+    "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+    "source": "Hacker News",
+    "published": "2026-06-25T22:16:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679934\">Comments</a>"
+  },
+  {
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "source": "Hacker News",
+    "published": "2026-06-25T21:44:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679608\">Comments</a>"
+  },
+  {
+    "title": "Migrating from Proxmox to NixOS and Incus",
+    "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
+    "source": "Hacker News",
+    "published": "2026-06-25T21:22:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679385\">Comments</a>"
+  },
+  {
     "title": "Un-0: Generating Images with Coupled Oscillators",
     "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "source": "Hacker News",
@@ -8,12 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48679007\">Comments</a>"
   },
   {
-    "title": "Om Malik, 1966-2026",
+    "title": "Om Malik has died",
     "link": "https://om.co/2026/06/24/1966-2026/",
     "source": "Hacker News",
     "published": "2026-06-25T20:33:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48678852\">Comments</a>"
+  },
+  {
+    "title": "An oral history of Bank Python (2021)",
+    "link": "https://calpaterson.com/bank-python.html",
+    "source": "Hacker News",
+    "published": "2026-06-25T20:14:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48678645\">Comments</a>"
   },
   {
     "title": "Parallel Parentheses Matching",
@@ -24,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48678623\">Comments</a>"
   },
   {
-    "title": "The Doorman's Fallacy in Action",
+    "title": "The Doorman's Fallacy in action",
     "link": "https://rozumem.xyz/posts/17",
     "source": "Hacker News",
     "published": "2026-06-25T20:00:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48678495\">Comments</a>"
-  },
-  {
-    "title": "Besimple AI (YC P25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-    "source": "Hacker News",
-    "published": "2026-06-25T17:00:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48676256\">Comments</a>"
   },
   {
     "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
@@ -88,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48672732\">Comments</a>"
   },
   {
-    "title": "Half-Life 2 in a Browser",
-    "link": "https://hl2.slqnt.dev/",
+    "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+    "link": "https://github.com/plbrault/youre-the-os",
     "source": "Hacker News",
-    "published": "2026-06-25T06:00:04+00:00",
+    "published": "2026-06-23T09:35:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>"
-  },
-  {
-    "title": "You can't unit test for taste",
-    "link": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-    "source": "Hacker News",
-    "published": "2026-06-24T08:54:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48657049\">Comments</a>"
-  },
-  {
-    "title": "GloriousEggroll's Proton has been rebased on Proton 11",
-    "link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
-    "source": "Hacker News",
-    "published": "2026-06-24T08:04:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48656692\">Comments</a>"
-  },
-  {
-    "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
-    "link": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
-    "source": "Hacker News",
-    "published": "2026-06-24T02:56:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48654540\">Comments</a>"
-  },
-  {
-    "title": "The annotated PyTorch training loop",
-    "link": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-    "source": "Hacker News",
-    "published": "2026-06-22T23:44:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48638120\">Comments</a>"
-  },
-  {
-    "title": "The anxiety of the perfect loaf: the illusion of culinary precision",
-    "link": "https://iza.ac/posts/2026/06/intuitive-cooking/",
-    "source": "Hacker News",
-    "published": "2026-06-22T22:11:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48636982\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642474\">Comments</a>"
   },
   {
     "title": "Oxide computer 3D rack guided tour",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48631450\">Comments</a>"
   },
   {
+    "title": "The last Romans are still around",
+    "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "source": "Hacker News",
+    "published": "2026-06-22T15:00:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631119\">Comments</a>"
+  },
+  {
     "title": "Show HN: Chess-Inspired Roguelike",
     "link": "https://princechazz.com",
     "source": "Hacker News",
     "published": "2026-06-21T06:50:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48616304\">Comments</a>"
-  },
-  {
-    "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
-    "link": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-    "source": "Hacker News",
-    "published": "2026-06-21T03:00:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48615277\">Comments</a>"
   }
 ]
