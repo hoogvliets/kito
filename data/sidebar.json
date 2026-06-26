@@ -1,27 +1,51 @@
 [
   {
-    "title": "Silicon Valley Has an Empathy Vacuum (2016)",
-    "link": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+    "title": "No-One Escapes the Permanent Underclass",
+    "link": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
     "source": "Hacker News",
-    "published": "2026-06-25T23:53:33+00:00",
+    "published": "2026-06-26T03:25:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48680727\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48682016\">Comments</a>"
   },
   {
-    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+    "title": "Libre Barcode Project",
+    "link": "https://graphicore.github.io/librebarcode/",
+    "source": "Hacker News",
+    "published": "2026-06-26T03:12:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681949\">Comments</a>"
+  },
+  {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "source": "Hacker News",
+    "published": "2026-06-26T02:29:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681687\">Comments</a>"
+  },
+  {
+    "title": "A data race that doesn't compile",
+    "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+    "source": "Hacker News",
+    "published": "2026-06-26T01:33:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681361\">Comments</a>"
+  },
+  {
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "source": "Hacker News",
+    "published": "2026-06-26T01:10:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681220\">Comments</a>"
+  },
+  {
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
     "link": "https://gchandbook.org/",
     "source": "Hacker News",
     "published": "2026-06-25T23:10:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48680370\">Comments</a>"
-  },
-  {
-    "title": "Military branches restore flu shot requirement after virus swept through base",
-    "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-    "source": "Hacker News",
-    "published": "2026-06-25T22:16:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679934\">Comments</a>"
   },
   {
     "title": "The 'papers, please' era of the internet will decimate your privacy",
@@ -30,14 +54,6 @@
     "published": "2026-06-25T21:44:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48679608\">Comments</a>"
-  },
-  {
-    "title": "Migrating from Proxmox to NixOS and Incus",
-    "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-    "source": "Hacker News",
-    "published": "2026-06-25T21:22:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679385\">Comments</a>"
   },
   {
     "title": "Un-0: Generating Images with Coupled Oscillators",
@@ -72,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48678623\">Comments</a>"
   },
   {
-    "title": "The Doorman's Fallacy in action",
-    "link": "https://rozumem.xyz/posts/17",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
     "source": "Hacker News",
-    "published": "2026-06-25T20:00:35+00:00",
+    "published": "2026-06-25T17:38:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48678495\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48676795\">Comments</a>"
   },
   {
     "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48674967\">Comments</a>"
   },
   {
-    "title": "OS9Map",
-    "link": "https://yllan.org/software/OS9Map/",
+    "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+    "link": "https://news.ycombinator.com/item?id=48644463",
     "source": "Hacker News",
-    "published": "2026-06-25T15:01:06+00:00",
+    "published": "2026-06-23T13:11:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48674484\">Comments</a>"
-  },
-  {
-    "title": "Zig's new bitCast semantics and LLVM back end improvements",
-    "link": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "source": "Hacker News",
-    "published": "2026-06-25T14:19:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48673825\">Comments</a>"
-  },
-  {
-    "title": "Apple raises prices of MacBooks, iPads",
-    "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-    "source": "Hacker News",
-    "published": "2026-06-25T13:02:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48672732\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48644463\">Comments</a>"
   },
   {
     "title": "A game where you're an OS and have to manage processes, memory and I/O events",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48642474\">Comments</a>"
   },
   {
+    "title": "Eyewitness at the Triangle (1911)",
+    "link": "http://trianglefire.ilr.cornell.edu/index.html",
+    "source": "Hacker News",
+    "published": "2026-06-23T00:53:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48638710\">Comments</a>"
+  },
+  {
     "title": "Oxide computer 3D rack guided tour",
     "link": "https://explorer.oxide.computer/",
     "source": "Hacker News",
     "published": "2026-06-22T15:21:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48631450\">Comments</a>"
-  },
-  {
-    "title": "The last Romans are still around",
-    "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "source": "Hacker News",
-    "published": "2026-06-22T15:00:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48631119\">Comments</a>"
   },
   {
     "title": "Show HN: Chess-Inspired Roguelike",
