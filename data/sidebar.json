@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>"
   },
   {
-    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-    "link": "https://github.com/Tessil/hopscotch-map",
-    "source": "Hacker News",
-    "published": "2026-06-26T21:18:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>"
-  },
-  {
     "title": "We can still stop California's 3D printer surveillance scheme",
     "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
     "source": "Hacker News",
@@ -112,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>"
   },
   {
-    "title": "Show HN: DBOSify \u2013 Drop-in Temporal replacement built on Postgres",
-    "link": "https://github.com/dbos-inc/dbosify-py",
+    "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+    "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
     "source": "Hacker News",
-    "published": "2026-06-24T17:20:48+00:00",
+    "published": "2026-06-26T04:13:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48662988\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48682243\">Comments</a>"
+  },
+  {
+    "title": "Long Wave radio era set to end with switch-off",
+    "link": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+    "source": "Hacker News",
+    "published": "2026-06-25T18:42:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48677564\">Comments</a>"
+  },
+  {
+    "title": "Linux on Older Hardware: The Complete Revival Guide",
+    "link": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+    "source": "Hacker News",
+    "published": "2026-06-25T04:06:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48668747\">Comments</a>"
   },
   {
     "title": "Fusion Programming Language",
@@ -134,14 +142,6 @@
     "published": "2026-06-24T08:46:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48656982\">Comments</a>"
-  },
-  {
-    "title": "Building apps using TanStack Start",
-    "link": "https://lovable.dev/blog/building-apps-using-tanstack-start",
-    "source": "Hacker News",
-    "published": "2026-06-23T17:06:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648008\">Comments</a>"
   },
   {
     "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
