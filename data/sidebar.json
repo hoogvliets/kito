@@ -1,11 +1,67 @@
 [
   {
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "source": "Hacker News",
+    "published": "2026-06-27T14:38:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698684\">Comments</a>"
+  },
+  {
+    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+    "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+    "source": "Hacker News",
+    "published": "2026-06-27T14:23:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698559\">Comments</a>"
+  },
+  {
+    "title": "Suspicious Discontinuities",
+    "link": "https://danluu.com/discontinuities/",
+    "source": "Hacker News",
+    "published": "2026-06-27T13:32:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698151\">Comments</a>"
+  },
+  {
+    "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "source": "Hacker News",
+    "published": "2026-06-27T12:43:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697768\">Comments</a>"
+  },
+  {
+    "title": "How Many Elementary Particles Are There, Really?",
+    "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+    "source": "Hacker News",
+    "published": "2026-06-27T12:40:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697746\">Comments</a>"
+  },
+  {
+    "title": "OpenRA",
+    "link": "https://www.openra.net/",
+    "source": "Hacker News",
+    "published": "2026-06-27T12:10:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697560\">Comments</a>"
+  },
+  {
     "title": "Nox Metals (YC S25) Is Hiring SWE",
     "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
     "source": "Hacker News",
     "published": "2026-06-27T12:01:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48697504\">Comments</a>"
+  },
+  {
+    "title": "If you can't hold it, you don't own it",
+    "link": "https://dervis.de/physical/",
+    "source": "Hacker News",
+    "published": "2026-06-27T11:32:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697335\">Comments</a>"
   },
   {
     "title": "Fintech Engineering Handbook",
@@ -16,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48696982\">Comments</a>"
   },
   {
-    "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "source": "Hacker News",
     "published": "2026-06-27T09:18:52+00:00",
@@ -32,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48696510\">Comments</a>"
   },
   {
-    "title": "OpenTTD 16.0-Beta1",
-    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-    "source": "Hacker News",
-    "published": "2026-06-27T04:31:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695149\">Comments</a>"
-  },
-  {
     "title": "WordStar: A Writer's Word Processor (1996)",
     "link": "https://www.sfwriter.com/wordstar.htm",
     "source": "Hacker News",
     "published": "2026-06-27T03:30:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48694853\">Comments</a>"
-  },
-  {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
-    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "source": "Hacker News",
-    "published": "2026-06-27T02:41:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48694631\">Comments</a>"
-  },
-  {
-    "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "source": "Hacker News",
-    "published": "2026-06-26T22:48:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692995\">Comments</a>"
   },
   {
     "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -72,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>"
   },
   {
-    "title": "AI in mathematics is forcing big questions",
-    "link": "https://spectrum.ieee.org/ai-in-mathematics",
-    "source": "Hacker News",
-    "published": "2026-06-26T22:36:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>"
-  },
-  {
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "source": "Hacker News",
@@ -88,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>"
   },
   {
-    "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-    "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
-    "source": "Hacker News",
-    "published": "2026-06-26T04:13:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48682243\">Comments</a>"
-  },
-  {
     "title": "Long Wave radio era set to end with switch-off",
     "link": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
     "source": "Hacker News",
     "published": "2026-06-25T18:42:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48677564\">Comments</a>"
-  },
-  {
-    "title": "Cultures of Making and Relating",
-    "link": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-    "source": "Hacker News",
-    "published": "2026-06-25T15:54:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675290\">Comments</a>"
   },
   {
     "title": "The US Army Issued Ocarinas to Soldiers in World War II",
@@ -128,35 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48668747\">Comments</a>"
   },
   {
-    "title": "Jest/Vitest interactive course (runs in the browser)",
-    "link": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "How H-E-B Became Texas' Most Beloved Brand (2024)",
+    "link": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
     "source": "Hacker News",
-    "published": "2026-06-24T21:09:07+00:00",
+    "published": "2026-06-24T20:19:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665671\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665125\">Comments</a>"
   },
   {
-    "title": "Fusion Programming Language",
-    "link": "https://fusion-lang.org/",
+    "title": "Underarm Bowling Incident of 1981",
+    "link": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
     "source": "Hacker News",
-    "published": "2026-06-24T11:27:07+00:00",
+    "published": "2026-06-23T20:21:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658148\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48650794\">Comments</a>"
   },
   {
-    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-    "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+    "link": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
     "source": "Hacker News",
-    "published": "2026-06-23T09:39:35+00:00",
+    "published": "2026-06-23T14:28:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>"
-  },
-  {
-    "title": "Hellishly Slow Level 13 Deflate Compression",
-    "link": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-    "source": "Hacker News",
-    "published": "2026-06-22T18:17:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48633839\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48645510\">Comments</a>"
   }
 ]
