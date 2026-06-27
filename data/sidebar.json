@@ -1,11 +1,75 @@
 [
   {
+    "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+    "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "source": "Hacker News",
+    "published": "2026-06-26T22:48:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692995\">Comments</a>"
+  },
+  {
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "source": "Hacker News",
+    "published": "2026-06-26T22:43:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>"
+  },
+  {
+    "title": "AI in mathematics is forcing big questions",
+    "link": "https://spectrum.ieee.org/ai-in-mathematics",
+    "source": "Hacker News",
+    "published": "2026-06-26T22:36:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>"
+  },
+  {
+    "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+    "link": "https://news.ycombinator.com/item?id=48692474",
+    "source": "Hacker News",
+    "published": "2026-06-26T21:54:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692474\">Comments</a>"
+  },
+  {
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "link": "https://github.com/Tessil/hopscotch-map",
+    "source": "Hacker News",
+    "published": "2026-06-26T21:18:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>"
+  },
+  {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "link": "https://blog.doubleword.ai/frontier-os-llm",
+    "source": "Hacker News",
+    "published": "2026-06-26T21:14:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>"
+  },
+  {
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "source": "Hacker News",
+    "published": "2026-06-26T21:13:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692051\">Comments</a>"
+  },
+  {
     "title": "Hightouch (YC S19) Is Hiring",
     "link": "https://hightouch.com/careers#open-positions",
     "source": "Hacker News",
     "published": "2026-06-26T21:00:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48691893\">Comments</a>"
+  },
+  {
+    "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
+    "source": "Hacker News",
+    "published": "2026-06-26T20:07:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48691346\">Comments</a>"
   },
   {
     "title": "Long Wave radio era set to end with Droitwich switch-off",
@@ -24,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48690231\">Comments</a>"
   },
   {
-    "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
-    "link": "https://github.com/skx/slisp",
-    "source": "Hacker News",
-    "published": "2026-06-26T18:30:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48690200\">Comments</a>"
-  },
-  {
     "title": "U.S. government will decide who gets to use GPT-5.6",
     "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
     "source": "Hacker News",
@@ -40,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>"
   },
   {
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-    "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "source": "Hacker News",
-    "published": "2026-06-26T18:04:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689859\">Comments</a>"
-  },
-  {
     "title": "What Is a Nomogram and Why Would It Interest Me?",
     "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
     "source": "Hacker News",
     "published": "2026-06-26T17:24:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48689277\">Comments</a>"
-  },
-  {
-    "title": "Data centers trigger voter backlash",
-    "link": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-    "source": "Hacker News",
-    "published": "2026-06-26T17:24:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689275\">Comments</a>"
   },
   {
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
@@ -80,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48688700\">Comments</a>"
   },
   {
-    "title": "What is a Lithium-ion capacitor?",
-    "link": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-    "source": "Hacker News",
-    "published": "2026-06-26T15:51:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48688081\">Comments</a>"
-  },
-  {
     "title": "Ultrasound imaging of the brain",
     "link": "https://alephneuro.com/blog/ultrasound-brain",
     "source": "Hacker News",
@@ -96,44 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48685558\">Comments</a>"
   },
   {
-    "title": "Libre Barcode Project",
-    "link": "https://graphicore.github.io/librebarcode/",
+    "title": "A Tiny Compiler for Data-Parallel Kernels",
+    "link": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
     "source": "Hacker News",
-    "published": "2026-06-26T03:12:42+00:00",
+    "published": "2026-06-25T13:32:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681949\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48673115\">Comments</a>"
   },
   {
-    "title": "What happened after 2k people tried to hack my AI assistant",
-    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "title": "A human postmortem of the 1996 AOL outage",
+    "link": "https://ngrok.com/blog/aol-was-down-1996",
     "source": "Hacker News",
-    "published": "2026-06-26T02:29:23+00:00",
+    "published": "2026-06-24T14:29:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681687\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48660522\">Comments</a>"
   },
   {
-    "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-    "link": "https://www.swiftlatex.com/",
-    "source": "Hacker News",
-    "published": "2026-06-23T20:04:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48650550\">Comments</a>"
-  },
-  {
-    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible",
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
     "link": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
     "source": "Hacker News",
     "published": "2026-06-23T12:45:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48644111\">Comments</a>"
-  },
-  {
-    "title": "Modern GPU Programming for MLSys",
-    "link": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-    "source": "Hacker News",
-    "published": "2026-06-23T11:38:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643459\">Comments</a>"
   },
   {
     "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
@@ -142,21 +158,5 @@
     "published": "2026-06-23T09:39:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>"
-  },
-  {
-    "title": "The Art of Kite Flying (1430\u20131929)",
-    "link": "https://publicdomainreview.org/collection/art-of-kite-flying/",
-    "source": "Hacker News",
-    "published": "2026-06-22T01:39:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48624591\">Comments</a>"
-  },
-  {
-    "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-    "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
-    "source": "Hacker News",
-    "published": "2026-06-20T15:50:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48610137\">Comments</a>"
   }
 ]
