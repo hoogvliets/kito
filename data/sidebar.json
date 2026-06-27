@@ -1,5 +1,21 @@
 [
   {
+    "title": "IBM MCGA Gate Array Reverse Engineering",
+    "link": "https://github.com/schlae/IBM_MCGA",
+    "source": "Hacker News",
+    "published": "2026-06-27T05:17:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695363\">Comments</a>"
+  },
+  {
+    "title": "OpenTTD 16.0-Beta1",
+    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+    "source": "Hacker News",
+    "published": "2026-06-27T04:31:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695149\">Comments</a>"
+  },
+  {
     "title": "WordStar: A Writer's Word Processor (1996)",
     "link": "https://www.sfwriter.com/wordstar.htm",
     "source": "Hacker News",
@@ -8,12 +24,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48694853\">Comments</a>"
   },
   {
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "source": "Hacker News",
+    "published": "2026-06-27T02:41:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48694631\">Comments</a>"
+  },
+  {
     "title": "Show HN: Hacker News on a train station-style flip board",
     "link": "https://popflame.quickish.space/hn-flipboard/",
     "source": "Hacker News",
     "published": "2026-06-27T00:43:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>"
+  },
+  {
+    "title": "Foreign funds help make housing unaffordable: research",
+    "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "source": "Hacker News",
+    "published": "2026-06-26T23:36:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693420\">Comments</a>"
   },
   {
     "title": "Om",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>"
   },
   {
-    "title": "The gap between open weights LLMs and closed source LLMs",
-    "link": "https://blog.doubleword.ai/frontier-os-llm",
-    "source": "Hacker News",
-    "published": "2026-06-26T21:14:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>"
-  },
-  {
     "title": "We can still stop California's 3D printer surveillance scheme",
     "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
     "source": "Hacker News",
     "published": "2026-06-26T21:13:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48692051\">Comments</a>"
-  },
-  {
-    "title": "Hightouch (YC S19) Is Hiring",
-    "link": "https://hightouch.com/careers#open-positions",
-    "source": "Hacker News",
-    "published": "2026-06-26T21:00:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48691893\">Comments</a>"
-  },
-  {
-    "title": "Long Wave radio era set to end with Droitwich switch-off",
-    "link": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-    "source": "Hacker News",
-    "published": "2026-06-26T19:12:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48690709\">Comments</a>"
   },
   {
     "title": "U.S. government will decide who gets to use GPT-5.6",
@@ -104,30 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>"
   },
   {
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "link": "https://github.com/workweave/router",
-    "source": "Hacker News",
-    "published": "2026-06-26T16:40:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48688700\">Comments</a>"
-  },
-  {
-    "title": "Ultrasound imaging of the brain",
-    "link": "https://alephneuro.com/blog/ultrasound-brain",
-    "source": "Hacker News",
-    "published": "2026-06-26T11:51:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48685558\">Comments</a>"
-  },
-  {
-    "title": "A Tiny Compiler for Data-Parallel Kernels",
-    "link": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "source": "Hacker News",
-    "published": "2026-06-25T13:32:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48673115\">Comments</a>"
-  },
-  {
     "title": "Show HN: DBOSify \u2013 Drop-in Temporal replacement built on Postgres",
     "link": "https://github.com/dbos-inc/dbosify-py",
     "source": "Hacker News",
@@ -136,12 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48662988\">Comments</a>"
   },
   {
-    "title": "Making Sense of Proof by Contradiction [pdf]",
-    "link": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "title": "Fusion Programming Language",
+    "link": "https://fusion-lang.org/",
     "source": "Hacker News",
-    "published": "2026-06-23T12:00:13+00:00",
+    "published": "2026-06-24T11:27:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48643661\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658148\">Comments</a>"
+  },
+  {
+    "title": "SCC Technical Assistance Program",
+    "link": "https://nerocam.com/scc_tap.asp",
+    "source": "Hacker News",
+    "published": "2026-06-24T08:46:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48656982\">Comments</a>"
+  },
+  {
+    "title": "Building apps using TanStack Start",
+    "link": "https://lovable.dev/blog/building-apps-using-tanstack-start",
+    "source": "Hacker News",
+    "published": "2026-06-23T17:06:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648008\">Comments</a>"
   },
   {
     "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
