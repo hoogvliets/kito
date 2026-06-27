@@ -1,11 +1,35 @@
 [
   {
-    "title": "IBM MCGA Gate Array Reverse Engineering",
-    "link": "https://github.com/schlae/IBM_MCGA",
+    "title": "Nox Metals (YC S25) Is Hiring SWE",
+    "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
     "source": "Hacker News",
-    "published": "2026-06-27T05:17:08+00:00",
+    "published": "2026-06-27T12:01:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695363\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697504\">Comments</a>"
+  },
+  {
+    "title": "Fintech Engineering Handbook",
+    "link": "https://w.pitula.me/fintech-engineering-handbook/",
+    "source": "Hacker News",
+    "published": "2026-06-27T10:28:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48696982\">Comments</a>"
+  },
+  {
+    "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
+    "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "source": "Hacker News",
+    "published": "2026-06-27T09:18:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48696585\">Comments</a>"
+  },
+  {
+    "title": "Beer CSS \u2013 Build material design in record time",
+    "link": "https://www.beercss.com",
+    "source": "Hacker News",
+    "published": "2026-06-27T09:06:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48696510\">Comments</a>"
   },
   {
     "title": "OpenTTD 16.0-Beta1",
@@ -32,30 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48694631\">Comments</a>"
   },
   {
-    "title": "Show HN: Hacker News on a train station-style flip board",
-    "link": "https://popflame.quickish.space/hn-flipboard/",
-    "source": "Hacker News",
-    "published": "2026-06-27T00:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>"
-  },
-  {
-    "title": "Foreign funds help make housing unaffordable: research",
-    "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "source": "Hacker News",
-    "published": "2026-06-26T23:36:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693420\">Comments</a>"
-  },
-  {
-    "title": "Om",
-    "link": "https://daringfireball.net/2026/06/om",
-    "source": "Hacker News",
-    "published": "2026-06-26T23:33:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693391\">Comments</a>"
-  },
-  {
     "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
     "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
     "source": "Hacker News",
@@ -78,22 +78,6 @@
     "published": "2026-06-26T22:36:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>"
-  },
-  {
-    "title": "We can still stop California's 3D printer surveillance scheme",
-    "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-    "source": "Hacker News",
-    "published": "2026-06-26T21:13:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692051\">Comments</a>"
-  },
-  {
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "source": "Hacker News",
-    "published": "2026-06-26T18:23:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>"
   },
   {
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
@@ -120,6 +104,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48677564\">Comments</a>"
   },
   {
+    "title": "Cultures of Making and Relating",
+    "link": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+    "source": "Hacker News",
+    "published": "2026-06-25T15:54:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675290\">Comments</a>"
+  },
+  {
+    "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+    "link": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+    "source": "Hacker News",
+    "published": "2026-06-25T07:26:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48670103\">Comments</a>"
+  },
+  {
     "title": "Linux on Older Hardware: The Complete Revival Guide",
     "link": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
     "source": "Hacker News",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48668747\">Comments</a>"
   },
   {
+    "title": "Jest/Vitest interactive course (runs in the browser)",
+    "link": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "source": "Hacker News",
+    "published": "2026-06-24T21:09:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665671\">Comments</a>"
+  },
+  {
     "title": "Fusion Programming Language",
     "link": "https://fusion-lang.org/",
     "source": "Hacker News",
     "published": "2026-06-24T11:27:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48658148\">Comments</a>"
-  },
-  {
-    "title": "SCC Technical Assistance Program",
-    "link": "https://nerocam.com/scc_tap.asp",
-    "source": "Hacker News",
-    "published": "2026-06-24T08:46:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48656982\">Comments</a>"
   },
   {
     "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
