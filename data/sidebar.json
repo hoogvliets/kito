@@ -1,19 +1,43 @@
 [
   {
+    "title": "Choosing a Public DNS Resolver",
+    "link": "https://evilbit.de/dns-resolver-guide.html",
+    "source": "Hacker News",
+    "published": "2026-06-27T22:11:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+    "link": "https://starglyphs.com",
+    "source": "Hacker News",
+    "published": "2026-06-27T21:50:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702104\">Comments</a>"
+  },
+  {
+    "title": "Michigan spent $1.8B and only created 602 jobs",
+    "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+    "source": "Hacker News",
+    "published": "2026-06-27T21:44:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702060\">Comments</a>"
+  },
+  {
+    "title": "Enhancing X11 Application Security with LXC",
+    "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "source": "Hacker News",
+    "published": "2026-06-27T21:27:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48701936\">Comments</a>"
+  },
+  {
     "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
     "link": "https://github.com/kageroumado/adrafinil",
     "source": "Hacker News",
     "published": "2026-06-27T20:34:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48701512\">Comments</a>"
-  },
-  {
-    "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
-    "link": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
-    "source": "Hacker News",
-    "published": "2026-06-27T20:16:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48701342\">Comments</a>"
   },
   {
     "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
@@ -32,22 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48699928\">Comments</a>"
   },
   {
-    "title": "Supabase (YC S20) Is Hiring for Multigres",
-    "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-    "source": "Hacker News",
-    "published": "2026-06-27T17:00:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48699842\">Comments</a>"
-  },
-  {
-    "title": "Zuckerberg's war on whistleblowers",
-    "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-    "source": "Hacker News",
-    "published": "2026-06-27T14:38:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698684\">Comments</a>"
-  },
-  {
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "link": "https://github.com/bikini/exploitarium",
     "source": "Hacker News",
@@ -64,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698559\">Comments</a>"
   },
   {
-    "title": "Running a software jam in a world of slop",
-    "link": "https://foxmoss.com/blog/radish/",
-    "source": "Hacker News",
-    "published": "2026-06-27T13:36:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698188\">Comments</a>"
-  },
-  {
     "title": "Suspicious Discontinuities (2020)",
     "link": "https://danluu.com/discontinuities/",
     "source": "Hacker News",
     "published": "2026-06-27T13:32:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698151\">Comments</a>"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like models",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "Hacker News",
+    "published": "2026-06-27T13:10:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697958\">Comments</a>"
   },
   {
     "title": "OpenRA",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48696585\">Comments</a>"
   },
   {
-    "title": "One man, two kernels, and a lot of RISC-V",
-    "link": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-    "source": "Hacker News",
-    "published": "2026-06-26T16:20:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48688438\">Comments</a>"
-  },
-  {
     "title": "Reducing tick density along recreational trails in Ottawa, Canada",
     "link": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>"
   },
   {
-    "title": "Underarm bowling incident of 1981",
-    "link": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+    "link": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
     "source": "Hacker News",
-    "published": "2026-06-23T20:21:19+00:00",
+    "published": "2026-06-24T13:31:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48650794\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659517\">Comments</a>"
   }
 ]
