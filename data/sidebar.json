@@ -1,5 +1,61 @@
 [
   {
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "source": "Hacker News",
+    "published": "2026-06-28T03:09:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703968\">Comments</a>"
+  },
+  {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "source": "Hacker News",
+    "published": "2026-06-28T02:23:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>"
+  },
+  {
+    "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+    "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+    "source": "Hacker News",
+    "published": "2026-06-28T01:55:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703613\">Comments</a>"
+  },
+  {
+    "title": "Response to AI slop is from Robin Williams",
+    "link": "https://jayacunzo.com/blog/your-move-chief",
+    "source": "Hacker News",
+    "published": "2026-06-28T01:28:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+    "link": "https://decomp-academy.dev",
+    "source": "Hacker News",
+    "published": "2026-06-28T01:21:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>"
+  },
+  {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "source": "Hacker News",
+    "published": "2026-06-28T00:46:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>"
+  },
+  {
+    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+    "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+    "source": "Hacker News",
+    "published": "2026-06-27T23:32:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702848\">Comments</a>"
+  },
+  {
     "title": "Choosing a Public DNS Resolver",
     "link": "https://evilbit.de/dns-resolver-guide.html",
     "source": "Hacker News",
@@ -8,44 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>"
   },
   {
-    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
-    "link": "https://starglyphs.com",
-    "source": "Hacker News",
-    "published": "2026-06-27T21:50:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702104\">Comments</a>"
-  },
-  {
-    "title": "Michigan spent $1.8B and only created 602 jobs",
-    "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-    "source": "Hacker News",
-    "published": "2026-06-27T21:44:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702060\">Comments</a>"
-  },
-  {
     "title": "Enhancing X11 Application Security with LXC",
     "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
     "source": "Hacker News",
     "published": "2026-06-27T21:27:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48701936\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
-    "link": "https://github.com/kageroumado/adrafinil",
-    "source": "Hacker News",
-    "published": "2026-06-27T20:34:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48701512\">Comments</a>"
-  },
-  {
-    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-    "link": "https://ipcrawl.com/",
-    "source": "Hacker News",
-    "published": "2026-06-27T19:09:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48700834\">Comments</a>"
   },
   {
     "title": "Turn your site into a place people can bump into each other",
@@ -62,14 +86,6 @@
     "published": "2026-06-27T14:31:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>"
-  },
-  {
-    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-    "source": "Hacker News",
-    "published": "2026-06-27T14:23:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698559\">Comments</a>"
   },
   {
     "title": "Suspicious Discontinuities (2020)",
@@ -112,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48696982\">Comments</a>"
   },
   {
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "title": "Space Shuttle Endeavour's 20-story vertical display",
+    "link": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
     "source": "Hacker News",
-    "published": "2026-06-27T09:18:52+00:00",
+    "published": "2026-06-26T12:49:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48696585\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48686032\">Comments</a>"
   },
   {
-    "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+    "title": "Regular expressions that work \"everywhere\"",
+    "link": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
     "source": "Hacker News",
-    "published": "2026-06-24T18:42:12+00:00",
+    "published": "2026-06-25T12:13:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48664063\">Comments</a>"
-  },
-  {
-    "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
-    "link": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
-    "source": "Hacker News",
-    "published": "2026-06-24T15:25:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48661381\">Comments</a>"
-  },
-  {
-    "title": "Paradise Revisited: What Darwin Saw in the Gal\u00e1pagos",
-    "link": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
-    "source": "Hacker News",
-    "published": "2026-06-24T14:24:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48660441\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48672232\">Comments</a>"
   },
   {
     "title": "AI learns the \u201cdark art\u201d of RFIC design",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>"
   },
   {
-    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
-    "link": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+    "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+    "link": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
     "source": "Hacker News",
-    "published": "2026-06-24T13:31:10+00:00",
+    "published": "2026-06-23T17:40:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48659517\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48648493\">Comments</a>"
   }
 ]
