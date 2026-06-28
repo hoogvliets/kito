@@ -1,11 +1,91 @@
 [
   {
-    "title": "More evidence of life on Mars but still no life",
-    "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
     "source": "Hacker News",
-    "published": "2026-06-28T11:55:08+00:00",
+    "published": "2026-06-28T14:46:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706554\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707769\">Comments</a>"
+  },
+  {
+    "title": "5k Restaurant Menus, Years 1880-1920",
+    "link": "https://pudding.cool/2026/06/menu-collection/",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:44:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707763\">Comments</a>"
+  },
+  {
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707719\">Comments</a>"
+  },
+  {
+    "title": "Flock cameras track more than your license plate, and they're spreading fast",
+    "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:35:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707673\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Is there a bad employers (who have a records of not paying) list?",
+    "link": "https://news.ycombinator.com/item?id=48707536",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:21:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707536\">Comments</a>"
+  },
+  {
+    "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+    "link": "https://github.com/open-energy-transition/open-tyndp",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:05:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707361\">Comments</a>"
+  },
+  {
+    "title": "Google limits Meta's use of its Gemini AI models",
+    "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "source": "Hacker News",
+    "published": "2026-06-28T13:30:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707103\">Comments</a>"
+  },
+  {
+    "title": "The origins of the school system aimed to produce independent, critical thinkers",
+    "link": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+    "source": "Hacker News",
+    "published": "2026-06-28T12:55:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706877\">Comments</a>"
+  },
+  {
+    "title": "The curious case of the disappearing Polish S",
+    "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "source": "Hacker News",
+    "published": "2026-06-28T12:44:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706814\">Comments</a>"
+  },
+  {
+    "title": "The MUMPS 76 Primer \u2013 anniversary edition",
+    "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+    "source": "Hacker News",
+    "published": "2026-06-28T12:41:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706796\">Comments</a>"
+  },
+  {
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "link": "https://github.com/openai/codex/issues/2847",
+    "source": "Hacker News",
+    "published": "2026-06-28T12:27:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706714\">Comments</a>"
   },
   {
     "title": "DLL that was not present in memory despite not being formally unloaded",
@@ -40,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>"
   },
   {
-    "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-    "link": "https://decomp-academy.dev",
-    "source": "Hacker News",
-    "published": "2026-06-28T01:21:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>"
-  },
-  {
     "title": "AMD Strix Halo RDMA Cluster Setup Guide",
     "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
     "source": "Hacker News",
     "published": "2026-06-28T00:46:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>"
-  },
-  {
-    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-    "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-    "source": "Hacker News",
-    "published": "2026-06-27T23:32:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702848\">Comments</a>"
   },
   {
     "title": "Choosing a Public DNS Resolver",
@@ -72,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>"
   },
   {
-    "title": "Turn your site into a place people can bump into each other",
-    "link": "https://cauenapier.com/blog/townsquare_release/",
-    "source": "Hacker News",
-    "published": "2026-06-27T17:11:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48699928\">Comments</a>"
-  },
-  {
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "link": "https://github.com/bikini/exploitarium",
     "source": "Hacker News",
@@ -88,75 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>"
   },
   {
-    "title": "OpenRA",
-    "link": "https://www.openra.net/",
+    "title": "Do Babies Dream of Baby Sheep?",
+    "link": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
     "source": "Hacker News",
-    "published": "2026-06-27T12:10:27+00:00",
+    "published": "2026-06-25T14:48:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697560\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48674290\">Comments</a>"
   },
   {
-    "title": "Fintech Engineering Handbook",
-    "link": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Bringing Swift to the Apple ][",
+    "link": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
     "source": "Hacker News",
-    "published": "2026-06-27T10:28:53+00:00",
+    "published": "2026-06-25T08:26:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48696982\">Comments</a>"
-  },
-  {
-    "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-    "link": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-    "source": "Hacker News",
-    "published": "2026-06-26T17:32:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689407\">Comments</a>"
-  },
-  {
-    "title": "Reflecting to optimise",
-    "link": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-    "source": "Hacker News",
-    "published": "2026-06-26T14:07:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48686804\">Comments</a>"
-  },
-  {
-    "title": "Space Shuttle Endeavour's 20-story vertical display",
-    "link": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-    "source": "Hacker News",
-    "published": "2026-06-26T12:49:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48686032\">Comments</a>"
-  },
-  {
-    "title": "Engineering for Bounded Cognition",
-    "link": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-    "source": "Hacker News",
-    "published": "2026-06-26T12:41:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48685967\">Comments</a>"
-  },
-  {
-    "title": "Regular expressions that work \"everywhere\"",
-    "link": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-    "source": "Hacker News",
-    "published": "2026-06-25T12:13:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48672232\">Comments</a>"
-  },
-  {
-    "title": "Instantiating UI Components with Distinguishing Variations [pdf]",
-    "link": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
-    "source": "Hacker News",
-    "published": "2026-06-24T04:33:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48655158\">Comments</a>"
-  },
-  {
-    "title": "A stray \"j\" ruined my evening",
-    "link": "https://napkins.mtmn.name/posts/stray-jay.html",
-    "source": "Hacker News",
-    "published": "2026-06-23T21:56:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48652019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48670579\">Comments</a>"
   }
 ]
