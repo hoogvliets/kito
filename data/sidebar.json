@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bashblog \u2013 a single bash script to create blogs",
+    "link": "https://github.com/cfenollosa/bashblog",
+    "source": "Hacker News",
+    "published": "2026-06-28T04:48:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48704454\">Comments</a>"
+  },
+  {
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "link": "https://github.com/itsthelore/wayfinder-router",
+    "source": "Hacker News",
+    "published": "2026-06-28T04:31:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48704373\">Comments</a>"
+  },
+  {
     "title": "Ford hired AI and sacked humans. It backfired badly",
     "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
     "source": "Hacker News",
@@ -22,14 +38,6 @@
     "published": "2026-06-28T01:55:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48703613\">Comments</a>"
-  },
-  {
-    "title": "Response to AI slop is from Robin Williams",
-    "link": "https://jayacunzo.com/blog/your-move-chief",
-    "source": "Hacker News",
-    "published": "2026-06-28T01:28:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>"
   },
   {
     "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
@@ -64,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>"
   },
   {
-    "title": "Enhancing X11 Application Security with LXC",
-    "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-    "source": "Hacker News",
-    "published": "2026-06-27T21:27:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48701936\">Comments</a>"
-  },
-  {
     "title": "Turn your site into a place people can bump into each other",
     "link": "https://cauenapier.com/blog/townsquare_release/",
     "source": "Hacker News",
@@ -86,14 +86,6 @@
     "published": "2026-06-27T14:31:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>"
-  },
-  {
-    "title": "Suspicious Discontinuities (2020)",
-    "link": "https://danluu.com/discontinuities/",
-    "source": "Hacker News",
-    "published": "2026-06-27T13:32:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698151\">Comments</a>"
   },
   {
     "title": "Asian AI startups launch Mythos-like models",
@@ -134,6 +126,14 @@
     "published": "2026-06-26T12:49:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48686032\">Comments</a>"
+  },
+  {
+    "title": "Engineering for Bounded Cognition",
+    "link": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "source": "Hacker News",
+    "published": "2026-06-26T12:41:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48685967\">Comments</a>"
   },
   {
     "title": "Regular expressions that work \"everywhere\"",
