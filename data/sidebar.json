@@ -1,5 +1,45 @@
 [
   {
+    "title": "Cigarettes",
+    "link": "https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/",
+    "source": "Hacker News",
+    "published": "2026-06-28T23:12:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48712762\">Comments</a>"
+  },
+  {
+    "title": "Knowledge Distillation of Black-Box Large Language Models",
+    "link": "https://arxiv.org/abs/2401.07013",
+    "source": "Hacker News",
+    "published": "2026-06-28T22:32:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48712420\">Comments</a>"
+  },
+  {
+    "title": "A QNX-inspired operating system with selectable kernels",
+    "link": "https://qsoe.net",
+    "source": "Hacker News",
+    "published": "2026-06-28T22:21:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48712338\">Comments</a>"
+  },
+  {
+    "title": "Xonaly \u2013 Canada's Independent Search Engine",
+    "link": "https://xonaly.com/",
+    "source": "Hacker News",
+    "published": "2026-06-28T22:20:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48712324\">Comments</a>"
+  },
+  {
+    "title": "POSIX Is Not a Shell",
+    "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "source": "Hacker News",
+    "published": "2026-06-28T20:39:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48711403\">Comments</a>"
+  },
+  {
     "title": "Show HN: Bash4LLM+ \u2013 A lightweight, dependency-free Bash wrapper for LLM APIs",
     "link": "https://github.com/kamaludu/bash4llm/",
     "source": "Hacker News",
@@ -16,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48710778\">Comments</a>"
   },
   {
-    "title": "TOP500 at ISC'26: We Have a New Number 1 \u2013 By George Cozma",
+    "title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
     "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
     "source": "Hacker News",
     "published": "2026-06-28T19:38:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48710775\">Comments</a>"
-  },
-  {
-    "title": "Ford rehires 'gray beard' engineers after AI falls short",
-    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "source": "Hacker News",
-    "published": "2026-06-28T19:35:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710749\">Comments</a>"
-  },
-  {
-    "title": "The US Used to Demand the Best Tech. Now We Ban It",
-    "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
-    "source": "Hacker News",
-    "published": "2026-06-28T19:07:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710437\">Comments</a>"
-  },
-  {
-    "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-    "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-    "source": "Hacker News",
-    "published": "2026-06-28T18:59:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710350\">Comments</a>"
   },
   {
     "title": "Librepods: AirPods liberated",
@@ -80,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48709187\">Comments</a>"
   },
   {
-    "title": "Show HN: DRM-Free Books",
-    "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
     "source": "Hacker News",
-    "published": "2026-06-28T16:58:56+00:00",
+    "published": "2026-06-28T16:41:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48709186\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48708991\">Comments</a>"
   },
   {
     "title": "I used Claude Code to get a second opinion on my MRI",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48708795\">Comments</a>"
   },
   {
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-    "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "source": "Hacker News",
-    "published": "2026-06-28T16:16:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48708700\">Comments</a>"
-  },
-  {
     "title": "Show HN: Zanagrams",
     "link": "https://zanagrams.com/",
     "source": "Hacker News",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48707763\">Comments</a>"
   },
   {
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "link": "https://github.com/openai/codex/issues/2847",
+    "title": "The food science behind designing an ice cream",
+    "link": "https://altermag.com/articles/designing-a-summer-ice-cream-for-india",
     "source": "Hacker News",
-    "published": "2026-06-28T12:27:33+00:00",
+    "published": "2026-06-26T06:52:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706714\">Comments</a>"
-  },
-  {
-    "title": "Staying Awake (2008)",
-    "link": "https://harpers.org/archive/2008/02/staying-awake/",
-    "source": "Hacker News",
-    "published": "2026-06-25T19:51:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48678377\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683222\">Comments</a>"
   },
   {
     "title": "The Boeing 747 begins its final descent",
