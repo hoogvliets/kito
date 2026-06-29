@@ -1,5 +1,53 @@
 [
   {
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "link": "https://github.com/deepreinforce-ai/Ornith-1",
+    "source": "Hacker News",
+    "published": "2026-06-29T17:16:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48722052\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "source": "Hacker News",
+    "published": "2026-06-29T17:05:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>"
+  },
+  {
+    "title": "The Radiation Exposure Lie",
+    "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "source": "Hacker News",
+    "published": "2026-06-29T16:27:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721308\">Comments</a>"
+  },
+  {
+    "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+    "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+    "source": "Hacker News",
+    "published": "2026-06-29T16:07:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721072\">Comments</a>"
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "source": "Hacker News",
+    "published": "2026-06-29T15:54:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720924\">Comments</a>"
+  },
+  {
+    "title": "A native graphical shell for SSH",
+    "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "source": "Hacker News",
+    "published": "2026-06-29T15:42:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720758\">Comments</a>"
+  },
+  {
     "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
     "link": "https://humphri.es/blog/WATaBoy/",
     "source": "Hacker News",
@@ -14,6 +62,14 @@
     "published": "2026-06-29T14:12:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719532\">Comments</a>"
+  },
+  {
+    "title": "You Don't Know Jack About Formal Verification",
+    "link": "https://queue.acm.org/detail.cfm?id=3819084",
+    "source": "Hacker News",
+    "published": "2026-06-29T14:12:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719521\">Comments</a>"
   },
   {
     "title": "Rocketlab acquires Iridium",
@@ -40,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719027\">Comments</a>"
   },
   {
-    "title": "Building Principia for Windows XP",
-    "link": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:23:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718995\">Comments</a>"
-  },
-  {
-    "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-    "link": "https://www.playstation.com/en-gb/legal/psvideocontent/",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:20:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718967\">Comments</a>"
-  },
-  {
     "title": "What happens when you run a CUDA kernel?",
     "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "source": "Hacker News",
@@ -72,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48718840\">Comments</a>"
   },
   {
-    "title": "NixOS 26.05",
-    "link": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718753\">Comments</a>"
-  },
-  {
-    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
-    "link": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-    "source": "Hacker News",
-    "published": "2026-06-29T11:58:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718102\">Comments</a>"
-  },
-  {
     "title": "Sandia National Labs SA3000 8085 CPU",
     "link": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
     "source": "Hacker News",
     "published": "2026-06-29T10:20:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48717287\">Comments</a>"
-  },
-  {
-    "title": "Pollen tried to remove my article and Google is assisting with it",
-    "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "source": "Hacker News",
-    "published": "2026-06-29T09:28:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48716902\">Comments</a>"
   },
   {
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48713832\">Comments</a>"
   },
   {
-    "title": "Decker Fantasy Camp 2026",
-    "link": "https://itch.io/jam/decker-fantasy-camp-2026",
-    "source": "Hacker News",
-    "published": "2026-06-26T23:18:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693273\">Comments</a>"
-  },
-  {
     "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
     "link": "https://publicdomainreview.org/collection/venice-bridge-fights/",
     "source": "Hacker News",
@@ -128,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48688382\">Comments</a>"
   },
   {
-    "title": "Type-checked non-empty strings",
-    "link": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+    "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
     "source": "Hacker News",
-    "published": "2026-06-26T15:30:02+00:00",
+    "published": "2026-06-26T07:29:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48687843\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683475\">Comments</a>"
   },
   {
-    "title": "How we made WINDOW JOIN parallel and vectorized",
-    "link": "https://questdb.com/blog/window-join-parallel-vectorized/",
+    "title": "The Return of Aspect Oriented Programming",
+    "link": "https://thomaswc.com/blog/the_return_of_aop.html",
     "source": "Hacker News",
-    "published": "2026-06-25T16:55:10+00:00",
+    "published": "2026-06-25T22:12:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48676183\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679904\">Comments</a>"
   },
   {
     "title": "Halvar's Guide to Entrepreneurship",
@@ -150,13 +158,5 @@
     "published": "2026-06-25T15:28:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48674875\">Comments</a>"
-  },
-  {
-    "title": "NUMA: Cores, memory, and the distance between them",
-    "link": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-    "source": "Hacker News",
-    "published": "2026-06-24T16:10:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48662018\">Comments</a>"
   }
 ]
