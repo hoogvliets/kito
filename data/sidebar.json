@@ -1,5 +1,37 @@
 [
   {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "source": "Hacker News",
+    "published": "2026-06-29T19:49:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48724230\">Comments</a>"
+  },
+  {
+    "title": "JumpServer: Open-Source Privileged Access Management",
+    "link": "https://github.com/jumpserver/jumpserver",
+    "source": "Hacker News",
+    "published": "2026-06-29T19:06:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48723677\">Comments</a>"
+  },
+  {
+    "title": ".garden TLD's change to a bad neighborhood",
+    "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
+    "source": "Hacker News",
+    "published": "2026-06-29T18:49:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48723452\">Comments</a>"
+  },
+  {
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "source": "Hacker News",
+    "published": "2026-06-29T18:03:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48722802\">Comments</a>"
+  },
+  {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "link": "https://github.com/deepreinforce-ai/Ornith-1",
     "source": "Hacker News",
@@ -14,14 +46,6 @@
     "published": "2026-06-29T17:05:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>"
-  },
-  {
-    "title": "The Radiation Exposure Lie",
-    "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "source": "Hacker News",
-    "published": "2026-06-29T16:27:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721308\">Comments</a>"
   },
   {
     "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
@@ -56,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48720190\">Comments</a>"
   },
   {
-    "title": "Mag 7 starting to underperform [pdf]",
-    "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+    "title": "Working With AI: A concrete example",
+    "link": "https://htmx.org/essays/working-with-ai/",
     "source": "Hacker News",
-    "published": "2026-06-29T14:12:55+00:00",
+    "published": "2026-06-29T14:53:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719532\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720064\">Comments</a>"
   },
   {
     "title": "You Don't Know Jack About Formal Verification",
@@ -80,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>"
   },
   {
-    "title": "CachyOS June 2026 Release",
-    "link": "https://cachyos.org/blog/2606-june-release/",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:56:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719361\">Comments</a>"
-  },
-  {
-    "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-    "link": "https://twitter.com/i/status/2071277885646868536",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:26:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719027\">Comments</a>"
-  },
-  {
     "title": "What happens when you run a CUDA kernel?",
     "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "source": "Hacker News",
     "published": "2026-06-29T13:11:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48718863\">Comments</a>"
-  },
-  {
-    "title": "Tidal AI Policy",
-    "link": "https://tidal.com/ai-policy",
-    "source": "Hacker News",
-    "published": "2026-06-29T13:09:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718840\">Comments</a>"
   },
   {
     "title": "Sandia National Labs SA3000 8085 CPU",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48717287\">Comments</a>"
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "link": "https://arxiv.org/abs/2606.22283",
     "source": "Hacker News",
-    "published": "2026-06-29T01:44:40+00:00",
+    "published": "2026-06-27T23:30:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48713832\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702825\">Comments</a>"
   },
   {
-    "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
-    "link": "https://publicdomainreview.org/collection/venice-bridge-fights/",
+    "title": "The Permission Slip",
+    "link": "https://www.cringely.com/2026/05/28/the-permission-slip/",
     "source": "Hacker News",
-    "published": "2026-06-26T16:16:16+00:00",
+    "published": "2026-06-27T01:29:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48688382\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48694267\">Comments</a>"
+  },
+  {
+    "title": "Font-Family Recommendations",
+    "link": "https://chrismorgan.info/font-family",
+    "source": "Hacker News",
+    "published": "2026-06-26T21:37:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692310\">Comments</a>"
   },
   {
     "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48683475\">Comments</a>"
   },
   {
-    "title": "The Return of Aspect Oriented Programming",
-    "link": "https://thomaswc.com/blog/the_return_of_aop.html",
+    "title": "Dark Sky Lighting",
+    "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "source": "Hacker News",
-    "published": "2026-06-25T22:12:33+00:00",
+    "published": "2026-06-25T16:19:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679904\">Comments</a>"
-  },
-  {
-    "title": "Halvar's Guide to Entrepreneurship",
-    "link": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "source": "Hacker News",
-    "published": "2026-06-25T15:28:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48674875\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675653\">Comments</a>"
   }
 ]
