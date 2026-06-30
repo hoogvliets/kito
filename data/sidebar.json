@@ -1,27 +1,11 @@
 [
   {
-    "title": "Popping the GPU Bubble",
-    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "source": "Hacker News",
-    "published": "2026-06-30T05:14:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728729\">Comments</a>"
-  },
-  {
     "title": "The end of the AArch64 desktop experiment",
     "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
     "source": "Hacker News",
     "published": "2026-06-30T04:51:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48728599\">Comments</a>"
-  },
-  {
-    "title": "Study suggests most Americans would be healthier without daylight saving time",
-    "link": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
-    "source": "Hacker News",
-    "published": "2026-06-30T03:47:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728294\">Comments</a>"
   },
   {
     "title": "Exploring PDP-1 Lisp (1960)",
@@ -96,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>"
   },
   {
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "source": "Hacker News",
-    "published": "2026-06-28T18:56:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710325\">Comments</a>"
-  },
-  {
     "title": "One million passports leaked online",
     "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
     "source": "Hacker News",
@@ -112,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48706389\">Comments</a>"
   },
   {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "link": "https://arxiv.org/abs/2606.22283",
+    "title": "Building a custom octocopter from scratch with no prior hardware experience",
+    "link": "https://karolina.mgdubiel.com/drone/",
     "source": "Hacker News",
-    "published": "2026-06-27T23:30:14+00:00",
+    "published": "2026-06-28T04:17:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702825\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>"
   },
   {
     "title": "Old Computer Challenge",
@@ -134,6 +110,22 @@
     "published": "2026-06-27T15:05:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698908\">Comments</a>"
+  },
+  {
+    "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+    "link": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+    "source": "Hacker News",
+    "published": "2026-06-27T14:49:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698781\">Comments</a>"
+  },
+  {
+    "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+    "link": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+    "source": "Hacker News",
+    "published": "2026-06-27T14:34:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698648\">Comments</a>"
   },
   {
     "title": "How to corrupt an SQLite database file",
@@ -158,5 +150,13 @@
     "published": "2026-06-25T22:03:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48679809\">Comments</a>"
+  },
+  {
+    "title": "The operating cost starts after the demo",
+    "link": "https://twoheads.net/the-promise-is-unattended-work/",
+    "source": "Hacker News",
+    "published": "2026-06-25T21:58:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679762\">Comments</a>"
   }
 ]
