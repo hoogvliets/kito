@@ -1,11 +1,75 @@
 [
   {
-    "title": "The labor share of income in the US is at its lowest post-war level",
-    "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+    "title": "Claude Sonnet 5",
+    "link": "https://www.anthropic.com/news/claude-sonnet-5",
     "source": "Hacker News",
-    "published": "2026-06-30T15:35:04+00:00",
+    "published": "2026-06-30T17:59:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734234\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48736605\">Comments</a>"
+  },
+  {
+    "title": "I built a mmWave material classification radar",
+    "link": "https://gauthier-lechevalier.com/radar",
+    "source": "Hacker News",
+    "published": "2026-06-30T17:29:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48736137\">Comments</a>"
+  },
+  {
+    "title": "Claude Science",
+    "link": "https://claude.com/product/claude-science",
+    "source": "Hacker News",
+    "published": "2026-06-30T17:07:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735770\">Comments</a>"
+  },
+  {
+    "title": "We Are the Last People Who Know How It Works",
+    "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "source": "Hacker News",
+    "published": "2026-06-30T16:59:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735633\">Comments</a>"
+  },
+  {
+    "title": "Xsnow \"protestware\" in Debian",
+    "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+    "source": "Hacker News",
+    "published": "2026-06-30T16:54:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735554\">Comments</a>"
+  },
+  {
+    "title": "Nano Banana 2 Lite",
+    "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "source": "Hacker News",
+    "published": "2026-06-30T16:48:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735444\">Comments</a>"
+  },
+  {
+    "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+    "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+    "source": "Hacker News",
+    "published": "2026-06-30T16:44:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735376\">Comments</a>"
+  },
+  {
+    "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+    "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+    "source": "Hacker News",
+    "published": "2026-06-30T16:05:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734699\">Comments</a>"
+  },
+  {
+    "title": "Claude Code is steganographically marking requests",
+    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "source": "Hacker News",
+    "published": "2026-06-30T15:44:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734373\">Comments</a>"
   },
   {
     "title": "We moved our Bluesky data to Eurosky",
@@ -40,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>"
   },
   {
-    "title": "Parse, Don't Validate \u2013 In a Language That Doesn't Want You To",
-    "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "source": "Hacker News",
-    "published": "2026-06-30T10:48:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730818\">Comments</a>"
-  },
-  {
     "title": "European digital ID wallets rely on safety services of Google and Apple",
     "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
     "source": "Hacker News",
@@ -64,60 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48730713\">Comments</a>"
   },
   {
-    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-    "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-    "source": "Hacker News",
-    "published": "2026-06-30T10:31:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730694\">Comments</a>"
-  },
-  {
-    "title": "Memory Safe Context Switching",
-    "link": "https://fil-c.org/context_switches",
-    "source": "Hacker News",
-    "published": "2026-06-30T00:38:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727177\">Comments</a>"
-  },
-  {
-    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "link": "https://longcat.chat/blog/longcat-2.0/",
-    "source": "Hacker News",
-    "published": "2026-06-30T00:30:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>"
-  },
-  {
-    "title": ".self: A new top-level domain designed to support self-hosting",
-    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "source": "Hacker News",
-    "published": "2026-06-29T19:49:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48724230\">Comments</a>"
-  },
-  {
     "title": "Qwen 3.6 27B is the sweet spot for local development",
     "link": "https://quesma.com/blog/qwen-36-is-awesome/",
     "source": "Hacker News",
     "published": "2026-06-29T17:05:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>"
-  },
-  {
-    "title": "Rocketlab acquires Iridium",
-    "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "source": "Hacker News",
-    "published": "2026-06-29T14:09:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>"
-  },
-  {
-    "title": "Who are the fire-tamers?",
-    "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-    "source": "Hacker News",
-    "published": "2026-06-28T17:49:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48709662\">Comments</a>"
   },
   {
     "title": "Building a custom octocopter from scratch with no prior hardware experience",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>"
   },
   {
-    "title": "Free the Icons",
-    "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "title": "Factorio 2.1 Experimental Release",
+    "link": "https://factorio.com/blog/post/fff-444",
     "source": "Hacker News",
-    "published": "2026-06-27T15:05:17+00:00",
+    "published": "2026-06-27T10:52:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698908\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697107\">Comments</a>"
   },
   {
-    "title": "All Logic, No Bite",
-    "link": "https://lcamtuf.substack.com/p/all-logic-no-bite",
+    "title": "Don't Make Gates Optional, Make Them Flexible",
+    "link": "https://wakamoleguy.com/p/flexible-gates",
     "source": "Hacker News",
-    "published": "2026-06-27T06:00:38+00:00",
+    "published": "2026-06-26T21:40:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695585\">Comments</a>"
-  },
-  {
-    "title": "I'm building a Space Cadet Pinball Machine! [video]",
-    "link": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
-    "source": "Hacker News",
-    "published": "2026-06-26T18:00:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689820\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692330\">Comments</a>"
   },
   {
     "title": "Open Source Low Tech",
