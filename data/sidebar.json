@@ -1,5 +1,29 @@
 [
   {
+    "title": "Popping the GPU Bubble",
+    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "source": "Hacker News",
+    "published": "2026-06-30T05:14:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728729\">Comments</a>"
+  },
+  {
+    "title": "The end of the AArch64 desktop experiment",
+    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "source": "Hacker News",
+    "published": "2026-06-30T04:51:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728599\">Comments</a>"
+  },
+  {
+    "title": "Study suggests most Americans would be healthier without daylight saving time",
+    "link": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+    "source": "Hacker News",
+    "published": "2026-06-30T03:47:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728294\">Comments</a>"
+  },
+  {
     "title": "Exploring PDP-1 Lisp (1960)",
     "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
     "source": "Hacker News",
@@ -8,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48727323\">Comments</a>"
   },
   {
-    "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+    "title": "Memory Safe Context Switching",
     "link": "https://fil-c.org/context_switches",
     "source": "Hacker News",
     "published": "2026-06-30T00:38:19+00:00",
@@ -22,22 +46,6 @@
     "published": "2026-06-30T00:30:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>"
-  },
-  {
-    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "source": "Hacker News",
-    "published": "2026-06-29T22:21:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48726102\">Comments</a>"
-  },
-  {
-    "title": "Scientists find molecular-level evidence for two structures in liquid water",
-    "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-    "source": "Hacker News",
-    "published": "2026-06-29T22:18:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48726073\">Comments</a>"
   },
   {
     "title": ".self: A new top-level domain designed to support self-hosting",
@@ -72,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48720924\">Comments</a>"
   },
   {
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-    "link": "https://humphri.es/blog/WATaBoy/",
-    "source": "Hacker News",
-    "published": "2026-06-29T15:02:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720190\">Comments</a>"
-  },
-  {
     "title": "Linux for the Sega MegaDrive",
     "link": "https://github.com/LinuxMD/linuxmd",
     "source": "Hacker News",
@@ -96,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>"
   },
   {
-    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
     "source": "Hacker News",
-    "published": "2026-06-28T21:42:39+00:00",
+    "published": "2026-06-28T18:56:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48711981\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710325\">Comments</a>"
   },
   {
     "title": "One million passports leaked online",
@@ -136,27 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698908\">Comments</a>"
   },
   {
-    "title": "Netflix Simplified Batch Compute with Kueue",
-    "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
+    "title": "How to corrupt an SQLite database file",
+    "link": "https://www.sqlite.org/howtocorrupt.html",
     "source": "Hacker News",
-    "published": "2026-06-27T14:20:16+00:00",
+    "published": "2026-06-26T18:05:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48698542\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689885\">Comments</a>"
   },
   {
-    "title": "Kb \u2013 Prolog Knowledge Base",
-    "link": "https://github.com/mat-mgm/kb-prolog",
+    "title": "Open Source Low Tech",
+    "link": "https://opensourcelowtech.org/",
     "source": "Hacker News",
-    "published": "2026-06-27T12:16:27+00:00",
+    "published": "2026-06-26T06:35:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697599\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683098\">Comments</a>"
   },
   {
-    "title": "Philae's extraordinary comet landing relived (2024)",
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+    "title": "Zig \u2013 SPIR-V Backend Progress",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-26",
     "source": "Hacker News",
-    "published": "2026-06-24T12:53:01+00:00",
+    "published": "2026-06-25T22:03:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48658991\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679809\">Comments</a>"
   }
 ]
