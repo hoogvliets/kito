@@ -1,11 +1,43 @@
 [
   {
-    "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
-    "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+    "title": "The labor share of income in the US is at its lowest post-war level",
+    "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
     "source": "Hacker News",
-    "published": "2026-06-30T11:02:10+00:00",
+    "published": "2026-06-30T15:35:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730904\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734234\">Comments</a>"
+  },
+  {
+    "title": "We moved our Bluesky data to Eurosky",
+    "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+    "source": "Hacker News",
+    "published": "2026-06-30T15:17:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733937\">Comments</a>"
+  },
+  {
+    "title": "Looking Ahead to Postgres 19",
+    "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+    "source": "Hacker News",
+    "published": "2026-06-30T14:14:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733031\">Comments</a>"
+  },
+  {
+    "title": "Knoppix",
+    "link": "https://www.knopper.net/knoppix/index-en.html",
+    "source": "Hacker News",
+    "published": "2026-06-30T12:54:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732056\">Comments</a>"
+  },
+  {
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+    "link": "https://www.gutenberg.org/ebooks/24518",
+    "source": "Hacker News",
+    "published": "2026-06-30T12:47:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>"
   },
   {
     "title": "Parse, Don't Validate \u2013 In a Language That Doesn't Want You To",
@@ -16,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48730818\">Comments</a>"
   },
   {
-    "title": "European digital ID wallets are a gift to Google and Apple",
+    "title": "European digital ID wallets rely on safety services of Google and Apple",
     "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
     "source": "Hacker News",
     "published": "2026-06-30T10:36:23+00:00",
@@ -24,36 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48730729\">Comments</a>"
   },
   {
-    "title": "Exercise intensity influences body composition in healthy older adults",
+    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+    "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "source": "Hacker News",
+    "published": "2026-06-30T10:34:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730713\">Comments</a>"
+  },
+  {
+    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
     "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
     "source": "Hacker News",
     "published": "2026-06-30T10:31:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48730694\">Comments</a>"
-  },
-  {
-    "title": "The US ambassador had Belgian police stop our reporting",
-    "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-    "source": "Hacker News",
-    "published": "2026-06-30T10:15:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730608\">Comments</a>"
-  },
-  {
-    "title": "Antares Achieves Criticality of Mark-0 Reactor",
-    "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
-    "source": "Hacker News",
-    "published": "2026-06-30T09:15:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730246\">Comments</a>"
-  },
-  {
-    "title": "Exploring PDP-1 Lisp (1960)",
-    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "source": "Hacker News",
-    "published": "2026-06-30T00:56:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727323\">Comments</a>"
   },
   {
     "title": "Memory Safe Context Switching",
@@ -80,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48724230\">Comments</a>"
   },
   {
-    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "link": "https://github.com/deepreinforce-ai/Ornith-1",
-    "source": "Hacker News",
-    "published": "2026-06-29T17:16:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48722052\">Comments</a>"
-  },
-  {
     "title": "Qwen 3.6 27B is the sweet spot for local development",
     "link": "https://quesma.com/blog/qwen-36-is-awesome/",
     "source": "Hacker News",
     "published": "2026-06-29T17:05:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>"
-  },
-  {
-    "title": "Linux for the Sega MegaDrive",
-    "link": "https://github.com/LinuxMD/linuxmd",
-    "source": "Hacker News",
-    "published": "2026-06-29T15:01:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720186\">Comments</a>"
   },
   {
     "title": "Rocketlab acquires Iridium",
@@ -112,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>"
   },
   {
+    "title": "Who are the fire-tamers?",
+    "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+    "source": "Hacker News",
+    "published": "2026-06-28T17:49:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48709662\">Comments</a>"
+  },
+  {
     "title": "Building a custom octocopter from scratch with no prior hardware experience",
     "link": "https://karolina.mgdubiel.com/drone/",
     "source": "Hacker News",
     "published": "2026-06-28T04:17:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>"
-  },
-  {
-    "title": "Old Computer Challenge",
-    "link": "http://occ.sdf.org/",
-    "source": "Hacker News",
-    "published": "2026-06-27T22:18:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702320\">Comments</a>"
   },
   {
     "title": "Free the Icons",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48695585\">Comments</a>"
   },
   {
+    "title": "I'm building a Space Cadet Pinball Machine! [video]",
+    "link": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
+    "source": "Hacker News",
+    "published": "2026-06-26T18:00:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689820\">Comments</a>"
+  },
+  {
     "title": "Open Source Low Tech",
     "link": "https://opensourcelowtech.org/",
     "source": "Hacker News",
     "published": "2026-06-26T06:35:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48683098\">Comments</a>"
-  },
-  {
-    "title": "The operating cost starts after the demo",
-    "link": "https://twoheads.net/the-promise-is-unattended-work/",
-    "source": "Hacker News",
-    "published": "2026-06-25T21:58:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679762\">Comments</a>"
   }
 ]
