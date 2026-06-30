@@ -1,5 +1,37 @@
 [
   {
+    "title": "I ported Kubernetes to the browser",
+    "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+    "source": "Hacker News",
+    "published": "2026-06-30T20:48:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738985\">Comments</a>"
+  },
+  {
+    "title": "Morbid: Debunking Modern Longevity Science",
+    "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+    "source": "Hacker News",
+    "published": "2026-06-30T20:17:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738606\">Comments</a>"
+  },
+  {
+    "title": "The best thing that's ever happened for multiplayer games?",
+    "link": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/",
+    "source": "Hacker News",
+    "published": "2026-06-30T19:59:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738413\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+    "link": "https://news.ycombinator.com/item?id=48737226",
+    "source": "Hacker News",
+    "published": "2026-06-30T18:33:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48737226\">Comments</a>"
+  },
+  {
     "title": "Claude Sonnet 5",
     "link": "https://www.anthropic.com/news/claude-sonnet-5",
     "source": "Hacker News",
@@ -8,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48736605\">Comments</a>"
   },
   {
-    "title": "I built a mmWave material classification radar",
+    "title": "I built a mmWave material classification radar (2025)",
     "link": "https://gauthier-lechevalier.com/radar",
     "source": "Hacker News",
     "published": "2026-06-30T17:29:36+00:00",
@@ -24,22 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48735770\">Comments</a>"
   },
   {
-    "title": "We Are the Last People Who Know How It Works",
-    "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "source": "Hacker News",
-    "published": "2026-06-30T16:59:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735633\">Comments</a>"
-  },
-  {
-    "title": "Xsnow \"protestware\" in Debian",
-    "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-    "source": "Hacker News",
-    "published": "2026-06-30T16:54:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735554\">Comments</a>"
-  },
-  {
     "title": "Nano Banana 2 Lite",
     "link": "https://deepmind.google/models/gemini-image/flash-lite/",
     "source": "Hacker News",
@@ -48,44 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48735444\">Comments</a>"
   },
   {
-    "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
-    "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-    "source": "Hacker News",
-    "published": "2026-06-30T16:44:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735376\">Comments</a>"
-  },
-  {
-    "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-    "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-    "source": "Hacker News",
-    "published": "2026-06-30T16:05:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734699\">Comments</a>"
-  },
-  {
     "title": "Claude Code is steganographically marking requests",
     "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
     "source": "Hacker News",
     "published": "2026-06-30T15:44:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48734373\">Comments</a>"
-  },
-  {
-    "title": "We moved our Bluesky data to Eurosky",
-    "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
-    "source": "Hacker News",
-    "published": "2026-06-30T15:17:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733937\">Comments</a>"
-  },
-  {
-    "title": "Looking Ahead to Postgres 19",
-    "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-    "source": "Hacker News",
-    "published": "2026-06-30T14:14:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733031\">Comments</a>"
   },
   {
     "title": "Knoppix",
@@ -104,28 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>"
   },
   {
-    "title": "European digital ID wallets rely on safety services of Google and Apple",
-    "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+    "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+    "link": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
     "source": "Hacker News",
-    "published": "2026-06-30T10:36:23+00:00",
+    "published": "2026-06-29T18:52:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730729\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48723484\">Comments</a>"
   },
   {
-    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-    "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
+    "link": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
     "source": "Hacker News",
-    "published": "2026-06-30T10:34:25+00:00",
+    "published": "2026-06-29T12:59:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730713\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718716\">Comments</a>"
   },
   {
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "How does a pull-back car work? Illustrated teardown",
+    "link": "https://mechanical-pencil.com/products/car",
     "source": "Hacker News",
-    "published": "2026-06-29T17:05:16+00:00",
+    "published": "2026-06-28T22:16:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48712289\">Comments</a>"
   },
   {
     "title": "Building a custom octocopter from scratch with no prior hardware experience",
@@ -136,20 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>"
   },
   {
-    "title": "Factorio 2.1 Experimental Release",
-    "link": "https://factorio.com/blog/post/fff-444",
+    "title": "I built a 10 inch mini rack from aluminium extrusions",
+    "link": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
     "source": "Hacker News",
-    "published": "2026-06-27T10:52:44+00:00",
+    "published": "2026-06-27T23:45:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697107\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702917\">Comments</a>"
   },
   {
-    "title": "Don't Make Gates Optional, Make Them Flexible",
-    "link": "https://wakamoleguy.com/p/flexible-gates",
+    "title": "Set up your own DoH (DNS over HTTPS) service",
+    "link": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
     "source": "Hacker News",
-    "published": "2026-06-26T21:40:05+00:00",
+    "published": "2026-06-27T22:24:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48692330\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702361\">Comments</a>"
+  },
+  {
+    "title": "Waveloop: What Fable left me",
+    "link": "https://neynt.ca/writing/waveloop/",
+    "source": "Hacker News",
+    "published": "2026-06-26T23:29:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693369\">Comments</a>"
+  },
+  {
+    "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+    "link": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+    "source": "Hacker News",
+    "published": "2026-06-26T15:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48687640\">Comments</a>"
   },
   {
     "title": "Open Source Low Tech",
