@@ -1,5 +1,37 @@
 [
   {
+    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+    "source": "Hacker News",
+    "published": "2026-07-01T09:57:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48744446\">Comments</a>"
+  },
+  {
+    "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+    "link": "https://news.ycombinator.com/item?id=48744213",
+    "source": "Hacker News",
+    "published": "2026-07-01T09:18:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48744213\">Comments</a>"
+  },
+  {
+    "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+    "link": "https://www.dongascience.com/en/news/30374",
+    "source": "Hacker News",
+    "published": "2026-07-01T08:12:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48743655\">Comments</a>"
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "source": "Hacker News",
+    "published": "2026-07-01T07:43:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48743472\">Comments</a>"
+  },
+  {
     "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
     "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
     "source": "Hacker News",
@@ -56,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48739466\">Comments</a>"
   },
   {
-    "title": "I ported Kubernetes to the browser",
-    "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-    "source": "Hacker News",
-    "published": "2026-06-30T20:48:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738985\">Comments</a>"
-  },
-  {
     "title": "Leanstral 1.5",
     "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
     "source": "Hacker News",
@@ -72,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48738938\">Comments</a>"
   },
   {
-    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-    "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-    "source": "Hacker News",
-    "published": "2026-06-30T19:47:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738262\">Comments</a>"
-  },
-  {
     "title": "Claude Sonnet 5",
     "link": "https://www.anthropic.com/news/claude-sonnet-5",
     "source": "Hacker News",
     "published": "2026-06-30T17:59:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48736605\">Comments</a>"
-  },
-  {
-    "title": "I built a mmWave material classification radar (2025)",
-    "link": "https://gauthier-lechevalier.com/radar",
-    "source": "Hacker News",
-    "published": "2026-06-30T17:29:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48736137\">Comments</a>"
   },
   {
     "title": "Claude Science",
@@ -136,20 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48712289\">Comments</a>"
   },
   {
-    "title": "How information theory saved my word game",
-    "link": "https://motplot.app/helloworld",
+    "title": "Newly discovered spider builds spring loaded snare to catch ants",
+    "link": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
     "source": "Hacker News",
-    "published": "2026-06-28T21:22:49+00:00",
+    "published": "2026-06-28T20:05:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48711788\">Comments</a>"
-  },
-  {
-    "title": "Ante: A new way to blend borrow checking and reference counting",
-    "link": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "source": "Hacker News",
-    "published": "2026-06-28T19:37:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710770\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48711052\">Comments</a>"
   },
   {
     "title": "Pystd, similar-ish functionality with a fraction of the compile time",
