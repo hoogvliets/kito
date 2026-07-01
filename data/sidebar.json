@@ -1,5 +1,37 @@
 [
   {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "source": "Hacker News",
+    "published": "2026-06-30T23:55:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>"
+  },
+  {
+    "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
+    "link": "https://hatari.frama.io/hatari/online/hatari.html",
+    "source": "Hacker News",
+    "published": "2026-06-30T22:34:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48740135\">Comments</a>"
+  },
+  {
+    "title": "TabFM: A zero-shot foundation model for tabular data",
+    "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "source": "Hacker News",
+    "published": "2026-06-30T22:08:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739919\">Comments</a>"
+  },
+  {
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "source": "Hacker News",
+    "published": "2026-06-30T21:29:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739466\">Comments</a>"
+  },
+  {
     "title": "I ported Kubernetes to the browser",
     "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
     "source": "Hacker News",
@@ -8,28 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48738985\">Comments</a>"
   },
   {
-    "title": "Morbid: Debunking Modern Longevity Science",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+    "title": "Leanstral 1.5",
+    "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
     "source": "Hacker News",
-    "published": "2026-06-30T20:17:21+00:00",
+    "published": "2026-06-30T20:44:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738938\">Comments</a>"
   },
   {
-    "title": "The best thing that's ever happened for multiplayer games?",
-    "link": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/",
+    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
     "source": "Hacker News",
-    "published": "2026-06-30T19:59:09+00:00",
+    "published": "2026-06-30T19:47:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738413\">Comments</a>"
-  },
-  {
-    "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
-    "link": "https://news.ycombinator.com/item?id=48737226",
-    "source": "Hacker News",
-    "published": "2026-06-30T18:33:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48737226\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738262\">Comments</a>"
   },
   {
     "title": "Claude Sonnet 5",
@@ -72,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48734373\">Comments</a>"
   },
   {
-    "title": "Knoppix",
-    "link": "https://www.knopper.net/knoppix/index-en.html",
+    "title": "Loko Scheme 0.13.0",
+    "link": "https://weinholt.se/articles/loko-scheme-0-13-0/",
     "source": "Hacker News",
-    "published": "2026-06-30T12:54:01+00:00",
+    "published": "2026-06-30T02:39:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732056\">Comments</a>"
-  },
-  {
-    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-    "link": "https://www.gutenberg.org/ebooks/24518",
-    "source": "Hacker News",
-    "published": "2026-06-30T12:47:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727953\">Comments</a>"
   },
   {
     "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
@@ -96,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48723484\">Comments</a>"
   },
   {
-    "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
-    "link": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
-    "source": "Hacker News",
-    "published": "2026-06-29T12:59:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718716\">Comments</a>"
-  },
-  {
     "title": "How does a pull-back car work? Illustrated teardown",
     "link": "https://mechanical-pencil.com/products/car",
     "source": "Hacker News",
     "published": "2026-06-28T22:16:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48712289\">Comments</a>"
+  },
+  {
+    "title": "Ante: A new way to blend borrow checking and reference counting",
+    "link": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "source": "Hacker News",
+    "published": "2026-06-28T19:37:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710770\">Comments</a>"
+  },
+  {
+    "title": "Hengefinder",
+    "link": "https://hengefinder.com/",
+    "source": "Hacker News",
+    "published": "2026-06-28T14:24:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707558\">Comments</a>"
   },
   {
     "title": "Building a custom octocopter from scratch with no prior hardware experience",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>"
   },
   {
-    "title": "I built a 10 inch mini rack from aluminium extrusions",
-    "link": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+    "title": "Stroustrup's Rule (2024)",
+    "link": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
     "source": "Hacker News",
-    "published": "2026-06-27T23:45:45+00:00",
+    "published": "2026-06-27T21:01:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702917\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48701721\">Comments</a>"
   },
   {
-    "title": "Set up your own DoH (DNS over HTTPS) service",
-    "link": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
+    "title": "Long Island's decommissioned nuclear power plant",
+    "link": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
     "source": "Hacker News",
-    "published": "2026-06-27T22:24:35+00:00",
+    "published": "2026-06-24T21:41:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702361\">Comments</a>"
-  },
-  {
-    "title": "Waveloop: What Fable left me",
-    "link": "https://neynt.ca/writing/waveloop/",
-    "source": "Hacker News",
-    "published": "2026-06-26T23:29:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693369\">Comments</a>"
-  },
-  {
-    "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
-    "link": "https://www.w3.org/DesignIssues/MatrixURIs.html",
-    "source": "Hacker News",
-    "published": "2026-06-26T15:15:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48687640\">Comments</a>"
-  },
-  {
-    "title": "Open Source Low Tech",
-    "link": "https://opensourcelowtech.org/",
-    "source": "Hacker News",
-    "published": "2026-06-26T06:35:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683098\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48665958\">Comments</a>"
   }
 ]
