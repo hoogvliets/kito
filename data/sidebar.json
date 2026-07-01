@@ -1,19 +1,75 @@
 [
   {
-    "title": "SpudCell: The first synthetic cell with a complete cell cycle",
-    "link": "https://biotic.org/research/spudcell/",
+    "title": "What to Learn to Be a Graphics Programmer",
+    "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
     "source": "Hacker News",
-    "published": "2026-07-01T14:57:38+00:00",
+    "published": "2026-07-01T17:53:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747916\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750710\">Comments</a>"
   },
   {
-    "title": "The Anti-Palantir Manifesto",
-    "link": "https://nym.com/blog/anti-palantir-manifesto",
+    "title": "My OSCP Pentesting Cheatsheet",
+    "link": "https://hackerask.com/posts/pentesting-cheatsheet/",
     "source": "Hacker News",
-    "published": "2026-07-01T14:48:59+00:00",
+    "published": "2026-07-01T17:50:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747772\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750661\">Comments</a>"
+  },
+  {
+    "title": "Building Gin: Simple over Easy",
+    "link": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+    "source": "Hacker News",
+    "published": "2026-07-01T17:45:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750593\">Comments</a>"
+  },
+  {
+    "title": "Hanami 3.0: In Full Bloom",
+    "link": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+    "source": "Hacker News",
+    "published": "2026-07-01T17:41:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750527\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Pglayers \u2013 PostgreSQL extensions as stackable Docker layers",
+    "link": "https://github.com/pglayers/pglayers",
+    "source": "Hacker News",
+    "published": "2026-07-01T16:50:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48749752\">Comments</a>"
+  },
+  {
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+    "link": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "source": "Hacker News",
+    "published": "2026-07-01T16:19:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48749313\">Comments</a>"
+  },
+  {
+    "title": "How We Made IPFS Content Publishing 10x Faster",
+    "link": "https://probelab.io/blog/optimistic-provide/",
+    "source": "Hacker News",
+    "published": "2026-07-01T15:30:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48748518\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (July 2026)",
+    "link": "https://news.ycombinator.com/item?id=48747976",
+    "source": "Hacker News",
+    "published": "2026-07-01T15:01:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747976\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (July 2026)",
+    "link": "https://news.ycombinator.com/item?id=48747975",
+    "source": "Hacker News",
+    "published": "2026-07-01T15:01:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747975\">Comments</a>"
   },
   {
     "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
@@ -24,12 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48747389\">Comments</a>"
   },
   {
-    "title": "For First Time, a Cell Built from Scratch Grows and Divides",
+    "title": "For first time, a cell built from scratch grows and divides",
     "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
     "source": "Hacker News",
     "published": "2026-07-01T14:20:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48747304\">Comments</a>"
+  },
+  {
+    "title": "FFmpeg 9.1's new AAC encoder",
+    "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+    "source": "Hacker News",
+    "published": "2026-07-01T14:10:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747116\">Comments</a>"
   },
   {
     "title": "Monetization Gateway",
@@ -48,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48746752\">Comments</a>"
   },
   {
-    "title": "Why I Stopped Arguing with People",
-    "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "source": "Hacker News",
-    "published": "2026-07-01T13:29:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746445\">Comments</a>"
-  },
-  {
     "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
     "link": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
     "source": "Hacker News",
@@ -72,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48746076\">Comments</a>"
   },
   {
-    "title": "Announcing Box3D :: Box2D",
+    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+    "source": "Hacker News",
+    "published": "2026-07-01T12:13:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745456\">Comments</a>"
+  },
+  {
+    "title": "Box3D, an open source 3D physics engine",
     "link": "https://box2d.org/posts/2026/06/announcing-box3d/",
     "source": "Hacker News",
     "published": "2026-07-01T12:12:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48745445\">Comments</a>"
-  },
-  {
-    "title": "Nintendo has raised its employees base salary by 10%",
-    "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "source": "Hacker News",
-    "published": "2026-07-01T11:35:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745113\">Comments</a>"
   },
   {
     "title": "Asahi Linux 7.1 Progress Report",
@@ -96,67 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48744518\">Comments</a>"
   },
   {
-    "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-    "link": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+    "title": "Fixing a kubelet memory leak in Kubernetes 1.36",
+    "link": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
     "source": "Hacker News",
-    "published": "2026-07-01T09:21:44+00:00",
+    "published": "2026-07-01T02:14:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48744232\">Comments</a>"
-  },
-  {
-    "title": "Godot will no longer accept AI-authored code contributions",
-    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "source": "Hacker News",
-    "published": "2026-07-01T07:43:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48743472\">Comments</a>"
-  },
-  {
-    "title": "ArXiv's Next Chapter",
-    "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-    "source": "Hacker News",
-    "published": "2026-07-01T02:51:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48741748\">Comments</a>"
-  },
-  {
-    "title": "Claude Sonnet 5",
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "source": "Hacker News",
-    "published": "2026-06-30T17:59:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48736605\">Comments</a>"
-  },
-  {
-    "title": "Red Programming Language: Static linking support",
-    "link": "https://www.red-lang.org/2026/06/static-linking-support.html",
-    "source": "Hacker News",
-    "published": "2026-06-30T13:36:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732582\">Comments</a>"
-  },
-  {
-    "title": "Obfuscation: Building the final boss of cryptography (Part I)",
-    "link": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-    "source": "Hacker News",
-    "published": "2026-06-29T16:35:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721434\">Comments</a>"
-  },
-  {
-    "title": "Newly discovered spider builds spring loaded snare to catch ants",
-    "link": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-    "source": "Hacker News",
-    "published": "2026-06-28T20:05:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48711052\">Comments</a>"
-  },
-  {
-    "title": "1-Bit Pixel Art Emojis",
-    "link": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
-    "source": "Hacker News",
-    "published": "2026-06-25T13:15:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48672848\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48741609\">Comments</a>"
   }
 ]
