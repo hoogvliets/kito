@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta building cloud business to sell excess AI capacity",
+    "link": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+    "source": "Hacker News",
+    "published": "2026-07-02T10:43:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48759329\">Comments</a>"
+  },
+  {
+    "title": "Google loses fight over record $4.7B EU antitrust fine",
+    "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+    "source": "Hacker News",
+    "published": "2026-07-02T08:34:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48758309\">Comments</a>"
+  },
+  {
+    "title": "The Fall of the Theorem Economy",
+    "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": "Hacker News",
+    "published": "2026-07-02T08:01:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48758048\">Comments</a>"
+  },
+  {
     "title": "CursorBench 3.1",
     "link": "https://cursor.com/evals",
     "source": "Hacker News",
@@ -24,6 +48,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48755965\">Comments</a>"
   },
   {
+    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "link": "https://senior-swe-bench.snorkel.ai/",
+    "source": "Hacker News",
+    "published": "2026-07-02T02:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48755928\">Comments</a>"
+  },
+  {
     "title": "Bring back crappy forums",
     "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
     "source": "Hacker News",
@@ -38,14 +70,6 @@
     "published": "2026-07-02T00:48:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48755005\">Comments</a>"
-  },
-  {
-    "title": "The Underhanded C Contest",
-    "link": "https://underhanded-c.org/",
-    "source": "Hacker News",
-    "published": "2026-07-01T22:39:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48754080\">Comments</a>"
   },
   {
     "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
@@ -64,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48753715\">Comments</a>"
   },
   {
-    "title": "Qualcomm Linux 2.0",
-    "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-    "source": "Hacker News",
-    "published": "2026-07-01T21:01:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48753069\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-    "link": "https://www.workerowned.info/",
-    "source": "Hacker News",
-    "published": "2026-07-01T20:47:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48752905\">Comments</a>"
-  },
-  {
     "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
     "link": "https://www.weaverobotics.com/isaac-1",
     "source": "Hacker News",
     "published": "2026-07-01T18:12:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48750989\">Comments</a>"
-  },
-  {
-    "title": "Learn Vim motions with an ice-cream van",
-    "link": "https://thisismodest.com/vimscoops/",
-    "source": "Hacker News",
-    "published": "2026-07-01T18:00:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750803\">Comments</a>"
   },
   {
     "title": "What to learn to be a graphics programmer",
@@ -112,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48747976\">Comments</a>"
   },
   {
-    "title": "For first time, a cell built from scratch grows and divides",
-    "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-    "source": "Hacker News",
-    "published": "2026-07-01T14:20:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747304\">Comments</a>"
-  },
-  {
     "title": "FFmpeg 9.1's new AAC encoder",
     "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
     "source": "Hacker News",
     "published": "2026-07-01T14:10:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48747116\">Comments</a>"
-  },
-  {
-    "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-    "link": "https://blog.cloudflare.com/monetization-gateway/",
-    "source": "Hacker News",
-    "published": "2026-07-01T13:59:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746914\">Comments</a>"
   },
   {
     "title": "Why jet engines aren't made in China",
@@ -158,5 +142,21 @@
     "published": "2026-06-29T19:42:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48724127\">Comments</a>"
+  },
+  {
+    "title": "Creating a Personalised Bin Calendar",
+    "link": "https://alexwlchan.net/2026/bin-calendar/",
+    "source": "Hacker News",
+    "published": "2026-06-29T13:45:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719224\">Comments</a>"
+  },
+  {
+    "title": "My Favorite Keyboards",
+    "link": "https://fabiensanglard.net/keyboards/index.html",
+    "source": "Hacker News",
+    "published": "2026-06-29T04:41:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48714884\">Comments</a>"
   }
 ]
