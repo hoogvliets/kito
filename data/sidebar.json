@@ -1,11 +1,27 @@
 [
   {
-    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "link": "https://senior-swe-bench.snorkel.ai/",
+    "title": "CursorBench 3.1",
+    "link": "https://cursor.com/evals",
     "source": "Hacker News",
-    "published": "2026-07-02T02:55:16+00:00",
+    "published": "2026-07-02T05:19:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48755928\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48756840\">Comments</a>"
+  },
+  {
+    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+    "source": "Hacker News",
+    "published": "2026-07-02T04:32:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48756602\">Comments</a>"
+  },
+  {
+    "title": "A new Android malware from Google",
+    "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+    "source": "Hacker News",
+    "published": "2026-07-02T03:00:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48755965\">Comments</a>"
   },
   {
     "title": "Bring back crappy forums",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48755731\">Comments</a>"
   },
   {
-    "title": "Building an Open-Source Robot Vacuum \u2013 Meet Oomwoo",
+    "title": "Oomwoo, an open-source robot vacuum you build yourself",
     "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
     "source": "Hacker News",
     "published": "2026-07-02T00:48:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48755005\">Comments</a>"
-  },
-  {
-    "title": "Global review confirms mRNA vaccines are safe,\u00a0effective\u00a0and full of promise",
-    "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-    "source": "Hacker News",
-    "published": "2026-07-02T00:40:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48754963\">Comments</a>"
-  },
-  {
-    "title": "The <Usermedia> HTML Element",
-    "link": "https://developer.chrome.com/blog/usermedia-html-element",
-    "source": "Hacker News",
-    "published": "2026-07-01T23:56:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48754700\">Comments</a>"
   },
   {
     "title": "The Underhanded C Contest",
@@ -46,6 +46,14 @@
     "published": "2026-07-01T22:39:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48754080\">Comments</a>"
+  },
+  {
+    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "source": "Hacker News",
+    "published": "2026-07-01T22:27:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48753979\">Comments</a>"
   },
   {
     "title": "ZCode \u2013 Harness for GLM-5.2",
@@ -78,6 +86,14 @@
     "published": "2026-07-01T18:12:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48750989\">Comments</a>"
+  },
+  {
+    "title": "Learn Vim motions with an ice-cream van",
+    "link": "https://thisismodest.com/vimscoops/",
+    "source": "Hacker News",
+    "published": "2026-07-01T18:00:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750803\">Comments</a>"
   },
   {
     "title": "What to learn to be a graphics programmer",
@@ -120,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48746914\">Comments</a>"
   },
   {
-    "title": "Internal Combustion Engine (2021)",
-    "link": "https://ciechanow.ski/internal-combustion-engine/",
+    "title": "Why jet engines aren't made in China",
+    "link": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
     "source": "Hacker News",
-    "published": "2026-07-01T13:04:16+00:00",
+    "published": "2026-07-01T00:22:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746076\">Comments</a>"
-  },
-  {
-    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-    "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-    "source": "Hacker News",
-    "published": "2026-07-01T12:13:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745456\">Comments</a>"
-  },
-  {
-    "title": "Box3D, an open source 3D physics engine",
-    "link": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "source": "Hacker News",
-    "published": "2026-07-01T12:12:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745445\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48740971\">Comments</a>"
   },
   {
     "title": "How do wombats poop cubes?",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48732860\">Comments</a>"
   },
   {
-    "title": "The vibration of the pager has a sound all its own",
-    "link": "https://www.notyouremergency.com/triage-intro",
+    "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+    "link": "https://www.mixedbread.com/blog/asymmetric-quant",
     "source": "Hacker News",
-    "published": "2026-06-28T15:06:43+00:00",
+    "published": "2026-06-29T19:42:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48707979\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48724127\">Comments</a>"
   }
 ]
