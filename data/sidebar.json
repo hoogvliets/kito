@@ -1,5 +1,13 @@
 [
   {
+    "title": "Exapunks",
+    "link": "https://www.zachtronics.com/exapunks/",
+    "source": "Hacker News",
+    "published": "2026-07-02T18:41:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48765663\">Comments</a>"
+  },
+  {
     "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
     "link": "https://mathstodon.xyz/@iblech/116769502749142438",
     "source": "Hacker News",
@@ -16,12 +24,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48762862\">Comments</a>"
   },
   {
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "source": "Hacker News",
+    "published": "2026-07-02T15:02:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762725\">Comments</a>"
+  },
+  {
+    "title": "Podman v6.0.0",
+    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "source": "Hacker News",
+    "published": "2026-07-02T14:23:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762098\">Comments</a>"
+  },
+  {
     "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
     "link": "https://github.com/rafal-qa/slopo",
     "source": "Hacker News",
     "published": "2026-07-02T14:19:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48762038\">Comments</a>"
+  },
+  {
+    "title": "No LLM Code in Dependencies",
+    "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "source": "Hacker News",
+    "published": "2026-07-02T14:17:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762008\">Comments</a>"
   },
   {
     "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
@@ -88,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48759870\">Comments</a>"
   },
   {
-    "title": "Vite+ Beta",
-    "link": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-    "source": "Hacker News",
-    "published": "2026-07-02T11:30:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48759761\">Comments</a>"
-  },
-  {
     "title": "PeerTube is a free, decentralized and federated video platform",
     "link": "https://github.com/Chocobozzz/PeerTube",
     "source": "Hacker News",
@@ -126,30 +150,6 @@
     "published": "2026-07-02T03:00:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48755965\">Comments</a>"
-  },
-  {
-    "title": "Oomwoo, an open-source robot vacuum you build yourself",
-    "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "source": "Hacker News",
-    "published": "2026-07-02T00:48:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48755005\">Comments</a>"
-  },
-  {
-    "title": "ZCode \u2013 Harness for GLM-5.2",
-    "link": "https://zcode.z.ai/en",
-    "source": "Hacker News",
-    "published": "2026-07-01T22:03:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48753715\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-    "link": "https://github.com/emson/claudoro",
-    "source": "Hacker News",
-    "published": "2026-07-01T12:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745590\">Comments</a>"
   },
   {
     "title": "German button maker searched rivers of American Midwest for valuable shells",
