@@ -1,27 +1,43 @@
 [
   {
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+    "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "source": "Hacker News",
+    "published": "2026-07-03T04:16:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770647\">Comments</a>"
+  },
+  {
+    "title": "Every AI Visibility Tool Is Lying to You",
+    "link": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+    "source": "Hacker News",
+    "published": "2026-07-03T04:06:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770575\">Comments</a>"
+  },
+  {
+    "title": "14\u00d7 faster embeddings: how we rebuilt the ONNX path in Manticore",
+    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "source": "Hacker News",
+    "published": "2026-07-03T03:49:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770477\">Comments</a>"
+  },
+  {
+    "title": "The Safari MCP server for web developers",
+    "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+    "source": "Hacker News",
+    "published": "2026-07-03T01:37:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48769639\">Comments</a>"
+  },
+  {
     "title": "CarPlay Is Additive",
     "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
     "source": "Hacker News",
     "published": "2026-07-03T01:02:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48769397\">Comments</a>"
-  },
-  {
-    "title": "\"An AI Job Apocalypse?\" \u2013 Goldman Sachs Report [pdf]",
-    "link": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
-    "source": "Hacker News",
-    "published": "2026-07-03T00:18:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48769110\">Comments</a>"
-  },
-  {
-    "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-    "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-    "source": "Hacker News",
-    "published": "2026-07-03T00:01:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768997\">Comments</a>"
   },
   {
     "title": "An American Privacy Emergency",
@@ -64,44 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48767347\">Comments</a>"
   },
   {
-    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-    "link": "http://www.lmdb.tech/doc/",
-    "source": "Hacker News",
-    "published": "2026-07-02T20:01:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48766598\">Comments</a>"
-  },
-  {
-    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-    "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-    "source": "Hacker News",
-    "published": "2026-07-02T19:27:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48766209\">Comments</a>"
-  },
-  {
     "title": "Exapunks (2018)",
     "link": "https://www.zachtronics.com/exapunks/",
     "source": "Hacker News",
     "published": "2026-07-02T18:41:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48765663\">Comments</a>"
-  },
-  {
-    "title": "Postgres transactions are a distributed systems superpower",
-    "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "source": "Hacker News",
-    "published": "2026-07-02T18:38:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48765639\">Comments</a>"
-  },
-  {
-    "title": "This is my attempt to get Vulkan going on NetBSD",
-    "link": "https://github.com/segaboy/vulkan-netbsd",
-    "source": "Hacker News",
-    "published": "2026-07-02T18:36:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48765607\">Comments</a>"
   },
   {
     "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
@@ -120,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48762098\">Comments</a>"
   },
   {
-    "title": "How to ask for help from people who don't know you",
-    "link": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "Immich 3.0",
+    "link": "https://github.com/immich-app/immich/discussions/29439",
     "source": "Hacker News",
-    "published": "2026-07-02T13:19:22+00:00",
+    "published": "2026-07-02T14:13:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48761118\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48761944\">Comments</a>"
+  },
+  {
+    "title": "Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
+    "link": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-02T12:02:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48760106\">Comments</a>"
   },
   {
     "title": "PeerTube is a free, decentralized and federated video platform",
@@ -136,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48759634\">Comments</a>"
   },
   {
-    "title": "Superpowers 6",
-    "link": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "title": "Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
+    "link": "https://www.nature.com/articles/s41467-026-74235-1",
     "source": "Hacker News",
-    "published": "2026-06-30T21:28:32+00:00",
+    "published": "2026-06-29T20:54:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739459\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48725093\">Comments</a>"
   },
   {
-    "title": "Show HN: Gitstock\u2013Transform you GitHub commit history into K-line and animations",
-    "link": "https://gitstock.org/",
+    "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
+    "link": "https://www.bkurtz.io/posts/macvdmtool/",
     "source": "Hacker News",
-    "published": "2026-06-30T07:00:33+00:00",
+    "published": "2026-06-29T20:18:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48729404\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48724608\">Comments</a>"
+  },
+  {
+    "title": "Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",
+    "link": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
+    "source": "Hacker News",
+    "published": "2026-06-29T15:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720728\">Comments</a>"
   },
   {
     "title": "Reality has a surprising amount of detail (2017)",
