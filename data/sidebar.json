@@ -1,5 +1,29 @@
 [
   {
+    "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+    "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+    "source": "Hacker News",
+    "published": "2026-07-03T13:01:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48774518\">Comments</a>"
+  },
+  {
+    "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+    "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "source": "Hacker News",
+    "published": "2026-07-03T13:00:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48774509\">Comments</a>"
+  },
+  {
+    "title": "Commodore 64 Basic for PostgreSQL",
+    "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "source": "Hacker News",
+    "published": "2026-07-03T09:08:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772717\">Comments</a>"
+  },
+  {
     "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
     "link": "https://wordgard.net/",
     "source": "Hacker News",
@@ -24,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48772388\">Comments</a>"
   },
   {
-    "title": "14\u00d7 faster embeddings: how we rebuilt the ONNX path in Manticore",
-    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "source": "Hacker News",
-    "published": "2026-07-03T03:49:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770477\">Comments</a>"
-  },
-  {
     "title": "The Safari MCP server for web developers",
     "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
     "source": "Hacker News",
@@ -46,14 +62,6 @@
     "published": "2026-07-03T01:02:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48769397\">Comments</a>"
-  },
-  {
-    "title": "An American Privacy Emergency",
-    "link": "https://scottaaronson.blog/?p=9902",
-    "source": "Hacker News",
-    "published": "2026-07-03T00:01:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768992\">Comments</a>"
   },
   {
     "title": "Right to Local Intelligence",
@@ -112,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48761944\">Comments</a>"
   },
   {
-    "title": "Show HN: Pieces \u2013 Social network for people",
-    "link": "https://try.piecesof.me/",
-    "source": "Hacker News",
-    "published": "2026-07-01T17:30:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750402\">Comments</a>"
-  },
-  {
     "title": "Q&A with Micron's VP and GM of Memory",
     "link": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
     "source": "Hacker News",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48738244\">Comments</a>"
   },
   {
+    "title": "The Beauty of Tautologies",
+    "link": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+    "source": "Hacker News",
+    "published": "2026-06-30T15:45:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734380\">Comments</a>"
+  },
+  {
     "title": "How working with a blind client revealed invisible accessibility gaps",
     "link": "https://iinteractive.com/resources/blog/read-only",
     "source": "Hacker News",
     "published": "2026-06-29T21:59:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48725857\">Comments</a>"
-  },
-  {
-    "title": "Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
-    "link": "https://www.nature.com/articles/s41467-026-74235-1",
-    "source": "Hacker News",
-    "published": "2026-06-29T20:54:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48725093\">Comments</a>"
   },
   {
     "title": "Reality has a surprising amount of detail (2017)",
