@@ -1,5 +1,61 @@
 [
   {
+    "title": "Markets are competitive if and only if P = NP",
+    "link": "https://arxiv.org/abs/2602.20415",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:41:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776345\">Comments</a>"
+  },
+  {
+    "title": "Factories Are Just Rooms",
+    "link": "https://interconnected.org/home/2026/07/03/factories",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:13:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776035\">Comments</a>"
+  },
+  {
+    "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+    "link": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:08:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775979\">Comments</a>"
+  },
+  {
+    "title": "Best Simple System for Now",
+    "link": "https://dannorth.net/blog/best-simple-system-for-now/",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:06:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775949\">Comments</a>"
+  },
+  {
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "link": "https://github.com/jamesob/local-llm",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:03:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775921\">Comments</a>"
+  },
+  {
+    "title": "Give Smart People the Tools to Do Smart Things",
+    "link": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+    "source": "Hacker News",
+    "published": "2026-07-03T14:49:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775748\">Comments</a>"
+  },
+  {
+    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+    "link": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "source": "Hacker News",
+    "published": "2026-07-03T14:27:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775483\">Comments</a>"
+  },
+  {
     "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
     "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
     "source": "Hacker News",
@@ -8,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48774518\">Comments</a>"
   },
   {
-    "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
     "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
     "source": "Hacker News",
     "published": "2026-07-03T13:00:31+00:00",
@@ -16,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48774509\">Comments</a>"
   },
   {
-    "title": "Commodore 64 Basic for PostgreSQL",
-    "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "title": "The Fall and Rise of Screwworm",
+    "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
     "source": "Hacker News",
-    "published": "2026-07-03T09:08:14+00:00",
+    "published": "2026-07-03T12:58:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772717\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48774492\">Comments</a>"
   },
   {
     "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
@@ -30,14 +86,6 @@
     "published": "2026-07-03T08:50:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48772573\">Comments</a>"
-  },
-  {
-    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-    "source": "Hacker News",
-    "published": "2026-07-03T08:31:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772443\">Comments</a>"
   },
   {
     "title": "Half-Baked Product",
@@ -80,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48768464\">Comments</a>"
   },
   {
-    "title": "Virginia bans sale of geolocation data",
-    "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-    "source": "Hacker News",
-    "published": "2026-07-02T21:03:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48767347\">Comments</a>"
-  },
-  {
-    "title": "Exapunks (2018)",
-    "link": "https://www.zachtronics.com/exapunks/",
-    "source": "Hacker News",
-    "published": "2026-07-02T18:41:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48765663\">Comments</a>"
-  },
-  {
     "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
     "link": "https://mathstodon.xyz/@iblech/116769502749142438",
     "source": "Hacker News",
@@ -104,36 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48763035\">Comments</a>"
   },
   {
-    "title": "Podman v6.0.0",
-    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+    "link": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
     "source": "Hacker News",
-    "published": "2026-07-02T14:23:09+00:00",
+    "published": "2026-06-30T14:00:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762098\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732870\">Comments</a>"
   },
   {
-    "title": "Immich 3.0",
-    "link": "https://github.com/immich-app/immich/discussions/29439",
+    "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+    "link": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
     "source": "Hacker News",
-    "published": "2026-07-02T14:13:26+00:00",
+    "published": "2026-06-30T11:07:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48761944\">Comments</a>"
-  },
-  {
-    "title": "Q&A with Micron's VP and GM of Memory",
-    "link": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
-    "source": "Hacker News",
-    "published": "2026-06-30T19:45:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738244\">Comments</a>"
-  },
-  {
-    "title": "The Beauty of Tautologies",
-    "link": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-    "source": "Hacker News",
-    "published": "2026-06-30T15:45:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734380\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730953\">Comments</a>"
   },
   {
     "title": "How working with a blind client revealed invisible accessibility gaps",
@@ -142,21 +158,5 @@
     "published": "2026-06-29T21:59:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48725857\">Comments</a>"
-  },
-  {
-    "title": "Reality has a surprising amount of detail (2017)",
-    "link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "source": "Hacker News",
-    "published": "2026-06-27T23:36:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702874\">Comments</a>"
-  },
-  {
-    "title": "Quake in 13 Kilobytes (2021)",
-    "link": "https://js13kgames.com/games/q1k3",
-    "source": "Hacker News",
-    "published": "2026-06-26T23:36:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693428\">Comments</a>"
   }
 ]
