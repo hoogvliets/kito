@@ -1,27 +1,51 @@
 [
   {
-    "title": "Markets are competitive if and only if P = NP",
-    "link": "https://arxiv.org/abs/2602.20415",
+    "title": "International chess federation sanctions Kramnik",
+    "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
     "source": "Hacker News",
-    "published": "2026-07-03T15:41:44+00:00",
+    "published": "2026-07-03T17:04:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776345\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48777266\">Comments</a>"
   },
   {
-    "title": "Factories Are Just Rooms",
+    "title": "The Life and Times of Maxis, Part 1: SimEverything",
+    "link": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:56:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776525\">Comments</a>"
+  },
+  {
+    "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+    "link": "https://github.com/teamchong/pxpipe",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:50:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776464\">Comments</a>"
+  },
+  {
+    "title": "Memorizing session transcripts isn't useful",
+    "link": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:32:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776232\">Comments</a>"
+  },
+  {
+    "title": "Costco Is the Anti-Amazon",
+    "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "source": "Hacker News",
+    "published": "2026-07-03T15:14:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776044\">Comments</a>"
+  },
+  {
+    "title": "Factories are just rooms",
     "link": "https://interconnected.org/home/2026/07/03/factories",
     "source": "Hacker News",
     "published": "2026-07-03T15:13:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48776035\">Comments</a>"
-  },
-  {
-    "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
-    "link": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
-    "source": "Hacker News",
-    "published": "2026-07-03T15:08:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775979\">Comments</a>"
   },
   {
     "title": "Best Simple System for Now",
@@ -40,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48775921\">Comments</a>"
   },
   {
-    "title": "Give Smart People the Tools to Do Smart Things",
-    "link": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-    "source": "Hacker News",
-    "published": "2026-07-03T14:49:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775748\">Comments</a>"
-  },
-  {
-    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
-    "link": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-    "source": "Hacker News",
-    "published": "2026-07-03T14:27:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775483\">Comments</a>"
-  },
-  {
     "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
     "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
     "source": "Hacker News",
@@ -64,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48774518\">Comments</a>"
   },
   {
-    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+    "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
     "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
     "source": "Hacker News",
     "published": "2026-07-03T13:00:31+00:00",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48772388\">Comments</a>"
   },
   {
-    "title": "The Safari MCP server for web developers",
-    "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-    "source": "Hacker News",
-    "published": "2026-07-03T01:37:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48769639\">Comments</a>"
-  },
-  {
     "title": "CarPlay Is Additive",
     "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
     "source": "Hacker News",
@@ -120,23 +120,31 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48768951\">Comments</a>"
   },
   {
-    "title": "crustc: entirety of `rustc`, translated to C",
-    "link": "https://github.com/FractalFir/crustc",
+    "title": "Show HN: ctx \u2013 Search the coding agent history already on your machine",
+    "link": "https://github.com/ctxrs/ctx",
     "source": "Hacker News",
-    "published": "2026-07-02T22:57:35+00:00",
+    "published": "2026-07-02T15:58:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768464\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48763462\">Comments</a>"
   },
   {
-    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-    "link": "https://mathstodon.xyz/@iblech/116769502749142438",
+    "title": "Flexible metaprogramming with Rhombus",
+    "link": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
     "source": "Hacker News",
-    "published": "2026-07-02T15:25:16+00:00",
+    "published": "2026-07-02T15:43:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48763035\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48763291\">Comments</a>"
   },
   {
-    "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+    "title": "Supersonic flight returning to US after half-century ban",
+    "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+    "source": "Hacker News",
+    "published": "2026-07-01T02:26:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48741654\">Comments</a>"
+  },
+  {
+    "title": "My dad helped build North America's oat supply chain: Can it be remade?",
     "link": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
     "source": "Hacker News",
     "published": "2026-06-30T14:00:51+00:00",
@@ -150,13 +158,5 @@
     "published": "2026-06-30T11:07:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48730953\">Comments</a>"
-  },
-  {
-    "title": "How working with a blind client revealed invisible accessibility gaps",
-    "link": "https://iinteractive.com/resources/blog/read-only",
-    "source": "Hacker News",
-    "published": "2026-06-29T21:59:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48725857\">Comments</a>"
   }
 ]
