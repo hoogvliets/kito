@@ -1,5 +1,85 @@
 [
   {
+    "title": "Verizon is About to Break our Watches",
+    "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "source": "Hacker News",
+    "published": "2026-07-04T17:52:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787329\">Comments</a>"
+  },
+  {
+    "title": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments",
+    "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+    "source": "Hacker News",
+    "published": "2026-07-04T17:37:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787201\">Comments</a>"
+  },
+  {
+    "title": "No more than 100 000 faint satellites should orbit Earth",
+    "link": "https://www.eso.org/public/news/eso2607/",
+    "source": "Hacker News",
+    "published": "2026-07-04T17:17:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787042\">Comments</a>"
+  },
+  {
+    "title": "Plein Air",
+    "link": "https://art.joonas.wtf/",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:55:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786880\">Comments</a>"
+  },
+  {
+    "title": "Finland's last analogue landline phones go silent after 150 years",
+    "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:54:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786868\">Comments</a>"
+  },
+  {
+    "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+    "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:51:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786838\">Comments</a>"
+  },
+  {
+    "title": "Meta data center water discharges suspended for contaminating water supply",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:45:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786782\">Comments</a>"
+  },
+  {
+    "title": "Leaking YouTube creators' private videos",
+    "link": "https://javoriuski.com/post/youtube",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:45:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786781\">Comments</a>"
+  },
+  {
+    "title": "Curveball",
+    "link": "https://mightyburger.net/projects/curveball/",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:15:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786495\">Comments</a>"
+  },
+  {
+    "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+    "link": "https://github.com/maximqaxd/wince-dc",
+    "source": "Hacker News",
+    "published": "2026-07-04T14:52:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48785840\">Comments</a>"
+  },
+  {
     "title": "Potential session/cache leakage between workspace instances or consumer accounts",
     "link": "https://github.com/anthropics/claude-code/issues/74066",
     "source": "Hacker News",
@@ -8,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48785485\">Comments</a>"
   },
   {
-    "title": "Explanation of everything you can see in htop/top on Linux",
+    "title": "Explanation of everything you can see in htop/top on Linux (2019)",
     "link": "https://peteris.rocks/blog/htop/",
     "source": "Hacker News",
     "published": "2026-07-04T12:00:57+00:00",
@@ -24,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48783948\">Comments</a>"
   },
   {
-    "title": "The bottleneck might be the air in the room",
-    "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "source": "Hacker News",
-    "published": "2026-07-04T06:32:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48783117\">Comments</a>"
-  },
-  {
     "title": "Maybe you should learn something",
     "link": "https://www.marginalia.nu/log/a_135_learn/",
     "source": "Hacker News",
@@ -40,84 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48782435\">Comments</a>"
   },
   {
-    "title": "Synthesis is harder than analysis",
-    "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "link": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
     "source": "Hacker News",
-    "published": "2026-07-04T02:45:24+00:00",
+    "published": "2026-07-01T21:10:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48782219\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48753160\">Comments</a>"
   },
   {
-    "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
-    "link": "https://mrbruh.com/msicenter/",
-    "source": "Hacker News",
-    "published": "2026-07-04T00:57:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48781688\">Comments</a>"
-  },
-  {
-    "title": "Giant trees have no trouble pumping water to top branches: new research",
-    "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-    "source": "Hacker News",
-    "published": "2026-07-03T22:40:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780870\">Comments</a>"
-  },
-  {
-    "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
-    "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-    "source": "Hacker News",
-    "published": "2026-07-03T22:39:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780865\">Comments</a>"
-  },
-  {
-    "title": "Leanstral 1.5: Proof abundance for all",
-    "link": "https://mistral.ai/news/leanstral-1-5/",
-    "source": "Hacker News",
-    "published": "2026-07-03T22:33:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780801\">Comments</a>"
-  },
-  {
-    "title": "Performance per dollar is getting faster and cheaper",
-    "link": "https://www.wafer.ai/blog/glm52-amd",
-    "source": "Hacker News",
-    "published": "2026-07-03T21:49:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780417\">Comments</a>"
-  },
-  {
-    "title": "FreeBSD ate my RAM",
-    "link": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "source": "Hacker News",
-    "published": "2026-07-03T19:08:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48778757\">Comments</a>"
-  },
-  {
-    "title": "Costco is the anti-Amazon",
-    "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "source": "Hacker News",
-    "published": "2026-07-03T15:14:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48776044\">Comments</a>"
-  },
-  {
-    "title": "Jamesob's guide to running SOTA LLMs locally",
-    "link": "https://github.com/jamesob/local-llm",
-    "source": "Hacker News",
-    "published": "2026-07-03T15:03:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48775921\">Comments</a>"
-  },
-  {
-    "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+    "title": "The Vespa at 80",
     "link": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
     "source": "Hacker News",
     "published": "2026-07-01T13:22:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48746327\">Comments</a>"
+  },
+  {
+    "title": "Designing DB partitions you don't have to babysit",
+    "link": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "source": "Hacker News",
+    "published": "2026-07-01T13:05:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746090\">Comments</a>"
   },
   {
     "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
@@ -128,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48745855\">Comments</a>"
   },
   {
-    "title": "What ORMs have taught me: just learn SQL (2014)",
-    "link": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-01T04:14:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48742175\">Comments</a>"
-  },
-  {
     "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
     "link": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48739446\">Comments</a>"
   },
   {
-    "title": "Mir Books \u2013 Books from the Soviet Era",
-    "link": "https://mirtitles.org",
+    "title": "The .join() that should be a bug",
+    "link": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
     "source": "Hacker News",
-    "published": "2026-06-30T20:50:58+00:00",
+    "published": "2026-06-30T10:56:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739018\">Comments</a>"
-  },
-  {
-    "title": "Night Witches \u2013 all-female Soviet aviator regiment WW2",
-    "link": "https://en.wikipedia.org/wiki/Night_Witches",
-    "source": "Hacker News",
-    "published": "2026-06-30T18:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48737068\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730868\">Comments</a>"
   }
 ]
