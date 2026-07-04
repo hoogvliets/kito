@@ -1,5 +1,29 @@
 [
   {
+    "title": "Better Models: Worse Tools",
+    "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "source": "Hacker News",
+    "published": "2026-07-04T20:16:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48788599\">Comments</a>"
+  },
+  {
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "source": "Hacker News",
+    "published": "2026-07-04T19:41:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48788283\">Comments</a>"
+  },
+  {
+    "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference",
+    "link": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
+    "source": "Hacker News",
+    "published": "2026-07-04T19:08:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787987\">Comments</a>"
+  },
+  {
     "title": "Verizon is About to Break our Watches",
     "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
     "source": "Hacker News",
@@ -16,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48787201\">Comments</a>"
   },
   {
-    "title": "No more than 100 000 faint satellites should orbit Earth",
-    "link": "https://www.eso.org/public/news/eso2607/",
+    "title": "EndBASIC 0.14: Are we multimedia yet?",
+    "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
     "source": "Hacker News",
-    "published": "2026-07-04T17:17:28+00:00",
+    "published": "2026-07-04T17:08:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787042\">Comments</a>"
-  },
-  {
-    "title": "Plein Air",
-    "link": "https://art.joonas.wtf/",
-    "source": "Hacker News",
-    "published": "2026-07-04T16:55:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786880\">Comments</a>"
-  },
-  {
-    "title": "Finland's last analogue landline phones go silent after 150 years",
-    "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-    "source": "Hacker News",
-    "published": "2026-07-04T16:54:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786868\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786970\">Comments</a>"
   },
   {
     "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
@@ -62,6 +70,14 @@
     "published": "2026-07-04T16:45:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48786781\">Comments</a>"
+  },
+  {
+    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-30",
+    "source": "Hacker News",
+    "published": "2026-07-04T16:30:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786638\">Comments</a>"
   },
   {
     "title": "Curveball",
@@ -112,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48782435\">Comments</a>"
   },
   {
+    "title": "At Dog School, children gain a sense of achievement",
+    "link": "https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja",
+    "source": "Hacker News",
+    "published": "2026-07-02T17:53:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48765066\">Comments</a>"
+  },
+  {
     "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
     "link": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
     "source": "Hacker News",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48753160\">Comments</a>"
   },
   {
-    "title": "The Vespa at 80",
-    "link": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+    "title": "It's not me, it's the compiler",
+    "link": "https://parsa.wtf/cast/",
     "source": "Hacker News",
-    "published": "2026-07-01T13:22:19+00:00",
+    "published": "2026-07-01T07:41:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746327\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48743462\">Comments</a>"
   },
   {
-    "title": "Designing DB partitions you don't have to babysit",
-    "link": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "title": "Drone Physics",
+    "link": "https://iahmed.me/post/drone-physics/",
     "source": "Hacker News",
-    "published": "2026-07-01T13:05:16+00:00",
+    "published": "2026-06-30T19:57:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746090\">Comments</a>"
-  },
-  {
-    "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-    "link": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-    "source": "Hacker News",
-    "published": "2026-07-01T12:48:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48745855\">Comments</a>"
-  },
-  {
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
-    "link": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "source": "Hacker News",
-    "published": "2026-06-30T21:27:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739446\">Comments</a>"
-  },
-  {
-    "title": "The .join() that should be a bug",
-    "link": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
-    "source": "Hacker News",
-    "published": "2026-06-30T10:56:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730868\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738395\">Comments</a>"
   }
 ]
