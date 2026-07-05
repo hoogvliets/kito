@@ -1,27 +1,43 @@
 [
   {
+    "title": "Apocketlypse",
+    "link": "https://0dd.company/galleries/triumph/1.html",
+    "source": "Hacker News",
+    "published": "2026-07-05T08:32:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48792352\">Comments</a>"
+  },
+  {
+    "title": "Web-based cryptography is always snake oil",
+    "link": "https://www.devever.net/~hl/webcrypto",
+    "source": "Hacker News",
+    "published": "2026-07-05T08:01:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48792203\">Comments</a>"
+  },
+  {
+    "title": "Programmers need to start meditating",
+    "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+    "source": "Hacker News",
+    "published": "2026-07-05T07:39:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48792080\">Comments</a>"
+  },
+  {
+    "title": "Fast Software, the Best Software",
+    "link": "https://craigmod.com/essays/fast_software/",
+    "source": "Hacker News",
+    "published": "2026-07-05T07:25:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48792008\">Comments</a>"
+  },
+  {
     "title": "Megawatts by Microwave",
     "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
     "source": "Hacker News",
     "published": "2026-07-05T05:56:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48791591\">Comments</a>"
-  },
-  {
-    "title": "Beeg float library, a Rust port of Fabrice Bellard's libbf",
-    "link": "https://github.com/lifthrasiir/libbeef",
-    "source": "Hacker News",
-    "published": "2026-07-05T05:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48791440\">Comments</a>"
-  },
-  {
-    "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-    "link": "https://hic-ai.com",
-    "source": "Hacker News",
-    "published": "2026-07-05T05:01:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48791380\">Comments</a>"
   },
   {
     "title": "Shadcn/UI now defaults to Base UI instead of Radix",
@@ -32,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48791328\">Comments</a>"
   },
   {
-    "title": "Moby Dick Workout",
+    "title": "Moby Dick Workout (2022)",
     "link": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
     "source": "Hacker News",
     "published": "2026-07-05T04:30:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48791266\">Comments</a>"
-  },
-  {
-    "title": "My ASN Journey series (2024)",
-    "link": "https://www.animmouse.com/p/my-asn-journey/",
-    "source": "Hacker News",
-    "published": "2026-07-05T04:29:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48791256\">Comments</a>"
-  },
-  {
-    "title": "The Log Is the Agent",
-    "link": "https://arxiv.org/abs/2605.21997",
-    "source": "Hacker News",
-    "published": "2026-07-05T02:57:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48790912\">Comments</a>"
   },
   {
     "title": "If you're a button, you have one job",
@@ -62,14 +62,6 @@
     "published": "2026-07-05T02:01:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48790689\">Comments</a>"
-  },
-  {
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-    "link": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "source": "Hacker News",
-    "published": "2026-07-05T00:22:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48790240\">Comments</a>"
   },
   {
     "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
@@ -120,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48786781\">Comments</a>"
   },
   {
-    "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-    "link": "https://github.com/anthropics/claude-code/issues/74066",
+    "title": "Pandoc Lua Filters",
+    "link": "https://pandoc.org/lua-filters.html",
     "source": "Hacker News",
-    "published": "2026-07-04T14:03:40+00:00",
+    "published": "2026-07-03T09:52:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48785485\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48773079\">Comments</a>"
   },
   {
     "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48765920\">Comments</a>"
   },
   {
+    "title": "The Economy Is K-Shaped",
+    "link": "https://moai.studio/blog/posts/economy-is-k-shaped.html",
+    "source": "Hacker News",
+    "published": "2026-07-02T12:43:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48760633\">Comments</a>"
+  },
+  {
     "title": "Artful Cats: Feline-Inspired Art and Artifacts",
     "link": "https://www.si.edu/spotlight/art-cats",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48751144\">Comments</a>"
   },
   {
+    "title": "About the Digital Art",
+    "link": "https://www.tricivenola.com/about-the-digital-art/",
+    "source": "Hacker News",
+    "published": "2026-07-01T17:48:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48750631\">Comments</a>"
+  },
+  {
     "title": "Meta's Un-Stable Signature",
     "link": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
     "source": "Hacker News",
     "published": "2026-07-01T17:30:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48750405\">Comments</a>"
-  },
-  {
-    "title": "The Particle Box \u2013 Kinetic Molecular Theory Simulator",
-    "link": "https://prepok.com/chemistry/particle-box/",
-    "source": "Hacker News",
-    "published": "2026-07-01T13:16:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48746249\">Comments</a>"
   }
 ]
