@@ -1,5 +1,37 @@
 [
   {
+    "title": "Pros and Cons of Solo Development",
+    "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+    "source": "Hacker News",
+    "published": "2026-07-06T18:24:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808508\">Comments</a>"
+  },
+  {
+    "title": "OpenWrt One \u2013 Open Hardware Router",
+    "link": "https://openwrt.org/toh/openwrt/one",
+    "source": "Hacker News",
+    "published": "2026-07-06T18:23:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808482\">Comments</a>"
+  },
+  {
+    "title": "A global workspace in language models",
+    "link": "https://www.anthropic.com/research/global-workspace",
+    "source": "Hacker News",
+    "published": "2026-07-06T17:44:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808002\">Comments</a>"
+  },
+  {
+    "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "link": "https://github.com/V4bel/Januscape",
+    "source": "Hacker News",
+    "published": "2026-07-06T17:35:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48807908\">Comments</a>"
+  },
+  {
     "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
     "link": "https://github.com/iOfficeAI/OfficeCLI",
     "source": "Hacker News",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48806410\">Comments</a>"
   },
   {
-    "title": "Should DayQuil Be Legal?",
-    "link": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
-    "source": "Hacker News",
-    "published": "2026-07-06T15:44:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48806289\">Comments</a>"
-  },
-  {
     "title": "1k Words: A Writing Contest",
     "link": "https://writingclub.world/1picture1000words",
     "source": "Hacker News",
@@ -56,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48805965\">Comments</a>"
   },
   {
-    "title": "Multilingual experience linked to delayed aging",
-    "link": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
-    "source": "Hacker News",
-    "published": "2026-07-06T15:04:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805652\">Comments</a>"
-  },
-  {
     "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
     "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
     "source": "Hacker News",
     "published": "2026-07-06T15:01:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48805624\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I Built LangGraph for Swift",
-    "link": "https://github.com/christopherkarani/Swarm",
-    "source": "Hacker News",
-    "published": "2026-07-06T14:47:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805437\">Comments</a>"
-  },
-  {
-    "title": "What Emily Bender meant by \"stochastic parrots\"",
-    "link": "https://spectrum.ieee.org/stochastic-parrot",
-    "source": "Hacker News",
-    "published": "2026-07-06T14:45:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805401\">Comments</a>"
   },
   {
     "title": "Resetting Xbox",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48779274\">Comments</a>"
   },
   {
+    "title": "Hobbes \u2013 A Language and Embedded JIT Compiler",
+    "link": "https://github.com/morganstanley/hobbes",
+    "source": "Hacker News",
+    "published": "2026-07-02T23:52:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768935\">Comments</a>"
+  },
+  {
     "title": "Clojure 1.13 adds support for checked keys",
     "link": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
     "source": "Hacker News",
     "published": "2026-07-02T20:51:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48767211\">Comments</a>"
-  },
-  {
-    "title": "When 2+2=5",
-    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "source": "Hacker News",
-    "published": "2026-07-02T20:29:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48766949\">Comments</a>"
   },
   {
     "title": "Introduction to Genomics for Engineers",
