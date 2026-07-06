@@ -1,19 +1,19 @@
 [
   {
+    "title": "The Sneakerweb",
+    "link": "https://sneakerweb.org/",
+    "source": "Hacker News",
+    "published": "2026-07-06T01:35:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48799781\">Comments</a>"
+  },
+  {
     "title": "GPT-5.6 Sol Ultra will be in Codex",
     "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
     "source": "Hacker News",
     "published": "2026-07-06T01:04:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48799614\">Comments</a>"
-  },
-  {
-    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-    "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-    "source": "Hacker News",
-    "published": "2026-07-06T00:04:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48799256\">Comments</a>"
   },
   {
     "title": "The Private Capture of Public Genius",
@@ -32,15 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48799155\">Comments</a>"
   },
   {
-    "title": "Connections in Math: the two kinds of random",
-    "link": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "source": "Hacker News",
-    "published": "2026-07-05T23:31:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48799026\">Comments</a>"
-  },
-  {
-    "title": "Does Code Cleanliness Affect Coding Agents?",
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
     "link": "https://arxiv.org/abs/2605.20049",
     "source": "Hacker News",
     "published": "2026-07-05T23:03:55+00:00",
@@ -86,14 +78,6 @@
     "published": "2026-07-05T21:03:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48797916\">Comments</a>"
-  },
-  {
-    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
-    "link": "https://dhilst.github.io/algae/game/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-05T21:00:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48797895\">Comments</a>"
   },
   {
     "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48770291\">Comments</a>"
   },
   {
-    "title": "A Forlorn Hope of Fortran Modernisation",
-    "link": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
+    "title": "Zuckerberg says AI agent development going slower than expected",
+    "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
     "source": "Hacker News",
-    "published": "2026-07-01T18:20:06+00:00",
+    "published": "2026-07-02T20:38:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48751094\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48767058\">Comments</a>"
+  },
+  {
+    "title": "The Age of Personalized Hardware Is Coming",
+    "link": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
+    "source": "Hacker News",
+    "published": "2026-07-02T07:42:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48757900\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I wrote a Rust book ending with a Redis clone",
+    "link": "https://shankhan3.gumroad.com/l/dnwmtp",
+    "source": "Hacker News",
+    "published": "2026-07-02T05:55:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48757074\">Comments</a>"
   }
 ]
