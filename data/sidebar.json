@@ -1,11 +1,51 @@
 [
   {
-    "title": "Pros and Cons of Solo Development",
-    "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+    "title": "Titan's Resources and Their Utilization",
+    "link": "https://arxiv.org/abs/2606.06608",
     "source": "Hacker News",
-    "published": "2026-07-06T18:24:34+00:00",
+    "published": "2026-07-06T21:39:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808508\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48810841\">Comments</a>"
+  },
+  {
+    "title": "Learning to code is still worthwhile",
+    "link": "https://stevekrouse.com/learn-to-code",
+    "source": "Hacker News",
+    "published": "2026-07-06T20:59:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48810439\">Comments</a>"
+  },
+  {
+    "title": "Python 3.14 compiled to metal \u2013 no interpreter",
+    "link": "https://github.com/can1357/pon",
+    "source": "Hacker News",
+    "published": "2026-07-06T19:40:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48809496\">Comments</a>"
+  },
+  {
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "source": "Hacker News",
+    "published": "2026-07-06T19:28:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48809354\">Comments</a>"
+  },
+  {
+    "title": "CoMaps \u2013 FOSS Offline Maps",
+    "link": "https://www.comaps.app/",
+    "source": "Hacker News",
+    "published": "2026-07-06T18:55:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808928\">Comments</a>"
+  },
+  {
+    "title": "Linux on the Atari Jaguar",
+    "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "source": "Hacker News",
+    "published": "2026-07-06T18:35:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>"
   },
   {
     "title": "OpenWrt One \u2013 Open Hardware Router",
@@ -48,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48806976\">Comments</a>"
   },
   {
-    "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
-    "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "source": "Hacker News",
-    "published": "2026-07-06T16:04:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48806575\">Comments</a>"
-  },
-  {
     "title": "Kani: A Model Checker for Rust",
     "link": "https://arxiv.org/abs/2607.01504",
     "source": "Hacker News",
     "published": "2026-07-06T15:53:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48806410\">Comments</a>"
-  },
-  {
-    "title": "1k Words: A Writing Contest",
-    "link": "https://writingclub.world/1picture1000words",
-    "source": "Hacker News",
-    "published": "2026-07-06T15:30:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48806073\">Comments</a>"
-  },
-  {
-    "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-    "link": "https://github.com/karola3vax/CS2FOW",
-    "source": "Hacker News",
-    "published": "2026-07-06T15:23:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805965\">Comments</a>"
   },
   {
     "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
@@ -104,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48804297\">Comments</a>"
   },
   {
-    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-    "link": "https://andonlabs.com/blog/fable5-vending-bench",
-    "source": "Hacker News",
-    "published": "2026-07-06T12:38:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48803762\">Comments</a>"
-  },
-  {
     "title": "Road to Elm 1.0",
     "link": "https://elm-lang.org/news/faster-builds",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48779274\">Comments</a>"
   },
   {
-    "title": "Hobbes \u2013 A Language and Embedded JIT Compiler",
-    "link": "https://github.com/morganstanley/hobbes",
+    "title": "Using precision editing to study human embryo development shows master gene",
+    "link": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
     "source": "Hacker News",
-    "published": "2026-07-02T23:52:11+00:00",
+    "published": "2026-07-03T02:03:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768935\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48769854\">Comments</a>"
   },
   {
-    "title": "Clojure 1.13 adds support for checked keys",
-    "link": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+    "title": "Rotman Lens",
+    "link": "https://en.wikipedia.org/wiki/Rotman_lens",
     "source": "Hacker News",
-    "published": "2026-07-02T20:51:52+00:00",
+    "published": "2026-07-01T14:56:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48767211\">Comments</a>"
-  },
-  {
-    "title": "Introduction to Genomics for Engineers",
-    "link": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
-    "source": "Hacker News",
-    "published": "2026-07-02T12:28:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48760424\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48747889\">Comments</a>"
   }
 ]
