@@ -1,19 +1,75 @@
 [
   {
-    "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-    "link": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
+    "title": "Mapping homes you can buy from the US government for <$100k",
+    "link": "https://govauctions.app/research/cheapest-homes-in-america",
     "source": "Hacker News",
-    "published": "2026-07-07T13:03:31+00:00",
+    "published": "2026-07-07T16:42:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48817191\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820274\">Comments</a>"
   },
   {
-    "title": "Dua Lipa opens library for banned and censored books in Portugal",
-    "link": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+    "title": "Reducing Doom Loops with Final Token Preference Optimization",
+    "link": "https://www.liquid.ai/blog/antidoom",
     "source": "Hacker News",
-    "published": "2026-07-07T12:50:40+00:00",
+    "published": "2026-07-07T16:31:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48817017\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820127\">Comments</a>"
+  },
+  {
+    "title": "Jim's TrueType QR Code Font",
+    "link": "https://github.com/jimparis/qr-font",
+    "source": "Hacker News",
+    "published": "2026-07-07T16:30:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820119\">Comments</a>"
+  },
+  {
+    "title": "MacSurf 1.68 \u2013 NetSurf on OS 9 Released",
+    "link": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+    "source": "Hacker News",
+    "published": "2026-07-07T16:24:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820022\">Comments</a>"
+  },
+  {
+    "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
+    "link": "https://betterthangood.xyz/blog/weighing-smoke/",
+    "source": "Hacker News",
+    "published": "2026-07-07T16:20:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819958\">Comments</a>"
+  },
+  {
+    "title": "Better Auth is joining Vercel",
+    "link": "https://better-auth.com/blog/better-auth-joins-vercel",
+    "source": "Hacker News",
+    "published": "2026-07-07T15:52:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819512\">Comments</a>"
+  },
+  {
+    "title": "Microsoft Fire IdTech Team at Id Software",
+    "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "source": "Hacker News",
+    "published": "2026-07-07T15:33:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819244\">Comments</a>"
+  },
+  {
+    "title": "Chat Control passed first round in EU Parliament",
+    "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+    "source": "Hacker News",
+    "published": "2026-07-07T15:16:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819008\">Comments</a>"
+  },
+  {
+    "title": "Amazon Without the Knockoffs",
+    "link": "https://knockoff.shopping/",
+    "source": "Hacker News",
+    "published": "2026-07-07T15:13:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48818963\">Comments</a>"
   },
   {
     "title": "98% Isn't Much",
@@ -30,6 +86,14 @@
     "published": "2026-07-07T12:45:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48816956\">Comments</a>"
+  },
+  {
+    "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+    "link": "https://postgres.saneengineer.com",
+    "source": "Hacker News",
+    "published": "2026-07-07T12:40:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48816900\">Comments</a>"
   },
   {
     "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
@@ -64,62 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48816003\">Comments</a>"
   },
   {
-    "title": "Microsoft Can Track Users via a Windows Device ID",
-    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-    "source": "Hacker News",
-    "published": "2026-07-07T08:54:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48815196\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-    "link": "https://whimfiles.com",
-    "source": "Hacker News",
-    "published": "2026-07-07T08:12:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48814952\">Comments</a>"
-  },
-  {
-    "title": "How to sequence your own DNA at home",
-    "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "source": "Hacker News",
-    "published": "2026-07-07T00:14:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>"
-  },
-  {
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "source": "Hacker News",
-    "published": "2026-07-06T23:59:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48812055\">Comments</a>"
-  },
-  {
-    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-    "link": "https://github.com/MaximeRivest/Riddle",
-    "source": "Hacker News",
-    "published": "2026-07-06T23:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>"
-  },
-  {
-    "title": "GLM 5.2 and the coming AI margin collapse",
-    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "source": "Hacker News",
-    "published": "2026-07-06T20:14:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48809877\">Comments</a>"
-  },
-  {
-    "title": "CoMaps \u2013 FOSS Offline Maps",
-    "link": "https://www.comaps.app/",
-    "source": "Hacker News",
-    "published": "2026-07-06T18:55:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48808928\">Comments</a>"
-  },
-  {
     "title": "OpenWrt One \u2013 Open Hardware Router",
     "link": "https://openwrt.org/toh/openwrt/one",
     "source": "Hacker News",
@@ -128,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48808482\">Comments</a>"
   },
   {
-    "title": "Historic Photos of NASA's Cavernous Wind Tunnels",
-    "link": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
+    "title": "GitHub Freno: cooperative, highly available throttler service",
+    "link": "https://github.com/github/freno",
     "source": "Hacker News",
-    "published": "2026-07-04T17:28:57+00:00",
+    "published": "2026-07-06T02:06:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48787124\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48799930\">Comments</a>"
   },
   {
-    "title": "Dolosse \u2013 a South African invention used over the world",
-    "link": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "title": "But Nothing Has Changed on Our Side",
+    "link": "https://cacm.acm.org/blogcacm/but-nothing-has-changed-on-our-side/",
     "source": "Hacker News",
-    "published": "2026-07-04T15:32:58+00:00",
+    "published": "2026-07-04T08:49:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786124\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48783832\">Comments</a>"
   },
   {
     "title": "C++ Details of Asymmetric Fences",
@@ -150,13 +158,5 @@
     "published": "2026-07-03T17:25:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48777488\">Comments</a>"
-  },
-  {
-    "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
-    "link": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
-    "source": "Hacker News",
-    "published": "2026-07-01T01:41:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48741447\">Comments</a>"
   }
 ]
