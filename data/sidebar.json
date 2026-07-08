@@ -1,19 +1,27 @@
 [
   {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "source": "Hacker News",
+    "published": "2026-07-08T08:46:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48829312\">Comments</a>"
+  },
+  {
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "link": "https://github.com/dekart-xyz/geosql",
+    "source": "Hacker News",
+    "published": "2026-07-08T08:37:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48829242\">Comments</a>"
+  },
+  {
     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
     "source": "Hacker News",
     "published": "2026-07-08T05:25:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48827858\">Comments</a>"
-  },
-  {
-    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-    "link": "https://twitter.com/OpenAI/status/2074704958419792299",
-    "source": "Hacker News",
-    "published": "2026-07-08T04:12:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48827402\">Comments</a>"
   },
   {
     "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
@@ -38,14 +46,6 @@
     "published": "2026-07-08T01:27:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48826329\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Chiptune Radio",
-    "link": "https://chiptune-radio.alephvoid.com/",
-    "source": "Hacker News",
-    "published": "2026-07-08T00:55:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48826094\">Comments</a>"
   },
   {
     "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -88,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48821576\">Comments</a>"
   },
   {
-    "title": "l: A new runtime for k and q",
-    "link": "https://lv1.sh/",
-    "source": "Hacker News",
-    "published": "2026-07-07T18:08:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48821378\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
-    "link": "https://github.com/rowboatlabs/rowboat",
-    "source": "Hacker News",
-    "published": "2026-07-07T16:10:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819808\">Comments</a>"
-  },
-  {
     "title": "30papers.com \u2013 Ilya's 30 essential ML papers, in a beginner friendly format",
     "link": "https://30papers.com/",
     "source": "Hacker News",
@@ -120,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48818311\">Comments</a>"
   },
   {
-    "title": "Show HN: Neil the Seal Game",
-    "link": "https://neiltheseal.app/",
+    "title": "Home made GPU escalated quickly [video]",
+    "link": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
     "source": "Hacker News",
-    "published": "2026-07-05T13:11:30+00:00",
+    "published": "2026-07-05T12:39:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48794042\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48793805\">Comments</a>"
   },
   {
     "title": "Automate Excel with Python: From manual grind to one-click workflow",
@@ -142,6 +126,22 @@
     "published": "2026-07-04T16:46:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48786789\">Comments</a>"
+  },
+  {
+    "title": "Ants: Who looks after the injured in a colony?",
+    "link": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
+    "source": "Hacker News",
+    "published": "2026-07-03T22:46:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780915\">Comments</a>"
+  },
+  {
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "source": "Hacker News",
+    "published": "2026-07-03T21:46:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780387\">Comments</a>"
   },
   {
     "title": "The difference between \"today's task\" and \"accretive work\"",
