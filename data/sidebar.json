@@ -1,11 +1,67 @@
 [
   {
-    "title": "Show HN: Kastor \u2013 Terraform-style specs for AI agents",
-    "link": "https://github.com/weirdGuy/kastor",
+    "title": "Grok 4.5",
+    "link": "https://x.ai/news/grok-4-5",
     "source": "Hacker News",
-    "published": "2026-07-08T15:25:09+00:00",
+    "published": "2026-07-08T18:00:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833183\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48835111\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "link": "https://microsoft.github.io/flint-chart/#/",
+    "source": "Hacker News",
+    "published": "2026-07-08T17:46:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834924\">Comments</a>"
+  },
+  {
+    "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+    "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+    "source": "Hacker News",
+    "published": "2026-07-08T17:45:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834919\">Comments</a>"
+  },
+  {
+    "title": "What Do We Know About the Microplastics Inside Us?",
+    "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
+    "source": "Hacker News",
+    "published": "2026-07-08T17:43:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834898\">Comments</a>"
+  },
+  {
+    "title": "GPT\u2011Live",
+    "link": "https://openai.com/index/introducing-gpt-live/",
+    "source": "Hacker News",
+    "published": "2026-07-08T17:03:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834405\">Comments</a>"
+  },
+  {
+    "title": "EU now one step away from reviving private message scanning rules",
+    "link": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+    "source": "Hacker News",
+    "published": "2026-07-08T16:53:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834296\">Comments</a>"
+  },
+  {
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "link": "https://cognition.com/blog/swe-1-7",
+    "source": "Hacker News",
+    "published": "2026-07-08T16:19:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833866\">Comments</a>"
+  },
+  {
+    "title": "TypeScript 7",
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "source": "Hacker News",
+    "published": "2026-07-08T16:06:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833715\">Comments</a>"
   },
   {
     "title": "Chatto is now Open Source",
@@ -56,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48829312\">Comments</a>"
   },
   {
-    "title": "Geosql: A Claude/Codex skill for geospatial data",
-    "link": "https://github.com/dekart-xyz/geosql",
-    "source": "Hacker News",
-    "published": "2026-07-08T08:37:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48829242\">Comments</a>"
-  },
-  {
     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
     "source": "Hacker News",
@@ -72,68 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48827858\">Comments</a>"
   },
   {
-    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-    "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide\u2013 Part 1",
+    "link": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
     "source": "Hacker News",
-    "published": "2026-07-08T03:59:35+00:00",
+    "published": "2026-07-05T19:55:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48827325\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48797443\">Comments</a>"
   },
   {
-    "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
-    "link": "https://www.digipres.org/the-floppy-guide/",
+    "title": "TabFont \u2013 guitar tabs rendered as you type",
+    "link": "https://philatype.com/tabfont/",
     "source": "Hacker News",
-    "published": "2026-07-08T03:22:31+00:00",
+    "published": "2026-07-05T13:13:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48827092\">Comments</a>"
-  },
-  {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "link": "https://kb.cert.org/vuls/id/213560",
-    "source": "Hacker News",
-    "published": "2026-07-08T00:08:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825749\">Comments</a>"
-  },
-  {
-    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-    "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-    "source": "Hacker News",
-    "published": "2026-07-07T23:57:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825664\">Comments</a>"
-  },
-  {
-    "title": "Chat Control 1.0 and 2.0 Explained",
-    "link": "https://fightchatcontrol.eu/chat-control-overview",
-    "source": "Hacker News",
-    "published": "2026-07-07T14:23:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48818311\">Comments</a>"
-  },
-  {
-    "title": "NoiseLang: Where N = 5 is a Dirac delta",
-    "link": "https://manualmeida.dev/articles/noiselang/",
-    "source": "Hacker News",
-    "published": "2026-07-06T12:40:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48803791\">Comments</a>"
-  },
-  {
-    "title": "Every postcard tells a story",
-    "link": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-    "source": "Hacker News",
-    "published": "2026-07-05T18:14:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48796473\">Comments</a>"
-  },
-  {
-    "title": "Catastrophe theory; geniuses and maniacs (2011)",
-    "link": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
-    "source": "Hacker News",
-    "published": "2026-07-05T13:35:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48794227\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48794062\">Comments</a>"
   },
   {
     "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
