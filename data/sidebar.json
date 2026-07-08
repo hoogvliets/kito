@@ -1,11 +1,59 @@
 [
   {
+    "title": "Show HN: Chiptune Radio",
+    "link": "https://chiptune-radio.alephvoid.com/",
+    "source": "Hacker News",
+    "published": "2026-07-08T00:55:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48826094\">Comments</a>"
+  },
+  {
+    "title": "An interactive explorer for Benford's Law across real datasets",
+    "link": "https://vatsalbakshi.com/blog/benfords-law/",
+    "source": "Hacker News",
+    "published": "2026-07-08T00:18:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825816\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Fortress \u2013 a stealth Chromium so your agents stop getting blocked",
+    "link": "https://github.com/tiliondev/fortress",
+    "source": "Hacker News",
+    "published": "2026-07-08T00:08:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825745\">Comments</a>"
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs Video Lectures",
+    "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "source": "Hacker News",
+    "published": "2026-07-07T23:57:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825664\">Comments</a>"
+  },
+  {
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "link": "https://www.gao.gov/products/gao-26-108193",
+    "source": "Hacker News",
+    "published": "2026-07-07T22:23:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48824826\">Comments</a>"
+  },
+  {
     "title": "Every new car sold in the European Union must include a driver monitoring camera",
     "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
     "source": "Hacker News",
     "published": "2026-07-07T20:50:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48823557\">Comments</a>"
+  },
+  {
+    "title": "We charge $10k a week to delete AI-generated code",
+    "link": "https://odra.dev/slopfix/",
+    "source": "Hacker News",
+    "published": "2026-07-07T20:35:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48823359\">Comments</a>"
   },
   {
     "title": "Show HN: Davit, a Apple Containers UI",
@@ -16,36 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48821848\">Comments</a>"
   },
   {
-    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "source": "Hacker News",
-    "published": "2026-07-07T18:36:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48821749\">Comments</a>"
-  },
-  {
     "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
     "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
     "source": "Hacker News",
     "published": "2026-07-07T18:24:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48821576\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-    "link": "https://github.com/kklimuk/docx-cli",
-    "source": "Hacker News",
-    "published": "2026-07-07T18:19:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48821500\">Comments</a>"
-  },
-  {
-    "title": "Notes on Software Quality",
-    "link": "https://anthonyhobday.com/blog/20260410",
-    "source": "Hacker News",
-    "published": "2026-07-07T18:14:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48821441\">Comments</a>"
   },
   {
     "title": "l: A new runtime for k and q",
@@ -80,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48819608\">Comments</a>"
   },
   {
-    "title": "Why we built yet another Postgres connection pooler",
-    "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "source": "Hacker News",
-    "published": "2026-07-07T15:36:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48819308\">Comments</a>"
-  },
-  {
-    "title": "Automating AI Away",
-    "link": "https://replicated.live/blog/away",
-    "source": "Hacker News",
-    "published": "2026-07-07T15:11:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48818937\">Comments</a>"
-  },
-  {
     "title": "Chat Control 1.0 and 2.0 Explained",
     "link": "https://fightchatcontrol.eu/chat-control-overview",
     "source": "Hacker News",
@@ -120,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48816883\">Comments</a>"
   },
   {
-    "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
-    "link": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+    "title": "Canada's only watchmaking school still ticking after 80 years",
+    "link": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
     "source": "Hacker News",
-    "published": "2026-07-05T05:36:51+00:00",
+    "published": "2026-07-04T16:46:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48791505\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48786789\">Comments</a>"
   },
   {
-    "title": "Camera with transparent display launches for the equivalent of $29",
-    "link": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
+    "title": "First Principles of Model Routing",
+    "link": "https://try.works/first-principles-of-model-routing",
     "source": "Hacker News",
-    "published": "2026-07-03T20:54:36+00:00",
+    "published": "2026-07-03T05:36:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48779844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48771200\">Comments</a>"
   },
   {
     "title": "Herdr: One terminal to rule them all",
@@ -142,14 +150,6 @@
     "published": "2026-07-02T04:28:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48756578\">Comments</a>"
-  },
-  {
-    "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
-    "link": "https://cccg.ca/proceedings/2008/paper34full.pdf",
-    "source": "Hacker News",
-    "published": "2026-07-01T23:26:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48754476\">Comments</a>"
   },
   {
     "title": "IEEE Rolls Out Large Language Models Training Course",
