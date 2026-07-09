@@ -1,5 +1,13 @@
 [
   {
+    "title": "Show HN: Rubiks Cube Solver",
+    "link": "https://speedcube.com.br/",
+    "source": "Hacker News",
+    "published": "2026-07-09T21:09:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48852403\">Comments</a>"
+  },
+  {
     "title": "GLM 5.2 is nearly as accurate as a human book keeper",
     "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
     "source": "Hacker News",
@@ -16,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48850372\">Comments</a>"
   },
   {
-    "title": "How should group chats work in decentralized systems?",
-    "link": "https://marindedic.com/groups/",
-    "source": "Hacker News",
-    "published": "2026-07-09T17:15:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849258\">Comments</a>"
-  },
-  {
     "title": "GPT-5.6",
     "link": "https://openai.com/index/gpt-5-6/",
     "source": "Hacker News",
     "published": "2026-07-09T17:04:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48849066\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT Work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "source": "Hacker News",
-    "published": "2026-07-09T17:03:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849059\">Comments</a>"
   },
   {
     "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -72,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48847511\">Comments</a>"
   },
   {
-    "title": "Opinionated and Easy Pi.dev Configuration",
-    "link": "https://lazypi.org/",
-    "source": "Hacker News",
-    "published": "2026-07-09T15:19:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847407\">Comments</a>"
-  },
-  {
     "title": "TLS certificates for internal services done right",
     "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
     "source": "Hacker News",
     "published": "2026-07-09T14:57:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48846995\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Analog Watch",
-    "link": "https://analog.watch",
-    "source": "Hacker News",
-    "published": "2026-07-09T14:30:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846510\">Comments</a>"
   },
   {
     "title": "No leap second will be introduced at the end of December 2026",
@@ -120,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48845442\">Comments</a>"
   },
   {
+    "title": "A road to Lisp: Why Lisp",
+    "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "source": "Hacker News",
+    "published": "2026-07-09T13:06:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845209\">Comments</a>"
+  },
+  {
     "title": "Show HN: 18 Words",
     "link": "https://18words.com/",
     "source": "Hacker News",
@@ -136,15 +120,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48843923\">Comments</a>"
   },
   {
-    "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
-    "link": "https://tomesphere.com/atlas",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "link": "https://github.com/JustVugg/colibri",
     "source": "Hacker News",
-    "published": "2026-07-09T02:23:24+00:00",
+    "published": "2026-07-09T08:05:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48840207\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48842459\">Comments</a>"
   },
   {
-    "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "link": "https://github.com/malisper/pgrust",
+    "source": "Hacker News",
+    "published": "2026-07-09T06:18:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841676\">Comments</a>"
+  },
+  {
+    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
     "link": "https://nahla.dev/blog/waitfree_queue/",
     "source": "Hacker News",
     "published": "2026-07-06T19:46:30+00:00",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48809574\">Comments</a>"
   },
   {
-    "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
-    "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "I Changed My Name",
+    "link": "https://robida.net/entries/2026/07/01/i-changed-my-name",
     "source": "Hacker News",
-    "published": "2026-07-06T10:53:51+00:00",
+    "published": "2026-07-06T14:15:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48803004\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48804935\">Comments</a>"
+  },
+  {
+    "title": "Train sim created by just one person is being called the best ever made",
+    "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+    "source": "Hacker News",
+    "published": "2026-07-05T08:40:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48792383\">Comments</a>"
   }
 ]
