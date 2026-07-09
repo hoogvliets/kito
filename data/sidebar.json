@@ -1,43 +1,131 @@
 [
   {
-    "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-    "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+    "title": "GPT-5.6",
+    "link": "https://openai.com/index/gpt-5-6/",
     "source": "Hacker News",
-    "published": "2026-07-09T13:29:31+00:00",
+    "published": "2026-07-09T17:04:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845514\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849066\">Comments</a>"
   },
   {
-    "title": "Syria's solar boom is redefining Middle East's energy model",
-    "link": "https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/",
+    "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
     "source": "Hacker News",
-    "published": "2026-07-09T13:27:05+00:00",
+    "published": "2026-07-09T17:00:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845470\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849011\">Comments</a>"
   },
   {
-    "title": "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
+    "title": "AI content is everywhere on social media, especially LinkedIn",
+    "link": "https://www.pangram.com/blog/ai-in-your-feed",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:50:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847940\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Context.dev (YC S26) \u2013 API to get structured data from any website",
+    "link": "https://www.context.dev",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:28:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847562\">Comments</a>"
+  },
+  {
+    "title": "Hy3",
+    "link": "https://hy.tencent.com/research/hy3",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:27:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847552\">Comments</a>"
+  },
+  {
+    "title": "How to Write an Email",
+    "link": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:26:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847536\">Comments</a>"
+  },
+  {
+    "title": "A possible future for Damn Interesting",
+    "link": "https://www.damninteresting.com/a-possible-future/",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:25:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847511\">Comments</a>"
+  },
+  {
+    "title": "Opinionated and Easy Pi.dev Configuration",
+    "link": "https://lazypi.org/",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:19:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847407\">Comments</a>"
+  },
+  {
+    "title": "Coordination Without Consolidation: On Systems of States [pdf]",
+    "link": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-09T15:19:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847405\">Comments</a>"
+  },
+  {
+    "title": "TLS certificates for internal services done right",
+    "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:57:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846995\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Analog Watch",
+    "link": "https://analog.watch",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:30:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846510\">Comments</a>"
+  },
+  {
+    "title": "New open access book on history of computers and politics",
+    "link": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:20:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846332\">Comments</a>"
+  },
+  {
+    "title": "PostHog Open Sourced",
+    "link": "https://github.com/PostHog/posthog-foss",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:17:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846293\">Comments</a>"
+  },
+  {
+    "title": "No leap second will be introduced at the end of December 2026",
+    "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:16:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846281\">Comments</a>"
+  },
+  {
+    "title": "Muse Spark 1.1",
+    "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "source": "Hacker News",
+    "published": "2026-07-09T14:10:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846184\">Comments</a>"
+  },
+  {
+    "title": "The glass backbone: Why the Army's logistics will break in the next war",
     "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
     "source": "Hacker News",
     "published": "2026-07-09T13:24:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48845442\">Comments</a>"
-  },
-  {
-    "title": "Show HN: FableCut \u2013 A browser video editor AI agents can drive (zero deps)",
-    "link": "https://github.com/ronak-create/FableCut",
-    "source": "Hacker News",
-    "published": "2026-07-09T13:23:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845422\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Arcaide \u2013 Explore code with multi-level call graphs",
-    "link": "https://arcaide.foo",
-    "source": "Hacker News",
-    "published": "2026-07-09T12:59:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845142\">Comments</a>"
   },
   {
     "title": "Show HN: 18 Words",
@@ -48,23 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48845049\">Comments</a>"
   },
   {
-    "title": "How Version Control Will Evolve for the Agent Boom",
-    "link": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
-    "source": "Hacker News",
-    "published": "2026-07-09T12:20:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48844709\">Comments</a>"
-  },
-  {
-    "title": "TrueBiz (YC S22) \u2013 Senior Software Engineer \u2013 Remote (US) \u2013 Full-Time",
-    "link": "https://news.ycombinator.com/item?id=48844517",
-    "source": "Hacker News",
-    "published": "2026-07-09T12:01:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48844517\">Comments</a>"
-  },
-  {
-    "title": "EU Parliament greenlights Chat Control 1.0 \u2013 Breyer: \"Our children lose out\"",
+    "title": "EU Parliament greenlights Chat Control 1.0",
     "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "source": "Hacker News",
     "published": "2026-07-09T11:03:54+00:00",
@@ -72,84 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48843923\">Comments</a>"
   },
   {
-    "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-    "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+    "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+    "link": "https://nahla.dev/blog/waitfree_queue/",
     "source": "Hacker News",
-    "published": "2026-07-09T10:02:33+00:00",
+    "published": "2026-07-06T19:46:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48843438\">Comments</a>"
-  },
-  {
-    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-    "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-    "source": "Hacker News",
-    "published": "2026-07-09T08:22:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48842611\">Comments</a>"
-  },
-  {
-    "title": "How Donkey Kong Toppled Atari",
-    "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
-    "source": "Hacker News",
-    "published": "2026-07-09T05:34:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841385\">Comments</a>"
-  },
-  {
-    "title": "Spider venom kills varroa mites without harming honeybees",
-    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-    "source": "Hacker News",
-    "published": "2026-07-09T05:14:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841259\">Comments</a>"
-  },
-  {
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "source": "Hacker News",
-    "published": "2026-07-08T23:37:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48838876\">Comments</a>"
-  },
-  {
-    "title": "I Built the Only 2026 WWII Jeep",
-    "link": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-    "source": "Hacker News",
-    "published": "2026-07-07T05:38:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48814023\">Comments</a>"
-  },
-  {
-    "title": "Vacuum at the Page Level",
-    "link": "https://boringsql.com/posts/vacuum-at-the-page-level/",
-    "source": "Hacker News",
-    "published": "2026-07-06T10:02:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48802660\">Comments</a>"
-  },
-  {
-    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-    "link": "https://nexte.st/",
-    "source": "Hacker News",
-    "published": "2026-07-06T04:19:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48800596\">Comments</a>"
-  },
-  {
-    "title": "Lead Mines of Galena, Kansas",
-    "link": "https://dustbowlhighway.com/kansas/lead-mines/",
-    "source": "Hacker News",
-    "published": "2026-07-04T12:15:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48784857\">Comments</a>"
-  },
-  {
-    "title": "In-browser programmable robot simulator",
-    "link": "https://bittlex-sim.petoi.com/",
-    "source": "Hacker News",
-    "published": "2026-07-04T09:41:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48784126\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48809574\">Comments</a>"
   },
   {
     "title": "Meta reuses old RAM in new servers with custom bridge chip",
