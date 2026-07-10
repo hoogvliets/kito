@@ -1,11 +1,27 @@
 [
   {
-    "title": "Show HN: I built a free app for New Yorkers to save money on groceries",
-    "link": "https://sbnyc.app/",
+    "title": "Build your own vulnerability harness",
+    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
     "source": "Hacker News",
-    "published": "2026-07-10T00:17:36+00:00",
+    "published": "2026-07-10T01:28:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854224\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854681\">Comments</a>"
+  },
+  {
+    "title": "Study: \"Mommy, do you love your phone more than me?\"",
+    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+    "source": "Hacker News",
+    "published": "2026-07-10T00:20:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854247\">Comments</a>"
+  },
+  {
+    "title": "Why American ambulance rides are so expensive",
+    "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+    "source": "Hacker News",
+    "published": "2026-07-09T22:15:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48853091\">Comments</a>"
   },
   {
     "title": "Building a real-time AI tutor for 5-year-olds",
@@ -32,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48849066\">Comments</a>"
   },
   {
-    "title": "Launch HN: Context.dev (YC S26) \u2013 API to get structured data from any website",
-    "link": "https://www.context.dev",
-    "source": "Hacker News",
-    "published": "2026-07-09T15:28:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847562\">Comments</a>"
-  },
-  {
     "title": "Hy3",
     "link": "https://hy.tencent.com/research/hy3",
     "source": "Hacker News",
@@ -48,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48847552\">Comments</a>"
   },
   {
-    "title": "A possible future for Damn Interesting",
-    "link": "https://www.damninteresting.com/a-possible-future/",
-    "source": "Hacker News",
-    "published": "2026-07-09T15:25:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847511\">Comments</a>"
-  },
-  {
     "title": "No leap second will be introduced at the end of December 2026",
     "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
     "source": "Hacker News",
     "published": "2026-07-09T14:16:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48846281\">Comments</a>"
-  },
-  {
-    "title": "Muse Spark 1.1",
-    "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "source": "Hacker News",
-    "published": "2026-07-09T14:10:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846184\">Comments</a>"
   },
   {
     "title": "The glass backbone: Why the Army's logistics will break in the next war",
@@ -120,12 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48841676\">Comments</a>"
   },
   {
-    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-    "link": "https://nahla.dev/blog/waitfree_queue/",
+    "title": "Common prefix skipping, adaptive sort",
+    "link": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
     "source": "Hacker News",
-    "published": "2026-07-06T19:46:30+00:00",
+    "published": "2026-07-06T20:40:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48809574\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48810218\">Comments</a>"
+  },
+  {
+    "title": "Life with Hazard Ratios",
+    "link": "https://dynomight.net/hazard-ratios/",
+    "source": "Hacker News",
+    "published": "2026-07-06T15:45:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48806305\">Comments</a>"
+  },
+  {
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "source": "Hacker News",
+    "published": "2026-07-06T14:59:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805598\">Comments</a>"
   },
   {
     "title": "Triple Dragon Fractal (2020)",
@@ -134,14 +142,6 @@
     "published": "2026-07-06T13:36:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48804400\">Comments</a>"
-  },
-  {
-    "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
-    "link": "https://github.com/aatishb/patterncollider",
-    "source": "Hacker News",
-    "published": "2026-07-06T05:26:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48800930\">Comments</a>"
   },
   {
     "title": "Train sim created by just one person is being called the best ever made",
