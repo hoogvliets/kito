@@ -1,11 +1,59 @@
 [
   {
+    "title": "Write code like a human will maintain it",
+    "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "source": "Hacker News",
+    "published": "2026-07-10T13:33:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859701\">Comments</a>"
+  },
+  {
+    "title": "How do you use Vim in the era of AI?",
+    "link": "https://news.ycombinator.com/item?id=48859439",
+    "source": "Hacker News",
+    "published": "2026-07-10T13:11:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859439\">Comments</a>"
+  },
+  {
+    "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+    "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+    "source": "Hacker News",
+    "published": "2026-07-10T12:00:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48858745\">Comments</a>"
+  },
+  {
+    "title": "Late Bronze Age Collapse",
+    "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "source": "Hacker News",
+    "published": "2026-07-10T11:59:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48858737\">Comments</a>"
+  },
+  {
     "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
     "link": "https://ec.europa.eu/commission/presscorner/home/en",
     "source": "Hacker News",
     "published": "2026-07-10T11:00:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48858292\">Comments</a>"
+  },
+  {
+    "title": "Good Tools Are Invisible",
+    "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "source": "Hacker News",
+    "published": "2026-07-10T10:32:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48858121\">Comments</a>"
+  },
+  {
+    "title": "Java 27: What's New?",
+    "link": "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/",
+    "source": "Hacker News",
+    "published": "2026-07-10T10:08:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48857962\">Comments</a>"
   },
   {
     "title": "In Emacs, Everything Looks Like a Service",
@@ -22,22 +70,6 @@
     "published": "2026-07-10T07:39:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48856904\">Comments</a>"
-  },
-  {
-    "title": "Parental device use and the adolescent-caregiver attachment bond",
-    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-    "source": "Hacker News",
-    "published": "2026-07-10T00:20:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854247\">Comments</a>"
-  },
-  {
-    "title": "Building a real-time AI tutor for 5-year-olds",
-    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "source": "Hacker News",
-    "published": "2026-07-09T20:51:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48852199\">Comments</a>"
   },
   {
     "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
@@ -62,30 +94,6 @@
     "published": "2026-07-09T15:27:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48847552\">Comments</a>"
-  },
-  {
-    "title": "No leap second will be introduced at the end of December 2026",
-    "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-    "source": "Hacker News",
-    "published": "2026-07-09T14:16:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846281\">Comments</a>"
-  },
-  {
-    "title": "The glass backbone: Why the Army's logistics will break in the next war",
-    "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "source": "Hacker News",
-    "published": "2026-07-09T13:24:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845442\">Comments</a>"
-  },
-  {
-    "title": "A road to Lisp: Why Lisp",
-    "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
-    "source": "Hacker News",
-    "published": "2026-07-09T13:06:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845209\">Comments</a>"
   },
   {
     "title": "Show HN: 18 Words",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48841676\">Comments</a>"
   },
   {
-    "title": "Common prefix skipping, adaptive sort",
-    "link": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-    "source": "Hacker News",
-    "published": "2026-07-06T20:40:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48810218\">Comments</a>"
-  },
-  {
     "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
     "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48792383\">Comments</a>"
   },
   {
-    "title": "My Story of 3D Realms / Apogee Part I (2020)",
-    "link": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+    "link": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
     "source": "Hacker News",
-    "published": "2026-07-02T06:21:49+00:00",
+    "published": "2026-07-03T08:43:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48757291\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772528\">Comments</a>"
   }
 ]
