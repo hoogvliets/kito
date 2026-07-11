@@ -1,11 +1,59 @@
 [
   {
+    "title": "We scaled PgBouncer to 4x throughput",
+    "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "source": "Hacker News",
+    "published": "2026-07-11T15:28:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872874\">Comments</a>"
+  },
+  {
+    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+    "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-11T13:33:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48871932\">Comments</a>"
+  },
+  {
     "title": "Networking and the Internet, from First Principles",
     "link": "https://fazamhd.com/mental-models/networking/",
     "source": "Hacker News",
     "published": "2026-07-11T12:30:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48871470\">Comments</a>"
+  },
+  {
+    "title": "FCC approves test of space mirror to light night sky",
+    "link": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+    "source": "Hacker News",
+    "published": "2026-07-11T12:12:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48871367\">Comments</a>"
+  },
+  {
+    "title": "Your code is fast \u2013 if you're lucky",
+    "link": "https://tiki.li/blog/lucky_code.html",
+    "source": "Hacker News",
+    "published": "2026-07-11T10:50:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48870799\">Comments</a>"
+  },
+  {
+    "title": "Ghost Font: A font that humans can read but AI cannot",
+    "link": "https://www.mixfont.com/ghost-font",
+    "source": "Hacker News",
+    "published": "2026-07-11T09:36:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48870381\">Comments</a>"
+  },
+  {
+    "title": "Why it's so difficult to produce American-made medical gloves",
+    "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+    "source": "Hacker News",
+    "published": "2026-07-11T09:16:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48870258\">Comments</a>"
   },
   {
     "title": "The vintage beauty of Soviet control rooms (2018)",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48863064\">Comments</a>"
   },
   {
-    "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
-    "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "source": "Hacker News",
-    "published": "2026-07-10T16:48:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48862365\">Comments</a>"
-  },
-  {
     "title": "QuadRF can spot drones and see WiFi through my wall",
     "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "source": "Hacker News",
     "published": "2026-07-10T15:59:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48861717\">Comments</a>"
-  },
-  {
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-    "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "source": "Hacker News",
-    "published": "2026-07-10T13:30:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859673\">Comments</a>"
-  },
-  {
-    "title": "Late Bronze Age Collapse",
-    "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "source": "Hacker News",
-    "published": "2026-07-10T11:59:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48858737\">Comments</a>"
   },
   {
     "title": "Good Tools Are Invisible",
@@ -96,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48848425\">Comments</a>"
   },
   {
+    "title": "Book: RISC-V System-on-Chip Design",
+    "link": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+    "source": "Hacker News",
+    "published": "2026-07-09T05:28:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841348\">Comments</a>"
+  },
+  {
     "title": "Otary \u2013 Image and Geometry Python Library Now Has Tutorials",
     "link": "https://alexandrepoupeau.com/otary/learn/",
     "source": "Hacker News",
@@ -112,22 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48825612\">Comments</a>"
   },
   {
-    "title": "Silent speech with ultrasound",
-    "link": "https://alephneuro.com/blog/silent-speech",
-    "source": "Hacker News",
-    "published": "2026-07-07T23:06:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825216\">Comments</a>"
-  },
-  {
-    "title": "Show HN: HTMLDrive \u2013 serve HTML files from your Google Drive",
-    "link": "https://html-drive.com",
-    "source": "Hacker News",
-    "published": "2026-07-07T17:40:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48821052\">Comments</a>"
-  },
-  {
     "title": "An iroh powered smart fan",
     "link": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48817539\">Comments</a>"
   },
   {
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-    "link": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "source": "Hacker News",
-    "published": "2026-07-07T06:06:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48814170\">Comments</a>"
-  },
-  {
     "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
     "link": "https://questdb.com/blog/jvm-jit-known-bits/",
     "source": "Hacker News",
     "published": "2026-07-05T22:33:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48798566\">Comments</a>"
-  },
-  {
-    "title": "Combustion engine web-based simulator",
-    "link": "https://combustionlab.net",
-    "source": "Hacker News",
-    "published": "2026-07-05T17:11:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48795900\">Comments</a>"
   }
 ]
