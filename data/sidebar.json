@@ -1,6 +1,22 @@
 [
   {
-    "title": "How to Hide from Killer Drones",
+    "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+    "link": "https://antjs.org",
+    "source": "Hacker News",
+    "published": "2026-07-11T20:07:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48875377\">Comments</a>"
+  },
+  {
+    "title": "The Chinese Voice Actor Forced to Prove He's Human",
+    "link": "https://www.sixthtone.com/news/1018753",
+    "source": "Hacker News",
+    "published": "2026-07-11T19:46:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48875153\">Comments</a>"
+  },
+  {
+    "title": "How to hide from killer drones",
     "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
     "source": "Hacker News",
     "published": "2026-07-11T18:22:02+00:00",
@@ -8,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48874357\">Comments</a>"
   },
   {
-    "title": "AI 2040 and the Cult of Intelligence",
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "title": "ZeroFS vs. Amazon S3 Files",
+    "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
     "source": "Hacker News",
-    "published": "2026-07-11T18:04:01+00:00",
+    "published": "2026-07-11T18:15:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874200\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874297\">Comments</a>"
   },
   {
     "title": "Who manages the agents?",
@@ -24,36 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48874182\">Comments</a>"
   },
   {
-    "title": "Prefer Strict Tables in SQLite",
+    "title": "Prefer strict tables in SQLite",
     "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
     "source": "Hacker News",
     "published": "2026-07-11T17:33:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48873940\">Comments</a>"
-  },
-  {
-    "title": "BLISS",
-    "link": "https://en.wikipedia.org/wiki/BLISS",
-    "source": "Hacker News",
-    "published": "2026-07-11T17:30:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873910\">Comments</a>"
-  },
-  {
-    "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-    "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-    "source": "Hacker News",
-    "published": "2026-07-11T17:27:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873893\">Comments</a>"
-  },
-  {
-    "title": "Reverse centaurs are the answer to the AI paradox",
-    "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-    "source": "Hacker News",
-    "published": "2026-07-11T17:23:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873855\">Comments</a>"
   },
   {
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
@@ -80,12 +72,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48873665\">Comments</a>"
   },
   {
-    "title": "Modern Decor May Be Straining People's Brains",
-    "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Show HN: Orbit \u2013 AR satellite tracker, watch 15k+ objects",
+    "link": "https://nagylukas.github.io/orbit.html",
     "source": "Hacker News",
-    "published": "2026-07-11T16:28:48+00:00",
+    "published": "2026-07-11T16:39:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873424\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873501\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Earth Game \u2013 An offline CLI for turning life goals into quests",
+    "link": "https://github.com/skorotkiewicz/earth-game",
+    "source": "Hacker News",
+    "published": "2026-07-11T16:37:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873486\">Comments</a>"
+  },
+  {
+    "title": "UPI: Anatomy of a Payment Transaction",
+    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "source": "Hacker News",
+    "published": "2026-07-11T16:33:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873457\">Comments</a>"
   },
   {
     "title": "We scaled PgBouncer to 4x throughput",
@@ -128,35 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48865903\">Comments</a>"
   },
   {
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "source": "Hacker News",
-    "published": "2026-07-10T15:59:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861717\">Comments</a>"
-  },
-  {
-    "title": "Book: RISC-V System-on-Chip Design",
-    "link": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
-    "source": "Hacker News",
-    "published": "2026-07-09T05:28:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841348\">Comments</a>"
-  },
-  {
-    "title": "Google Search lets creators know more about their reach",
-    "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-    "source": "Hacker News",
-    "published": "2026-07-07T23:51:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48825612\">Comments</a>"
-  },
-  {
     "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
     "link": "https://amber-lang.com/",
     "source": "Hacker News",
     "published": "2026-07-07T19:22:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48822441\">Comments</a>"
+  },
+  {
+    "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+    "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+    "source": "Hacker News",
+    "published": "2026-07-07T16:48:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820361\">Comments</a>"
+  },
+  {
+    "title": "Lost and Found",
+    "link": "https://walzr.com/lost-and-found",
+    "source": "Hacker News",
+    "published": "2026-07-06T01:06:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48799624\">Comments</a>"
   }
 ]
