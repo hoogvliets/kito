@@ -1,5 +1,53 @@
 [
   {
+    "title": "Why Write Code in 2026",
+    "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+    "source": "Hacker News",
+    "published": "2026-07-12T04:15:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48878195\">Comments</a>"
+  },
+  {
+    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+    "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "source": "Hacker News",
+    "published": "2026-07-12T02:13:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877668\">Comments</a>"
+  },
+  {
+    "title": "The Energetic Costs of Cellular Computation (2012)",
+    "link": "https://arxiv.org/abs/1203.5426",
+    "source": "Hacker News",
+    "published": "2026-07-12T01:59:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877613\">Comments</a>"
+  },
+  {
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "source": "Hacker News",
+    "published": "2026-07-12T01:09:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877371\">Comments</a>"
+  },
+  {
+    "title": "A Erlang style pure Scheme Webserver and further",
+    "link": "https://igropyr.com",
+    "source": "Hacker News",
+    "published": "2026-07-12T01:03:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877344\">Comments</a>"
+  },
+  {
+    "title": "A pure scheme web programming tool",
+    "link": "https://goeteia.dev",
+    "source": "Hacker News",
+    "published": "2026-07-12T00:57:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877314\">Comments</a>"
+  },
+  {
     "title": "A dock that wakes up reliably",
     "link": "https://fabiensanglard.net/tb4/index.html",
     "source": "Hacker News",
@@ -8,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48877269\">Comments</a>"
   },
   {
-    "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
-    "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+    "link": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
     "source": "Hacker News",
-    "published": "2026-07-11T23:15:06+00:00",
+    "published": "2026-07-12T00:35:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48876741\">Comments</a>"
-  },
-  {
-    "title": "Weightlifting beats running for blood sugar control, researchers find",
-    "link": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-    "source": "Hacker News",
-    "published": "2026-07-11T22:49:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48876593\">Comments</a>"
-  },
-  {
-    "title": "The fine print that follows you out the door: non-compete clauses are spreading",
-    "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
-    "source": "Hacker News",
-    "published": "2026-07-11T22:48:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48876578\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877192\">Comments</a>"
   },
   {
     "title": "Mesh LLM: distributed AI computing on iroh",
@@ -56,44 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48875377\">Comments</a>"
   },
   {
-    "title": "ZeroFS vs. Amazon S3 Files",
-    "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-    "source": "Hacker News",
-    "published": "2026-07-11T18:15:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874297\">Comments</a>"
-  },
-  {
-    "title": "Prefer strict tables in SQLite",
-    "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "source": "Hacker News",
-    "published": "2026-07-11T17:33:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873940\">Comments</a>"
-  },
-  {
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
     "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
     "source": "Hacker News",
     "published": "2026-07-11T17:21:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48873836\">Comments</a>"
-  },
-  {
-    "title": "Female US rower completes historic solo journey from California to Hawaii",
-    "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-    "source": "Hacker News",
-    "published": "2026-07-11T17:03:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873692\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Orbit \u2013 AR satellite tracker, watch 15k+ objects",
-    "link": "https://nagylukas.github.io/orbit.html",
-    "source": "Hacker News",
-    "published": "2026-07-11T16:39:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873501\">Comments</a>"
   },
   {
     "title": "UPI: Anatomy of a Payment Transaction",
@@ -112,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48872874\">Comments</a>"
   },
   {
-    "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-    "source": "Hacker News",
-    "published": "2026-07-11T15:26:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872858\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-    "link": "https://shipthatcode.com",
-    "source": "Hacker News",
-    "published": "2026-07-11T13:40:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48871973\">Comments</a>"
-  },
-  {
     "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
     "link": "https://arxiv.org/abs/2607.07267",
     "source": "Hacker News",
@@ -136,27 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48849744\">Comments</a>"
   },
   {
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
-    "link": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "link": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
     "source": "Hacker News",
-    "published": "2026-07-09T11:57:34+00:00",
+    "published": "2026-07-09T14:10:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48844476\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48846177\">Comments</a>"
   },
   {
-    "title": "Optimization Solver as a Service",
-    "link": "https://www.quicopt.com/developer/getting-started/",
+    "title": "Jellyfish Undersea Roundabout",
+    "link": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
     "source": "Hacker News",
-    "published": "2026-07-08T11:44:25+00:00",
+    "published": "2026-07-09T02:17:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48830664\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48840152\">Comments</a>"
   },
   {
-    "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-    "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+    "title": "Text Art Tools",
+    "link": "https://hlnet.notion.site/text-art-tools",
     "source": "Hacker News",
-    "published": "2026-07-07T16:48:48+00:00",
+    "published": "2026-07-08T13:00:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48820361\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48831384\">Comments</a>"
+  },
+  {
+    "title": "An agent in 100 lines of Lisp",
+    "link": "https://thebeach.dev/posts/lisp-agent/",
+    "source": "Hacker News",
+    "published": "2026-07-07T21:21:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48823981\">Comments</a>"
+  },
+  {
+    "title": "EF Core 11 makes your split queries faster",
+    "link": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+    "source": "Hacker News",
+    "published": "2026-07-04T12:57:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48785102\">Comments</a>"
   }
 ]
