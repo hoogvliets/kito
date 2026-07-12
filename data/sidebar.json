@@ -1,11 +1,91 @@
 [
   {
+    "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "source": "Hacker News",
+    "published": "2026-07-12T21:12:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884853\">Comments</a>"
+  },
+  {
+    "title": "Tiny Emulators",
+    "link": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "source": "Hacker News",
+    "published": "2026-07-12T20:23:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884395\">Comments</a>"
+  },
+  {
+    "title": "Irish datacenters now guzzle 23% of the country's electricity",
+    "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+    "source": "Hacker News",
+    "published": "2026-07-12T20:16:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884322\">Comments</a>"
+  },
+  {
+    "title": "Defining new Jax types with hijax",
+    "link": "https://docs.jax.dev/en/latest/hijax_types.html",
+    "source": "Hacker News",
+    "published": "2026-07-12T19:54:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884100\">Comments</a>"
+  },
+  {
+    "title": "Neocities: Create your own free website",
+    "link": "https://neocities.org/",
+    "source": "Hacker News",
+    "published": "2026-07-12T19:49:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884052\">Comments</a>"
+  },
+  {
+    "title": "The One-Step Trap (In AI Research)",
+    "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "source": "Hacker News",
+    "published": "2026-07-12T18:41:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883415\">Comments</a>"
+  },
+  {
+    "title": "I love LLMs, I hate hype",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "source": "Hacker News",
+    "published": "2026-07-12T18:31:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883343\">Comments</a>"
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "source": "Hacker News",
+    "published": "2026-07-12T18:25:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883275\">Comments</a>"
+  },
+  {
+    "title": "I Learned to Read Again",
+    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "source": "Hacker News",
+    "published": "2026-07-12T18:22:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883238\">Comments</a>"
+  },
+  {
     "title": "Against Usefulness",
     "link": "https://www.motivenotes.ai/p/against-usefulness",
     "source": "Hacker News",
     "published": "2026-07-12T17:47:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882956\">Comments</a>"
+  },
+  {
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "source": "Hacker News",
+    "published": "2026-07-12T17:13:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882716\">Comments</a>"
   },
   {
     "title": "LARP \u2013 Revenue infrastructure for serious founders",
@@ -16,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882569\">Comments</a>"
   },
   {
-    "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-    "link": "https://github.com/hasenj/go-shirei/",
-    "source": "Hacker News",
-    "published": "2026-07-12T16:55:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882562\">Comments</a>"
-  },
-  {
     "title": "Automation Without Understanding",
     "link": "https://arxiv.org/abs/2607.06377",
     "source": "Hacker News",
     "published": "2026-07-12T16:54:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882554\">Comments</a>"
-  },
-  {
-    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-    "link": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-    "source": "Hacker News",
-    "published": "2026-07-12T16:05:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882189\">Comments</a>"
   },
   {
     "title": "Why study Diophantine equations?",
@@ -48,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882097\">Comments</a>"
   },
   {
-    "title": "How to Read More Books",
+    "title": "How to read more books",
     "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
     "source": "Hacker News",
     "published": "2026-07-12T15:47:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882056\">Comments</a>"
-  },
-  {
-    "title": "The power of collaboration: How we can reduce traffic congestion",
-    "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-    "source": "Hacker News",
-    "published": "2026-07-12T15:35:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48881967\">Comments</a>"
   },
   {
     "title": "The shingles vaccine may reduce the risk of dementia",
@@ -80,60 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48881830\">Comments</a>"
   },
   {
-    "title": "Autoresearch, Claude and Constrained Optimization",
-    "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-    "source": "Hacker News",
-    "published": "2026-07-12T14:32:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48881498\">Comments</a>"
-  },
-  {
-    "title": "AI boosts research careers but narrow the span of ideas explored: study",
-    "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "source": "Hacker News",
-    "published": "2026-07-12T13:26:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48881043\">Comments</a>"
-  },
-  {
-    "title": "Understanding the Odin Programming Language",
-    "link": "https://odinbook.com/",
-    "source": "Hacker News",
-    "published": "2026-07-12T12:08:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48880499\">Comments</a>"
-  },
-  {
-    "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-    "link": "https://mrbruh.com/motorola/",
-    "source": "Hacker News",
-    "published": "2026-07-12T11:52:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48880406\">Comments</a>"
-  },
-  {
     "title": "Old and new apps, via modern coding agents",
     "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
     "source": "Hacker News",
     "published": "2026-07-12T11:09:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48880170\">Comments</a>"
-  },
-  {
-    "title": "Ghostel.el: Terminal emulator powered by libghostty",
-    "link": "https://dakra.github.io/ghostel/",
-    "source": "Hacker News",
-    "published": "2026-07-12T08:52:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48879504\">Comments</a>"
-  },
-  {
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-    "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "source": "Hacker News",
-    "published": "2026-07-12T01:09:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877371\">Comments</a>"
   },
   {
     "title": "Why write code in 2026",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48861923\">Comments</a>"
   },
   {
-    "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "title": "Deir El-Medina Strikes",
+    "link": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
     "source": "Hacker News",
-    "published": "2026-07-10T00:06:59+00:00",
+    "published": "2026-07-07T19:10:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854168\">Comments</a>"
-  },
-  {
-    "title": "Morphometrics: Introduction to the Analysis of Shape",
-    "link": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-    "source": "Hacker News",
-    "published": "2026-07-05T14:43:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48794665\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48822234\">Comments</a>"
   }
 ]
