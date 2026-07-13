@@ -1,5 +1,69 @@
 [
   {
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "source": "Hacker News",
+    "published": "2026-07-13T16:06:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894752\">Comments</a>"
+  },
+  {
+    "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
+    "source": "Hacker News",
+    "published": "2026-07-13T15:59:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894671\">Comments</a>"
+  },
+  {
+    "title": "DOGE is done. What happened to its records?",
+    "link": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+    "source": "Hacker News",
+    "published": "2026-07-13T15:56:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894641\">Comments</a>"
+  },
+  {
+    "title": "LAPD lets contract with surveillance giant Flock expire",
+    "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+    "source": "Hacker News",
+    "published": "2026-07-13T15:11:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48893947\">Comments</a>"
+  },
+  {
+    "title": "The art and engineering of Sega CD Silpheed",
+    "link": "https://fabiensanglard.net/silpheed/index.html",
+    "source": "Hacker News",
+    "published": "2026-07-13T14:52:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48893639\">Comments</a>"
+  },
+  {
+    "title": "Precursor",
+    "link": "https://blog.cloudflare.com/introducing-precursor/",
+    "source": "Hacker News",
+    "published": "2026-07-13T14:39:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48893446\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+    "link": "https://github.com/clawkwork/clawk",
+    "source": "Hacker News",
+    "published": "2026-07-13T14:02:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892859\">Comments</a>"
+  },
+  {
+    "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+    "link": "https://esologic.com/benchmarking-tesla-gpus/",
+    "source": "Hacker News",
+    "published": "2026-07-13T13:48:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892638\">Comments</a>"
+  },
+  {
     "title": "Grok uploaded my user directory to xAI's servers",
     "link": "https://twitter.com/a_green_being/status/2076598897779020159",
     "source": "Hacker News",
@@ -24,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48891267\">Comments</a>"
   },
   {
-    "title": "An Infuriating Goodbye to Photoshop",
-    "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-    "source": "Hacker News",
-    "published": "2026-07-13T11:46:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891200\">Comments</a>"
-  },
-  {
-    "title": "Control the Ideas, Not the Code",
-    "link": "https://antirez.com/news/169",
-    "source": "Hacker News",
-    "published": "2026-07-13T11:45:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891184\">Comments</a>"
-  },
-  {
     "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
     "link": "https://jivx.com/densha",
     "source": "Hacker News",
     "published": "2026-07-13T11:18:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48890959\">Comments</a>"
-  },
-  {
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-    "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "source": "Hacker News",
-    "published": "2026-07-13T08:39:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>"
   },
   {
     "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
@@ -80,52 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48888331\">Comments</a>"
   },
   {
-    "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-    "link": "https://github.com/schlae/BeavisUltrasound",
+    "title": "Counting ArXiv Delays",
+    "link": "https://fi-le.net/arxiv/",
     "source": "Hacker News",
-    "published": "2026-07-13T05:15:14+00:00",
+    "published": "2026-07-10T04:52:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48888193\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48855881\">Comments</a>"
   },
   {
-    "title": "Designing and assembling my first PCB",
-    "link": "https://vilkeliskis.com/b/2026/0711.html",
+    "title": "Cursed circuits #6: reverse avalanche oscillator",
+    "link": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
     "source": "Hacker News",
-    "published": "2026-07-12T22:56:56+00:00",
+    "published": "2026-07-09T07:00:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48885728\">Comments</a>"
-  },
-  {
-    "title": "Cyberpunk Comics, Manga and Graphic Novels",
-    "link": "https://shellzine.net/cyberpunk-comics/",
-    "source": "Hacker News",
-    "published": "2026-07-12T22:45:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48885643\">Comments</a>"
-  },
-  {
-    "title": "Tiny Emulators",
-    "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-12T20:23:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884395\">Comments</a>"
-  },
-  {
-    "title": "How to read more books",
-    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "source": "Hacker News",
-    "published": "2026-07-12T15:47:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882056\">Comments</a>"
-  },
-  {
-    "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
-    "link": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-    "source": "Hacker News",
-    "published": "2026-07-09T10:45:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48843775\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841962\">Comments</a>"
   },
   {
     "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
@@ -150,13 +158,5 @@
     "published": "2026-07-08T07:05:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48828576\">Comments</a>"
-  },
-  {
-    "title": "So you want to learn physics (second edition, 2021)",
-    "link": "https://www.susanrigetti.com/physics",
-    "source": "Hacker News",
-    "published": "2026-07-08T03:28:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48827126\">Comments</a>"
   }
 ]
