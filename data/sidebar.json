@@ -1,19 +1,35 @@
 [
   {
+    "title": "Quadrupling code performance with a \"useless\" if",
+    "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "source": "Hacker News",
+    "published": "2026-07-13T07:37:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48889148\">Comments</a>"
+  },
+  {
+    "title": "Backtrack-Free Cursive",
+    "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+    "source": "Hacker News",
+    "published": "2026-07-13T06:08:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>"
+  },
+  {
+    "title": "Sam Neill has died",
+    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+    "source": "Hacker News",
+    "published": "2026-07-13T06:02:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48888468\">Comments</a>"
+  },
+  {
     "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
     "link": "https://github.com/schlae/BeavisUltrasound",
     "source": "Hacker News",
     "published": "2026-07-13T05:15:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48888193\">Comments</a>"
-  },
-  {
-    "title": "Count Binface",
-    "link": "https://countbinface.com",
-    "source": "Hacker News",
-    "published": "2026-07-13T04:00:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48887753\">Comments</a>"
   },
   {
     "title": "Ask HN: Add flag for AI-generated articles",
@@ -64,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48884395\">Comments</a>"
   },
   {
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "source": "Hacker News",
-    "published": "2026-07-12T18:25:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883275\">Comments</a>"
-  },
-  {
-    "title": "I Learned to Read Again",
-    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "source": "Hacker News",
-    "published": "2026-07-12T18:22:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883238\">Comments</a>"
-  },
-  {
     "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
     "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
     "source": "Hacker News",
@@ -96,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882569\">Comments</a>"
   },
   {
-    "title": "How we can reduce traffic congestion",
-    "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+    "title": "How to read more books",
+    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
     "source": "Hacker News",
-    "published": "2026-07-12T15:35:36+00:00",
+    "published": "2026-07-12T15:47:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48881967\">Comments</a>"
-  },
-  {
-    "title": "Why write code in 2026",
-    "link": "https://softwaredoug.com/blog/2026/07/09/write-code",
-    "source": "Hacker News",
-    "published": "2026-07-10T16:12:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882056\">Comments</a>"
   },
   {
     "title": "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
@@ -120,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48859526\">Comments</a>"
   },
   {
-    "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "source": "Hacker News",
-    "published": "2026-07-10T00:06:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48854168\">Comments</a>"
-  },
-  {
     "title": "Are you telling me a readonly property is wrecking my performance?",
     "link": "https://shub.club/writings/2026/july/check-your-scrollheight/",
     "source": "Hacker News",
     "published": "2026-07-09T17:59:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48849983\">Comments</a>"
+  },
+  {
+    "title": "Converting colors in JavaScript at 6B operations per second",
+    "link": "https://dkryaklin.com/blog/colordx-gpu",
+    "source": "Hacker News",
+    "published": "2026-07-09T12:04:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48844554\">Comments</a>"
   },
   {
     "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
@@ -150,6 +142,14 @@
     "published": "2026-07-08T13:39:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48831840\">Comments</a>"
+  },
+  {
+    "title": "The social physics of conversation: Communication patterns matter",
+    "link": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "source": "Hacker News",
+    "published": "2026-07-08T07:05:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48828576\">Comments</a>"
   },
   {
     "title": "So you want to learn physics (second edition, 2021)",
