@@ -1,19 +1,59 @@
 [
   {
+    "title": "Grok uploaded my user directory to xAI's servers",
+    "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+    "source": "Hacker News",
+    "published": "2026-07-13T13:39:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892512\">Comments</a>"
+  },
+  {
+    "title": "Grok CLI uploaded the whole home directory to GCS",
+    "link": "https://twitter.com/i/status/2076598897779020159",
+    "source": "Hacker News",
+    "published": "2026-07-13T13:35:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892468\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
+    "link": "https://github.com/floodtide/dom-docx",
+    "source": "Hacker News",
+    "published": "2026-07-13T11:51:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891267\">Comments</a>"
+  },
+  {
+    "title": "An Infuriating Goodbye to Photoshop",
+    "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+    "source": "Hacker News",
+    "published": "2026-07-13T11:46:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891200\">Comments</a>"
+  },
+  {
+    "title": "Control the Ideas, Not the Code",
+    "link": "https://antirez.com/news/169",
+    "source": "Hacker News",
+    "published": "2026-07-13T11:45:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891184\">Comments</a>"
+  },
+  {
+    "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
+    "link": "https://jivx.com/densha",
+    "source": "Hacker News",
+    "published": "2026-07-13T11:18:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48890959\">Comments</a>"
+  },
+  {
     "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
     "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
     "source": "Hacker News",
     "published": "2026-07-13T08:39:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>"
-  },
-  {
-    "title": "Berkshire's $397B Bet Against an Overheated Market",
-    "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-    "source": "Hacker News",
-    "published": "2026-07-13T08:15:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48889429\">Comments</a>"
   },
   {
     "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
@@ -32,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>"
   },
   {
-    "title": "Sam Neill has died",
-    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-    "source": "Hacker News",
-    "published": "2026-07-13T06:02:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48888468\">Comments</a>"
-  },
-  {
     "title": "The Graph That Should Be Front-Page News",
     "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
     "source": "Hacker News",
@@ -54,14 +86,6 @@
     "published": "2026-07-13T05:15:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48888193\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "link": "https://news.ycombinator.com/item?id=48886741",
-    "source": "Hacker News",
-    "published": "2026-07-13T01:24:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48886741\">Comments</a>"
   },
   {
     "title": "Designing and assembling my first PCB",
@@ -80,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48885643\">Comments</a>"
   },
   {
-    "title": "Ask HN: What Are You Working On? (July 2026)",
-    "link": "https://news.ycombinator.com/item?id=48884984",
-    "source": "Hacker News",
-    "published": "2026-07-12T21:26:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884984\">Comments</a>"
-  },
-  {
     "title": "Tiny Emulators",
     "link": "https://floooh.github.io/tiny8bit-preview/index.html",
     "source": "Hacker News",
@@ -96,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48884395\">Comments</a>"
   },
   {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "source": "Hacker News",
-    "published": "2026-07-12T17:13:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882716\">Comments</a>"
-  },
-  {
-    "title": "LARP \u2013 Revenue infrastructure for serious founders",
-    "link": "https://www.larp.website/",
-    "source": "Hacker News",
-    "published": "2026-07-12T16:56:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882569\">Comments</a>"
-  },
-  {
     "title": "How to read more books",
     "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
     "source": "Hacker News",
     "published": "2026-07-12T15:47:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48882056\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Does anyone let AI agents play games just for fun?",
-    "link": "https://news.ycombinator.com/item?id=48848741",
-    "source": "Hacker News",
-    "published": "2026-07-09T16:42:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48848741\">Comments</a>"
   },
   {
     "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
@@ -142,6 +134,14 @@
     "published": "2026-07-08T16:53:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48834309\">Comments</a>"
+  },
+  {
+    "title": "The 'absolute magic' of Morse code that still connects people globally",
+    "link": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+    "source": "Hacker News",
+    "published": "2026-07-08T14:20:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48832329\">Comments</a>"
   },
   {
     "title": "The social physics of conversation: Communication patterns matter",
