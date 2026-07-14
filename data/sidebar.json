@@ -1,11 +1,43 @@
 [
   {
-    "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
-    "link": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+    "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
     "source": "Hacker News",
-    "published": "2026-07-14T05:21:02+00:00",
+    "published": "2026-07-14T08:24:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48902599\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903715\">Comments</a>"
+  },
+  {
+    "title": "Two Case Studies of NaN",
+    "link": "https://sebsite.pw/w/20260709-nan.html",
+    "source": "Hacker News",
+    "published": "2026-07-14T08:22:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903701\">Comments</a>"
+  },
+  {
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "source": "Hacker News",
+    "published": "2026-07-14T06:43:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903082\">Comments</a>"
+  },
+  {
+    "title": "Just Let Me Write Digits",
+    "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+    "source": "Hacker News",
+    "published": "2026-07-14T05:57:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48902791\">Comments</a>"
+  },
+  {
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "source": "Hacker News",
+    "published": "2026-07-14T04:31:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48902320\">Comments</a>"
   },
   {
     "title": "YouTrackDB is a general-use object-oriented graph database",
@@ -14,14 +46,6 @@
     "published": "2026-07-14T03:39:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48902026\">Comments</a>"
-  },
-  {
-    "title": "Our Amish Language",
-    "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-    "source": "Hacker News",
-    "published": "2026-07-14T02:40:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48901645\">Comments</a>"
   },
   {
     "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -48,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48901356\">Comments</a>"
   },
   {
-    "title": "What will be left for us to work on?",
-    "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-    "source": "Hacker News",
-    "published": "2026-07-14T01:44:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48901292\">Comments</a>"
-  },
-  {
     "title": "Is x86 ready to ACE it?",
     "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
     "source": "Hacker News",
@@ -80,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48901126\">Comments</a>"
   },
   {
-    "title": "The Git history command deserves more attention",
+    "title": "The git history command",
     "link": "https://lalitm.com/post/git-history/",
     "source": "Hacker News",
     "published": "2026-07-14T00:57:11+00:00",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48900191\">Comments</a>"
   },
   {
-    "title": "The infinite scroll may become endangered if controversial Calif. law passes",
-    "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "source": "Hacker News",
-    "published": "2026-07-13T18:53:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48897104\">Comments</a>"
-  },
-  {
     "title": "Building and shipping Mac and iOS apps without opening Xcode",
     "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "source": "Hacker News",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48896665\">Comments</a>"
   },
   {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "title": "Zero Knowledge Tolstoyan Art",
+    "link": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
     "source": "Hacker News",
-    "published": "2026-07-13T16:06:08+00:00",
+    "published": "2026-07-11T15:38:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894752\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872965\">Comments</a>"
   },
   {
     "title": "How to build a circular LCD clock",
@@ -128,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48872833\">Comments</a>"
   },
   {
-    "title": "Jektex 0.2.0 \u2013 A Jekyll plugin for LaTeX rendering is now ~10x faster",
-    "link": "https://github.com/yagarea/jektex",
-    "source": "Hacker News",
-    "published": "2026-07-11T15:19:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872791\">Comments</a>"
-  },
-  {
-    "title": "Two Case Studies of NaN",
-    "link": "https://sebsite.pw/w/20260709-nan.html",
-    "source": "Hacker News",
-    "published": "2026-07-10T02:27:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48855045\">Comments</a>"
-  },
-  {
     "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
     "link": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48853146\">Comments</a>"
   },
   {
-    "title": "Writing a bindless GPU abstraction layer",
-    "link": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+    "title": "Notable Knot Index (2016)",
+    "link": "https://knots.neocities.org/knotindex",
     "source": "Hacker News",
-    "published": "2026-07-09T14:00:19+00:00",
+    "published": "2026-07-09T13:30:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845999\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48845527\">Comments</a>"
+  },
+  {
+    "title": "Understanding the Go Runtime: Profiling",
+    "link": "https://internals-for-interns.com/posts/go-runtime-profiling/",
+    "source": "Hacker News",
+    "published": "2026-07-08T03:35:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48827176\">Comments</a>"
   }
 ]
