@@ -1,5 +1,37 @@
 [
   {
+    "title": "What did SFFA vs. Harvard reveal about admissions?",
+    "link": "https://sorting-machine.pages.dev/",
+    "source": "Hacker News",
+    "published": "2026-07-14T00:26:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48900796\">Comments</a>"
+  },
+  {
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+    "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+    "source": "Hacker News",
+    "published": "2026-07-13T23:39:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48900432\">Comments</a>"
+  },
+  {
+    "title": "An Englishwoman who sketched India before photography took hold",
+    "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+    "source": "Hacker News",
+    "published": "2026-07-13T23:12:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48900191\">Comments</a>"
+  },
+  {
+    "title": "Mawlynnong, India, transformed by tourism, bans visitors on Sundays",
+    "link": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+    "source": "Hacker News",
+    "published": "2026-07-13T22:19:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48899672\">Comments</a>"
+  },
+  {
     "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
     "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
     "source": "Hacker News",
@@ -16,15 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48898154\">Comments</a>"
   },
   {
-    "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-    "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
-    "source": "Hacker News",
-    "published": "2026-07-13T20:11:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48898134\">Comments</a>"
-  },
-  {
-    "title": "Samsung will delete your health data if you don't let them use it to train AI",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
     "link": "https://neow.in/cWsyMTV3",
     "source": "Hacker News",
     "published": "2026-07-13T20:01:43+00:00",
@@ -40,8 +64,8 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48897975\">Comments</a>"
   },
   {
-    "title": "Climate.gov was destroyed. Open data saved it",
-    "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+    "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+    "link": "https://19thnews.org/2026/07/noaa-climate-data-website/",
     "source": "Hacker News",
     "published": "2026-07-13T19:57:55+00:00",
     "author": "Hacker News",
@@ -64,31 +88,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48897329\">Comments</a>"
   },
   {
-    "title": "Thunderbird Desktop settings research: what we learned from your feedback",
-    "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
+    "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
     "source": "Hacker News",
-    "published": "2026-07-13T18:33:47+00:00",
+    "published": "2026-07-13T18:53:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896818\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48897104\">Comments</a>"
   },
   {
-    "title": "The real prices of frontier models. Tokens * Price, right?",
-    "link": "https://playcode.io/blog/real-price-of-frontier-models",
-    "source": "Hacker News",
-    "published": "2026-07-13T18:32:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896800\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
-    "link": "https://nobie.com",
-    "source": "Hacker News",
-    "published": "2026-07-13T18:26:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896703\">Comments</a>"
-  },
-  {
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+    "title": "Building and shipping Mac and iOS apps without opening Xcode",
     "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "source": "Hacker News",
     "published": "2026-07-13T18:22:16+00:00",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48894752\">Comments</a>"
   },
   {
-    "title": "LAPD lets contract with surveillance giant Flock expire",
-    "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "link": "https://github.com/jbwinters/jacquard-lang",
     "source": "Hacker News",
-    "published": "2026-07-13T15:11:50+00:00",
+    "published": "2026-07-13T15:56:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48893947\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894630\">Comments</a>"
   },
   {
     "title": "The art and engineering of Sega CD Silpheed",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48890959\">Comments</a>"
   },
   {
-    "title": "The Origins of Heikki's Garden of Flowers",
-    "link": "https://garden-of-flowers.heikkilotvonen.com/?essay",
-    "source": "Hacker News",
-    "published": "2026-07-11T03:24:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48868417\">Comments</a>"
-  },
-  {
-    "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
-    "link": "https://humansand.ai/blog/nvfp4-rl",
-    "source": "Hacker News",
-    "published": "2026-07-10T23:04:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48866461\">Comments</a>"
-  },
-  {
     "title": "Ancient Roman Board Game",
     "link": "https://ludus-coriovalli.web.app/",
     "source": "Hacker News",
     "published": "2026-07-09T20:47:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48852159\">Comments</a>"
+  },
+  {
+    "title": "N+1",
+    "link": "https://www.woman-of-letters.com/p/n1",
+    "source": "Hacker News",
+    "published": "2026-07-09T19:43:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48851412\">Comments</a>"
   }
 ]
