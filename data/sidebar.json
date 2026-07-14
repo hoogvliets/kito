@@ -1,6 +1,14 @@
 [
   {
-    "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "source": "Hacker News",
+    "published": "2026-07-14T17:58:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48910676\">Comments</a>"
+  },
+  {
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
     "link": "https://prismml.com/news/bonsai-27b",
     "source": "Hacker News",
     "published": "2026-07-14T17:50:48+00:00",
@@ -22,14 +30,6 @@
     "published": "2026-07-14T16:57:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48909785\">Comments</a>"
-  },
-  {
-    "title": "S&P downgrades Oracle to BBB \u2013 only one notch above junk level",
-    "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-    "source": "Hacker News",
-    "published": "2026-07-14T16:56:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909768\">Comments</a>"
   },
   {
     "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
@@ -56,6 +56,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48908271\">Comments</a>"
   },
   {
+    "title": "I'm a USB-C Maximalist",
+    "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+    "source": "Hacker News",
+    "published": "2026-07-14T15:20:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908214\">Comments</a>"
+  },
+  {
     "title": "Are we offloading too much of our thinking to AI?",
     "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
     "source": "Hacker News",
@@ -64,20 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48908178\">Comments</a>"
   },
   {
-    "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
-    "link": "https://github.com/Danau5tin/ai-trains-ai",
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
     "source": "Hacker News",
-    "published": "2026-07-14T12:41:25+00:00",
+    "published": "2026-07-14T14:39:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905919\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907672\">Comments</a>"
   },
   {
-    "title": "Beautiful Type Erasure with C++26 Reflection",
-    "link": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "link": "https://gwern.net/guardian-angel",
     "source": "Hacker News",
-    "published": "2026-07-14T12:40:50+00:00",
+    "published": "2026-07-14T12:50:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905914\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48906041\">Comments</a>"
   },
   {
     "title": "How to stop Claude from saying load-bearing",
@@ -96,20 +104,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48905118\">Comments</a>"
   },
   {
-    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "link": "https://twitter.com/demishassabis/status/2076957440109625718",
     "source": "Hacker News",
-    "published": "2026-07-14T08:34:57+00:00",
+    "published": "2026-07-14T09:20:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903777\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48904095\">Comments</a>"
   },
   {
-    "title": "How the FSF sysadmins block botnets with reaction",
-    "link": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+    "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+    "link": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
     "source": "Hacker News",
-    "published": "2026-07-11T23:26:12+00:00",
+    "published": "2026-07-13T02:51:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48876809\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48887276\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
+    "link": "https://github.com/juggler-ai/juggler",
+    "source": "Hacker News",
+    "published": "2026-07-12T18:28:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883305\">Comments</a>"
+  },
+  {
+    "title": "The Second Life of Sanskrit",
+    "link": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+    "source": "Hacker News",
+    "published": "2026-07-11T18:03:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874190\">Comments</a>"
   },
   {
     "title": "The largest available Minecraft world, totalling 15 TB",
@@ -134,29 +158,5 @@
     "published": "2026-07-10T20:45:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48865001\">Comments</a>"
-  },
-  {
-    "title": "Superoptimizer \u2013 A Look at the Smallest Program",
-    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-    "source": "Hacker News",
-    "published": "2026-07-10T18:15:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863336\">Comments</a>"
-  },
-  {
-    "title": "Paxos Made Simple (2001)[pdf]",
-    "link": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-    "source": "Hacker News",
-    "published": "2026-07-09T18:51:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48850688\">Comments</a>"
-  },
-  {
-    "title": "A tiny cell that broke a big rule of biology",
-    "link": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-    "source": "Hacker News",
-    "published": "2026-07-09T15:50:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48847943\">Comments</a>"
   }
 ]
