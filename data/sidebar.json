@@ -1,5 +1,53 @@
 [
   {
+    "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+    "link": "https://prismml.com/news/bonsai-27b",
+    "source": "Hacker News",
+    "published": "2026-07-14T17:50:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>"
+  },
+  {
+    "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+    "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+    "source": "Hacker News",
+    "published": "2026-07-14T17:00:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909820\">Comments</a>"
+  },
+  {
+    "title": "The Tower Keeps Rising",
+    "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "source": "Hacker News",
+    "published": "2026-07-14T16:57:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909785\">Comments</a>"
+  },
+  {
+    "title": "S&P downgrades Oracle to BBB \u2013 only one notch above junk level",
+    "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+    "source": "Hacker News",
+    "published": "2026-07-14T16:56:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909768\">Comments</a>"
+  },
+  {
+    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+    "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+    "source": "Hacker News",
+    "published": "2026-07-14T16:36:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909424\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+    "link": "https://agnost.ai",
+    "source": "Hacker News",
+    "published": "2026-07-14T16:06:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908950\">Comments</a>"
+  },
+  {
     "title": "Show HN: Opening lines of famous literary works",
     "link": "https://www.verbaprima.com/",
     "source": "Hacker News",
@@ -14,22 +62,6 @@
     "published": "2026-07-14T15:18:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48908178\">Comments</a>"
-  },
-  {
-    "title": "New York becomes the first state to impose a data center moratorium",
-    "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
-    "source": "Hacker News",
-    "published": "2026-07-14T14:17:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907296\">Comments</a>"
-  },
-  {
-    "title": "Agnes Callard\u2019s theory of the uni-context",
-    "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-    "source": "Hacker News",
-    "published": "2026-07-14T14:17:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907290\">Comments</a>"
   },
   {
     "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
@@ -48,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48905914\">Comments</a>"
   },
   {
-    "title": "Differentiable Fortran with LFortran and Enzyme",
-    "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-    "source": "Hacker News",
-    "published": "2026-07-14T12:21:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905667\">Comments</a>"
-  },
-  {
-    "title": "Germany set to restrict its Freedom of Information Act",
-    "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-    "source": "Hacker News",
-    "published": "2026-07-14T11:49:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905290\">Comments</a>"
-  },
-  {
     "title": "How to stop Claude from saying load-bearing",
     "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
     "source": "Hacker News",
@@ -80,52 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48905118\">Comments</a>"
   },
   {
-    "title": "Demis Hassabis has a plan to harness AI safely",
-    "link": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "source": "Hacker News",
-    "published": "2026-07-14T09:20:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48904095\">Comments</a>"
-  },
-  {
     "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
     "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
     "source": "Hacker News",
     "published": "2026-07-14T08:34:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48903777\">Comments</a>"
-  },
-  {
-    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-    "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-    "source": "Hacker News",
-    "published": "2026-07-14T08:24:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903715\">Comments</a>"
-  },
-  {
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
-    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "source": "Hacker News",
-    "published": "2026-07-14T04:31:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48902320\">Comments</a>"
-  },
-  {
-    "title": "Our Amish Language",
-    "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-    "source": "Hacker News",
-    "published": "2026-07-14T02:40:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48901645\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-    "link": "https://github.com/juggler-ai/juggler",
-    "source": "Hacker News",
-    "published": "2026-07-12T18:28:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883305\">Comments</a>"
   },
   {
     "title": "How the FSF sysadmins block botnets with reaction",
@@ -136,12 +112,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48876809\">Comments</a>"
   },
   {
+    "title": "The largest available Minecraft world, totalling 15 TB",
+    "link": "https://2b2t.place/1million",
+    "source": "Hacker News",
+    "published": "2026-07-11T14:32:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872401\">Comments</a>"
+  },
+  {
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
     "source": "Hacker News",
     "published": "2026-07-11T08:21:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48869989\">Comments</a>"
+  },
+  {
+    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "link": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "source": "Hacker News",
+    "published": "2026-07-10T20:45:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48865001\">Comments</a>"
+  },
+  {
+    "title": "Superoptimizer \u2013 A Look at the Smallest Program",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
+    "source": "Hacker News",
+    "published": "2026-07-10T18:15:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863336\">Comments</a>"
   },
   {
     "title": "Paxos Made Simple (2001)[pdf]",
