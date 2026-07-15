@@ -1,5 +1,53 @@
 [
   {
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "link": "https://vpd.ca/",
+    "source": "Hacker News",
+    "published": "2026-07-15T00:15:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48914644\">Comments</a>"
+  },
+  {
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "link": "https://www.benjamin-bai.com/projects/lemario",
+    "source": "Hacker News",
+    "published": "2026-07-14T22:30:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913763\">Comments</a>"
+  },
+  {
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "link": "https://www.bis.org/publ/bisbull120.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-14T21:58:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913443\">Comments</a>"
+  },
+  {
+    "title": "Microsoft Patches a Record 570 Security Flaws",
+    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "source": "Hacker News",
+    "published": "2026-07-14T21:32:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913190\">Comments</a>"
+  },
+  {
+    "title": "Dependabot version updates introduce default package cooldown",
+    "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "source": "Hacker News",
+    "published": "2026-07-14T21:15:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913050\">Comments</a>"
+  },
+  {
+    "title": "How I use HTMX with Go",
+    "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+    "source": "Hacker News",
+    "published": "2026-07-14T19:55:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48912175\">Comments</a>"
+  },
+  {
     "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
     "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
     "source": "Hacker News",
@@ -16,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>"
   },
   {
-    "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-    "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-    "source": "Hacker News",
-    "published": "2026-07-14T17:00:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909820\">Comments</a>"
-  },
-  {
     "title": "The Tower Keeps Rising",
     "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "source": "Hacker News",
@@ -32,52 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48909785\">Comments</a>"
   },
   {
-    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-    "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-    "source": "Hacker News",
-    "published": "2026-07-14T16:36:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909424\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-    "link": "https://agnost.ai",
-    "source": "Hacker News",
-    "published": "2026-07-14T16:06:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908950\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Opening lines of famous literary works",
-    "link": "https://www.verbaprima.com/",
-    "source": "Hacker News",
-    "published": "2026-07-14T15:24:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908271\">Comments</a>"
-  },
-  {
     "title": "I'm a USB-C Maximalist",
     "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
     "source": "Hacker News",
     "published": "2026-07-14T15:20:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48908214\">Comments</a>"
-  },
-  {
-    "title": "Are we offloading too much of our thinking to AI?",
-    "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "source": "Hacker News",
-    "published": "2026-07-14T15:18:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908178\">Comments</a>"
-  },
-  {
-    "title": "The Agentic Loop: Three loops in a trench coat",
-    "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-    "source": "Hacker News",
-    "published": "2026-07-14T14:39:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907672\">Comments</a>"
   },
   {
     "title": "Guardian Angels: LLM Personalization for Productivity and Security",
@@ -96,44 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48905248\">Comments</a>"
   },
   {
-    "title": "Punch yourself in the face with reality",
-    "link": "https://adi.bio/reality",
+    "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+    "link": "https://www.nature.com/articles/d41586-026-02170-8",
     "source": "Hacker News",
-    "published": "2026-07-14T11:33:19+00:00",
+    "published": "2026-07-14T11:40:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905118\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905183\">Comments</a>"
   },
   {
-    "title": "Demis Hassabis has a plan to harness AI safely",
-    "link": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "title": "The Estranged Worlds of J. G. Ballard",
+    "link": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
     "source": "Hacker News",
-    "published": "2026-07-14T09:20:07+00:00",
+    "published": "2026-07-13T21:57:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48904095\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48899473\">Comments</a>"
   },
   {
-    "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
-    "link": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+    "title": "C++20 Improved the For-Loop Syntax",
+    "link": "https://lzon.ca/posts/tips/cpp-for-range-init/",
     "source": "Hacker News",
-    "published": "2026-07-13T02:51:34+00:00",
+    "published": "2026-07-11T16:10:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48887276\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-    "link": "https://github.com/juggler-ai/juggler",
-    "source": "Hacker News",
-    "published": "2026-07-12T18:28:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883305\">Comments</a>"
-  },
-  {
-    "title": "The Second Life of Sanskrit",
-    "link": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
-    "source": "Hacker News",
-    "published": "2026-07-11T18:03:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874190\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48873275\">Comments</a>"
   },
   {
     "title": "The largest available Minecraft world, totalling 15 TB",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48872401\">Comments</a>"
   },
   {
+    "title": "The kids with phones are alright",
+    "link": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "source": "Hacker News",
+    "published": "2026-07-11T09:08:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48870217\">Comments</a>"
+  },
+  {
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
     "source": "Hacker News",
     "published": "2026-07-11T08:21:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48869989\">Comments</a>"
+  },
+  {
+    "title": "Unlocking the PSP's Dual Core Setup",
+    "link": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+    "source": "Hacker News",
+    "published": "2026-07-10T23:51:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48866848\">Comments</a>"
   },
   {
     "title": "The zero-cost fallacy: open-source software in the agentic era",
