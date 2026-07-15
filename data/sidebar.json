@@ -1,11 +1,51 @@
 [
   {
-    "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-    "link": "https://thinkingmachines.ai/inkling/",
+    "title": "The End of Creativity",
+    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
     "source": "Hacker News",
-    "published": "2026-07-15T18:14:23+00:00",
+    "published": "2026-07-15T21:19:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48924929\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48927136\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Firefox in WebAssembly",
+    "link": "https://developer.puter.com/labs/firefox-wasm/",
+    "source": "Hacker News",
+    "published": "2026-07-15T21:00:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48926939\">Comments</a>"
+  },
+  {
+    "title": "Grok Build",
+    "link": "https://github.com/xai-org/grok-build",
+    "source": "Hacker News",
+    "published": "2026-07-15T20:24:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48926590\">Comments</a>"
+  },
+  {
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "link": "https://brainless.swerdlow.dev",
+    "source": "Hacker News",
+    "published": "2026-07-15T19:42:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48926085\">Comments</a>"
+  },
+  {
+    "title": "Voxatron",
+    "link": "https://www.lexaloffle.com/voxatron.php",
+    "source": "Hacker News",
+    "published": "2026-07-15T19:40:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48926053\">Comments</a>"
+  },
+  {
+    "title": "Duskers, the scary command line game, is getting a sequel",
+    "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+    "source": "Hacker News",
+    "published": "2026-07-15T19:27:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48925888\">Comments</a>"
   },
   {
     "title": "Inkling: Our Open-Weights Model",
@@ -24,44 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48923833\">Comments</a>"
   },
   {
-    "title": "A General Goal-Conditioned Minecraft Model",
-    "link": "https://pantograph.com/journal/pan-1",
-    "source": "Hacker News",
-    "published": "2026-07-15T16:35:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923412\">Comments</a>"
-  },
-  {
     "title": "Collection of Digital Clock Designs",
     "link": "https://clocks.dev",
     "source": "Hacker News",
     "published": "2026-07-15T16:33:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48923380\">Comments</a>"
-  },
-  {
-    "title": "What designing 54 computer science cards taught me about graphic design",
-    "link": "https://fhoehl.com/designing-algodeck",
-    "source": "Hacker News",
-    "published": "2026-07-15T16:22:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923209\">Comments</a>"
-  },
-  {
-    "title": "Open-source memory for coding agents, synced over SSH",
-    "link": "https://github.com/vshulcz/deja-vu/",
-    "source": "Hacker News",
-    "published": "2026-07-15T16:15:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923111\">Comments</a>"
-  },
-  {
-    "title": "Codex Micro",
-    "link": "https://openai.com/supply/co-lab/work-louder/",
-    "source": "Hacker News",
-    "published": "2026-07-15T16:12:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923079\">Comments</a>"
   },
   {
     "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
@@ -72,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48922838\">Comments</a>"
   },
   {
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
-    "link": "https://coasty.ai/docs",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:51:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922706\">Comments</a>"
-  },
-  {
-    "title": "When A.I. Is a Member of the Family",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:37:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922487\">Comments</a>"
-  },
-  {
     "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
     "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
     "source": "Hacker News",
@@ -96,15 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48922434\">Comments</a>"
   },
   {
-    "title": "My midlife crisis Corolla is fast, furious, and modded",
-    "link": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
-    "source": "Hacker News",
-    "published": "2026-07-15T14:23:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48921303\">Comments</a>"
-  },
-  {
-    "title": "Towards a Harness That Can Do Anything",
+    "title": "Towards a harness that can do anything",
     "link": "https://eardatasci.github.io/c/ambiance/index.html",
     "source": "Hacker News",
     "published": "2026-07-15T14:08:28+00:00",
@@ -112,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48921077\">Comments</a>"
   },
   {
-    "title": "Mysteries of Telegram Data Centers",
+    "title": "Mysteries of Telegram Data Centers (2022)",
     "link": "https://dev.moe/en/3025",
     "source": "Hacker News",
     "published": "2026-07-15T13:22:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48920475\">Comments</a>"
-  },
-  {
-    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-    "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-    "source": "Hacker News",
-    "published": "2026-07-15T11:46:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48919363\">Comments</a>"
   },
   {
     "title": "Prioritize mental health, and why communication is so important",
@@ -136,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48919198\">Comments</a>"
   },
   {
-    "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+    "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
     "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
     "source": "Hacker News",
     "published": "2026-07-15T03:32:45+00:00",
@@ -144,19 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48915953\">Comments</a>"
   },
   {
-    "title": "The Memory Heist",
-    "link": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "Who Is America's Homer?",
+    "link": "https://www.plough.com/articles/who-is-americas-homer",
     "source": "Hacker News",
-    "published": "2026-07-14T19:40:54+00:00",
+    "published": "2026-07-14T22:19:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48912013\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913656\">Comments</a>"
   },
   {
-    "title": "Editing React components that never rendered",
-    "link": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+    "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "link": "https://github.com/projectargus-cc/libargus.cc",
     "source": "Hacker News",
-    "published": "2026-07-13T13:49:33+00:00",
+    "published": "2026-07-14T14:40:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892647\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907681\">Comments</a>"
+  },
+  {
+    "title": "Designing APIs for Agents",
+    "link": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+    "source": "Hacker News",
+    "published": "2026-07-13T16:15:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894874\">Comments</a>"
+  },
+  {
+    "title": "MITS: Rockets, Calculators, and Personal Computers",
+    "link": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
+    "source": "Hacker News",
+    "published": "2026-07-13T13:20:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892273\">Comments</a>"
+  },
+  {
+    "title": "Command Line Interface Guidelines",
+    "link": "https://clig.dev/",
+    "source": "Hacker News",
+    "published": "2026-07-12T13:28:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48881064\">Comments</a>"
   }
 ]
