@@ -1,11 +1,27 @@
 [
   {
-    "title": "My Throw Decides My Aim",
-    "link": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+    "title": "Netstrings (1997)",
+    "link": "https://cr.yp.to/proto/netstrings.txt",
     "source": "Hacker News",
-    "published": "2026-07-16T03:51:25+00:00",
+    "published": "2026-07-16T05:33:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930149\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930713\">Comments</a>"
+  },
+  {
+    "title": "The lost joy of music piracy",
+    "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "source": "Hacker News",
+    "published": "2026-07-16T04:46:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930454\">Comments</a>"
+  },
+  {
+    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "link": "https://github.com/minh-ton/reynard-browser",
+    "source": "Hacker News",
+    "published": "2026-07-16T04:36:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930397\">Comments</a>"
   },
   {
     "title": "If you want to create a button from scratch, you must first create the universe",
@@ -22,14 +38,6 @@
     "published": "2026-07-16T03:36:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48930075\">Comments</a>"
-  },
-  {
-    "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
-    "link": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
-    "source": "Hacker News",
-    "published": "2026-07-16T03:24:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930011\">Comments</a>"
   },
   {
     "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
@@ -56,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48929351\">Comments</a>"
   },
   {
-    "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-    "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-    "source": "Hacker News",
-    "published": "2026-07-15T23:00:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928313\">Comments</a>"
-  },
-  {
     "title": "SQLite should have (Rust-style) editions",
     "link": "https://mort.coffee/home/sqlite-editions/",
     "source": "Hacker News",
     "published": "2026-07-15T22:42:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48928135\">Comments</a>"
-  },
-  {
-    "title": "LLM Networking with MikroTik",
-    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "source": "Hacker News",
-    "published": "2026-07-15T22:23:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48927915\">Comments</a>"
   },
   {
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
@@ -104,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48924912\">Comments</a>"
   },
   {
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
-    "link": "https://coasty.ai/docs",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:51:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922706\">Comments</a>"
-  },
-  {
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:34:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922434\">Comments</a>"
-  },
-  {
     "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
     "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
     "source": "Hacker News",
@@ -136,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48915393\">Comments</a>"
   },
   {
+    "title": "I also filed the corners off my MacBook",
+    "link": "https://www.brt.fyi/posts/mac-book-filing/",
+    "source": "Hacker News",
+    "published": "2026-07-14T19:25:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48911803\">Comments</a>"
+  },
+  {
     "title": "Job queues are deceptively tricky",
     "link": "https://typesanitizer.com/blog/job-queues.html",
     "source": "Hacker News",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48903733\">Comments</a>"
   },
   {
+    "title": "The Last Picture Show: A Conversation with George Lucas",
+    "link": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+    "source": "Hacker News",
+    "published": "2026-07-14T06:35:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903015\">Comments</a>"
+  },
+  {
+    "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+    "link": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+    "source": "Hacker News",
+    "published": "2026-07-12T20:42:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884580\">Comments</a>"
+  },
+  {
+    "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+    "link": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+    "source": "Hacker News",
+    "published": "2026-07-12T17:57:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48883036\">Comments</a>"
+  },
+  {
     "title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
     "link": "https://davidobando.github.io/gsharp/",
     "source": "Hacker News",
     "published": "2026-07-11T13:04:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48871721\">Comments</a>"
-  },
-  {
-    "title": "CatchCat \u2013 Pok\u00e9mon Go for Cats, IRL",
-    "link": "https://www.catchcat.lol/",
-    "source": "Hacker News",
-    "published": "2026-07-10T17:15:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48862644\">Comments</a>"
   }
 ]
