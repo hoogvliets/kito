@@ -1,5 +1,69 @@
 [
   {
+    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+    "link": "https://www.bbc.com/news/articles/c5y680w62wno",
+    "source": "Hacker News",
+    "published": "2026-07-16T12:05:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933371\">Comments</a>"
+  },
+  {
+    "title": "The Act and the Outcome of Creation",
+    "link": "https://www.ssp.sh/blog/on-creation/",
+    "source": "Hacker News",
+    "published": "2026-07-16T12:05:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933370\">Comments</a>"
+  },
+  {
+    "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+    "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+    "source": "Hacker News",
+    "published": "2026-07-16T12:02:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933344\">Comments</a>"
+  },
+  {
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "source": "Hacker News",
+    "published": "2026-07-16T11:59:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933310\">Comments</a>"
+  },
+  {
+    "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+    "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
+    "source": "Hacker News",
+    "published": "2026-07-16T11:58:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933303\">Comments</a>"
+  },
+  {
+    "title": "Track your workout from the iPhone Lock Screen",
+    "link": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
+    "source": "Hacker News",
+    "published": "2026-07-16T10:49:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48932784\">Comments</a>"
+  },
+  {
+    "title": "Ente \u2013 Opening Our Books",
+    "link": "https://ente.com/open/",
+    "source": "Hacker News",
+    "published": "2026-07-16T10:37:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48932697\">Comments</a>"
+  },
+  {
+    "title": "OnePlus halts operations in USA and Europe",
+    "link": "https://community.oneplus.com/thread/2170715118587871237",
+    "source": "Hacker News",
+    "published": "2026-07-16T10:14:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48932539\">Comments</a>"
+  },
+  {
     "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
     "link": "https://joinedanthropic.com",
     "source": "Hacker News",
@@ -16,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48930454\">Comments</a>"
   },
   {
-    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-    "link": "https://github.com/minh-ton/reynard-browser",
-    "source": "Hacker News",
-    "published": "2026-07-16T04:36:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930397\">Comments</a>"
-  },
-  {
     "title": "If you want to create a button from scratch, you must first create the universe",
     "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
     "source": "Hacker News",
@@ -32,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48930136\">Comments</a>"
   },
   {
-    "title": "Making 768 servers look like 1",
-    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
-    "source": "Hacker News",
-    "published": "2026-07-16T03:36:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48930075\">Comments</a>"
-  },
-  {
     "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
     "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
     "source": "Hacker News",
     "published": "2026-07-16T03:12:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48929945\">Comments</a>"
-  },
-  {
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-    "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "source": "Hacker News",
-    "published": "2026-07-16T02:06:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48929587\">Comments</a>"
-  },
-  {
-    "title": "Bluesky Trademarks ATProto",
-    "link": "https://atproto.com/blog/at-protocol-trademark",
-    "source": "Hacker News",
-    "published": "2026-07-16T01:21:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48929351\">Comments</a>"
   },
   {
     "title": "SQLite should have (Rust-style) editions",
@@ -96,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48924912\">Comments</a>"
   },
   {
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:34:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922434\">Comments</a>"
-  },
-  {
     "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
     "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
     "source": "Hacker News",
@@ -112,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48915953\">Comments</a>"
   },
   {
-    "title": "High-Bandwidth Flash offers efficient storage for model weights",
-    "link": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "title": "A Beautiful Theory Falls to Ugly Data",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
     "source": "Hacker News",
-    "published": "2026-07-15T02:04:12+00:00",
+    "published": "2026-07-12T19:52:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48915393\">Comments</a>"
-  },
-  {
-    "title": "I also filed the corners off my MacBook",
-    "link": "https://www.brt.fyi/posts/mac-book-filing/",
-    "source": "Hacker News",
-    "published": "2026-07-14T19:25:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48911803\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48884068\">Comments</a>"
   },
   {
     "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48883036\">Comments</a>"
   },
   {
-    "title": "In defense of not understanding your codebase",
-    "link": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "title": "Let's build a simple interpreter for APL \u2013 part 1",
+    "link": "https://mathspp.com/blog/lsbasi-apl-part1",
     "source": "Hacker News",
-    "published": "2026-07-12T17:19:47+00:00",
+    "published": "2026-07-10T07:16:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48882777\">Comments</a>"
-  },
-  {
-    "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
-    "link": "https://www.petekeen.net/homelab-resolved/",
-    "source": "Hacker News",
-    "published": "2026-07-11T13:47:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48872031\">Comments</a>"
-  },
-  {
-    "title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
-    "link": "https://davidobando.github.io/gsharp/",
-    "source": "Hacker News",
-    "published": "2026-07-11T13:04:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48871721\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48856746\">Comments</a>"
   }
 ]
