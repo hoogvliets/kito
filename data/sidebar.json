@@ -1,11 +1,59 @@
 [
   {
-    "title": "The End of Creativity",
-    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+    "title": "Show HN: One More Letter",
+    "link": "https://playonemoreletter.com/",
     "source": "Hacker News",
-    "published": "2026-07-15T21:19:42+00:00",
+    "published": "2026-07-15T23:10:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48927136\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928402\">Comments</a>"
+  },
+  {
+    "title": "Nul Characters in Strings in SQLite",
+    "link": "https://sqlite.org/nulinstr.html",
+    "source": "Hacker News",
+    "published": "2026-07-15T23:03:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928343\">Comments</a>"
+  },
+  {
+    "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+    "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+    "source": "Hacker News",
+    "published": "2026-07-15T23:00:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928313\">Comments</a>"
+  },
+  {
+    "title": "The Anti-Mac User Interface (1996)",
+    "link": "https://www.nngroup.com/articles/anti-mac-interface/",
+    "source": "Hacker News",
+    "published": "2026-07-15T22:52:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928234\">Comments</a>"
+  },
+  {
+    "title": "SQLite should have (Rust-style) editions",
+    "link": "https://mort.coffee/home/sqlite-editions/",
+    "source": "Hacker News",
+    "published": "2026-07-15T22:42:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48928135\">Comments</a>"
+  },
+  {
+    "title": "LLM Networking with MikroTik",
+    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "source": "Hacker News",
+    "published": "2026-07-15T22:23:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48927915\">Comments</a>"
+  },
+  {
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-15T21:16:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48927095\">Comments</a>"
   },
   {
     "title": "Show HN: Firefox in WebAssembly",
@@ -16,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48926939\">Comments</a>"
   },
   {
-    "title": "Grok Build",
+    "title": "Grok Build is open source",
     "link": "https://github.com/xai-org/grok-build",
     "source": "Hacker News",
     "published": "2026-07-15T20:24:58+00:00",
@@ -56,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48924912\">Comments</a>"
   },
   {
-    "title": "Artie (YC S23) Is Hiring Software Engineers",
-    "link": "https://jobs.ashbyhq.com/artie",
-    "source": "Hacker News",
-    "published": "2026-07-15T17:01:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923833\">Comments</a>"
-  },
-  {
-    "title": "Collection of Digital Clock Designs",
-    "link": "https://clocks.dev",
-    "source": "Hacker News",
-    "published": "2026-07-15T16:33:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923380\">Comments</a>"
-  },
-  {
-    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-    "link": "https://github.com/welcome-to-the-sunny-side/misa77",
-    "source": "Hacker News",
-    "published": "2026-07-15T15:58:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48922838\">Comments</a>"
-  },
-  {
     "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
     "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
     "source": "Hacker News",
     "published": "2026-07-15T15:34:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48922434\">Comments</a>"
-  },
-  {
-    "title": "Towards a harness that can do anything",
-    "link": "https://eardatasci.github.io/c/ambiance/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-15T14:08:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48921077\">Comments</a>"
   },
   {
     "title": "Mysteries of Telegram Data Centers (2022)",
@@ -120,36 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48915953\">Comments</a>"
   },
   {
-    "title": "Who Is America's Homer?",
-    "link": "https://www.plough.com/articles/who-is-americas-homer",
+    "title": "Book prizes don't work how you think",
+    "link": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
     "source": "Hacker News",
-    "published": "2026-07-14T22:19:13+00:00",
+    "published": "2026-07-14T22:19:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913656\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913653\">Comments</a>"
   },
   {
-    "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-    "link": "https://github.com/projectargus-cc/libargus.cc",
+    "title": "Job queues are deceptively tricky",
+    "link": "https://typesanitizer.com/blog/job-queues.html",
     "source": "Hacker News",
-    "published": "2026-07-14T14:40:46+00:00",
+    "published": "2026-07-14T08:27:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907681\">Comments</a>"
-  },
-  {
-    "title": "Designing APIs for Agents",
-    "link": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "source": "Hacker News",
-    "published": "2026-07-13T16:15:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48894874\">Comments</a>"
-  },
-  {
-    "title": "MITS: Rockets, Calculators, and Personal Computers",
-    "link": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
-    "source": "Hacker News",
-    "published": "2026-07-13T13:20:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48892273\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903733\">Comments</a>"
   },
   {
     "title": "Command Line Interface Guidelines",
