@@ -1,5 +1,21 @@
 [
   {
+    "title": "Learning a few things about running SQLite",
+    "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "source": "Hacker News",
+    "published": "2026-07-17T17:45:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950122\">Comments</a>"
+  },
+  {
+    "title": "Designing emoji for the way we communicate today",
+    "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+    "source": "Hacker News",
+    "published": "2026-07-17T16:24:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48949184\">Comments</a>"
+  },
+  {
     "title": "Show HN: Explore the Workspaces of Modern Creators",
     "link": "https://workspaces.xyz/",
     "source": "Hacker News",
@@ -8,28 +24,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48948693\">Comments</a>"
   },
   {
+    "title": "Frame \u2013 the first Linux Assembly X server",
+    "link": "https://isene.org/2026/07/Frame.html",
+    "source": "Hacker News",
+    "published": "2026-07-17T15:31:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48948597\">Comments</a>"
+  },
+  {
+    "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+    "link": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+    "source": "Hacker News",
+    "published": "2026-07-17T15:17:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48948435\">Comments</a>"
+  },
+  {
     "title": "Mozilla: The state of open source AI",
     "link": "https://stateofopensource.ai/",
     "source": "Hacker News",
     "published": "2026-07-17T14:31:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48947825\">Comments</a>"
-  },
-  {
-    "title": "Claude Code: Anatomy of a Misfeature",
-    "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:26:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947776\">Comments</a>"
-  },
-  {
-    "title": "Show HN: On-chain bond market where the issuers are AI agents",
-    "link": "https://selbonds.now",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:25:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947754\">Comments</a>"
   },
   {
     "title": "Kimi K3, and what we can still learn from the pelican benchmark",
@@ -88,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48947201\">Comments</a>"
   },
   {
-    "title": "PennyLane is an open-source quantum software platform for quantum",
-    "link": "https://github.com/PennyLaneAI/pennylane",
-    "source": "Hacker News",
-    "published": "2026-07-17T13:30:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947184\">Comments</a>"
-  },
-  {
     "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
     "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
     "source": "Hacker News",
     "published": "2026-07-17T13:22:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48947100\">Comments</a>"
-  },
-  {
-    "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-    "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-    "source": "Hacker News",
-    "published": "2026-07-17T13:02:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48946895\">Comments</a>"
-  },
-  {
-    "title": "VulnHunter: Capital One's agentic AI code security tool",
-    "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-    "source": "Hacker News",
-    "published": "2026-07-17T12:42:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48946692\">Comments</a>"
   },
   {
     "title": "Apple targets dozens of OpenAI employees with legal letters",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48943174\">Comments</a>"
   },
   {
-    "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-    "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+    "title": "Frank Lloyd Wright's First Home",
+    "link": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
     "source": "Hacker News",
-    "published": "2026-07-17T03:48:26+00:00",
+    "published": "2026-07-13T02:23:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48943142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48887102\">Comments</a>"
+  },
+  {
+    "title": "Faster binary search: from compiled code to mechanical sympathy",
+    "link": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "source": "Hacker News",
+    "published": "2026-07-12T07:00:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48878996\">Comments</a>"
   }
 ]
