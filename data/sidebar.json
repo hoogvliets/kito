@@ -1,5 +1,45 @@
 [
   {
+    "title": "M 3.9 Experimental Explosion \u2013 147 Km ENE of Ponce Inlet, Florida",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+    "source": "Hacker News",
+    "published": "2026-07-17T00:45:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48942125\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mojibake \u2013 a low-level Unicode library written in C",
+    "link": "https://mojibake.zaerl.com/",
+    "source": "Hacker News",
+    "published": "2026-07-16T22:29:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48941123\">Comments</a>"
+  },
+  {
+    "title": "The Little Book of Reinforcement Learning",
+    "link": "https://github.com/alxndrTL/little-book-rl/",
+    "source": "Hacker News",
+    "published": "2026-07-16T22:27:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48941104\">Comments</a>"
+  },
+  {
+    "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+    "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+    "source": "Hacker News",
+    "published": "2026-07-16T22:00:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48940833\">Comments</a>"
+  },
+  {
+    "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+    "link": "https://arxiv.org/abs/2607.12395",
+    "source": "Hacker News",
+    "published": "2026-07-16T21:38:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48940603\">Comments</a>"
+  },
+  {
     "title": "Mathematics of Data Science",
     "link": "https://arxiv.org/abs/2607.11938",
     "source": "Hacker News",
@@ -14,14 +54,6 @@
     "published": "2026-07-16T20:24:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48939742\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Libretto PR agents \u2013 Automatically fix failing playwright scripts",
-    "link": "https://libretto.sh/debug-agents",
-    "source": "Hacker News",
-    "published": "2026-07-16T20:21:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48939710\">Comments</a>"
   },
   {
     "title": "LM Studio Bionic: the AI agent for open models",
@@ -46,22 +78,6 @@
     "published": "2026-07-16T20:03:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48939524\">Comments</a>"
-  },
-  {
-    "title": "Adaptional (YC S25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/adaptional/jobs",
-    "source": "Hacker News",
-    "published": "2026-07-16T17:00:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48937125\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
-    "link": "https://news.ycombinator.com/item?id=48937020",
-    "source": "Hacker News",
-    "published": "2026-07-16T16:52:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48937020\">Comments</a>"
   },
   {
     "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
@@ -96,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48936426\">Comments</a>"
   },
   {
-    "title": "Show HN: BambooGrid \u2013 Open-source web UI for power grid modeling and power flow",
-    "link": "https://bamboo.kickstage.com",
-    "source": "Hacker News",
-    "published": "2026-07-16T15:55:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48936271\">Comments</a>"
-  },
-  {
     "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
     "link": "https://immersivemath.com/ila/",
     "source": "Hacker News",
     "published": "2026-07-16T15:32:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48935951\">Comments</a>"
-  },
-  {
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-    "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "source": "Hacker News",
-    "published": "2026-07-16T15:13:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48935687\">Comments</a>"
   },
   {
     "title": "Kimi K3: Open Frontier Intelligence",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48935342\">Comments</a>"
   },
   {
-    "title": "Goes-19 weather satellite enters Safe Hold mode",
-    "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+    "title": "How Our Rust-to-Zig Rewrite Is Going",
+    "link": "https://rtfeldman.com/rust-to-zig",
     "source": "Hacker News",
-    "published": "2026-07-16T13:30:00+00:00",
+    "published": "2026-07-16T11:39:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48934286\">Comments</a>"
-  },
-  {
-    "title": "Abstracting Effects with Continuations",
-    "link": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "source": "Hacker News",
-    "published": "2026-07-16T10:41:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48932722\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933149\">Comments</a>"
   },
   {
     "title": "OnePlus halts operations in USA and Europe",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48932539\">Comments</a>"
   },
   {
-    "title": "Pseudpocalypse",
-    "link": "https://dynomight.net/pseudpocalypse/",
+    "title": "Solod: Go can be a better C",
+    "link": "https://solod.dev",
     "source": "Hacker News",
-    "published": "2026-07-14T16:02:01+00:00",
+    "published": "2026-07-13T16:38:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48908886\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48895199\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Clx \u2013 Compile Lua to Native Executables Through C++20",
+    "link": "https://github.com/samyeyo/clx",
+    "source": "Hacker News",
+    "published": "2026-07-11T12:40:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48871547\">Comments</a>"
   }
 ]
