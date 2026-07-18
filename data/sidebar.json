@@ -1,5 +1,13 @@
 [
   {
+    "title": "Show HN: IKEA Complexity Index",
+    "link": "https://ikea.greg.technology/",
+    "source": "Hacker News",
+    "published": "2026-07-18T03:51:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48955042\">Comments</a>"
+  },
+  {
     "title": "Regressive JPEGs",
     "link": "https://maurycyz.com/projects/bad_jpeg/",
     "source": "Hacker News",
@@ -8,28 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48954851\">Comments</a>"
   },
   {
-    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-    "link": "https://moonstone.sh/",
-    "source": "Hacker News",
-    "published": "2026-07-18T01:18:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954175\">Comments</a>"
-  },
-  {
-    "title": "I started a \"dirt notebook\"",
+    "title": "I started a \u201cdirt notebook\u201d",
     "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
     "source": "Hacker News",
     "published": "2026-07-18T01:12:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48954149\">Comments</a>"
-  },
-  {
-    "title": "DrDroid (YC W23) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-    "source": "Hacker News",
-    "published": "2026-07-18T01:01:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954074\">Comments</a>"
   },
   {
     "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
@@ -38,14 +30,6 @@
     "published": "2026-07-18T00:48:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48953981\">Comments</a>"
-  },
-  {
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "source": "Hacker News",
-    "published": "2026-07-17T22:26:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952880\">Comments</a>"
   },
   {
     "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
@@ -70,6 +54,14 @@
     "published": "2026-07-17T19:41:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48951461\">Comments</a>"
+  },
+  {
+    "title": "Lego building instructions through time",
+    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+    "source": "Hacker News",
+    "published": "2026-07-17T18:21:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950518\">Comments</a>"
   },
   {
     "title": "Learning a few things about running SQLite",
@@ -128,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48941315\">Comments</a>"
   },
   {
+    "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+    "link": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+    "source": "Hacker News",
+    "published": "2026-07-15T08:18:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48917755\">Comments</a>"
+  },
+  {
     "title": "Reviving a 15-year-old netbook with Arch Linux",
     "link": "https://parksb.github.io/en/article/41.html",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48896149\">Comments</a>"
   },
   {
-    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
-    "link": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "Waldi: A quiet place to write, and to be read",
+    "link": "https://github.com/waaldev/waldi",
     "source": "Hacker News",
-    "published": "2026-07-11T18:20:49+00:00",
+    "published": "2026-07-12T11:26:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874347\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48880258\">Comments</a>"
   }
 ]
