@@ -1,11 +1,35 @@
 [
   {
+    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "link": "https://moonstone.sh/",
+    "source": "Hacker News",
+    "published": "2026-07-18T01:18:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954175\">Comments</a>"
+  },
+  {
+    "title": "I Started a \"Dirt Notebook\"",
+    "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "source": "Hacker News",
+    "published": "2026-07-18T01:12:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954149\">Comments</a>"
+  },
+  {
     "title": "DrDroid (YC W23) Is Hiring",
     "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
     "source": "Hacker News",
     "published": "2026-07-18T01:01:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48954074\">Comments</a>"
+  },
+  {
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "link": "https://www.stenchill.com/en/",
+    "source": "Hacker News",
+    "published": "2026-07-18T00:48:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48953981\">Comments</a>"
   },
   {
     "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
@@ -16,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48953406\">Comments</a>"
   },
   {
-    "title": "Texas wins court order to suspend domain name for violating age-verification law",
-    "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-    "source": "Hacker News",
-    "published": "2026-07-17T22:35:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952939\">Comments</a>"
-  },
-  {
     "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
     "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
     "source": "Hacker News",
@@ -32,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48952880\">Comments</a>"
   },
   {
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
     "source": "Hacker News",
-    "published": "2026-07-17T21:22:53+00:00",
+    "published": "2026-07-17T21:42:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952439\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952565\">Comments</a>"
   },
   {
     "title": "Open Book Touch: open-source e-reader",
@@ -46,14 +62,6 @@
     "published": "2026-07-17T20:47:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48952135\">Comments</a>"
-  },
-  {
-    "title": "Topcoat: The full full-stack framework for Rust",
-    "link": "https://github.com/tokio-rs/topcoat",
-    "source": "Hacker News",
-    "published": "2026-07-17T20:41:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952067\">Comments</a>"
   },
   {
     "title": "Static search trees: 40x faster than binary search (2024)",
@@ -80,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48951461\">Comments</a>"
   },
   {
-    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-    "link": "https://app.everything.diena.co/",
-    "source": "Hacker News",
-    "published": "2026-07-17T18:37:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950774\">Comments</a>"
-  },
-  {
-    "title": "Lego building instructions through time",
-    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-    "source": "Hacker News",
-    "published": "2026-07-17T18:21:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950518\">Comments</a>"
-  },
-  {
     "title": "Learning a few things about running SQLite",
     "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "source": "Hacker News",
@@ -110,14 +102,6 @@
     "published": "2026-07-17T16:57:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48949551\">Comments</a>"
-  },
-  {
-    "title": "The state of open source AI",
-    "link": "https://stateofopensource.ai/",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:31:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947825\">Comments</a>"
   },
   {
     "title": "Kimi K3, and what we can still learn from the pelican benchmark",
@@ -144,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48945241\">Comments</a>"
   },
   {
+    "title": "Reviving a 15-year-old netbook with Arch Linux",
+    "link": "https://parksb.github.io/en/article/41.html",
+    "source": "Hacker News",
+    "published": "2026-07-14T14:02:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907063\">Comments</a>"
+  },
+  {
+    "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+    "link": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+    "source": "Hacker News",
+    "published": "2026-07-14T12:59:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48906171\">Comments</a>"
+  },
+  {
     "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
     "link": "https://prathosh.in/vagdhenu/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48896149\">Comments</a>"
   },
   {
-    "title": "\"Disk Not Ejected Properly\": What It Means",
-    "link": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
+    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+    "link": "https://pocketjs.dev/blog/shipping-openstrike/",
     "source": "Hacker News",
-    "published": "2026-07-10T17:48:53+00:00",
+    "published": "2026-07-11T18:20:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863036\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48874347\">Comments</a>"
   }
 ]
