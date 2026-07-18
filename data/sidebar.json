@@ -1,5 +1,77 @@
 [
   {
+    "title": "DrDroid (YC W23) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+    "source": "Hacker News",
+    "published": "2026-07-18T01:01:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954074\">Comments</a>"
+  },
+  {
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "source": "Hacker News",
+    "published": "2026-07-17T23:26:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48953406\">Comments</a>"
+  },
+  {
+    "title": "Texas wins court order to suspend domain name for violating age-verification law",
+    "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+    "source": "Hacker News",
+    "published": "2026-07-17T22:35:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952939\">Comments</a>"
+  },
+  {
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "source": "Hacker News",
+    "published": "2026-07-17T22:26:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952880\">Comments</a>"
+  },
+  {
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "source": "Hacker News",
+    "published": "2026-07-17T21:22:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952439\">Comments</a>"
+  },
+  {
+    "title": "Open Book Touch: open-source e-reader",
+    "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+    "source": "Hacker News",
+    "published": "2026-07-17T20:47:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952135\">Comments</a>"
+  },
+  {
+    "title": "Topcoat: The full full-stack framework for Rust",
+    "link": "https://github.com/tokio-rs/topcoat",
+    "source": "Hacker News",
+    "published": "2026-07-17T20:41:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952067\">Comments</a>"
+  },
+  {
+    "title": "Static search trees: 40x faster than binary search (2024)",
+    "link": "https://curiouscoding.nl/posts/static-search-tree/",
+    "source": "Hacker News",
+    "published": "2026-07-17T20:24:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48951898\">Comments</a>"
+  },
+  {
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "source": "Hacker News",
+    "published": "2026-07-17T20:12:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48951780\">Comments</a>"
+  },
+  {
     "title": "The Zilog Z80 has turned 50",
     "link": "https://goliath32.com/blog/z80.html",
     "source": "Hacker News",
@@ -14,6 +86,14 @@
     "published": "2026-07-17T18:37:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48950774\">Comments</a>"
+  },
+  {
+    "title": "Lego building instructions through time",
+    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+    "source": "Hacker News",
+    "published": "2026-07-17T18:21:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950518\">Comments</a>"
   },
   {
     "title": "Learning a few things about running SQLite",
@@ -32,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48949551\">Comments</a>"
   },
   {
-    "title": "Workspaces \u2013 Explore the workspaces of modern creators",
-    "link": "https://workspaces.xyz/",
-    "source": "Hacker News",
-    "published": "2026-07-17T15:41:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48948693\">Comments</a>"
-  },
-  {
-    "title": "Frame \u2013 Linux X server in Assembly",
-    "link": "https://isene.org/2026/07/Frame.html",
-    "source": "Hacker News",
-    "published": "2026-07-17T15:31:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48948597\">Comments</a>"
-  },
-  {
     "title": "The state of open source AI",
     "link": "https://stateofopensource.ai/",
     "source": "Hacker News",
@@ -64,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48947717\">Comments</a>"
   },
   {
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-    "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:21:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947714\">Comments</a>"
-  },
-  {
     "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
     "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
     "source": "Hacker News",
     "published": "2026-07-17T14:06:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48947560\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-    "link": "https://honeypotlive.cc/",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:05:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947548\">Comments</a>"
-  },
-  {
-    "title": "Three ways people respond to a problem (other than solving it)",
-    "link": "https://improvesomething.today/responses-to-problems/",
-    "source": "Hacker News",
-    "published": "2026-07-17T14:00:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947490\">Comments</a>"
-  },
-  {
-    "title": "A Road to Lisp: Which Lisp",
-    "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "source": "Hacker News",
-    "published": "2026-07-17T13:56:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947455\">Comments</a>"
-  },
-  {
-    "title": "More Bounce to the Ounce",
-    "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-    "source": "Hacker News",
-    "published": "2026-07-17T13:32:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947201\">Comments</a>"
   },
   {
     "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48945241\">Comments</a>"
   },
   {
-    "title": "EEG shows brain can simultaneous encode two speech streams",
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
+    "link": "https://prathosh.in/vagdhenu/",
     "source": "Hacker News",
-    "published": "2026-07-17T05:51:10+00:00",
+    "published": "2026-07-13T17:43:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48943745\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896149\">Comments</a>"
   },
   {
-    "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
-    "link": "https://github.com/CharmingBlaze/moonbasic",
+    "title": "\"Disk Not Ejected Properly\": What It Means",
+    "link": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
     "source": "Hacker News",
-    "published": "2026-07-14T17:53:06+00:00",
+    "published": "2026-07-10T17:48:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48910579\">Comments</a>"
-  },
-  {
-    "title": "Estimating the heights of New Yorkers from their scuff marks",
-    "link": "https://blog.jse.li/posts/smith9street/",
-    "source": "Hacker News",
-    "published": "2026-07-13T23:22:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48900287\">Comments</a>"
-  },
-  {
-    "title": "Lobste.rs is now running on SQLite",
-    "link": "https://lobste.rs/s/ko1ji1",
-    "source": "Hacker News",
-    "published": "2026-07-13T22:35:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48899847\">Comments</a>"
-  },
-  {
-    "title": "Frank Lloyd Wright\u2019s first home",
-    "link": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-    "source": "Hacker News",
-    "published": "2026-07-13T02:23:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48887102\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863036\">Comments</a>"
   }
 ]
