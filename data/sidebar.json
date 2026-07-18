@@ -1,5 +1,53 @@
 [
   {
+    "title": "What AI did to stackoverflow in a graph",
+    "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "source": "Hacker News",
+    "published": "2026-07-18T11:12:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956949\">Comments</a>"
+  },
+  {
+    "title": "Why do AI company logos look like buttholes?",
+    "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "source": "Hacker News",
+    "published": "2026-07-18T11:06:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956924\">Comments</a>"
+  },
+  {
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "source": "Hacker News",
+    "published": "2026-07-18T11:00:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956879\">Comments</a>"
+  },
+  {
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+    "source": "Hacker News",
+    "published": "2026-07-18T10:21:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956688\">Comments</a>"
+  },
+  {
+    "title": "Qubes OS Security in the Public Record",
+    "link": "https://arxiv.org/abs/2607.14587",
+    "source": "Hacker News",
+    "published": "2026-07-18T08:50:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956307\">Comments</a>"
+  },
+  {
+    "title": "The Computer at the Bottom of a Canal",
+    "link": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "source": "Hacker News",
+    "published": "2026-07-18T08:33:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48956231\">Comments</a>"
+  },
+  {
     "title": "Show HN: IKEA Complexity Index",
     "link": "https://ikea.greg.technology/",
     "source": "Hacker News",
@@ -24,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48954149\">Comments</a>"
   },
   {
-    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-    "link": "https://www.stenchill.com/en/",
-    "source": "Hacker News",
-    "published": "2026-07-18T00:48:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48953981\">Comments</a>"
-  },
-  {
     "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
     "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
     "source": "Hacker News",
@@ -40,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48952565\">Comments</a>"
   },
   {
-    "title": "Static search trees: 40x faster than binary search (2024)",
-    "link": "https://curiouscoding.nl/posts/static-search-tree/",
-    "source": "Hacker News",
-    "published": "2026-07-17T20:24:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48951898\">Comments</a>"
-  },
-  {
     "title": "The Zilog Z80 has turned 50",
     "link": "https://goliath32.com/blog/z80.html",
     "source": "Hacker News",
     "published": "2026-07-17T19:41:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48951461\">Comments</a>"
-  },
-  {
-    "title": "Lego building instructions through time",
-    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-    "source": "Hacker News",
-    "published": "2026-07-17T18:21:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48950518\">Comments</a>"
   },
   {
     "title": "Learning a few things about running SQLite",
@@ -112,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48942603\">Comments</a>"
   },
   {
-    "title": "Battery packs: Let's talk about crates, baby",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-    "source": "Hacker News",
-    "published": "2026-07-16T22:48:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48941315\">Comments</a>"
-  },
-  {
     "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
     "link": "https://github.com/tucan9389/nanochat-jax/discussions/1",
     "source": "Hacker News",
@@ -134,22 +150,6 @@
     "published": "2026-07-14T14:02:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48907063\">Comments</a>"
-  },
-  {
-    "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-    "link": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-    "source": "Hacker News",
-    "published": "2026-07-14T12:59:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48906171\">Comments</a>"
-  },
-  {
-    "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
-    "link": "https://prathosh.in/vagdhenu/",
-    "source": "Hacker News",
-    "published": "2026-07-13T17:43:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896149\">Comments</a>"
   },
   {
     "title": "Waldi: A quiet place to write, and to be read",
