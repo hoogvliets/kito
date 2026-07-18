@@ -1,5 +1,13 @@
 [
   {
+    "title": "Regressive JPEGs",
+    "link": "https://maurycyz.com/projects/bad_jpeg/",
+    "source": "Hacker News",
+    "published": "2026-07-18T03:14:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954851\">Comments</a>"
+  },
+  {
     "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
     "link": "https://moonstone.sh/",
     "source": "Hacker News",
@@ -8,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48954175\">Comments</a>"
   },
   {
-    "title": "I Started a \"Dirt Notebook\"",
+    "title": "I started a \"dirt notebook\"",
     "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
     "source": "Hacker News",
     "published": "2026-07-18T01:12:13+00:00",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48953981\">Comments</a>"
   },
   {
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "source": "Hacker News",
-    "published": "2026-07-17T23:26:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48953406\">Comments</a>"
-  },
-  {
     "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
     "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
     "source": "Hacker News",
@@ -56,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48952565\">Comments</a>"
   },
   {
-    "title": "Open Book Touch: open-source e-reader",
-    "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-    "source": "Hacker News",
-    "published": "2026-07-17T20:47:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48952135\">Comments</a>"
-  },
-  {
     "title": "Static search trees: 40x faster than binary search (2024)",
     "link": "https://curiouscoding.nl/posts/static-search-tree/",
     "source": "Hacker News",
     "published": "2026-07-17T20:24:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48951898\">Comments</a>"
-  },
-  {
-    "title": "Painting the sides of railroad rails white to reduce derailment",
-    "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "source": "Hacker News",
-    "published": "2026-07-17T20:12:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48951780\">Comments</a>"
   },
   {
     "title": "The Zilog Z80 has turned 50",
@@ -126,6 +110,22 @@
     "published": "2026-07-17T09:42:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48945241\">Comments</a>"
+  },
+  {
+    "title": "In-toto: A framework to secure the integrity of software supply chains",
+    "link": "https://in-toto.io/",
+    "source": "Hacker News",
+    "published": "2026-07-17T02:00:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48942603\">Comments</a>"
+  },
+  {
+    "title": "Battery packs: Let's talk about crates, baby",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+    "source": "Hacker News",
+    "published": "2026-07-16T22:48:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48941315\">Comments</a>"
   },
   {
     "title": "Reviving a 15-year-old netbook with Arch Linux",
