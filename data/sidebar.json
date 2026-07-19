@@ -1,5 +1,37 @@
 [
   {
+    "title": "DRIVE \u2013 Operational Excellence for AI-accelerated engineering",
+    "link": "https://www.cortex.io/drive",
+    "source": "Hacker News",
+    "published": "2026-07-19T13:30:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968067\">Comments</a>"
+  },
+  {
+    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "source": "Hacker News",
+    "published": "2026-07-19T13:29:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968063\">Comments</a>"
+  },
+  {
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "source": "Hacker News",
+    "published": "2026-07-19T11:48:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48967256\">Comments</a>"
+  },
+  {
+    "title": "I joined the IndieWeb, here's what I learned",
+    "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "source": "Hacker News",
+    "published": "2026-07-19T11:14:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966984\">Comments</a>"
+  },
+  {
     "title": "The death and rebirth of my home server",
     "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "source": "Hacker News",
@@ -16,36 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48966713\">Comments</a>"
   },
   {
-    "title": "Qwen 3.8 Max Preview",
-    "link": "https://www.qwencloud.com/pricing/token-plan",
+    "title": "Claude Code uses Bun written in Rust now",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "source": "Hacker News",
-    "published": "2026-07-19T08:57:31+00:00",
+    "published": "2026-07-19T10:03:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966190\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966569\">Comments</a>"
   },
   {
-    "title": "Half a Second \u2013 a book about the XZ backdoor",
-    "link": "https://www.half-second.com/",
-    "source": "Hacker News",
-    "published": "2026-07-19T08:48:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966139\">Comments</a>"
-  },
-  {
-    "title": "Qwen3.8 is launching and going open-weight soon",
+    "title": "Qwen 3.8",
     "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
     "source": "Hacker News",
     "published": "2026-07-19T08:44:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48966120\">Comments</a>"
-  },
-  {
-    "title": "The Mighty Big Array of Finn Jensen LA8YB",
-    "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "source": "Hacker News",
-    "published": "2026-07-19T08:05:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48965914\">Comments</a>"
   },
   {
     "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -54,14 +70,6 @@
     "published": "2026-07-19T07:54:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48965850\">Comments</a>"
-  },
-  {
-    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-    "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-    "source": "Hacker News",
-    "published": "2026-07-19T05:07:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48965161\">Comments</a>"
   },
   {
     "title": "Better and Cheaper Than IPTV",
@@ -96,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48962758\">Comments</a>"
   },
   {
-    "title": "The Kimi K3 Moment",
-    "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "title": "UnifiedIR for Julia",
+    "link": "https://github.com/JuliaLang/julia/pull/62334",
     "source": "Hacker News",
-    "published": "2026-07-18T17:32:40+00:00",
+    "published": "2026-07-18T21:28:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48960218\">Comments</a>"
-  },
-  {
-    "title": "Searchable field-level encryption on Supabase with CipherStash",
-    "link": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-    "source": "Hacker News",
-    "published": "2026-07-15T13:10:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48920328\">Comments</a>"
-  },
-  {
-    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
-    "link": "https://github.com/loopgain-ai/loopgain",
-    "source": "Hacker News",
-    "published": "2026-07-15T12:07:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48919562\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48962600\">Comments</a>"
   },
   {
     "title": "Speech Recognition and TTS in less than 500kb",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48911021\">Comments</a>"
   },
   {
-    "title": "How the Elite See Rome",
-    "link": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
+    "title": "Infinities, impossibilities, and the man in the white linen suit",
+    "link": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
     "source": "Hacker News",
-    "published": "2026-07-13T18:16:03+00:00",
+    "published": "2026-07-14T08:24:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48896558\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903717\">Comments</a>"
   },
   {
     "title": "Mathematicians still don't know the fastest way to multiply numbers",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48895861\">Comments</a>"
   },
   {
-    "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
-    "link": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
+    "title": "Land Atlas \u2013 soil, farmability, and crop analysis for land listings",
+    "link": "https://land-atlas-production.up.railway.app/welcome",
     "source": "Hacker News",
-    "published": "2026-07-11T20:51:28+00:00",
+    "published": "2026-07-13T11:58:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48875738\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48891334\">Comments</a>"
+  },
+  {
+    "title": "Cagire: Live Coding in Forth",
+    "link": "https://cagire.raphaelforment.fr",
+    "source": "Hacker News",
+    "published": "2026-07-10T14:45:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48860719\">Comments</a>"
   }
 ]
