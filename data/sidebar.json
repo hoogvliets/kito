@@ -1,5 +1,37 @@
 [
   {
+    "title": "The death and rebirth of my home server",
+    "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "source": "Hacker News",
+    "published": "2026-07-19T10:44:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966769\">Comments</a>"
+  },
+  {
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "source": "Hacker News",
+    "published": "2026-07-19T10:34:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966713\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.8 Max Preview",
+    "link": "https://www.qwencloud.com/pricing/token-plan",
+    "source": "Hacker News",
+    "published": "2026-07-19T08:57:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966190\">Comments</a>"
+  },
+  {
+    "title": "Half a Second \u2013 a book about the XZ backdoor",
+    "link": "https://www.half-second.com/",
+    "source": "Hacker News",
+    "published": "2026-07-19T08:48:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966139\">Comments</a>"
+  },
+  {
     "title": "Qwen3.8 is launching and going open-weight soon",
     "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
     "source": "Hacker News",
@@ -8,12 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48966120\">Comments</a>"
   },
   {
-    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "title": "The Mighty Big Array of Finn Jensen LA8YB",
+    "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
     "source": "Hacker News",
-    "published": "2026-07-19T08:00:24+00:00",
+    "published": "2026-07-19T08:05:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48965886\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48965914\">Comments</a>"
+  },
+  {
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "link": "https://github.com/openai/codex/pull/33972/files",
+    "source": "Hacker News",
+    "published": "2026-07-19T07:54:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48965850\">Comments</a>"
   },
   {
     "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
@@ -48,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48963465\">Comments</a>"
   },
   {
-    "title": "Classic Amiga titles, free to download",
-    "link": "https://amigafreeware.downer.tech/",
-    "source": "Hacker News",
-    "published": "2026-07-18T21:55:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48962838\">Comments</a>"
-  },
-  {
     "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
     "link": "https://www.neatnik.net/hardcore-indieweb",
     "source": "Hacker News",
@@ -72,36 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48960218\">Comments</a>"
   },
   {
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "link": "https://ykdojo.github.io/claude-controls-mac/",
-    "source": "Hacker News",
-    "published": "2026-07-18T16:12:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48959392\">Comments</a>"
-  },
-  {
-    "title": "If You Build It, They Will Come",
-    "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-    "source": "Hacker News",
-    "published": "2026-07-18T15:37:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48959090\">Comments</a>"
-  },
-  {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "source": "Hacker News",
-    "published": "2026-07-18T13:00:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48957779\">Comments</a>"
-  },
-  {
     "title": "Searchable field-level encryption on Supabase with CipherStash",
     "link": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
     "source": "Hacker News",
     "published": "2026-07-15T13:10:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48920328\">Comments</a>"
+  },
+  {
+    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
+    "link": "https://github.com/loopgain-ai/loopgain",
+    "source": "Hacker News",
+    "published": "2026-07-15T12:07:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48919562\">Comments</a>"
   },
   {
     "title": "Speech Recognition and TTS in less than 500kb",
@@ -112,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48911793\">Comments</a>"
   },
   {
-    "title": "Using self-hosted Umami for iOS app analytics",
-    "link": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+    "title": "Blender 5.2 LTS",
+    "link": "https://www.blender.org/download/releases/5-2/",
     "source": "Hacker News",
-    "published": "2026-07-14T12:34:41+00:00",
+    "published": "2026-07-14T18:22:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48905836\">Comments</a>"
-  },
-  {
-    "title": "Making Software: How to make a font",
-    "link": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-    "source": "Hacker News",
-    "published": "2026-07-14T09:41:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48904269\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48911021\">Comments</a>"
   },
   {
     "title": "How the Elite See Rome",
@@ -142,14 +150,6 @@
     "published": "2026-07-13T17:21:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48895861\">Comments</a>"
-  },
-  {
-    "title": "A Visual Catalog of Retro Macintosh Software",
-    "link": "https://www.marciot.com/mac68k-visual-catalog/",
-    "source": "Hacker News",
-    "published": "2026-07-12T00:22:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48877124\">Comments</a>"
   },
   {
     "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
