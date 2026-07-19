@@ -1,11 +1,35 @@
 [
   {
-    "title": "Neither GCC nor Clang are compliant with standard C++",
-    "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "link": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
     "source": "Hacker News",
-    "published": "2026-07-19T17:32:41+00:00",
+    "published": "2026-07-19T20:50:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48970039\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48971566\">Comments</a>"
+  },
+  {
+    "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+    "link": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+    "source": "Hacker News",
+    "published": "2026-07-19T19:27:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48970991\">Comments</a>"
+  },
+  {
+    "title": "Orion Browser by Kagi",
+    "link": "https://orionbrowser.com/",
+    "source": "Hacker News",
+    "published": "2026-07-19T19:13:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48970894\">Comments</a>"
+  },
+  {
+    "title": "HomeLab #1: MikroTik as a Home Router",
+    "link": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "source": "Hacker News",
+    "published": "2026-07-19T18:57:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48970772\">Comments</a>"
   },
   {
     "title": "HMD Touch 4G",
@@ -14,22 +38,6 @@
     "published": "2026-07-19T17:25:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48969983\">Comments</a>"
-  },
-  {
-    "title": "The Last MPEG-4 Visual Patent Has Expired",
-    "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-    "source": "Hacker News",
-    "published": "2026-07-19T16:45:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48969635\">Comments</a>"
-  },
-  {
-    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-    "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-    "source": "Hacker News",
-    "published": "2026-07-19T16:02:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48969291\">Comments</a>"
   },
   {
     "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
@@ -48,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48968606\">Comments</a>"
   },
   {
-    "title": "Terence McKenna's Mega Bad Trip",
-    "link": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-    "source": "Hacker News",
-    "published": "2026-07-19T14:30:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968515\">Comments</a>"
-  },
-  {
     "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
     "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
     "source": "Hacker News",
@@ -70,6 +70,14 @@
     "published": "2026-07-19T11:48:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48967256\">Comments</a>"
+  },
+  {
+    "title": "I joined the IndieWeb, here's what I learned",
+    "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "source": "Hacker News",
+    "published": "2026-07-19T11:14:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48966984\">Comments</a>"
   },
   {
     "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
@@ -104,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48965850\">Comments</a>"
   },
   {
-    "title": "Transcribe.cpp",
-    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "source": "Hacker News",
-    "published": "2026-07-19T00:38:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48963879\">Comments</a>"
-  },
-  {
     "title": "UnifiedIR for Julia",
     "link": "https://github.com/JuliaLang/julia/pull/62334",
     "source": "Hacker News",
     "published": "2026-07-18T21:28:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48962600\">Comments</a>"
-  },
-  {
-    "title": "Speech Recognition and TTS in less than 500kb",
-    "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-    "source": "Hacker News",
-    "published": "2026-07-14T19:25:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48911793\">Comments</a>"
   },
   {
     "title": "Blender 5.2 LTS",
@@ -136,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48911021\">Comments</a>"
   },
   {
-    "title": "Infinities, impossibilities, and the man in the white linen suit",
-    "link": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+    "title": "The Zen of Parallel Programming",
+    "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
     "source": "Hacker News",
-    "published": "2026-07-14T08:24:54+00:00",
+    "published": "2026-07-14T14:23:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48903717\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48907390\">Comments</a>"
+  },
+  {
+    "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability",
+    "link": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
+    "source": "Hacker News",
+    "published": "2026-07-13T14:32:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48893346\">Comments</a>"
   },
   {
     "title": "Land Atlas \u2013 soil, farmability, and crop analysis for land listings",
