@@ -1,5 +1,29 @@
 [
   {
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "link": "https://vincentwoo.com/3d/grace_cathedral/",
+    "source": "Hacker News",
+    "published": "2026-07-20T20:10:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48984254\">Comments</a>"
+  },
+  {
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+    "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "source": "Hacker News",
+    "published": "2026-07-20T20:08:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48984231\">Comments</a>"
+  },
+  {
+    "title": "Human mathematicians are being outcounterexampled",
+    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "source": "Hacker News",
+    "published": "2026-07-20T19:03:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48983382\">Comments</a>"
+  },
+  {
     "title": "Nativ: Run frontier open models locally on your Mac",
     "link": "https://blaizzy.github.io/nativ/",
     "source": "Hacker News",
@@ -8,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48982681\">Comments</a>"
   },
   {
-    "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-    "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+    "title": "Agent swarms and the new model economics",
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
     "source": "Hacker News",
-    "published": "2026-07-20T18:10:44+00:00",
+    "published": "2026-07-20T18:06:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982583\">Comments</a>"
-  },
-  {
-    "title": "The drivers behind software delivery inefficiency",
-    "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
-    "source": "Hacker News",
-    "published": "2026-07-20T18:10:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982578\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982535\">Comments</a>"
   },
   {
     "title": "Hyprland 0.55 announced the switch to Lua for its config files",
@@ -64,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48981136\">Comments</a>"
   },
   {
-    "title": "Ziggity \u2013 A terminal UI for Git, written in Zig",
-    "link": "https://github.com/simoarpe/ziggity",
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
     "source": "Hacker News",
-    "published": "2026-07-20T15:46:18+00:00",
+    "published": "2026-07-20T15:13:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980506\">Comments</a>"
-  },
-  {
-    "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-    "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:40:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980404\">Comments</a>"
-  },
-  {
-    "title": "The Voice of Google",
-    "link": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:15:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980053\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980019\">Comments</a>"
   },
   {
     "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
@@ -96,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48979931\">Comments</a>"
   },
   {
-    "title": "China's open-weights AI strategy is winning",
+    "title": "China\u2019s open-weights AI strategy is winning",
     "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "source": "Hacker News",
     "published": "2026-07-20T14:21:47+00:00",
@@ -104,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48979269\">Comments</a>"
   },
   {
-    "title": "Perfection Is Not Over-Engineering",
+    "title": "Perfection is not over-engineering",
     "link": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
     "source": "Hacker News",
     "published": "2026-07-20T14:10:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48979120\">Comments</a>"
-  },
-  {
-    "title": "Firefox Merges Support for Vulkan Video Decoding",
-    "link": "https://github.com/search",
-    "source": "Hacker News",
-    "published": "2026-07-20T13:47:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48978835\">Comments</a>"
-  },
-  {
-    "title": "Shinjuku Station in 3D",
-    "link": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-    "source": "Hacker News",
-    "published": "2026-07-20T13:43:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48978792\">Comments</a>"
   },
   {
     "title": "Hacker wipes Romania's land registry database",
@@ -136,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48978605\">Comments</a>"
   },
   {
-    "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "title": "LEDs\u2019 potential to save our night skies",
     "link": "https://spectrum.ieee.org/led-light-pollution",
     "source": "Hacker News",
     "published": "2026-07-20T13:07:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48978350\">Comments</a>"
+  },
+  {
+    "title": "Who's Afraid of Chinese Models?",
+    "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "source": "Hacker News",
+    "published": "2026-07-20T11:05:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48977128\">Comments</a>"
   },
   {
     "title": "Airport Simulator",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48976846\">Comments</a>"
   },
   {
-    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+    "link": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
     "source": "Hacker News",
-    "published": "2026-07-20T08:13:36+00:00",
+    "published": "2026-07-17T14:24:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947739\">Comments</a>"
+  },
+  {
+    "title": "You only need the frontier model for one single edit",
+    "link": "https://stencil.so/blog/prewalk",
+    "source": "Hacker News",
+    "published": "2026-07-15T05:08:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48916512\">Comments</a>"
   }
 ]
