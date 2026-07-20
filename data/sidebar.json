@@ -1,19 +1,83 @@
 [
   {
-    "title": "Jaron Lanier: there is no AI (2023)",
-    "link": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "link": "https://blaizzy.github.io/nativ/",
     "source": "Hacker News",
-    "published": "2026-07-20T15:28:32+00:00",
+    "published": "2026-07-20T18:16:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980238\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982681\">Comments</a>"
   },
   {
-    "title": "Show HN: Wheesper \u2013 Start an anonymous discussion with a link",
-    "link": "https://wheesper.com/",
+    "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+    "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
     "source": "Hacker News",
-    "published": "2026-07-20T15:23:50+00:00",
+    "published": "2026-07-20T18:10:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980167\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982583\">Comments</a>"
+  },
+  {
+    "title": "The drivers behind software delivery inefficiency",
+    "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+    "source": "Hacker News",
+    "published": "2026-07-20T18:10:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982578\">Comments</a>"
+  },
+  {
+    "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+    "link": "https://hypr.land/news/update55/",
+    "source": "Hacker News",
+    "published": "2026-07-20T17:31:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>"
+  },
+  {
+    "title": "Kimi Work",
+    "link": "https://www.kimi.com/products/kimi-work",
+    "source": "Hacker News",
+    "published": "2026-07-20T17:13:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981703\">Comments</a>"
+  },
+  {
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "link": "https://jelly-ui.com/",
+    "source": "Hacker News",
+    "published": "2026-07-20T17:07:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981620\">Comments</a>"
+  },
+  {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "source": "Hacker News",
+    "published": "2026-07-20T16:36:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981206\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
+    "link": "https://news.ycombinator.com/item?id=48981136",
+    "source": "Hacker News",
+    "published": "2026-07-20T16:32:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981136\">Comments</a>"
+  },
+  {
+    "title": "Ziggity \u2013 A terminal UI for Git, written in Zig",
+    "link": "https://github.com/simoarpe/ziggity",
+    "source": "Hacker News",
+    "published": "2026-07-20T15:46:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980506\">Comments</a>"
+  },
+  {
+    "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+    "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+    "source": "Hacker News",
+    "published": "2026-07-20T15:40:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980404\">Comments</a>"
   },
   {
     "title": "The Voice of Google",
@@ -24,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48980053\">Comments</a>"
   },
   {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-    "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:13:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980019\">Comments</a>"
-  },
-  {
     "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
     "link": "https://nothings.org/gamedev/ssao/",
     "source": "Hacker News",
@@ -40,23 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48979931\">Comments</a>"
   },
   {
-    "title": "I Tracked 997 Chrome Extensions That Changed Their Titles",
-    "link": "https://extensionranker.com/blog/chrome-extension-title-changes-rankings",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:00:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48979825\">Comments</a>"
-  },
-  {
-    "title": "NYC Subway Signals: A Complete Guide",
-    "link": "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:00:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48979823\">Comments</a>"
-  },
-  {
-    "title": "American AI is locked down and proprietary. It's losing",
+    "title": "China's open-weights AI strategy is winning",
     "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "source": "Hacker News",
     "published": "2026-07-20T14:21:47+00:00",
@@ -96,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48978605\">Comments</a>"
   },
   {
-    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-    "link": "https://yang-ai-lab.github.io/Inertia-1/",
-    "source": "Hacker News",
-    "published": "2026-07-20T13:11:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48978388\">Comments</a>"
-  },
-  {
     "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
     "link": "https://spectrum.ieee.org/led-light-pollution",
     "source": "Hacker News",
     "published": "2026-07-20T13:07:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48978350\">Comments</a>"
-  },
-  {
-    "title": "Soofi \u2013 Sovereign Open Source Foundation Models",
-    "link": "https://www.soofi.info/",
-    "source": "Hacker News",
-    "published": "2026-07-20T12:52:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48978192\">Comments</a>"
-  },
-  {
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-    "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "source": "Hacker News",
-    "published": "2026-07-20T12:14:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48977711\">Comments</a>"
   },
   {
     "title": "Airport Simulator",
@@ -142,21 +158,5 @@
     "published": "2026-07-20T08:13:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>"
-  },
-  {
-    "title": "Satan's 19th-Century Bank Note (2017)",
-    "link": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-    "source": "Hacker News",
-    "published": "2026-07-20T01:31:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48973455\">Comments</a>"
-  },
-  {
-    "title": "ECC and DDR5",
-    "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-    "source": "Hacker News",
-    "published": "2026-07-19T16:31:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48969530\">Comments</a>"
   }
 ]
