@@ -1,43 +1,123 @@
 [
   {
-    "title": "NPM's release cooldown is security theater",
-    "link": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+    "title": "Slater \u2013 Low-memory graphdb designed for read-heavy graphs",
+    "link": "https://github.com/Hikari-Systems/slater",
     "source": "Hacker News",
-    "published": "2026-07-21T15:46:18+00:00",
+    "published": "2026-07-21T18:39:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48993885\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996325\">Comments</a>"
   },
   {
-    "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+    "title": "Freeink: Open Ecosystem for E-Readers",
+    "link": "https://freeink.org/",
+    "source": "Hacker News",
+    "published": "2026-07-21T18:39:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996318\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+    "link": "https://github.com/Kalcode/spaceprojectsim",
+    "source": "Hacker News",
+    "published": "2026-07-21T18:29:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996187\">Comments</a>"
+  },
+  {
+    "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+    "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+    "source": "Hacker News",
+    "published": "2026-07-21T18:25:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996128\">Comments</a>"
+  },
+  {
+    "title": "How did the H1B visa become the 'Indian' visa",
+    "link": "https://numberstation.fm/the-body-shop/",
+    "source": "Hacker News",
+    "published": "2026-07-21T18:10:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995946\">Comments</a>"
+  },
+  {
+    "title": "Greedy is optimal for single-pass semi-streaming matching",
+    "link": "https://arxiv.org/abs/2607.14656",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:59:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995814\">Comments</a>"
+  },
+  {
+    "title": "Apple Private Cloud Compute SoC 3 audit reports",
+    "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:58:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995796\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Imagin Raw \u2013 A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+    "link": "https://github.com/cristibaluta/Imagin-Raw",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:30:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995444\">Comments</a>"
+  },
+  {
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:14:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995213\">Comments</a>"
+  },
+  {
+    "title": "Show HN: CodeAlmanac \u2013 Karpathy-style codebase wiki from your conversations",
+    "link": "https://github.com/AlmanacCode/codealmanac/",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:12:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995181\">Comments</a>"
+  },
+  {
+    "title": "Uhubctl \u2013 control USB power per-port on smart USB hubs",
+    "link": "https://github.com/mvp/uhubctl",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:09:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995149\">Comments</a>"
+  },
+  {
+    "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:03:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995074\">Comments</a>"
+  },
+  {
+    "title": "Bloomy (YC S26) is hiring a founding engineer",
+    "link": "https://news.ycombinator.com/item?id=48995037",
+    "source": "Hacker News",
+    "published": "2026-07-21T17:00:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995037\">Comments</a>"
+  },
+  {
+    "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+    "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+    "source": "Hacker News",
+    "published": "2026-07-21T16:02:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48994116\">Comments</a>"
+  },
+  {
+    "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
     "link": "https://e360.yale.edu/digest/benin-coral-reef",
     "source": "Hacker News",
     "published": "2026-07-21T15:41:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48993816\">Comments</a>"
-  },
-  {
-    "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
-    "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
-    "source": "Hacker News",
-    "published": "2026-07-21T15:22:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48993488\">Comments</a>"
-  },
-  {
-    "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
-    "link": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
-    "source": "Hacker News",
-    "published": "2026-07-21T15:21:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48993465\">Comments</a>"
-  },
-  {
-    "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
-    "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-    "source": "Hacker News",
-    "published": "2026-07-21T15:19:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48993448\">Comments</a>"
   },
   {
     "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -46,22 +126,6 @@
     "published": "2026-07-21T15:17:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48993414\">Comments</a>"
-  },
-  {
-    "title": "Claude Is Not a Compiler",
-    "link": "https://blog.exe.dev/claude-is-not-a-compiler",
-    "source": "Hacker News",
-    "published": "2026-07-21T14:49:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48993059\">Comments</a>"
-  },
-  {
-    "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-    "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-    "source": "Hacker News",
-    "published": "2026-07-21T14:31:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48992870\">Comments</a>"
   },
   {
     "title": "PCjs Machines",
@@ -80,83 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48989701\">Comments</a>"
   },
   {
-    "title": "Running Doom on Our Custom CPU and Going Viral",
-    "link": "https://www.armaangomes.com/blogs/doom/",
+    "title": "My USB Drive Has a Hidden Encrypted Vault",
+    "link": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
     "source": "Hacker News",
-    "published": "2026-07-21T03:54:16+00:00",
+    "published": "2026-07-20T06:09:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48974862\">Comments</a>"
   },
   {
-    "title": "Incremental \u2013 A library for incremental computations",
-    "link": "https://github.com/janestreet/incremental",
+    "title": "The unreasonable difficulty of time series forecasting",
+    "link": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
     "source": "Hacker News",
-    "published": "2026-07-21T03:50:53+00:00",
+    "published": "2026-07-18T18:09:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>"
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled",
-    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "source": "Hacker News",
-    "published": "2026-07-20T19:03:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48983382\">Comments</a>"
-  },
-  {
-    "title": "Kimi Work",
-    "link": "https://www.kimi.com/products/kimi-work",
-    "source": "Hacker News",
-    "published": "2026-07-20T17:13:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981703\">Comments</a>"
-  },
-  {
-    "title": "Jelly UI: Soft-body physics for native HTML form controls",
-    "link": "https://jelly-ui.com/",
-    "source": "Hacker News",
-    "published": "2026-07-20T17:07:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48981620\">Comments</a>"
-  },
-  {
-    "title": "Who's afraid of Chinese models?",
-    "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "source": "Hacker News",
-    "published": "2026-07-20T11:05:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48977128\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy",
-    "link": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-    "source": "Hacker News",
-    "published": "2026-07-19T14:15:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968408\">Comments</a>"
-  },
-  {
-    "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-    "link": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-    "source": "Hacker News",
-    "published": "2026-07-18T02:37:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954668\">Comments</a>"
-  },
-  {
-    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode \u2013 Ken Jin's Blog",
-    "link": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-    "source": "Hacker News",
-    "published": "2026-07-15T09:07:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48918140\">Comments</a>"
-  },
-  {
-    "title": "How to pack ternary numbers in 8-bit bytes",
-    "link": "https://compilade.net/blog/ternary-packing",
-    "source": "Hacker News",
-    "published": "2026-07-14T20:53:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48912812\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48960582\">Comments</a>"
   }
 ]
