@@ -1,5 +1,13 @@
 [
   {
+    "title": "I wrote an bash enumerator because I was sick of xargs",
+    "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "source": "Hacker News",
+    "published": "2026-07-20T20:12:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48984270\">Comments</a>"
+  },
+  {
     "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
     "link": "https://vincentwoo.com/3d/grace_cathedral/",
     "source": "Hacker News",
@@ -40,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48982535\">Comments</a>"
   },
   {
-    "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-    "link": "https://hypr.land/news/update55/",
-    "source": "Hacker News",
-    "published": "2026-07-20T17:31:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>"
-  },
-  {
     "title": "Kimi Work",
     "link": "https://www.kimi.com/products/kimi-work",
     "source": "Hacker News",
@@ -78,14 +78,6 @@
     "published": "2026-07-20T16:32:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48981136\">Comments</a>"
-  },
-  {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-    "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "source": "Hacker News",
-    "published": "2026-07-20T15:13:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980019\">Comments</a>"
   },
   {
     "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
@@ -128,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48978350\">Comments</a>"
   },
   {
-    "title": "Who's Afraid of Chinese Models?",
+    "title": "Who's afraid of Chinese models?",
     "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "source": "Hacker News",
     "published": "2026-07-20T11:05:58+00:00",
@@ -144,19 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48976846\">Comments</a>"
   },
   {
-    "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
-    "link": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
+    "title": "The Psychology of Software Teams",
+    "link": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
     "source": "Hacker News",
-    "published": "2026-07-17T14:24:21+00:00",
+    "published": "2026-07-15T16:16:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48947739\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48923130\">Comments</a>"
   },
   {
-    "title": "You only need the frontier model for one single edit",
-    "link": "https://stencil.so/blog/prewalk",
+    "title": "Rendering Fonts Quickly on the GPU",
+    "link": "https://www.outercloud.dev/blogs/webgpu-font-rendering/",
     "source": "Hacker News",
-    "published": "2026-07-15T05:08:26+00:00",
+    "published": "2026-07-14T03:26:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48916512\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48901918\">Comments</a>"
+  },
+  {
+    "title": "My two year old taught me constraint solving",
+    "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "source": "Hacker News",
+    "published": "2026-07-10T19:32:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48864176\">Comments</a>"
   }
 ]
