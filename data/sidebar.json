@@ -1,5 +1,13 @@
 [
   {
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "source": "Hacker News",
+    "published": "2026-07-21T08:44:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48989701\">Comments</a>"
+  },
+  {
     "title": "Linux kernel will support $ORIGIN, sort of",
     "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
     "source": "Hacker News",
@@ -14,14 +22,6 @@
     "published": "2026-07-21T04:48:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48988158\">Comments</a>"
-  },
-  {
-    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-    "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "source": "Hacker News",
-    "published": "2026-07-21T03:56:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48987863\">Comments</a>"
   },
   {
     "title": "Running Doom on Our Custom CPU and Going Viral",
@@ -48,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>"
   },
   {
-    "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-    "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+    "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+    "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
     "source": "Hacker News",
-    "published": "2026-07-21T00:33:53+00:00",
+    "published": "2026-07-21T03:42:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48986731\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48987775\">Comments</a>"
   },
   {
     "title": "I wrote an bash enumerator because I was sick of xargs",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48981136\">Comments</a>"
   },
   {
-    "title": "China\u2019s open-weights AI strategy is winning",
-    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "source": "Hacker News",
-    "published": "2026-07-20T14:21:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48979269\">Comments</a>"
-  },
-  {
     "title": "Who's afraid of Chinese models?",
     "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "source": "Hacker News",
     "published": "2026-07-20T11:05:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48977128\">Comments</a>"
+  },
+  {
+    "title": "Postmortem of a British Startup: Tract",
+    "link": "https://buildwithtract.com/",
+    "source": "Hacker News",
+    "published": "2026-07-19T14:25:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968474\">Comments</a>"
+  },
+  {
+    "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+    "link": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+    "source": "Hacker News",
+    "published": "2026-07-18T02:37:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48954668\">Comments</a>"
   },
   {
     "title": "The Psychology of Software Teams",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48923130\">Comments</a>"
   },
   {
-    "title": "You only need the frontier model for one single edit",
-    "link": "https://stencil.so/blog/prewalk",
+    "title": "How to pack ternary numbers in 8-bit bytes",
+    "link": "https://compilade.net/blog/ternary-packing",
     "source": "Hacker News",
-    "published": "2026-07-15T05:08:26+00:00",
+    "published": "2026-07-14T20:53:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48916512\">Comments</a>"
-  },
-  {
-    "title": "Tensor Notation in Mathup",
-    "link": "https://mathup.xyz/#tensors",
-    "source": "Hacker News",
-    "published": "2026-07-14T16:57:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48909784\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48912812\">Comments</a>"
   }
 ]
