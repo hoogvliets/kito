@@ -1,5 +1,53 @@
 [
   {
+    "title": "Malleable Computing, Emacs, and You",
+    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "source": "Hacker News",
+    "published": "2026-07-22T21:15:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013538\">Comments</a>"
+  },
+  {
+    "title": "Safari Technology Preview 248 Released",
+    "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+    "source": "Hacker News",
+    "published": "2026-07-22T21:00:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013356\">Comments</a>"
+  },
+  {
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+    "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "source": "Hacker News",
+    "published": "2026-07-22T20:33:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013036\">Comments</a>"
+  },
+  {
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "source": "Hacker News",
+    "published": "2026-07-22T20:16:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012777\">Comments</a>"
+  },
+  {
+    "title": "John C. Dvorak has died",
+    "link": "https://twitter.com/na_announce/status/2079952538040672302",
+    "source": "Hacker News",
+    "published": "2026-07-22T19:22:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012070\">Comments</a>"
+  },
+  {
+    "title": "Everyone Should Know SIMD",
+    "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "source": "Hacker News",
+    "published": "2026-07-22T17:48:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49010648\">Comments</a>"
+  },
+  {
     "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
     "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
     "source": "Hacker News",
@@ -32,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008901\">Comments</a>"
   },
   {
+    "title": "Does creatine make you smarter?",
+    "link": "https://dynomight.net/creatine/",
+    "source": "Hacker News",
+    "published": "2026-07-22T15:45:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008642\">Comments</a>"
+  },
+  {
     "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
     "link": "https://cruciblebench.ai/",
     "source": "Hacker News",
@@ -48,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008440\">Comments</a>"
   },
   {
-    "title": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
-    "link": "https://www.orangecrumbs.com/hall/",
-    "source": "Hacker News",
-    "published": "2026-07-22T15:30:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008406\">Comments</a>"
-  },
-  {
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
     "link": "https://bento.page/slides/",
     "source": "Hacker News",
     "published": "2026-07-22T15:19:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008211\">Comments</a>"
-  },
-  {
-    "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
-    "link": "https://neoradar.space",
-    "source": "Hacker News",
-    "published": "2026-07-22T15:15:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008143\">Comments</a>"
-  },
-  {
-    "title": "Perlin's Noise Algorithm",
-    "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:59:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007863\">Comments</a>"
   },
   {
     "title": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
@@ -88,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49007626\">Comments</a>"
   },
   {
-    "title": "\"We have information that Moonshot distilled Fable for the development of K3\"",
-    "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:42:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007610\">Comments</a>"
-  },
-  {
-    "title": "OpenNode \u2013 Bitcoin Payment Processor",
-    "link": "https://opennode.com/",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:34:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007524\">Comments</a>"
-  },
-  {
-    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-    "link": "https://twitter.com/nikitabier/status/2079787406300266743",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:25:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007374\">Comments</a>"
-  },
-  {
     "title": "The startup's Postgres survival guide",
     "link": "https://hatchet.run/blog/postgres-survival-guide",
     "source": "Hacker News",
@@ -120,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49005787\">Comments</a>"
   },
   {
-    "title": "10 REM\"_(C2SLFF4",
-    "link": "https://beej.us/blog/data/mystery-comment/",
+    "title": "Taking OCaml and Eio for a Spin",
+    "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
     "source": "Hacker News",
-    "published": "2026-07-22T11:58:09+00:00",
+    "published": "2026-07-20T07:32:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49005329\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48975395\">Comments</a>"
   },
   {
-    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
-    "link": "https://deepsql.ai/",
+    "title": "Nvidia DGX Spark as a daily driver",
+    "link": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
     "source": "Hacker News",
-    "published": "2026-07-20T15:32:20+00:00",
+    "published": "2026-07-19T19:44:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980286\">Comments</a>"
-  },
-  {
-    "title": "Introduction to Formal Verification with Lean Part 1",
-    "link": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "source": "Hacker News",
-    "published": "2026-07-19T15:49:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48969200\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48971128\">Comments</a>"
   },
   {
     "title": "Nobody knows what a used GPU cluster is worth",
