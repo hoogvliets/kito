@@ -1,5 +1,29 @@
 [
   {
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "source": "Hacker News",
+    "published": "2026-07-22T17:30:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>"
+  },
+  {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "link": "https://github.com/marcelroed/gigatoken/",
+    "source": "Hacker News",
+    "published": "2026-07-22T17:20:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49010167\">Comments</a>"
+  },
+  {
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "source": "Hacker News",
+    "published": "2026-07-22T17:17:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49010129\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
     "link": "https://unlayer.com",
     "source": "Hacker News",
@@ -8,20 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008901\">Comments</a>"
   },
   {
-    "title": "Does creatine make you smarter?",
-    "link": "https://dynomight.net/creatine/",
+    "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+    "link": "https://cruciblebench.ai/",
     "source": "Hacker News",
-    "published": "2026-07-22T15:45:18+00:00",
+    "published": "2026-07-22T15:39:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008642\">Comments</a>"
-  },
-  {
-    "title": "Six questions before you add an LLM",
-    "link": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
-    "source": "Hacker News",
-    "published": "2026-07-22T15:43:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008624\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008538\">Comments</a>"
   },
   {
     "title": "Making",
@@ -40,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008406\">Comments</a>"
   },
   {
-    "title": "Why I Am Not Going to Buy a Computer",
-    "link": "https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/",
-    "source": "Hacker News",
-    "published": "2026-07-22T15:22:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008276\">Comments</a>"
-  },
-  {
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
     "link": "https://bento.page/slides/",
     "source": "Hacker News",
@@ -64,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49008143\">Comments</a>"
   },
   {
-    "title": "OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence/",
-    "source": "Hacker News",
-    "published": "2026-07-22T15:12:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008089\">Comments</a>"
-  },
-  {
     "title": "Perlin's Noise Algorithm",
     "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
     "source": "Hacker News",
     "published": "2026-07-22T14:59:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49007863\">Comments</a>"
-  },
-  {
-    "title": "The Pillars of an API Platform",
-    "link": "https://launchany.com/the-pillars-of-an-api-platform/",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:57:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007839\">Comments</a>"
-  },
-  {
-    "title": "Airbus Full Scale Foldable Wing Extensions",
-    "link": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-    "source": "Hacker News",
-    "published": "2026-07-22T14:57:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007831\">Comments</a>"
   },
   {
     "title": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
@@ -104,12 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49007626\">Comments</a>"
   },
   {
-    "title": "I Built a Private Genomics Study with Stoffel MPC",
-    "link": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+    "title": "\"We have information that Moonshot distilled Fable for the development of K3\"",
+    "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
     "source": "Hacker News",
-    "published": "2026-07-22T14:35:55+00:00",
+    "published": "2026-07-22T14:42:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007546\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007610\">Comments</a>"
+  },
+  {
+    "title": "OpenNode \u2013 Bitcoin Payment Processor",
+    "link": "https://opennode.com/",
+    "source": "Hacker News",
+    "published": "2026-07-22T14:34:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007524\">Comments</a>"
+  },
+  {
+    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+    "link": "https://twitter.com/nikitabier/status/2079787406300266743",
+    "source": "Hacker News",
+    "published": "2026-07-22T14:25:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007374\">Comments</a>"
   },
   {
     "title": "The startup's Postgres survival guide",
@@ -128,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49005329\">Comments</a>"
   },
   {
+    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
+    "link": "https://deepsql.ai/",
+    "source": "Hacker News",
+    "published": "2026-07-20T15:32:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48980286\">Comments</a>"
+  },
+  {
     "title": "Introduction to Formal Verification with Lean Part 1",
     "link": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48969200\">Comments</a>"
   },
   {
-    "title": "Cornell's Interactive Wall of Birds",
-    "link": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
+    "title": "Nobody knows what a used GPU cluster is worth",
+    "link": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
     "source": "Hacker News",
-    "published": "2026-07-18T20:54:15+00:00",
+    "published": "2026-07-15T06:50:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48962282\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48917135\">Comments</a>"
   },
   {
-    "title": "Intel Starts Shipping High-NA EUV Silicon",
-    "link": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+    "title": "Mechanical light bulb from 1675 [video]",
+    "link": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
     "source": "Hacker News",
-    "published": "2026-07-18T19:56:33+00:00",
+    "published": "2026-07-14T21:26:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48961698\">Comments</a>"
-  },
-  {
-    "title": "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 \u2013 TechEBlog",
-    "link": "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/",
-    "source": "Hacker News",
-    "published": "2026-07-16T11:50:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48933232\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48913145\">Comments</a>"
   }
 ]
