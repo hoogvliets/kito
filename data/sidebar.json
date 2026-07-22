@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "link": "https://fireworks.ai/blog/kimik3-fable",
+    "source": "Hacker News",
+    "published": "2026-07-21T22:35:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Computable \u2013 Buy, sell, and redeem GPU for the exact weeks you want",
+    "link": "https://www.getcomputable.com/",
+    "source": "Hacker News",
+    "published": "2026-07-21T21:48:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48998828\">Comments</a>"
+  },
+  {
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "source": "Hacker News",
+    "published": "2026-07-21T21:27:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48998606\">Comments</a>"
+  },
+  {
     "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
     "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
     "source": "Hacker News",
@@ -32,12 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48997221\">Comments</a>"
   },
   {
-    "title": "The Price of Happiness (2024)",
-    "link": "https://happiness-science.org/price-of-happiness/",
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
     "source": "Hacker News",
-    "published": "2026-07-21T18:42:46+00:00",
+    "published": "2026-07-21T19:04:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996364\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996652\">Comments</a>"
+  },
+  {
+    "title": "Advertise in ChatGPT",
+    "link": "https://ads.openai.com/",
+    "source": "Hacker News",
+    "published": "2026-07-21T18:58:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996571\">Comments</a>"
   },
   {
     "title": "FreeInk: Open ecosystem for e-readers",
@@ -46,14 +78,6 @@
     "published": "2026-07-21T18:39:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48996318\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
-    "link": "https://github.com/Kalcode/spaceprojectsim",
-    "source": "Hacker News",
-    "published": "2026-07-21T18:29:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48996187\">Comments</a>"
   },
   {
     "title": "Apple Private Cloud Compute SoC 3 audit reports",
@@ -80,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48995213\">Comments</a>"
   },
   {
-    "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-    "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "title": "Map of the world's great castles and fortresses",
+    "link": "https://thecastlemap.com/",
     "source": "Hacker News",
-    "published": "2026-07-21T17:03:18+00:00",
+    "published": "2026-07-21T16:05:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995074\">Comments</a>"
-  },
-  {
-    "title": "Bloomy (YC S26) is hiring a founding engineer",
-    "link": "https://news.ycombinator.com/item?id=48995037",
-    "source": "Hacker News",
-    "published": "2026-07-21T17:00:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48995037\">Comments</a>"
-  },
-  {
-    "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-    "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-    "source": "Hacker News",
-    "published": "2026-07-21T16:02:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48994116\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48994178\">Comments</a>"
   },
   {
     "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
@@ -128,22 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48992870\">Comments</a>"
   },
   {
-    "title": "PCjs Machines",
-    "link": "https://www.pcjs.org/",
-    "source": "Hacker News",
-    "published": "2026-07-21T13:48:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48992323\">Comments</a>"
-  },
-  {
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "source": "Hacker News",
-    "published": "2026-07-21T08:44:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48989701\">Comments</a>"
-  },
-  {
     "title": "The Birth of Prolog (1996)",
     "link": "https://dl.acm.org/doi/10.1145/234286.1057820",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-07-17T12:47:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48946738\">Comments</a>"
+  },
+  {
+    "title": "Recreating the math behind the first stealth aircraft",
+    "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+    "source": "Hacker News",
+    "published": "2026-07-16T18:34:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48938395\">Comments</a>"
   }
 ]
