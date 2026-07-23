@@ -16,12 +16,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49017265\">Comments</a>"
   },
   {
-    "title": "Restructuring GitHub's bug bounty program",
-    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "title": "Protecting our FLOSS commons from LLMs",
+    "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
     "source": "Hacker News",
-    "published": "2026-07-23T02:28:23+00:00",
+    "published": "2026-07-23T01:14:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49016099\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49015635\">Comments</a>"
   },
   {
     "title": "Medici family mystery may be solved after more than 400 years",
@@ -30,14 +30,6 @@
     "published": "2026-07-22T21:55:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49014007\">Comments</a>"
-  },
-  {
-    "title": "Malleable Computing, Emacs, and You",
-    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-    "source": "Hacker News",
-    "published": "2026-07-22T21:15:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013538\">Comments</a>"
   },
   {
     "title": "John C. Dvorak has died",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48990219\">Comments</a>"
   },
   {
-    "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-    "link": "https://github.com/exlee/ascdraw",
+    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+    "link": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
     "source": "Hacker News",
-    "published": "2026-07-20T20:34:52+00:00",
+    "published": "2026-07-21T07:01:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48984534\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48989006\">Comments</a>"
   },
   {
     "title": "Making ASCII Art in Vim",
@@ -158,5 +150,13 @@
     "published": "2026-07-20T18:42:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48983076\">Comments</a>"
+  },
+  {
+    "title": "Why malloc always does more than I asked for?",
+    "link": "https://ssenthilnathan3.github.io/blog/malloc/",
+    "source": "Hacker News",
+    "published": "2026-07-20T11:50:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48977463\">Comments</a>"
   }
 ]
