@@ -1,5 +1,69 @@
 [
   {
+    "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+    "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
+    "source": "Hacker News",
+    "published": "2026-07-23T18:29:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49026059\">Comments</a>"
+  },
+  {
+    "title": "Building on ATProto",
+    "link": "https://lukekanies.com/writing/building-on-atproto/",
+    "source": "Hacker News",
+    "published": "2026-07-23T18:23:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49025984\">Comments</a>"
+  },
+  {
+    "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
+    "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+    "source": "Hacker News",
+    "published": "2026-07-23T18:13:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49025831\">Comments</a>"
+  },
+  {
+    "title": "Geekbench 7",
+    "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+    "source": "Hacker News",
+    "published": "2026-07-23T18:11:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49025812\">Comments</a>"
+  },
+  {
+    "title": "What happened to TheNumbers.com",
+    "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "source": "Hacker News",
+    "published": "2026-07-23T16:53:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49024691\">Comments</a>"
+  },
+  {
+    "title": "The arguments against open source AI are bad",
+    "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "source": "Hacker News",
+    "published": "2026-07-23T16:49:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49024643\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Screenpipe (YC S26) \u2013 Power your agents by your 24/7 screen recording",
+    "link": "https://news.ycombinator.com/item?id=49024620",
+    "source": "Hacker News",
+    "published": "2026-07-23T16:48:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49024620\">Comments</a>"
+  },
+  {
+    "title": "JEP 540: Simple JSON API (Now in Incubator)",
+    "link": "https://openjdk.org/jeps/540",
+    "source": "Hacker News",
+    "published": "2026-07-23T16:01:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49023809\">Comments</a>"
+  },
+  {
     "title": "Free way to get your data out of ChatGPT Business accounts",
     "link": "https://github.com/Conradqh/scrapemychats",
     "source": "Hacker News",
@@ -8,7 +72,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49023486\">Comments</a>"
   },
   {
-    "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+    "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+    "link": "https://github.com/onecli/onecli",
+    "source": "Hacker News",
+    "published": "2026-07-23T15:42:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49023427\">Comments</a>"
+  },
+  {
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "source": "Hacker News",
+    "published": "2026-07-23T15:18:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49023019\">Comments</a>"
+  },
+  {
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "source": "Hacker News",
     "published": "2026-07-23T15:18:40+00:00",
@@ -16,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49023016\">Comments</a>"
   },
   {
-    "title": "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
-    "link": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+    "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+    "link": "https://github.com/palmier-io/palmier-pro",
     "source": "Hacker News",
-    "published": "2026-07-23T15:05:44+00:00",
+    "published": "2026-07-23T15:11:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022838\">Comments</a>"
-  },
-  {
-    "title": "NerdLens: Mirror your computer with cardboard VR",
-    "link": "https://github.com/ThatXliner/NerdLens",
-    "source": "Hacker News",
-    "published": "2026-07-23T15:02:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022790\">Comments</a>"
-  },
-  {
-    "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:55:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022668\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022911\">Comments</a>"
   },
   {
     "title": "Learn WebGPU for C++",
@@ -48,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49022663\">Comments</a>"
   },
   {
-    "title": "Vulkan Tutorial",
-    "link": "https://vulkan-tutorial.com/",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:54:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022644\">Comments</a>"
-  },
-  {
     "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
     "link": "https://learnopengl.com/",
     "source": "Hacker News",
     "published": "2026-07-23T14:53:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49022634\">Comments</a>"
-  },
-  {
-    "title": "How much energy do data centers and artificial intelligence use?",
-    "link": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:40:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022412\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Whetuu \u2013 a zero-config cross-shell prompt written in Zig",
-    "link": "https://yamafaktory.github.io/whetuu/",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022371\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Remux \u2013 an open-source tmux workspace designed for iPhone",
-    "link": "https://github.com/h3nock/remux",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:31:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022284\">Comments</a>"
   },
   {
     "title": "Writing by hand is good for your brain",
@@ -126,37 +158,5 @@
     "published": "2026-07-23T13:51:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49021597\">Comments</a>"
-  },
-  {
-    "title": "What happens when the information runs out",
-    "link": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
-    "source": "Hacker News",
-    "published": "2026-07-23T13:49:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021569\">Comments</a>"
-  },
-  {
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "source": "Hacker News",
-    "published": "2026-07-23T13:09:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020999\">Comments</a>"
-  },
-  {
-    "title": "OpenStreetMap: Admin_level for All Countries",
-    "link": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-    "source": "Hacker News",
-    "published": "2026-07-19T13:19:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48968010\">Comments</a>"
-  },
-  {
-    "title": "Scanning for Pangram Errors",
-    "link": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-    "source": "Hacker News",
-    "published": "2026-07-17T09:29:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48945139\">Comments</a>"
   }
 ]
