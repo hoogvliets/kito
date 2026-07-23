@@ -1,19 +1,27 @@
 [
   {
+    "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+    "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+    "source": "Hacker News",
+    "published": "2026-07-23T05:40:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49017344\">Comments</a>"
+  },
+  {
+    "title": "Amiga 1000: Ten years ahead of its time",
+    "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "source": "Hacker News",
+    "published": "2026-07-23T05:24:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49017265\">Comments</a>"
+  },
+  {
     "title": "Restructuring GitHub's bug bounty program",
     "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
     "source": "Hacker News",
     "published": "2026-07-23T02:28:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49016099\">Comments</a>"
-  },
-  {
-    "title": "Petals: Run LLMs at home, BitTorrent-style",
-    "link": "https://petals.dev/",
-    "source": "Hacker News",
-    "published": "2026-07-23T01:33:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49015735\">Comments</a>"
   },
   {
     "title": "Medici family mystery may be solved after more than 400 years",
@@ -30,14 +38,6 @@
     "published": "2026-07-22T21:15:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49013538\">Comments</a>"
-  },
-  {
-    "title": "Fairphone 6 wide camera experimental Linux support",
-    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "source": "Hacker News",
-    "published": "2026-07-22T20:16:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012777\">Comments</a>"
   },
   {
     "title": "John C. Dvorak has died",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48991882\">Comments</a>"
   },
   {
+    "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+    "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+    "source": "Hacker News",
+    "published": "2026-07-21T10:04:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48990219\">Comments</a>"
+  },
+  {
     "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
     "link": "https://github.com/exlee/ascdraw",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-07-20T18:42:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48983076\">Comments</a>"
-  },
-  {
-    "title": "Nobody knows what a used GPU cluster is worth",
-    "link": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-    "source": "Hacker News",
-    "published": "2026-07-15T06:50:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48917135\">Comments</a>"
   }
 ]
