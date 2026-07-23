@@ -1,11 +1,19 @@
 [
   {
-    "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-    "link": "https://arxiv.org/abs/2607.18250",
+    "title": "Restructuring GitHub's bug bounty program",
+    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
     "source": "Hacker News",
-    "published": "2026-07-22T22:49:58+00:00",
+    "published": "2026-07-23T02:28:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49014537\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49016099\">Comments</a>"
+  },
+  {
+    "title": "Petals: Run LLMs at home, BitTorrent-style",
+    "link": "https://petals.dev/",
+    "source": "Hacker News",
+    "published": "2026-07-23T01:33:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49015735\">Comments</a>"
   },
   {
     "title": "Medici family mystery may be solved after more than 400 years",
@@ -16,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49014007\">Comments</a>"
   },
   {
-    "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-    "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-    "source": "Hacker News",
-    "published": "2026-07-22T21:54:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013995\">Comments</a>"
-  },
-  {
     "title": "Malleable Computing, Emacs, and You",
     "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "source": "Hacker News",
     "published": "2026-07-22T21:15:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49013538\">Comments</a>"
-  },
-  {
-    "title": "Safari Technology Preview 248 Released",
-    "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-    "source": "Hacker News",
-    "published": "2026-07-22T21:00:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49013356\">Comments</a>"
   },
   {
     "title": "Fairphone 6 wide camera experimental Linux support",
@@ -56,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49012070\">Comments</a>"
   },
   {
-    "title": "Clarity didn't work, trying mysterianism",
-    "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-    "source": "Hacker News",
-    "published": "2026-07-22T18:55:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49011687\">Comments</a>"
-  },
-  {
     "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
     "link": "https://github.com/cactus-compute/cactus-hybrid",
     "source": "Hacker News",
@@ -72,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49010782\">Comments</a>"
   },
   {
-    "title": "Everyone Should Know SIMD",
+    "title": "Everyone should know SIMD",
     "link": "https://mitchellh.com/writing/everyone-should-know-simd",
     "source": "Hacker News",
     "published": "2026-07-22T17:48:18+00:00",
@@ -80,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49010648\">Comments</a>"
   },
   {
-    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
     "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
     "source": "Hacker News",
     "published": "2026-07-22T17:30:40+00:00",
@@ -96,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49010167\">Comments</a>"
   },
   {
-    "title": "Are AI Labs Pelicanmaxxing?",
+    "title": "Are AI labs pelicanmaxxing?",
     "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "source": "Hacker News",
     "published": "2026-07-22T17:17:54+00:00",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49005747\">Comments</a>"
   },
   {
-    "title": "What Rose Petals Teach Us about Induction",
-    "link": "https://www.oranlooney.com/post/rose-petals/",
+    "title": "git's \u2013end-of-options Flag",
+    "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
     "source": "Hacker News",
-    "published": "2026-07-18T14:04:10+00:00",
+    "published": "2026-07-21T13:13:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48958266\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48991882\">Comments</a>"
+  },
+  {
+    "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+    "link": "https://github.com/exlee/ascdraw",
+    "source": "Hacker News",
+    "published": "2026-07-20T20:34:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48984534\">Comments</a>"
+  },
+  {
+    "title": "Making ASCII Art in Vim",
+    "link": "https://alexyang.dev/vim-ascii-art/",
+    "source": "Hacker News",
+    "published": "2026-07-20T18:42:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48983076\">Comments</a>"
   },
   {
     "title": "Nobody knows what a used GPU cluster is worth",
