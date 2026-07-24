@@ -1,11 +1,19 @@
 [
   {
-    "title": "I got into YC by hacking it",
-    "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+    "title": "What If We Made Advertising Illegal?",
+    "link": "https://simone.org/advertising/",
     "source": "Hacker News",
-    "published": "2026-07-24T18:03:22+00:00",
+    "published": "2026-07-24T20:07:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49039448\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49040989\">Comments</a>"
+  },
+  {
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "source": "Hacker News",
+    "published": "2026-07-24T19:05:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49040296\">Comments</a>"
   },
   {
     "title": "Gsxui \u2013 Shadcn-style components for Go",
@@ -16,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49039395\">Comments</a>"
   },
   {
-    "title": "DuckPGQ \u2013 A DuckDB community extension for graph workloads",
-    "link": "https://duckpgq.org/",
-    "source": "Hacker News",
-    "published": "2026-07-24T17:00:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038481\">Comments</a>"
-  },
-  {
     "title": "Claude Opus 5",
     "link": "https://www.anthropic.com/news/claude-opus-5",
     "source": "Hacker News",
     "published": "2026-07-24T16:57:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49038433\">Comments</a>"
-  },
-  {
-    "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-    "link": "https://openjdk.org/jeps/541",
-    "source": "Hacker News",
-    "published": "2026-07-24T16:52:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038352\">Comments</a>"
   },
   {
     "title": "Don't Take the Black Pill [video]",
@@ -48,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49038298\">Comments</a>"
   },
   {
-    "title": "The rise and fall of language diversity through the Holocene",
-    "link": "https://www.science.org/doi/10.1126/science.adx4343",
+    "title": "Unitree As2-W",
+    "link": "https://www.unitree.com/As2-W/",
     "source": "Hacker News",
-    "published": "2026-07-24T16:40:49+00:00",
+    "published": "2026-07-24T16:32:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038181\">Comments</a>"
-  },
-  {
-    "title": "Be skeptical of OpenAI's rogue hacker agent story",
-    "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "source": "Hacker News",
-    "published": "2026-07-24T16:33:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038060\">Comments</a>"
-  },
-  {
-    "title": "The front end framework for correctness: built on Effect, architected like Elm",
-    "link": "https://foldkit.dev/",
-    "source": "Hacker News",
-    "published": "2026-07-24T15:24:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49037031\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038045\">Comments</a>"
   },
   {
     "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
@@ -88,6 +64,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49034868\">Comments</a>"
   },
   {
+    "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+    "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+    "source": "Hacker News",
+    "published": "2026-07-24T12:34:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034673\">Comments</a>"
+  },
+  {
     "title": "My security camera shipped a GitHub admin token in its login page",
     "link": "https://hhh.hn/hanwha-github-token/",
     "source": "Hacker News",
@@ -96,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49034292\">Comments</a>"
   },
   {
-    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-    "link": "https://bfl.ai/blog/flux-3-mimic",
+    "title": "If coding has been solved, why does software keep getting worse?",
+    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
     "source": "Hacker News",
-    "published": "2026-07-24T09:31:48+00:00",
+    "published": "2026-07-24T09:08:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033127\">Comments</a>"
-  },
-  {
-    "title": "It's getting harder to focus every day",
-    "link": "https://glyphack.com/attention/",
-    "source": "Hacker News",
-    "published": "2026-07-24T08:18:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49032660\">Comments</a>"
-  },
-  {
-    "title": "The hardest way to make a GIF",
-    "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "source": "Hacker News",
-    "published": "2026-07-24T07:05:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49032126\">Comments</a>"
-  },
-  {
-    "title": "Flux 3",
-    "link": "https://bfl.ai/blog/flux-3",
-    "source": "Hacker News",
-    "published": "2026-07-24T06:17:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49031796\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033004\">Comments</a>"
   },
   {
     "title": "Fil-C: Garbage In, Memory Safety Out [video]",
@@ -136,12 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49026933\">Comments</a>"
   },
   {
-    "title": "Self-host your mail server",
-    "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "Kimi K3 exploited the latest Redis server",
+    "link": "https://twitter.com/fried_rice/status/2080059356322918777",
     "source": "Hacker News",
-    "published": "2026-07-23T12:49:10+00:00",
+    "published": "2026-07-23T17:10:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020751\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49024938\">Comments</a>"
+  },
+  {
+    "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+    "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+    "source": "Hacker News",
+    "published": "2026-07-22T15:37:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008512\">Comments</a>"
+  },
+  {
+    "title": "Marimo Now Runs in PyCharm",
+    "link": "https://marimo.io/blog/pycharm",
+    "source": "Hacker News",
+    "published": "2026-07-22T10:24:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49004464\">Comments</a>"
   },
   {
     "title": "Extending Polars with Rust Expression Plugins",
@@ -150,6 +126,30 @@
     "published": "2026-07-21T21:26:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48998589\">Comments</a>"
+  },
+  {
+    "title": "The Secret Origins of Amazon's Alexa",
+    "link": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+    "source": "Hacker News",
+    "published": "2026-07-21T20:42:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48997998\">Comments</a>"
+  },
+  {
+    "title": "Designing an Ethernet Switch ASIC",
+    "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+    "source": "Hacker News",
+    "published": "2026-07-20T21:35:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48985182\">Comments</a>"
+  },
+  {
+    "title": "The footprints of every building in NYC",
+    "link": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "source": "Hacker News",
+    "published": "2026-07-20T12:25:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48977849\">Comments</a>"
   },
   {
     "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
