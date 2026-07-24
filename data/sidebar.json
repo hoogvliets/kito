@@ -1,5 +1,69 @@
 [
   {
+    "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
+    "link": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
+    "source": "Hacker News",
+    "published": "2026-07-24T12:51:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034838\">Comments</a>"
+  },
+  {
+    "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+    "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+    "source": "Hacker News",
+    "published": "2026-07-24T12:34:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034673\">Comments</a>"
+  },
+  {
+    "title": "Why is programming so captivating, yet so agonizing?",
+    "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+    "source": "Hacker News",
+    "published": "2026-07-24T12:15:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034468\">Comments</a>"
+  },
+  {
+    "title": "I Tried Building a Real App with AI. It Took a Year",
+    "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+    "source": "Hacker News",
+    "published": "2026-07-24T12:00:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034342\">Comments</a>"
+  },
+  {
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "link": "https://hhh.hn/hanwha-github-token/",
+    "source": "Hacker News",
+    "published": "2026-07-24T11:54:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034292\">Comments</a>"
+  },
+  {
+    "title": "The case for MUDs in modern times",
+    "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+    "source": "Hacker News",
+    "published": "2026-07-24T11:46:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034217\">Comments</a>"
+  },
+  {
+    "title": "The IBM PC, Part 1: Arrival",
+    "link": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+    "source": "Hacker News",
+    "published": "2026-07-24T11:13:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033916\">Comments</a>"
+  },
+  {
+    "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "source": "Hacker News",
+    "published": "2026-07-24T09:52:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033240\">Comments</a>"
+  },
+  {
     "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
     "link": "https://bfl.ai/blog/flux-3-mimic",
     "source": "Hacker News",
@@ -8,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49033127\">Comments</a>"
   },
   {
-    "title": "Future euro banknote design proposals",
-    "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+    "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
     "source": "Hacker News",
-    "published": "2026-07-24T09:29:44+00:00",
+    "published": "2026-07-24T09:26:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033110\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033099\">Comments</a>"
   },
   {
     "title": "Nothing works and everyone is euphoric",
@@ -22,14 +86,6 @@
     "published": "2026-07-24T09:08:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49033004\">Comments</a>"
-  },
-  {
-    "title": "The day Steve Jobs dissed me in a keynote (2010)",
-    "link": "https://sive.rs/itunes",
-    "source": "Hacker News",
-    "published": "2026-07-24T09:07:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033001\">Comments</a>"
   },
   {
     "title": "The Book Prize Index",
@@ -46,14 +102,6 @@
     "published": "2026-07-24T08:18:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49032660\">Comments</a>"
-  },
-  {
-    "title": "The PImpl idiom and the C++26 std:indirect type",
-    "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "source": "Hacker News",
-    "published": "2026-07-24T07:02:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49032095\">Comments</a>"
   },
   {
     "title": "Flux 3",
@@ -80,68 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49026810\">Comments</a>"
   },
   {
-    "title": "Why Sony can't bring back its classic Walkman models",
-    "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-    "source": "Hacker News",
-    "published": "2026-07-23T18:08:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49025766\">Comments</a>"
-  },
-  {
-    "title": "What happened to TheNumbers.com",
-    "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-    "source": "Hacker News",
-    "published": "2026-07-23T16:53:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49024691\">Comments</a>"
-  },
-  {
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "source": "Hacker News",
-    "published": "2026-07-23T15:18:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49023019\">Comments</a>"
-  },
-  {
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "source": "Hacker News",
-    "published": "2026-07-23T15:18:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49023016\">Comments</a>"
-  },
-  {
-    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-    "link": "https://learnopengl.com/",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:53:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022634\">Comments</a>"
-  },
-  {
-    "title": "Writing by hand is good for your brain",
-    "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:24:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49022152\">Comments</a>"
-  },
-  {
-    "title": "I regret migrating to Codeberg",
-    "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:06:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021856\">Comments</a>"
-  },
-  {
     "title": "The Beam Engine",
     "link": "https://glinscott.github.io/beam-engine/",
     "source": "Hacker News",
     "published": "2026-07-22T14:16:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49007221\">Comments</a>"
+  },
+  {
+    "title": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+    "link": "https://github.com/43081j/tangleflow",
+    "source": "Hacker News",
+    "published": "2026-07-22T03:28:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49001498\">Comments</a>"
   },
   {
     "title": "Computational chemistry, Locally? My rant on SSH",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48996119\">Comments</a>"
   },
   {
-    "title": "What else do people draw on gradient.horse?",
-    "link": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+    "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
     "source": "Hacker News",
-    "published": "2026-07-18T15:28:56+00:00",
+    "published": "2026-07-20T02:43:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48959008\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48973835\">Comments</a>"
   }
 ]
