@@ -1,27 +1,59 @@
 [
   {
-    "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
-    "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+    "title": "Multicast TV Distribution on My Home Network",
+    "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
     "source": "Hacker News",
-    "published": "2026-07-25T18:18:42+00:00",
+    "published": "2026-07-25T20:55:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050152\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051463\">Comments</a>"
   },
   {
-    "title": "Rauno's Field Notes #2",
-    "link": "https://rauno.me/notes/2",
+    "title": "Fly.io CEO Kurt Mackey is stepping down",
+    "link": "https://fly.io/blog/kurt-scott-money-sprites/",
     "source": "Hacker News",
-    "published": "2026-07-25T16:39:55+00:00",
+    "published": "2026-07-25T20:43:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49049066\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051369\">Comments</a>"
   },
   {
-    "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-    "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "source": "Hacker News",
-    "published": "2026-07-25T16:09:58+00:00",
+    "published": "2026-07-25T20:42:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49048819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051361\">Comments</a>"
+  },
+  {
+    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+    "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+    "source": "Hacker News",
+    "published": "2026-07-25T19:30:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050735\">Comments</a>"
+  },
+  {
+    "title": "The growing vigilante movement to knock out Flock surveillance cameras",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+    "source": "Hacker News",
+    "published": "2026-07-25T19:02:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050538\">Comments</a>"
+  },
+  {
+    "title": "Memory Safety Absolutists",
+    "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+    "source": "Hacker News",
+    "published": "2026-07-25T18:08:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050058\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "link": "https://brolly.sh/forecast/RWFP2qW8",
+    "source": "Hacker News",
+    "published": "2026-07-25T17:34:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49049693\">Comments</a>"
   },
   {
     "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -40,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49048681\">Comments</a>"
   },
   {
-    "title": "Engineering management after the cost of code collapsed",
-    "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-    "source": "Hacker News",
-    "published": "2026-07-25T15:10:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49048212\">Comments</a>"
-  },
-  {
     "title": "Open-weight AI is having its Kubernetes moment",
     "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
     "source": "Hacker News",
@@ -56,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49048034\">Comments</a>"
   },
   {
-    "title": "Scanwheel is a drum style mechanical television you can build yourself",
-    "link": "https://github.com/AncientJames/Scanwheel/",
-    "source": "Hacker News",
-    "published": "2026-07-25T14:10:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49047707\">Comments</a>"
-  },
-  {
-    "title": "Bitchat Is Now on Radicle",
+    "title": "Bitchat is now on Radicle",
     "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
     "source": "Hacker News",
     "published": "2026-07-25T13:18:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49047365\">Comments</a>"
-  },
-  {
-    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-    "source": "Hacker News",
-    "published": "2026-07-25T12:00:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49046858\">Comments</a>"
   },
   {
     "title": "The Fedora 45 Sausage Factory",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49045159\">Comments</a>"
   },
   {
-    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "source": "Hacker News",
-    "published": "2026-07-25T01:44:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49043724\">Comments</a>"
-  },
-  {
     "title": "Show HN: I made some transistor animations",
     "link": "https://brandonli.net/semisim/animations",
     "source": "Hacker News",
@@ -118,6 +118,14 @@
     "published": "2026-07-22T18:09:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49010993\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Yorishiro \u2013 a macOS terminal where AI agents live",
+    "link": "https://github.com/sktkkoo/Yorishiro",
+    "source": "Hacker News",
+    "published": "2026-07-22T15:33:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49008434\">Comments</a>"
   },
   {
     "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
@@ -142,14 +150,6 @@
     "published": "2026-07-22T13:00:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49006096\">Comments</a>"
-  },
-  {
-    "title": "GDID Windows \u2013 Cut the tracker that follows you even under VPN",
-    "link": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-    "source": "Hacker News",
-    "published": "2026-07-21T13:22:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48991984\">Comments</a>"
   },
   {
     "title": "Stolen Buttons",
