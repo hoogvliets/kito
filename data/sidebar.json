@@ -1,11 +1,27 @@
 [
   {
-    "title": "Elevated Errors for Opus 5",
-    "link": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "link": "https://english.mapn.ro/",
     "source": "Hacker News",
-    "published": "2026-07-26T09:18:34+00:00",
+    "published": "2026-07-26T12:00:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49056194\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057248\">Comments</a>"
+  },
+  {
+    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "link": "https://code.claude.com/docs/en/data-usage",
+    "source": "Hacker News",
+    "published": "2026-07-26T10:42:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49056689\">Comments</a>"
+  },
+  {
+    "title": "Systemd Linger",
+    "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+    "source": "Hacker News",
+    "published": "2026-07-26T09:43:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49056351\">Comments</a>"
   },
   {
     "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
@@ -22,14 +38,6 @@
     "published": "2026-07-26T05:57:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49055169\">Comments</a>"
-  },
-  {
-    "title": "JetZero",
-    "link": "https://www.jetzero.aero",
-    "source": "Hacker News",
-    "published": "2026-07-26T02:55:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49054224\">Comments</a>"
   },
   {
     "title": "An ESP32 based plane radar for my desk",
@@ -80,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49052912\">Comments</a>"
   },
   {
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "source": "Hacker News",
+    "published": "2026-07-25T22:51:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49052570\">Comments</a>"
+  },
+  {
     "title": "Cloudflare's new AI traffic options for customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "source": "Hacker News",
@@ -120,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49034777\">Comments</a>"
   },
   {
-    "title": "Pip install Postgres \u2013 no Docker/Brew/apt",
-    "link": "https://github.com/leontrolski/postgresql-testing",
-    "source": "Hacker News",
-    "published": "2026-07-23T21:17:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49028169\">Comments</a>"
-  },
-  {
     "title": "Rethinking Legal Education in the AI Era",
     "link": "https://www.law.uchicago.edu/news/ai-strategy-statement",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49024980\">Comments</a>"
   },
   {
+    "title": "German Peasants' War",
+    "link": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+    "source": "Hacker News",
+    "published": "2026-07-23T00:20:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49015286\">Comments</a>"
+  },
+  {
     "title": "Overloaded Overloading",
     "link": "https://powerfulpython.com/blog/overloaded-overloading/",
     "source": "Hacker News",
     "published": "2026-07-22T11:44:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49005197\">Comments</a>"
-  },
-  {
-    "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
-    "link": "https://github.com/jdefrancesco/dskDitto",
-    "source": "Hacker News",
-    "published": "2026-07-22T06:52:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49002762\">Comments</a>"
-  },
-  {
-    "title": "Some more things about Django I've been enjoying",
-    "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "source": "Hacker News",
-    "published": "2026-07-21T20:30:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48997828\">Comments</a>"
   }
 ]
