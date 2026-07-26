@@ -1,19 +1,27 @@
 [
   {
+    "title": "Elevated Errors for Opus 5",
+    "link": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "source": "Hacker News",
+    "published": "2026-07-26T09:18:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49056194\">Comments</a>"
+  },
+  {
+    "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "link": "https://astral.sh/blog/ruff-v0.16.0",
+    "source": "Hacker News",
+    "published": "2026-07-26T09:01:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49056112\">Comments</a>"
+  },
+  {
     "title": "GrapheneOS protections against data extraction from locked devices",
     "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
     "source": "Hacker News",
     "published": "2026-07-26T05:57:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49055169\">Comments</a>"
-  },
-  {
-    "title": "W4ME Station \u2013 a WASM-4 runtime for Java ME phones",
-    "link": "https://github.com/mulfyx/w4me-station",
-    "source": "Hacker News",
-    "published": "2026-07-26T04:19:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49054697\">Comments</a>"
   },
   {
     "title": "JetZero",
@@ -56,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49053385\">Comments</a>"
   },
   {
-    "title": "Systems and Delays",
-    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "source": "Hacker News",
-    "published": "2026-07-26T00:37:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49053382\">Comments</a>"
-  },
-  {
     "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
     "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
     "source": "Hacker News",
@@ -80,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49052912\">Comments</a>"
   },
   {
-    "title": "Clinical failure rates over the decades: yikes",
-    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "source": "Hacker News",
-    "published": "2026-07-25T22:57:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49052628\">Comments</a>"
-  },
-  {
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "source": "Hacker News",
-    "published": "2026-07-25T22:51:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49052570\">Comments</a>"
-  },
-  {
     "title": "Cloudflare's new AI traffic options for customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "source": "Hacker News",
@@ -110,14 +94,6 @@
     "published": "2026-07-25T20:42:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49051361\">Comments</a>"
-  },
-  {
-    "title": "LLM Usage in Debian: Three Proposals",
-    "link": "https://www.debian.org/vote/2026/vote_002",
-    "source": "Hacker News",
-    "published": "2026-07-25T19:44:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050859\">Comments</a>"
   },
   {
     "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
@@ -144,12 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49034777\">Comments</a>"
   },
   {
+    "title": "Pip install Postgres \u2013 no Docker/Brew/apt",
+    "link": "https://github.com/leontrolski/postgresql-testing",
+    "source": "Hacker News",
+    "published": "2026-07-23T21:17:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49028169\">Comments</a>"
+  },
+  {
     "title": "Rethinking Legal Education in the AI Era",
     "link": "https://www.law.uchicago.edu/news/ai-strategy-statement",
     "source": "Hacker News",
     "published": "2026-07-23T17:12:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49024980\">Comments</a>"
+  },
+  {
+    "title": "Overloaded Overloading",
+    "link": "https://powerfulpython.com/blog/overloaded-overloading/",
+    "source": "Hacker News",
+    "published": "2026-07-22T11:44:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49005197\">Comments</a>"
+  },
+  {
+    "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+    "link": "https://github.com/jdefrancesco/dskDitto",
+    "source": "Hacker News",
+    "published": "2026-07-22T06:52:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49002762\">Comments</a>"
   },
   {
     "title": "Some more things about Django I've been enjoying",
