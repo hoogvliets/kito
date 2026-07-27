@@ -1,19 +1,107 @@
 [
   {
+    "title": "Elevated errors on Claude Opus 5",
+    "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "source": "Hacker News",
+    "published": "2026-07-27T11:32:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49068029\">Comments</a>"
+  },
+  {
+    "title": "How is the Bun Rewrite in Rust going?",
+    "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "source": "Hacker News",
+    "published": "2026-07-27T11:12:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067854\">Comments</a>"
+  },
+  {
+    "title": "The Birth of the American 12-string Guitar",
+    "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+    "source": "Hacker News",
+    "published": "2026-07-27T10:52:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067690\">Comments</a>"
+  },
+  {
+    "title": "If digital computers are conscious, they are conscious at the hardware level",
+    "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+    "source": "Hacker News",
+    "published": "2026-07-27T10:33:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067556\">Comments</a>"
+  },
+  {
+    "title": "Libsm64: Mario 64 as a library for use in external game engines",
+    "link": "https://github.com/libsm64/libsm64",
+    "source": "Hacker News",
+    "published": "2026-07-27T10:04:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067352\">Comments</a>"
+  },
+  {
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "source": "Hacker News",
+    "published": "2026-07-27T09:58:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067301\">Comments</a>"
+  },
+  {
+    "title": "Shay Locomotives",
+    "link": "https://www.shaylocomotives.com/",
+    "source": "Hacker News",
+    "published": "2026-07-27T09:23:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067043\">Comments</a>"
+  },
+  {
+    "title": "Chinese chipmaker shares surge 470%",
+    "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+    "source": "Hacker News",
+    "published": "2026-07-27T09:11:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066962\">Comments</a>"
+  },
+  {
+    "title": "VLC for Unity now supported on Linux",
+    "link": "https://code.videolan.org/videolan/vlc-unity",
+    "source": "Hacker News",
+    "published": "2026-07-27T09:06:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066928\">Comments</a>"
+  },
+  {
+    "title": "Modern email can be built from borrowed parts",
+    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+    "source": "Hacker News",
+    "published": "2026-07-27T08:27:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066639\">Comments</a>"
+  },
+  {
+    "title": "Elevated errors on Claude Opus 5",
+    "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
+    "source": "Hacker News",
+    "published": "2026-07-27T08:20:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066591\">Comments</a>"
+  },
+  {
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3",
+    "source": "Hacker News",
+    "published": "2026-07-27T06:18:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49065752\">Comments</a>"
+  },
+  {
     "title": "PGSimCity - How PostgreSQL Works",
     "link": "https://nikolays.github.io/PGSimCity/",
     "source": "Hacker News",
     "published": "2026-07-27T00:19:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49063754\">Comments</a>"
-  },
-  {
-    "title": "Fonts In Use \u2013 Find out where a font is used",
-    "link": "https://fontsinuse.com/",
-    "source": "Hacker News",
-    "published": "2026-07-26T23:45:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063523\">Comments</a>"
   },
   {
     "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
@@ -40,100 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49062291\">Comments</a>"
   },
   {
-    "title": "Simulate cassette tape audio profiles using FFmpeg",
-    "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-    "source": "Hacker News",
-    "published": "2026-07-26T20:02:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49061887\">Comments</a>"
-  },
-  {
     "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
     "link": "https://beyondloom.com/decker/",
     "source": "Hacker News",
     "published": "2026-07-26T18:23:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49060856\">Comments</a>"
-  },
-  {
-    "title": "Introduction to Data-Oriented Design [pdf]",
-    "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "source": "Hacker News",
-    "published": "2026-07-26T18:11:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060724\">Comments</a>"
-  },
-  {
-    "title": "French firefighters face 'pyrocumulonimbus' for first time",
-    "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "source": "Hacker News",
-    "published": "2026-07-26T17:49:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060495\">Comments</a>"
-  },
-  {
-    "title": "How to write English prose (2023)",
-    "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "source": "Hacker News",
-    "published": "2026-07-26T17:29:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060295\">Comments</a>"
-  },
-  {
-    "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-    "link": "https://github.com/gmrandazzo/CheapSecurity",
-    "source": "Hacker News",
-    "published": "2026-07-26T15:53:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49059398\">Comments</a>"
-  },
-  {
-    "title": "Design is compromise",
-    "link": "https://stephango.com/design-is-compromise",
-    "source": "Hacker News",
-    "published": "2026-07-26T15:51:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49059367\">Comments</a>"
-  },
-  {
-    "title": "The relay market powering token resellers and fraud",
-    "link": "https://vectoral.com/blog/token-relay-market",
-    "source": "Hacker News",
-    "published": "2026-07-26T15:17:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49058993\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Reverse Minesweeper",
-    "link": "https://sunflowersgame.com/",
-    "source": "Hacker News",
-    "published": "2026-07-26T12:51:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057666\">Comments</a>"
-  },
-  {
-    "title": "Go Analysis Framework: modular static analysis by go team",
-    "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-    "source": "Hacker News",
-    "published": "2026-07-26T12:21:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057398\">Comments</a>"
-  },
-  {
-    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "source": "Hacker News",
-    "published": "2026-07-26T12:00:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057241\">Comments</a>"
-  },
-  {
-    "title": "History of John Backus's functional programming project (draft)",
-    "link": "https://softwarepreservation.computerhistory.org/FP/",
-    "source": "Hacker News",
-    "published": "2026-07-24T16:32:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038035\">Comments</a>"
   },
   {
     "title": "Show HN: Physically accurate black hole you can put in your room",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49021270\">Comments</a>"
   },
   {
-    "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-    "link": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+    "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+    "link": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
     "source": "Hacker News",
-    "published": "2026-07-23T12:58:02+00:00",
+    "published": "2026-07-22T16:49:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020842\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49009706\">Comments</a>"
   },
   {
-    "title": "I wanted a clock that never needed setting. Things escalated",
-    "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+    "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+    "link": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
     "source": "Hacker News",
-    "published": "2026-07-23T12:01:52+00:00",
+    "published": "2026-07-22T14:58:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020219\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49007852\">Comments</a>"
   }
 ]
