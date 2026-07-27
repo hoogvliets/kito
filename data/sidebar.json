@@ -1,27 +1,11 @@
 [
   {
-    "title": "I Championed Prediction Markets. Look What They've Become",
-    "link": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
-    "source": "Hacker News",
-    "published": "2026-07-27T00:25:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063789\">Comments</a>"
-  },
-  {
     "title": "PGSimCity - How PostgreSQL Works",
     "link": "https://nikolays.github.io/PGSimCity/",
     "source": "Hacker News",
     "published": "2026-07-27T00:19:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49063754\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Port Zero \u2013 how I learned to stop worrying and love PORT=0",
-    "link": "https://portzero.net/",
-    "source": "Hacker News",
-    "published": "2026-07-27T00:03:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063648\">Comments</a>"
   },
   {
     "title": "Fonts In Use \u2013 Find out where a font is used",
@@ -32,20 +16,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49063523\">Comments</a>"
   },
   {
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "link": "https://github.com/vercel-labs/scriptc",
+    "source": "Hacker News",
+    "published": "2026-07-26T22:46:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063175\">Comments</a>"
+  },
+  {
     "title": "US citizen charged after GrapheneOS phone wipes during airport search",
     "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "source": "Hacker News",
     "published": "2026-07-26T22:21:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49063022\">Comments</a>"
-  },
-  {
-    "title": "Teaching Kids Forth",
-    "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "source": "Hacker News",
-    "published": "2026-07-26T21:39:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49062700\">Comments</a>"
   },
   {
     "title": "We have proof automation now",
@@ -56,28 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49062291\">Comments</a>"
   },
   {
-    "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-    "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-    "source": "Hacker News",
-    "published": "2026-07-26T20:31:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49062120\">Comments</a>"
-  },
-  {
     "title": "Simulate cassette tape audio profiles using FFmpeg",
     "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
     "source": "Hacker News",
     "published": "2026-07-26T20:02:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49061887\">Comments</a>"
-  },
-  {
-    "title": "How to Block Some of the Bots",
-    "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-    "source": "Hacker News",
-    "published": "2026-07-26T18:32:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060945\">Comments</a>"
   },
   {
     "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
@@ -96,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49060724\">Comments</a>"
   },
   {
-    "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-    "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-    "source": "Hacker News",
-    "published": "2026-07-26T17:51:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060509\">Comments</a>"
-  },
-  {
     "title": "French firefighters face 'pyrocumulonimbus' for first time",
     "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
     "source": "Hacker News",
@@ -112,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49060495\">Comments</a>"
   },
   {
-    "title": "How to Write English Prose",
+    "title": "How to write English prose (2023)",
     "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
     "source": "Hacker News",
     "published": "2026-07-26T17:29:35+00:00",
@@ -136,12 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49059367\">Comments</a>"
   },
   {
-    "title": "The New AI Superpowers: Focus and Followthrough",
-    "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "title": "The relay market powering token resellers and fraud",
+    "link": "https://vectoral.com/blog/token-relay-market",
     "source": "Hacker News",
-    "published": "2026-07-26T13:13:03+00:00",
+    "published": "2026-07-26T15:17:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057877\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49058993\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Reverse Minesweeper",
+    "link": "https://sunflowersgame.com/",
+    "source": "Hacker News",
+    "published": "2026-07-26T12:51:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49057666\">Comments</a>"
   },
   {
     "title": "Go Analysis Framework: modular static analysis by go team",
@@ -158,5 +126,37 @@
     "published": "2026-07-26T12:00:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49057241\">Comments</a>"
+  },
+  {
+    "title": "History of John Backus's functional programming project (draft)",
+    "link": "https://softwarepreservation.computerhistory.org/FP/",
+    "source": "Hacker News",
+    "published": "2026-07-24T16:32:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49038035\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Physically accurate black hole you can put in your room",
+    "link": "https://blackhole.plav.in",
+    "source": "Hacker News",
+    "published": "2026-07-23T13:29:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021270\">Comments</a>"
+  },
+  {
+    "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+    "link": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-23T12:58:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020842\">Comments</a>"
+  },
+  {
+    "title": "I wanted a clock that never needed setting. Things escalated",
+    "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+    "source": "Hacker News",
+    "published": "2026-07-23T12:01:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49020219\">Comments</a>"
   }
 ]
