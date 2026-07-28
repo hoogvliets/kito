@@ -1,5 +1,53 @@
 [
   {
+    "title": "Deflock Casa Grande",
+    "link": "https://deflockcg.com/",
+    "source": "Hacker News",
+    "published": "2026-07-28T18:41:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49088148\">Comments</a>"
+  },
+  {
+    "title": "MCP 2026-07-28 Specification: transport going stateless",
+    "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "source": "Hacker News",
+    "published": "2026-07-28T18:35:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49088058\">Comments</a>"
+  },
+  {
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "source": "Hacker News",
+    "published": "2026-07-28T17:22:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087091\">Comments</a>"
+  },
+  {
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "link": "https://sbcl.org/all-news.html?2.6.7",
+    "source": "Hacker News",
+    "published": "2026-07-28T17:11:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49086971\">Comments</a>"
+  },
+  {
+    "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+    "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+    "source": "Hacker News",
+    "published": "2026-07-28T17:05:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49086890\">Comments</a>"
+  },
+  {
+    "title": "Substack writers, you need a website",
+    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "source": "Hacker News",
+    "published": "2026-07-28T16:58:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>"
+  },
+  {
     "title": "You Could Have Come Up with Kimi Delta Attention",
     "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
     "source": "Hacker News",
@@ -16,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085811\">Comments</a>"
   },
   {
-    "title": "Show HN: XY \u2013 Fast, composable, GPU-accelerated charts, written in Rust",
+    "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
     "link": "https://github.com/reflex-dev/xy",
     "source": "Hacker News",
     "published": "2026-07-28T15:54:55+00:00",
@@ -30,6 +78,14 @@
     "published": "2026-07-28T15:50:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085731\">Comments</a>"
+  },
+  {
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:48:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085698\">Comments</a>"
   },
   {
     "title": "Zig's Incremental Compilation Internals",
@@ -48,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085280\">Comments</a>"
   },
   {
-    "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
-    "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+    "title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
+    "link": "https://anthropeum.com/",
     "source": "Hacker News",
-    "published": "2026-07-28T15:17:38+00:00",
+    "published": "2026-07-28T15:01:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085236\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084989\">Comments</a>"
   },
   {
-    "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-    "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
+    "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "link": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
     "source": "Hacker News",
-    "published": "2026-07-28T14:05:51+00:00",
+    "published": "2026-07-28T15:01:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084091\">Comments</a>"
-  },
-  {
-    "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-    "link": "https://github.com/utmapp/UTM/issues/7658",
-    "source": "Hacker News",
-    "published": "2026-07-28T13:33:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083634\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084987\">Comments</a>"
   },
   {
     "title": "New HIV vaccine shows unprecedented success in preclinical study",
@@ -80,30 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49083314\">Comments</a>"
   },
   {
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "source": "Hacker News",
-    "published": "2026-07-28T13:07:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083239\">Comments</a>"
-  },
-  {
-    "title": "What AI developers could learn from Charles Bukowski?",
-    "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-    "source": "Hacker News",
-    "published": "2026-07-28T13:00:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083132\">Comments</a>"
-  },
-  {
-    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-    "source": "Hacker News",
-    "published": "2026-07-28T12:02:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082550\">Comments</a>"
-  },
-  {
     "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
     "link": "https://arxiv.org/abs/2510.26692",
     "source": "Hacker News",
@@ -112,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49082022\">Comments</a>"
   },
   {
-    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
     "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
     "source": "Hacker News",
     "published": "2026-07-28T10:20:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49081783\">Comments</a>"
-  },
-  {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "source": "Hacker News",
-    "published": "2026-07-28T09:59:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081644\">Comments</a>"
   },
   {
     "title": "7.1 Earthquake in Japan",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49080664\">Comments</a>"
   },
   {
-    "title": "Solving Fermat: Andrew Wiles",
-    "link": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
+    "title": "The most advanced robotic servicing satellite\u2013that we know about",
+    "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
     "source": "Hacker News",
-    "published": "2026-07-27T20:42:46+00:00",
+    "published": "2026-07-24T18:39:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49075264\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Scala Tutorials \u2013 interactive Scala 3 lessons in the browser",
-    "link": "https://scalatutorials.com",
-    "source": "Hacker News",
-    "published": "2026-07-24T19:37:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49040650\">Comments</a>"
-  },
-  {
-    "title": "How to Survive Boiling Water",
-    "link": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-    "source": "Hacker News",
-    "published": "2026-07-24T14:19:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49036068\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49039904\">Comments</a>"
   }
 ]
