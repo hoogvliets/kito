@@ -1,19 +1,83 @@
 [
   {
-    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-    "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+    "title": "You Could Have Come Up with Kimi Delta Attention",
+    "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
     "source": "Hacker News",
-    "published": "2026-07-28T13:13:35+00:00",
+    "published": "2026-07-28T16:02:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083336\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085909\">Comments</a>"
   },
   {
-    "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
-    "link": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+    "title": "How Do I Profile eBPF Code?",
+    "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
     "source": "Hacker News",
-    "published": "2026-07-28T13:07:40+00:00",
+    "published": "2026-07-28T15:55:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083244\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085811\">Comments</a>"
+  },
+  {
+    "title": "Show HN: XY \u2013 Fast, composable, GPU-accelerated charts, written in Rust",
+    "link": "https://github.com/reflex-dev/xy",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:54:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085798\">Comments</a>"
+  },
+  {
+    "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+    "link": "https://www.slow-journalism.com/",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:50:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085731\">Comments</a>"
+  },
+  {
+    "title": "Zig's Incremental Compilation Internals",
+    "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:46:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085666\">Comments</a>"
+  },
+  {
+    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+    "link": "https://arxiv.org/abs/1202.4212",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:20:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085280\">Comments</a>"
+  },
+  {
+    "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+    "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+    "source": "Hacker News",
+    "published": "2026-07-28T15:17:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085236\">Comments</a>"
+  },
+  {
+    "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
+    "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
+    "source": "Hacker News",
+    "published": "2026-07-28T14:05:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084091\">Comments</a>"
+  },
+  {
+    "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+    "link": "https://github.com/utmapp/UTM/issues/7658",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:33:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083634\">Comments</a>"
+  },
+  {
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:12:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083314\">Comments</a>"
   },
   {
     "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
@@ -32,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49083132\">Comments</a>"
   },
   {
-    "title": "AI revenues are growing fast, but not fast enough",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-    "source": "Hacker News",
-    "published": "2026-07-28T12:19:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082706\">Comments</a>"
-  },
-  {
-    "title": "Mondragon Corporation \u2013 a federation of co-operatives",
-    "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-    "source": "Hacker News",
-    "published": "2026-07-28T12:19:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082695\">Comments</a>"
-  },
-  {
     "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
     "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
     "source": "Hacker News",
@@ -62,14 +110,6 @@
     "published": "2026-07-28T10:52:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49082022\">Comments</a>"
-  },
-  {
-    "title": "Usenet Archive Toolkit \u2013 process Usenet messages into a searchable archive",
-    "link": "https://github.com/wolfpld/usenetarchive",
-    "source": "Hacker News",
-    "published": "2026-07-28T10:30:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081862\">Comments</a>"
   },
   {
     "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
@@ -88,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49081644\">Comments</a>"
   },
   {
-    "title": "About the security content of macOS Tahoe 26.6",
-    "link": "https://support.apple.com/en-us/128067",
-    "source": "Hacker News",
-    "published": "2026-07-28T09:45:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081555\">Comments</a>"
-  },
-  {
     "title": "7.1 Earthquake in Japan",
     "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
     "source": "Hacker News",
@@ -104,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49080664\">Comments</a>"
   },
   {
-    "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
-    "link": "https://arsastronomica.com/",
+    "title": "Solving Fermat: Andrew Wiles",
+    "link": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
     "source": "Hacker News",
-    "published": "2026-07-28T05:25:34+00:00",
+    "published": "2026-07-27T20:42:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079727\">Comments</a>"
-  },
-  {
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-    "link": "https://fermisense.com/when-machines-take-the-wheel/",
-    "source": "Hacker News",
-    "published": "2026-07-28T02:18:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49078454\">Comments</a>"
-  },
-  {
-    "title": "Benchmarking Opus 5 on SlopCodeBench",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-    "source": "Hacker News",
-    "published": "2026-07-27T22:37:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076391\">Comments</a>"
-  },
-  {
-    "title": "Our position on open-weights models",
-    "link": "https://www.anthropic.com/news/position-open-weights-models",
-    "source": "Hacker News",
-    "published": "2026-07-27T22:03:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076057\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49075264\">Comments</a>"
   },
   {
     "title": "Show HN: Scala Tutorials \u2013 interactive Scala 3 lessons in the browser",
@@ -150,13 +158,5 @@
     "published": "2026-07-24T14:19:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49036068\">Comments</a>"
-  },
-  {
-    "title": "Which Odyssey translation wins a blind reading test?",
-    "link": "https://homer.scrivium.com/report/",
-    "source": "Hacker News",
-    "published": "2026-07-24T02:19:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49030552\">Comments</a>"
   }
 ]
