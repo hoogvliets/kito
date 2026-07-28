@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "source": "Hacker News",
+    "published": "2026-07-28T09:59:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081644\">Comments</a>"
+  },
+  {
+    "title": "What Even Are Microservices?",
+    "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "source": "Hacker News",
+    "published": "2026-07-28T09:52:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081594\">Comments</a>"
+  },
+  {
+    "title": "About the security content of macOS Tahoe 26.6",
+    "link": "https://support.apple.com/en-us/128067",
+    "source": "Hacker News",
+    "published": "2026-07-28T09:45:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081555\">Comments</a>"
+  },
+  {
     "title": "7.1 Earthquake in Japan",
     "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
     "source": "Hacker News",
@@ -40,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49078583\">Comments</a>"
   },
   {
-    "title": "An Uncomplicated Man \u2013 A review of The Odyssey, directed by Christopher Nolan",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-    "source": "Hacker News",
-    "published": "2026-07-28T02:35:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49078575\">Comments</a>"
-  },
-  {
-    "title": "EYG: A Programming Language for Humans",
-    "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-    "source": "Hacker News",
-    "published": "2026-07-28T02:21:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49078463\">Comments</a>"
-  },
-  {
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "link": "https://fermisense.com/when-machines-take-the-wheel/",
     "source": "Hacker News",
@@ -78,14 +86,6 @@
     "published": "2026-07-27T23:14:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49076840\">Comments</a>"
-  },
-  {
-    "title": "C/C++ projects packaged for Zig",
-    "link": "https://github.com/allyourcodebase",
-    "source": "Hacker News",
-    "published": "2026-07-27T23:09:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076791\">Comments</a>"
   },
   {
     "title": "Kimi K3 Now Available via Telnyx Inference API",
@@ -112,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49076057\">Comments</a>"
   },
   {
-    "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-    "link": "https://www.rise-reforming.com",
-    "source": "Hacker News",
-    "published": "2026-07-27T19:58:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49074817\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
-    "link": "https://github.com/FrigadeHQ/yap",
-    "source": "Hacker News",
-    "published": "2026-07-27T18:36:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073834\">Comments</a>"
-  },
-  {
     "title": "Watching Go's new garbage collector move through the heap",
     "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
     "source": "Hacker News",
@@ -144,6 +128,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49041256\">Comments</a>"
   },
   {
+    "title": "Golang Maps: how Swiss Tables replaced the old bucket design",
+    "link": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
+    "source": "Hacker News",
+    "published": "2026-07-24T18:12:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49039555\">Comments</a>"
+  },
+  {
+    "title": "How to Survive Boiling Water",
+    "link": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+    "source": "Hacker News",
+    "published": "2026-07-24T14:19:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49036068\">Comments</a>"
+  },
+  {
     "title": "Programming Languages Are Authoring Tools for Platforms",
     "link": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49034534\">Comments</a>"
   },
   {
-    "title": "Why copper still rules the motherboard trace",
-    "link": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+    "title": "TWC Classics",
+    "link": "https://twcclassics.com/",
     "source": "Hacker News",
-    "published": "2026-07-23T06:43:47+00:00",
+    "published": "2026-07-22T22:59:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49017741\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49014622\">Comments</a>"
   }
 ]
