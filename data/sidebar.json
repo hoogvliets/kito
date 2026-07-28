@@ -1,19 +1,91 @@
 [
   {
+    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+    "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:13:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083336\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+    "link": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:07:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083244\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:07:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083239\">Comments</a>"
+  },
+  {
+    "title": "What AI developers could learn from Charles Bukowski?",
+    "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:00:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083132\">Comments</a>"
+  },
+  {
+    "title": "AI revenues are growing fast, but not fast enough",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "source": "Hacker News",
+    "published": "2026-07-28T12:19:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082706\">Comments</a>"
+  },
+  {
+    "title": "Mondragon Corporation \u2013 a federation of co-operatives",
+    "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+    "source": "Hacker News",
+    "published": "2026-07-28T12:19:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082695\">Comments</a>"
+  },
+  {
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "source": "Hacker News",
+    "published": "2026-07-28T12:02:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082550\">Comments</a>"
+  },
+  {
+    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "link": "https://arxiv.org/abs/2510.26692",
+    "source": "Hacker News",
+    "published": "2026-07-28T10:52:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082022\">Comments</a>"
+  },
+  {
+    "title": "Usenet Archive Toolkit \u2013 process Usenet messages into a searchable archive",
+    "link": "https://github.com/wolfpld/usenetarchive",
+    "source": "Hacker News",
+    "published": "2026-07-28T10:30:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081862\">Comments</a>"
+  },
+  {
+    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "source": "Hacker News",
+    "published": "2026-07-28T10:20:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081783\">Comments</a>"
+  },
+  {
     "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
     "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
     "source": "Hacker News",
     "published": "2026-07-28T09:59:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49081644\">Comments</a>"
-  },
-  {
-    "title": "What Even Are Microservices?",
-    "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "source": "Hacker News",
-    "published": "2026-07-28T09:52:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49081594\">Comments</a>"
   },
   {
     "title": "About the security content of macOS Tahoe 26.6",
@@ -40,60 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49079727\">Comments</a>"
   },
   {
-    "title": "Neutrino-1 8B",
-    "link": "https://www.fermionresearch.com/models/neutrino-8b/",
-    "source": "Hacker News",
-    "published": "2026-07-28T04:49:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079490\">Comments</a>"
-  },
-  {
-    "title": "PyTorch: A Reference Language",
-    "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-    "source": "Hacker News",
-    "published": "2026-07-28T04:46:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079454\">Comments</a>"
-  },
-  {
-    "title": "Using an open model feels surprisingly good",
-    "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-    "source": "Hacker News",
-    "published": "2026-07-28T02:37:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49078583\">Comments</a>"
-  },
-  {
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "link": "https://fermisense.com/when-machines-take-the-wheel/",
     "source": "Hacker News",
     "published": "2026-07-28T02:18:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49078454\">Comments</a>"
-  },
-  {
-    "title": "Vehicle Motion Cues",
-    "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-    "source": "Hacker News",
-    "published": "2026-07-28T01:13:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077999\">Comments</a>"
-  },
-  {
-    "title": "DConf 2026 in London",
-    "link": "https://dconf.org/2026/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-27T23:14:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076840\">Comments</a>"
-  },
-  {
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
-    "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "source": "Hacker News",
-    "published": "2026-07-27T22:46:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076505\">Comments</a>"
   },
   {
     "title": "Benchmarking Opus 5 on SlopCodeBench",
@@ -112,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49076057\">Comments</a>"
   },
   {
-    "title": "Watching Go's new garbage collector move through the heap",
-    "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "title": "Show HN: Scala Tutorials \u2013 interactive Scala 3 lessons in the browser",
+    "link": "https://scalatutorials.com",
     "source": "Hacker News",
-    "published": "2026-07-25T07:55:19+00:00",
+    "published": "2026-07-24T19:37:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49045474\">Comments</a>"
-  },
-  {
-    "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-    "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-    "source": "Hacker News",
-    "published": "2026-07-24T20:35:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49041256\">Comments</a>"
-  },
-  {
-    "title": "Golang Maps: how Swiss Tables replaced the old bucket design",
-    "link": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-    "source": "Hacker News",
-    "published": "2026-07-24T18:12:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49039555\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49040650\">Comments</a>"
   },
   {
     "title": "How to Survive Boiling Water",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49036068\">Comments</a>"
   },
   {
-    "title": "Programming Languages Are Authoring Tools for Platforms",
-    "link": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
+    "title": "Which Odyssey translation wins a blind reading test?",
+    "link": "https://homer.scrivium.com/report/",
     "source": "Hacker News",
-    "published": "2026-07-24T12:21:32+00:00",
+    "published": "2026-07-24T02:19:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49034534\">Comments</a>"
-  },
-  {
-    "title": "TWC Classics",
-    "link": "https://twcclassics.com/",
-    "source": "Hacker News",
-    "published": "2026-07-22T22:59:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49014622\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49030552\">Comments</a>"
   }
 ]
