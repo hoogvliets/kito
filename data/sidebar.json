@@ -1,11 +1,51 @@
 [
   {
+    "title": "PgDog (YC P25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+    "source": "Hacker News",
+    "published": "2026-07-29T17:01:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49100056\">Comments</a>"
+  },
+  {
+    "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+    "link": "https://cheapfoodmap.com/",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:59:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49100043\">Comments</a>"
+  },
+  {
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:42:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099804\">Comments</a>"
+  },
+  {
+    "title": "Keychron announces first open-source firmware for gaming mice",
+    "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:36:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099715\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
     "link": "https://usetokenless.com/",
     "source": "Hacker News",
     "published": "2026-07-29T15:55:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49099143\">Comments</a>"
+  },
+  {
+    "title": "Superlogical",
+    "link": "https://www.superlogical.com/",
+    "source": "Hacker News",
+    "published": "2026-07-29T15:41:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098965\">Comments</a>"
   },
   {
     "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
@@ -16,8 +56,8 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49098510\">Comments</a>"
   },
   {
-    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-    "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+    "title": "Anatomy of a frontier-lab agent intrusion",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "source": "Hacker News",
     "published": "2026-07-29T15:01:52+00:00",
     "author": "Hacker News",
@@ -40,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49098260\">Comments</a>"
   },
   {
+    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "source": "Hacker News",
+    "published": "2026-07-29T14:43:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098198\">Comments</a>"
+  },
+  {
     "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
     "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
     "source": "Hacker News",
     "published": "2026-07-29T14:38:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49098130\">Comments</a>"
-  },
-  {
-    "title": "AI in Linux",
-    "link": "https://drewdevault.com/blog/AI-in-Linux/",
-    "source": "Hacker News",
-    "published": "2026-07-29T14:00:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49097649\">Comments</a>"
   },
   {
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
@@ -80,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49096654\">Comments</a>"
   },
   {
-    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "source": "Hacker News",
-    "published": "2026-07-29T12:11:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096427\">Comments</a>"
-  },
-  {
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
     "source": "Hacker News",
@@ -104,44 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49095865\">Comments</a>"
   },
   {
-    "title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
-    "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-    "source": "Hacker News",
-    "published": "2026-07-29T10:35:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095628\">Comments</a>"
-  },
-  {
-    "title": "Amiga Graphics Archive",
-    "link": "https://amiga.lychesis.net/index.html",
-    "source": "Hacker News",
-    "published": "2026-07-29T10:19:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095511\">Comments</a>"
-  },
-  {
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-    "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "source": "Hacker News",
-    "published": "2026-07-29T07:18:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49094346\">Comments</a>"
-  },
-  {
     "title": "More Tailscale tricks for your jailbroken Kindle",
     "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
     "source": "Hacker News",
     "published": "2026-07-29T04:58:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093569\">Comments</a>"
-  },
-  {
-    "title": "User Interfaces of the Demo Scene",
-    "link": "https://www.datagubbe.se/scenegui/",
-    "source": "Hacker News",
-    "published": "2026-07-29T04:30:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093434\">Comments</a>"
   },
   {
     "title": "Hamburg's Stadtpark: A Park Built to Be Used",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49065785\">Comments</a>"
   },
   {
-    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-    "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "title": "The Rust on ESP Book",
+    "link": "https://docs.espressif.com/projects/rust/book/",
     "source": "Hacker News",
-    "published": "2026-07-27T00:58:45+00:00",
+    "published": "2026-07-25T13:15:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063983\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49047351\">Comments</a>"
   }
 ]
