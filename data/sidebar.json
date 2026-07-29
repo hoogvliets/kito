@@ -1,11 +1,67 @@
 [
   {
-    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-    "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "link": "https://arxiv.org/abs/2607.25398",
     "source": "Hacker News",
-    "published": "2026-07-29T10:47:57+00:00",
+    "published": "2026-07-29T13:01:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095714\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096969\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:58:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096917\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
+    "link": "https://echologue.com/",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:43:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096767\">Comments</a>"
+  },
+  {
+    "title": "A Texture Lookup Approach to B\u00e9zier Curve Evaluation on the GPU (JCGT)",
+    "link": "https://jcgt.org/published/0015/02/01/",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096742\">Comments</a>"
+  },
+  {
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:11:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096427\">Comments</a>"
+  },
+  {
+    "title": "French musician Kavinsky found dead",
+    "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+    "source": "Hacker News",
+    "published": "2026-07-29T11:54:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096290\">Comments</a>"
+  },
+  {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "source": "Hacker News",
+    "published": "2026-07-29T11:44:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096188\">Comments</a>"
+  },
+  {
+    "title": "KOReader",
+    "link": "https://koreader.rocks/",
+    "source": "Hacker News",
+    "published": "2026-07-29T11:05:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095865\">Comments</a>"
   },
   {
     "title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
@@ -32,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49095143\">Comments</a>"
   },
   {
-    "title": "ChatGPT claims rogue AI attacked more companies",
-    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-    "source": "Hacker News",
-    "published": "2026-07-29T09:03:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49094996\">Comments</a>"
-  },
-  {
     "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
     "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
     "source": "Hacker News",
@@ -56,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093569\">Comments</a>"
   },
   {
-    "title": "Cracking Windows Open: Porting RADV to Win32",
-    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-    "source": "Hacker News",
-    "published": "2026-07-29T04:30:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093435\">Comments</a>"
-  },
-  {
     "title": "User Interfaces of the Demo Scene",
     "link": "https://www.datagubbe.se/scenegui/",
     "source": "Hacker News",
     "published": "2026-07-29T04:30:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093434\">Comments</a>"
-  },
-  {
-    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-    "link": "https://learnvector.ai/",
-    "source": "Hacker News",
-    "published": "2026-07-29T01:49:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092499\">Comments</a>"
-  },
-  {
-    "title": "Hubble: Open-source notetaking app for you and your agents",
-    "link": "https://www.hubble.md/",
-    "source": "Hacker News",
-    "published": "2026-07-29T00:11:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091730\">Comments</a>"
-  },
-  {
-    "title": "ReFrame \u2013 The EPaper Camera",
-    "link": "https://reframe.camera/",
-    "source": "Hacker News",
-    "published": "2026-07-28T23:27:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091379\">Comments</a>"
   },
   {
     "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49090607\">Comments</a>"
   },
   {
-    "title": "Half-Life ported to Mac OS 9",
-    "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-    "source": "Hacker News",
-    "published": "2026-07-28T20:58:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089814\">Comments</a>"
-  },
-  {
     "title": "Codex Security",
     "link": "https://github.com/openai/codex-security",
     "source": "Hacker News",
     "published": "2026-07-28T20:52:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49089755\">Comments</a>"
-  },
-  {
-    "title": "Steel Bank Common Lisp version 2.6.7",
-    "link": "https://sbcl.org/all-news.html?2.6.7",
-    "source": "Hacker News",
-    "published": "2026-07-28T17:11:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49086971\">Comments</a>"
   },
   {
     "title": "Substack writers, you need a website",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>"
   },
   {
-    "title": "Kimi K3 Architecture Overview and Notes",
-    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "source": "Hacker News",
-    "published": "2026-07-28T15:48:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085698\">Comments</a>"
-  },
-  {
     "title": "Lisp moving Forth moving Lisp",
     "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
     "source": "Hacker News",
     "published": "2026-07-26T17:37:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49060363\">Comments</a>"
+  },
+  {
+    "title": "ALP: Adaptive lossless floating-point compression",
+    "link": "https://github.com/cwida/ALP",
+    "source": "Hacker News",
+    "published": "2026-07-25T20:42:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051355\">Comments</a>"
   },
   {
     "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
