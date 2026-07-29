@@ -1,5 +1,53 @@
 [
   {
+    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+    "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "source": "Hacker News",
+    "published": "2026-07-29T01:04:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092151\">Comments</a>"
+  },
+  {
+    "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+    "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-29T00:44:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091994\">Comments</a>"
+  },
+  {
+    "title": "The Difference Between a Button and a Link",
+    "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "source": "Hacker News",
+    "published": "2026-07-29T00:12:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091738\">Comments</a>"
+  },
+  {
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "link": "https://www.hubble.md/",
+    "source": "Hacker News",
+    "published": "2026-07-29T00:11:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091730\">Comments</a>"
+  },
+  {
+    "title": "ReFrame \u2013 The EPaper Camera",
+    "link": "https://reframe.camera/",
+    "source": "Hacker News",
+    "published": "2026-07-28T23:27:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091379\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "link": "https://github.com/twalichiewicz/HNewhere",
+    "source": "Hacker News",
+    "published": "2026-07-28T22:09:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49090607\">Comments</a>"
+  },
+  {
     "title": "Half-Life ported to Mac OS 9",
     "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
     "source": "Hacker News",
@@ -8,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49089814\">Comments</a>"
   },
   {
-    "title": "OpenAI just open-sourced Codex Security",
+    "title": "Codex Security",
     "link": "https://github.com/openai/codex-security",
     "source": "Hacker News",
     "published": "2026-07-28T20:52:55+00:00",
@@ -16,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49089755\">Comments</a>"
   },
   {
-    "title": "Recursion is lying to you",
-    "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "title": "Pacing the frontier",
+    "link": "https://www.pacingthefrontier.com/",
     "source": "Hacker News",
-    "published": "2026-07-28T20:20:51+00:00",
+    "published": "2026-07-28T20:09:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089406\">Comments</a>"
-  },
-  {
-    "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-    "link": "https://github.com/ghaziwali/Hulios",
-    "source": "Hacker News",
-    "published": "2026-07-28T19:54:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089045\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089240\">Comments</a>"
   },
   {
     "title": "MCP 2026-07-28 Specification: transport going stateless",
@@ -72,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>"
   },
   {
-    "title": "How Do I Profile eBPF Code?",
-    "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "source": "Hacker News",
-    "published": "2026-07-28T15:55:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085811\">Comments</a>"
-  },
-  {
-    "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
-    "link": "https://github.com/reflex-dev/xy",
-    "source": "Hacker News",
-    "published": "2026-07-28T15:54:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085798\">Comments</a>"
-  },
-  {
     "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
     "link": "https://www.slow-journalism.com/",
     "source": "Hacker News",
@@ -112,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085666\">Comments</a>"
   },
   {
-    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-    "link": "https://arxiv.org/abs/1202.4212",
+    "title": "Teach yourself programming in ten years (1998)",
+    "link": "https://www.norvig.com/21-days.html",
     "source": "Hacker News",
-    "published": "2026-07-28T15:20:35+00:00",
+    "published": "2026-07-26T08:06:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085280\">Comments</a>"
-  },
-  {
-    "title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "source": "Hacker News",
-    "published": "2026-07-28T13:12:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083314\">Comments</a>"
-  },
-  {
-    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-    "link": "https://arxiv.org/abs/2510.26692",
-    "source": "Hacker News",
-    "published": "2026-07-28T10:52:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49082022\">Comments</a>"
-  },
-  {
-    "title": "Interview with Boris Cherny [video]",
-    "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-    "source": "Hacker News",
-    "published": "2026-07-27T23:33:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077040\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49055816\">Comments</a>"
   },
   {
     "title": "The Fabled Flatbreads of Uzbekistan (2015)",
