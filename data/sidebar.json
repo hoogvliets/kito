@@ -1,27 +1,59 @@
 [
   {
-    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-    "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
     "source": "Hacker News",
-    "published": "2026-07-29T01:04:30+00:00",
+    "published": "2026-07-29T04:58:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092151\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093569\">Comments</a>"
   },
   {
-    "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-    "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
     "source": "Hacker News",
-    "published": "2026-07-29T00:44:26+00:00",
+    "published": "2026-07-29T04:30:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091994\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093435\">Comments</a>"
   },
   {
-    "title": "The Difference Between a Button and a Link",
-    "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "User Interfaces of the Demo Scene",
+    "link": "https://www.datagubbe.se/scenegui/",
     "source": "Hacker News",
-    "published": "2026-07-29T00:12:14+00:00",
+    "published": "2026-07-29T04:30:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091738\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093434\">Comments</a>"
+  },
+  {
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "link": "https://transformer-transformer.github.io/",
+    "source": "Hacker News",
+    "published": "2026-07-29T03:52:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093232\">Comments</a>"
+  },
+  {
+    "title": "Hooray for the Sockets Interface",
+    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "source": "Hacker News",
+    "published": "2026-07-29T02:25:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092754\">Comments</a>"
+  },
+  {
+    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+    "link": "https://learnvector.ai/",
+    "source": "Hacker News",
+    "published": "2026-07-29T01:49:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092499\">Comments</a>"
+  },
+  {
+    "title": "Multiple Mouse Cursors in Wayland",
+    "link": "https://blinry.org/multi-seat-wayland/",
+    "source": "Hacker News",
+    "published": "2026-07-29T00:59:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092112\">Comments</a>"
   },
   {
     "title": "Hubble: Open-source notetaking app for you and your agents",
@@ -64,38 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49089755\">Comments</a>"
   },
   {
-    "title": "Pacing the frontier",
-    "link": "https://www.pacingthefrontier.com/",
-    "source": "Hacker News",
-    "published": "2026-07-28T20:09:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089240\">Comments</a>"
-  },
-  {
-    "title": "MCP 2026-07-28 Specification: transport going stateless",
-    "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-    "source": "Hacker News",
-    "published": "2026-07-28T18:35:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49088058\">Comments</a>"
-  },
-  {
-    "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-    "source": "Hacker News",
-    "published": "2026-07-28T17:37:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087306\">Comments</a>"
-  },
-  {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
-    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "source": "Hacker News",
-    "published": "2026-07-28T17:22:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087091\">Comments</a>"
-  },
-  {
     "title": "Steel Bank Common Lisp version 2.6.7",
     "link": "https://sbcl.org/all-news.html?2.6.7",
     "source": "Hacker News",
@@ -128,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085698\">Comments</a>"
   },
   {
-    "title": "Zig's Incremental Compilation Internals",
-    "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Beyond Greece and Rome",
+    "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
     "source": "Hacker News",
-    "published": "2026-07-28T15:46:45+00:00",
+    "published": "2026-07-27T18:04:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085666\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073357\">Comments</a>"
+  },
+  {
+    "title": "Truth is not a direction: a Tarski attack on LLM probes",
+    "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "source": "Hacker News",
+    "published": "2026-07-27T12:56:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49069033\">Comments</a>"
   },
   {
     "title": "Teach yourself programming in ten years (1998)",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49055816\">Comments</a>"
   },
   {
-    "title": "The Fabled Flatbreads of Uzbekistan (2015)",
-    "link": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+    "title": "Log is non-monotonic in PHP and Lua",
+    "link": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
     "source": "Hacker News",
-    "published": "2026-07-24T14:43:57+00:00",
+    "published": "2026-07-23T14:00:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49036460\">Comments</a>"
-  },
-  {
-    "title": "Show HN: How far do I have to go to run into 100k people?",
-    "link": "https://imjasonh.github.io/playground/population-rays/",
-    "source": "Hacker News",
-    "published": "2026-07-23T21:33:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49028358\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021756\">Comments</a>"
   }
 ]
