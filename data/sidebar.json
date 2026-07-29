@@ -1,5 +1,53 @@
 [
   {
+    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "source": "Hacker News",
+    "published": "2026-07-29T10:47:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095714\">Comments</a>"
+  },
+  {
+    "title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
+    "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "source": "Hacker News",
+    "published": "2026-07-29T10:35:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095628\">Comments</a>"
+  },
+  {
+    "title": "Amiga Graphics Archive",
+    "link": "https://amiga.lychesis.net/index.html",
+    "source": "Hacker News",
+    "published": "2026-07-29T10:19:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095511\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
+    "link": "https://vimgolf.ai",
+    "source": "Hacker News",
+    "published": "2026-07-29T09:26:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095143\">Comments</a>"
+  },
+  {
+    "title": "ChatGPT claims rogue AI attacked more companies",
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "source": "Hacker News",
+    "published": "2026-07-29T09:03:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49094996\">Comments</a>"
+  },
+  {
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "source": "Hacker News",
+    "published": "2026-07-29T07:18:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49094346\">Comments</a>"
+  },
+  {
     "title": "More Tailscale tricks for your jailbroken Kindle",
     "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
     "source": "Hacker News",
@@ -22,22 +70,6 @@
     "published": "2026-07-29T04:30:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093434\">Comments</a>"
-  },
-  {
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "link": "https://transformer-transformer.github.io/",
-    "source": "Hacker News",
-    "published": "2026-07-29T03:52:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093232\">Comments</a>"
-  },
-  {
-    "title": "Hooray for the Sockets Interface",
-    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-    "source": "Hacker News",
-    "published": "2026-07-29T02:25:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092754\">Comments</a>"
   },
   {
     "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
@@ -104,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>"
   },
   {
-    "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
-    "link": "https://www.slow-journalism.com/",
-    "source": "Hacker News",
-    "published": "2026-07-28T15:50:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085731\">Comments</a>"
-  },
-  {
     "title": "Kimi K3 Architecture Overview and Notes",
     "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
     "source": "Hacker News",
@@ -120,43 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49085698\">Comments</a>"
   },
   {
-    "title": "Truth is not a direction: a Tarski attack on LLM probes",
-    "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "title": "Lisp moving Forth moving Lisp",
+    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
     "source": "Hacker News",
-    "published": "2026-07-27T12:56:36+00:00",
+    "published": "2026-07-26T17:37:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49069033\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060363\">Comments</a>"
   },
   {
-    "title": "Teach yourself programming in ten years (1998)",
-    "link": "https://www.norvig.com/21-days.html",
+    "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
+    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
     "source": "Hacker News",
-    "published": "2026-07-26T08:06:45+00:00",
+    "published": "2026-07-22T20:14:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49055816\">Comments</a>"
-  },
-  {
-    "title": "Mag Computer: A Mag History of RAM (1960\u20132025)",
-    "link": "https://magworld.pw/episodes/computer/",
-    "source": "Hacker News",
-    "published": "2026-07-24T14:26:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49036182\">Comments</a>"
-  },
-  {
-    "title": "Log is non-monotonic in PHP and Lua",
-    "link": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-    "source": "Hacker News",
-    "published": "2026-07-23T14:00:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021756\">Comments</a>"
-  },
-  {
-    "title": "Fixing a bug with byte order marks",
-    "link": "https://alexwlchan.net/2026/byte-order-marks/",
-    "source": "Hacker News",
-    "published": "2026-07-23T13:41:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021447\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012754\">Comments</a>"
   }
 ]
