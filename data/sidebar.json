@@ -1,5 +1,61 @@
 [
   {
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "link": "https://usetokenless.com/",
+    "source": "Hacker News",
+    "published": "2026-07-29T15:55:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099143\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "link": "https://github.com/drumih/turbo-fieldfare",
+    "source": "Hacker News",
+    "published": "2026-07-29T15:05:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098510\">Comments</a>"
+  },
+  {
+    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+    "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+    "source": "Hacker News",
+    "published": "2026-07-29T15:01:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098466\">Comments</a>"
+  },
+  {
+    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+    "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "source": "Hacker News",
+    "published": "2026-07-29T14:56:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098388\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Qwen Scribe \u2013 local transcription and dictation for Apple Silicon",
+    "link": "https://github.com/VladUZH/qwen-scribe",
+    "source": "Hacker News",
+    "published": "2026-07-29T14:47:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098260\">Comments</a>"
+  },
+  {
+    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+    "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+    "source": "Hacker News",
+    "published": "2026-07-29T14:38:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49098130\">Comments</a>"
+  },
+  {
+    "title": "AI in Linux",
+    "link": "https://drewdevault.com/blog/AI-in-Linux/",
+    "source": "Hacker News",
+    "published": "2026-07-29T14:00:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49097649\">Comments</a>"
+  },
+  {
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "link": "https://arxiv.org/abs/2607.25398",
     "source": "Hacker News",
@@ -8,28 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49096969\">Comments</a>"
   },
   {
-    "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
-    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+    "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
     "source": "Hacker News",
-    "published": "2026-07-29T12:58:27+00:00",
+    "published": "2026-07-29T12:48:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096917\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096811\">Comments</a>"
   },
   {
-    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
-    "link": "https://echologue.com/",
+    "title": "Darktable",
+    "link": "https://www.darktable.org/",
     "source": "Hacker News",
-    "published": "2026-07-29T12:43:36+00:00",
+    "published": "2026-07-29T12:33:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096767\">Comments</a>"
-  },
-  {
-    "title": "A Texture Lookup Approach to B\u00e9zier Curve Evaluation on the GPU (JCGT)",
-    "link": "https://jcgt.org/published/0015/02/01/",
-    "source": "Hacker News",
-    "published": "2026-07-29T12:40:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096742\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096654\">Comments</a>"
   },
   {
     "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
@@ -38,14 +86,6 @@
     "published": "2026-07-29T12:11:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49096427\">Comments</a>"
-  },
-  {
-    "title": "French musician Kavinsky found dead",
-    "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-    "source": "Hacker News",
-    "published": "2026-07-29T11:54:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096290\">Comments</a>"
   },
   {
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
@@ -80,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49095511\">Comments</a>"
   },
   {
-    "title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
-    "link": "https://vimgolf.ai",
-    "source": "Hacker News",
-    "published": "2026-07-29T09:26:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095143\">Comments</a>"
-  },
-  {
     "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
     "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
     "source": "Hacker News",
@@ -112,51 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093434\">Comments</a>"
   },
   {
-    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "link": "https://github.com/twalichiewicz/HNewhere",
+    "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+    "link": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
     "source": "Hacker News",
-    "published": "2026-07-28T22:09:06+00:00",
+    "published": "2026-07-27T06:23:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49090607\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49065785\">Comments</a>"
   },
   {
-    "title": "Codex Security",
-    "link": "https://github.com/openai/codex-security",
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
     "source": "Hacker News",
-    "published": "2026-07-28T20:52:55+00:00",
+    "published": "2026-07-27T00:58:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49089755\">Comments</a>"
-  },
-  {
-    "title": "Substack writers, you need a website",
-    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "source": "Hacker News",
-    "published": "2026-07-28T16:58:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49086788\">Comments</a>"
-  },
-  {
-    "title": "Lisp moving Forth moving Lisp",
-    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "source": "Hacker News",
-    "published": "2026-07-26T17:37:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060363\">Comments</a>"
-  },
-  {
-    "title": "ALP: Adaptive lossless floating-point compression",
-    "link": "https://github.com/cwida/ALP",
-    "source": "Hacker News",
-    "published": "2026-07-25T20:42:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051355\">Comments</a>"
-  },
-  {
-    "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
-    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-    "source": "Hacker News",
-    "published": "2026-07-22T20:14:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012754\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063983\">Comments</a>"
   }
 ]
