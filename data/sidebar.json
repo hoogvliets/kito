@@ -1,11 +1,27 @@
 [
   {
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "link": "https://github.com/funador/claude-code-merge-queue",
+    "title": "NSF pilots 4-year PhDs with industry research placements",
+    "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
     "source": "Hacker News",
-    "published": "2026-07-30T00:20:16+00:00",
+    "published": "2026-07-30T02:55:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49104747\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49105642\">Comments</a>"
+  },
+  {
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+    "link": "https://noelo.org/blog/kuna-release/",
+    "source": "Hacker News",
+    "published": "2026-07-30T02:41:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49105563\">Comments</a>"
+  },
+  {
+    "title": "Logic for Programmers",
+    "link": "https://logicforprogrammers.com/",
+    "source": "Hacker News",
+    "published": "2026-07-30T00:51:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49104937\">Comments</a>"
   },
   {
     "title": "The Productivity Mirage",
@@ -16,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49104335\">Comments</a>"
   },
   {
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+    "link": "https://archive.org/details/mancomputerbyjoh0000john",
+    "source": "Hacker News",
+    "published": "2026-07-29T22:53:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49104140\">Comments</a>"
+  },
+  {
     "title": "LLM Honeypot",
     "link": "https://llm2human.pages.dev/",
     "source": "Hacker News",
     "published": "2026-07-29T22:51:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49104117\">Comments</a>"
-  },
-  {
-    "title": "GitHub is the wrong shape for this new world",
-    "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-    "source": "Hacker News",
-    "published": "2026-07-29T22:27:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49103910\">Comments</a>"
   },
   {
     "title": "AI's top startups are barely publishing their research",
@@ -48,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49103089\">Comments</a>"
   },
   {
-    "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "source": "Hacker News",
-    "published": "2026-07-29T21:01:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49103026\">Comments</a>"
-  },
-  {
     "title": "The coolest use for the Vision Pro",
     "link": "https://christianselig.com/2026/07/vision-pro-house/",
     "source": "Hacker News",
     "published": "2026-07-29T20:39:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49102774\">Comments</a>"
-  },
-  {
-    "title": "A Trampoline",
-    "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "source": "Hacker News",
-    "published": "2026-07-29T20:14:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49102425\">Comments</a>"
   },
   {
     "title": "Kimi K3-256k",
@@ -86,6 +86,22 @@
     "published": "2026-07-29T18:28:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49101198\">Comments</a>"
+  },
+  {
+    "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+    "link": "https://cheapfoodmap.com/",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:59:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49100043\">Comments</a>"
+  },
+  {
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:42:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099804\">Comments</a>"
   },
   {
     "title": "Keychron announces first open-source firmware for gaming mice",
@@ -120,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49098198\">Comments</a>"
   },
   {
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "link": "https://arxiv.org/abs/2607.25398",
+    "title": "Darktable",
+    "link": "https://www.darktable.org/",
     "source": "Hacker News",
-    "published": "2026-07-29T13:01:57+00:00",
+    "published": "2026-07-29T12:33:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096969\">Comments</a>"
-  },
-  {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "source": "Hacker News",
-    "published": "2026-07-29T11:44:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096188\">Comments</a>"
-  },
-  {
-    "title": "KOReader",
-    "link": "https://koreader.rocks/",
-    "source": "Hacker News",
-    "published": "2026-07-29T11:05:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095865\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096654\">Comments</a>"
   },
   {
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49089500\">Comments</a>"
   },
   {
-    "title": "Recursive Filters: SMA, EMA, Low\u2011Pass, and a Tiny Kalman",
-    "link": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "title": "Angels in Coptic Magic I: Introduction",
+    "link": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
     "source": "Hacker News",
-    "published": "2026-07-28T06:11:18+00:00",
+    "published": "2026-07-26T18:57:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49080031\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49061213\">Comments</a>"
   }
 ]
