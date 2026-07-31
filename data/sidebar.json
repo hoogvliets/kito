@@ -1,5 +1,29 @@
 [
   {
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "source": "Hacker News",
+    "published": "2026-07-30T23:22:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117099\">Comments</a>"
+  },
+  {
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "source": "Hacker News",
+    "published": "2026-07-30T22:33:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49116721\">Comments</a>"
+  },
+  {
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+    "link": "https://rune.build/blog/rune-1-1-release",
+    "source": "Hacker News",
+    "published": "2026-07-30T21:47:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49116272\">Comments</a>"
+  },
+  {
     "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
     "link": "https://github.com/AminBlg/SimpleEnglish",
     "source": "Hacker News",
@@ -16,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49113929\">Comments</a>"
   },
   {
-    "title": "Making Postgres queues scale",
-    "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
     "source": "Hacker News",
-    "published": "2026-07-30T18:39:32+00:00",
+    "published": "2026-07-30T18:13:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113913\">Comments</a>"
-  },
-  {
-    "title": "So you want to use plants to reduce CO\u2082",
-    "link": "https://dynomight.net/plants/",
-    "source": "Hacker News",
-    "published": "2026-07-30T18:31:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113801\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113599\">Comments</a>"
   },
   {
     "title": "CodePen 2.0",
@@ -38,14 +54,6 @@
     "published": "2026-07-30T17:52:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49113338\">Comments</a>"
-  },
-  {
-    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "source": "Hacker News",
-    "published": "2026-07-30T17:31:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113059\">Comments</a>"
   },
   {
     "title": "Advancing the price-performance frontier with GPT\u20115.6",
@@ -64,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49112744\">Comments</a>"
   },
   {
-    "title": "Rise Reforming (YC S26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-    "source": "Hacker News",
-    "published": "2026-07-30T17:00:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49112683\">Comments</a>"
-  },
-  {
     "title": "Stacked PRs are now live on GitHub",
     "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
     "source": "Hacker News",
     "published": "2026-07-30T16:26:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49112232\">Comments</a>"
-  },
-  {
-    "title": "Solving poker in custom WebGPU kernels",
-    "link": "https://phulin.me/blog/poker/",
-    "source": "Hacker News",
-    "published": "2026-07-30T15:38:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49111523\">Comments</a>"
   },
   {
     "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
@@ -112,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49111176\">Comments</a>"
   },
   {
-    "title": "Why is everyone trying to build a solid-state battery?",
-    "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-    "source": "Hacker News",
-    "published": "2026-07-30T12:38:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49109193\">Comments</a>"
-  },
-  {
     "title": "GCC steering committee announces AI policy",
     "link": "https://lwn.net/Articles/1086041/",
     "source": "Hacker News",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49083970\">Comments</a>"
   },
   {
+    "title": "The American Grilled Cheese Sandwich Essay (2024)",
+    "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+    "source": "Hacker News",
+    "published": "2026-07-27T17:37:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073017\">Comments</a>"
+  },
+  {
     "title": "Bad Apple but It's Traceroute",
     "link": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
     "source": "Hacker News",
     "published": "2026-07-27T15:48:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49071299\">Comments</a>"
+  },
+  {
+    "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+    "link": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+    "source": "Hacker News",
+    "published": "2026-07-27T12:33:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49068760\">Comments</a>"
   },
   {
     "title": "2x, not 10x: coding with LLMs in 2026",
