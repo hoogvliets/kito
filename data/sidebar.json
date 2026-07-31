@@ -1,19 +1,131 @@
 [
   {
+    "title": "Big Food vs. the People",
+    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "source": "Hacker News",
+    "published": "2026-07-31T16:04:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>"
+  },
+  {
+    "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+    "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:58:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124738\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+    "link": "https://uml.gpmai.workers.dev",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:58:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124733\">Comments</a>"
+  },
+  {
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:53:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124658\">Comments</a>"
+  },
+  {
+    "title": "The Art of Decision-Making (2019)",
+    "link": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:42:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124525\">Comments</a>"
+  },
+  {
+    "title": "A GTK4 SSH-askpass in Zig",
+    "link": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:40:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124496\">Comments</a>"
+  },
+  {
+    "title": "Make Everything to Markdown",
+    "link": "https://klartext.it-handwerk-stuttgart.de/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:35:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124444\">Comments</a>"
+  },
+  {
+    "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+    "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:33:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124409\">Comments</a>"
+  },
+  {
+    "title": "Is AI Reasoning Right for the Wrong Reasons?",
+    "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:29:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124358\">Comments</a>"
+  },
+  {
+    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+    "link": "https://swe-rebench.com",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:28:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124336\">Comments</a>"
+  },
+  {
+    "title": "Elevators",
+    "link": "https://john.fun/elevators",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:17:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124218\">Comments</a>"
+  },
+  {
+    "title": "I built a f.lux alternative because the M5 Max firmware broke existing solutions",
+    "link": "https://driftformac.app/",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:17:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124214\">Comments</a>"
+  },
+  {
+    "title": "Show HN: BitBang \u2013 Reach machines behind NAT from a browser, no account",
+    "link": "https://github.com/richlegrand/bitbang-cli",
+    "source": "Hacker News",
+    "published": "2026-07-31T14:41:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123789\">Comments</a>"
+  },
+  {
+    "title": "Arch Linux disables AUR package adoption",
+    "link": "https://lwn.net/Articles/1086489/",
+    "source": "Hacker News",
+    "published": "2026-07-31T13:57:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123208\">Comments</a>"
+  },
+  {
+    "title": "The C ``Clockwise/Spiral Rule''",
+    "link": "https://c-faq.com/decl/spiral.anderson.html",
+    "source": "Hacker News",
+    "published": "2026-07-31T13:56:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123199\">Comments</a>"
+  },
+  {
     "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
     "link": "https://tasklet.ai/careers/customer-success-engineer",
     "source": "Hacker News",
     "published": "2026-07-31T12:00:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49122034\">Comments</a>"
-  },
-  {
-    "title": "The End of an Era",
-    "link": "https://hughhowey.com/the-end-of-an-era/",
-    "source": "Hacker News",
-    "published": "2026-07-31T11:51:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121980\">Comments</a>"
   },
   {
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
@@ -32,30 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49120097\">Comments</a>"
   },
   {
-    "title": "DeepSeek-V4-Flash Update",
-    "link": "https://api-docs.deepseek.com/updates/",
-    "source": "Hacker News",
-    "published": "2026-07-31T06:08:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119559\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-    "link": "https://github.com/mokshablr/gander",
-    "source": "Hacker News",
-    "published": "2026-07-31T05:45:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119425\">Comments</a>"
-  },
-  {
-    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "link": "https://github.com/openjdk/jdk/pull/31120",
-    "source": "Hacker News",
-    "published": "2026-07-31T04:38:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119063\">Comments</a>"
-  },
-  {
     "title": "The session you cannot take with you",
     "link": "https://earendil.com/posts/session-portability/",
     "source": "Hacker News",
@@ -64,99 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49118781\">Comments</a>"
   },
   {
-    "title": "The Religion of Speed",
-    "link": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "Winding Down Artichoke Ruby",
+    "link": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
     "source": "Hacker News",
-    "published": "2026-07-30T23:43:22+00:00",
+    "published": "2026-07-25T18:04:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117284\">Comments</a>"
-  },
-  {
-    "title": "Premier league bans gambling sponsors",
-    "link": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
-    "source": "Hacker News",
-    "published": "2026-07-30T23:40:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117266\">Comments</a>"
-  },
-  {
-    "title": "I flagged two research papers for fake authors and both were accepted as orals",
-    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "source": "Hacker News",
-    "published": "2026-07-30T22:33:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49116721\">Comments</a>"
-  },
-  {
-    "title": "Read this before you buy that TV streaming stick",
-    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "source": "Hacker News",
-    "published": "2026-07-30T17:04:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49112744\">Comments</a>"
-  },
-  {
-    "title": "Stacked PRs are now live on GitHub",
-    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "source": "Hacker News",
-    "published": "2026-07-30T16:26:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49112232\">Comments</a>"
-  },
-  {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "source": "Hacker News",
-    "published": "2026-07-30T15:15:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49111237\">Comments</a>"
-  },
-  {
-    "title": "We shall dwell amidst wonder and glory for ever: On weird fiction",
-    "link": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
-    "source": "Hacker News",
-    "published": "2026-07-29T23:06:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49104245\">Comments</a>"
-  },
-  {
-    "title": "The mean means nothing: data visualization to debug a latency problem",
-    "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "source": "Hacker News",
-    "published": "2026-07-29T11:42:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096170\">Comments</a>"
-  },
-  {
-    "title": "Simulating TCP loss and congestion in browser using Go/WASM",
-    "link": "https://ccsim.fly.dev",
-    "source": "Hacker News",
-    "published": "2026-07-28T18:38:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49088098\">Comments</a>"
-  },
-  {
-    "title": "Where USB Memory Sticks are Born (2013)",
-    "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "source": "Hacker News",
-    "published": "2026-07-27T23:59:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077372\">Comments</a>"
-  },
-  {
-    "title": "How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
-    "link": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
-    "source": "Hacker News",
-    "published": "2026-07-25T21:42:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051890\">Comments</a>"
-  },
-  {
-    "title": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
-    "link": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
-    "source": "Hacker News",
-    "published": "2026-07-25T15:33:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49048452\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49049992\">Comments</a>"
   }
 ]
