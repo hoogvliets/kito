@@ -1,11 +1,67 @@
 [
   {
+    "title": "Loops (YC W22) Is Hiring a Product Educator",
+    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+    "source": "Hacker News",
+    "published": "2026-07-31T21:00:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49128462\">Comments</a>"
+  },
+  {
+    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "link": "https://arxiv.org/abs/2607.28233",
+    "source": "Hacker News",
+    "published": "2026-07-31T20:44:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49128323\">Comments</a>"
+  },
+  {
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
+    "source": "Hacker News",
+    "published": "2026-07-31T19:03:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127306\">Comments</a>"
+  },
+  {
+    "title": "Golang proposal: container/: generic collection types",
+    "link": "https://github.com/golang/go/issues/80590",
+    "source": "Hacker News",
+    "published": "2026-07-31T18:39:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127031\">Comments</a>"
+  },
+  {
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "source": "Hacker News",
+    "published": "2026-07-31T18:30:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126919\">Comments</a>"
+  },
+  {
     "title": "Termixer (TUI DJ Mixer)",
     "link": "https://github.com/l00sed/termixer",
     "source": "Hacker News",
     "published": "2026-07-31T18:28:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126883\">Comments</a>"
+  },
+  {
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "source": "Hacker News",
+    "published": "2026-07-31T18:17:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126765\">Comments</a>"
+  },
+  {
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "source": "Hacker News",
+    "published": "2026-07-31T18:06:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126630\">Comments</a>"
   },
   {
     "title": "qm",
@@ -16,20 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126604\">Comments</a>"
   },
   {
-    "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-    "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+    "title": "Severance",
+    "link": "https://lcamtuf.substack.com/p/severance",
     "source": "Hacker News",
-    "published": "2026-07-31T17:33:32+00:00",
+    "published": "2026-07-31T17:15:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126201\">Comments</a>"
-  },
-  {
-    "title": "Miso (YC S16) is hiring for U.S. expansion",
-    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-    "source": "Hacker News",
-    "published": "2026-07-31T17:01:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125785\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125971\">Comments</a>"
   },
   {
     "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
@@ -48,30 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>"
   },
   {
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-    "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "source": "Hacker News",
-    "published": "2026-07-31T15:53:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124658\">Comments</a>"
-  },
-  {
-    "title": "A GTK4 SSH-askpass in Zig",
-    "link": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-    "source": "Hacker News",
-    "published": "2026-07-31T15:40:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124496\">Comments</a>"
-  },
-  {
-    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-    "link": "https://swe-rebench.com",
-    "source": "Hacker News",
-    "published": "2026-07-31T15:28:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124336\">Comments</a>"
-  },
-  {
     "title": "Elevators",
     "link": "https://john.fun/elevators",
     "source": "Hacker News",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49124042\">Comments</a>"
   },
   {
-    "title": "Show HN: BitBang \u2013 Reach machines behind NAT from a browser, no account",
-    "link": "https://github.com/richlegrand/bitbang-cli",
-    "source": "Hacker News",
-    "published": "2026-07-31T14:41:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123789\">Comments</a>"
-  },
-  {
     "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
     "link": "https://github.com/sqliteai/waste",
     "source": "Hacker News",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49123386\">Comments</a>"
   },
   {
-    "title": "The C ``Clockwise/Spiral Rule''",
-    "link": "https://c-faq.com/decl/spiral.anderson.html",
+    "title": "Progressive Web Components",
+    "link": "https://arielsalminen.com/2026/progressive-web-components/",
     "source": "Hacker News",
-    "published": "2026-07-31T13:56:31+00:00",
+    "published": "2026-07-31T10:04:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123199\">Comments</a>"
-  },
-  {
-    "title": "Anti-fraud tools can't keep pace with robocall scammers",
-    "link": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-    "source": "Hacker News",
-    "published": "2026-07-31T13:28:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49122882\">Comments</a>"
-  },
-  {
-    "title": "The End of an Era",
-    "link": "https://hughhowey.com/the-end-of-an-era/",
-    "source": "Hacker News",
-    "published": "2026-07-31T11:51:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121980\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121196\">Comments</a>"
   },
   {
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49119559\">Comments</a>"
   },
   {
-    "title": "The session you cannot take with you",
-    "link": "https://earendil.com/posts/session-portability/",
+    "title": "Let's make the worst Htmx",
+    "link": "https://zserge.com/posts/worst-htmx-ever/",
     "source": "Hacker News",
-    "published": "2026-07-31T03:47:59+00:00",
+    "published": "2026-07-31T05:16:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49118781\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119270\">Comments</a>"
   },
   {
-    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
-    "link": "https://cgjennings.ca/articles/jpeg-compression/",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "link": "https://weeraman.com/because-we-can/",
     "source": "Hacker News",
-    "published": "2026-07-27T15:11:14+00:00",
+    "published": "2026-07-28T13:31:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49070810\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083599\">Comments</a>"
   }
 ]
