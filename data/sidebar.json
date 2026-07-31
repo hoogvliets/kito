@@ -1,35 +1,43 @@
 [
   {
-    "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-    "link": "https://greyswansignals.com/?theme=dark",
+    "title": "DeepSeek-V4-Flash Update",
+    "link": "https://api-docs.deepseek.com/updates/",
     "source": "Hacker News",
-    "published": "2026-07-31T04:15:04+00:00",
+    "published": "2026-07-31T06:08:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49118933\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119559\">Comments</a>"
   },
   {
-    "title": "The Session You Cannot take with you",
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "link": "https://github.com/mokshablr/gander",
+    "source": "Hacker News",
+    "published": "2026-07-31T05:45:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119425\">Comments</a>"
+  },
+  {
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "link": "https://marbleos.com/demo",
+    "source": "Hacker News",
+    "published": "2026-07-31T05:17:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119274\">Comments</a>"
+  },
+  {
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "link": "https://github.com/openjdk/jdk/pull/31120",
+    "source": "Hacker News",
+    "published": "2026-07-31T04:38:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119063\">Comments</a>"
+  },
+  {
+    "title": "The session you cannot take with you",
     "link": "https://earendil.com/posts/session-portability/",
     "source": "Hacker News",
     "published": "2026-07-31T03:47:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49118781\">Comments</a>"
-  },
-  {
-    "title": "The bond market isn't buying what Fed Chair Warsh is selling",
-    "link": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
-    "source": "Hacker News",
-    "published": "2026-07-31T03:32:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49118696\">Comments</a>"
-  },
-  {
-    "title": "A California aquifer may have crossed the point of no return",
-    "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-    "source": "Hacker News",
-    "published": "2026-07-31T03:27:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49118663\">Comments</a>"
   },
   {
     "title": "The Religion of Speed",
@@ -48,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49117099\">Comments</a>"
   },
   {
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "source": "Hacker News",
-    "published": "2026-07-30T23:00:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49116922\">Comments</a>"
-  },
-  {
     "title": "I flagged two research papers for fake authors and both were accepted as orals",
     "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
     "source": "Hacker News",
@@ -70,14 +70,6 @@
     "published": "2026-07-30T21:47:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49116272\">Comments</a>"
-  },
-  {
-    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-    "link": "https://github.com/AminBlg/SimpleEnglish",
-    "source": "Hacker News",
-    "published": "2026-07-30T19:34:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49114639\">Comments</a>"
   },
   {
     "title": "CodePen 2.0",
@@ -128,15 +120,31 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49111176\">Comments</a>"
   },
   {
-    "title": "Google will expand age checks on Android worldwide till the end of the year",
-    "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "title": "The mean means nothing: data visualization to debug a latency problem",
+    "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
     "source": "Hacker News",
-    "published": "2026-07-30T10:13:46+00:00",
+    "published": "2026-07-29T11:42:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49107950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096170\">Comments</a>"
   },
   {
-    "title": "Where USB Memory Sticks Are Born",
+    "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+    "link": "https://ccsim.fly.dev",
+    "source": "Hacker News",
+    "published": "2026-07-28T18:38:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49088098\">Comments</a>"
+  },
+  {
+    "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+    "link": "https://github.com/MemoireMorte/Memo-1",
+    "source": "Hacker News",
+    "published": "2026-07-28T13:56:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083970\">Comments</a>"
+  },
+  {
+    "title": "Where USB Memory Sticks are Born (2013)",
     "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
     "source": "Hacker News",
     "published": "2026-07-27T23:59:37+00:00",
@@ -150,13 +158,5 @@
     "published": "2026-07-27T17:37:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49073017\">Comments</a>"
-  },
-  {
-    "title": "Bad Apple but It's Traceroute",
-    "link": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "source": "Hacker News",
-    "published": "2026-07-27T15:48:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49071299\">Comments</a>"
   }
 ]
