@@ -1,5 +1,29 @@
 [
   {
+    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+    "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+    "source": "Hacker News",
+    "published": "2026-08-01T14:19:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49134694\">Comments</a>"
+  },
+  {
+    "title": "The Art of 64-bit Assembly",
+    "link": "https://nostarch.com/art-64-bit-assembly-v2",
+    "source": "Hacker News",
+    "published": "2026-08-01T14:09:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49134599\">Comments</a>"
+  },
+  {
+    "title": "Charlie Stross \u2013 On the non-use of AI in my writing process",
+    "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "source": "Hacker News",
+    "published": "2026-08-01T12:56:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49134038\">Comments</a>"
+  },
+  {
     "title": "RipGrep musl binaries occasionally segfault during very-large searches",
     "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
     "source": "Hacker News",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49133889\">Comments</a>"
   },
   {
-    "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
-    "link": "https://freeaipromptgen.com/",
+    "title": "Astro Loop",
+    "link": "https://pubdeer.com/",
     "source": "Hacker News",
-    "published": "2026-08-01T12:03:25+00:00",
+    "published": "2026-08-01T12:17:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133672\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133777\">Comments</a>"
   },
   {
     "title": "Kontigo (YC S24) Is Hiring",
@@ -40,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132289\">Comments</a>"
   },
   {
-    "title": "AI doesn't generate working products, that's still your job",
-    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "source": "Hacker News",
-    "published": "2026-08-01T07:52:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132130\">Comments</a>"
-  },
-  {
     "title": "Solid Queue 1.6.0 now supports fiber workers",
     "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
     "source": "Hacker News",
@@ -56,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132083\">Comments</a>"
   },
   {
-    "title": "The development pipeline is a production system",
-    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
     "source": "Hacker News",
-    "published": "2026-08-01T03:16:09+00:00",
+    "published": "2026-08-01T07:37:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49130726\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132058\">Comments</a>"
   },
   {
     "title": "Flint: A Visualization Language for the AI Era",
@@ -104,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49123386\">Comments</a>"
   },
   {
-    "title": "The Absurdity of Albert Camus",
-    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "Study uncovers lost 'golden age' of languages",
+    "link": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
     "source": "Hacker News",
-    "published": "2026-07-30T23:21:17+00:00",
+    "published": "2026-07-30T01:58:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117089\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49105331\">Comments</a>"
   },
   {
     "title": "Manual: \u2022.,:;?\u00b7",
@@ -118,14 +134,6 @@
     "published": "2026-07-30T01:05:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49105013\">Comments</a>"
-  },
-  {
-    "title": "G'mic 4.0: Squaring the Pixel, Easier",
-    "link": "https://gmic.eu/gmic40/",
-    "source": "Hacker News",
-    "published": "2026-07-29T12:51:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096847\">Comments</a>"
   },
   {
     "title": "Software for One",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49091614\">Comments</a>"
   },
   {
-    "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
-    "link": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
+    "title": "Linux on ESP32",
+    "link": "https://github.com/GrieferPig/esp32-s31-linux",
     "source": "Hacker News",
-    "published": "2026-07-28T13:00:45+00:00",
+    "published": "2026-07-28T17:52:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083141\">Comments</a>"
-  },
-  {
-    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-    "link": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "source": "Hacker News",
-    "published": "2026-07-28T00:26:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077646\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087499\">Comments</a>"
   }
 ]
