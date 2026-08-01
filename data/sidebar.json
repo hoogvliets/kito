@@ -1,5 +1,37 @@
 [
   {
+    "title": "RamenHaus",
+    "link": "https://ramen.haus/",
+    "source": "Hacker News",
+    "published": "2026-08-01T08:48:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132460\">Comments</a>"
+  },
+  {
+    "title": "How to Do Great Work",
+    "link": "https://paulgraham.com/greatwork.html",
+    "source": "Hacker News",
+    "published": "2026-08-01T08:19:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132289\">Comments</a>"
+  },
+  {
+    "title": "AI doesn't generate working products, that's still your job",
+    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "source": "Hacker News",
+    "published": "2026-08-01T07:52:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132130\">Comments</a>"
+  },
+  {
+    "title": "Solid Queue 1.6.0 now supports fiber workers",
+    "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+    "source": "Hacker News",
+    "published": "2026-08-01T07:42:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132083\">Comments</a>"
+  },
+  {
     "title": "Ten advances in mathematics and theoretical computer science",
     "link": "https://openai.com/index/ten-advances-in-mathematics/",
     "source": "Hacker News",
@@ -14,14 +46,6 @@
     "published": "2026-08-01T05:38:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49131367\">Comments</a>"
-  },
-  {
-    "title": "What liberal arts education is for (2024)",
-    "link": "https://innig.net/teaching/liberal-arts-manifesto",
-    "source": "Hacker News",
-    "published": "2026-08-01T04:28:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49131034\">Comments</a>"
   },
   {
     "title": "The development pipeline is a production system",
@@ -40,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49130604\">Comments</a>"
   },
   {
-    "title": "A week in Matrix",
-    "link": "https://piegames.de/dumps/a-week-in-matrix/",
-    "source": "Hacker News",
-    "published": "2026-08-01T01:35:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49130295\">Comments</a>"
-  },
-  {
     "title": "How to Exist",
     "link": "https://www.raptitude.com/2026/07/how-to-exist/",
     "source": "Hacker News",
@@ -56,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49129990\">Comments</a>"
   },
   {
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "source": "Hacker News",
-    "published": "2026-07-31T18:17:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126765\">Comments</a>"
-  },
-  {
     "title": "qm \u2013 Multiplayer agent harness for work",
     "link": "https://github.com/yc-software/qm",
     "source": "Hacker News",
     "published": "2026-07-31T18:04:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126604\">Comments</a>"
-  },
-  {
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "source": "Hacker News",
-    "published": "2026-07-31T16:15:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125034\">Comments</a>"
-  },
-  {
-    "title": "Big Food vs. the People",
-    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "source": "Hacker News",
-    "published": "2026-07-31T16:04:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>"
   },
   {
     "title": "Elevators",
@@ -128,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49117089\">Comments</a>"
   },
   {
+    "title": "G'mic 4.0: Squaring the Pixel, Easier",
+    "link": "https://gmic.eu/gmic40/",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:51:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096847\">Comments</a>"
+  },
+  {
     "title": "Software for One",
     "link": "https://www.ajwaxman.com/writing/software-for-one",
     "source": "Hacker News",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49091614\">Comments</a>"
   },
   {
-    "title": "Long Range Wi-Fi \u2013 Pushing 2.4 GHz Wi-Fi to the limits (2019)",
-    "link": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+    "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
+    "link": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
     "source": "Hacker News",
-    "published": "2026-07-28T13:59:14+00:00",
+    "published": "2026-07-28T13:00:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084005\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083141\">Comments</a>"
   },
   {
     "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
