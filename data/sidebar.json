@@ -1,5 +1,29 @@
 [
   {
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
+    "source": "Hacker News",
+    "published": "2026-08-01T12:34:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133889\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
+    "link": "https://freeaipromptgen.com/",
+    "source": "Hacker News",
+    "published": "2026-08-01T12:03:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133672\">Comments</a>"
+  },
+  {
+    "title": "Kontigo (YC S24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+    "source": "Hacker News",
+    "published": "2026-08-01T12:00:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133655\">Comments</a>"
+  },
+  {
     "title": "RamenHaus",
     "link": "https://ramen.haus/",
     "source": "Hacker News",
@@ -8,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132460\">Comments</a>"
   },
   {
-    "title": "How to Do Great Work",
+    "title": "How to Do Great Work (2023)",
     "link": "https://paulgraham.com/greatwork.html",
     "source": "Hacker News",
     "published": "2026-08-01T08:19:44+00:00",
@@ -30,22 +54,6 @@
     "published": "2026-08-01T07:42:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132083\">Comments</a>"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics/",
-    "source": "Hacker News",
-    "published": "2026-08-01T07:37:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132058\">Comments</a>"
-  },
-  {
-    "title": "Ten Ways NAS Is Getting Enshitified",
-    "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-    "source": "Hacker News",
-    "published": "2026-08-01T05:38:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49131367\">Comments</a>"
   },
   {
     "title": "The development pipeline is a production system",
@@ -96,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49123386\">Comments</a>"
   },
   {
-    "title": "Progressive Web Components",
-    "link": "https://arielsalminen.com/2026/progressive-web-components/",
-    "source": "Hacker News",
-    "published": "2026-07-31T10:04:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121196\">Comments</a>"
-  },
-  {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "source": "Hacker News",
-    "published": "2026-07-31T07:29:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49120097\">Comments</a>"
-  },
-  {
     "title": "The Absurdity of Albert Camus",
     "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
     "source": "Hacker News",
     "published": "2026-07-30T23:21:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49117089\">Comments</a>"
+  },
+  {
+    "title": "Manual: \u2022.,:;?\u00b7",
+    "link": "https://type.today/en/journal/dots",
+    "source": "Hacker News",
+    "published": "2026-07-30T01:05:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49105013\">Comments</a>"
   },
   {
     "title": "G'mic 4.0: Squaring the Pixel, Easier",
