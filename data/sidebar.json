@@ -1,5 +1,69 @@
 [
   {
+    "title": "Tell HN: I hate your fuzzy search",
+    "link": "https://news.ycombinator.com/item?id=49136990",
+    "source": "Hacker News",
+    "published": "2026-08-01T18:25:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49136990\">Comments</a>"
+  },
+  {
+    "title": "NetBSD 11.0 Released",
+    "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "source": "Hacker News",
+    "published": "2026-08-01T17:56:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49136736\">Comments</a>"
+  },
+  {
+    "title": "A directory of people who love RSS",
+    "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+    "source": "Hacker News",
+    "published": "2026-08-01T16:52:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49136063\">Comments</a>"
+  },
+  {
+    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
+    "link": "https://kaisel.dev/",
+    "source": "Hacker News",
+    "published": "2026-08-01T16:45:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135985\">Comments</a>"
+  },
+  {
+    "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+    "link": "https://franken.domains/",
+    "source": "Hacker News",
+    "published": "2026-08-01T16:44:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135975\">Comments</a>"
+  },
+  {
+    "title": "Pgtestdb's template cloning approach to testing is fast",
+    "link": "https://brandur.org/fragments/pgtestdb",
+    "source": "Hacker News",
+    "published": "2026-08-01T16:01:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135546\">Comments</a>"
+  },
+  {
+    "title": "Cursor removed cost information from the usage page and CSV export",
+    "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+    "source": "Hacker News",
+    "published": "2026-08-01T15:25:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135257\">Comments</a>"
+  },
+  {
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "source": "Hacker News",
+    "published": "2026-08-01T15:23:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135245\">Comments</a>"
+  },
+  {
     "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
     "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
     "source": "Hacker News",
@@ -16,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49134599\">Comments</a>"
   },
   {
-    "title": "Charlie Stross \u2013 On the non-use of AI in my writing process",
-    "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-    "source": "Hacker News",
-    "published": "2026-08-01T12:56:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49134038\">Comments</a>"
-  },
-  {
     "title": "RipGrep musl binaries occasionally segfault during very-large searches",
     "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
     "source": "Hacker News",
     "published": "2026-08-01T12:34:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49133889\">Comments</a>"
-  },
-  {
-    "title": "Astro Loop",
-    "link": "https://pubdeer.com/",
-    "source": "Hacker News",
-    "published": "2026-08-01T12:17:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49133777\">Comments</a>"
   },
   {
     "title": "Kontigo (YC S24) Is Hiring",
@@ -56,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132460\">Comments</a>"
   },
   {
-    "title": "How to Do Great Work (2023)",
-    "link": "https://paulgraham.com/greatwork.html",
-    "source": "Hacker News",
-    "published": "2026-08-01T08:19:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132289\">Comments</a>"
-  },
-  {
     "title": "Solid Queue 1.6.0 now supports fiber workers",
     "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
     "source": "Hacker News",
     "published": "2026-08-01T07:42:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132083\">Comments</a>"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics/",
-    "source": "Hacker News",
-    "published": "2026-08-01T07:37:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49132058\">Comments</a>"
   },
   {
     "title": "Flint: A Visualization Language for the AI Era",
@@ -88,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49130604\">Comments</a>"
   },
   {
-    "title": "How to Exist",
-    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "source": "Hacker News",
-    "published": "2026-08-01T00:25:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129990\">Comments</a>"
-  },
-  {
     "title": "qm \u2013 Multiplayer agent harness for work",
     "link": "https://github.com/yc-software/qm",
     "source": "Hacker News",
@@ -104,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126604\">Comments</a>"
   },
   {
-    "title": "Elevators",
-    "link": "https://john.fun/elevators",
+    "title": "Register deprivation: spills and runtime under forced register scarcity",
+    "link": "https://rjp.io/blog/2026-07-19-register-deprivation",
     "source": "Hacker News",
-    "published": "2026-07-31T15:17:28+00:00",
+    "published": "2026-07-30T12:20:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124218\">Comments</a>"
-  },
-  {
-    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "link": "https://github.com/sqliteai/waste",
-    "source": "Hacker News",
-    "published": "2026-07-31T14:12:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123386\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49109019\">Comments</a>"
   },
   {
     "title": "Study uncovers lost 'golden age' of languages",
@@ -128,7 +144,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49105331\">Comments</a>"
   },
   {
-    "title": "Manual: \u2022.,:;?\u00b7",
+    "title": "Manual: \u2022.,:;\u2026!?\u00b7",
     "link": "https://type.today/en/journal/dots",
     "source": "Hacker News",
     "published": "2026-07-30T01:05:42+00:00",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49105013\">Comments</a>"
   },
   {
-    "title": "Software for One",
-    "link": "https://www.ajwaxman.com/writing/software-for-one",
+    "title": "Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
+    "link": "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies",
     "source": "Hacker News",
-    "published": "2026-07-29T12:29:20+00:00",
+    "published": "2026-07-28T15:27:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096605\">Comments</a>"
-  },
-  {
-    "title": "A tiny holdout building in the middle of Macy\u2019s is back in view",
-    "link": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "source": "Hacker News",
-    "published": "2026-07-28T23:56:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091614\">Comments</a>"
-  },
-  {
-    "title": "Linux on ESP32",
-    "link": "https://github.com/GrieferPig/esp32-s31-linux",
-    "source": "Hacker News",
-    "published": "2026-07-28T17:52:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087499\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085369\">Comments</a>"
   }
 ]
