@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to Exist",
+    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "source": "Hacker News",
+    "published": "2026-08-01T00:25:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129990\">Comments</a>"
+  },
+  {
     "title": "Loops (YC W22) Is Hiring a Product Educator",
     "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
     "source": "Hacker News",
@@ -32,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49127031\">Comments</a>"
   },
   {
-    "title": "Using the railway network as a flatbed scanner [video]",
-    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "source": "Hacker News",
-    "published": "2026-07-31T18:30:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126919\">Comments</a>"
-  },
-  {
     "title": "Termixer (TUI DJ Mixer)",
     "link": "https://github.com/l00sed/termixer",
     "source": "Hacker News",
@@ -56,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126765\">Comments</a>"
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "source": "Hacker News",
-    "published": "2026-07-31T18:06:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126630\">Comments</a>"
-  },
-  {
     "title": "qm",
     "link": "https://github.com/yc-software/qm",
     "source": "Hacker News",
     "published": "2026-07-31T18:04:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126604\">Comments</a>"
-  },
-  {
-    "title": "Severance",
-    "link": "https://lcamtuf.substack.com/p/severance",
-    "source": "Hacker News",
-    "published": "2026-07-31T17:15:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125971\">Comments</a>"
   },
   {
     "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
@@ -94,6 +78,14 @@
     "published": "2026-07-31T16:04:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>"
+  },
+  {
+    "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+    "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+    "source": "Hacker News",
+    "published": "2026-07-31T15:58:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124738\">Comments</a>"
   },
   {
     "title": "Elevators",
@@ -128,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49121196\">Comments</a>"
   },
   {
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "source": "Hacker News",
-    "published": "2026-07-31T07:59:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49120299\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek-V4-Flash Update",
-    "link": "https://api-docs.deepseek.com/updates/",
-    "source": "Hacker News",
-    "published": "2026-07-31T06:08:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119559\">Comments</a>"
-  },
-  {
     "title": "Let's make the worst Htmx",
     "link": "https://zserge.com/posts/worst-htmx-ever/",
     "source": "Hacker News",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49119270\">Comments</a>"
   },
   {
+    "title": "The Absurdity of Albert Camus",
+    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "source": "Hacker News",
+    "published": "2026-07-30T23:21:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117089\">Comments</a>"
+  },
+  {
+    "title": "A past and future of trade secrets",
+    "link": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+    "source": "Hacker News",
+    "published": "2026-07-30T19:26:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49114527\">Comments</a>"
+  },
+  {
     "title": "Twenty-five years ago it was cryptography, today it's model weights",
     "link": "https://weeraman.com/because-we-can/",
     "source": "Hacker News",
     "published": "2026-07-28T13:31:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49083599\">Comments</a>"
+  },
+  {
+    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+    "link": "https://cgjennings.ca/articles/jpeg-compression/",
+    "source": "Hacker News",
+    "published": "2026-07-27T15:11:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49070810\">Comments</a>"
   }
 ]
