@@ -1,5 +1,61 @@
 [
   {
+    "title": "Twenty Years of RISC OS Open",
+    "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "source": "Hacker News",
+    "published": "2026-08-02T12:36:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>"
+  },
+  {
+    "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+    "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+    "source": "Hacker News",
+    "published": "2026-08-02T12:01:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143683\">Comments</a>"
+  },
+  {
+    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+    "link": "https://website-auditor.io/ai-visibility-index",
+    "source": "Hacker News",
+    "published": "2026-08-02T11:53:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143630\">Comments</a>"
+  },
+  {
+    "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+    "link": "https://meshdiff.com/",
+    "source": "Hacker News",
+    "published": "2026-08-02T11:34:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143479\">Comments</a>"
+  },
+  {
+    "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+    "source": "Hacker News",
+    "published": "2026-08-02T11:24:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143414\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Fuse \u2013 statically typed functional programming language",
+    "link": "https://fuselang.org",
+    "source": "Hacker News",
+    "published": "2026-08-02T11:23:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143412\">Comments</a>"
+  },
+  {
+    "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "link": "https://publicdomainreview.org/essay/ars-notoria/",
+    "source": "Hacker News",
+    "published": "2026-08-02T10:18:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143001\">Comments</a>"
+  },
+  {
     "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
     "link": "https://github.com/syncular/syncular",
     "source": "Hacker News",
@@ -24,12 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49142130\">Comments</a>"
   },
   {
-    "title": "I don't recommend Tailwind CSS",
-    "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "title": "Mathematics Without Mathematicians",
+    "link": "https://borretti.me/article/mathematics-without-mathematicians",
     "source": "Hacker News",
-    "published": "2026-08-02T07:09:38+00:00",
+    "published": "2026-08-02T07:47:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49141891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49142083\">Comments</a>"
+  },
+  {
+    "title": "IBM i (OS/400) the Database Operating System",
+    "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+    "source": "Hacker News",
+    "published": "2026-08-02T07:17:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49141937\">Comments</a>"
   },
   {
     "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -48,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49140702\">Comments</a>"
   },
   {
-    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
-    "source": "Hacker News",
-    "published": "2026-08-02T02:51:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49140599\">Comments</a>"
-  },
-  {
-    "title": "When random.bytes() runs but doesn't work",
-    "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-    "source": "Hacker News",
-    "published": "2026-08-02T02:08:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49140405\">Comments</a>"
-  },
-  {
     "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
     "link": "https://github.com/tom-ilan/cycloidal_gearbox",
     "source": "Hacker News",
@@ -78,38 +126,6 @@
     "published": "2026-08-02T01:35:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49140218\">Comments</a>"
-  },
-  {
-    "title": "ASRock BC-250: Building the Budget Steam Machine",
-    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "source": "Hacker News",
-    "published": "2026-08-02T01:35:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49140213\">Comments</a>"
-  },
-  {
-    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
-    "source": "Hacker News",
-    "published": "2026-08-01T23:44:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49139711\">Comments</a>"
-  },
-  {
-    "title": "Unraveling the mysteries of habit formation",
-    "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-    "source": "Hacker News",
-    "published": "2026-08-01T22:55:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49139383\">Comments</a>"
-  },
-  {
-    "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-    "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-    "source": "Hacker News",
-    "published": "2026-08-01T22:52:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49139352\">Comments</a>"
   },
   {
     "title": "Seedance 2.5",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49138188\">Comments</a>"
   },
   {
-    "title": "Postmortem for Kernel Soundness Bug #14576",
-    "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Holocloth",
+    "link": "https://holocloth.vercel.app",
     "source": "Hacker News",
-    "published": "2026-08-01T18:32:20+00:00",
+    "published": "2026-07-30T22:59:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49137060\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49116917\">Comments</a>"
   },
   {
-    "title": "A big win for Android interoperability",
-    "link": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+    "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
     "source": "Hacker News",
-    "published": "2026-07-31T15:01:07+00:00",
+    "published": "2026-07-29T10:54:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124051\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
-    "link": "https://sinusoft.com/loganbasic/",
-    "source": "Hacker News",
-    "published": "2026-07-30T20:36:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49115423\">Comments</a>"
-  },
-  {
-    "title": "Elena, a library for building Progressive Web Components",
-    "link": "https://elenajs.com/",
-    "source": "Hacker News",
-    "published": "2026-07-30T13:31:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49109759\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095763\">Comments</a>"
   }
 ]
