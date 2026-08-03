@@ -1,5 +1,45 @@
 [
   {
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "link": "https://arxiv.org/abs/2607.28271",
+    "source": "Hacker News",
+    "published": "2026-08-03T03:06:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150773\">Comments</a>"
+  },
+  {
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "source": "Hacker News",
+    "published": "2026-08-03T02:30:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150561\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "link": "https://qwen.ai/blog?id=qwen3.8",
+    "source": "Hacker News",
+    "published": "2026-08-03T02:16:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150470\">Comments</a>"
+  },
+  {
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+    "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "source": "Hacker News",
+    "published": "2026-08-03T01:23:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150181\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
+    "link": "https://sf.isopolis.city/",
+    "source": "Hacker News",
+    "published": "2026-08-03T00:46:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149966\">Comments</a>"
+  },
+  {
     "title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
     "link": "https://github.com/johnsonjh/cpm386",
     "source": "Hacker News",
@@ -8,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49149898\">Comments</a>"
   },
   {
-    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-    "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "title": "Show HN: ssh ssh.place",
+    "link": "https://ssh.place",
     "source": "Hacker News",
-    "published": "2026-08-03T00:12:16+00:00",
+    "published": "2026-08-03T00:23:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149746\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
-    "link": "https://github.com/pg83/shitty",
-    "source": "Hacker News",
-    "published": "2026-08-02T23:05:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149326\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149805\">Comments</a>"
   },
   {
     "title": "The Computational Theory of Mind (2015)",
@@ -32,22 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49149125\">Comments</a>"
   },
   {
-    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-    "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-    "source": "Hacker News",
-    "published": "2026-08-02T22:16:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49148987\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Mu \u2013 Tools for Agents",
-    "link": "https://github.com/micro/mu",
-    "source": "Hacker News",
-    "published": "2026-08-02T22:06:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49148899\">Comments</a>"
-  },
-  {
     "title": "Show HN: Make your Framework 12 sound like a creaky door",
     "link": "https://github.com/ArcaEge/creakwork12",
     "source": "Hacker News",
@@ -56,36 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49148048\">Comments</a>"
   },
   {
-    "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-    "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+    "title": "SwiftUI After 7 Years",
+    "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
     "source": "Hacker News",
-    "published": "2026-08-02T20:26:47+00:00",
+    "published": "2026-08-02T18:59:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49147978\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49147263\">Comments</a>"
   },
   {
-    "title": "TinyNES Review \u2013 A Super Niche NES Console",
-    "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+    "title": "The myth of Snow Leopard",
+    "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
     "source": "Hacker News",
-    "published": "2026-08-02T20:01:37+00:00",
+    "published": "2026-08-02T18:21:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49147760\">Comments</a>"
-  },
-  {
-    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-    "link": "https://frogs.vaguespac.es/",
-    "source": "Hacker News",
-    "published": "2026-08-02T19:42:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49147622\">Comments</a>"
-  },
-  {
-    "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-    "link": "https://github.com/graham33/nixos-dgx-spark",
-    "source": "Hacker News",
-    "published": "2026-08-02T17:05:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146267\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146960\">Comments</a>"
   },
   {
     "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
@@ -96,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>"
   },
   {
-    "title": "Twenty Years of RISC OS Open",
-    "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "title": "How the words we teach English language learners changed",
+    "link": "https://pudding.cool/2026/07/essential-words/",
     "source": "Hacker News",
-    "published": "2026-08-02T12:36:07+00:00",
+    "published": "2026-08-02T15:41:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>"
-  },
-  {
-    "title": "F*: A general-purpose proof-oriented programming language",
-    "link": "https://fstar-lang.org/",
-    "source": "Hacker News",
-    "published": "2026-08-02T12:31:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49143925\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>"
   },
   {
     "title": "Karpathy\u2019s Pelican",
@@ -120,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49140998\">Comments</a>"
   },
   {
-    "title": "Read the Novels and Forget Everything Else",
-    "link": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+    "title": "Why we write our own C and C++ inference engines",
+    "link": "https://localai.io/blog/why-we-write-our-own-engines/",
     "source": "Hacker News",
-    "published": "2026-07-31T23:31:28+00:00",
+    "published": "2026-07-31T16:17:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129676\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125065\">Comments</a>"
+  },
+  {
+    "title": "Cro \u2013 elegant reactive services in Raku",
+    "link": "https://cro.raku.org/",
+    "source": "Hacker News",
+    "published": "2026-07-31T14:09:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123353\">Comments</a>"
   },
   {
     "title": "Autoregressive Language Model on the 6502 Processor",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49122655\">Comments</a>"
   },
   {
+    "title": "Show HN: A Handwritten Blogging Platform",
+    "link": "https://handwritten.blog/",
+    "source": "Hacker News",
+    "published": "2026-07-31T06:37:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119751\">Comments</a>"
+  },
+  {
     "title": "Developers are attached to tools because tools encode trust",
     "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
     "source": "Hacker News",
     "published": "2026-07-29T14:25:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49097961\">Comments</a>"
-  },
-  {
-    "title": "Playing with Georgia",
-    "link": "https://mighil.com/playing-with-georgia",
-    "source": "Hacker News",
-    "published": "2026-07-29T12:41:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096748\">Comments</a>"
   },
   {
     "title": "Note-Taking and Personal Knowledge Management",
