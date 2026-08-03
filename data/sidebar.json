@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+    "link": "https://blog.cloudflare.com/billable-usage-api/",
+    "source": "Hacker News",
+    "published": "2026-08-03T17:18:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158714\">Comments</a>"
+  },
+  {
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "source": "Hacker News",
+    "published": "2026-08-03T17:08:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158581\">Comments</a>"
+  },
+  {
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "source": "Hacker News",
+    "published": "2026-08-03T17:02:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158474\">Comments</a>"
+  },
+  {
+    "title": "Use Task Runners for Common Coding Tasks",
+    "link": "https://hamvocke.com/blog/task-runners/",
+    "source": "Hacker News",
+    "published": "2026-08-03T16:51:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158287\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
     "link": "https://hoplite.sh",
     "source": "Hacker News",
@@ -24,30 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49157807\">Comments</a>"
   },
   {
-    "title": "What's the largest software project AI can complete on its own?",
-    "link": "https://epoch.ai/MirrorCode",
-    "source": "Hacker News",
-    "published": "2026-08-03T16:16:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49157786\">Comments</a>"
-  },
-  {
-    "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-    "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-    "source": "Hacker News",
-    "published": "2026-08-03T16:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49157645\">Comments</a>"
-  },
-  {
-    "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-    "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-    "source": "Hacker News",
-    "published": "2026-08-03T15:31:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49157128\">Comments</a>"
-  },
-  {
     "title": "Devtools must be open source",
     "link": "https://blog.exe.dev/devtools-must-be-open-source",
     "source": "Hacker News",
@@ -56,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49156111\">Comments</a>"
   },
   {
-    "title": "Utah produced more power from solar than any other source in May, a new first",
-    "link": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-    "source": "Hacker News",
-    "published": "2026-08-03T14:13:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49156071\">Comments</a>"
-  },
-  {
-    "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
     "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
     "source": "Hacker News",
     "published": "2026-08-03T14:09:00+00:00",
@@ -96,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49155359\">Comments</a>"
   },
   {
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "title": "SQLite Critical CVEs or LLM Slop?",
     "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
     "source": "Hacker News",
     "published": "2026-08-03T11:28:54+00:00",
@@ -110,6 +110,14 @@
     "published": "2026-08-03T11:15:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49154228\">Comments</a>"
+  },
+  {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "source": "Hacker News",
+    "published": "2026-08-03T09:32:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49153374\">Comments</a>"
   },
   {
     "title": "Bonsai: Janestreet's UI Library",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49151933\">Comments</a>"
   },
   {
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "link": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "Massively Parallel Postgres Backups",
+    "link": "https://planetscale.com/blog/massively-parallel-postgres-backups",
     "source": "Hacker News",
-    "published": "2026-08-03T02:16:09+00:00",
+    "published": "2026-07-31T15:17:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150470\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124213\">Comments</a>"
   },
   {
-    "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
-    "link": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "title": "Kelly Criterion Simulator",
+    "link": "https://kellysimulator.com/",
     "source": "Hacker News",
-    "published": "2026-07-31T16:23:10+00:00",
+    "published": "2026-07-31T13:47:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125168\">Comments</a>"
-  },
-  {
-    "title": "C++ float-to-int conversion can be undefined behavior",
-    "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "source": "Hacker News",
-    "published": "2026-07-30T09:59:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49107888\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123105\">Comments</a>"
   },
   {
     "title": "How Hollywood stopped making movies in Hollywood",
