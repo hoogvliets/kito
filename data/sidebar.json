@@ -1,19 +1,59 @@
 [
   {
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "link": "https://arxiv.org/abs/2607.28271",
+    "title": "Bonsai: Janestreet's UI Library",
+    "link": "https://github.com/janestreet/bonsai",
     "source": "Hacker News",
-    "published": "2026-08-03T03:06:12+00:00",
+    "published": "2026-08-03T08:29:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150773\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152842\">Comments</a>"
   },
   {
-    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-    "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "title": "Octane \u2013 React's programming model, compiled",
+    "link": "https://octanejs.dev",
     "source": "Hacker News",
-    "published": "2026-08-03T02:30:30+00:00",
+    "published": "2026-08-03T08:04:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150561\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152640\">Comments</a>"
+  },
+  {
+    "title": "The Shape of Things to Come",
+    "link": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+    "source": "Hacker News",
+    "published": "2026-08-03T07:22:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152316\">Comments</a>"
+  },
+  {
+    "title": "The AI Productivity Gap",
+    "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "source": "Hacker News",
+    "published": "2026-08-03T07:07:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152222\">Comments</a>"
+  },
+  {
+    "title": "Rust project goals: Immobile types and guaranteed destructors",
+    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "source": "Hacker News",
+    "published": "2026-08-03T06:42:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152023\">Comments</a>"
+  },
+  {
+    "title": "Don't be a meat proxy",
+    "link": "https://gruhn.me/blog/2026-08-03/",
+    "source": "Hacker News",
+    "published": "2026-08-03T06:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151933\">Comments</a>"
+  },
+  {
+    "title": "More German than many Germans",
+    "link": "https://mertbulan.com/more-german-than-many-germans/",
+    "source": "Hacker News",
+    "published": "2026-08-03T06:00:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151734\">Comments</a>"
   },
   {
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -22,14 +62,6 @@
     "published": "2026-08-03T02:16:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49150470\">Comments</a>"
-  },
-  {
-    "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-    "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
-    "source": "Hacker News",
-    "published": "2026-08-03T01:23:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49150181\">Comments</a>"
   },
   {
     "title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49149805\">Comments</a>"
   },
   {
-    "title": "The Computational Theory of Mind (2015)",
-    "link": "https://plato.stanford.edu/entries/computational-mind/",
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
     "source": "Hacker News",
-    "published": "2026-08-02T22:35:35+00:00",
+    "published": "2026-08-03T00:12:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149125\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Make your Framework 12 sound like a creaky door",
-    "link": "https://github.com/ArcaEge/creakwork12",
-    "source": "Hacker News",
-    "published": "2026-08-02T20:33:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49148048\">Comments</a>"
-  },
-  {
-    "title": "SwiftUI After 7 Years",
-    "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "source": "Hacker News",
-    "published": "2026-08-02T18:59:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49147263\">Comments</a>"
-  },
-  {
-    "title": "The myth of Snow Leopard",
-    "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "source": "Hacker News",
-    "published": "2026-08-02T18:21:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146960\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49149746\">Comments</a>"
   },
   {
     "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
@@ -94,14 +102,6 @@
     "published": "2026-08-02T16:26:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>"
-  },
-  {
-    "title": "How the words we teach English language learners changed",
-    "link": "https://pudding.cool/2026/07/essential-words/",
-    "source": "Hacker News",
-    "published": "2026-08-02T15:41:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>"
   },
   {
     "title": "Karpathy\u2019s Pelican",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49125065\">Comments</a>"
   },
   {
-    "title": "Cro \u2013 elegant reactive services in Raku",
-    "link": "https://cro.raku.org/",
-    "source": "Hacker News",
-    "published": "2026-07-31T14:09:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123353\">Comments</a>"
-  },
-  {
     "title": "Autoregressive Language Model on the 6502 Processor",
     "link": "https://mattbeton.com/blog/bitnet-6502.html",
     "source": "Hacker News",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49119751\">Comments</a>"
   },
   {
-    "title": "Developers are attached to tools because tools encode trust",
-    "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "title": "How do you rewrite C/C++ projects to Rust?",
+    "link": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
     "source": "Hacker News",
-    "published": "2026-07-29T14:25:54+00:00",
+    "published": "2026-07-29T01:12:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49097961\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092215\">Comments</a>"
   },
   {
     "title": "Note-Taking and Personal Knowledge Management",
@@ -158,5 +150,13 @@
     "published": "2026-07-28T14:21:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49084324\">Comments</a>"
+  },
+  {
+    "title": "Convergence is not enough",
+    "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+    "source": "Hacker News",
+    "published": "2026-07-27T23:23:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076945\">Comments</a>"
   }
 ]
