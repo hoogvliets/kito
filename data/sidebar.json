@@ -1,5 +1,21 @@
 [
   {
+    "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+    "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+    "source": "Hacker News",
+    "published": "2026-08-03T22:04:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49162086\">Comments</a>"
+  },
+  {
+    "title": "ZX Spectrum System Tour: Text Mode",
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+    "source": "Hacker News",
+    "published": "2026-08-03T21:39:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49161801\">Comments</a>"
+  },
+  {
     "title": "LLMs reward expertise",
     "link": "https://www.seangoedecke.com/llms-reward-expertise/",
     "source": "Hacker News",
@@ -8,44 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49161518\">Comments</a>"
   },
   {
-    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-    "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-    "source": "Hacker News",
-    "published": "2026-08-03T20:02:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49160699\">Comments</a>"
-  },
-  {
-    "title": "DDoS against Norwegian government IT infrastructure \u2013 status",
-    "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-    "source": "Hacker News",
-    "published": "2026-08-03T19:56:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49160631\">Comments</a>"
-  },
-  {
     "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
     "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
     "source": "Hacker News",
     "published": "2026-08-03T19:39:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49160437\">Comments</a>"
-  },
-  {
-    "title": "ZX Spectrum System Tour: Sound",
-    "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-    "source": "Hacker News",
-    "published": "2026-08-03T18:32:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49159676\">Comments</a>"
-  },
-  {
-    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-    "link": "https://blog.cloudflare.com/billable-usage-api/",
-    "source": "Hacker News",
-    "published": "2026-08-03T17:18:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158714\">Comments</a>"
   },
   {
     "title": "Smaller, faster, safer: running Kimi and GLM at scale",
@@ -64,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49158474\">Comments</a>"
   },
   {
-    "title": "SearXNG in Rust",
-    "link": "https://github.com/MikeLuu99/searxng-rust",
-    "source": "Hacker News",
-    "published": "2026-08-03T16:41:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49158141\">Comments</a>"
-  },
-  {
     "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
     "link": "https://hoplite.sh",
     "source": "Hacker News",
@@ -86,6 +62,22 @@
     "published": "2026-08-03T16:27:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49157930\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "link": "https://news.ycombinator.com/item?id=49156683",
+    "source": "Hacker News",
+    "published": "2026-08-03T15:00:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49156683\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (August 2026)",
+    "link": "https://news.ycombinator.com/item?id=49156682",
+    "source": "Hacker News",
+    "published": "2026-08-03T15:00:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49156682\">Comments</a>"
   },
   {
     "title": "Devtools must be open source",
@@ -112,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49155629\">Comments</a>"
   },
   {
-    "title": "AirLLM 70B inference with single 4GB GPU",
-    "link": "https://github.com/lyogavin/airllm",
+    "title": "Frame selection is the whole game: notes on making LLMs watch video",
+    "link": "https://leoaido.com/how-llms-watch-video/",
     "source": "Hacker News",
-    "published": "2026-08-03T11:15:48+00:00",
+    "published": "2026-08-03T13:28:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49154228\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49155555\">Comments</a>"
+  },
+  {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "source": "Hacker News",
+    "published": "2026-08-03T09:32:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49153374\">Comments</a>"
+  },
+  {
+    "title": "Bonsai: Janestreet's UI Library",
+    "link": "https://github.com/janestreet/bonsai",
+    "source": "Hacker News",
+    "published": "2026-08-03T08:29:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152842\">Comments</a>"
   },
   {
     "title": "200 Milliseconds",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49132992\">Comments</a>"
   },
   {
-    "title": "Massively Parallel Postgres Backups",
-    "link": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-    "source": "Hacker News",
-    "published": "2026-07-31T15:17:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124213\">Comments</a>"
-  },
-  {
-    "title": "Kelly Criterion Simulator",
-    "link": "https://kellysimulator.com/",
-    "source": "Hacker News",
-    "published": "2026-07-31T13:47:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123105\">Comments</a>"
-  },
-  {
     "title": "Replacing the Kobo Libra H2O Battery",
     "link": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
     "source": "Hacker News",
     "published": "2026-07-30T07:15:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49106935\">Comments</a>"
+  },
+  {
+    "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+    "link": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "source": "Hacker News",
+    "published": "2026-07-29T16:07:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099336\">Comments</a>"
   },
   {
     "title": "How Hollywood stopped making movies in Hollywood",
