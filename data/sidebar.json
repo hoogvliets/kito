@@ -1,19 +1,83 @@
 [
   {
-    "title": "Google DeepMind CEO Demis Hassabis is stepping down",
-    "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+    "title": "Zed DeltaDB",
+    "link": "https://zed.dev/deltadb",
     "source": "Hacker News",
-    "published": "2026-08-05T16:05:37+00:00",
+    "published": "2026-08-05T18:52:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184757\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>"
   },
   {
-    "title": "Jeff Dean leaving Alphabet",
-    "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "link": "https://blog.fogus.me/llm/born-against.html",
     "source": "Hacker News",
-    "published": "2026-08-05T16:04:33+00:00",
+    "published": "2026-08-05T18:37:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184746\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187061\">Comments</a>"
+  },
+  {
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "source": "Hacker News",
+    "published": "2026-08-05T18:18:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186762\">Comments</a>"
+  },
+  {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence",
+    "link": "https://arxiv.org/abs/2510.01395",
+    "source": "Hacker News",
+    "published": "2026-08-05T18:17:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186720\">Comments</a>"
+  },
+  {
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "source": "Hacker News",
+    "published": "2026-08-05T17:23:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185983\">Comments</a>"
+  },
+  {
+    "title": "Phishers are hijacking legitimate cloud infrastructure",
+    "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+    "source": "Hacker News",
+    "published": "2026-08-05T17:20:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185931\">Comments</a>"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "link": "https://github.com/denoland/celld",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:50:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:47:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185389\">Comments</a>"
+  },
+  {
+    "title": "Discovery Loop",
+    "link": "https://www.discoveryloop.com/",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:19:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184960\">Comments</a>"
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:05:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184755\">Comments</a>"
   },
   {
     "title": "The Valley of Webhooks",
@@ -24,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49184216\">Comments</a>"
   },
   {
-    "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-    "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-    "source": "Hacker News",
-    "published": "2026-08-05T15:20:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184190\">Comments</a>"
-  },
-  {
     "title": "Qwen 3.0 Image Pro",
     "link": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
     "source": "Hacker News",
     "published": "2026-08-05T14:53:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49183850\">Comments</a>"
-  },
-  {
-    "title": "Oracle Just Halved Its Always Free ARM Limits",
-    "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-    "source": "Hacker News",
-    "published": "2026-08-05T14:46:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183750\">Comments</a>"
   },
   {
     "title": "Aristotle quotes on virtue, knowledge, and happiness",
@@ -62,22 +110,6 @@
     "published": "2026-08-05T14:04:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49183079\">Comments</a>"
-  },
-  {
-    "title": "Intelligence Is Not the Main Bottleneck",
-    "link": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
-    "source": "Hacker News",
-    "published": "2026-08-05T14:04:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183076\">Comments</a>"
-  },
-  {
-    "title": "TSON \u2013 A JSON superset with immutable, hash-pinned schemas",
-    "link": "https://tson.io/",
-    "source": "Hacker News",
-    "published": "2026-08-05T14:03:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183069\">Comments</a>"
   },
   {
     "title": "The Entropy of a Markov Chain",
@@ -104,52 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49182946\">Comments</a>"
   },
   {
-    "title": "Painting with Gaussians",
-    "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "source": "Hacker News",
-    "published": "2026-08-05T13:34:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182695\">Comments</a>"
-  },
-  {
-    "title": "Faster Than Ninja",
-    "link": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "source": "Hacker News",
-    "published": "2026-08-05T13:33:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182685\">Comments</a>"
-  },
-  {
-    "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-    "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-    "source": "Hacker News",
-    "published": "2026-08-05T12:41:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182041\">Comments</a>"
-  },
-  {
-    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-    "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "source": "Hacker News",
-    "published": "2026-08-05T11:03:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181099\">Comments</a>"
-  },
-  {
-    "title": "Position: LLMs Can't Jump",
-    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-    "source": "Hacker News",
-    "published": "2026-08-05T11:01:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>"
-  },
-  {
     "title": "Western Sahara",
     "link": "https://en.wikipedia.org/wiki/Western_Sahara",
     "source": "Hacker News",
     "published": "2026-08-04T22:34:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49176192\">Comments</a>"
+  },
+  {
+    "title": "GNU Hurd News 2026-Q2",
+    "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+    "source": "Hacker News",
+    "published": "2026-08-02T16:57:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>"
   },
   {
     "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
