@@ -1,11 +1,19 @@
 [
   {
-    "title": "Rust-lang/rust is adopting an LLM policy",
-    "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "No Data Centers in My Backyard",
+    "link": "https://jasmi.news/p/no-data-centers-in-my-backyard",
     "source": "Hacker News",
-    "published": "2026-08-05T05:52:24+00:00",
+    "published": "2026-08-05T10:38:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49179039\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49180901\">Comments</a>"
+  },
+  {
+    "title": "Helsinki Hacker News Meetup",
+    "link": "https://calpaterson.com/helsinki-hn.html",
+    "source": "Hacker News",
+    "published": "2026-08-05T09:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49180407\">Comments</a>"
   },
   {
     "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
@@ -16,12 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49178608\">Comments</a>"
   },
   {
-    "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-    "link": "https://arxiv.org/abs/2603.04221",
+    "title": "An SLM trained on $8 ESP32-S3",
+    "link": "https://github.com/Carloscodix/qapla",
     "source": "Hacker News",
-    "published": "2026-08-05T00:10:37+00:00",
+    "published": "2026-08-05T04:07:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49176983\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49178464\">Comments</a>"
   },
   {
     "title": "Bugtraq is back",
@@ -48,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49176697\">Comments</a>"
   },
   {
-    "title": "libexpat now funded by the City of Munich for up to 6 months",
-    "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "title": "We finally learned to center a div, then browsers added sidebars",
+    "link": "https://seg6.space/posts/center-div/",
     "source": "Hacker News",
-    "published": "2026-08-04T23:18:12+00:00",
+    "published": "2026-08-04T22:24:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49176606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49176055\">Comments</a>"
   },
   {
     "title": "Pi's Minimalism Is Its Advantage",
@@ -96,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49173165\">Comments</a>"
   },
   {
-    "title": "The Golden Age of British Ice Cream",
-    "link": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-    "source": "Hacker News",
-    "published": "2026-08-04T18:25:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49172784\">Comments</a>"
-  },
-  {
     "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
     "link": "https://mistral.ai/news/shieldstral/",
     "source": "Hacker News",
@@ -120,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49170165\">Comments</a>"
   },
   {
-    "title": "Video2NAND \u2013 Abusing video codecs for great computational power",
-    "link": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-    "source": "Hacker News",
-    "published": "2026-08-02T14:29:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49145037\">Comments</a>"
-  },
-  {
     "title": "Stateless MCP has recaptured my interest",
     "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "source": "Hacker News",
@@ -136,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49131438\">Comments</a>"
   },
   {
-    "title": "The Pneumatics of Hero of Alexandria",
+    "title": "The Pneumatics of Hero of Alexandria (1851)",
     "link": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
     "source": "Hacker News",
     "published": "2026-07-31T15:22:35+00:00",
@@ -144,7 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49124273\">Comments</a>"
   },
   {
-    "title": "\"Gravity is worth asking about.\"",
+    "title": "Birduino: A card-triggered audio player for [learning] the birds",
+    "link": "https://hannahilea.com/blog/birduino/",
+    "source": "Hacker News",
+    "published": "2026-07-30T18:07:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113523\">Comments</a>"
+  },
+  {
+    "title": "\u201cGravity is worth asking about\u201d",
     "link": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
     "source": "Hacker News",
     "published": "2026-07-30T03:57:33+00:00",
