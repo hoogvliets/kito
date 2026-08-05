@@ -1,11 +1,11 @@
 [
   {
-    "title": "The sale of Electronic Arts has been finalized",
-    "link": "https://www.bbc.com/news/articles/cjejyl34345o",
+    "title": "Rust-lang/rust is adopting an LLM policy",
+    "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
     "source": "Hacker News",
-    "published": "2026-08-05T04:51:43+00:00",
+    "published": "2026-08-05T05:52:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49178702\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49179039\">Comments</a>"
   },
   {
     "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
@@ -14,30 +14,6 @@
     "published": "2026-08-05T04:36:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49178608\">Comments</a>"
-  },
-  {
-    "title": "An SLM trained on $8 ESP32-S3",
-    "link": "https://github.com/Carloscodix/qapla",
-    "source": "Hacker News",
-    "published": "2026-08-05T04:07:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49178464\">Comments</a>"
-  },
-  {
-    "title": "Some car companies are operating without regard for a declining customer base",
-    "link": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
-    "source": "Hacker News",
-    "published": "2026-08-05T03:35:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49178317\">Comments</a>"
-  },
-  {
-    "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-    "link": "https://www.asiae.co.kr/en/article/2026080416131786841",
-    "source": "Hacker News",
-    "published": "2026-08-05T01:34:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49177554\">Comments</a>"
   },
   {
     "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
@@ -96,7 +72,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49175924\">Comments</a>"
   },
   {
-    "title": "Show HN: Maple-Preview \u2013 ternary 20B MoE running at 120 tok/s on a iPhone",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
+    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "source": "Hacker News",
+    "published": "2026-08-04T22:01:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49175826\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
     "link": "https://deepgrove.ai/maple-preview",
     "source": "Hacker News",
     "published": "2026-08-04T19:44:55+00:00",
@@ -136,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49170165\">Comments</a>"
   },
   {
+    "title": "Video2NAND \u2013 Abusing video codecs for great computational power",
+    "link": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+    "source": "Hacker News",
+    "published": "2026-08-02T14:29:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49145037\">Comments</a>"
+  },
+  {
     "title": "Stateless MCP has recaptured my interest",
     "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "source": "Hacker News",
@@ -144,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49131438\">Comments</a>"
   },
   {
-    "title": "Why is it all in the kernel?",
-    "link": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+    "title": "The Pneumatics of Hero of Alexandria",
+    "link": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
     "source": "Hacker News",
-    "published": "2026-07-31T13:59:34+00:00",
+    "published": "2026-07-31T15:22:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124273\">Comments</a>"
+  },
+  {
+    "title": "\"Gravity is worth asking about.\"",
+    "link": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "source": "Hacker News",
+    "published": "2026-07-30T03:57:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49105978\">Comments</a>"
   },
   {
     "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
