@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ship Safe, an open source security scanner for coding agents",
+    "link": "https://github.com/asamassekou10/ship-safe",
+    "source": "Hacker News",
+    "published": "2026-08-06T04:02:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49192277\">Comments</a>"
+  },
+  {
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "source": "Hacker News",
+    "published": "2026-08-06T02:15:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49191624\">Comments</a>"
+  },
+  {
     "title": "The title cards in Blade Runner are amazing",
     "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
     "source": "Hacker News",
@@ -88,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>"
   },
   {
-    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-    "link": "https://www.hyperprobe.co",
-    "source": "Hacker News",
-    "published": "2026-08-05T16:47:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185389\">Comments</a>"
-  },
-  {
-    "title": "Something is changing in the unit economics of software",
-    "link": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
-    "source": "Hacker News",
-    "published": "2026-08-05T16:28:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185111\">Comments</a>"
-  },
-  {
     "title": "Discovery Loop",
     "link": "https://www.discoveryloop.com/",
     "source": "Hacker News",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>"
   },
   {
+    "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+    "link": "https://www.greyblake.com/blog/branchless-rust/",
+    "source": "Hacker News",
+    "published": "2026-08-03T06:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151991\">Comments</a>"
+  },
+  {
     "title": "GNU Hurd News 2026-Q2",
     "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>"
   },
   {
-    "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-    "link": "https://github.com/morishuz/delaunay32",
+    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+    "link": "https://quantego.org/",
     "source": "Hacker News",
-    "published": "2026-07-31T16:45:03+00:00",
+    "published": "2026-07-30T16:35:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125532\">Comments</a>"
-  },
-  {
-    "title": "Pushing the limits of RISC-V emulation",
-    "link": "https://shuklaayu.sh/blog/riscv-recompiler",
-    "source": "Hacker News",
-    "published": "2026-07-29T16:48:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099904\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49112348\">Comments</a>"
   }
 ]
