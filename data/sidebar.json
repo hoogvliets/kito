@@ -1,11 +1,19 @@
 [
   {
-    "title": "Ship Safe, an open source security scanner for coding agents",
-    "link": "https://github.com/asamassekou10/ship-safe",
+    "title": "Let's all meet up in the Y2K",
+    "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
     "source": "Hacker News",
-    "published": "2026-08-06T04:02:28+00:00",
+    "published": "2026-08-06T06:43:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49192277\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49193314\">Comments</a>"
+  },
+  {
+    "title": "Crime Pays but Botany Doesn't",
+    "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "source": "Hacker News",
+    "published": "2026-08-06T04:46:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49192566\">Comments</a>"
   },
   {
     "title": "Nashville uses eminent domain to block data center near zoo",
@@ -24,36 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189287\">Comments</a>"
   },
   {
-    "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
-    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-    "source": "Hacker News",
-    "published": "2026-08-05T21:24:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189234\">Comments</a>"
-  },
-  {
-    "title": "I'll be stepping back from leading product for X",
-    "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
-    "source": "Hacker News",
-    "published": "2026-08-05T21:15:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189113\">Comments</a>"
-  },
-  {
     "title": "Prime Agent: A self-improving RLM agent",
     "link": "https://www.primeintellect.ai/blog/prime-agent",
     "source": "Hacker News",
     "published": "2026-08-05T21:11:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189075\">Comments</a>"
-  },
-  {
-    "title": "I'm switching my phone from Android to Linux",
-    "link": "https://runarcn.no/android-to-linux/",
-    "source": "Hacker News",
-    "published": "2026-08-05T19:50:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49188022\">Comments</a>"
   },
   {
     "title": "Muse Code and Muse Spark 1.2",
@@ -104,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>"
   },
   {
+    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:47:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185389\">Comments</a>"
+  },
+  {
     "title": "Discovery Loop",
     "link": "https://www.discoveryloop.com/",
     "source": "Hacker News",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49182996\">Comments</a>"
   },
   {
-    "title": "Position: LLMs Can't Jump",
-    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "title": "How to Make a Nintendo 64 Game in 2026",
+    "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
     "source": "Hacker News",
-    "published": "2026-08-05T11:01:37+00:00",
+    "published": "2026-08-04T13:24:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49168622\">Comments</a>"
+  },
+  {
+    "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+    "link": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "source": "Hacker News",
+    "published": "2026-08-03T16:17:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49157792\">Comments</a>"
   },
   {
     "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
