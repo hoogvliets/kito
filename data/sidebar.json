@@ -1,6 +1,6 @@
 [
   {
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+    "title": "The title cards in Blade Runner are amazing",
     "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
     "source": "Hacker News",
     "published": "2026-08-05T21:29:23+00:00",
@@ -8,12 +8,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189287\">Comments</a>"
   },
   {
-    "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+    "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
     "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
     "source": "Hacker News",
     "published": "2026-08-05T21:24:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189234\">Comments</a>"
+  },
+  {
+    "title": "I'll be stepping back from leading product for X",
+    "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+    "source": "Hacker News",
+    "published": "2026-08-05T21:15:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189113\">Comments</a>"
   },
   {
     "title": "Prime Agent: A self-improving RLM agent",
@@ -24,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189075\">Comments</a>"
   },
   {
-    "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
-    "link": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
-    "source": "Hacker News",
-    "published": "2026-08-05T21:04:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49188980\">Comments</a>"
-  },
-  {
     "title": "I'm switching my phone from Android to Linux",
     "link": "https://runarcn.no/android-to-linux/",
     "source": "Hacker News",
     "published": "2026-08-05T19:50:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49188022\">Comments</a>"
-  },
-  {
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "source": "Hacker News",
-    "published": "2026-08-05T19:47:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187977\">Comments</a>"
   },
   {
     "title": "Muse Code and Muse Spark 1.2",
@@ -56,20 +48,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49187575\">Comments</a>"
   },
   {
-    "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-    "link": "https://sagredo.dev/projects/sula/",
-    "source": "Hacker News",
-    "published": "2026-08-05T18:52:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187259\">Comments</a>"
-  },
-  {
     "title": "Zed DeltaDB",
     "link": "https://zed.dev/deltadb",
     "source": "Hacker News",
     "published": "2026-08-05T18:52:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>"
+  },
+  {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "link": "https://blog.fogus.me/llm/born-against.html",
+    "source": "Hacker News",
+    "published": "2026-08-05T18:37:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187061\">Comments</a>"
   },
   {
     "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
@@ -96,6 +88,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>"
   },
   {
+    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:47:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185389\">Comments</a>"
+  },
+  {
+    "title": "Something is changing in the unit economics of software",
+    "link": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+    "source": "Hacker News",
+    "published": "2026-08-05T16:28:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185111\">Comments</a>"
+  },
+  {
     "title": "Discovery Loop",
     "link": "https://www.discoveryloop.com/",
     "source": "Hacker News",
@@ -112,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49184755\">Comments</a>"
   },
   {
-    "title": "The Valley of Webhooks",
-    "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-    "source": "Hacker News",
-    "published": "2026-08-05T15:22:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184216\">Comments</a>"
-  },
-  {
-    "title": "The Entropy of a Markov Chain",
-    "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-    "source": "Hacker News",
-    "published": "2026-08-05T14:00:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183017\">Comments</a>"
-  },
-  {
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
     "link": "https://blog.cloudflare.com/cloudflare-os/",
     "source": "Hacker News",
     "published": "2026-08-05T13:58:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49182996\">Comments</a>"
+  },
+  {
+    "title": "Position: LLMs Can't Jump",
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "source": "Hacker News",
+    "published": "2026-08-05T11:01:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>"
   },
   {
     "title": "GNU Hurd News 2026-Q2",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>"
   },
   {
-    "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-    "link": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+    "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+    "link": "https://github.com/morishuz/delaunay32",
     "source": "Hacker News",
-    "published": "2026-07-31T18:14:48+00:00",
+    "published": "2026-07-31T16:45:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126716\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125532\">Comments</a>"
   },
   {
-    "title": "Online Friends Are Real Friends",
-    "link": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+    "title": "Pushing the limits of RISC-V emulation",
+    "link": "https://shuklaayu.sh/blog/riscv-recompiler",
     "source": "Hacker News",
-    "published": "2026-07-31T16:07:55+00:00",
+    "published": "2026-07-29T16:48:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124917\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099904\">Comments</a>"
   }
 ]
