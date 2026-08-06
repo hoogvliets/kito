@@ -1,5 +1,13 @@
 [
   {
+    "title": "What I love about Django",
+    "link": "https://buttondown.com/blog/what-i-love-about-django",
+    "source": "Hacker News",
+    "published": "2026-08-06T07:34:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49193673\">Comments</a>"
+  },
+  {
     "title": "Let's all meet up in the Y2K",
     "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
     "source": "Hacker News",
@@ -14,14 +22,6 @@
     "published": "2026-08-06T04:46:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49192566\">Comments</a>"
-  },
-  {
-    "title": "Nashville uses eminent domain to block data center near zoo",
-    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "source": "Hacker News",
-    "published": "2026-08-06T02:15:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49191624\">Comments</a>"
   },
   {
     "title": "The title cards in Blade Runner are amazing",
@@ -88,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>"
   },
   {
-    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-    "link": "https://www.hyperprobe.co",
-    "source": "Hacker News",
-    "published": "2026-08-05T16:47:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185389\">Comments</a>"
-  },
-  {
     "title": "Discovery Loop",
     "link": "https://www.discoveryloop.com/",
     "source": "Hacker News",
@@ -128,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49168622\">Comments</a>"
   },
   {
-    "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-    "link": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-    "source": "Hacker News",
-    "published": "2026-08-03T16:17:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49157792\">Comments</a>"
-  },
-  {
     "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
     "link": "https://www.greyblake.com/blog/branchless-rust/",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>"
   },
   {
+    "title": "Morioka Shoten",
+    "link": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+    "source": "Hacker News",
+    "published": "2026-07-31T23:14:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129551\">Comments</a>"
+  },
+  {
     "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
     "link": "https://quantego.org/",
     "source": "Hacker News",
     "published": "2026-07-30T16:35:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49112348\">Comments</a>"
+  },
+  {
+    "title": "Pareto Front",
+    "link": "https://en.wikipedia.org/wiki/Pareto_front",
+    "source": "Hacker News",
+    "published": "2026-07-29T12:12:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096439\">Comments</a>"
   }
 ]
