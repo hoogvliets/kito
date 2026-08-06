@@ -1,11 +1,115 @@
 [
   {
-    "title": "Why Do Fewer Renters Expect to Move?",
-    "link": "https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/",
+    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+    "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
     "source": "Hacker News",
-    "published": "2026-08-06T12:50:36+00:00",
+    "published": "2026-08-06T21:52:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49195958\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49203105\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Pok\u00e9mon Emerald Ported to Raspberry Pi Pico 2",
+    "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
+    "source": "Hacker News",
+    "published": "2026-08-06T21:49:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49203059\">Comments</a>"
+  },
+  {
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "link": "https://www.aleksagordic.com/blog/vllm",
+    "source": "Hacker News",
+    "published": "2026-08-06T21:30:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49202852\">Comments</a>"
+  },
+  {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "source": "Hacker News",
+    "published": "2026-08-06T20:23:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49201970\">Comments</a>"
+  },
+  {
+    "title": "Quake \u2013 30th Anniversary Update",
+    "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+    "source": "Hacker News",
+    "published": "2026-08-06T20:21:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49201930\">Comments</a>"
+  },
+  {
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+    "source": "Hacker News",
+    "published": "2026-08-06T19:14:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49201003\">Comments</a>"
+  },
+  {
+    "title": "Can you reverse engineer an ASIC?",
+    "link": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+    "source": "Hacker News",
+    "published": "2026-08-06T19:07:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49200933\">Comments</a>"
+  },
+  {
+    "title": "My phone detects going on a run as \u201csomeone snatching my phone and running off\u201d",
+    "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+    "source": "Hacker News",
+    "published": "2026-08-06T18:26:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49200439\">Comments</a>"
+  },
+  {
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "source": "Hacker News",
+    "published": "2026-08-06T17:02:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49199357\">Comments</a>"
+  },
+  {
+    "title": "Taste Is All That's Left",
+    "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "source": "Hacker News",
+    "published": "2026-08-06T17:01:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49199346\">Comments</a>"
+  },
+  {
+    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "link": "https://github.com/CopilotKit/channels-sdk",
+    "source": "Hacker News",
+    "published": "2026-08-06T16:05:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49198583\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "link": "https://provenmetal.com",
+    "source": "Hacker News",
+    "published": "2026-08-06T15:59:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49198464\">Comments</a>"
+  },
+  {
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "source": "Hacker News",
+    "published": "2026-08-06T15:49:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49198302\">Comments</a>"
+  },
+  {
+    "title": "Almost no skill required to cook a steak",
+    "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "source": "Hacker News",
+    "published": "2026-08-06T15:30:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49198069\">Comments</a>"
   },
   {
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
@@ -24,139 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49195231\">Comments</a>"
   },
   {
-    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+    "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
     "source": "Hacker News",
-    "published": "2026-08-06T06:24:42+00:00",
+    "published": "2026-08-05T15:33:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49193173\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184355\">Comments</a>"
   },
   {
-    "title": "Crime Pays but Botany Doesn't",
-    "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "title": "I stopped trusting USB-C cable labels and started testing them",
+    "link": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
     "source": "Hacker News",
-    "published": "2026-08-06T04:46:35+00:00",
+    "published": "2026-08-03T07:12:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49192566\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49152255\">Comments</a>"
   },
   {
-    "title": "The title cards in Blade Runner are amazing",
-    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+    "link": "https://laurentiugabriel.github.io/ChipTycoon/",
     "source": "Hacker News",
-    "published": "2026-08-05T21:29:23+00:00",
+    "published": "2026-07-31T07:37:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189287\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49120149\">Comments</a>"
   },
   {
-    "title": "Prime Agent: A self-improving RLM agent",
-    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "title": "STV: A full-motion video codec for the Atari ST",
+    "link": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
     "source": "Hacker News",
-    "published": "2026-08-05T21:11:57+00:00",
+    "published": "2026-07-30T17:46:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189075\">Comments</a>"
-  },
-  {
-    "title": "Muse Code and Muse Spark 1.2",
-    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "source": "Hacker News",
-    "published": "2026-08-05T19:15:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187575\">Comments</a>"
-  },
-  {
-    "title": "Zed DeltaDB",
-    "link": "https://zed.dev/deltadb",
-    "source": "Hacker News",
-    "published": "2026-08-05T18:52:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>"
-  },
-  {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "link": "https://blog.fogus.me/llm/born-against.html",
-    "source": "Hacker News",
-    "published": "2026-08-05T18:37:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187061\">Comments</a>"
-  },
-  {
-    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "source": "Hacker News",
-    "published": "2026-08-05T18:18:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186762\">Comments</a>"
-  },
-  {
-    "title": "Discovery Loop",
-    "link": "https://www.discoveryloop.com/",
-    "source": "Hacker News",
-    "published": "2026-08-05T16:19:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184960\">Comments</a>"
-  },
-  {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "source": "Hacker News",
-    "published": "2026-08-05T16:05:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184755\">Comments</a>"
-  },
-  {
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "link": "https://blog.cloudflare.com/cloudflare-os/",
-    "source": "Hacker News",
-    "published": "2026-08-05T13:58:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182996\">Comments</a>"
-  },
-  {
-    "title": "How to Make a Nintendo 64 Game in 2026",
-    "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "source": "Hacker News",
-    "published": "2026-08-04T13:24:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49168622\">Comments</a>"
-  },
-  {
-    "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-    "link": "https://www.greyblake.com/blog/branchless-rust/",
-    "source": "Hacker News",
-    "published": "2026-08-03T06:37:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151991\">Comments</a>"
-  },
-  {
-    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
-    "link": "https://nanochess.org/the_am29000_computer.html",
-    "source": "Hacker News",
-    "published": "2026-07-31T21:57:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129008\">Comments</a>"
-  },
-  {
-    "title": "Join Me in Jamverse",
-    "link": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
-    "source": "Hacker News",
-    "published": "2026-07-31T12:20:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49122190\">Comments</a>"
-  },
-  {
-    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-    "link": "https://quantego.org/",
-    "source": "Hacker News",
-    "published": "2026-07-30T16:35:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49112348\">Comments</a>"
-  },
-  {
-    "title": "Pareto Front",
-    "link": "https://en.wikipedia.org/wiki/Pareto_front",
-    "source": "Hacker News",
-    "published": "2026-07-29T12:12:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096439\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113256\">Comments</a>"
   }
 ]
