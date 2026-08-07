@@ -1,19 +1,27 @@
 [
   {
+    "title": "Framework discloses data breach via Metabase 0-day",
+    "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+    "source": "Hacker News",
+    "published": "2026-08-07T05:17:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49206130\">Comments</a>"
+  },
+  {
+    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "source": "Hacker News",
+    "published": "2026-08-07T00:37:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49204546\">Comments</a>"
+  },
+  {
     "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
     "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
     "source": "Hacker News",
     "published": "2026-08-07T00:06:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49204352\">Comments</a>"
-  },
-  {
-    "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-    "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-    "source": "Hacker News",
-    "published": "2026-08-06T23:30:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49204060\">Comments</a>"
   },
   {
     "title": "Welcoming the Nepalese Government to Have I Been Pwned",
@@ -24,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49203105\">Comments</a>"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "source": "Hacker News",
-    "published": "2026-08-06T21:30:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49202852\">Comments</a>"
-  },
-  {
     "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
     "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
     "source": "Hacker News",
     "published": "2026-08-06T21:18:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49202716\">Comments</a>"
+  },
+  {
+    "title": "What Is a Product?",
+    "link": "https://roge.onwrite.app/what-is-a-product",
+    "source": "Hacker News",
+    "published": "2026-08-06T21:16:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49202690\">Comments</a>"
   },
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
@@ -54,14 +62,6 @@
     "published": "2026-08-06T19:14:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49201003\">Comments</a>"
-  },
-  {
-    "title": "My phone detects going on a run as \u201csomeone snatching my phone and running off\u201d",
-    "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-    "source": "Hacker News",
-    "published": "2026-08-06T18:26:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49200439\">Comments</a>"
   },
   {
     "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
@@ -96,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49198302\">Comments</a>"
   },
   {
-    "title": "Almost no skill required to cook a steak",
+    "title": "Software development with AI is starting to feel like cooking steak",
     "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
     "source": "Hacker News",
     "published": "2026-08-06T15:30:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49198069\">Comments</a>"
-  },
-  {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "source": "Hacker News",
-    "published": "2026-08-06T11:58:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49195468\">Comments</a>"
   },
   {
     "title": "Mario Meets Pareto",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49163879\">Comments</a>"
   },
   {
+    "title": "Reverse Jevons Paradox",
+    "link": "https://mht.wtf/post/jevons/",
+    "source": "Hacker News",
+    "published": "2026-08-03T22:04:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49162080\">Comments</a>"
+  },
+  {
     "title": "I stopped trusting USB-C cable labels and started testing them",
     "link": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49138446\">Comments</a>"
   },
   {
-    "title": "STV: A full-motion video codec for the Atari ST",
-    "link": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+    "title": "Atomic Clocks",
+    "link": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
     "source": "Hacker News",
-    "published": "2026-07-30T17:46:32+00:00",
+    "published": "2026-07-31T21:58:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49113256\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129015\">Comments</a>"
   }
 ]
