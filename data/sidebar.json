@@ -1,5 +1,45 @@
 [
   {
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "source": "Hacker News",
+    "published": "2026-08-08T10:57:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49220609\">Comments</a>"
+  },
+  {
+    "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+    "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+    "source": "Hacker News",
+    "published": "2026-08-08T10:16:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49220390\">Comments</a>"
+  },
+  {
+    "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+    "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "source": "Hacker News",
+    "published": "2026-08-08T10:07:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49220350\">Comments</a>"
+  },
+  {
+    "title": "Europe's free satellite service just made it easier to track wildfires",
+    "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+    "source": "Hacker News",
+    "published": "2026-08-08T09:58:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49220313\">Comments</a>"
+  },
+  {
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Hacker News",
+    "published": "2026-08-08T09:18:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49220126\">Comments</a>"
+  },
+  {
     "title": "Hardware backdoors in some x86 CPUs",
     "link": "https://github.com/xoreaxeaxeax/rosenbridge",
     "source": "Hacker News",
@@ -64,38 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49214008\">Comments</a>"
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "source": "Hacker News",
-    "published": "2026-08-07T17:36:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49213754\">Comments</a>"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-    "source": "Hacker News",
-    "published": "2026-08-07T16:39:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49213029\">Comments</a>"
-  },
-  {
-    "title": "An all-sky map of half a million supermassive black holes",
-    "link": "https://www.sdss.org/black-hole-mapper-release-20/",
-    "source": "Hacker News",
-    "published": "2026-08-07T15:24:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49211921\">Comments</a>"
-  },
-  {
-    "title": "Radical Study Suggests Life on Earth Arose Twice",
-    "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-    "source": "Hacker News",
-    "published": "2026-08-07T12:45:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49209572\">Comments</a>"
-  },
-  {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "source": "Hacker News",
@@ -120,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189457\">Comments</a>"
   },
   {
-    "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-    "link": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+    "title": "Show HN: Sign language translation with smart glasses",
+    "link": "https://github.com/aadisang/hand-wave",
     "source": "Hacker News",
-    "published": "2026-08-04T16:32:08+00:00",
+    "published": "2026-08-04T21:58:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49171223\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49175774\">Comments</a>"
   },
   {
     "title": "From One Seed to a Thousand Leaves \u2013 Merkle's Authentication Tree",
@@ -142,14 +150,6 @@
     "published": "2026-08-02T04:53:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49141236\">Comments</a>"
-  },
-  {
-    "title": "Carl's Required Reading",
-    "link": "https://carlkolon.com/reading/",
-    "source": "Hacker News",
-    "published": "2026-08-01T15:51:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49135457\">Comments</a>"
   },
   {
     "title": "SupererDuperer",
