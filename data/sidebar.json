@@ -1,14 +1,14 @@
 [
   {
-    "title": "Mythos social engineering AISI INC-2026-07-28-01",
-    "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "link": "https://github.com/xoreaxeaxeax/rosenbridge",
     "source": "Hacker News",
-    "published": "2026-08-08T03:41:56+00:00",
+    "published": "2026-08-08T07:04:51+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49218707\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49219508\">Comments</a>"
   },
   {
-    "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+    "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
     "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
     "source": "Hacker News",
     "published": "2026-08-08T01:49:11+00:00",
@@ -30,14 +30,6 @@
     "published": "2026-08-07T22:24:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49216946\">Comments</a>"
-  },
-  {
-    "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-    "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-    "source": "Hacker News",
-    "published": "2026-08-07T21:19:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49216362\">Comments</a>"
   },
   {
     "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
@@ -96,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49211921\">Comments</a>"
   },
   {
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "source": "Hacker News",
+    "published": "2026-08-07T12:45:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49209572\">Comments</a>"
+  },
+  {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "source": "Hacker News",
     "published": "2026-08-07T12:42:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49209539\">Comments</a>"
-  },
-  {
-    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "source": "Hacker News",
-    "published": "2026-08-07T11:00:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49208535\">Comments</a>"
   },
   {
     "title": "2027 memory capacity is reportedly sold out",
@@ -120,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49207236\">Comments</a>"
   },
   {
-    "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+    "title": "A Physicist Rigged His Pet Hamster\u2019s Wheel to Upload to Strava",
     "link": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
     "source": "Hacker News",
     "published": "2026-08-05T21:44:42+00:00",
@@ -136,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49171223\">Comments</a>"
   },
   {
-    "title": "As a Windows user, it's a surreal way to install a program",
-    "link": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "title": "From One Seed to a Thousand Leaves \u2013 Merkle's Authentication Tree",
+    "link": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
     "source": "Hacker News",
-    "published": "2026-08-04T03:46:49+00:00",
+    "published": "2026-08-04T14:21:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49164184\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49169417\">Comments</a>"
+  },
+  {
+    "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+    "link": "https://github.com/alfikpl/ao486",
+    "source": "Hacker News",
+    "published": "2026-08-02T04:53:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49141236\">Comments</a>"
   },
   {
     "title": "Carl's Required Reading",
