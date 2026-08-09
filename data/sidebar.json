@@ -1,5 +1,109 @@
 [
   {
+    "title": "OpenChamber: An Agentic Development Environment",
+    "link": "https://openchamber.dev/",
+    "source": "Hacker News",
+    "published": "2026-08-09T17:27:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49233448\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What are you working on? (August 2026)",
+    "link": "https://news.ycombinator.com/item?id=49233423",
+    "source": "Hacker News",
+    "published": "2026-08-09T17:23:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49233423\">Comments</a>"
+  },
+  {
+    "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+    "link": "https://frequal.com/aptera/ProductionImminent.html",
+    "source": "Hacker News",
+    "published": "2026-08-09T17:19:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49233394\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "link": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "source": "Hacker News",
+    "published": "2026-08-09T17:10:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49233306\">Comments</a>"
+  },
+  {
+    "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+    "source": "Hacker News",
+    "published": "2026-08-09T16:24:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232857\">Comments</a>"
+  },
+  {
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "source": "Hacker News",
+    "published": "2026-08-09T16:18:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232778\">Comments</a>"
+  },
+  {
+    "title": "Every fast write moves work somewhere else",
+    "link": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:36:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232410\">Comments</a>"
+  },
+  {
+    "title": "Criminal Deception in Silicon Valley",
+    "link": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:26:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232318\">Comments</a>"
+  },
+  {
+    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+    "link": "https://github.com/eighttrigrams/us-vs-them",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:25:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232300\">Comments</a>"
+  },
+  {
+    "title": "Taxi drivers rarely die of Alzheimer's",
+    "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:21:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232253\">Comments</a>"
+  },
+  {
+    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+    "link": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:08:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232110\">Comments</a>"
+  },
+  {
+    "title": "Cool URIs Don't Change (1998)",
+    "link": "https://www.w3.org/Provider/Style/URI",
+    "source": "Hacker News",
+    "published": "2026-08-09T14:32:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49231809\">Comments</a>"
+  },
+  {
+    "title": "A partial digestion of the HRT counterexample",
+    "link": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
+    "source": "Hacker News",
+    "published": "2026-08-09T14:09:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49231586\">Comments</a>"
+  },
+  {
     "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
     "link": "https://kibotronics.net/unlisted/lilly-machines/",
     "source": "Hacker News",
@@ -22,14 +126,6 @@
     "published": "2026-08-09T12:43:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49230891\">Comments</a>"
-  },
-  {
-    "title": "Reviving a four year old reMarkable 2",
-    "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "source": "Hacker News",
-    "published": "2026-08-09T11:39:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49230514\">Comments</a>"
   },
   {
     "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
@@ -56,107 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49228663\">Comments</a>"
   },
   {
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-    "link": "http://longbets.org/601/",
+    "title": "Crickets as Pets",
+    "link": "https://en.wikipedia.org/wiki/Crickets_as_pets",
     "source": "Hacker News",
-    "published": "2026-08-09T04:30:26+00:00",
+    "published": "2026-08-05T14:18:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49228458\">Comments</a>"
-  },
-  {
-    "title": "TheoremDB \u2013 A public workspace for machine mathematics",
-    "link": "https://theoremdb.org/",
-    "source": "Hacker News",
-    "published": "2026-08-09T01:23:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49227505\">Comments</a>"
-  },
-  {
-    "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-    "link": "https://os8088.com/",
-    "source": "Hacker News",
-    "published": "2026-08-08T23:37:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226923\">Comments</a>"
-  },
-  {
-    "title": "Dithered QR Codes",
-    "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "source": "Hacker News",
-    "published": "2026-08-08T23:05:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226742\">Comments</a>"
-  },
-  {
-    "title": "My server is a phone now",
-    "link": "https://seg6.space/posts/phone-server/",
-    "source": "Hacker News",
-    "published": "2026-08-08T22:49:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226636\">Comments</a>"
-  },
-  {
-    "title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-    "link": "https://shopify.engineering/scaling-inventory-reservations",
-    "source": "Hacker News",
-    "published": "2026-08-08T22:32:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226536\">Comments</a>"
-  },
-  {
-    "title": "Fastmail offers EU data region",
-    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "source": "Hacker News",
-    "published": "2026-08-08T16:04:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49223082\">Comments</a>"
-  },
-  {
-    "title": "The Grid That Doubles the Strength of the Ground",
-    "link": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "source": "Hacker News",
-    "published": "2026-08-05T04:11:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49178476\">Comments</a>"
-  },
-  {
-    "title": "Protopia",
-    "link": "https://kevinkelly.substack.com/p/protopia",
-    "source": "Hacker News",
-    "published": "2026-08-04T13:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49168282\">Comments</a>"
-  },
-  {
-    "title": "When the apartment listing is too good to be true",
-    "link": "https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/",
-    "source": "Hacker News",
-    "published": "2026-08-03T23:36:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49162740\">Comments</a>"
-  },
-  {
-    "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
-    "link": "https://dylancastillo.co/posts/matryoshka-vs-pca",
-    "source": "Hacker News",
-    "published": "2026-08-03T14:53:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49156607\">Comments</a>"
-  },
-  {
-    "title": "Uber SubmitQueue: a high-performance speculative merge queue",
-    "link": "https://github.com/uber/submitqueue/",
-    "source": "Hacker News",
-    "published": "2026-08-01T20:24:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49138084\">Comments</a>"
-  },
-  {
-    "title": "Improving Heuristics for A* Pathfinding",
-    "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-    "source": "Hacker News",
-    "published": "2026-07-28T06:04:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079995\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183291\">Comments</a>"
   }
 ]
