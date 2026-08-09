@@ -1,5 +1,21 @@
 [
   {
+    "title": "My server is a phone now",
+    "link": "https://seg6.space/posts/phone-server/",
+    "source": "Hacker News",
+    "published": "2026-08-08T22:49:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226636\">Comments</a>"
+  },
+  {
+    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+    "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+    "source": "Hacker News",
+    "published": "2026-08-08T21:07:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49225918\">Comments</a>"
+  },
+  {
     "title": "Open-source interactive map for the Aug 12 total solar eclipse",
     "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
     "source": "Hacker News",
@@ -8,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49225139\">Comments</a>"
   },
   {
-    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "title": "Danish high schoolers will have to verbally defend written assignments",
     "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
     "source": "Hacker News",
     "published": "2026-08-08T18:09:31+00:00",
@@ -22,22 +38,6 @@
     "published": "2026-08-08T17:42:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49224020\">Comments</a>"
-  },
-  {
-    "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-    "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-    "source": "Hacker News",
-    "published": "2026-08-08T17:27:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49223845\">Comments</a>"
-  },
-  {
-    "title": "LinkedIn Feed Blocker",
-    "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-    "source": "Hacker News",
-    "published": "2026-08-08T16:49:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49223475\">Comments</a>"
   },
   {
     "title": "Fastmail offers EU data region",
@@ -56,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49223079\">Comments</a>"
   },
   {
-    "title": "\"Code was never the hard part\" is an insult to all programmers",
+    "title": "\u201cCode was never the hard part\u201d is an insult to all programmers",
     "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
     "source": "Hacker News",
     "published": "2026-08-08T14:32:33+00:00",
@@ -72,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49221711\">Comments</a>"
   },
   {
-    "title": "Voyager 1 FDS Computer Emulator",
-    "link": "https://zaneham.github.io/voyager-fds-emulator/",
-    "source": "Hacker News",
-    "published": "2026-08-08T13:28:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49221679\">Comments</a>"
-  },
-  {
-    "title": "A domain can now say it is for sale, in DNS",
+    "title": "_for-sale DNS records",
     "link": "https://specification.website/spec/foundations/for-sale-dns/",
     "source": "Hacker News",
     "published": "2026-08-08T13:26:51+00:00",
@@ -120,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49220126\">Comments</a>"
   },
   {
-    "title": "Python string literals are kinda funny",
-    "link": "https://sebsite.pw/w/20260806-pystrings.html",
-    "source": "Hacker News",
-    "published": "2026-08-06T04:44:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49192556\">Comments</a>"
-  },
-  {
     "title": "A physicist rigged his pet hamster\u2019s wheel to upload to Strava",
     "link": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
     "source": "Hacker News",
@@ -136,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49189457\">Comments</a>"
   },
   {
-    "title": "Monitors for Work",
-    "link": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
+    "title": "Making difficulty curves in games",
+    "link": "http://www.davetech.co.uk/difficultycurves",
     "source": "Hacker News",
-    "published": "2026-08-05T15:23:16+00:00",
+    "published": "2026-08-05T09:59:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184233\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49180649\">Comments</a>"
   },
   {
     "title": "Preventing Misfolding by Preventing Folding",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49169973\">Comments</a>"
   },
   {
+    "title": "DDisasm: Reversible (bi-directional) Disassembler",
+    "link": "https://github.com/GrammaTech/ddisasm",
+    "source": "Hacker News",
+    "published": "2026-08-03T04:13:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151146\">Comments</a>"
+  },
+  {
     "title": "Building a local positioning system to track runners using Ultra-Wideband",
     "link": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
     "source": "Hacker News",
     "published": "2026-08-01T12:30:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49133850\">Comments</a>"
+  },
+  {
+    "title": "Improving Heuristics for A* Pathfinding",
+    "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "source": "Hacker News",
+    "published": "2026-07-28T06:04:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079995\">Comments</a>"
   }
 ]
