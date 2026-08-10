@@ -1,11 +1,27 @@
 [
   {
-    "title": "Learning more about Claude's mathematical capabilities",
-    "link": "https://www.anthropic.com/research/riemann-zeta",
+    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+    "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
     "source": "Hacker News",
-    "published": "2026-08-10T17:41:13+00:00",
+    "published": "2026-08-10T20:20:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49247070\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49249150\">Comments</a>"
+  },
+  {
+    "title": "Rust SIMD on the GPU",
+    "link": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "source": "Hacker News",
+    "published": "2026-08-10T18:12:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49247477\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "link": "https://cactuscompute.com/needle",
+    "source": "Hacker News",
+    "published": "2026-08-10T17:22:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49246804\">Comments</a>"
   },
   {
     "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
@@ -32,30 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49245437\">Comments</a>"
   },
   {
-    "title": "Back to the Future of Handwriting Recognition (2016)",
-    "link": "https://jackschaedler.github.io/handwriting-recognition/",
-    "source": "Hacker News",
-    "published": "2026-08-10T15:58:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245421\">Comments</a>"
-  },
-  {
-    "title": "The Tragedy of the Cognitive Commons",
-    "link": "https://arxiv.org/abs/2607.29380",
-    "source": "Hacker News",
-    "published": "2026-08-10T15:55:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245359\">Comments</a>"
-  },
-  {
-    "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
-    "link": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
-    "source": "Hacker News",
-    "published": "2026-08-10T15:54:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245348\">Comments</a>"
-  },
-  {
     "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
     "link": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
     "source": "Hacker News",
@@ -72,36 +64,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49245251\">Comments</a>"
   },
   {
-    "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
-    "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
     "source": "Hacker News",
-    "published": "2026-08-10T15:32:04+00:00",
+    "published": "2026-08-10T14:38:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245023\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244308\">Comments</a>"
   },
   {
-    "title": "Itadakimasu: A word you say to the food, not the cook",
-    "link": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "source": "Hacker News",
-    "published": "2026-08-10T15:23:44+00:00",
+    "published": "2026-08-10T14:06:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244916\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243880\">Comments</a>"
   },
   {
-    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-    "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "title": "Humanising LLM Outputs Is Dumb",
+    "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "source": "Hacker News",
-    "published": "2026-08-10T14:56:32+00:00",
+    "published": "2026-08-10T13:35:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244569\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243474\">Comments</a>"
   },
   {
-    "title": "50k Boat Names",
-    "link": "https://www.beautifulpublicdata.com/boat-names/",
+    "title": "Mistral Patent for \u201cCode implemented tool calls\u201d",
+    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
     "source": "Hacker News",
-    "published": "2026-08-10T12:58:16+00:00",
+    "published": "2026-08-10T13:29:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243029\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243397\">Comments</a>"
   },
   {
     "title": "Squeak 6.1",
@@ -144,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49213660\">Comments</a>"
   },
   {
-    "title": "Sorting, hashing, and sketches on 370,103 words",
-    "link": "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/",
+    "title": "Publishing Schematics Before \"Open Source\" Was a Word",
+    "link": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
     "source": "Hacker News",
-    "published": "2026-08-07T13:19:53+00:00",
+    "published": "2026-08-07T15:59:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49209971\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49212449\">Comments</a>"
   },
   {
     "title": "Sonic Pi v5",
@@ -158,5 +150,13 @@
     "published": "2026-08-07T10:26:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49208296\">Comments</a>"
+  },
+  {
+    "title": "The Psychedelic Toad of the Sonoran Desert",
+    "link": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+    "source": "Hacker News",
+    "published": "2026-08-04T17:49:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49172319\">Comments</a>"
   }
 ]
