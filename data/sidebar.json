@@ -1,19 +1,51 @@
 [
   {
+    "title": "Tail-call optimization in C is relatively recent",
+    "link": "https://lwn.net/Articles/1034703/",
+    "source": "Hacker News",
+    "published": "2026-08-10T11:34:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242297\">Comments</a>"
+  },
+  {
+    "title": "Because It's Not Fun Enough: why languages fail",
+    "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "source": "Hacker News",
+    "published": "2026-08-10T11:27:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242245\">Comments</a>"
+  },
+  {
+    "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+    "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+    "source": "Hacker News",
+    "published": "2026-08-10T11:22:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242213\">Comments</a>"
+  },
+  {
+    "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "link": "https://ethw.org/Milestones:Parametron,_1954",
+    "source": "Hacker News",
+    "published": "2026-08-10T10:29:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49241846\">Comments</a>"
+  },
+  {
+    "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "source": "Hacker News",
+    "published": "2026-08-10T10:10:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49241679\">Comments</a>"
+  },
+  {
     "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "link": "https://www.docker.com/products/docker-sandboxes/",
     "source": "Hacker News",
     "published": "2026-08-10T06:02:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49239751\">Comments</a>"
-  },
-  {
-    "title": "Auto mode is now the default in Claude Code",
-    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "source": "Hacker News",
-    "published": "2026-08-10T03:50:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49239021\">Comments</a>"
   },
   {
     "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
@@ -32,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49238818\">Comments</a>"
   },
   {
-    "title": "Turn satellite imagery into a paper globe you fold yourself",
-    "link": "https://foldingglobes.com/",
-    "source": "Hacker News",
-    "published": "2026-08-10T02:57:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49238735\">Comments</a>"
-  },
-  {
     "title": "What Happened to HackerOne?",
     "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
     "source": "Hacker News",
@@ -54,14 +78,6 @@
     "published": "2026-08-10T01:01:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49238050\">Comments</a>"
-  },
-  {
-    "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
-    "link": "https://tuxedono2.com",
-    "source": "Hacker News",
-    "published": "2026-08-09T20:48:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49235697\">Comments</a>"
   },
   {
     "title": "How I use LLMs to learn complex topics",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49209132\">Comments</a>"
   },
   {
-    "title": "Slap ROM Patcher",
-    "link": "https://nyuu.page/projects/slap/",
-    "source": "Hacker News",
-    "published": "2026-08-07T04:54:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49206028\">Comments</a>"
-  },
-  {
     "title": "An Interesting Fourier Transform \u2013 1/F Noise",
     "link": "https://www.dsprelated.com/showarticle/40.php",
     "source": "Hacker News",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49202912\">Comments</a>"
   },
   {
-    "title": "Show HN: I made alchemical-cosmological PCB badges",
-    "link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+    "title": "How Blackwing Pencils are Made [video]",
+    "link": "https://www.youtube.com/watch?v=fow-LsdaH2E",
     "source": "Hacker News",
-    "published": "2026-08-05T16:15:51+00:00",
+    "published": "2026-08-05T14:58:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184900\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183917\">Comments</a>"
   },
   {
     "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
@@ -150,13 +158,5 @@
     "published": "2026-08-05T12:52:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49182148\">Comments</a>"
-  },
-  {
-    "title": "Nearest Pint",
-    "link": "https://knowwhereconsulting.co.uk/maps/pubs/",
-    "source": "Hacker News",
-    "published": "2026-08-04T19:47:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49174017\">Comments</a>"
   }
 ]
