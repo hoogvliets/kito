@@ -1,27 +1,67 @@
 [
   {
+    "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
+    "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "source": "Hacker News",
+    "published": "2026-08-10T15:32:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245023\">Comments</a>"
+  },
+  {
+    "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "source": "Hacker News",
+    "published": "2026-08-10T14:38:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244308\">Comments</a>"
+  },
+  {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "source": "Hacker News",
+    "published": "2026-08-10T14:06:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243880\">Comments</a>"
+  },
+  {
+    "title": "Mistral Patent for \"Code implemented tool calls\"",
+    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "source": "Hacker News",
+    "published": "2026-08-10T13:29:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243397\">Comments</a>"
+  },
+  {
+    "title": "50k Boat Names",
+    "link": "https://www.beautifulpublicdata.com/boat-names/",
+    "source": "Hacker News",
+    "published": "2026-08-10T12:58:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243029\">Comments</a>"
+  },
+  {
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "link": "https://bobdahacker.com/blog/tldv-hack",
+    "source": "Hacker News",
+    "published": "2026-08-10T12:26:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242739\">Comments</a>"
+  },
+  {
+    "title": "Squeak/Smalltalk 6.1 Release Notes",
+    "link": "https://squeak.org/release_notes/6.1/",
+    "source": "Hacker News",
+    "published": "2026-08-10T12:15:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242653\">Comments</a>"
+  },
+  {
     "title": "Tail-call optimization in C is relatively recent",
     "link": "https://lwn.net/Articles/1034703/",
     "source": "Hacker News",
     "published": "2026-08-10T11:34:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49242297\">Comments</a>"
-  },
-  {
-    "title": "Because It's Not Fun Enough: why languages fail",
-    "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-    "source": "Hacker News",
-    "published": "2026-08-10T11:27:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242245\">Comments</a>"
-  },
-  {
-    "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
-    "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
-    "source": "Hacker News",
-    "published": "2026-08-10T11:22:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242213\">Comments</a>"
   },
   {
     "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
@@ -72,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49238561\">Comments</a>"
   },
   {
-    "title": "How We Pushed CDC into Postgres",
-    "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-    "source": "Hacker News",
-    "published": "2026-08-10T01:01:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49238050\">Comments</a>"
-  },
-  {
     "title": "How I use LLMs to learn complex topics",
     "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
     "source": "Hacker News",
@@ -88,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49234675\">Comments</a>"
   },
   {
-    "title": "Ask HN: What are you working on? (August 2026)",
-    "link": "https://news.ycombinator.com/item?id=49233423",
-    "source": "Hacker News",
-    "published": "2026-08-09T17:23:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49233423\">Comments</a>"
-  },
-  {
     "title": "Taxi drivers rarely die of Alzheimer's",
     "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
     "source": "Hacker News",
     "published": "2026-08-09T15:21:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49232253\">Comments</a>"
-  },
-  {
-    "title": "Cool URIs Don't Change (1998)",
-    "link": "https://www.w3.org/Provider/Style/URI",
-    "source": "Hacker News",
-    "published": "2026-08-09T14:32:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49231809\">Comments</a>"
-  },
-  {
-    "title": "An alias-based formulation of the borrow checker (2018)",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-    "source": "Hacker News",
-    "published": "2026-08-07T15:20:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49211821\">Comments</a>"
   },
   {
     "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
@@ -136,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49205082\">Comments</a>"
   },
   {
-    "title": "ATProto for Distributed Systems Engineers",
-    "link": "https://atproto.com/articles/atproto-for-distsys-engineers",
-    "source": "Hacker News",
-    "published": "2026-08-06T21:35:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49202912\">Comments</a>"
-  },
-  {
     "title": "How Blackwing Pencils are Made [video]",
     "link": "https://www.youtube.com/watch?v=fow-LsdaH2E",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49183917\">Comments</a>"
   },
   {
-    "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-    "link": "https://gitlab.com/Kazade/picophysics",
+    "title": "Findphone: Locate a nearby Bluetooth device by signal strength",
+    "link": "https://github.com/ben-z/findphone",
     "source": "Hacker News",
-    "published": "2026-08-05T12:52:00+00:00",
+    "published": "2026-08-05T11:54:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182148\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181584\">Comments</a>"
   }
 ]
