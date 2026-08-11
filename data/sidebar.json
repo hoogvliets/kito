@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenSSH 10.5 released, AI assistance now welcome",
+    "link": "https://www.openssh.org/releasenotes.html#10.5",
+    "source": "Hacker News",
+    "published": "2026-08-11T17:49:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49261895\">Comments</a>"
+  },
+  {
+    "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "source": "Hacker News",
+    "published": "2026-08-11T16:57:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49261133\">Comments</a>"
+  },
+  {
     "title": "Show HN: Git-knife \u2013 edit commit messages, authors, and dates like a spreadsheet",
     "link": "https://github.com/TheRealYT/git-knife",
     "source": "Hacker News",
@@ -24,6 +40,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49259309\">Comments</a>"
   },
   {
+    "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+    "link": "https://www.propublica.org/article/foia-requests-responses",
+    "source": "Hacker News",
+    "published": "2026-08-11T14:32:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49259043\">Comments</a>"
+  },
+  {
     "title": "Manus will return to operating as an independent company",
     "link": "https://manus.im/blog/a-note-to-our-users",
     "source": "Hacker News",
@@ -32,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49258764\">Comments</a>"
   },
   {
-    "title": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
-    "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+    "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+    "link": "https://writemd.app/",
     "source": "Hacker News",
-    "published": "2026-08-11T14:03:18+00:00",
+    "published": "2026-08-11T13:30:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49258581\">Comments</a>"
-  },
-  {
-    "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
-    "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
-    "source": "Hacker News",
-    "published": "2026-08-11T13:42:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49258202\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49258011\">Comments</a>"
   },
   {
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -96,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49252179\">Comments</a>"
   },
   {
-    "title": "Chicken Scheme 6.0",
-    "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "source": "Hacker News",
-    "published": "2026-08-11T00:24:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49251702\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-    "link": "https://everycube.alen.is/",
-    "source": "Hacker News",
-    "published": "2026-08-10T23:16:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49251179\">Comments</a>"
-  },
-  {
     "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "link": "https://thewalrus.ca/google-search-is-dying/",
     "source": "Hacker News",
@@ -128,20 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49246804\">Comments</a>"
   },
   {
-    "title": "Beltrunner: Game Design Postmortem",
-    "link": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
+    "title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
+    "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
     "source": "Hacker News",
-    "published": "2026-08-10T15:40:24+00:00",
+    "published": "2026-08-09T01:41:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245123\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49227610\">Comments</a>"
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "link": "https://photosynthesis.camera",
     "source": "Hacker News",
-    "published": "2026-08-10T14:06:22+00:00",
+    "published": "2026-08-08T22:47:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243880\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49226623\">Comments</a>"
+  },
+  {
+    "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+    "link": "https://jolt-lang.github.io",
+    "source": "Hacker News",
+    "published": "2026-08-08T17:38:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49223965\">Comments</a>"
   },
   {
     "title": "Halcyon Video \u2013 a 3D video store for your media server",
@@ -150,13 +158,5 @@
     "published": "2026-08-07T14:38:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49211158\">Comments</a>"
-  },
-  {
-    "title": "LFM2.5 2.6B model competitive with 4x larger models",
-    "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "source": "Hacker News",
-    "published": "2026-08-04T18:47:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49173107\">Comments</a>"
   }
 ]
