@@ -1,5 +1,37 @@
 [
   {
+    "title": "Hyperspace",
+    "link": "https://hypercritical.co/hyperspace/",
+    "source": "Hacker News",
+    "published": "2026-08-11T02:04:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49252493\">Comments</a>"
+  },
+  {
+    "title": "Recycle \u2013 Floppydisks",
+    "link": "https://www.floppydisk.com/recycle",
+    "source": "Hacker News",
+    "published": "2026-08-11T02:01:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49252462\">Comments</a>"
+  },
+  {
+    "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+    "link": "https://github.com/antirez/h3.c",
+    "source": "Hacker News",
+    "published": "2026-08-11T01:22:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49252179\">Comments</a>"
+  },
+  {
+    "title": "Chicken Scheme 6.0",
+    "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "source": "Hacker News",
+    "published": "2026-08-11T00:24:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49251702\">Comments</a>"
+  },
+  {
     "title": "The UK's War on Anonymity Has Come to America",
     "link": "https://www.effort.news/uk-lobby",
     "source": "Hacker News",
@@ -56,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49246804\">Comments</a>"
   },
   {
-    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-    "link": "https://www.stoaexchange.com",
-    "source": "Hacker News",
-    "published": "2026-08-10T16:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49246057\">Comments</a>"
-  },
-  {
-    "title": "What's the best programming language for coding agents?",
-    "link": "http://danluu.com/pl-tokens/",
-    "source": "Hacker News",
-    "published": "2026-08-10T16:28:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49245936\">Comments</a>"
-  },
-  {
     "title": "Exploiting System Management Mode with a very long interrupt",
     "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
     "source": "Hacker News",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49241679\">Comments</a>"
   },
   {
-    "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
-    "link": "https://news.ycombinator.com/item?id=49213660",
-    "source": "Hacker News",
-    "published": "2026-08-07T17:29:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49213660\">Comments</a>"
-  },
-  {
     "title": "Publishing Schematics Before \u201cOpen Source\u201d Was a Word",
     "link": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
     "source": "Hacker News",
@@ -128,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49212449\">Comments</a>"
   },
   {
-    "title": "Stowaway \u2013 take the window seat on any plane or satellite overhead",
+    "title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
     "link": "https://stowaway.live/",
     "source": "Hacker News",
     "published": "2026-08-07T13:15:10+00:00",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49208296\">Comments</a>"
   },
   {
-    "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
     "source": "Hacker News",
     "published": "2026-08-05T15:22:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49184220\">Comments</a>"
-  },
-  {
-    "title": "The Psychedelic Toad of the Sonoran Desert",
-    "link": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-    "source": "Hacker News",
-    "published": "2026-08-04T17:49:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49172319\">Comments</a>"
   }
 ]
