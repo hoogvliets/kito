@@ -1,5 +1,13 @@
 [
   {
+    "title": "llama.cpp",
+    "link": "https://llama.app",
+    "source": "Hacker News",
+    "published": "2026-08-12T04:51:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49267928\">Comments</a>"
+  },
+  {
     "title": "The Human Is the Loop",
     "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
     "source": "Hacker News",
@@ -96,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49257876\">Comments</a>"
   },
   {
-    "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-    "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-    "source": "Hacker News",
-    "published": "2026-08-11T13:20:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49257853\">Comments</a>"
-  },
-  {
-    "title": "England set to be one of the first countries to eliminate hepatitis C",
-    "link": "https://www.bbc.com/news/articles/c75gk620r22o",
-    "source": "Hacker News",
-    "published": "2026-08-11T12:41:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49257377\">Comments</a>"
-  },
-  {
     "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
     "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
     "source": "Hacker News",
     "published": "2026-08-11T12:23:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49257160\">Comments</a>"
+  },
+  {
+    "title": "Flatworms, Ion Channels, and Burning Mouths",
+    "link": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
+    "source": "Hacker News",
+    "published": "2026-08-10T13:20:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243270\">Comments</a>"
   },
   {
     "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49201953\">Comments</a>"
   },
   {
-    "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
-    "link": "https://github.com/rimironenko/rag-staleness-check",
+    "title": "A shell exclamation mark is not for yelling. Be lazy.",
+    "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
     "source": "Hacker News",
-    "published": "2026-08-06T17:13:54+00:00",
+    "published": "2026-08-06T14:53:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49199502\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49197565\">Comments</a>"
   },
   {
     "title": "Show HN: Line9 \u2013 A Mermaid rendering engine with its own layout",
