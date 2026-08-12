@@ -1,5 +1,93 @@
 [
   {
+    "title": "Zed: Delta",
+    "link": "https://zed.dev/blog/introducing-delta",
+    "source": "Hacker News",
+    "published": "2026-08-12T18:19:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49276574\">Comments</a>"
+  },
+  {
+    "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+    "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+    "source": "Hacker News",
+    "published": "2026-08-12T17:00:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275465\">Comments</a>"
+  },
+  {
+    "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:54:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275385\">Comments</a>"
+  },
+  {
+    "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:51:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275335\">Comments</a>"
+  },
+  {
+    "title": "Glaciers on the Climate Dashboard",
+    "link": "https://climate.metoffice.cloud/glaciers.html",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:38:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275132\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.8-2.4T",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:26:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274950\">Comments</a>"
+  },
+  {
+    "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+    "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:22:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274894\">Comments</a>"
+  },
+  {
+    "title": "We just raised $400M in Series C",
+    "link": "https://lovable.dev/blog/series-c",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:20:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274858\">Comments</a>"
+  },
+  {
+    "title": "Bike Bureau: Report Bike Lane Obstructions",
+    "link": "https://loudbicycle.com/bb",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:20:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274854\">Comments</a>"
+  },
+  {
+    "title": "Pixel Watch 5",
+    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:14:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274757\">Comments</a>"
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "source": "Hacker News",
+    "published": "2026-08-12T16:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274600\">Comments</a>"
+  },
+  {
     "title": "Qwen/Qwen3.8-2.4T-A95B",
     "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
     "source": "Hacker News",
@@ -8,15 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49273478\">Comments</a>"
   },
   {
-    "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-    "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-    "source": "Hacker News",
-    "published": "2026-08-12T14:55:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273395\">Comments</a>"
-  },
-  {
-    "title": "License Plate Reader Searches Should Require a Warrant",
+    "title": "License plate reader searches should require a warrant",
     "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
     "source": "Hacker News",
     "published": "2026-08-12T14:43:39+00:00",
@@ -32,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49272832\">Comments</a>"
   },
   {
-    "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+    "title": "Tim King, AmigaDOS developer, has died",
     "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "source": "Hacker News",
     "published": "2026-08-12T14:09:11+00:00",
@@ -56,36 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49272549\">Comments</a>"
   },
   {
-    "title": "My Agent Setup",
-    "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-    "source": "Hacker News",
-    "published": "2026-08-12T13:56:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272484\">Comments</a>"
-  },
-  {
-    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
-    "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-    "source": "Hacker News",
-    "published": "2026-08-12T13:41:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272282\">Comments</a>"
-  },
-  {
     "title": "AI is removing the middle class of software engineering",
     "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "source": "Hacker News",
     "published": "2026-08-12T13:20:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49271994\">Comments</a>"
-  },
-  {
-    "title": "Shade Map",
-    "link": "https://shademap.app",
-    "source": "Hacker News",
-    "published": "2026-08-12T13:01:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271757\">Comments</a>"
   },
   {
     "title": "2026 Eclipse Webcams",
@@ -96,67 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270953\">Comments</a>"
   },
   {
-    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-    "source": "Hacker News",
-    "published": "2026-08-12T11:28:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270726\">Comments</a>"
-  },
-  {
-    "title": "Delphi 13 Community Edition Is Now Available",
-    "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "source": "Hacker News",
-    "published": "2026-08-12T11:13:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270621\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-    "link": "https://woxi.ad-si.com",
-    "source": "Hacker News",
-    "published": "2026-08-12T10:06:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270040\">Comments</a>"
-  },
-  {
     "title": "What sort of maths are LLMs good at?",
     "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
     "source": "Hacker News",
     "published": "2026-08-12T10:04:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270022\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-    "link": "https://discoveredmaterials.com/research/",
-    "source": "Hacker News",
-    "published": "2026-08-12T07:51:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49269090\">Comments</a>"
-  },
-  {
-    "title": "Bigos (Polish Hunter's Stew) Recipe Builder",
-    "link": "https://chefsbinge.com/bigos-recipe-builder/",
-    "source": "Hacker News",
-    "published": "2026-08-07T05:27:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49206200\">Comments</a>"
-  },
-  {
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "link": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "source": "Hacker News",
-    "published": "2026-08-06T10:29:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49194856\">Comments</a>"
-  },
-  {
-    "title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
-    "link": "https://arxiv.org/abs/2608.02478",
-    "source": "Hacker News",
-    "published": "2026-08-05T02:07:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49177765\">Comments</a>"
   }
 ]
