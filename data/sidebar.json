@@ -1,11 +1,19 @@
 [
   {
-    "title": "Zed: Delta",
+    "title": "Delta",
     "link": "https://zed.dev/blog/introducing-delta",
     "source": "Hacker News",
     "published": "2026-08-12T18:19:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49276574\">Comments</a>"
+  },
+  {
+    "title": "People who grew up with high economic connectedness earn more",
+    "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+    "source": "Hacker News",
+    "published": "2026-08-12T18:17:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49276534\">Comments</a>"
   },
   {
     "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -16,7 +24,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49275465\">Comments</a>"
   },
   {
-    "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
     "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
     "source": "Hacker News",
     "published": "2026-08-12T16:54:25+00:00",
@@ -32,44 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49275335\">Comments</a>"
   },
   {
-    "title": "Glaciers on the Climate Dashboard",
-    "link": "https://climate.metoffice.cloud/glaciers.html",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:38:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275132\">Comments</a>"
-  },
-  {
-    "title": "Qwen3.8-2.4T",
-    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:26:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274950\">Comments</a>"
-  },
-  {
-    "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-    "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:22:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274894\">Comments</a>"
-  },
-  {
-    "title": "We just raised $400M in Series C",
+    "title": "Lovable raises $400M Series C",
     "link": "https://lovable.dev/blog/series-c",
     "source": "Hacker News",
     "published": "2026-08-12T16:20:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49274858\">Comments</a>"
-  },
-  {
-    "title": "Bike Bureau: Report Bike Lane Obstructions",
-    "link": "https://loudbicycle.com/bb",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:20:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274854\">Comments</a>"
   },
   {
     "title": "Pixel Watch 5",
@@ -88,7 +64,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49274600\">Comments</a>"
   },
   {
-    "title": "Qwen/Qwen3.8-2.4T-A95B",
+    "title": "Grok 4.6",
+    "link": "https://x.ai/news/grok-4-6",
+    "source": "Hacker News",
+    "published": "2026-08-12T15:32:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274027\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.8-2.4T",
     "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
     "source": "Hacker News",
     "published": "2026-08-12T15:01:17+00:00",
@@ -128,7 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49272569\">Comments</a>"
   },
   {
-    "title": "Why Tiny JPEGs Look Different in Chrome",
+    "title": "Why tiny JPEGs look different in Chrome",
     "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
     "source": "Hacker News",
     "published": "2026-08-12T14:00:54+00:00",
@@ -136,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49272549\">Comments</a>"
   },
   {
-    "title": "AI is removing the middle class of software engineering",
+    "title": "AI is removing the middle class of software engineering?",
     "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "source": "Hacker News",
     "published": "2026-08-12T13:20:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49271994\">Comments</a>"
+  },
+  {
+    "title": "Shade Map",
+    "link": "https://shademap.app",
+    "source": "Hacker News",
+    "published": "2026-08-12T13:01:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271757\">Comments</a>"
   },
   {
     "title": "2026 Eclipse Webcams",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270953\">Comments</a>"
   },
   {
-    "title": "What sort of maths are LLMs good at?",
-    "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+    "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
     "source": "Hacker News",
-    "published": "2026-08-12T10:04:25+00:00",
+    "published": "2026-08-12T11:28:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270022\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270726\">Comments</a>"
+  },
+  {
+    "title": "A Tale of Dynamic Programming (2022)",
+    "link": "https://iagoleal.com/posts/dynamic-programming/",
+    "source": "Hacker News",
+    "published": "2026-08-09T15:26:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232312\">Comments</a>"
   }
 ]
