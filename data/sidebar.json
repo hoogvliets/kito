@@ -1,19 +1,91 @@
 [
   {
-    "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
-    "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+    "title": "Qwen/Qwen3.8-2.4T-A95B",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
     "source": "Hacker News",
-    "published": "2026-08-12T12:07:16+00:00",
+    "published": "2026-08-12T15:01:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271126\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273478\">Comments</a>"
   },
   {
-    "title": "You can't buy 20 pieces of aluminum tube online",
-    "link": "https://vestalmetals.com/blog/aluminum-tube-bin-packing/",
+    "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+    "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
     "source": "Hacker News",
-    "published": "2026-08-12T12:00:15+00:00",
+    "published": "2026-08-12T14:55:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271047\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273395\">Comments</a>"
+  },
+  {
+    "title": "License Plate Reader Searches Should Require a Warrant",
+    "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+    "source": "Hacker News",
+    "published": "2026-08-12T14:43:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273165\">Comments</a>"
+  },
+  {
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "source": "Hacker News",
+    "published": "2026-08-12T14:22:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272832\">Comments</a>"
+  },
+  {
+    "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+    "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "source": "Hacker News",
+    "published": "2026-08-12T14:09:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272655\">Comments</a>"
+  },
+  {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "link": "https://knownagents.com/insights",
+    "source": "Hacker News",
+    "published": "2026-08-12T14:02:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272569\">Comments</a>"
+  },
+  {
+    "title": "Why Tiny JPEGs Look Different in Chrome",
+    "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "source": "Hacker News",
+    "published": "2026-08-12T14:00:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272549\">Comments</a>"
+  },
+  {
+    "title": "My Agent Setup",
+    "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "source": "Hacker News",
+    "published": "2026-08-12T13:56:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272484\">Comments</a>"
+  },
+  {
+    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+    "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+    "source": "Hacker News",
+    "published": "2026-08-12T13:41:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272282\">Comments</a>"
+  },
+  {
+    "title": "AI is removing the middle class of software engineering",
+    "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "source": "Hacker News",
+    "published": "2026-08-12T13:20:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271994\">Comments</a>"
+  },
+  {
+    "title": "Shade Map",
+    "link": "https://shademap.app",
+    "source": "Hacker News",
+    "published": "2026-08-12T13:01:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271757\">Comments</a>"
   },
   {
     "title": "2026 Eclipse Webcams",
@@ -24,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270953\">Comments</a>"
   },
   {
-    "title": "I hate packaging my software for Linux",
-    "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+    "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
     "source": "Hacker News",
-    "published": "2026-08-12T11:33:48+00:00",
+    "published": "2026-08-12T11:28:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270764\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49270726\">Comments</a>"
   },
   {
     "title": "Delphi 13 Community Edition Is Now Available",
@@ -56,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270022\">Comments</a>"
   },
   {
-    "title": "Facebook is paying controversial creators to produce rage-bait content",
-    "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-    "source": "Hacker News",
-    "published": "2026-08-12T09:35:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49269818\">Comments</a>"
-  },
-  {
     "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
     "link": "https://discoveredmaterials.com/research/",
     "source": "Hacker News",
@@ -72,76 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49269090\">Comments</a>"
   },
   {
-    "title": "LinkedIn CringeBot 3000",
-    "link": "https://www.cringebot3000.com/",
+    "title": "Bigos (Polish Hunter's Stew) Recipe Builder",
+    "link": "https://chefsbinge.com/bigos-recipe-builder/",
     "source": "Hacker News",
-    "published": "2026-08-12T06:30:49+00:00",
+    "published": "2026-08-07T05:27:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49268564\">Comments</a>"
-  },
-  {
-    "title": "llama.cpp",
-    "link": "https://llama.app",
-    "source": "Hacker News",
-    "published": "2026-08-12T04:51:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49267928\">Comments</a>"
-  },
-  {
-    "title": "WorldClaw Agentic 3D open-world generation at scale",
-    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "source": "Hacker News",
-    "published": "2026-08-11T21:56:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49265051\">Comments</a>"
-  },
-  {
-    "title": "Compression is prediction",
-    "link": "https://ngrok.com/blog/compression-is-prediction",
-    "source": "Hacker News",
-    "published": "2026-08-11T19:49:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49263497\">Comments</a>"
-  },
-  {
-    "title": "U of Michigan drops first-semester grades to \u2018curb mental health crisis\u2019",
-    "link": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
-    "source": "Hacker News",
-    "published": "2026-08-11T15:54:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49260250\">Comments</a>"
-  },
-  {
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "link": "https://stolen-thoughts.com/",
-    "source": "Hacker News",
-    "published": "2026-08-11T13:22:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49257876\">Comments</a>"
-  },
-  {
-    "title": "Worms: The Future of Yesterday's Worms Today",
-    "link": "https://worm.net/",
-    "source": "Hacker News",
-    "published": "2026-08-07T11:20:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49208693\">Comments</a>"
-  },
-  {
-    "title": "The hardest working font in Manhattan (2025)",
-    "link": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "source": "Hacker News",
-    "published": "2026-08-06T20:22:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49201953\">Comments</a>"
-  },
-  {
-    "title": "A shell exclamation mark is not for yelling. Be lazy",
-    "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "source": "Hacker News",
-    "published": "2026-08-06T14:53:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49197565\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49206200\">Comments</a>"
   },
   {
     "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49194856\">Comments</a>"
   },
   {
-    "title": "I built a jellyfish laboratory in my backyard [video]",
-    "link": "https://www.youtube.com/watch?v=MILwxfQBm6Q",
+    "title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+    "link": "https://arxiv.org/abs/2608.02478",
     "source": "Hacker News",
-    "published": "2026-08-05T13:40:25+00:00",
+    "published": "2026-08-05T02:07:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182772\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49177765\">Comments</a>"
   }
 ]
