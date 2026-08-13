@@ -1,11 +1,59 @@
 [
   {
+    "title": "NP-Overrated",
+    "link": "https://gruhn.me/blog/2026-08-13/",
+    "source": "Hacker News",
+    "published": "2026-08-13T20:14:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49291268\">Comments</a>"
+  },
+  {
+    "title": "How G\u00f6del's Proof Works (2020)",
+    "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+    "source": "Hacker News",
+    "published": "2026-08-13T19:44:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290969\">Comments</a>"
+  },
+  {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "source": "Hacker News",
+    "published": "2026-08-13T19:25:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290768\">Comments</a>"
+  },
+  {
+    "title": "Understanding is the new bottleneck",
+    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "source": "Hacker News",
+    "published": "2026-08-13T18:47:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290299\">Comments</a>"
+  },
+  {
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "link": "https://github.com/systemd/systemd/issues/40262",
+    "source": "Hacker News",
+    "published": "2026-08-13T18:41:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290215\">Comments</a>"
+  },
+  {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "source": "Hacker News",
     "published": "2026-08-13T18:10:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49289844\">Comments</a>"
+  },
+  {
+    "title": "How Compaction Works in Pi",
+    "link": "https://earendil.com/posts/compaction-in-pi/",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:57:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289654\">Comments</a>"
   },
   {
     "title": "Where did the old web go? We followed 657,607 links to find out",
@@ -38,14 +86,6 @@
     "published": "2026-08-13T17:23:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49289112\">Comments</a>"
-  },
-  {
-    "title": "JDK 27 G1/Parallel/Serial GC Changes",
-    "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-    "source": "Hacker News",
-    "published": "2026-08-13T17:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289101\">Comments</a>"
   },
   {
     "title": "Tocharian Online",
@@ -88,60 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49286341\">Comments</a>"
   },
   {
-    "title": "Gloomberb",
-    "link": "https://gloom.sh/",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:52:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285982\">Comments</a>"
-  },
-  {
-    "title": "Ordinary abundance",
-    "link": "https://ordinaryabundance.com/",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:39:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285770\">Comments</a>"
-  },
-  {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:05:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285327\">Comments</a>"
-  },
-  {
     "title": "DeepSeek Harness developer preview",
     "link": "https://deepseek.com/harness/en/",
     "source": "Hacker News",
     "published": "2026-08-13T12:58:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49285244\">Comments</a>"
-  },
-  {
-    "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-    "link": "https://atg.science/careers",
-    "source": "Hacker News",
-    "published": "2026-08-13T12:01:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49284697\">Comments</a>"
-  },
-  {
-    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-    "link": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-    "source": "Hacker News",
-    "published": "2026-08-13T04:53:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49281916\">Comments</a>"
-  },
-  {
-    "title": "How art invented humanity",
-    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "source": "Hacker News",
-    "published": "2026-08-12T22:47:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49279638\">Comments</a>"
   },
   {
     "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49258428\">Comments</a>"
   },
   {
-    "title": "From 13.5M installs to 499 active devices",
-    "link": "https://games.lukicengineering.com/blog/2013-vs-2026/",
+    "title": "Smooth Move: Taming Trajectories with Polynomials",
+    "link": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
     "source": "Hacker News",
-    "published": "2026-08-10T13:05:32+00:00",
+    "published": "2026-08-10T15:06:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243104\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244696\">Comments</a>"
+  },
+  {
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+    "link": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "source": "Hacker News",
+    "published": "2026-08-09T22:26:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49236811\">Comments</a>"
   }
 ]
