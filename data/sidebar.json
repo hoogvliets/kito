@@ -1,5 +1,53 @@
 [
   {
+    "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+    "link": "https://www.ballet.dev/",
+    "source": "Hacker News",
+    "published": "2026-08-13T00:01:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49280184\">Comments</a>"
+  },
+  {
+    "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+    "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+    "source": "Hacker News",
+    "published": "2026-08-12T23:50:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49280103\">Comments</a>"
+  },
+  {
+    "title": "What's New in Flutter 3.47",
+    "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "source": "Hacker News",
+    "published": "2026-08-12T23:46:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49280061\">Comments</a>"
+  },
+  {
+    "title": "Build Wide, Ship Narrow",
+    "link": "https://adapt.com/blog/build-wide-ship-narrow",
+    "source": "Hacker News",
+    "published": "2026-08-12T23:43:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49280047\">Comments</a>"
+  },
+  {
+    "title": "Principia Mathematica is modern and insightful",
+    "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "source": "Hacker News",
+    "published": "2026-08-12T23:26:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49279928\">Comments</a>"
+  },
+  {
+    "title": "Process as a Proxy for Motivation",
+    "link": "https://bengodfrey.dev/blog/process/",
+    "source": "Hacker News",
+    "published": "2026-08-12T22:01:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49279197\">Comments</a>"
+  },
+  {
     "title": "Delta",
     "link": "https://zed.dev/blog/introducing-delta",
     "source": "Hacker News",
@@ -8,44 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49276574\">Comments</a>"
   },
   {
-    "title": "People who grew up with high economic connectedness earn more",
-    "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
-    "source": "Hacker News",
-    "published": "2026-08-12T18:17:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49276534\">Comments</a>"
-  },
-  {
-    "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-    "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-    "source": "Hacker News",
-    "published": "2026-08-12T17:00:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275465\">Comments</a>"
-  },
-  {
-    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-    "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:54:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49275385\">Comments</a>"
-  },
-  {
     "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
     "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
     "source": "Hacker News",
     "published": "2026-08-12T16:51:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49275335\">Comments</a>"
-  },
-  {
-    "title": "Lovable raises $400M Series C",
-    "link": "https://lovable.dev/blog/series-c",
-    "source": "Hacker News",
-    "published": "2026-08-12T16:20:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49274858\">Comments</a>"
   },
   {
     "title": "Pixel Watch 5",
@@ -80,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49273478\">Comments</a>"
   },
   {
-    "title": "License plate reader searches should require a warrant",
-    "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "source": "Hacker News",
-    "published": "2026-08-12T14:43:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273165\">Comments</a>"
-  },
-  {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
     "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "source": "Hacker News",
@@ -120,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49272549\">Comments</a>"
   },
   {
-    "title": "AI is removing the middle class of software engineering?",
-    "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "source": "Hacker News",
-    "published": "2026-08-12T13:20:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271994\">Comments</a>"
-  },
-  {
-    "title": "Shade Map",
-    "link": "https://shademap.app",
-    "source": "Hacker News",
-    "published": "2026-08-12T13:01:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271757\">Comments</a>"
-  },
-  {
     "title": "2026 Eclipse Webcams",
     "link": "https://jonty.github.io/2026_eclipse_webcams/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49270726\">Comments</a>"
   },
   {
-    "title": "A Tale of Dynamic Programming (2022)",
-    "link": "https://iagoleal.com/posts/dynamic-programming/",
+    "title": "Why Target Common Lisp for Code Generation?",
+    "link": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
     "source": "Hacker News",
-    "published": "2026-08-09T15:26:07+00:00",
+    "published": "2026-08-12T08:40:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232312\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49269429\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+    "link": "https://discoveredmaterials.com/research/",
+    "source": "Hacker News",
+    "published": "2026-08-12T07:51:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49269090\">Comments</a>"
   }
 ]
