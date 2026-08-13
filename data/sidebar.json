@@ -1,27 +1,83 @@
 [
   {
-    "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
-    "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "source": "Hacker News",
-    "published": "2026-08-13T14:37:51+00:00",
+    "published": "2026-08-13T18:10:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286662\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289844\">Comments</a>"
   },
   {
-    "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+    "title": "Where did the old web go? We followed 657,607 links to find out",
+    "link": "https://0.mk/blog/link-rot",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:49:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289532\">Comments</a>"
+  },
+  {
+    "title": "Choose Boring Technology (2015)",
+    "link": "https://mcfunley.com/choose-boring-technology",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:48:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289512\">Comments</a>"
+  },
+  {
+    "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+    "link": "https://donkeybas.com/",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:45:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289465\">Comments</a>"
+  },
+  {
+    "title": "Gemini 3.7 Flash",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:23:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289112\">Comments</a>"
+  },
+  {
+    "title": "JDK 27 G1/Parallel/Serial GC Changes",
+    "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:22:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289101\">Comments</a>"
+  },
+  {
+    "title": "Tocharian Online",
+    "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:15:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289026\">Comments</a>"
+  },
+  {
+    "title": "Mistral OCR 4.1",
+    "link": "https://docs.mistral.ai/models/ocr-4-1",
+    "source": "Hacker News",
+    "published": "2026-08-13T17:05:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288889\">Comments</a>"
+  },
+  {
+    "title": "AI At Home Part 1: A Box Of Scraps",
+    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "source": "Hacker News",
+    "published": "2026-08-13T16:22:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288293\">Comments</a>"
+  },
+  {
+    "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
     "link": "https://oxide.computer/blog/kubernetes-on-oxide",
     "source": "Hacker News",
     "published": "2026-08-13T14:26:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49286485\">Comments</a>"
-  },
-  {
-    "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-    "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-    "source": "Hacker News",
-    "published": "2026-08-13T14:18:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286357\">Comments</a>"
   },
   {
     "title": "Spaghettifying DRAM",
@@ -32,30 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49286341\">Comments</a>"
   },
   {
-    "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-    "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-    "source": "Hacker News",
-    "published": "2026-08-13T14:11:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286270\">Comments</a>"
-  },
-  {
-    "title": "Show HN: MCP Memory \u2013 Fast Agent Memory Using Google's OKF and SQLite FTS5",
-    "link": "https://github.com/fellowgeek/mcp-memory",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:57:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286073\">Comments</a>"
-  },
-  {
-    "title": "Time to Move On: Querying Without Nulls and Bags",
-    "link": "https://arxiv.org/abs/2608.10863",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:54:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286030\">Comments</a>"
-  },
-  {
     "title": "Gloomberb",
     "link": "https://gloom.sh/",
     "source": "Hacker News",
@@ -64,52 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49285982\">Comments</a>"
   },
   {
-    "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-    "link": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+    "title": "Ordinary abundance",
+    "link": "https://ordinaryabundance.com/",
     "source": "Hacker News",
-    "published": "2026-08-13T13:48:14+00:00",
+    "published": "2026-08-13T13:39:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285909\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285770\">Comments</a>"
   },
   {
-    "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
-    "link": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
     "source": "Hacker News",
-    "published": "2026-08-13T13:36:19+00:00",
+    "published": "2026-08-13T13:05:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285718\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285327\">Comments</a>"
   },
   {
-    "title": "AI agents lie, cheat and steal. That is putting off users",
-    "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:28:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285604\">Comments</a>"
-  },
-  {
-    "title": "My Rules for Using Spreadsheets",
-    "link": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-    "source": "Hacker News",
-    "published": "2026-08-13T13:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285268\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek Harness",
-    "link": "https://github.com/deepseek-ai/deepseek-harness",
+    "title": "DeepSeek Harness developer preview",
+    "link": "https://deepseek.com/harness/en/",
     "source": "Hacker News",
     "published": "2026-08-13T12:58:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49285244\">Comments</a>"
-  },
-  {
-    "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-    "link": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-    "source": "Hacker News",
-    "published": "2026-08-13T12:09:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49284774\">Comments</a>"
   },
   {
     "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -120,43 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49284697\">Comments</a>"
   },
   {
-    "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
-    "link": "https://www.codewithbullet.com",
-    "source": "Hacker News",
-    "published": "2026-08-13T08:14:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49283063\">Comments</a>"
-  },
-  {
-    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-    "link": "https://openai.com/codex/",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+    "link": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
     "source": "Hacker News",
     "published": "2026-08-13T04:53:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49281916\">Comments</a>"
   },
   {
-    "title": "The lattice of sets of natural numbers is rich (2021)",
-    "link": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+    "title": "How art invented humanity",
+    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
     "source": "Hacker News",
-    "published": "2026-08-10T13:53:13+00:00",
+    "published": "2026-08-12T22:47:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243687\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49279638\">Comments</a>"
   },
   {
-    "title": "Better Gaussian Splatting in Julia",
-    "link": "https://pxl-th.github.io/blog/better-gs-julia/",
+    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+    "link": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
     "source": "Hacker News",
-    "published": "2026-08-09T15:01:04+00:00",
+    "published": "2026-08-11T13:55:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49232039\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49258428\">Comments</a>"
   },
   {
-    "title": "Picking berries is my meditation",
-    "link": "https://www.tsoon.com/posts/picking-berries-meditation/",
+    "title": "From 13.5M installs to 499 active devices",
+    "link": "https://games.lukicengineering.com/blog/2013-vs-2026/",
     "source": "Hacker News",
-    "published": "2026-08-08T19:24:02+00:00",
+    "published": "2026-08-10T13:05:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49224997\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49243104\">Comments</a>"
   }
 ]
