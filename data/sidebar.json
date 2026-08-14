@@ -1,11 +1,115 @@
 [
   {
-    "title": "Why does Opus 5 feel worse to work with?",
-    "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Introducing Toast 1",
+    "link": "https://www.mixedbread.com/blog/toast-1",
     "source": "Hacker News",
-    "published": "2026-08-14T10:12:48+00:00",
+    "published": "2026-08-14T15:07:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49296740\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299746\">Comments</a>"
+  },
+  {
+    "title": "Qwen3.8-27B",
+    "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+    "source": "Hacker News",
+    "published": "2026-08-14T15:03:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299684\">Comments</a>"
+  },
+  {
+    "title": "Seven books I keep close because I love them",
+    "link": "https://blog.plover.com/2026/08/02/",
+    "source": "Hacker News",
+    "published": "2026-08-14T15:03:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299675\">Comments</a>"
+  },
+  {
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "link": "https://kukuroo.cc/",
+    "source": "Hacker News",
+    "published": "2026-08-14T15:03:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299667\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "source": "Hacker News",
+    "published": "2026-08-14T15:00:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299605\">Comments</a>"
+  },
+  {
+    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:34:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299282\">Comments</a>"
+  },
+  {
+    "title": "Every Fucking Website",
+    "link": "https://lxe.github.io/everywebsite/",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:31:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299222\">Comments</a>"
+  },
+  {
+    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+    "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:22:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299102\">Comments</a>"
+  },
+  {
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:21:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299081\">Comments</a>"
+  },
+  {
+    "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+    "link": "https://apimart.ai/register?aff=yScTCM",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:14:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49299000\">Comments</a>"
+  },
+  {
+    "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+    "link": "https://e360.yale.edu/digest/australia-home-batteries",
+    "source": "Hacker News",
+    "published": "2026-08-14T14:07:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49298910\">Comments</a>"
+  },
+  {
+    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+    "link": "https://hashagent.pages.dev/",
+    "source": "Hacker News",
+    "published": "2026-08-14T12:57:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49298088\">Comments</a>"
+  },
+  {
+    "title": "The TEMU-Fication of Software, Digital Goods and Services",
+    "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "source": "Hacker News",
+    "published": "2026-08-14T12:00:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49297637\">Comments</a>"
+  },
+  {
+    "title": "WhatCable: Know what your USB-C cable can do",
+    "link": "https://www.whatcable.uk/",
+    "source": "Hacker News",
+    "published": "2026-08-14T11:41:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49297469\">Comments</a>"
   },
   {
     "title": "DeepSeek peak/off-peak pricing update",
@@ -16,76 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49296627\">Comments</a>"
   },
   {
-    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "source": "Hacker News",
-    "published": "2026-08-14T06:09:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49295238\">Comments</a>"
-  },
-  {
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "link": "https://z.ai/blog/glm-5.3",
     "source": "Hacker News",
     "published": "2026-08-14T05:19:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49294997\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
-    "link": "https://github.com/JustVugg/lumabri",
-    "source": "Hacker News",
-    "published": "2026-08-14T00:47:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49293523\">Comments</a>"
-  },
-  {
-    "title": "Bluesky Protocol Services",
-    "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "source": "Hacker News",
-    "published": "2026-08-14T00:14:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49293324\">Comments</a>"
-  },
-  {
-    "title": "Understanding is the new bottleneck",
-    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "source": "Hacker News",
-    "published": "2026-08-13T18:47:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290299\">Comments</a>"
-  },
-  {
-    "title": "Hello, me. It's been a while",
-    "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "source": "Hacker News",
-    "published": "2026-08-13T18:37:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49290166\">Comments</a>"
-  },
-  {
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "source": "Hacker News",
-    "published": "2026-08-13T18:10:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289844\">Comments</a>"
-  },
-  {
-    "title": "Choose Boring Technology (2015)",
-    "link": "https://mcfunley.com/choose-boring-technology",
-    "source": "Hacker News",
-    "published": "2026-08-13T17:48:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289512\">Comments</a>"
-  },
-  {
-    "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-    "link": "https://donkeybas.com/",
-    "source": "Hacker News",
-    "published": "2026-08-13T17:45:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49289465\">Comments</a>"
   },
   {
     "title": "Gemini 3.7 Flash",
@@ -96,38 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49289112\">Comments</a>"
   },
   {
-    "title": "Mistral OCR 4.1",
-    "link": "https://docs.mistral.ai/models/ocr-4-1",
-    "source": "Hacker News",
-    "published": "2026-08-13T17:05:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288889\">Comments</a>"
-  },
-  {
-    "title": "Spaghettifying DRAM",
-    "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "source": "Hacker News",
-    "published": "2026-08-13T14:17:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286341\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek Harness developer preview",
-    "link": "https://deepseek.com/harness/en/",
-    "source": "Hacker News",
-    "published": "2026-08-13T12:58:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285244\">Comments</a>"
-  },
-  {
-    "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-    "link": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-    "source": "Hacker News",
-    "published": "2026-08-11T13:34:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49258085\">Comments</a>"
-  },
-  {
     "title": "Don't classify, hallucinate!",
     "link": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
     "source": "Hacker News",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49249523\">Comments</a>"
   },
   {
-    "title": "We're not done with point clouds",
-    "link": "https://claytonwramsey.com/blog/mvt/",
-    "source": "Hacker News",
-    "published": "2026-08-10T18:22:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49247628\">Comments</a>"
-  },
-  {
-    "title": "Protect Your Relays",
-    "link": "https://www.iroh.computer/blog/authenticated-relays",
-    "source": "Hacker News",
-    "published": "2026-08-10T12:40:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49242867\">Comments</a>"
-  },
-  {
     "title": "Differential Heuristics",
     "link": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
     "source": "Hacker News",
     "published": "2026-08-09T13:58:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49231490\">Comments</a>"
+  },
+  {
+    "title": "G\u00f6del, Escher, Elisp: The Beauty of Macros",
+    "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "source": "Hacker News",
+    "published": "2026-08-04T20:59:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49175067\">Comments</a>"
   }
 ]
