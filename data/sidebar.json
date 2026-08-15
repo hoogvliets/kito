@@ -1,11 +1,91 @@
 [
   {
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+    "source": "Hacker News",
+    "published": "2026-08-15T14:08:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310725\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare's AI Psychosis",
+    "link": "https://opensauce.it/cloudflare-ai-psychosis/",
+    "source": "Hacker News",
+    "published": "2026-08-15T14:08:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310719\">Comments</a>"
+  },
+  {
+    "title": "Writergate: Zig I/O Interface Overhaul",
+    "link": "https://alexrios.me/blog/writergate/",
+    "source": "Hacker News",
+    "published": "2026-08-15T13:59:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310623\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+    "link": "https://hypnagogic-quasicrystals.github.io/",
+    "source": "Hacker News",
+    "published": "2026-08-15T13:48:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310533\">Comments</a>"
+  },
+  {
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "source": "Hacker News",
+    "published": "2026-08-15T13:43:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310495\">Comments</a>"
+  },
+  {
+    "title": "Could a computer scientist build a brain?",
+    "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "source": "Hacker News",
+    "published": "2026-08-15T13:26:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310362\">Comments</a>"
+  },
+  {
+    "title": "Brazilian election filter in X For You timeline",
+    "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+    "source": "Hacker News",
+    "published": "2026-08-15T13:18:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310291\">Comments</a>"
+  },
+  {
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+    "source": "Hacker News",
+    "published": "2026-08-15T12:56:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310177\">Comments</a>"
+  },
+  {
+    "title": "Xorshift Generators",
+    "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+    "source": "Hacker News",
+    "published": "2026-08-15T12:47:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310128\">Comments</a>"
+  },
+  {
     "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
     "link": "https://sankalp.bearblog.dev/autoresearch/",
     "source": "Hacker News",
     "published": "2026-08-15T11:00:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49309549\">Comments</a>"
+  },
+  {
+    "title": "Working with AI Feels More Like Leadership Than Coding",
+    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "source": "Hacker News",
+    "published": "2026-08-15T10:39:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49309451\">Comments</a>"
   },
   {
     "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
@@ -16,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49308685\">Comments</a>"
   },
   {
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-    "link": "https://chenxiachan.github.io/thoughtdag/",
-    "source": "Hacker News",
-    "published": "2026-08-15T04:42:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49307700\">Comments</a>"
-  },
-  {
     "title": "The other Sean Byrne doesn't exist",
     "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
     "source": "Hacker News",
     "published": "2026-08-15T04:18:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49307592\">Comments</a>"
-  },
-  {
-    "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-    "source": "Hacker News",
-    "published": "2026-08-15T01:14:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49306577\">Comments</a>"
-  },
-  {
-    "title": "eigendrum",
-    "link": "https://eigendrum.com/#p=circle",
-    "source": "Hacker News",
-    "published": "2026-08-14T22:15:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49305250\">Comments</a>"
   },
   {
     "title": "Going Dark, and the era of law enforcement hacking",
@@ -56,46 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49304447\">Comments</a>"
   },
   {
-    "title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "source": "Hacker News",
-    "published": "2026-08-14T19:03:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49303202\">Comments</a>"
-  },
-  {
-    "title": "Maximizing the value of your Claude Code sessions",
-    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "source": "Hacker News",
-    "published": "2026-08-14T16:15:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49300800\">Comments</a>"
-  },
-  {
-    "title": "RustDesk now supports true unattended remote access on Wayland",
-    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-    "source": "Hacker News",
-    "published": "2026-08-14T16:12:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49300759\">Comments</a>"
-  },
-  {
-    "title": "AI by Hand",
-    "link": "https://www.byhand.ai/",
-    "source": "Hacker News",
-    "published": "2026-08-14T15:58:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49300568\">Comments</a>"
-  },
-  {
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "source": "Hacker News",
-    "published": "2026-08-14T15:43:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49300314\">Comments</a>"
-  },
-  {
     "title": "Qwen 3.8 27B",
     "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "source": "Hacker News",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49299605\">Comments</a>"
   },
   {
-    "title": "Coin-sized device can hack a Boeing 737",
-    "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+    "title": "A Planet Position Widget",
+    "link": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
     "source": "Hacker News",
-    "published": "2026-08-13T07:57:40+00:00",
+    "published": "2026-08-12T18:03:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49282951\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Silent Shark \u2013 tactical map-based WWII submarine sim",
-    "link": "https://silentshark.app/",
-    "source": "Hacker News",
-    "published": "2026-08-12T19:37:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49277535\">Comments</a>"
-  },
-  {
-    "title": "Understanding WCAG 2.2 as ePub and PDF",
-    "link": "https://doeken.org/wcag-ebook",
-    "source": "Hacker News",
-    "published": "2026-08-12T12:36:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49271442\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49276353\">Comments</a>"
   },
   {
     "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
