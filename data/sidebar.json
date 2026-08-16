@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Case Against Formal Verification, 50 Years Later",
+    "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "source": "Hacker News",
+    "published": "2026-08-16T20:38:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49323459\">Comments</a>"
+  },
+  {
+    "title": "Models Are Getting Dumber on Purpose",
+    "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "source": "Hacker News",
+    "published": "2026-08-16T19:04:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322695\">Comments</a>"
+  },
+  {
+    "title": "Protobuf has LSP support. You're welcome",
+    "link": "https://buf.build/blog/protobuf-lsp",
+    "source": "Hacker News",
+    "published": "2026-08-16T18:48:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322573\">Comments</a>"
+  },
+  {
+    "title": "MathCode, Mathematical Coding Agent",
+    "link": "https://math-ai-org.github.io/mathcode/",
+    "source": "Hacker News",
+    "published": "2026-08-16T18:17:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322330\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "link": "https://news.ycombinator.com/item?id=49322107",
+    "source": "Hacker News",
+    "published": "2026-08-16T17:49:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322107\">Comments</a>"
+  },
+  {
     "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
     "link": "https://rvembedded.com/blog_post/12/",
     "source": "Hacker News",
@@ -30,14 +70,6 @@
     "published": "2026-08-16T15:16:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49320856\">Comments</a>"
-  },
-  {
-    "title": "GPS and the Lost Art of Getting Lost",
-    "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "source": "Hacker News",
-    "published": "2026-08-16T14:53:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320673\">Comments</a>"
   },
   {
     "title": "The AI Credit Resale Economy",
@@ -72,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49319556\">Comments</a>"
   },
   {
-    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-    "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "source": "Hacker News",
-    "published": "2026-08-16T12:22:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319389\">Comments</a>"
-  },
-  {
-    "title": "A True Telnet BBS on a Casio Calculator",
-    "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "source": "Hacker News",
-    "published": "2026-08-16T12:16:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319349\">Comments</a>"
-  },
-  {
     "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
     "link": "https://www.youtube.com/watch?v=-y8bGBE71yw",
     "source": "Hacker News",
@@ -104,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49306021\">Comments</a>"
   },
   {
-    "title": "Chestnut \u2013 eGPU dock with open-source firmware",
-    "link": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+    "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
     "source": "Hacker News",
-    "published": "2026-08-13T22:01:04+00:00",
+    "published": "2026-08-13T12:44:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49292385\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49285096\">Comments</a>"
   },
   {
     "title": "Clamiga: Common Lisp for the Amiga",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49279624\">Comments</a>"
   },
   {
-    "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-    "link": "https://www.nature.com/articles/s41586-026-10857-1",
-    "source": "Hacker News",
-    "published": "2026-08-12T19:07:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49277153\">Comments</a>"
-  },
-  {
-    "title": "Asus Bike Booster",
-    "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-    "source": "Hacker News",
-    "published": "2026-08-12T06:33:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49268580\">Comments</a>"
-  },
-  {
-    "title": "A SAT Attack on Tarski's High School Algebra Problem",
-    "link": "https://arxiv.org/abs/2608.08421",
-    "source": "Hacker News",
-    "published": "2026-08-12T06:30:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49268565\">Comments</a>"
-  },
-  {
     "title": "Before Rightmove, there was the Cosmorama",
     "link": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
     "source": "Hacker News",
     "published": "2026-08-11T15:56:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49260268\">Comments</a>"
+  },
+  {
+    "title": "Low-Tech Ceramic Water Filter",
+    "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "source": "Hacker News",
+    "published": "2026-08-11T15:36:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49259980\">Comments</a>"
   }
 ]
