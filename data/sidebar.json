@@ -1,5 +1,61 @@
 [
   {
+    "title": "The Origin of Consciousness (2008)",
+    "link": "https://blog.plover.com/brain/Jaynes.html",
+    "source": "Hacker News",
+    "published": "2026-08-17T20:12:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336909\">Comments</a>"
+  },
+  {
+    "title": "AI;DR (AI; Didn't Read)",
+    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "Hacker News",
+    "published": "2026-08-17T19:47:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336573\">Comments</a>"
+  },
+  {
+    "title": "India has paved the way for charging merchants a fee on UPI transactions",
+    "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "source": "Hacker News",
+    "published": "2026-08-17T19:25:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336304\">Comments</a>"
+  },
+  {
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "source": "Hacker News",
+    "published": "2026-08-17T18:34:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49335600\">Comments</a>"
+  },
+  {
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+    "link": "https://blog.roboflow.com/roboflow-playground/",
+    "source": "Hacker News",
+    "published": "2026-08-17T18:28:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49335517\">Comments</a>"
+  },
+  {
+    "title": "We Are Forking dotenvy into dotenv-ng",
+    "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "source": "Hacker News",
+    "published": "2026-08-17T17:55:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49335001\">Comments</a>"
+  },
+  {
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "link": "https://arxiv.org/abs/2608.13759",
+    "source": "Hacker News",
+    "published": "2026-08-17T17:54:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49334991\">Comments</a>"
+  },
+  {
     "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
     "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
     "source": "Hacker News",
@@ -8,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49334544\">Comments</a>"
   },
   {
-    "title": "Buy Your Friends Batteries",
-    "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "title": "An update on leaving Gmail for Fastmail",
+    "link": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
     "source": "Hacker News",
-    "published": "2026-08-17T16:45:11+00:00",
+    "published": "2026-08-17T17:15:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49333932\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49334409\">Comments</a>"
   },
   {
     "title": "Sun Clock",
@@ -40,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49332751\">Comments</a>"
   },
   {
-    "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-    "link": "https://saggar.marginalutility.dev/",
-    "source": "Hacker News",
-    "published": "2026-08-17T14:25:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49331551\">Comments</a>"
-  },
-  {
-    "title": "How to put 170 atoms in an atom",
-    "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "source": "Hacker News",
-    "published": "2026-08-17T14:21:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49331474\">Comments</a>"
-  },
-  {
     "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "source": "Hacker News",
     "published": "2026-08-17T14:18:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49331423\">Comments</a>"
-  },
-  {
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-    "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "source": "Hacker News",
-    "published": "2026-08-17T14:07:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49331222\">Comments</a>"
   },
   {
     "title": "How to disable or avoid intrusive AI",
@@ -88,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49331033\">Comments</a>"
   },
   {
-    "title": "How to ship a database every day",
-    "link": "https://turbopuffer.com/blog/control-plane",
-    "source": "Hacker News",
-    "published": "2026-08-17T13:56:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49330978\">Comments</a>"
-  },
-  {
     "title": "A Preview of DuckDB v2.0",
     "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "source": "Hacker News",
@@ -112,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49330597\">Comments</a>"
   },
   {
-    "title": "Show HN: Sokoban AI Solver",
-    "link": "https://mkornreich.me/projects/sokoban/",
-    "source": "Hacker News",
-    "published": "2026-08-17T13:07:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49330215\">Comments</a>"
-  },
-  {
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source": "Hacker News",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49329575\">Comments</a>"
   },
   {
-    "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
-    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Marketers are Addicted to Bad Data (2020)",
+    "link": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
     "source": "Hacker News",
-    "published": "2026-08-16T21:53:43+00:00",
+    "published": "2026-08-13T16:47:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49324087\">Comments</a>"
-  },
-  {
-    "title": "How I developed an Am29000 C compiler and web browser",
-    "link": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "source": "Hacker News",
-    "published": "2026-08-16T20:41:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49323474\">Comments</a>"
-  },
-  {
-    "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-    "link": "https://www.nature.com/articles/d41586-026-02498-1",
-    "source": "Hacker News",
-    "published": "2026-08-12T14:26:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288644\">Comments</a>"
   },
   {
     "title": "Olo (Color)",
