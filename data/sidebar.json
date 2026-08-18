@@ -1,5 +1,29 @@
 [
   {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "source": "Hacker News",
+    "published": "2026-08-18T07:51:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49342719\">Comments</a>"
+  },
+  {
+    "title": "Rethinking Database Programming",
+    "link": "https://acadia.engineering/blog/rethinking-database-programming",
+    "source": "Hacker News",
+    "published": "2026-08-18T07:28:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49342530\">Comments</a>"
+  },
+  {
+    "title": "Exercise intensity modulates interorgan communication and is associated with",
+    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+    "source": "Hacker News",
+    "published": "2026-08-18T04:51:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49341411\">Comments</a>"
+  },
+  {
     "title": "The Benchmarkpocalypse",
     "link": "https://danluu.com/benchpocalypse/",
     "source": "Hacker News",
@@ -48,30 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49337392\">Comments</a>"
   },
   {
-    "title": "AI;DR (AI; Didn't Read)",
-    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "source": "Hacker News",
-    "published": "2026-08-17T19:47:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336573\">Comments</a>"
-  },
-  {
-    "title": "India has paved the way for charging merchants a fee on UPI transactions",
-    "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-    "source": "Hacker News",
-    "published": "2026-08-17T19:25:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336304\">Comments</a>"
-  },
-  {
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "source": "Hacker News",
-    "published": "2026-08-17T18:34:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49335600\">Comments</a>"
-  },
-  {
     "title": "GPU Offload in Rust: Portable, Safe, and Fast",
     "link": "https://arxiv.org/abs/2608.13759",
     "source": "Hacker News",
@@ -86,14 +86,6 @@
     "published": "2026-08-17T17:15:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49334409\">Comments</a>"
-  },
-  {
-    "title": "Judge sets framework for Nine PBS to retrieve archival data",
-    "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-    "source": "Hacker News",
-    "published": "2026-08-17T16:11:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49333344\">Comments</a>"
   },
   {
     "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
@@ -120,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49329575\">Comments</a>"
   },
   {
-    "title": "Wellington second-hand bookstore's mysterious orders",
-    "link": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+    "title": "Climbing Guide as a Shared Infrastructure",
+    "link": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
     "source": "Hacker News",
-    "published": "2026-08-16T21:40:39+00:00",
+    "published": "2026-08-16T10:10:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49323983\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49318607\">Comments</a>"
   },
   {
-    "title": "The 37signals Manager Playbook",
-    "link": "https://basecamp.com/managers",
+    "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+    "link": "https://www.youtube.com/watch?v=xoTFywZpPcc",
     "source": "Hacker News",
-    "published": "2026-08-13T16:12:01+00:00",
+    "published": "2026-08-15T19:11:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288129\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49313360\">Comments</a>"
+  },
+  {
+    "title": "Ranking the Most Brilliantly Colored Birds with Data",
+    "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+    "source": "Hacker News",
+    "published": "2026-08-15T14:55:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49311115\">Comments</a>"
   },
   {
     "title": "Shattered skeleton is first confirmed death from trebuchet",
