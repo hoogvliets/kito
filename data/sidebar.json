@@ -1,27 +1,43 @@
 [
   {
+    "title": "Beware Management Consultants",
+    "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "source": "Hacker News",
+    "published": "2026-08-18T19:29:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49351324\">Comments</a>"
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "source": "Hacker News",
+    "published": "2026-08-18T18:14:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49350031\">Comments</a>"
+  },
+  {
+    "title": "How does IKEA come up with names for its products?",
+    "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "source": "Hacker News",
+    "published": "2026-08-18T18:11:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49349984\">Comments</a>"
+  },
+  {
+    "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+    "link": "https://github.com/RyanCodrai/turbovec",
+    "source": "Hacker News",
+    "published": "2026-08-18T18:07:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49349898\">Comments</a>"
+  },
+  {
     "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
     "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
     "source": "Hacker News",
     "published": "2026-08-18T17:24:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49349147\">Comments</a>"
-  },
-  {
-    "title": "Claude Code weekly limits reduce by a third tomorrow",
-    "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-    "source": "Hacker News",
-    "published": "2026-08-18T17:02:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348751\">Comments</a>"
-  },
-  {
-    "title": "Superpowers, Not Superintelligence",
-    "link": "https://bond.now/news/superpowers-not-superintelligence",
-    "source": "Hacker News",
-    "published": "2026-08-18T16:27:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348152\">Comments</a>"
   },
   {
     "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
@@ -38,22 +54,6 @@
     "published": "2026-08-18T15:30:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49347178\">Comments</a>"
-  },
-  {
-    "title": "Code-native generation of highly programmable 3D assets (2026)",
-    "link": "https://arxiv.org/abs/2607.22738",
-    "source": "Hacker News",
-    "published": "2026-08-18T14:54:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49346538\">Comments</a>"
-  },
-  {
-    "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-    "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-    "source": "Hacker News",
-    "published": "2026-08-18T14:06:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49345843\">Comments</a>"
   },
   {
     "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
@@ -88,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49344825\">Comments</a>"
   },
   {
-    "title": "Fairphone is now officially available in the United States",
-    "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "source": "Hacker News",
-    "published": "2026-08-18T12:42:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49344811\">Comments</a>"
-  },
-  {
     "title": "Linux 7.3 improves performance when running out of vRAM",
     "link": "https://pixelcluster.dev/VRAM-Overcommit/",
     "source": "Hacker News",
@@ -120,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49334209\">Comments</a>"
   },
   {
-    "title": "Universal health coverage could save $1T and 114k lives a year: study",
-    "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "source": "Hacker News",
-    "published": "2026-08-17T15:49:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49332981\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
-    "link": "https://news.ycombinator.com/item?id=49313346",
-    "source": "Hacker News",
-    "published": "2026-08-15T19:09:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49313346\">Comments</a>"
-  },
-  {
     "title": "Splitting a Git Commit",
     "link": "https://blog.gnoack.org/post/git-history-split",
     "source": "Hacker News",
@@ -144,12 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49310602\">Comments</a>"
   },
   {
+    "title": "Evolve: An incremental game about evolving a civilization",
+    "link": "https://pmotschmann.github.io/Evolve/",
+    "source": "Hacker News",
+    "published": "2026-08-15T09:58:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49309248\">Comments</a>"
+  },
+  {
+    "title": "Mycorrhizal Infrastructure Map",
+    "link": "https://a-hidden-infrastructure.spun.earth/map",
+    "source": "Hacker News",
+    "published": "2026-08-15T05:59:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49308058\">Comments</a>"
+  },
+  {
     "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
     "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
     "source": "Hacker News",
     "published": "2026-08-14T11:05:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49297150\">Comments</a>"
+  },
+  {
+    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+    "link": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+    "source": "Hacker News",
+    "published": "2026-08-13T15:26:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49287463\">Comments</a>"
   },
   {
     "title": "Teaching my kid to code with a modern MUD",
