@@ -1,5 +1,85 @@
 [
   {
+    "title": "Opus 5.0 drives incoherence into the stratosphere",
+    "link": "https://github.com/anthropics/claude-code/issues/77136",
+    "source": "Hacker News",
+    "published": "2026-08-19T17:40:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364658\">Comments</a>"
+  },
+  {
+    "title": "OpenRouter Is Joining Stripe",
+    "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "source": "Hacker News",
+    "published": "2026-08-19T17:32:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364559\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Frugal Tokens \u2013 explore costs and usage across coding agents",
+    "link": "https://demo.frugaltokens.com/",
+    "source": "Hacker News",
+    "published": "2026-08-19T17:07:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364223\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+    "link": "https://github.com/onecli/onecli",
+    "source": "Hacker News",
+    "published": "2026-08-19T16:29:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49363710\">Comments</a>"
+  },
+  {
+    "title": "Extensible Software in the Age of LLMs",
+    "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "source": "Hacker News",
+    "published": "2026-08-19T16:26:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49363668\">Comments</a>"
+  },
+  {
+    "title": "How Kubernetes Probes Work",
+    "link": "https://ngrok.com/blog/probes",
+    "source": "Hacker News",
+    "published": "2026-08-19T16:25:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49363665\">Comments</a>"
+  },
+  {
+    "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+    "link": "https://arxiv.org/abs/2503.08679",
+    "source": "Hacker News",
+    "published": "2026-08-19T16:18:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49363587\">Comments</a>"
+  },
+  {
+    "title": "Remote workers report the highest well-being in study of 7,700 employees",
+    "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+    "source": "Hacker News",
+    "published": "2026-08-19T15:32:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49362934\">Comments</a>"
+  },
+  {
+    "title": "Mathematics in the Age of AI",
+    "link": "https://arxiv.org/abs/2608.16753",
+    "source": "Hacker News",
+    "published": "2026-08-19T15:14:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49362728\">Comments</a>"
+  },
+  {
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "link": "https://ornith.ai/ornith_1_5.html",
+    "source": "Hacker News",
+    "published": "2026-08-19T14:48:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49362401\">Comments</a>"
+  },
+  {
     "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
     "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
     "source": "Hacker News",
@@ -24,7 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49360545\">Comments</a>"
   },
   {
-    "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+    "title": "Devices with GrapheneOS support should be available in 2027",
     "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
     "source": "Hacker News",
     "published": "2026-08-19T11:46:58+00:00",
@@ -48,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49359425\">Comments</a>"
   },
   {
-    "title": "\u03bb\u03bb: A Programming Language for Silicon Photonics",
-    "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-    "source": "Hacker News",
-    "published": "2026-08-19T06:09:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49357501\">Comments</a>"
-  },
-  {
-    "title": "Palomar: A registry of Lean verified mathematics",
-    "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-    "source": "Hacker News",
-    "published": "2026-08-19T02:41:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49355968\">Comments</a>"
-  },
-  {
     "title": "OpenLogi",
     "link": "https://openlogi.org/en",
     "source": "Hacker News",
@@ -72,76 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49355606\">Comments</a>"
   },
   {
-    "title": "Cerebras CS-4",
-    "link": "https://www.cerebras.ai/cs4",
+    "title": "Microgpt in pure C hits 10M tps on Apple m5",
+    "link": "https://github.com/vixhal-baraiya/microgpt-c",
     "source": "Hacker News",
-    "published": "2026-08-19T00:28:18+00:00",
+    "published": "2026-08-18T15:46:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49354949\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49347477\">Comments</a>"
   },
   {
-    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-    "link": "https://github.com/DenisSergeevitch/desktop-fly",
+    "title": "A recipe for drone racing with reinforcement learning",
+    "link": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
     "source": "Hacker News",
-    "published": "2026-08-18T21:50:33+00:00",
+    "published": "2026-08-16T13:12:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49353221\">Comments</a>"
-  },
-  {
-    "title": "How does IKEA come up with names for its products?",
-    "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "source": "Hacker News",
-    "published": "2026-08-18T18:11:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49349984\">Comments</a>"
-  },
-  {
-    "title": "Finger: the 1971 social network that never died",
-    "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-    "source": "Hacker News",
-    "published": "2026-08-18T07:21:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49342472\">Comments</a>"
-  },
-  {
-    "title": "Being ambitious and being a dad",
-    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "source": "Hacker News",
-    "published": "2026-08-16T16:08:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321298\">Comments</a>"
-  },
-  {
-    "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-    "link": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-    "source": "Hacker News",
-    "published": "2026-08-15T16:17:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49311814\">Comments</a>"
-  },
-  {
-    "title": "Supersonic Trebuchet [video]",
-    "link": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-    "source": "Hacker News",
-    "published": "2026-08-15T00:18:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49306207\">Comments</a>"
-  },
-  {
-    "title": "Activation Energy is a good model for a lot of things",
-    "link": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-    "source": "Hacker News",
-    "published": "2026-08-14T15:40:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49300272\">Comments</a>"
-  },
-  {
-    "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
-    "link": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-    "source": "Hacker News",
-    "published": "2026-08-14T13:17:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49298283\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319745\">Comments</a>"
   },
   {
     "title": "Taffy: A flexible, high-performance, cross-platform UI layout library",
@@ -150,13 +158,5 @@
     "published": "2026-08-13T14:56:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49286987\">Comments</a>"
-  },
-  {
-    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
-    "link": "https://kolja.rs/algorithm-d/",
-    "source": "Hacker News",
-    "published": "2026-08-13T14:11:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49286258\">Comments</a>"
   }
 ]
