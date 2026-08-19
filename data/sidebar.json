@@ -1,19 +1,67 @@
 [
   {
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "link": "https://modelmap.cc",
+    "source": "Hacker News",
+    "published": "2026-08-18T23:57:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49354664\">Comments</a>"
+  },
+  {
+    "title": "Solo \u2013 a .so loader for static Linux binaries",
+    "link": "https://github.com/pg83/solo",
+    "source": "Hacker News",
+    "published": "2026-08-18T23:51:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49354613\">Comments</a>"
+  },
+  {
+    "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+    "link": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+    "source": "Hacker News",
+    "published": "2026-08-18T22:43:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49353854\">Comments</a>"
+  },
+  {
+    "title": "AI usage patterns in software teams",
+    "link": "https://linear.app/data",
+    "source": "Hacker News",
+    "published": "2026-08-18T22:08:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49353432\">Comments</a>"
+  },
+  {
+    "title": "GLM-5.3 Artificial Analysis Benchmarks",
+    "link": "https://artificialanalysis.ai/models/glm-5-3",
+    "source": "Hacker News",
+    "published": "2026-08-18T22:06:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49353407\">Comments</a>"
+  },
+  {
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "link": "https://github.com/DenisSergeevitch/desktop-fly",
+    "source": "Hacker News",
+    "published": "2026-08-18T21:50:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49353221\">Comments</a>"
+  },
+  {
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "source": "Hacker News",
+    "published": "2026-08-18T21:14:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49352806\">Comments</a>"
+  },
+  {
     "title": "Beware Management Consultants",
     "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
     "source": "Hacker News",
     "published": "2026-08-18T19:29:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49351324\">Comments</a>"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "source": "Hacker News",
-    "published": "2026-08-18T18:14:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49350031\">Comments</a>"
   },
   {
     "title": "How does IKEA come up with names for its products?",
@@ -32,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49349898\">Comments</a>"
   },
   {
-    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-    "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+    "title": "And then the men with guns tell you to do it anyway",
+    "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
     "source": "Hacker News",
-    "published": "2026-08-18T17:24:53+00:00",
+    "published": "2026-08-18T17:11:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49349147\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
-    "link": "https://machine0.io",
-    "source": "Hacker News",
-    "published": "2026-08-18T16:26:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348136\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Openleetcode \u2013 local LeetCode runner where tests live in the repo",
-    "link": "https://github.com/therepanic/openleetcode",
-    "source": "Hacker News",
-    "published": "2026-08-18T15:30:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49347178\">Comments</a>"
-  },
-  {
-    "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-    "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "source": "Hacker News",
-    "published": "2026-08-18T13:38:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49345476\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348912\">Comments</a>"
   },
   {
     "title": "The Amazon tax",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49344825\">Comments</a>"
   },
   {
-    "title": "Linux 7.3 improves performance when running out of vRAM",
-    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "source": "Hacker News",
-    "published": "2026-08-18T07:51:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49342719\">Comments</a>"
-  },
-  {
     "title": "Memory prices climb 500% in 12 months",
     "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
     "source": "Hacker News",
@@ -112,36 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49334209\">Comments</a>"
   },
   {
-    "title": "Splitting a Git Commit",
-    "link": "https://blog.gnoack.org/post/git-history-split",
+    "title": "Being ambitious and being a dad",
+    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "source": "Hacker News",
-    "published": "2026-08-15T13:56:31+00:00",
+    "published": "2026-08-16T16:08:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310602\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321298\">Comments</a>"
   },
   {
-    "title": "Evolve: An incremental game about evolving a civilization",
-    "link": "https://pmotschmann.github.io/Evolve/",
+    "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+    "link": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
     "source": "Hacker News",
-    "published": "2026-08-15T09:58:29+00:00",
+    "published": "2026-08-15T16:17:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49309248\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49311814\">Comments</a>"
   },
   {
-    "title": "Mycorrhizal Infrastructure Map",
-    "link": "https://a-hidden-infrastructure.spun.earth/map",
+    "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+    "link": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
     "source": "Hacker News",
-    "published": "2026-08-15T05:59:02+00:00",
+    "published": "2026-08-14T06:36:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49308058\">Comments</a>"
-  },
-  {
-    "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-    "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-    "source": "Hacker News",
-    "published": "2026-08-14T11:05:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49297150\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49295369\">Comments</a>"
   },
   {
     "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
@@ -150,13 +158,5 @@
     "published": "2026-08-13T15:26:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49287463\">Comments</a>"
-  },
-  {
-    "title": "Teaching my kid to code with a modern MUD",
-    "link": "https://tau.dev/2026/08/07/canon",
-    "source": "Hacker News",
-    "published": "2026-08-12T14:07:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49272631\">Comments</a>"
   }
 ]
