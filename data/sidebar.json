@@ -1,11 +1,35 @@
 [
   {
-    "title": "Bun 1.4 Rust rewrite is not looking good",
-    "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "link": "https://www.modular.com/blog/modcon-announcements",
     "source": "Hacker News",
-    "published": "2026-08-19T05:51:17+00:00",
+    "published": "2026-08-19T07:47:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49357401\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49358327\">Comments</a>"
+  },
+  {
+    "title": "Where Human Sleep Went Wrong",
+    "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "source": "Hacker News",
+    "published": "2026-08-19T07:40:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49358259\">Comments</a>"
+  },
+  {
+    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+    "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+    "source": "Hacker News",
+    "published": "2026-08-19T07:35:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49358220\">Comments</a>"
+  },
+  {
+    "title": "\u03bb\u03bb: A Programming Language for Silicon Photonics",
+    "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "source": "Hacker News",
+    "published": "2026-08-19T06:09:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49357501\">Comments</a>"
   },
   {
     "title": "Palomar: A registry of Lean verified mathematics",
@@ -96,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49349984\">Comments</a>"
   },
   {
-    "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-    "link": "https://github.com/RyanCodrai/turbovec",
-    "source": "Hacker News",
-    "published": "2026-08-18T18:07:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49349898\">Comments</a>"
-  },
-  {
-    "title": "And then the men with guns tell you to do it anyway",
-    "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-    "source": "Hacker News",
-    "published": "2026-08-18T17:11:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348912\">Comments</a>"
-  },
-  {
     "title": "Finger: the 1971 social network that never died",
     "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
     "source": "Hacker News",
@@ -120,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49342472\">Comments</a>"
   },
   {
-    "title": "Memory prices climb 500% in 12 months",
-    "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "title": "Being ambitious and being a dad",
+    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "source": "Hacker News",
-    "published": "2026-08-17T17:52:37+00:00",
+    "published": "2026-08-16T16:08:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49334960\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321298\">Comments</a>"
   },
   {
-    "title": "Cursor launches Origin, GitHub alternative",
-    "link": "https://cursor.com/changelog/origin-code-hosting",
+    "title": "The Two Factions of C++",
+    "link": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
     "source": "Hacker News",
-    "published": "2026-08-17T17:02:44+00:00",
+    "published": "2026-08-16T09:12:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49334209\">Comments</a>"
-  },
-  {
-    "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-    "link": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-    "source": "Hacker News",
-    "published": "2026-08-15T16:17:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49311814\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49318311\">Comments</a>"
   },
   {
     "title": "Supersonic Trebuchet [video]",
