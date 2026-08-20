@@ -1,19 +1,19 @@
 [
   {
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "link": "https://openai.com/index/asana/",
+    "title": "Don't Paste the AI, please",
+    "link": "https://dontpastetheai.com/",
     "source": "Hacker News",
-    "published": "2026-08-20T05:54:20+00:00",
+    "published": "2026-08-20T08:20:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49370862\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49371857\">Comments</a>"
   },
   {
-    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+    "title": "Windows brings out the Rorschach test in everyone",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
     "source": "Hacker News",
-    "published": "2026-08-20T04:42:02+00:00",
+    "published": "2026-08-20T06:16:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49370440\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49371006\">Comments</a>"
   },
   {
     "title": "Turns are Better than Radians (2022)",
@@ -40,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49367256\">Comments</a>"
   },
   {
-    "title": "Pixel 11 Pro Fold feels like the end of an era",
-    "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-    "source": "Hacker News",
-    "published": "2026-08-19T19:43:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49366264\">Comments</a>"
-  },
-  {
     "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
     "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
     "source": "Hacker News",
@@ -72,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49365405\">Comments</a>"
   },
   {
-    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "title": "Google has stopped pushing Git tags for some Android source code",
     "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
     "source": "Hacker News",
     "published": "2026-08-19T17:47:29+00:00",
@@ -102,6 +94,14 @@
     "published": "2026-08-19T14:20:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49362001\">Comments</a>"
+  },
+  {
+    "title": "PostgreSQL for Everything",
+    "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "source": "Hacker News",
+    "published": "2026-08-19T13:21:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49361279\">Comments</a>"
   },
   {
     "title": "Geolocating a random island using geometry and CUDA programming",
@@ -136,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49348189\">Comments</a>"
   },
   {
+    "title": "The Chauffeur Problem",
+    "link": "https://engines.egr.uh.edu/episode/1495",
+    "source": "Hacker News",
+    "published": "2026-08-16T23:55:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49325037\">Comments</a>"
+  },
+  {
     "title": "A faster way to calculate the day of the week",
     "link": "https://www.benjoffe.com/fast-day-of-week",
     "source": "Hacker News",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49323795\">Comments</a>"
   },
   {
-    "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-    "link": "https://github.com/cesarblum/sectorforth",
+    "title": "What's missing to have reproducible builds on PyPI",
+    "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
     "source": "Hacker News",
-    "published": "2026-08-16T17:29:44+00:00",
+    "published": "2026-08-16T05:48:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321934\">Comments</a>"
-  },
-  {
-    "title": "Simulacra and Simulation",
-    "link": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-    "source": "Hacker News",
-    "published": "2026-08-12T14:33:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49273010\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49317246\">Comments</a>"
   }
 ]
