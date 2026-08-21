@@ -1,19 +1,99 @@
 [
   {
-    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "title": "Rebuilding our Electron meeting-recording engine in Swift",
+    "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
     "source": "Hacker News",
-    "published": "2026-08-21T14:31:52+00:00",
+    "published": "2026-08-21T17:33:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388752\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49391389\">Comments</a>"
   },
   {
-    "title": "What We Lost When Search Stopped Making Us Think",
-    "link": "https://blog.8ball.space/what-we-lost-when-search/",
+    "title": "When the shortage is the strategy",
+    "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
     "source": "Hacker News",
-    "published": "2026-08-21T14:16:17+00:00",
+    "published": "2026-08-21T17:31:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388446\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49391358\">Comments</a>"
+  },
+  {
+    "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
+    "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+    "source": "Hacker News",
+    "published": "2026-08-21T17:00:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390910\">Comments</a>"
+  },
+  {
+    "title": "Another better lower bound for n=17 square packing",
+    "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:50:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390775\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "link": "https://github.com/proliferate-ai/proliferate",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:47:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390739\">Comments</a>"
+  },
+  {
+    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+    "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:27:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390463\">Comments</a>"
+  },
+  {
+    "title": "Kobo can run apps now",
+    "link": "https://bandarlabs.github.io/Cobalt/",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:25:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390427\">Comments</a>"
+  },
+  {
+    "title": "What happens when a GPU reads memory",
+    "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:16:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390308\">Comments</a>"
+  },
+  {
+    "title": "Decayfmt \u2013 a file format that corrupts itself a little every time you open it",
+    "link": "https://github.com/aravpanwar/decayfmt",
+    "source": "Hacker News",
+    "published": "2026-08-21T16:09:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390206\">Comments</a>"
+  },
+  {
+    "title": "New York\u2019s office market is home to the most tech workers: CBRE report",
+    "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+    "source": "Hacker News",
+    "published": "2026-08-21T15:36:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389722\">Comments</a>"
+  },
+  {
+    "title": "I ran Photoshop on a \u00a30.60 computer chip",
+    "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "source": "Hacker News",
+    "published": "2026-08-21T15:17:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389441\">Comments</a>"
+  },
+  {
+    "title": "Felony Bench",
+    "link": "https://www.felonybench.com/",
+    "source": "Hacker News",
+    "published": "2026-08-21T15:17:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>"
   },
   {
     "title": "Kagi added a setting for removing paywalled links from search results",
@@ -24,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>"
   },
   {
-    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-    "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "source": "Hacker News",
-    "published": "2026-08-21T13:52:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388095\">Comments</a>"
-  },
-  {
     "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
     "link": "https://arxiv.org/abs/2608.18214",
     "source": "Hacker News",
@@ -40,15 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49387856\">Comments</a>"
   },
   {
-    "title": "What Happens When the Cost of Intelligence Drops 100x",
-    "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "source": "Hacker News",
-    "published": "2026-08-21T13:24:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387735\">Comments</a>"
-  },
-  {
-    "title": "I accidentally logged phone calls to military bases",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
     "link": "https://lina.sh/blog/hijacking-e164-arpa",
     "source": "Hacker News",
     "published": "2026-08-21T13:11:28+00:00",
@@ -56,60 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49387570\">Comments</a>"
   },
   {
-    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
     "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
     "source": "Hacker News",
     "published": "2026-08-21T13:07:26+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49387525\">Comments</a>"
-  },
-  {
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-    "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "source": "Hacker News",
-    "published": "2026-08-21T13:04:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387497\">Comments</a>"
-  },
-  {
-    "title": "Yes/No/Cancel causes Aspirin sales to soar",
-    "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-    "source": "Hacker News",
-    "published": "2026-08-21T12:58:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387433\">Comments</a>"
-  },
-  {
-    "title": "DuckDB V2 PEG-based SQL parser",
-    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "source": "Hacker News",
-    "published": "2026-08-21T12:52:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387349\">Comments</a>"
-  },
-  {
-    "title": "The road to ACID transactions in Cassandra 6",
-    "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-    "source": "Hacker News",
-    "published": "2026-08-21T12:08:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386877\">Comments</a>"
-  },
-  {
-    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-    "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-    "source": "Hacker News",
-    "published": "2026-08-21T11:43:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386659\">Comments</a>"
-  },
-  {
-    "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-    "link": "https://github.com/yaroslav/kino",
-    "source": "Hacker News",
-    "published": "2026-08-21T11:06:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386383\">Comments</a>"
   },
   {
     "title": "DeepSeek-v4-flash-vision-exp",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49386163\">Comments</a>"
   },
   {
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "link": "https://annas-archive.pk/blog/physical-destruction.html",
+    "title": "AI boosted homework scores, then exam scores dropped: Study",
+    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "source": "Hacker News",
-    "published": "2026-08-21T10:05:46+00:00",
+    "published": "2026-08-19T06:13:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49385994\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49357530\">Comments</a>"
   },
   {
-    "title": "Small, native web tricks worth remembering",
-    "link": "https://htmlcat.net/",
+    "title": "Does whispering to agents in docs help?",
+    "link": "https://passo.uno/if-you-are-an-agent-read-this/",
     "source": "Hacker News",
-    "published": "2026-08-21T09:45:14+00:00",
+    "published": "2026-08-17T14:16:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49385860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49331391\">Comments</a>"
   },
   {
-    "title": "The Lost Treasure of Sid Meier's Pirates",
-    "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "title": "Quantifying the honey bee dance floor",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
     "source": "Hacker News",
-    "published": "2026-08-21T07:23:27+00:00",
+    "published": "2026-08-14T02:01:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384896\">Comments</a>"
-  },
-  {
-    "title": "Flat Chair by Sara Paculdo",
-    "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-    "source": "Hacker News",
-    "published": "2026-08-17T14:01:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49331084\">Comments</a>"
-  },
-  {
-    "title": "John Berger: From Life by Tom Overton review \u2013 a vibrant biography",
-    "link": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-    "source": "Hacker News",
-    "published": "2026-08-16T16:37:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321549\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49293983\">Comments</a>"
   }
 ]
