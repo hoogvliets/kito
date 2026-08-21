@@ -1,5 +1,21 @@
 [
   {
+    "title": "Japan tried to build an operating system for the world, the US intervened",
+    "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+    "source": "Hacker News",
+    "published": "2026-08-21T05:31:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384180\">Comments</a>"
+  },
+  {
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "link": "https://github.com/openai/codex/issues/37674",
+    "source": "Hacker News",
+    "published": "2026-08-21T03:17:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49383326\">Comments</a>"
+  },
+  {
     "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
     "link": "https://annas-archive.gl/blog/physical-destruction.html",
     "source": "Hacker News",
@@ -16,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49382152\">Comments</a>"
   },
   {
-    "title": "Detecting scraper bots through scroll behaviour",
-    "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+    "title": "Ox Alpha",
+    "link": "https://openrouter.ai/stealth/ox-alpha",
     "source": "Hacker News",
-    "published": "2026-08-20T22:47:52+00:00",
+    "published": "2026-08-20T23:56:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381311\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381896\">Comments</a>"
   },
   {
     "title": "The August 17 outage",
@@ -56,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49378446\">Comments</a>"
   },
   {
-    "title": "Consumer Rights Wiki",
-    "link": "https://consumerrights.wiki/w/Main_Page",
-    "source": "Hacker News",
-    "published": "2026-08-20T18:19:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49378243\">Comments</a>"
-  },
-  {
     "title": "I should have loved biology (2020)",
     "link": "https://jsomers.net/i-should-have-loved-biology/",
     "source": "Hacker News",
@@ -94,14 +102,6 @@
     "published": "2026-08-20T13:23:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49374269\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "source": "Hacker News",
-    "published": "2026-08-20T12:04:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49373456\">Comments</a>"
   },
   {
     "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49347543\">Comments</a>"
   },
   {
+    "title": "Captain Zilog",
+    "link": "https://www.zilog.com/captain_zilog/",
+    "source": "Hacker News",
+    "published": "2026-08-17T12:42:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49329919\">Comments</a>"
+  },
+  {
     "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
     "link": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
     "source": "Hacker News",
     "published": "2026-08-14T20:49:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49304409\">Comments</a>"
-  },
-  {
-    "title": "Speeding Up (Small) Ruby Hashes",
-    "link": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "source": "Hacker News",
-    "published": "2026-08-14T05:45:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49295112\">Comments</a>"
   }
 ]
