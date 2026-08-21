@@ -1,5 +1,101 @@
 [
   {
+    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "source": "Hacker News",
+    "published": "2026-08-21T14:31:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388752\">Comments</a>"
+  },
+  {
+    "title": "What We Lost When Search Stopped Making Us Think",
+    "link": "https://blog.8ball.space/what-we-lost-when-search/",
+    "source": "Hacker News",
+    "published": "2026-08-21T14:16:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388446\">Comments</a>"
+  },
+  {
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "link": "https://kagi.com/changelog#11296",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:56:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>"
+  },
+  {
+    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+    "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:52:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388095\">Comments</a>"
+  },
+  {
+    "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+    "link": "https://arxiv.org/abs/2608.18214",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:35:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387856\">Comments</a>"
+  },
+  {
+    "title": "What Happens When the Cost of Intelligence Drops 100x",
+    "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:24:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387735\">Comments</a>"
+  },
+  {
+    "title": "I accidentally logged phone calls to military bases",
+    "link": "https://lina.sh/blog/hijacking-e164-arpa",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:11:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387570\">Comments</a>"
+  },
+  {
+    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+    "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:07:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387525\">Comments</a>"
+  },
+  {
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+    "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "source": "Hacker News",
+    "published": "2026-08-21T13:04:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387497\">Comments</a>"
+  },
+  {
+    "title": "Yes/No/Cancel causes Aspirin sales to soar",
+    "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+    "source": "Hacker News",
+    "published": "2026-08-21T12:58:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387433\">Comments</a>"
+  },
+  {
+    "title": "DuckDB V2 PEG-based SQL parser",
+    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+    "source": "Hacker News",
+    "published": "2026-08-21T12:52:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387349\">Comments</a>"
+  },
+  {
+    "title": "The road to ACID transactions in Cassandra 6",
+    "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+    "source": "Hacker News",
+    "published": "2026-08-21T12:08:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386877\">Comments</a>"
+  },
+  {
     "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
     "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
     "source": "Hacker News",
@@ -48,102 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49384896\">Comments</a>"
   },
   {
-    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-    "link": "https://encore.dev/blog/firecracker-apple-silicon",
-    "source": "Hacker News",
-    "published": "2026-08-21T06:59:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384716\">Comments</a>"
-  },
-  {
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-    "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "source": "Hacker News",
-    "published": "2026-08-21T05:39:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384224\">Comments</a>"
-  },
-  {
-    "title": "Japan tried to build an operating system for the world, the US intervened",
-    "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-    "source": "Hacker News",
-    "published": "2026-08-21T05:31:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384180\">Comments</a>"
-  },
-  {
-    "title": "Micron announces $10B research hub in Boise",
-    "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-    "source": "Hacker News",
-    "published": "2026-08-21T03:51:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49383582\">Comments</a>"
-  },
-  {
-    "title": "Ox Alpha",
-    "link": "https://openrouter.ai/stealth/ox-alpha",
-    "source": "Hacker News",
-    "published": "2026-08-20T23:56:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381896\">Comments</a>"
-  },
-  {
-    "title": "The August 17 outage",
-    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "source": "Hacker News",
-    "published": "2026-08-20T19:22:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49378957\">Comments</a>"
-  },
-  {
-    "title": "Why aren't smart people happier? (2022)",
-    "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-    "source": "Hacker News",
-    "published": "2026-08-20T18:38:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49378446\">Comments</a>"
-  },
-  {
-    "title": "I should have loved biology (2020)",
-    "link": "https://jsomers.net/i-should-have-loved-biology/",
-    "source": "Hacker News",
-    "published": "2026-08-20T17:50:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49377853\">Comments</a>"
-  },
-  {
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "source": "Hacker News",
-    "published": "2026-08-20T13:23:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49374269\">Comments</a>"
-  },
-  {
-    "title": "CIA funding helped keep NeXT afloat in the 80s",
-    "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "source": "Hacker News",
-    "published": "2026-08-20T00:15:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49368886\">Comments</a>"
-  },
-  {
-    "title": "HTML Can Do That",
-    "link": "https://chrisburnell.com/html-can-do-that/",
-    "source": "Hacker News",
-    "published": "2026-08-19T15:11:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49362689\">Comments</a>"
-  },
-  {
-    "title": "I like 'em thick: an apology to my English teachers",
-    "link": "https://www.experimental-history.com/p/i-like-em-thick",
-    "source": "Hacker News",
-    "published": "2026-08-18T15:50:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49347543\">Comments</a>"
-  },
-  {
     "title": "Flat Chair by Sara Paculdo",
     "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49331084\">Comments</a>"
   },
   {
-    "title": "The Mystery of Dark Oxygen",
-    "link": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+    "title": "John Berger: From Life by Tom Overton review \u2013 a vibrant biography",
+    "link": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
     "source": "Hacker News",
-    "published": "2026-08-16T13:11:08+00:00",
+    "published": "2026-08-16T16:37:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319733\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321549\">Comments</a>"
   }
 ]
