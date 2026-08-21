@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "source": "Hacker News",
+    "published": "2026-08-21T07:23:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384896\">Comments</a>"
+  },
+  {
+    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+    "link": "https://encore.dev/blog/firecracker-apple-silicon",
+    "source": "Hacker News",
+    "published": "2026-08-21T06:59:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384716\">Comments</a>"
+  },
+  {
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+    "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "source": "Hacker News",
+    "published": "2026-08-21T05:39:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384224\">Comments</a>"
+  },
+  {
     "title": "Japan tried to build an operating system for the world, the US intervened",
     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
     "source": "Hacker News",
@@ -8,28 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49384180\">Comments</a>"
   },
   {
-    "title": "Codex on AWS bedrock bug causing 10x charges",
-    "link": "https://github.com/openai/codex/issues/37674",
+    "title": "Seed: Minimal, self-modifying agent harness",
+    "link": "https://github.com/vivekhaldar/seed",
     "source": "Hacker News",
-    "published": "2026-08-21T03:17:43+00:00",
+    "published": "2026-08-21T05:20:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49383326\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384113\">Comments</a>"
   },
   {
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "link": "https://annas-archive.gl/blog/physical-destruction.html",
+    "title": "Micron announces $10B research hub in Boise",
+    "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
     "source": "Hacker News",
-    "published": "2026-08-21T02:37:47+00:00",
+    "published": "2026-08-21T03:51:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49383026\">Comments</a>"
-  },
-  {
-    "title": "There's no such thing as a small software team anymore",
-    "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "source": "Hacker News",
-    "published": "2026-08-21T00:28:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49382152\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49383582\">Comments</a>"
   },
   {
     "title": "Ox Alpha",
@@ -46,14 +62,6 @@
     "published": "2026-08-20T19:22:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49378957\">Comments</a>"
-  },
-  {
-    "title": "SpacetimeDB: A Short Technical Review",
-    "link": "https://strn.cat/posts/spacetime/",
-    "source": "Hacker News",
-    "published": "2026-08-20T19:19:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49378933\">Comments</a>"
   },
   {
     "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
@@ -80,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49377853\">Comments</a>"
   },
   {
-    "title": "Linux 7.2",
-    "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "title": "Launch HN: Vendo (YC S26) \u2013 Let users build features on top of your product",
+    "link": "https://github.com/runvendo/vendo",
     "source": "Hacker News",
-    "published": "2026-08-20T15:46:18+00:00",
+    "published": "2026-08-20T15:29:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49376265\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49376038\">Comments</a>"
   },
   {
     "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49374269\">Comments</a>"
   },
   {
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "source": "Hacker News",
-    "published": "2026-08-20T10:08:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49372583\">Comments</a>"
-  },
-  {
     "title": "CIA funding helped keep NeXT afloat in the 80s",
     "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "source": "Hacker News",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49362689\">Comments</a>"
   },
   {
-    "title": "Mojo is now open source",
-    "link": "https://www.modular.com/blog/mojo-open-source",
-    "source": "Hacker News",
-    "published": "2026-08-18T16:23:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49348079\">Comments</a>"
-  },
-  {
     "title": "I like 'em thick: an apology to my English teachers",
     "link": "https://www.experimental-history.com/p/i-like-em-thick",
     "source": "Hacker News",
     "published": "2026-08-18T15:50:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49347543\">Comments</a>"
+  },
+  {
+    "title": "Version Control for Everything",
+    "link": "https://tyoverby.com/posts/version-control-for-everything-else/",
+    "source": "Hacker News",
+    "published": "2026-08-17T19:28:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49336358\">Comments</a>"
   },
   {
     "title": "Captain Zilog",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49329919\">Comments</a>"
   },
   {
-    "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-    "link": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+    "title": "The case against a C alternative (2022)",
+    "link": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
     "source": "Hacker News",
-    "published": "2026-08-14T20:49:29+00:00",
+    "published": "2026-08-16T15:17:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49304409\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320866\">Comments</a>"
   }
 ]
