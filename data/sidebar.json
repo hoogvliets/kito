@@ -1,35 +1,11 @@
 [
   {
-    "title": "GPT 5.6 Sol 20% price reduction",
-    "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-    "source": "Hacker News",
-    "published": "2026-08-22T04:33:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49396590\">Comments</a>"
-  },
-  {
     "title": "There's no reason for software to be slow anymore",
     "link": "https://danluu.com/perf-opt/",
     "source": "Hacker News",
     "published": "2026-08-22T01:06:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49395628\">Comments</a>"
-  },
-  {
-    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-    "source": "Hacker News",
-    "published": "2026-08-22T01:02:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395605\">Comments</a>"
-  },
-  {
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "link": "https://ozbrain.com",
-    "source": "Hacker News",
-    "published": "2026-08-21T23:09:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394827\">Comments</a>"
   },
   {
     "title": "Three important steps in my maturation process",
@@ -64,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49391661\">Comments</a>"
   },
   {
-    "title": "OTel isn't going well (and I made a spreadsheet about it)",
+    "title": "OTel isn\u2019t going well",
     "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "source": "Hacker News",
     "published": "2026-08-21T17:45:41+00:00",
@@ -96,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49388752\">Comments</a>"
   },
   {
-    "title": "Zig's Io.Threaded Is Neat",
+    "title": "Zig\u2019s io.threaded is neat",
     "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "source": "Hacker News",
     "published": "2026-08-21T14:28:15+00:00",
@@ -128,6 +104,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49386895\">Comments</a>"
   },
   {
+    "title": "I'm becoming AI-blind",
+    "link": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "Hacker News",
+    "published": "2026-08-21T11:48:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386699\">Comments</a>"
+  },
+  {
     "title": "Stop Making TUIs",
     "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "source": "Hacker News",
@@ -142,6 +126,22 @@
     "published": "2026-08-20T21:08:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49380303\">Comments</a>"
+  },
+  {
+    "title": "Autolith: A programming agent with a live runtime",
+    "link": "https://www.lambda-symbolics.com/autolith",
+    "source": "Hacker News",
+    "published": "2026-08-20T15:40:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49376197\">Comments</a>"
+  },
+  {
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "source": "Hacker News",
+    "published": "2026-08-19T17:45:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364721\">Comments</a>"
   },
   {
     "title": "AI boosted homework scores, then exam scores dropped: study",
