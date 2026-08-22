@@ -1,11 +1,35 @@
 [
   {
-    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-    "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+    "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
     "source": "Hacker News",
-    "published": "2026-08-22T14:13:05+00:00",
+    "published": "2026-08-22T17:09:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49399941\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401621\">Comments</a>"
+  },
+  {
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "link": "https://twitter.com/argofowl/status/2091150597374537729",
+    "source": "Hacker News",
+    "published": "2026-08-22T16:58:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401549\">Comments</a>"
+  },
+  {
+    "title": "Learning about \"The Unix Time-Sharing System\"",
+    "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "source": "Hacker News",
+    "published": "2026-08-22T16:11:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401122\">Comments</a>"
+  },
+  {
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "link": "https://quantumi.sh/public/labs.html",
+    "source": "Hacker News",
+    "published": "2026-08-22T14:54:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49400408\">Comments</a>"
   },
   {
     "title": "A Friendly Introduction to Racket",
@@ -16,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49399898\">Comments</a>"
   },
   {
-    "title": "The New MCP Roadmap",
+    "title": "New MCP Roadmap",
     "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "source": "Hacker News",
     "published": "2026-08-22T13:31:34+00:00",
@@ -30,30 +54,6 @@
     "published": "2026-08-22T13:24:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49399524\">Comments</a>"
-  },
-  {
-    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-    "source": "Hacker News",
-    "published": "2026-08-22T12:07:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49398904\">Comments</a>"
-  },
-  {
-    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
-    "link": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-    "source": "Hacker News",
-    "published": "2026-08-22T11:39:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49398710\">Comments</a>"
-  },
-  {
-    "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-    "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-    "source": "Hacker News",
-    "published": "2026-08-22T10:26:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49398304\">Comments</a>"
   },
   {
     "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
@@ -72,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49398152\">Comments</a>"
   },
   {
-    "title": "There's no reason for software to be slow anymore",
-    "link": "https://danluu.com/perf-opt/",
-    "source": "Hacker News",
-    "published": "2026-08-22T01:06:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395628\">Comments</a>"
-  },
-  {
     "title": "Rust Glancer: Rust LSP using 100x less RAM",
     "link": "https://rust-glancer.github.io/blog/hello-world/",
     "source": "Hacker News",
     "published": "2026-08-21T19:51:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49393052\">Comments</a>"
-  },
-  {
-    "title": "OTel isn\u2019t going well",
-    "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "source": "Hacker News",
-    "published": "2026-08-21T17:45:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49391553\">Comments</a>"
   },
   {
     "title": "Show HN: Rotation via Double Reflection",
@@ -120,30 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>"
   },
   {
-    "title": "Zig\u2019s Io.Threaded is neat",
-    "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "source": "Hacker News",
-    "published": "2026-08-21T14:28:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388694\">Comments</a>"
-  },
-  {
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "link": "https://kagi.com/changelog#11296",
-    "source": "Hacker News",
-    "published": "2026-08-21T13:56:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>"
-  },
-  {
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "link": "https://lina.sh/blog/hijacking-e164-arpa",
-    "source": "Hacker News",
-    "published": "2026-08-21T13:11:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387570\">Comments</a>"
-  },
-  {
     "title": "Felony charges for citizen deleting phone data at US Border",
     "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
     "source": "Hacker News",
@@ -152,11 +112,51 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49386895\">Comments</a>"
   },
   {
-    "title": "Stop Making TUIs",
-    "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Dynamical dark energy and the week that broke cosmology",
+    "link": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
     "source": "Hacker News",
-    "published": "2026-08-21T05:37:38+00:00",
+    "published": "2026-08-21T00:10:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384210\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381991\">Comments</a>"
+  },
+  {
+    "title": "Ameliorate",
+    "link": "https://ameliorate.app/",
+    "source": "Hacker News",
+    "published": "2026-08-20T20:52:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49380128\">Comments</a>"
+  },
+  {
+    "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
+    "link": "https://github.com/ofdryads/miniageOS",
+    "source": "Hacker News",
+    "published": "2026-08-20T04:07:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49370284\">Comments</a>"
+  },
+  {
+    "title": "What's in a PowerPoint File?",
+    "link": "https://editide.com/blog/what-is-a-pptx-file/",
+    "source": "Hacker News",
+    "published": "2026-08-19T12:28:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49360643\">Comments</a>"
+  },
+  {
+    "title": "RF Cafe",
+    "link": "https://www.rfcafe.com/",
+    "source": "Hacker News",
+    "published": "2026-08-19T02:05:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49355659\">Comments</a>"
+  },
+  {
+    "title": "typ.ing",
+    "link": "https://typ.ing/",
+    "source": "Hacker News",
+    "published": "2026-08-18T15:12:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49346854\">Comments</a>"
   }
 ]
