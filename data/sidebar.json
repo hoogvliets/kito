@@ -1,27 +1,43 @@
 [
   {
+    "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+    "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+    "source": "Hacker News",
+    "published": "2026-08-21T23:32:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395040\">Comments</a>"
+  },
+  {
+    "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
+    "link": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+    "source": "Hacker News",
+    "published": "2026-08-21T23:25:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394985\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "link": "https://ozbrain.com",
+    "source": "Hacker News",
+    "published": "2026-08-21T23:09:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394827\">Comments</a>"
+  },
+  {
+    "title": "Three important steps in my maturation process",
+    "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "source": "Hacker News",
+    "published": "2026-08-21T22:29:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394496\">Comments</a>"
+  },
+  {
     "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
     "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
     "source": "Hacker News",
     "published": "2026-08-21T21:00:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49393733\">Comments</a>"
-  },
-  {
-    "title": "Quick impressions: A week of using Codex more than Claude",
-    "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "source": "Hacker News",
-    "published": "2026-08-21T19:51:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49393051\">Comments</a>"
-  },
-  {
-    "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
-    "link": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
-    "source": "Hacker News",
-    "published": "2026-08-21T19:35:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392877\">Comments</a>"
   },
   {
     "title": "Tumble Forth \u2013 from assembly to OS with C compiler",
@@ -32,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49392465\">Comments</a>"
   },
   {
-    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-    "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "source": "Hacker News",
-    "published": "2026-08-21T18:48:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392331\">Comments</a>"
-  },
-  {
     "title": "Scientists release biggest 2D map of the universe",
     "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
     "source": "Hacker News",
     "published": "2026-08-21T18:36:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49392200\">Comments</a>"
-  },
-  {
-    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-    "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "source": "Hacker News",
-    "published": "2026-08-21T16:27:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390463\">Comments</a>"
   },
   {
     "title": "Kobo can run apps now",
@@ -80,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49389952\">Comments</a>"
   },
   {
-    "title": "The B-right/V R2 Operating System (2000)",
-    "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "source": "Hacker News",
-    "published": "2026-08-21T15:20:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389491\">Comments</a>"
-  },
-  {
     "title": "I ran Photoshop on a \u00a30.60 computer chip",
     "link": "https://pointinthecloud.com/2026-08-19-144600.html",
     "source": "Hacker News",
@@ -102,6 +94,14 @@
     "published": "2026-08-21T15:17:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>"
+  },
+  {
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "source": "Hacker News",
+    "published": "2026-08-21T14:31:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388752\">Comments</a>"
   },
   {
     "title": "Kagi added a setting for removing paywalled links from search results",
