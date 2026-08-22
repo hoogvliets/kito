@@ -1,27 +1,59 @@
 [
   {
-    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-    "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+    "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+    "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
     "source": "Hacker News",
-    "published": "2026-08-22T17:09:27+00:00",
+    "published": "2026-08-22T20:21:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401621\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49403484\">Comments</a>"
   },
   {
-    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-    "link": "https://twitter.com/argofowl/status/2091150597374537729",
+    "title": "Fast and Hard Code",
+    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
-    "published": "2026-08-22T16:58:49+00:00",
+    "published": "2026-08-22T19:56:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401549\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49403228\">Comments</a>"
   },
   {
-    "title": "Learning about \"The Unix Time-Sharing System\"",
-    "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "title": "NetBSD and My Life (2005)",
+    "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
-    "published": "2026-08-22T16:11:16+00:00",
+    "published": "2026-08-22T19:07:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49401122\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402781\">Comments</a>"
+  },
+  {
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "source": "Hacker News",
+    "published": "2026-08-22T19:04:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402741\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Make your logo extra bright on HDR screens",
+    "link": "https://www.soverybright.com/",
+    "source": "Hacker News",
+    "published": "2026-08-22T18:43:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402521\">Comments</a>"
+  },
+  {
+    "title": "Why your local LLM feels dumber than it is",
+    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "source": "Hacker News",
+    "published": "2026-08-22T18:14:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>"
+  },
+  {
+    "title": "Scrap",
+    "link": "https://twitter.com/moxie/status/2091218652133732491",
+    "source": "Hacker News",
+    "published": "2026-08-22T18:08:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402189\">Comments</a>"
   },
   {
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
@@ -40,30 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49399898\">Comments</a>"
   },
   {
-    "title": "New MCP Roadmap",
-    "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "source": "Hacker News",
-    "published": "2026-08-22T13:31:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49399591\">Comments</a>"
-  },
-  {
-    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-    "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-    "source": "Hacker News",
-    "published": "2026-08-22T13:24:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49399524\">Comments</a>"
-  },
-  {
-    "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
-    "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "source": "Hacker News",
-    "published": "2026-08-22T09:49:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49398158\">Comments</a>"
-  },
-  {
     "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
     "link": "https://munderdiffl.in/",
     "source": "Hacker News",
@@ -72,76 +80,52 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49398152\">Comments</a>"
   },
   {
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "link": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "source": "Hacker News",
-    "published": "2026-08-21T19:51:54+00:00",
+    "published": "2026-08-22T06:16:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49393052\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49397074\">Comments</a>"
   },
   {
-    "title": "Show HN: Rotation via Double Reflection",
-    "link": "https://static.laszlokorte.de/rotor-reflect/",
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
     "source": "Hacker News",
-    "published": "2026-08-21T17:18:06+00:00",
+    "published": "2026-08-21T19:05:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49391168\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392536\">Comments</a>"
   },
   {
-    "title": "Kobo can run apps now",
-    "link": "https://bandarlabs.github.io/Cobalt/",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "source": "Hacker News",
-    "published": "2026-08-21T16:25:25+00:00",
+    "published": "2026-08-21T13:43:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49390427\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49387959\">Comments</a>"
   },
   {
-    "title": "Felony Bench",
-    "link": "https://www.felonybench.com/",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+    "link": "https://atproto.com/blog/atproto-spaces-alpha",
     "source": "Hacker News",
-    "published": "2026-08-21T15:17:04+00:00",
+    "published": "2026-08-20T20:22:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49379732\">Comments</a>"
   },
   {
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "title": "Why it might be time to rethink the human family tree",
+    "link": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
     "source": "Hacker News",
-    "published": "2026-08-21T12:10:13+00:00",
+    "published": "2026-08-20T17:07:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386895\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49377316\">Comments</a>"
   },
   {
-    "title": "Dynamical dark energy and the week that broke cosmology",
-    "link": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "title": "Show HN: terminal-code \u2013 VS Code inside the terminal",
+    "link": "https://terminal-code.com",
     "source": "Hacker News",
-    "published": "2026-08-21T00:10:01+00:00",
+    "published": "2026-08-19T17:13:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381991\">Comments</a>"
-  },
-  {
-    "title": "Ameliorate",
-    "link": "https://ameliorate.app/",
-    "source": "Hacker News",
-    "published": "2026-08-20T20:52:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49380128\">Comments</a>"
-  },
-  {
-    "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
-    "link": "https://github.com/ofdryads/miniageOS",
-    "source": "Hacker News",
-    "published": "2026-08-20T04:07:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49370284\">Comments</a>"
-  },
-  {
-    "title": "What's in a PowerPoint File?",
-    "link": "https://editide.com/blog/what-is-a-pptx-file/",
-    "source": "Hacker News",
-    "published": "2026-08-19T12:28:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49360643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364296\">Comments</a>"
   },
   {
     "title": "RF Cafe",
@@ -150,6 +134,22 @@
     "published": "2026-08-19T02:05:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49355659\">Comments</a>"
+  },
+  {
+    "title": "Mythic's analog compute-in-memory architecture",
+    "link": "https://www.mythic.ai",
+    "source": "Hacker News",
+    "published": "2026-08-18T20:47:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49352470\">Comments</a>"
+  },
+  {
+    "title": "Hister \u2013 A private, full content search index that you control",
+    "link": "https://hister.org/",
+    "source": "Hacker News",
+    "published": "2026-08-18T20:00:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49351802\">Comments</a>"
   },
   {
     "title": "typ.ing",
