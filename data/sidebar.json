@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Golden Rule for Becoming a Better Writer",
+    "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "source": "Hacker News",
+    "published": "2026-08-23T03:32:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405870\">Comments</a>"
+  },
+  {
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "link": "https://martypc.net/",
+    "source": "Hacker News",
+    "published": "2026-08-23T03:13:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405816\">Comments</a>"
+  },
+  {
+    "title": "I Dream of Quieter Computing",
+    "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "source": "Hacker News",
+    "published": "2026-08-23T02:33:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405682\">Comments</a>"
+  },
+  {
+    "title": "The Art and Beauty of Blade Runner",
+    "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "source": "Hacker News",
+    "published": "2026-08-23T00:56:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405331\">Comments</a>"
+  },
+  {
     "title": "NanoGPT Speedrun Frontier",
     "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
@@ -16,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49402781\">Comments</a>"
   },
   {
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-    "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "source": "Hacker News",
-    "published": "2026-08-22T19:04:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402741\">Comments</a>"
-  },
-  {
     "title": "Why your local LLM feels dumber than it is",
     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "published": "2026-08-22T18:14:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>"
-  },
-  {
-    "title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers",
-    "link": "https://marcua.net/minitools/figmimic/",
-    "source": "Hacker News",
-    "published": "2026-08-22T18:11:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402213\">Comments</a>"
   },
   {
     "title": "Thinking in Python",
@@ -54,14 +70,6 @@
     "published": "2026-08-22T18:08:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49402189\">Comments</a>"
-  },
-  {
-    "title": "I set a trap for a book-marketing scammer (2025)",
-    "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-    "source": "Hacker News",
-    "published": "2026-08-22T18:08:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402181\">Comments</a>"
   },
   {
     "title": "Reading Maps \u2013 Journeys from fiction drawn on the real world",
@@ -88,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49399898\">Comments</a>"
   },
   {
-    "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-    "link": "https://munderdiffl.in/",
-    "source": "Hacker News",
-    "published": "2026-08-22T09:49:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49398152\">Comments</a>"
-  },
-  {
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
     "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "source": "Hacker News",
@@ -112,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49393051\">Comments</a>"
   },
   {
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+    "link": "https://www.pianoify.net/",
+    "source": "Hacker News",
+    "published": "2026-08-21T15:44:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389846\">Comments</a>"
+  },
+  {
     "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
     "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
     "source": "Hacker News",
@@ -126,14 +134,6 @@
     "published": "2026-08-20T20:22:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49379732\">Comments</a>"
-  },
-  {
-    "title": "Autolith: A programming agent with a live runtime",
-    "link": "https://www.lambda-symbolics.com/autolith",
-    "source": "Hacker News",
-    "published": "2026-08-20T15:40:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49376197\">Comments</a>"
   },
   {
     "title": "RF Cafe",
