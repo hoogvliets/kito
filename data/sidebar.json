@@ -1,5 +1,77 @@
 [
   {
+    "title": "Decoding silent reading from non-invasive EEG",
+    "link": "https://arxiv.org/abs/2608.20186",
+    "source": "Hacker News",
+    "published": "2026-08-23T20:13:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412176\">Comments</a>"
+  },
+  {
+    "title": "How I find problems to solve as a staff engineer",
+    "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "source": "Hacker News",
+    "published": "2026-08-23T19:23:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>"
+  },
+  {
+    "title": "Fable and the End of the Free Lunch",
+    "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "source": "Hacker News",
+    "published": "2026-08-23T19:06:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411468\">Comments</a>"
+  },
+  {
+    "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+    "link": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+    "source": "Hacker News",
+    "published": "2026-08-23T18:55:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411395\">Comments</a>"
+  },
+  {
+    "title": "The Vibe Tax",
+    "link": "https://insufferable.dev/posts/vibe-tax/",
+    "source": "Hacker News",
+    "published": "2026-08-23T18:31:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411199\">Comments</a>"
+  },
+  {
+    "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+    "source": "Hacker News",
+    "published": "2026-08-23T18:27:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411178\">Comments</a>"
+  },
+  {
+    "title": "Explain it to me like I'm ten",
+    "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+    "source": "Hacker News",
+    "published": "2026-08-23T18:08:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411020\">Comments</a>"
+  },
+  {
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "source": "Hacker News",
+    "published": "2026-08-23T17:59:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>"
+  },
+  {
+    "title": "The Remote Work Challenge: Lessons from 5 Cities",
+    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "source": "Hacker News",
+    "published": "2026-08-23T17:15:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410545\">Comments</a>"
+  },
+  {
     "title": "A website for debloated open source alternatives",
     "link": "https://debloat.dev/",
     "source": "Hacker News",
@@ -8,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49410362\">Comments</a>"
   },
   {
-    "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
-    "link": "https://reinvently.co.uk/tools/ed-o-meter/",
+    "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12\u00b0F",
+    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
     "source": "Hacker News",
-    "published": "2026-08-23T16:24:21+00:00",
+    "published": "2026-08-23T16:43:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410097\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410250\">Comments</a>"
   },
   {
     "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
@@ -38,14 +110,6 @@
     "published": "2026-08-23T15:13:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49409473\">Comments</a>"
-  },
-  {
-    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-    "link": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-    "source": "Hacker News",
-    "published": "2026-08-23T14:39:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49409210\">Comments</a>"
   },
   {
     "title": "Slovakia finds Russian backdoor in traffic speed cameras",
@@ -88,75 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49408550\">Comments</a>"
   },
   {
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "source": "Hacker News",
-    "published": "2026-08-23T10:02:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49407507\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "link": "https://skylens.yantraai.app/",
-    "source": "Hacker News",
-    "published": "2026-08-23T09:27:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49407309\">Comments</a>"
-  },
-  {
     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
     "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
     "source": "Hacker News",
     "published": "2026-08-23T06:41:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49406539\">Comments</a>"
-  },
-  {
-    "title": "JIT Compiling Code in 5\u03bcs",
-    "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "source": "Hacker News",
-    "published": "2026-08-23T06:04:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49406387\">Comments</a>"
-  },
-  {
-    "title": "The End of an Athlon",
-    "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "source": "Hacker News",
-    "published": "2026-08-23T05:51:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49406333\">Comments</a>"
-  },
-  {
-    "title": "To become a better writer, read as much as you can",
-    "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "source": "Hacker News",
-    "published": "2026-08-23T03:32:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405870\">Comments</a>"
-  },
-  {
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "link": "https://martypc.net/",
-    "source": "Hacker News",
-    "published": "2026-08-23T03:13:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405816\">Comments</a>"
-  },
-  {
-    "title": "Things I want in a modern relational query language",
-    "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "source": "Hacker News",
-    "published": "2026-08-22T18:38:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402491\">Comments</a>"
-  },
-  {
-    "title": "Why your local LLM feels dumber than it is",
-    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "source": "Hacker News",
-    "published": "2026-08-22T18:14:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>"
   }
 ]
