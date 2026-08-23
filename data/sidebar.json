@@ -1,22 +1,22 @@
 [
   {
-    "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-    "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+    "title": "NanoGPT Speedrun Frontier",
+    "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
-    "published": "2026-08-22T20:21:14+00:00",
+    "published": "2026-08-22T22:14:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49403484\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49404380\">Comments</a>"
   },
   {
-    "title": "Fast and Hard Code",
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "English \u2194 Claudish Translator",
+    "link": "https://programasweights.com/claudish",
     "source": "Hacker News",
-    "published": "2026-08-22T19:56:38+00:00",
+    "published": "2026-08-22T19:19:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49403228\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402907\">Comments</a>"
   },
   {
-    "title": "NetBSD and My Life (2005)",
+    "title": "NetBSD and my life (2005)",
     "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "published": "2026-08-22T19:07:46+00:00",
@@ -32,20 +32,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49402741\">Comments</a>"
   },
   {
-    "title": "Show HN: Make your logo extra bright on HDR screens",
-    "link": "https://www.soverybright.com/",
-    "source": "Hacker News",
-    "published": "2026-08-22T18:43:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402521\">Comments</a>"
-  },
-  {
     "title": "Why your local LLM feels dumber than it is",
     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "published": "2026-08-22T18:14:16+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>"
+  },
+  {
+    "title": "Thinking in Python by Bruce Eckel",
+    "link": "https://thinkinginpython.com/",
+    "source": "Hacker News",
+    "published": "2026-08-22T18:10:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49402202\">Comments</a>"
   },
   {
     "title": "Scrap",
@@ -88,6 +88,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49397074\">Comments</a>"
   },
   {
+    "title": "A week of using Codex more than Claude",
+    "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "source": "Hacker News",
+    "published": "2026-08-21T19:51:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49393051\">Comments</a>"
+  },
+  {
     "title": "One night in Uzbekistan: Why was this one data point so influential?",
     "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
     "source": "Hacker News",
@@ -112,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49379732\">Comments</a>"
   },
   {
-    "title": "Why it might be time to rethink the human family tree",
-    "link": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+    "title": "Conway's Game of Life in real life",
+    "link": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
     "source": "Hacker News",
-    "published": "2026-08-20T17:07:36+00:00",
+    "published": "2026-08-20T12:40:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49377316\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49373822\">Comments</a>"
   },
   {
-    "title": "Show HN: terminal-code \u2013 VS Code inside the terminal",
-    "link": "https://terminal-code.com",
+    "title": "What's in a PowerPoint File?",
+    "link": "https://editide.com/blog/what-is-a-pptx-file/",
     "source": "Hacker News",
-    "published": "2026-08-19T17:13:11+00:00",
+    "published": "2026-08-19T12:28:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364296\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49360643\">Comments</a>"
   },
   {
     "title": "RF Cafe",
@@ -134,14 +142,6 @@
     "published": "2026-08-19T02:05:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49355659\">Comments</a>"
-  },
-  {
-    "title": "Mythic's analog compute-in-memory architecture",
-    "link": "https://www.mythic.ai",
-    "source": "Hacker News",
-    "published": "2026-08-18T20:47:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49352470\">Comments</a>"
   },
   {
     "title": "Hister \u2013 A private, full content search index that you control",
