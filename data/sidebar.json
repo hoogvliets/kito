@@ -1,11 +1,123 @@
 [
   {
-    "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-    "link": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+    "title": "Claude Code Tips",
+    "link": "https://github.com/ykdojo/claude-code-tips",
     "source": "Hacker News",
-    "published": "2026-08-24T15:10:25+00:00",
+    "published": "2026-08-24T17:53:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420902\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49423500\">Comments</a>"
+  },
+  {
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "link": "https://www.ycombinator.com/companies/autostep/jobs",
+    "source": "Hacker News",
+    "published": "2026-08-24T17:53:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49423495\">Comments</a>"
+  },
+  {
+    "title": "Where Did All the Public Bathrooms Go?",
+    "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+    "source": "Hacker News",
+    "published": "2026-08-24T17:07:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422800\">Comments</a>"
+  },
+  {
+    "title": "The entire city of San Francisco as a video game",
+    "link": "https://sf.thijs.gg/",
+    "source": "Hacker News",
+    "published": "2026-08-24T17:05:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422784\">Comments</a>"
+  },
+  {
+    "title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:52:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422548\">Comments</a>"
+  },
+  {
+    "title": "EuroHPC Launches 6 Quantum Calls with \u20ac119M in Funding",
+    "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:46:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422481\">Comments</a>"
+  },
+  {
+    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "link": "https://arxiv.org/abs/2608.16603",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:30:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422227\">Comments</a>"
+  },
+  {
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:29:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422204\">Comments</a>"
+  },
+  {
+    "title": "Show HN: GlassBox \u2013 what the browser reveals, and how identifiable you are",
+    "link": "https://glassbox.codecanary.org",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:15:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421948\">Comments</a>"
+  },
+  {
+    "title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+    "link": "https://picomq.com/",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:08:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421806\">Comments</a>"
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "Hacker News",
+    "published": "2026-08-24T15:52:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421554\">Comments</a>"
+  },
+  {
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "Hacker News",
+    "published": "2026-08-24T15:51:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421536\">Comments</a>"
+  },
+  {
+    "title": "IPFS Maintainers Winding Down",
+    "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "source": "Hacker News",
+    "published": "2026-08-24T15:48:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421489\">Comments</a>"
+  },
+  {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "published": "2026-08-24T15:28:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421158\">Comments</a>"
+  },
+  {
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "link": "https://developers.openai.com/api/docs/pricing",
+    "source": "Hacker News",
+    "published": "2026-08-24T15:22:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421074\">Comments</a>"
   },
   {
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
@@ -24,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49420592\">Comments</a>"
   },
   {
-    "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-    "link": "https://ssx360.github.io/rack-02/?src=hn",
-    "source": "Hacker News",
-    "published": "2026-08-24T13:17:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419351\">Comments</a>"
-  },
-  {
     "title": "How Europe is killing makers and micro-entrepreneurs",
     "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
     "source": "Hacker News",
@@ -48,115 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49418255\">Comments</a>"
   },
   {
-    "title": "Why older tech is sometimes safer from hackers",
-    "link": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-    "source": "Hacker News",
-    "published": "2026-08-24T11:23:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418184\">Comments</a>"
-  },
-  {
-    "title": "Agent Is Not the Model",
-    "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "source": "Hacker News",
-    "published": "2026-08-24T11:20:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418163\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Vanilla OS 3 Reunion \u2013 Immutable and Reproducible Operating System",
-    "link": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
-    "source": "Hacker News",
-    "published": "2026-08-24T10:18:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49417684\">Comments</a>"
-  },
-  {
-    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-    "source": "Hacker News",
-    "published": "2026-08-24T09:45:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49417394\">Comments</a>"
-  },
-  {
-    "title": "Fast drilldown dashboards from a single Parquet file",
-    "link": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "source": "Hacker News",
-    "published": "2026-08-24T08:13:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49416652\">Comments</a>"
-  },
-  {
-    "title": "Andreessen Horowitz is investing billions into a bleak future",
-    "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "source": "Hacker News",
-    "published": "2026-08-24T06:57:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49416055\">Comments</a>"
-  },
-  {
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "source": "Hacker News",
-    "published": "2026-08-24T06:30:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415893\">Comments</a>"
-  },
-  {
-    "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-    "link": "https://github.com/thiagotigaz/ocr-it",
-    "source": "Hacker News",
-    "published": "2026-08-24T06:25:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415852\">Comments</a>"
-  },
-  {
-    "title": "Executable Is a SQLite Database",
-    "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "source": "Hacker News",
-    "published": "2026-08-24T04:48:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415271\">Comments</a>"
-  },
-  {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "link": "https://pantel.is/projects/ai-gaming-companion/",
-    "source": "Hacker News",
-    "published": "2026-08-23T23:18:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49413561\">Comments</a>"
-  },
-  {
-    "title": "Everything I own, owned",
-    "link": "https://schlarp.com/posts/everything-i-own-owned/",
-    "source": "Hacker News",
-    "published": "2026-08-23T22:41:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>"
-  },
-  {
     "title": "I were 17, I'd learn how to build LLMs from scratch",
     "link": "https://twitter.com/paulg/status/2091544343589060625",
     "source": "Hacker News",
     "published": "2026-08-23T20:38:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49412396\">Comments</a>"
-  },
-  {
-    "title": "How I find problems to solve as a staff engineer",
-    "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "source": "Hacker News",
-    "published": "2026-08-23T19:23:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>"
-  },
-  {
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "source": "Hacker News",
-    "published": "2026-08-23T18:16:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>"
   }
 ]
