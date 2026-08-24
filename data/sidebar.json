@@ -1,11 +1,51 @@
 [
   {
+    "title": "Everything I own, owned",
+    "link": "https://schlarp.com/posts/everything-i-own-owned/",
+    "source": "Hacker News",
+    "published": "2026-08-23T22:41:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>"
+  },
+  {
+    "title": "Implementation of GPT-2 in pure CMake",
+    "link": "https://github.com/AlpinDale/gpt2.cmake",
+    "source": "Hacker News",
+    "published": "2026-08-23T21:41:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412909\">Comments</a>"
+  },
+  {
+    "title": "Declarative WebGPU with S-Expressions",
+    "link": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "source": "Hacker News",
+    "published": "2026-08-23T20:47:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412467\">Comments</a>"
+  },
+  {
+    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+    "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "source": "Hacker News",
+    "published": "2026-08-23T20:30:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412328\">Comments</a>"
+  },
+  {
     "title": "Decoding silent reading from non-invasive EEG",
     "link": "https://arxiv.org/abs/2608.20186",
     "source": "Hacker News",
     "published": "2026-08-23T20:13:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49412176\">Comments</a>"
+  },
+  {
+    "title": "Google Workspace thinks my domain is an email provider (2025)",
+    "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "source": "Hacker News",
+    "published": "2026-08-23T19:29:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411717\">Comments</a>"
   },
   {
     "title": "How I find problems to solve as a staff engineer",
@@ -16,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>"
   },
   {
-    "title": "Fable and the End of the Free Lunch",
-    "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "source": "Hacker News",
-    "published": "2026-08-23T19:06:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411468\">Comments</a>"
-  },
-  {
     "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
     "link": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
     "source": "Hacker News",
@@ -32,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49411395\">Comments</a>"
   },
   {
-    "title": "The Vibe Tax",
-    "link": "https://insufferable.dev/posts/vibe-tax/",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
     "source": "Hacker News",
-    "published": "2026-08-23T18:31:02+00:00",
+    "published": "2026-08-23T18:16:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411199\">Comments</a>"
-  },
-  {
-    "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "source": "Hacker News",
-    "published": "2026-08-23T18:27:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411178\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>"
   },
   {
     "title": "Explain it to me like I'm ten",
@@ -64,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>"
   },
   {
-    "title": "The Remote Work Challenge: Lessons from 5 Cities",
-    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-    "source": "Hacker News",
-    "published": "2026-08-23T17:15:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410545\">Comments</a>"
-  },
-  {
     "title": "A website for debloated open source alternatives",
     "link": "https://debloat.dev/",
     "source": "Hacker News",
@@ -80,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49410362\">Comments</a>"
   },
   {
-    "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12\u00b0F",
-    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "title": "Kodak DC50 now usable on the Apple II",
+    "link": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
     "source": "Hacker News",
-    "published": "2026-08-23T16:43:19+00:00",
+    "published": "2026-08-23T16:25:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410250\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410111\">Comments</a>"
   },
   {
     "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49409862\">Comments</a>"
   },
   {
-    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-    "link": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-    "source": "Hacker News",
-    "published": "2026-08-23T15:50:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49409780\">Comments</a>"
-  },
-  {
     "title": "How Complex Systems Fail (1998)",
     "link": "https://how.complexsystems.fail/",
     "source": "Hacker News",
@@ -112,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49409473\">Comments</a>"
   },
   {
-    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-    "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-    "source": "Hacker News",
-    "published": "2026-08-23T14:38:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49409200\">Comments</a>"
-  },
-  {
     "title": "What Is a Harness?",
     "link": "https://earendil.com/posts/what-is-a-harness/",
     "source": "Hacker News",
     "published": "2026-08-23T14:24:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49409092\">Comments</a>"
-  },
-  {
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "link": "https://ericpardee.github.io/fire-hd-ownership/",
-    "source": "Hacker News",
-    "published": "2026-08-23T14:23:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49409073\">Comments</a>"
   },
   {
     "title": "My favorite nonfiction books about cults, scams, and schemes",
@@ -158,5 +150,13 @@
     "published": "2026-08-23T06:41:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49406539\">Comments</a>"
+  },
+  {
+    "title": "AI Chip Architectures",
+    "link": "https://www.jepeake.com/ai-chip-architectures",
+    "source": "Hacker News",
+    "published": "2026-08-23T02:25:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405657\">Comments</a>"
   }
 ]
