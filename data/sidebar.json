@@ -1,11 +1,51 @@
 [
   {
-    "title": "Nearly 3M Teslas recalled in China over hidden door handles",
-    "link": "https://www.bbc.com/news/articles/c4g6ggdg030o",
+    "title": "Over 5,200 Ebola cases recorded in Congo",
+    "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
     "source": "Hacker News",
-    "published": "2026-08-24T04:27:57+00:00",
+    "published": "2026-08-24T07:03:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415187\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49416097\">Comments</a>"
+  },
+  {
+    "title": "Andreessen Horowitz is investing billions into a bleak future",
+    "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "source": "Hacker News",
+    "published": "2026-08-24T06:57:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49416055\">Comments</a>"
+  },
+  {
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "source": "Hacker News",
+    "published": "2026-08-24T06:30:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415893\">Comments</a>"
+  },
+  {
+    "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+    "link": "https://github.com/thiagotigaz/ocr-it",
+    "source": "Hacker News",
+    "published": "2026-08-24T06:25:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415852\">Comments</a>"
+  },
+  {
+    "title": "New EU-wide product repair rules come into force",
+    "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "source": "Hacker News",
+    "published": "2026-08-24T05:47:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415621\">Comments</a>"
+  },
+  {
+    "title": "Executable Is a SQLite Database",
+    "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "source": "Hacker News",
+    "published": "2026-08-24T04:48:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49415271\">Comments</a>"
   },
   {
     "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
@@ -14,14 +54,6 @@
     "published": "2026-08-24T01:33:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49414338\">Comments</a>"
-  },
-  {
-    "title": "The first search engine for Internet-connected devices",
-    "link": "https://www.shodan.io/",
-    "source": "Hacker News",
-    "published": "2026-08-24T00:52:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49414096\">Comments</a>"
   },
   {
     "title": "I built a low-latency AI companion that plays Skyrim with me",
@@ -40,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>"
   },
   {
-    "title": "Implementation of GPT-2 in pure CMake",
-    "link": "https://github.com/AlpinDale/gpt2.cmake",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "link": "https://twitter.com/paulg/status/2091544343589060625",
     "source": "Hacker News",
-    "published": "2026-08-23T21:41:17+00:00",
+    "published": "2026-08-23T20:38:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412909\">Comments</a>"
-  },
-  {
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-    "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "source": "Hacker News",
-    "published": "2026-08-23T20:30:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412328\">Comments</a>"
-  },
-  {
-    "title": "Decoding silent reading from non-invasive EEG",
-    "link": "https://arxiv.org/abs/2608.20186",
-    "source": "Hacker News",
-    "published": "2026-08-23T20:13:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412176\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49412396\">Comments</a>"
   },
   {
     "title": "Google Workspace thinks my domain is an email provider (2025)",
@@ -80,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>"
   },
   {
+    "title": "Fable and the end of the free lunch",
+    "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "source": "Hacker News",
+    "published": "2026-08-23T19:06:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411468\">Comments</a>"
+  },
+  {
     "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
     "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
     "source": "Hacker News",
@@ -88,44 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>"
   },
   {
-    "title": "Explain it to me like I'm ten",
-    "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-    "source": "Hacker News",
-    "published": "2026-08-23T18:08:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411020\">Comments</a>"
-  },
-  {
     "title": "My agent.md to improve LLM-assisted code quality",
     "link": "https://fabiensanglard.net/agent.md/index.html",
     "source": "Hacker News",
     "published": "2026-08-23T17:59:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>"
-  },
-  {
-    "title": "A website for debloated open source alternatives",
-    "link": "https://debloat.dev/",
-    "source": "Hacker News",
-    "published": "2026-08-23T16:54:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410362\">Comments</a>"
-  },
-  {
-    "title": "Kodak DC50 now usable on the Apple II",
-    "link": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-    "source": "Hacker News",
-    "published": "2026-08-23T16:25:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410111\">Comments</a>"
-  },
-  {
-    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-    "link": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-    "source": "Hacker News",
-    "published": "2026-08-23T15:59:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49409862\">Comments</a>"
   },
   {
     "title": "How Complex Systems Fail (1998)",
@@ -158,5 +150,13 @@
     "published": "2026-08-23T13:05:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49408550\">Comments</a>"
+  },
+  {
+    "title": "AI Chip Architectures",
+    "link": "https://www.jepeake.com/ai-chip-architectures",
+    "source": "Hacker News",
+    "published": "2026-08-23T02:25:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49405657\">Comments</a>"
   }
 ]
