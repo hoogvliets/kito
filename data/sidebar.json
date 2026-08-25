@@ -1,14 +1,102 @@
 [
   {
-    "title": "How much of HN is AI?",
-    "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "title": "Dolly Parton, US country star, actor and philanthropist, dies aged 80",
+    "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
-    "published": "2026-08-25T15:23:41+00:00",
+    "published": "2026-08-25T18:02:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435728\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49438052\">Comments</a>"
   },
   {
-    "title": "Beyond Good and Evil: Nietzsche and the Great War",
+    "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+    "source": "Hacker News",
+    "published": "2026-08-25T17:28:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437566\">Comments</a>"
+  },
+  {
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "source": "Hacker News",
+    "published": "2026-08-25T17:23:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437483\">Comments</a>"
+  },
+  {
+    "title": "Lightweight system monitor for Linux VPS written in Go",
+    "link": "https://github.com/leodeim/vpsmon",
+    "source": "Hacker News",
+    "published": "2026-08-25T17:13:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437361\">Comments</a>"
+  },
+  {
+    "title": "Nitter project received cease and desist",
+    "link": "https://github.com/zedeus/nitter/issues/1442",
+    "source": "Hacker News",
+    "published": "2026-08-25T17:08:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437283\">Comments</a>"
+  },
+  {
+    "title": "Black hole singularity is a surface not a point",
+    "link": "https://arxiv.org/abs/2608.21590",
+    "source": "Hacker News",
+    "published": "2026-08-25T17:02:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437210\">Comments</a>"
+  },
+  {
+    "title": "A new ceiling for \u039b: the de Bruijn\u2013Newman constant",
+    "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:59:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437165\">Comments</a>"
+  },
+  {
+    "title": "My Friend Aaron",
+    "link": "https://rorz.io/writing/my-friend-aaron",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:53:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437069\">Comments</a>"
+  },
+  {
+    "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
+    "link": "https://github.com/jeffhajewski/latticedb",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:52:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437049\">Comments</a>"
+  },
+  {
+    "title": "Tooltips need a delay, and then they need to skip it",
+    "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:35:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49436786\">Comments</a>"
+  },
+  {
+    "title": "Run Minecraft in a Windows sandbox for computer use agents",
+    "link": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:09:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49436400\">Comments</a>"
+  },
+  {
+    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "source": "Hacker News",
+    "published": "2026-08-25T15:26:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435781\">Comments</a>"
+  },
+  {
+    "title": "Otto Dix, Nietzsche, and the Great War (2019)",
     "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
     "source": "Hacker News",
     "published": "2026-08-25T15:09:20+00:00",
@@ -16,15 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49435495\">Comments</a>"
   },
   {
-    "title": "Apple Releases New Polishing Cloth",
-    "link": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
-    "source": "Hacker News",
-    "published": "2026-08-25T14:30:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434830\">Comments</a>"
-  },
-  {
-    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
     "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
     "source": "Hacker News",
     "published": "2026-08-25T14:29:32+00:00",
@@ -40,15 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49434645\">Comments</a>"
   },
   {
-    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-    "source": "Hacker News",
-    "published": "2026-08-25T14:18:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434613\">Comments</a>"
-  },
-  {
-    "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+    "title": "New Mac mini, featuring M6 and M5 Pro",
     "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "source": "Hacker News",
     "published": "2026-08-25T13:13:00+00:00",
@@ -56,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49433450\">Comments</a>"
   },
   {
-    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
     "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
     "source": "Hacker News",
     "published": "2026-08-25T13:03:17+00:00",
@@ -64,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49433316\">Comments</a>"
   },
   {
-    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "title": "Apple introduces M6 and M5 Ultra",
     "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
     "source": "Hacker News",
     "published": "2026-08-25T13:01:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49433292\">Comments</a>"
-  },
-  {
-    "title": "France's tax agency got hacked (in French)",
-    "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-    "source": "Hacker News",
-    "published": "2026-08-25T12:44:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433064\">Comments</a>"
   },
   {
     "title": "Don't Wordle",
@@ -88,75 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49432319\">Comments</a>"
   },
   {
-    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-    "link": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-    "source": "Hacker News",
-    "published": "2026-08-25T11:49:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432317\">Comments</a>"
-  },
-  {
-    "title": "HelloAssembly The smallest possible complete Windows application",
+    "title": "HelloAssembly: The smallest possible complete Windows application (2021)",
     "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
     "source": "Hacker News",
     "published": "2026-08-25T11:40:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49432227\">Comments</a>"
-  },
-  {
-    "title": "SiFive's First Server Platform",
-    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-    "source": "Hacker News",
-    "published": "2026-08-25T03:06:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428638\">Comments</a>"
-  },
-  {
-    "title": "How Universities Should Prepare Founders",
-    "link": "https://paulgraham.com/prepare.html",
-    "source": "Hacker News",
-    "published": "2026-08-25T01:40:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428121\">Comments</a>"
-  },
-  {
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "source": "Hacker News",
-    "published": "2026-08-24T22:13:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49426564\">Comments</a>"
-  },
-  {
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "source": "Hacker News",
-    "published": "2026-08-24T15:28:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421158\">Comments</a>"
-  },
-  {
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "link": "https://twitter.com/lemire/status/2091894299289874926",
-    "source": "Hacker News",
-    "published": "2026-08-24T15:08:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420873\">Comments</a>"
-  },
-  {
-    "title": "What's new in Emacs 31.1",
-    "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-    "source": "Hacker News",
-    "published": "2026-08-24T13:07:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419252\">Comments</a>"
-  },
-  {
-    "title": "How Europe is killing makers and micro-entrepreneurs",
-    "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-    "source": "Hacker News",
-    "published": "2026-08-24T13:05:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419237\">Comments</a>"
   }
 ]
