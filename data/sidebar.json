@@ -1,35 +1,107 @@
 [
   {
+    "title": "How much of HN is AI?",
+    "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "source": "Hacker News",
+    "published": "2026-08-25T15:23:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435728\">Comments</a>"
+  },
+  {
+    "title": "Beyond Good and Evil: Nietzsche and the Great War",
+    "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+    "source": "Hacker News",
+    "published": "2026-08-25T15:09:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435495\">Comments</a>"
+  },
+  {
+    "title": "Apple Releases New Polishing Cloth",
+    "link": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+    "source": "Hacker News",
+    "published": "2026-08-25T14:30:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434830\">Comments</a>"
+  },
+  {
+    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+    "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "source": "Hacker News",
+    "published": "2026-08-25T14:29:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434820\">Comments</a>"
+  },
+  {
+    "title": "Building a backyard office, the build and cost breakdown",
+    "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+    "source": "Hacker News",
+    "published": "2026-08-25T14:20:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434645\">Comments</a>"
+  },
+  {
+    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+    "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+    "source": "Hacker News",
+    "published": "2026-08-25T14:18:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49434613\">Comments</a>"
+  },
+  {
+    "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+    "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:13:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433450\">Comments</a>"
+  },
+  {
+    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:03:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433316\">Comments</a>"
+  },
+  {
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:01:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433292\">Comments</a>"
+  },
+  {
+    "title": "France's tax agency got hacked (in French)",
+    "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "source": "Hacker News",
+    "published": "2026-08-25T12:44:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433064\">Comments</a>"
+  },
+  {
+    "title": "Don't Wordle",
+    "link": "https://dontwordle.com/",
+    "source": "Hacker News",
+    "published": "2026-08-25T11:49:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432319\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+    "link": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+    "source": "Hacker News",
+    "published": "2026-08-25T11:49:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432317\">Comments</a>"
+  },
+  {
     "title": "HelloAssembly The smallest possible complete Windows application",
     "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
     "source": "Hacker News",
     "published": "2026-08-25T11:40:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49432227\">Comments</a>"
-  },
-  {
-    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-    "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "source": "Hacker News",
-    "published": "2026-08-25T11:37:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432201\">Comments</a>"
-  },
-  {
-    "title": "Quantum battery upends the rules of charging",
-    "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-    "source": "Hacker News",
-    "published": "2026-08-25T10:34:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49431560\">Comments</a>"
-  },
-  {
-    "title": "Headlong: A Microharness for Persistent Agents",
-    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "source": "Hacker News",
-    "published": "2026-08-25T03:54:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428882\">Comments</a>"
   },
   {
     "title": "SiFive's First Server Platform",
@@ -48,52 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49428121\">Comments</a>"
   },
   {
-    "title": "Bookshelf \u2013 Self-hosted eBook library that runs on object storage",
-    "link": "https://github.com/murerkinn/bookshelf",
-    "source": "Hacker News",
-    "published": "2026-08-24T23:00:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49427001\">Comments</a>"
-  },
-  {
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
     "link": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "published": "2026-08-24T22:13:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49426564\">Comments</a>"
-  },
-  {
-    "title": "Moon (2024)",
-    "link": "https://ciechanow.ski/moon/",
-    "source": "Hacker News",
-    "published": "2026-08-24T22:06:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49426466\">Comments</a>"
-  },
-  {
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "source": "Hacker News",
-    "published": "2026-08-24T21:01:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49425800\">Comments</a>"
-  },
-  {
-    "title": "Where did all the public bathrooms go?",
-    "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-    "source": "Hacker News",
-    "published": "2026-08-24T17:07:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422800\">Comments</a>"
-  },
-  {
-    "title": "The entire city of San Francisco as a video game",
-    "link": "https://sf.thijs.gg/",
-    "source": "Hacker News",
-    "published": "2026-08-24T17:05:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422784\">Comments</a>"
   },
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -112,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49420873\">Comments</a>"
   },
   {
-    "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-    "source": "Hacker News",
-    "published": "2026-08-24T14:44:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420530\">Comments</a>"
-  },
-  {
     "title": "What's new in Emacs 31.1",
     "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
     "source": "Hacker News",
@@ -134,29 +158,5 @@
     "published": "2026-08-24T13:05:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49419237\">Comments</a>"
-  },
-  {
-    "title": "Training AI to Paint with Code",
-    "link": "https://surya.website/rling-qwen-to-paint-with-code",
-    "source": "Hacker News",
-    "published": "2026-08-23T19:39:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49411800\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-    "link": "https://tarjan.itch.io/thoreaubasic",
-    "source": "Hacker News",
-    "published": "2026-08-23T17:48:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410814\">Comments</a>"
-  },
-  {
-    "title": "Nostr is an inclusive communication commons",
-    "link": "https://nostr.org/",
-    "source": "Hacker News",
-    "published": "2026-08-22T13:49:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49399722\">Comments</a>"
   }
 ]
