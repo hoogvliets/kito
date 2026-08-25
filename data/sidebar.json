@@ -1,11 +1,27 @@
 [
   {
-    "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "link": "https://github.com/dragthelake/ambient-context",
     "source": "Hacker News",
-    "published": "2026-08-25T02:11:39+00:00",
+    "published": "2026-08-25T04:33:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428318\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49429095\">Comments</a>"
+  },
+  {
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "source": "Hacker News",
+    "published": "2026-08-25T03:54:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428882\">Comments</a>"
+  },
+  {
+    "title": "SiFive's First Server Platform",
+    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+    "source": "Hacker News",
+    "published": "2026-08-25T03:06:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49428638\">Comments</a>"
   },
   {
     "title": "How Universities Should Prepare Founders",
@@ -16,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49428121\">Comments</a>"
   },
   {
-    "title": "Was Modern Art a CIA Psy-Op? (2020)",
+    "title": "Was modern art a CIA psy-op? (2020)",
     "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "published": "2026-08-25T01:35:00+00:00",
@@ -48,46 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49426466\">Comments</a>"
   },
   {
-    "title": "One corner of China\u2019s internet is insisting that the Tang Dynasty never existed",
-    "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-    "source": "Hacker News",
-    "published": "2026-08-24T21:03:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49425819\">Comments</a>"
-  },
-  {
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "source": "Hacker News",
-    "published": "2026-08-24T21:01:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49425800\">Comments</a>"
-  },
-  {
-    "title": "Oceans hit highest temperature on record",
-    "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-    "source": "Hacker News",
-    "published": "2026-08-24T19:19:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49424606\">Comments</a>"
-  },
-  {
-    "title": "LLMs could control their host machines by exploiting inference engines",
-    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "source": "Hacker News",
-    "published": "2026-08-24T19:03:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49424387\">Comments</a>"
-  },
-  {
-    "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-    "source": "Hacker News",
-    "published": "2026-08-24T17:57:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49423539\">Comments</a>"
-  },
-  {
     "title": "Where did all the public bathrooms go?",
     "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
@@ -104,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49422784\">Comments</a>"
   },
   {
+    "title": "Ox-Alpha Is GLM?",
+    "link": "https://dejan.ai/blog/ox-alpha/",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:30:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422226\">Comments</a>"
+  },
+  {
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
     "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "published": "2026-08-24T15:51:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49421536\">Comments</a>"
-  },
-  {
-    "title": "IPFS Maintainers Winding Down",
-    "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "source": "Hacker News",
-    "published": "2026-08-24T15:48:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49421489\">Comments</a>"
   },
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -136,12 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49420873\">Comments</a>"
   },
   {
-    "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+    "title": "Walgit \u2013 a Git server that is one binary in front of an object store",
+    "link": "https://github.com/tobi/walgit",
     "source": "Hacker News",
-    "published": "2026-08-24T14:44:55+00:00",
+    "published": "2026-08-24T14:49:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420530\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420598\">Comments</a>"
+  },
+  {
+    "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+    "link": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "source": "Hacker News",
+    "published": "2026-08-24T14:15:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420116\">Comments</a>"
+  },
+  {
+    "title": "What's new in Emacs 31.1",
+    "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "source": "Hacker News",
+    "published": "2026-08-24T13:07:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419252\">Comments</a>"
   },
   {
     "title": "How Europe is killing makers and micro-entrepreneurs",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49419237\">Comments</a>"
   },
   {
-    "title": "SeL4 security proofs now complete on AArch64",
-    "link": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+    "link": "https://tarjan.itch.io/thoreaubasic",
     "source": "Hacker News",
-    "published": "2026-08-24T11:32:51+00:00",
+    "published": "2026-08-23T17:48:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418255\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49410814\">Comments</a>"
+  },
+  {
+    "title": "Nostr is an inclusive communication commons",
+    "link": "https://nostr.org/",
+    "source": "Hacker News",
+    "published": "2026-08-22T13:49:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49399722\">Comments</a>"
   }
 ]
