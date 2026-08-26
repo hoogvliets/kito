@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+    "link": "https://news.ycombinator.com/item?id=49443820",
+    "source": "Hacker News",
+    "published": "2026-08-26T03:17:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49443820\">Comments</a>"
+  },
+  {
+    "title": "The brain may be about to have its Ozempic moment",
+    "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+    "source": "Hacker News",
+    "published": "2026-08-26T00:40:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49442743\">Comments</a>"
+  },
+  {
+    "title": "Queryable Executables",
+    "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "source": "Hacker News",
+    "published": "2026-08-26T00:20:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49442589\">Comments</a>"
+  },
+  {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "link": "https://github.com/runetes/maiao",
     "source": "Hacker News",
@@ -14,22 +38,6 @@
     "published": "2026-08-25T22:08:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49441375\">Comments</a>"
-  },
-  {
-    "title": "Python's pre-declared constants are kinda weird",
-    "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "source": "Hacker News",
-    "published": "2026-08-25T21:39:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49441033\">Comments</a>"
-  },
-  {
-    "title": "XCancel also down, at least for time being",
-    "link": "https://news.ycombinator.com/item?id=49440786",
-    "source": "Hacker News",
-    "published": "2026-08-25T21:18:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49440786\">Comments</a>"
   },
   {
     "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
@@ -48,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49439499\">Comments</a>"
   },
   {
-    "title": "A brief history of federal lift ticket regulation",
-    "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-    "source": "Hacker News",
-    "published": "2026-08-25T19:25:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49439296\">Comments</a>"
-  },
-  {
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
     "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "published": "2026-08-25T19:07:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49439017\">Comments</a>"
-  },
-  {
-    "title": "Dolly Parton has died",
-    "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-    "source": "Hacker News",
-    "published": "2026-08-25T18:02:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49438052\">Comments</a>"
-  },
-  {
-    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "source": "Hacker News",
-    "published": "2026-08-25T17:28:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437566\">Comments</a>"
   },
   {
     "title": "Run OpenBSD on DigitalOcean for $4/month",
@@ -88,7 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49437483\">Comments</a>"
   },
   {
-    "title": "Nitter project received cease and desist",
+    "title": "Nitter and XCancel receive cease and desist notices",
     "link": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "published": "2026-08-25T17:08:21+00:00",
@@ -104,12 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49437210\">Comments</a>"
   },
   {
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "link": "https://github.com/ThinkOffApp/CarWatch",
+    "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
+    "link": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
-    "published": "2026-08-25T15:20:20+00:00",
+    "published": "2026-08-25T16:52:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435675\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437049\">Comments</a>"
+  },
+  {
+    "title": "Tooltips need a delay, and then they need to skip it",
+    "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "source": "Hacker News",
+    "published": "2026-08-25T16:35:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49436786\">Comments</a>"
   },
   {
     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
@@ -158,5 +150,13 @@
     "published": "2026-08-25T13:01:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49433292\">Comments</a>"
+  },
+  {
+    "title": "Don't Wordle",
+    "link": "https://dontwordle.com/",
+    "source": "Hacker News",
+    "published": "2026-08-25T11:49:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432319\">Comments</a>"
   }
 ]
