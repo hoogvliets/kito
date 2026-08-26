@@ -1,5 +1,61 @@
 [
   {
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "link": "https://github.com/runetes/maiao",
+    "source": "Hacker News",
+    "published": "2026-08-25T22:40:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49441666\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "link": "https://github.com/swimmingbrain/texbrain",
+    "source": "Hacker News",
+    "published": "2026-08-25T22:08:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49441375\">Comments</a>"
+  },
+  {
+    "title": "Python's pre-declared constants are kinda weird",
+    "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "source": "Hacker News",
+    "published": "2026-08-25T21:39:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49441033\">Comments</a>"
+  },
+  {
+    "title": "XCancel also down, at least for time being",
+    "link": "https://news.ycombinator.com/item?id=49440786",
+    "source": "Hacker News",
+    "published": "2026-08-25T21:18:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49440786\">Comments</a>"
+  },
+  {
+    "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
+    "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "source": "Hacker News",
+    "published": "2026-08-25T20:49:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49440410\">Comments</a>"
+  },
+  {
+    "title": "C2PA Cameras Do Not Survive Contact with Reality",
+    "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "source": "Hacker News",
+    "published": "2026-08-25T19:38:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49439499\">Comments</a>"
+  },
+  {
+    "title": "A brief history of federal lift ticket regulation",
+    "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+    "source": "Hacker News",
+    "published": "2026-08-25T19:25:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49439296\">Comments</a>"
+  },
+  {
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
     "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
@@ -14,14 +70,6 @@
     "published": "2026-08-25T18:02:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49438052\">Comments</a>"
-  },
-  {
-    "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-    "source": "Hacker News",
-    "published": "2026-08-25T17:55:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437946\">Comments</a>"
   },
   {
     "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
@@ -56,52 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49437210\">Comments</a>"
   },
   {
-    "title": "My Friend Aaron",
-    "link": "https://rorz.io/writing/my-friend-aaron",
-    "source": "Hacker News",
-    "published": "2026-08-25T16:53:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437069\">Comments</a>"
-  },
-  {
-    "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
-    "link": "https://github.com/jeffhajewski/latticedb",
-    "source": "Hacker News",
-    "published": "2026-08-25T16:52:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49437049\">Comments</a>"
-  },
-  {
-    "title": "Starbase, LA",
-    "link": "https://www.spacex.com/sites/starbase-la",
-    "source": "Hacker News",
-    "published": "2026-08-25T16:37:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49436822\">Comments</a>"
-  },
-  {
-    "title": "Tooltips need a delay, and then they need to skip it",
-    "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "source": "Hacker News",
-    "published": "2026-08-25T16:35:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49436786\">Comments</a>"
-  },
-  {
     "title": "Show HN: I made a Raspberry with Qwen my local car AI",
     "link": "https://github.com/ThinkOffApp/CarWatch",
     "source": "Hacker News",
     "published": "2026-08-25T15:20:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49435675\">Comments</a>"
-  },
-  {
-    "title": "Behaviorally fingerprinting Ox Alpha's provenance",
-    "link": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
-    "source": "Hacker News",
-    "published": "2026-08-25T15:18:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435641\">Comments</a>"
   },
   {
     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
@@ -150,13 +158,5 @@
     "published": "2026-08-25T13:01:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49433292\">Comments</a>"
-  },
-  {
-    "title": "Don't Wordle",
-    "link": "https://dontwordle.com/",
-    "source": "Hacker News",
-    "published": "2026-08-25T11:49:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49432319\">Comments</a>"
   }
 ]
