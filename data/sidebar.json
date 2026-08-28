@@ -1,22 +1,134 @@
 [
   {
-    "title": "Landsat 9 pass captured the effects of yesterday's catastrophic glacier collapse",
-    "link": "https://twitter.com/WxNB_/status/2092875025246261494",
+    "title": "Doctors are finally learning to manage antidepressant withdrawal",
+    "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
     "source": "Hacker News",
-    "published": "2026-08-27T12:03:32+00:00",
+    "published": "2026-08-27T22:26:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49463392\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49472090\">Comments</a>"
   },
   {
-    "title": "Adentris (YC P25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "link": "https://github.com/elyosh/OpenTIE/",
     "source": "Hacker News",
-    "published": "2026-08-27T12:00:31+00:00",
+    "published": "2026-08-27T22:10:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49463361\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49471965\">Comments</a>"
   },
   {
-    "title": "Pollen Robotics (Hugging Face) Microduck",
+    "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+    "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "source": "Hacker News",
+    "published": "2026-08-27T21:46:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49471714\">Comments</a>"
+  },
+  {
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "link": "https://github.com/experientiallabs/experiential",
+    "source": "Hacker News",
+    "published": "2026-08-27T21:18:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49471407\">Comments</a>"
+  },
+  {
+    "title": "Meta Paid $17B \u2013 Gets to Write Safety Rules for Other SocMedia Platform",
+    "link": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+    "source": "Hacker News",
+    "published": "2026-08-27T20:41:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49470949\">Comments</a>"
+  },
+  {
+    "title": "Previewing the Model Hardware Standard",
+    "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "source": "Hacker News",
+    "published": "2026-08-27T18:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468834\">Comments</a>"
+  },
+  {
+    "title": "Gemini-3.5-Transcribe",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "source": "Hacker News",
+    "published": "2026-08-27T18:03:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468818\">Comments</a>"
+  },
+  {
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "source": "Hacker News",
+    "published": "2026-08-27T17:53:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468642\">Comments</a>"
+  },
+  {
+    "title": "M5Stack Launches PaperMono",
+    "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+    "source": "Hacker News",
+    "published": "2026-08-27T17:50:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468593\">Comments</a>"
+  },
+  {
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "source": "Hacker News",
+    "published": "2026-08-27T17:17:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468083\">Comments</a>"
+  },
+  {
+    "title": "Bild AI (YC W25) is hiring product and AI engineers",
+    "link": "https://www.bild.ai/jobs",
+    "source": "Hacker News",
+    "published": "2026-08-27T17:00:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467837\">Comments</a>"
+  },
+  {
+    "title": "Small Models Have Arrived",
+    "link": "https://calv.info/small-models-have-arrived",
+    "source": "Hacker News",
+    "published": "2026-08-27T15:56:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49466917\">Comments</a>"
+  },
+  {
+    "title": "Suica, Japan's First IC Transit Card",
+    "link": "https://www.tokyodev.com/articles/the-story-of-suica",
+    "source": "Hacker News",
+    "published": "2026-08-27T15:55:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49466894\">Comments</a>"
+  },
+  {
+    "title": "Decompiling a Nintendo 64 game in 84 days",
+    "link": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+    "source": "Hacker News",
+    "published": "2026-08-27T15:01:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49466006\">Comments</a>"
+  },
+  {
+    "title": "507 Mechanical Movements",
+    "link": "https://507movements.com/",
+    "source": "Hacker News",
+    "published": "2026-08-27T14:08:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49465169\">Comments</a>"
+  },
+  {
+    "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+    "link": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+    "source": "Hacker News",
+    "published": "2026-08-27T13:22:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49464543\">Comments</a>"
+  },
+  {
+    "title": "Microduck",
     "link": "https://pollen-robotics.com/microduck/",
     "source": "Hacker News",
     "published": "2026-08-27T10:57:56+00:00",
@@ -24,139 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49462763\">Comments</a>"
   },
   {
-    "title": "Australia Bans Generative A.I. From Official Music Charts",
-    "link": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "link": "https://louisabraham.github.io/load-bearing/",
     "source": "Hacker News",
-    "published": "2026-08-27T10:48:54+00:00",
+    "published": "2026-08-27T08:59:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49462687\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49461817\">Comments</a>"
   },
   {
-    "title": "Xcancel and Nitter have been taken down",
-    "link": "https://news.ycombinator.com/item?id=49462427",
+    "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+    "link": "https://morphing.cloud/afterglow/",
     "source": "Hacker News",
-    "published": "2026-08-27T10:19:42+00:00",
+    "published": "2026-08-27T00:18:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49462427\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49457722\">Comments</a>"
   },
   {
-    "title": "Tell HN: PayPal Blocks GrapheneOS",
-    "link": "https://news.ycombinator.com/item?id=49462253",
+    "title": "The turbulent AI era is here",
+    "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
     "source": "Hacker News",
-    "published": "2026-08-27T09:56:54+00:00",
+    "published": "2026-08-26T11:23:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49462253\">Comments</a>"
-  },
-  {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "link": "https://github.com/SenteLabsAI/OpenExecutive",
-    "source": "Hacker News",
-    "published": "2026-08-27T01:46:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49458418\">Comments</a>"
-  },
-  {
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "source": "Hacker News",
-    "published": "2026-08-27T01:12:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49458161\">Comments</a>"
-  },
-  {
-    "title": "Mechanical Turk shutting down September 30",
-    "link": "https://www.mturk.com/",
-    "source": "Hacker News",
-    "published": "2026-08-26T23:55:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49457545\">Comments</a>"
-  },
-  {
-    "title": "Zohran and the Short Link",
-    "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-    "source": "Hacker News",
-    "published": "2026-08-26T23:50:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49457512\">Comments</a>"
-  },
-  {
-    "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-    "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-    "source": "Hacker News",
-    "published": "2026-08-26T22:44:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49456929\">Comments</a>"
-  },
-  {
-    "title": "Asahi Linux Progress Report: Linux 7.2",
-    "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
-    "source": "Hacker News",
-    "published": "2026-08-26T22:35:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49456851\">Comments</a>"
-  },
-  {
-    "title": "Stripe acquires Clerky",
-    "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-    "source": "Hacker News",
-    "published": "2026-08-26T21:09:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49455956\">Comments</a>"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-    "source": "Hacker News",
-    "published": "2026-08-26T19:15:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49454314\">Comments</a>"
-  },
-  {
-    "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
-    "link": "https://github.com/tailscale/tailcat",
-    "source": "Hacker News",
-    "published": "2026-08-26T17:42:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49452990\">Comments</a>"
-  },
-  {
-    "title": "An ongoing 3D-printer AGPL violation",
-    "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-    "source": "Hacker News",
-    "published": "2026-08-26T17:41:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49452980\">Comments</a>"
-  },
-  {
-    "title": "U.S. State Department pauses immigrant visa applications",
-    "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-    "source": "Hacker News",
-    "published": "2026-08-26T17:22:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49452709\">Comments</a>"
-  },
-  {
-    "title": "The Harness Is the Thing",
-    "link": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-    "source": "Hacker News",
-    "published": "2026-08-26T16:59:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49452346\">Comments</a>"
-  },
-  {
-    "title": "Twitter Viewer \u2013 View Twitter Without Account",
-    "link": "https://twitterwebviewer.com/",
-    "source": "Hacker News",
-    "published": "2026-08-26T14:11:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49449576\">Comments</a>"
-  },
-  {
-    "title": "GLM-5.3-Flash",
-    "link": "https://z.ai/blog/glm-5.3-flash",
-    "source": "Hacker News",
-    "published": "2026-08-26T14:08:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49449507\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49447057\">Comments</a>"
   }
 ]
