@@ -1,11 +1,19 @@
 [
   {
-    "title": "Iceland votes on whether to restart talks on joining EU",
-    "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "link": "https://uecker.codeberg.page/2026-08-29.html",
     "source": "Hacker News",
-    "published": "2026-08-29T11:39:38+00:00",
+    "published": "2026-08-29T14:20:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49489057\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49490138\">Comments</a>"
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "link": "https://lwn.net/Articles/1091231/",
+    "source": "Hacker News",
+    "published": "2026-08-29T14:02:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49489982\">Comments</a>"
   },
   {
     "title": "Samsung's Processing-in-Memory (PIM)",
@@ -24,36 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49486334\">Comments</a>"
   },
   {
-    "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
-    "link": "https://www.kumander.org/",
-    "source": "Hacker News",
-    "published": "2026-08-29T01:48:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486176\">Comments</a>"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "source": "Hacker News",
-    "published": "2026-08-29T01:47:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486172\">Comments</a>"
-  },
-  {
     "title": "StemDeck, a free, open-source and local AI stem separator",
     "link": "https://github.com/stemdeckapp/stemdeck",
     "source": "Hacker News",
     "published": "2026-08-29T01:24:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49486081\">Comments</a>"
-  },
-  {
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "source": "Hacker News",
-    "published": "2026-08-28T23:46:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485532\">Comments</a>"
   },
   {
     "title": "I accidentally turned LLM memory into program analysis",
@@ -72,20 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49485267\">Comments</a>"
   },
   {
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "source": "Hacker News",
-    "published": "2026-08-28T15:58:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49480466\">Comments</a>"
-  },
-  {
     "title": "GUIs should be fully keyboard-driven",
     "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
     "source": "Hacker News",
     "published": "2026-08-28T15:17:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49479837\">Comments</a>"
+  },
+  {
+    "title": "Creating the Aetheryte Radio",
+    "link": "https://haz.ee/posts/aetheryte-radio.html",
+    "source": "Hacker News",
+    "published": "2026-08-28T14:59:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479546\">Comments</a>"
   },
   {
     "title": "Htmx 4.0",
@@ -128,6 +112,38 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49450782\">Comments</a>"
   },
   {
+    "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
+    "link": "https://typebase.io",
+    "source": "Hacker News",
+    "published": "2026-08-26T11:33:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49447178\">Comments</a>"
+  },
+  {
+    "title": "Time complexity of operations on Python's built-in types",
+    "link": "https://docs.python.org/3.16/library/time-complexity.html",
+    "source": "Hacker News",
+    "published": "2026-08-25T15:15:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49435595\">Comments</a>"
+  },
+  {
+    "title": "EVE Online moves to Python 3",
+    "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:04:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433328\">Comments</a>"
+  },
+  {
+    "title": "SQLite as a Document Database (2020)",
+    "link": "https://dgl.cx/2020/06/sqlite-json-support",
+    "source": "Hacker News",
+    "published": "2026-08-24T23:00:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49426995\">Comments</a>"
+  },
+  {
     "title": "Glacier Mice",
     "link": "https://en.wikipedia.org/wiki/Glacier_mice",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49424320\">Comments</a>"
   },
   {
-    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-    "link": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+    "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+    "link": "https://galaxium.app",
     "source": "Hacker News",
-    "published": "2026-08-24T16:41:26+00:00",
+    "published": "2026-08-24T14:44:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422397\">Comments</a>"
-  },
-  {
-    "title": "Experiments with Plotter Art",
-    "link": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-    "source": "Hacker News",
-    "published": "2026-08-24T13:21:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419409\">Comments</a>"
-  },
-  {
-    "title": "Monzo Stand-In",
-    "link": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-    "source": "Hacker News",
-    "published": "2026-08-24T09:30:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49417298\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49420524\">Comments</a>"
   }
 ]
