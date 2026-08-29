@@ -1,5 +1,13 @@
 [
   {
+    "title": "$44M Solar-Powered EV Production Deal Struck",
+    "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
+    "source": "Hacker News",
+    "published": "2026-08-29T21:37:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49493563\">Comments</a>"
+  },
+  {
     "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
     "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "source": "Hacker News",
@@ -8,12 +16,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49492632\">Comments</a>"
   },
   {
-    "title": "Warp builds self-improving agents on Claude",
-    "link": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "title": "Domain-Driven Agents",
+    "link": "https://coldtake.dev/blog/domain-driven-agents",
     "source": "Hacker News",
-    "published": "2026-08-29T19:09:33+00:00",
+    "published": "2026-08-29T19:28:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492432\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492584\">Comments</a>"
+  },
+  {
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "source": "Hacker News",
+    "published": "2026-08-29T19:15:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492488\">Comments</a>"
+  },
+  {
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "source": "Hacker News",
+    "published": "2026-08-29T19:01:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492368\">Comments</a>"
   },
   {
     "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
@@ -22,14 +46,6 @@
     "published": "2026-08-29T18:44:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49492219\">Comments</a>"
-  },
-  {
-    "title": "The Internet Is Kind of a Predatory Cesspit Now",
-    "link": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "source": "Hacker News",
-    "published": "2026-08-29T18:40:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492193\">Comments</a>"
   },
   {
     "title": "vLLM v0.28.0",
@@ -56,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49491568\">Comments</a>"
   },
   {
-    "title": "A better SQL in 11 lines of code",
-    "link": "https://prela-lang.org/tutorial/",
-    "source": "Hacker News",
-    "published": "2026-08-29T17:13:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49491544\">Comments</a>"
-  },
-  {
     "title": "Quantifying Colour",
     "link": "https://ekunazanu.foo/lab/quantifying-colour/",
     "source": "Hacker News",
     "published": "2026-08-29T15:43:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49490832\">Comments</a>"
-  },
-  {
-    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-    "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-    "source": "Hacker News",
-    "published": "2026-08-29T15:26:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49490702\">Comments</a>"
   },
   {
     "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
@@ -96,12 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49487341\">Comments</a>"
   },
   {
-    "title": "Creating the Aetheryte Radio",
-    "link": "https://haz.ee/posts/aetheryte-radio.html",
+    "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
     "source": "Hacker News",
-    "published": "2026-08-28T14:59:15+00:00",
+    "published": "2026-08-28T18:53:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479546\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49482833\">Comments</a>"
+  },
+  {
+    "title": "Recovering Corrupt Zip Files",
+    "link": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+    "source": "Hacker News",
+    "published": "2026-08-26T13:14:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49448583\">Comments</a>"
   },
   {
     "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
@@ -142,14 +150,6 @@
     "published": "2026-08-24T18:58:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49424320\">Comments</a>"
-  },
-  {
-    "title": "Kmart Digicam Mod Part 2",
-    "link": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
-    "source": "Hacker News",
-    "published": "2026-08-24T10:14:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49417662\">Comments</a>"
   },
   {
     "title": "Tether: iMessage, SMS, etc. on Linux",
