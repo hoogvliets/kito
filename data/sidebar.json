@@ -1,5 +1,21 @@
 [
   {
+    "title": "Iceland votes on whether to restart talks on joining EU",
+    "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "source": "Hacker News",
+    "published": "2026-08-29T11:39:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49489057\">Comments</a>"
+  },
+  {
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "source": "Hacker News",
+    "published": "2026-08-29T06:06:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49487341\">Comments</a>"
+  },
+  {
     "title": "TurboKV: Insanely fast Rust key-value store",
     "link": "https://github.com/kingroryg/turbokv",
     "source": "Hacker News",
@@ -40,22 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49485532\">Comments</a>"
   },
   {
-    "title": "PPWR lands another blow to an precarious tabletop industry",
-    "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-    "source": "Hacker News",
-    "published": "2026-08-28T23:41:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485504\">Comments</a>"
-  },
-  {
-    "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-    "source": "Hacker News",
-    "published": "2026-08-28T23:32:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485452\">Comments</a>"
-  },
-  {
     "title": "I accidentally turned LLM memory into program analysis",
     "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
     "source": "Hacker News",
@@ -70,14 +70,6 @@
     "published": "2026-08-28T23:02:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49485267\">Comments</a>"
-  },
-  {
-    "title": "Identifying fake cosmetics using AI",
-    "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "source": "Hacker News",
-    "published": "2026-08-28T22:18:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49484925\">Comments</a>"
   },
   {
     "title": "Just the rumour of a bug is enough to find an exploit these days",
@@ -120,20 +112,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49477564\">Comments</a>"
   },
   {
-    "title": "The Twelve-Factor App (2025)",
-    "link": "https://12factor.net/",
+    "title": "Europe's last regular standard-gauge steam passenger service",
+    "link": "https://parowozowniawolsztyn.pl/?page_id=2141",
     "source": "Hacker News",
-    "published": "2026-08-27T22:41:11+00:00",
+    "published": "2026-08-26T22:32:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49472216\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49456819\">Comments</a>"
   },
   {
-    "title": "Curvature Beziers: Improving on a timeless recipe",
-    "link": "https://acko.net/blog/curvature-beziers/",
+    "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
     "source": "Hacker News",
-    "published": "2026-08-24T17:03:12+00:00",
+    "published": "2026-08-26T15:22:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422743\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49450782\">Comments</a>"
+  },
+  {
+    "title": "Glacier Mice",
+    "link": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "source": "Hacker News",
+    "published": "2026-08-24T18:58:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49424320\">Comments</a>"
+  },
+  {
+    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+    "link": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+    "source": "Hacker News",
+    "published": "2026-08-24T16:41:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49422397\">Comments</a>"
   },
   {
     "title": "Experiments with Plotter Art",
@@ -142,14 +150,6 @@
     "published": "2026-08-24T13:21:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49419409\">Comments</a>"
-  },
-  {
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "source": "Hacker News",
-    "published": "2026-08-24T12:30:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418813\">Comments</a>"
   },
   {
     "title": "Monzo Stand-In",
