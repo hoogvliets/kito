@@ -1,5 +1,69 @@
 [
   {
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "link": "https://github.com/kingroryg/turbokv",
+    "source": "Hacker News",
+    "published": "2026-08-29T02:23:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486334\">Comments</a>"
+  },
+  {
+    "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+    "link": "https://www.kumander.org/",
+    "source": "Hacker News",
+    "published": "2026-08-29T01:48:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486176\">Comments</a>"
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "source": "Hacker News",
+    "published": "2026-08-29T01:47:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486172\">Comments</a>"
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "link": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News",
+    "published": "2026-08-29T01:24:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486081\">Comments</a>"
+  },
+  {
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "source": "Hacker News",
+    "published": "2026-08-28T23:46:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485532\">Comments</a>"
+  },
+  {
+    "title": "PPWR lands another blow to an precarious tabletop industry",
+    "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+    "source": "Hacker News",
+    "published": "2026-08-28T23:41:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485504\">Comments</a>"
+  },
+  {
+    "title": "9th Circuit sides with states in Kalshi gambling fight",
+    "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+    "source": "Hacker News",
+    "published": "2026-08-28T23:32:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485452\">Comments</a>"
+  },
+  {
+    "title": "I accidentally turned LLM memory into program analysis",
+    "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "source": "Hacker News",
+    "published": "2026-08-28T23:27:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485416\">Comments</a>"
+  },
+  {
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
     "link": "https://github.com/Lakr233/vphone-cli",
     "source": "Hacker News",
@@ -16,38 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49484925\">Comments</a>"
   },
   {
-    "title": "Stopping the smart TV from being used against you",
-    "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "source": "Hacker News",
-    "published": "2026-08-28T20:27:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49483816\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Sesame - a local-first, open-source password manager",
-    "link": "https://usesesame.app/",
-    "source": "Hacker News",
-    "published": "2026-08-28T19:14:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49483038\">Comments</a>"
-  },
-  {
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "link": "https://arxiv.org/abs/2608.23691",
-    "source": "Hacker News",
-    "published": "2026-08-28T17:01:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49481455\">Comments</a>"
-  },
-  {
-    "title": "Attimet (YC F24) Is Hiring Members of Technical Staff \u2013 Engineering and Research",
-    "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-    "source": "Hacker News",
-    "published": "2026-08-28T17:00:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49481423\">Comments</a>"
-  },
-  {
     "title": "Just the rumour of a bug is enough to find an exploit these days",
     "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
     "source": "Hacker News",
@@ -56,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49480466\">Comments</a>"
   },
   {
-    "title": "GLM-5.3 is now open-weight",
-    "link": "https://huggingface.co/zai-org/GLM-5.3",
-    "source": "Hacker News",
-    "published": "2026-08-28T15:20:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479878\">Comments</a>"
-  },
-  {
     "title": "GUIs should be fully keyboard-driven",
     "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
     "source": "Hacker News",
     "published": "2026-08-28T15:17:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49479837\">Comments</a>"
-  },
-  {
-    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "link": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-    "source": "Hacker News",
-    "published": "2026-08-28T14:30:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479072\">Comments</a>"
   },
   {
     "title": "Htmx 4.0",
@@ -104,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49477564\">Comments</a>"
   },
   {
-    "title": "Hilariously fast volume computation with the divergence theorem (2018)",
-    "link": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-    "source": "Hacker News",
-    "published": "2026-08-28T09:00:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49476143\">Comments</a>"
-  },
-  {
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-    "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "source": "Hacker News",
-    "published": "2026-08-28T06:33:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49475079\">Comments</a>"
-  },
-  {
-    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
-    "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "source": "Hacker News",
-    "published": "2026-08-28T02:03:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49473522\">Comments</a>"
-  },
-  {
     "title": "The Twelve-Factor App (2025)",
     "link": "https://12factor.net/",
     "source": "Hacker News",
@@ -136,27 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49472216\">Comments</a>"
   },
   {
-    "title": "Processing in Memory: DRAM Is About to Do Math",
-    "link": "https://ben3d.ca/blog/processing-in-memory",
-    "source": "Hacker News",
-    "published": "2026-08-26T19:07:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49454182\">Comments</a>"
-  },
-  {
-    "title": "Visual Analysis of Binary Files",
-    "link": "https://binvis.io/#/",
-    "source": "Hacker News",
-    "published": "2026-08-26T03:11:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49443783\">Comments</a>"
-  },
-  {
     "title": "Curvature Beziers: Improving on a timeless recipe",
     "link": "https://acko.net/blog/curvature-beziers/",
     "source": "Hacker News",
     "published": "2026-08-24T17:03:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49422743\">Comments</a>"
+  },
+  {
+    "title": "Experiments with Plotter Art",
+    "link": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+    "source": "Hacker News",
+    "published": "2026-08-24T13:21:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49419409\">Comments</a>"
+  },
+  {
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "source": "Hacker News",
+    "published": "2026-08-24T12:30:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418813\">Comments</a>"
+  },
+  {
+    "title": "Monzo Stand-In",
+    "link": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+    "source": "Hacker News",
+    "published": "2026-08-24T09:30:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49417298\">Comments</a>"
   }
 ]
