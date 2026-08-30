@@ -1,11 +1,35 @@
 [
   {
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "source": "Hacker News",
+    "published": "2026-08-30T03:15:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49495372\">Comments</a>"
+  },
+  {
     "title": "FreeCORE TrueNAS Core \u2013 Continued",
     "link": "https://freecore.org/",
     "source": "Hacker News",
     "published": "2026-08-30T01:31:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49494856\">Comments</a>"
+  },
+  {
+    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+    "source": "Hacker News",
+    "published": "2026-08-30T01:09:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49494751\">Comments</a>"
+  },
+  {
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "link": "https://github.com/mk6i/open-oscar-server",
+    "source": "Hacker News",
+    "published": "2026-08-30T00:33:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49494571\">Comments</a>"
   },
   {
     "title": "Bug Blindness",
@@ -16,12 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49494520\">Comments</a>"
   },
   {
-    "title": "Highest-ever ocean temperature measured as powerful El Ni\u00f1o forms",
-    "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "link": "https://www.dwarkesh.com/p/openai-huggingface",
     "source": "Hacker News",
-    "published": "2026-08-29T23:26:44+00:00",
+    "published": "2026-08-29T23:43:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49494231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49494301\">Comments</a>"
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -32,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49494182\">Comments</a>"
   },
   {
-    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-    "link": "https://defrag98.com",
-    "source": "Hacker News",
-    "published": "2026-08-29T22:51:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49494036\">Comments</a>"
-  },
-  {
     "title": "Hy4 preview",
     "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "source": "Hacker News",
     "published": "2026-08-29T19:33:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49492632\">Comments</a>"
-  },
-  {
-    "title": "Domain-Driven Agents",
-    "link": "https://coldtake.dev/blog/domain-driven-agents",
-    "source": "Hacker News",
-    "published": "2026-08-29T19:28:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492584\">Comments</a>"
   },
   {
     "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
@@ -64,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49492368\">Comments</a>"
   },
   {
-    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-    "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-    "source": "Hacker News",
-    "published": "2026-08-29T18:44:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492219\">Comments</a>"
-  },
-  {
     "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
     "link": "https://tucker.wales/writing/bias-towards-action/",
     "source": "Hacker News",
     "published": "2026-08-29T17:39:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49491714\">Comments</a>"
-  },
-  {
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "source": "Hacker News",
-    "published": "2026-08-29T17:19:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49491568\">Comments</a>"
   },
   {
     "title": "Nancy Grace Roman Space Telescope",
@@ -96,20 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49490870\">Comments</a>"
   },
   {
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "link": "https://uecker.codeberg.page/2026-08-29.html",
+    "title": "Benchmarking Pocket-Scale Inference",
+    "link": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
     "source": "Hacker News",
-    "published": "2026-08-29T14:20:33+00:00",
+    "published": "2026-08-27T19:12:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49490138\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49469786\">Comments</a>"
   },
   {
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "title": "The Einstein-Szilard Refrigerator",
+    "link": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
     "source": "Hacker News",
-    "published": "2026-08-29T06:06:51+00:00",
+    "published": "2026-08-26T17:58:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49487341\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49453232\">Comments</a>"
   },
   {
     "title": "Is it safe to call print in a Python signal handler?",
@@ -118,6 +110,14 @@
     "published": "2026-08-26T14:53:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49450248\">Comments</a>"
+  },
+  {
+    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:20:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433554\">Comments</a>"
   },
   {
     "title": "EVE Online moves to Python 3",
