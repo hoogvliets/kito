@@ -1,43 +1,51 @@
 [
   {
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "source": "Hacker News",
+    "published": "2026-08-31T21:10:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49514878\">Comments</a>"
+  },
+  {
+    "title": "Autonomous (YC F25) Is Hiring Engineers",
+    "link": "https://news.ycombinator.com/item?id=49514781",
+    "source": "Hacker News",
+    "published": "2026-08-31T21:00:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49514781\">Comments</a>"
+  },
+  {
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+    "source": "Hacker News",
+    "published": "2026-08-31T18:21:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49512975\">Comments</a>"
+  },
+  {
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "source": "Hacker News",
+    "published": "2026-08-31T16:47:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49511856\">Comments</a>"
+  },
+  {
+    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "link": "https://ravynos.com/",
+    "source": "Hacker News",
+    "published": "2026-08-31T16:19:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49511534\">Comments</a>"
+  },
+  {
     "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
     "link": "https://usealmanac.com/",
     "source": "Hacker News",
     "published": "2026-08-31T15:34:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49511007\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
-    "link": "https://github.com/Hebbian-Robotics/hflow",
-    "source": "Hacker News",
-    "published": "2026-08-31T15:02:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510632\">Comments</a>"
-  },
-  {
-    "title": "Agentic Trust Controls",
-    "link": "https://trustcontrols.ai/",
-    "source": "Hacker News",
-    "published": "2026-08-31T15:01:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510612\">Comments</a>"
-  },
-  {
-    "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
-    "link": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:54:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510540\">Comments</a>"
-  },
-  {
-    "title": "Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base",
-    "link": "https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:53:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510532\">Comments</a>"
   },
   {
     "title": "Playa Phone",
@@ -48,30 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49510514\">Comments</a>"
   },
   {
-    "title": "C++26: Standard Library Hardening Experiments",
-    "link": "https://www.cppstories.com/2026/hardening-experiments/",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:52:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510511\">Comments</a>"
-  },
-  {
-    "title": "Culture Clash",
-    "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:50:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510489\">Comments</a>"
-  },
-  {
-    "title": "Marx, Keynes, and A.I",
-    "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:36:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510302\">Comments</a>"
-  },
-  {
     "title": "ChatGPT Work Tool and Skill Reference",
     "link": "https://codex-tool-reference.simonw.chatgpt.site/",
     "source": "Hacker News",
@@ -80,83 +64,99 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49510000\">Comments</a>"
   },
   {
-    "title": "Show HN: Linux server management over SSH \u2013 written in Rust and Tauri",
-    "link": "https://serverbox.stupidlabs.lol/",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "source": "Hacker News",
-    "published": "2026-08-31T13:39:43+00:00",
+    "published": "2026-08-31T12:41:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49509679\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49508982\">Comments</a>"
   },
   {
-    "title": "Malleable software = solid bases and custom code",
-    "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+    "title": "I think the military commissary's freezers were hacked",
+    "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
     "source": "Hacker News",
-    "published": "2026-08-31T10:36:43+00:00",
+    "published": "2026-08-31T11:45:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49508059\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49508506\">Comments</a>"
   },
   {
-    "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-    "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "title": "Since it was stripped of planetary status, Pluto\u2019s defenders have been fighting",
+    "link": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
     "source": "Hacker News",
-    "published": "2026-08-31T09:59:05+00:00",
+    "published": "2026-08-31T06:05:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49507822\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49506148\">Comments</a>"
   },
   {
-    "title": "ReactOS 0.4.16",
-    "link": "https://reactos.org/project-news/reactos-0416-released/",
+    "title": "Internet centralization and the original sin of NAT",
+    "link": "https://dreamstation.systems/personal/ntppost.html",
     "source": "Hacker News",
-    "published": "2026-08-31T08:13:37+00:00",
+    "published": "2026-08-31T02:23:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49506978\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49504905\">Comments</a>"
   },
   {
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
     "source": "Hacker News",
-    "published": "2026-08-31T07:49:18+00:00",
+    "published": "2026-08-30T22:37:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49506819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49503521\">Comments</a>"
   },
   {
-    "title": "uv: Deduplicate all files in the wheel cache",
-    "link": "https://github.com/astral-sh/uv/pull/21327",
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
     "source": "Hacker News",
-    "published": "2026-08-31T06:03:02+00:00",
+    "published": "2026-08-30T06:52:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49506142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49496292\">Comments</a>"
   },
   {
-    "title": "DNS Abuse and Criminal Infrastructure",
-    "link": "https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/",
+    "title": "Show HN: Laser Graffiti",
+    "link": "https://laser.consti.de",
     "source": "Hacker News",
-    "published": "2026-08-30T14:30:55+00:00",
+    "published": "2026-08-29T12:28:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49498993\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49489376\">Comments</a>"
   },
   {
-    "title": "My hobby of building miniatures and taking pretty pictures",
-    "link": "https://sandyuraz.com/blogs/tiny-cafe/",
+    "title": "'Mad honey' that can stop your heart is being sold online",
+    "link": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
     "source": "Hacker News",
-    "published": "2026-08-28T16:43:11+00:00",
+    "published": "2026-08-28T09:17:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49481141\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49476239\">Comments</a>"
   },
   {
-    "title": "Navigation App for People with Blindness and Low Vision",
-    "link": "https://seas.harvard.edu/news/smartphone-navigation-app-people-blindness-and-low-vision",
+    "title": "Reverse engineering my ADHD test",
+    "link": "https://nullpt.rs/reverse-engineering-adhd-test",
     "source": "Hacker News",
-    "published": "2026-08-27T14:41:14+00:00",
+    "published": "2026-08-27T16:49:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49465672\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467700\">Comments</a>"
   },
   {
-    "title": "The Art of Chip-8",
-    "link": "http://beyondloom.com/blog/artofchip8.html",
+    "title": "Dwarf Fortress is getting the mother of all magic updates",
+    "link": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
     "source": "Hacker News",
-    "published": "2026-08-24T12:20:40+00:00",
+    "published": "2026-08-27T16:45:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49418694\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467636\">Comments</a>"
+  },
+  {
+    "title": "Tmp.0ut, Vol. 5",
+    "link": "https://tmpout.sh/5/",
+    "source": "Hacker News",
+    "published": "2026-08-25T13:15:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49433481\">Comments</a>"
+  },
+  {
+    "title": "Claude \u00d7 retrocomputing: emulating a QIC-117 tape drive",
+    "link": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+    "source": "Hacker News",
+    "published": "2026-08-24T18:58:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49424322\">Comments</a>"
   }
 ]
