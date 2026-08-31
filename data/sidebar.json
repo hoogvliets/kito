@@ -1,11 +1,51 @@
 [
   {
-    "title": "Yen weakens past \u00a5160 per dollar, eroding intervention gains",
-    "link": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+    "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+    "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
     "source": "Hacker News",
-    "published": "2026-08-31T00:37:47+00:00",
+    "published": "2026-08-31T06:10:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49504352\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49506182\">Comments</a>"
+  },
+  {
+    "title": "OpenClaw 2.0, Accidentally",
+    "link": "https://openclaw.ai/blog/openclaw-2-accidentally",
+    "source": "Hacker News",
+    "published": "2026-08-31T03:38:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49505310\">Comments</a>"
+  },
+  {
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "source": "Hacker News",
+    "published": "2026-08-31T03:20:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49505219\">Comments</a>"
+  },
+  {
+    "title": "Transfer files over an Ethernet patch cable",
+    "link": "https://maurycyz.com/misc/etherfiles/",
+    "source": "Hacker News",
+    "published": "2026-08-31T03:19:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49505217\">Comments</a>"
+  },
+  {
+    "title": "Understanding ChatGPT Work",
+    "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "source": "Hacker News",
+    "published": "2026-08-31T01:28:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49504625\">Comments</a>"
+  },
+  {
+    "title": "How to build a diffusion language model",
+    "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "source": "Hacker News",
+    "published": "2026-08-30T23:41:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49503956\">Comments</a>"
   },
   {
     "title": "Matrox: Graphics for Professionals",
@@ -24,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49503601\">Comments</a>"
   },
   {
-    "title": "Continuous Diffusion Language Models (CDLM's)",
-    "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "source": "Hacker News",
-    "published": "2026-08-30T20:46:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49502611\">Comments</a>"
-  },
-  {
     "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
     "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
     "source": "Hacker News",
@@ -48,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49501611\">Comments</a>"
   },
   {
-    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-    "link": "https://komoroske.com/slime-mold/",
-    "source": "Hacker News",
-    "published": "2026-08-30T16:03:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49499891\">Comments</a>"
-  },
-  {
     "title": "Haiku R1/beta6 has been released",
     "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
     "source": "Hacker News",
     "published": "2026-08-30T16:01:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49499867\">Comments</a>"
-  },
-  {
-    "title": "Startup Anti-Patterns",
-    "link": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "source": "Hacker News",
-    "published": "2026-08-30T15:57:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49499831\">Comments</a>"
-  },
-  {
-    "title": "Zig: Pointer Stability for ArrayLists",
-    "link": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "source": "Hacker News",
-    "published": "2026-08-30T14:41:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49499095\">Comments</a>"
   },
   {
     "title": "Hacking IKEA Furniture",
@@ -88,28 +96,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49497810\">Comments</a>"
   },
   {
-    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-    "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-    "source": "Hacker News",
-    "published": "2026-08-30T08:51:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49496918\">Comments</a>"
-  },
-  {
-    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "link": "https://arxiv.org/abs/1804.07389",
-    "source": "Hacker News",
-    "published": "2026-08-30T08:23:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49496782\">Comments</a>"
-  },
-  {
     "title": "Creepy Crawlies",
     "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "source": "Hacker News",
     "published": "2026-08-29T17:49:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49491791\">Comments</a>"
+  },
+  {
+    "title": "Highlighting My Code Based on How Much I Care",
+    "link": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+    "source": "Hacker News",
+    "published": "2026-08-28T22:29:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49485020\">Comments</a>"
+  },
+  {
+    "title": "My hobby of building miniatures and taking pretty pictures",
+    "link": "https://sandyuraz.com/blogs/tiny-cafe/",
+    "source": "Hacker News",
+    "published": "2026-08-28T16:43:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49481141\">Comments</a>"
+  },
+  {
+    "title": "It takes 5 cloud services to hear my doorbell",
+    "link": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+    "source": "Hacker News",
+    "published": "2026-08-28T15:34:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49480091\">Comments</a>"
   },
   {
     "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
@@ -120,36 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49478426\">Comments</a>"
   },
   {
-    "title": "Dad\u2019s Custom Atari Peripherals",
-    "link": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+    "title": "Formalization of the Solution to the Hopf Problem",
+    "link": "https://github.com/plby/HopfProblem",
     "source": "Hacker News",
-    "published": "2026-08-27T17:20:21+00:00",
+    "published": "2026-08-27T16:04:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49468126\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467053\">Comments</a>"
   },
   {
-    "title": "Electric rain can eat through metal",
-    "link": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+    "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
+    "link": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
     "source": "Hacker News",
-    "published": "2026-08-27T12:04:11+00:00",
+    "published": "2026-08-27T11:47:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49463397\">Comments</a>"
-  },
-  {
-    "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-    "link": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
-    "source": "Hacker News",
-    "published": "2026-08-26T15:04:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49450461\">Comments</a>"
-  },
-  {
-    "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-    "link": "https://relm4.org/",
-    "source": "Hacker News",
-    "published": "2026-08-26T10:38:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49446705\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49463231\">Comments</a>"
   },
   {
     "title": "Sort branches by last commit date",
