@@ -1,19 +1,99 @@
 [
   {
-    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+    "link": "https://www.norirobotics.com/",
     "source": "Hacker News",
-    "published": "2026-09-01T12:53:51+00:00",
+    "published": "2026-09-01T17:35:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521315\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525153\">Comments</a>"
   },
   {
-    "title": "Fuck you, show me the prompt",
-    "link": "https://hamel.dev/blog/posts/prompt/",
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "link": "https://news.ycombinator.com/item?id=49524704",
     "source": "Hacker News",
-    "published": "2026-09-01T12:41:15+00:00",
+    "published": "2026-09-01T17:00:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521180\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524704\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "link": "https://github.com/carloslfu/slotstream",
+    "source": "Hacker News",
+    "published": "2026-09-01T16:42:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524447\">Comments</a>"
+  },
+  {
+    "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
+    "link": "https://moviescenemap.com/",
+    "source": "Hacker News",
+    "published": "2026-09-01T16:34:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524320\">Comments</a>"
+  },
+  {
+    "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
+    "link": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+    "source": "Hacker News",
+    "published": "2026-09-01T16:25:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524199\">Comments</a>"
+  },
+  {
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "source": "Hacker News",
+    "published": "2026-09-01T15:55:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523754\">Comments</a>"
+  },
+  {
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "source": "Hacker News",
+    "published": "2026-09-01T15:53:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523720\">Comments</a>"
+  },
+  {
+    "title": "Keenable SELECT: an agent that searches the web in SQL",
+    "link": "https://keenableai.github.io/select-showcase/",
+    "source": "Hacker News",
+    "published": "2026-09-01T15:41:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523473\">Comments</a>"
+  },
+  {
+    "title": "Ambient CSS v3 \u2013 Blender meets CSS",
+    "link": "https://ambientcss.vercel.app/",
+    "source": "Hacker News",
+    "published": "2026-09-01T15:35:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523387\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (September 2026)",
+    "link": "https://news.ycombinator.com/item?id=49522897",
+    "source": "Hacker News",
+    "published": "2026-09-01T15:01:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522897\">Comments</a>"
+  },
+  {
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "source": "Hacker News",
+    "published": "2026-09-01T13:46:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521973\">Comments</a>"
+  },
+  {
+    "title": "Io_uring Without Readahead",
+    "link": "https://frn.sh/io-uring/",
+    "source": "Hacker News",
+    "published": "2026-09-01T13:19:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521623\">Comments</a>"
   },
   {
     "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
@@ -24,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49520022\">Comments</a>"
   },
   {
-    "title": "44% on ARC-AGI-1 in 67 cents",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
     "link": "https://mvakde.github.io/blog/44-on-arc-1/",
     "source": "Hacker News",
     "published": "2026-09-01T09:52:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49519939\">Comments</a>"
-  },
-  {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-    "source": "Hacker News",
-    "published": "2026-09-01T07:01:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49518877\">Comments</a>"
   },
   {
     "title": "Restroom Archive",
@@ -48,14 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49517624\">Comments</a>"
   },
   {
-    "title": "GPU World",
-    "link": "https://www.gpuworld.org/",
-    "source": "Hacker News",
-    "published": "2026-09-01T03:16:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517584\">Comments</a>"
-  },
-  {
     "title": "Fastpotify",
     "link": "https://fastpotify.rocks/",
     "source": "Hacker News",
@@ -64,71 +128,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49517448\">Comments</a>"
   },
   {
-    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-    "link": "https://github.com/fregacmols/RotaryCell",
+    "title": "We are rebuilding Monica",
+    "link": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
     "source": "Hacker News",
-    "published": "2026-09-01T02:29:23+00:00",
+    "published": "2026-08-31T13:37:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517297\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49509655\">Comments</a>"
   },
   {
-    "title": "Tmp.0ut Volume 5",
-    "link": "https://tmpout.sh/5/",
+    "title": "Physically Immutable Optical Archive Libraries",
+    "link": "https://savartus.com/solutions/enterprise-laser-storage/",
     "source": "Hacker News",
-    "published": "2026-08-31T23:26:08+00:00",
+    "published": "2026-08-30T11:27:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49516059\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49497741\">Comments</a>"
   },
   {
-    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-    "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-    "source": "Hacker News",
-    "published": "2026-08-31T18:21:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49512975\">Comments</a>"
-  },
-  {
-    "title": "I turned my security cameras into an automatic bird identification system",
-    "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "source": "Hacker News",
-    "published": "2026-08-31T16:47:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49511856\">Comments</a>"
-  },
-  {
-    "title": "Playa Phone",
-    "link": "https://playaphone.com/",
-    "source": "Hacker News",
-    "published": "2026-08-31T14:52:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510514\">Comments</a>"
-  },
-  {
-    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "source": "Hacker News",
-    "published": "2026-08-31T12:41:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49508982\">Comments</a>"
-  },
-  {
-    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-    "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-    "source": "Hacker News",
-    "published": "2026-08-30T22:37:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49503521\">Comments</a>"
-  },
-  {
-    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-    "link": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-    "source": "Hacker News",
-    "published": "2026-08-30T17:05:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49500504\">Comments</a>"
-  },
-  {
-    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died, aged 100",
     "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
     "source": "Hacker News",
     "published": "2026-08-29T21:25:17+00:00",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49493468\">Comments</a>"
   },
   {
-    "title": "Fractal Jittered Voronoi Partitions",
-    "link": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
+    "title": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
+    "link": "https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation",
     "source": "Hacker News",
-    "published": "2026-08-29T18:24:46+00:00",
+    "published": "2026-08-29T16:52:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492094\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Laser Graffiti",
-    "link": "https://laser.consti.de",
-    "source": "Hacker News",
-    "published": "2026-08-29T12:28:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49489376\">Comments</a>"
-  },
-  {
-    "title": "Dwarf Fortress is getting the mother of all magic updates",
-    "link": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-    "source": "Hacker News",
-    "published": "2026-08-27T16:45:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467636\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49491398\">Comments</a>"
   }
 ]
