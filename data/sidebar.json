@@ -1,5 +1,21 @@
 [
   {
+    "title": "The efficient frontier of LLM inference",
+    "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "source": "Hacker News",
+    "published": "2026-09-01T23:48:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49529898\">Comments</a>"
+  },
+  {
+    "title": "My local model setup on an M4 Pro Mac Mini",
+    "link": "https://lws.io/blog/my-local-model-setup/",
+    "source": "Hacker News",
+    "published": "2026-09-01T22:30:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49529132\">Comments</a>"
+  },
+  {
     "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
     "link": "https://masteranza.github.io/weedout/",
     "source": "Hacker News",
@@ -30,14 +46,6 @@
     "published": "2026-09-01T20:20:41+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49527595\">Comments</a>"
-  },
-  {
-    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-    "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-    "source": "Hacker News",
-    "published": "2026-09-01T20:19:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527573\">Comments</a>"
   },
   {
     "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
@@ -88,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49525153\">Comments</a>"
   },
   {
-    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-    "link": "https://news.ycombinator.com/item?id=49524704",
-    "source": "Hacker News",
-    "published": "2026-09-01T17:00:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524704\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "link": "https://github.com/carloslfu/slotstream",
-    "source": "Hacker News",
-    "published": "2026-09-01T16:42:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524447\">Comments</a>"
-  },
-  {
     "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
     "link": "https://moviescenemap.com/",
     "source": "Hacker News",
     "published": "2026-09-01T16:34:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49524320\">Comments</a>"
-  },
-  {
-    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-    "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-    "source": "Hacker News",
-    "published": "2026-09-01T15:55:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523754\">Comments</a>"
   },
   {
     "title": "Ambient CSS v3 \u2013 Blender meets CSS",
@@ -158,5 +142,21 @@
     "published": "2026-09-01T09:52:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49519939\">Comments</a>"
+  },
+  {
+    "title": "Sonic Pi",
+    "link": "https://sonic-pi.net/",
+    "source": "Hacker News",
+    "published": "2026-08-28T17:51:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49482099\">Comments</a>"
+  },
+  {
+    "title": "Building an interactive instrument for a one-of-a-kind festival",
+    "link": "https://benholmen.com/blog/halfmoon-chimes/",
+    "source": "Hacker News",
+    "published": "2026-08-28T15:21:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479909\">Comments</a>"
   }
 ]
