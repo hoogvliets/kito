@@ -1,5 +1,53 @@
 [
   {
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "source": "Hacker News",
+    "published": "2026-09-04T21:52:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49570669\">Comments</a>"
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter",
+    "link": "https://openrouter.ai/openai/gpt-6-astra",
+    "source": "Hacker News",
+    "published": "2026-09-04T21:39:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49570545\">Comments</a>"
+  },
+  {
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "link": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "source": "Hacker News",
+    "published": "2026-09-04T21:16:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49570328\">Comments</a>"
+  },
+  {
+    "title": "Statichost.eu \u2013 100% European static site hosting",
+    "link": "https://www.statichost.eu/",
+    "source": "Hacker News",
+    "published": "2026-09-04T20:34:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569896\">Comments</a>"
+  },
+  {
+    "title": "How to Create a Tor Exit Node",
+    "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+    "source": "Hacker News",
+    "published": "2026-09-04T20:16:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569702\">Comments</a>"
+  },
+  {
+    "title": "An open DNS recursive service for free security and high privacy",
+    "link": "https://quad9.net/",
+    "source": "Hacker News",
+    "published": "2026-09-04T20:13:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569663\">Comments</a>"
+  },
+  {
     "title": "Can AI design circuit boards yet?",
     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
@@ -14,6 +62,14 @@
     "published": "2026-09-04T19:06:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49568828\">Comments</a>"
+  },
+  {
+    "title": "Fermat's Last Theorem in Lean 4",
+    "link": "https://github.com/anthropics/fermats-last-theorem",
+    "source": "Hacker News",
+    "published": "2026-09-04T18:57:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568697\">Comments</a>"
   },
   {
     "title": "Shutting down our public encrypted DNS",
@@ -40,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49567873\">Comments</a>"
   },
   {
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "source": "Hacker News",
-    "published": "2026-09-04T17:29:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49567594\">Comments</a>"
-  },
-  {
     "title": "Show HN: Open-Source eInk Bike Computer",
     "link": "https://opentrailpaper.com",
     "source": "Hacker News",
     "published": "2026-09-04T17:18:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49567437\">Comments</a>"
-  },
-  {
-    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-    "source": "Hacker News",
-    "published": "2026-09-04T16:46:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49567053\">Comments</a>"
-  },
-  {
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "source": "Hacker News",
-    "published": "2026-09-04T16:24:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49566788\">Comments</a>"
   },
   {
     "title": "deSEC \u2013 Free Secure DNS",
@@ -104,59 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49562657\">Comments</a>"
   },
   {
-    "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
-    "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "title": "RSA-260 Factorized",
+    "link": "https://twitter.com/penlume/status/2095372672356212876",
     "source": "Hacker News",
-    "published": "2026-09-04T09:03:00+00:00",
+    "published": "2026-09-03T05:35:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49562219\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49546284\">Comments</a>"
   },
   {
-    "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-    "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+    "title": "Fomu An FPGA board that fits inside your USB port",
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
     "source": "Hacker News",
-    "published": "2026-09-03T19:10:59+00:00",
+    "published": "2026-09-02T09:48:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49555131\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49534025\">Comments</a>"
   },
   {
-    "title": "People that worked on the same idea for decades",
-    "link": "https://nityasnotes.com/writing/decades/",
+    "title": "The Wormhole Hall of Shame",
+    "link": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
     "source": "Hacker News",
-    "published": "2026-09-03T08:31:22+00:00",
+    "published": "2026-08-31T18:10:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49547415\">Comments</a>"
-  },
-  {
-    "title": "The Two Abstractions of System Design: Hide or Reduce",
-    "link": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-    "source": "Hacker News",
-    "published": "2026-09-02T11:54:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49534936\">Comments</a>"
-  },
-  {
-    "title": "Resources to Get Good at Soldering?",
-    "link": "https://news.ycombinator.com/item?id=49533840",
-    "source": "Hacker News",
-    "published": "2026-09-02T09:24:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49533840\">Comments</a>"
-  },
-  {
-    "title": "Getting Started with AT Protocol",
-    "link": "https://bnb.im/posts/atproto-essential-resources/",
-    "source": "Hacker News",
-    "published": "2026-09-01T19:48:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527123\">Comments</a>"
-  },
-  {
-    "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-    "link": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-    "source": "Hacker News",
-    "published": "2026-09-01T00:01:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49516312\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49512834\">Comments</a>"
   }
 ]
