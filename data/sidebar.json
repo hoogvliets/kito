@@ -1,5 +1,53 @@
 [
   {
+    "title": "Can AI design circuit boards yet?",
+    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "Hacker News",
+    "published": "2026-09-04T19:48:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>"
+  },
+  {
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "source": "Hacker News",
+    "published": "2026-09-04T19:06:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568828\">Comments</a>"
+  },
+  {
+    "title": "Shutting down our public encrypted DNS",
+    "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "source": "Hacker News",
+    "published": "2026-09-04T18:50:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568579\">Comments</a>"
+  },
+  {
+    "title": "Formalizing Fermat's Last Theorem",
+    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "source": "Hacker News",
+    "published": "2026-09-04T18:42:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568506\">Comments</a>"
+  },
+  {
+    "title": "The Rust React Compiler is now native in Vite",
+    "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "source": "Hacker News",
+    "published": "2026-09-04T17:49:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49567873\">Comments</a>"
+  },
+  {
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source": "Hacker News",
+    "published": "2026-09-04T17:29:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49567594\">Comments</a>"
+  },
+  {
     "title": "Show HN: Open-Source eInk Bike Computer",
     "link": "https://opentrailpaper.com",
     "source": "Hacker News",
@@ -32,68 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49566193\">Comments</a>"
   },
   {
-    "title": "Corporate America is getting hooked on open-source AI",
-    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "source": "Hacker News",
-    "published": "2026-09-04T15:33:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49566137\">Comments</a>"
-  },
-  {
-    "title": "US Military disables ad trackers on troops' phones",
-    "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-    "source": "Hacker News",
-    "published": "2026-09-04T13:44:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49564555\">Comments</a>"
-  },
-  {
     "title": "IBM Bob",
     "link": "https://bob.ibm.com/",
     "source": "Hacker News",
     "published": "2026-09-04T12:50:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49563851\">Comments</a>"
-  },
-  {
-    "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-    "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-    "source": "Hacker News",
-    "published": "2026-09-04T12:49:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563839\">Comments</a>"
-  },
-  {
-    "title": "How Fairphone built the Fairphone Gen 6+",
-    "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-    "source": "Hacker News",
-    "published": "2026-09-04T12:43:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563784\">Comments</a>"
-  },
-  {
-    "title": "Ok, but does it scale?",
-    "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-    "source": "Hacker News",
-    "published": "2026-09-04T12:42:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563772\">Comments</a>"
-  },
-  {
-    "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-    "link": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-    "source": "Hacker News",
-    "published": "2026-09-04T12:01:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563415\">Comments</a>"
-  },
-  {
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "source": "Hacker News",
-    "published": "2026-09-04T11:59:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563386\">Comments</a>"
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
@@ -112,28 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49562657\">Comments</a>"
   },
   {
-    "title": "GPT-6 Astra",
-    "link": "https://openai.com/index/gpt-6-astra/",
+    "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
+    "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
     "source": "Hacker News",
-    "published": "2026-09-03T18:41:05+00:00",
+    "published": "2026-09-04T09:03:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49554643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49562219\">Comments</a>"
   },
   {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "link": "https://inference-docs.cerebras.ai/models/overview",
+    "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+    "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
     "source": "Hacker News",
-    "published": "2026-09-03T18:32:13+00:00",
+    "published": "2026-09-03T19:10:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49554520\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49555131\">Comments</a>"
   },
   {
-    "title": ".name Termination",
-    "link": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "People that worked on the same idea for decades",
+    "link": "https://nityasnotes.com/writing/decades/",
     "source": "Hacker News",
-    "published": "2026-09-03T14:54:39+00:00",
+    "published": "2026-09-03T08:31:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49550772\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49547415\">Comments</a>"
   },
   {
     "title": "The Two Abstractions of System Design: Hide or Reduce",
@@ -142,6 +134,14 @@
     "published": "2026-09-02T11:54:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49534936\">Comments</a>"
+  },
+  {
+    "title": "Resources to Get Good at Soldering?",
+    "link": "https://news.ycombinator.com/item?id=49533840",
+    "source": "Hacker News",
+    "published": "2026-09-02T09:24:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49533840\">Comments</a>"
   },
   {
     "title": "Getting Started with AT Protocol",
