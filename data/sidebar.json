@@ -1,11 +1,19 @@
 [
   {
-    "title": "Why are European countries moving their gold out of North America?",
-    "link": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+    "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
     "source": "Hacker News",
-    "published": "2026-09-05T05:52:09+00:00",
+    "published": "2026-09-05T10:14:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49573455\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575034\">Comments</a>"
+  },
+  {
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "source": "Hacker News",
+    "published": "2026-09-05T07:52:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49574167\">Comments</a>"
   },
   {
     "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49569896\">Comments</a>"
   },
   {
-    "title": "An open DNS recursive service for free security and high privacy",
-    "link": "https://quad9.net/",
-    "source": "Hacker News",
-    "published": "2026-09-04T20:13:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569663\">Comments</a>"
-  },
-  {
     "title": "Can AI design circuit boards yet?",
     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
     "published": "2026-09-04T19:48:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>"
-  },
-  {
-    "title": "Fermat's Last Theorem in Lean 4",
-    "link": "https://github.com/anthropics/fermats-last-theorem",
-    "source": "Hacker News",
-    "published": "2026-09-04T18:57:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568697\">Comments</a>"
   },
   {
     "title": "Shutting down our public encrypted DNS",
@@ -128,12 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49563355\">Comments</a>"
   },
   {
-    "title": "RSA-260 Factorized",
-    "link": "https://twitter.com/penlume/status/2095372672356212876",
+    "title": "'Fakers' by Rory Cormac Review",
+    "link": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
     "source": "Hacker News",
-    "published": "2026-09-03T05:35:31+00:00",
+    "published": "2026-09-03T19:10:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49546284\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49555121\">Comments</a>"
+  },
+  {
+    "title": "Sky Map 2000 \u2013 Star Atlas and Planetarium",
+    "link": "https://skymap2000.com/",
+    "source": "Hacker News",
+    "published": "2026-09-03T11:20:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49548596\">Comments</a>"
   },
   {
     "title": "Ask HN: Resources to get good at soldering?",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49533840\">Comments</a>"
   },
   {
-    "title": "I Want a Wife (1971) [pdf]",
-    "link": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
-    "source": "Hacker News",
-    "published": "2026-09-01T22:34:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49529179\">Comments</a>"
-  },
-  {
     "title": "Git Submodules as a Package Manager",
     "link": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
     "source": "Hacker News",
     "published": "2026-09-01T09:36:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49519850\">Comments</a>"
+  },
+  {
+    "title": "Kale: A Transformation-Safe Spreadsheet System",
+    "link": "https://arxiv.org/abs/2608.26345",
+    "source": "Hacker News",
+    "published": "2026-09-01T01:42:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49516962\">Comments</a>"
   }
 ]
