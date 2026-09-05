@@ -1,19 +1,27 @@
 [
   {
-    "title": "Bob and Van",
-    "link": "https://marco.org/2026/09/04/bob-and-van",
+    "title": "The moral panic over data centres is foolish",
+    "link": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
     "source": "Hacker News",
-    "published": "2026-09-05T16:30:35+00:00",
+    "published": "2026-09-05T19:15:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49578136\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49579714\">Comments</a>"
   },
   {
-    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-    "link": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+    "title": "The Luxuries in Life",
+    "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
     "source": "Hacker News",
-    "published": "2026-09-05T16:14:34+00:00",
+    "published": "2026-09-05T17:46:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49577985\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49578866\">Comments</a>"
+  },
+  {
+    "title": "Learn Programming with OCaml",
+    "link": "https://usr.lmf.cnrs.fr/lpo/",
+    "source": "Hacker News",
+    "published": "2026-09-05T16:45:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49578280\">Comments</a>"
   },
   {
     "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
@@ -24,22 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49577975\">Comments</a>"
   },
   {
-    "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-    "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-    "source": "Hacker News",
-    "published": "2026-09-05T14:40:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49576986\">Comments</a>"
-  },
-  {
-    "title": "Meet the Ig Nobel Prize Winners",
-    "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-    "source": "Hacker News",
-    "published": "2026-09-05T14:02:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49576611\">Comments</a>"
-  },
-  {
     "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
     "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
     "source": "Hacker News",
@@ -48,12 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49576386\">Comments</a>"
   },
   {
-    "title": "Global warming will exceed 1.5-degree limit, UN says",
-    "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
     "source": "Hacker News",
-    "published": "2026-09-05T13:02:14+00:00",
+    "published": "2026-09-05T13:31:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49576124\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49576343\">Comments</a>"
+  },
+  {
+    "title": ".gitignore Everything by Default",
+    "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+    "source": "Hacker News",
+    "published": "2026-09-05T13:19:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49576258\">Comments</a>"
   },
   {
     "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
@@ -70,30 +70,6 @@
     "published": "2026-09-05T10:33:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49575150\">Comments</a>"
-  },
-  {
-    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-    "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-    "source": "Hacker News",
-    "published": "2026-09-05T10:14:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575034\">Comments</a>"
-  },
-  {
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "source": "Hacker News",
-    "published": "2026-09-05T07:52:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49574167\">Comments</a>"
-  },
-  {
-    "title": "Git hosting that never leaves Europe",
-    "link": "https://pushin.eu",
-    "source": "Hacker News",
-    "published": "2026-09-05T06:31:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49573680\">Comments</a>"
   },
   {
     "title": "Nitter has more working instances than before the takedowns",
@@ -144,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49563355\">Comments</a>"
   },
   {
+    "title": "Steffen's Polyhedron \u2013 Greg Egan",
+    "link": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+    "source": "Hacker News",
+    "published": "2026-09-03T16:24:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49552615\">Comments</a>"
+  },
+  {
     "title": "A Million Falcons Went Missing. Here\u2019s How They Were Found",
     "link": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49540253\">Comments</a>"
   },
   {
+    "title": "Delidded Intel I9-14900KS CT Scan",
+    "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+    "source": "Hacker News",
+    "published": "2026-09-02T16:56:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49539110\">Comments</a>"
+  },
+  {
     "title": "Singapore subway (mrt) information display types",
     "link": "https://www.sgtrains.com/technology-infosys.html",
     "source": "Hacker News",
     "published": "2026-09-02T13:30:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49535940\">Comments</a>"
+  },
+  {
+    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+    "link": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+    "source": "Hacker News",
+    "published": "2026-09-01T17:38:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525188\">Comments</a>"
   }
 ]
