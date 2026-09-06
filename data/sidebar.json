@@ -1,6 +1,102 @@
 [
   {
-    "title": "Intellectual Fly Is Open",
+    "title": "Any Nix package, live in the browser",
+    "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "source": "Hacker News",
+    "published": "2026-09-06T17:00:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588475\">Comments</a>"
+  },
+  {
+    "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
+    "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+    "source": "Hacker News",
+    "published": "2026-09-06T17:00:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588466\">Comments</a>"
+  },
+  {
+    "title": "OpenAI: We monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "source": "Hacker News",
+    "published": "2026-09-06T16:37:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588214\">Comments</a>"
+  },
+  {
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind/",
+    "source": "Hacker News",
+    "published": "2026-09-06T16:27:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588080\">Comments</a>"
+  },
+  {
+    "title": "Research carried out using NetBSD",
+    "link": "https://www.netbsd.org/gallery/research.html",
+    "source": "Hacker News",
+    "published": "2026-09-06T16:10:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587903\">Comments</a>"
+  },
+  {
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "source": "Hacker News",
+    "published": "2026-09-06T15:44:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587636\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Kad\u014d \u2013 open-source habit tracker, with non-binary habit score, for iOS",
+    "link": "https://github.com/scastiel/kado",
+    "source": "Hacker News",
+    "published": "2026-09-06T14:34:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586902\">Comments</a>"
+  },
+  {
+    "title": "A/I shuts down \u2013 Stay human",
+    "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "source": "Hacker News",
+    "published": "2026-09-06T14:34:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586898\">Comments</a>"
+  },
+  {
+    "title": "Asahi Linux Now Officially Supports Apple M3 Macs \u2013 With Caveats",
+    "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+    "source": "Hacker News",
+    "published": "2026-09-06T14:08:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586698\">Comments</a>"
+  },
+  {
+    "title": "The many mysteries and lessons of the Bayeux tapestry",
+    "link": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+    "source": "Hacker News",
+    "published": "2026-09-06T13:38:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586435\">Comments</a>"
+  },
+  {
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "link": "https://beige.party/@intransitivelie/117057396732763183",
+    "source": "Hacker News",
+    "published": "2026-09-06T13:02:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586171\">Comments</a>"
+  },
+  {
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+    "link": "https://shukla.io/quantum-oracle-engineering/",
+    "source": "Hacker News",
+    "published": "2026-09-06T13:00:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586151\">Comments</a>"
+  },
+  {
+    "title": "Your intellectual fly is open (2025)",
     "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
     "source": "Hacker News",
     "published": "2026-09-06T11:56:43+00:00",
@@ -16,68 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49585627\">Comments</a>"
   },
   {
-    "title": "I asked astra to make playable 4D chess",
-    "link": "https://4d-chess.pages.dev/",
-    "source": "Hacker News",
-    "published": "2026-09-06T11:04:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49585300\">Comments</a>"
-  },
-  {
-    "title": "I Changed My License",
-    "link": "https://bergie.iki.fi/blog/eupl/",
-    "source": "Hacker News",
-    "published": "2026-09-06T10:39:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49585161\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Keen Bean \u2013 Mac meeting notes that draft the spec while you talk",
-    "link": "https://keenbean.app/",
-    "source": "Hacker News",
-    "published": "2026-09-06T09:53:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49584880\">Comments</a>"
-  },
-  {
-    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
-    "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
-    "source": "Hacker News",
-    "published": "2026-09-06T09:14:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49584637\">Comments</a>"
-  },
-  {
-    "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
-    "link": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
-    "source": "Hacker News",
-    "published": "2026-09-06T08:31:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49584449\">Comments</a>"
-  },
-  {
     "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
     "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
     "source": "Hacker News",
     "published": "2026-09-06T07:21:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>"
-  },
-  {
-    "title": "AMD Based FreeBSD Desktop Reloaded",
-    "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-    "source": "Hacker News",
-    "published": "2026-09-06T02:24:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582719\">Comments</a>"
-  },
-  {
-    "title": "AI, Tools and Transformation",
-    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "source": "Hacker News",
-    "published": "2026-09-06T02:12:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582656\">Comments</a>"
   },
   {
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
@@ -96,44 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49580939\">Comments</a>"
   },
   {
-    "title": "Learn Programming with OCaml",
-    "link": "https://usr.lmf.cnrs.fr/lpo/",
+    "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+    "link": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
     "source": "Hacker News",
-    "published": "2026-09-05T16:45:02+00:00",
+    "published": "2026-09-02T20:58:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49578280\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49542471\">Comments</a>"
   },
   {
-    "title": "Discovery of a new OpenAI agent message board",
-    "link": "https://collusion.wiki/",
+    "title": "Electronic skin for prosthetics to sense temperature and pressure",
+    "link": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
     "source": "Hacker News",
-    "published": "2026-09-04T11:54:53+00:00",
+    "published": "2026-09-02T18:06:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49563355\">Comments</a>"
-  },
-  {
-    "title": "IBM Quantum Nighthawk R2",
-    "link": "https://www.ibm.com/quantum/blog/nighthawk-r2",
-    "source": "Hacker News",
-    "published": "2026-09-03T05:16:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49546198\">Comments</a>"
-  },
-  {
-    "title": "Music Theory for Programmers",
-    "link": "https://runjs.app/blog/music-theory-for-programmers",
-    "source": "Hacker News",
-    "published": "2026-09-02T20:19:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49541888\">Comments</a>"
-  },
-  {
-    "title": "OpenBSD Stories: Strange Medieval Devices",
-    "link": "http://miod.online.fr/software/openbsd/stories/smd.html",
-    "source": "Hacker News",
-    "published": "2026-09-02T17:44:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49539759\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49540090\">Comments</a>"
   },
   {
     "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
@@ -142,21 +158,5 @@
     "published": "2026-09-02T04:10:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49531619\">Comments</a>"
-  },
-  {
-    "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-    "link": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-    "source": "Hacker News",
-    "published": "2026-09-01T22:54:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49529398\">Comments</a>"
-  },
-  {
-    "title": "A Computer History Time Capsule",
-    "link": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
-    "source": "Hacker News",
-    "published": "2026-09-01T13:54:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522072\">Comments</a>"
   }
 ]
