@@ -1,11 +1,27 @@
 [
   {
-    "title": "Lazygit",
-    "link": "https://lazygit.dev/",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "link": "https://cloudinabottle.org/blog/launch-post",
     "source": "Hacker News",
-    "published": "2026-09-05T21:08:09+00:00",
+    "published": "2026-09-06T00:03:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49580702\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>"
+  },
+  {
+    "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "Hacker News",
+    "published": "2026-09-05T22:15:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49581240\">Comments</a>"
+  },
+  {
+    "title": "The revolt of the reader",
+    "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "source": "Hacker News",
+    "published": "2026-09-05T21:37:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49580939\">Comments</a>"
   },
   {
     "title": "Private German rocket makes history, reaches orbit from European soil",
@@ -40,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49580164\">Comments</a>"
   },
   {
-    "title": "The Real Luxuries In Life",
-    "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+    "link": "https://isaraerospace.com/mission-updates-overview",
     "source": "Hacker News",
-    "published": "2026-09-05T17:46:16+00:00",
+    "published": "2026-09-05T19:41:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49578866\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49579956\">Comments</a>"
   },
   {
     "title": "Learn Programming with OCaml",
@@ -72,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49576343\">Comments</a>"
   },
   {
-    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-    "link": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-    "source": "Hacker News",
-    "published": "2026-09-05T12:23:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575859\">Comments</a>"
-  },
-  {
     "title": "Terpstra Keyboard",
     "link": "http://terpstrakeyboard.com/",
     "source": "Hacker News",
@@ -104,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49570669\">Comments</a>"
   },
   {
-    "title": "Formalizing Fermat's Last Theorem",
-    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "source": "Hacker News",
-    "published": "2026-09-04T18:42:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568506\">Comments</a>"
-  },
-  {
     "title": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source": "Hacker News",
     "published": "2026-09-04T11:54:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49563355\">Comments</a>"
-  },
-  {
-    "title": "Steffen's Polyhedron",
-    "link": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-    "source": "Hacker News",
-    "published": "2026-09-03T16:24:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49552615\">Comments</a>"
   },
   {
     "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
@@ -144,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49548852\">Comments</a>"
   },
   {
+    "title": "CHC5: Open Camera System \u2013 Image Sensor Specification Comparison",
+    "link": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "source": "Hacker News",
+    "published": "2026-09-02T22:17:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49543347\">Comments</a>"
+  },
+  {
     "title": "Delidded Intel I9-14900KS CT Scan",
     "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
     "source": "Hacker News",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49539110\">Comments</a>"
   },
   {
-    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-    "link": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+    "title": "Show HN: Fly By \u2013 retro biplane flying game",
+    "link": "https://michaelteter.com/flyby.html",
     "source": "Hacker News",
-    "published": "2026-09-01T17:38:10+00:00",
+    "published": "2026-09-01T07:31:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525188\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49519101\">Comments</a>"
   }
 ]
