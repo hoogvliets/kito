@@ -1,5 +1,29 @@
 [
   {
+    "title": "AMD Based FreeBSD Desktop Reloaded",
+    "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "source": "Hacker News",
+    "published": "2026-09-06T02:24:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582719\">Comments</a>"
+  },
+  {
+    "title": "AI, Tools and Transformation",
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "source": "Hacker News",
+    "published": "2026-09-06T02:12:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582656\">Comments</a>"
+  },
+  {
+    "title": "GPT-6 Astra on robot arms",
+    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "source": "Hacker News",
+    "published": "2026-09-06T01:52:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49582582\">Comments</a>"
+  },
+  {
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
     "link": "https://cloudinabottle.org/blog/launch-post",
     "source": "Hacker News",
@@ -8,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>"
   },
   {
-    "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
-    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "Chrome again exempts Google from user site data settings",
+    "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
     "source": "Hacker News",
-    "published": "2026-09-05T22:15:52+00:00",
+    "published": "2026-09-05T23:39:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49581240\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49581870\">Comments</a>"
   },
   {
     "title": "The revolt of the reader",
@@ -32,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49580369\">Comments</a>"
   },
   {
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-    "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "source": "Hacker News",
-    "published": "2026-09-05T20:25:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49580329\">Comments</a>"
-  },
-  {
-    "title": "Isar Aerospace launch into orbit [video]",
-    "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-    "source": "Hacker News",
-    "published": "2026-09-05T20:25:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49580325\">Comments</a>"
-  },
-  {
     "title": "LLMs as a Cognitive Virus",
     "link": "https://arxiv.org/abs/2609.03344",
     "source": "Hacker News",
     "published": "2026-09-05T20:02:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49580164\">Comments</a>"
-  },
-  {
-    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-    "link": "https://isaraerospace.com/mission-updates-overview",
-    "source": "Hacker News",
-    "published": "2026-09-05T19:41:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49579956\">Comments</a>"
   },
   {
     "title": "Learn Programming with OCaml",
@@ -88,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49576343\">Comments</a>"
   },
   {
-    "title": "Terpstra Keyboard",
-    "link": "http://terpstrakeyboard.com/",
-    "source": "Hacker News",
-    "published": "2026-09-05T10:33:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575150\">Comments</a>"
-  },
-  {
     "title": "Nitter has more working instances than before the takedowns",
     "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
     "source": "Hacker News",
@@ -120,43 +112,51 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49563355\">Comments</a>"
   },
   {
-    "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-    "link": "https://github.com/iczelia/balrogg",
+    "title": "Music Theory for Programmers",
+    "link": "https://runjs.app/blog/music-theory-for-programmers",
     "source": "Hacker News",
-    "published": "2026-09-03T13:37:22+00:00",
+    "published": "2026-09-02T20:19:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49549778\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49541888\">Comments</a>"
   },
   {
-    "title": "How Swiss tables work in Go built-in map",
-    "link": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "title": "OpenBSD Stories: Strange Medieval Devices",
+    "link": "http://miod.online.fr/software/openbsd/stories/smd.html",
     "source": "Hacker News",
-    "published": "2026-09-03T11:59:17+00:00",
+    "published": "2026-09-02T17:44:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49548852\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49539759\">Comments</a>"
   },
   {
-    "title": "CHC5: Open Camera System \u2013 Image Sensor Specification Comparison",
-    "link": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+    "link": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
     "source": "Hacker News",
-    "published": "2026-09-02T22:17:08+00:00",
+    "published": "2026-09-02T13:08:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49543347\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49535634\">Comments</a>"
   },
   {
-    "title": "Delidded Intel I9-14900KS CT Scan",
-    "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+    "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+    "link": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
     "source": "Hacker News",
-    "published": "2026-09-02T16:56:03+00:00",
+    "published": "2026-09-01T22:54:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49539110\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49529398\">Comments</a>"
   },
   {
-    "title": "Show HN: Fly By \u2013 retro biplane flying game",
-    "link": "https://michaelteter.com/flyby.html",
+    "title": "Topologist's Map of the World",
+    "link": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
     "source": "Hacker News",
-    "published": "2026-09-01T07:31:38+00:00",
+    "published": "2026-09-01T20:21:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49519101\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527599\">Comments</a>"
+  },
+  {
+    "title": "RecurseCenter.return()",
+    "link": "https://mm-dev.rocks/series/recursecenter.return/",
+    "source": "Hacker News",
+    "published": "2026-09-01T19:48:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527110\">Comments</a>"
   }
 ]
