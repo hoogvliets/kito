@@ -1,5 +1,29 @@
 [
   {
+    "title": "Making a Python interpreter in 1024 bytes",
+    "link": "https://austinhenley.com/blog/python1024.html",
+    "source": "Hacker News",
+    "published": "2026-09-06T23:14:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591876\">Comments</a>"
+  },
+  {
+    "title": "Is mathematics about to enter the conservatory?",
+    "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "source": "Hacker News",
+    "published": "2026-09-06T23:02:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591793\">Comments</a>"
+  },
+  {
+    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "source": "Hacker News",
+    "published": "2026-09-06T22:43:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591672\">Comments</a>"
+  },
+  {
     "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
     "link": "https://github.com/marsbos/mador",
     "source": "Hacker News",
@@ -32,20 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49590512\">Comments</a>"
   },
   {
-    "title": "Show HN: VODForge \u2013 a free local desktop UI for YouTube video/playlist downloads",
-    "link": "https://getvodforge.com/",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
     "source": "Hacker News",
-    "published": "2026-09-06T20:07:30+00:00",
+    "published": "2026-09-06T17:49:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49590354\">Comments</a>"
-  },
-  {
-    "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
-    "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-    "source": "Hacker News",
-    "published": "2026-09-06T17:00:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588466\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588988\">Comments</a>"
   },
   {
     "title": "An Alien Mind",
@@ -72,7 +88,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49587636\">Comments</a>"
   },
   {
-    "title": "A/I shuts down \u2013 Stay human",
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "Hacker News",
+    "published": "2026-09-06T15:08:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587217\">Comments</a>"
+  },
+  {
+    "title": "A/I shuts down",
     "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "source": "Hacker News",
     "published": "2026-09-06T14:34:34+00:00",
@@ -94,22 +118,6 @@
     "published": "2026-09-06T11:56:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49585644\">Comments</a>"
-  },
-  {
-    "title": "Doomscrolling Ourselves to Death",
-    "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-    "source": "Hacker News",
-    "published": "2026-09-06T11:53:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49585627\">Comments</a>"
-  },
-  {
-    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-    "source": "Hacker News",
-    "published": "2026-09-06T07:21:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>"
   },
   {
     "title": "Reverse engineering the storage format for an undocumented database",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49540637\">Comments</a>"
   },
   {
-    "title": "Electronic skin for prosthetics to sense temperature and pressure",
-    "link": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+    "title": "Adverse Selection and Markouts",
+    "link": "https://machow.ski/posts/markouts_and_adverse_selection/",
     "source": "Hacker News",
-    "published": "2026-09-02T18:06:56+00:00",
+    "published": "2026-09-01T13:57:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49540090\">Comments</a>"
-  },
-  {
-    "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
-    "link": "https://en.wikipedia.org/wiki/M-DISC",
-    "source": "Hacker News",
-    "published": "2026-09-02T04:10:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49531619\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522092\">Comments</a>"
   }
 ]
