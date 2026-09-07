@@ -1,5 +1,53 @@
 [
   {
+    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "link": "https://github.com/timgordontg/engrim",
+    "source": "Hacker News",
+    "published": "2026-09-07T04:49:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49594008\">Comments</a>"
+  },
+  {
+    "title": "TiVo to charge money for skipping commercials in your own recordings",
+    "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+    "source": "Hacker News",
+    "published": "2026-09-07T04:41:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49593971\">Comments</a>"
+  },
+  {
+    "title": "I refused to train the AI that could replace me",
+    "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+    "source": "Hacker News",
+    "published": "2026-09-07T04:38:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49593959\">Comments</a>"
+  },
+  {
+    "title": "Keep Our Servers Running",
+    "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "source": "Hacker News",
+    "published": "2026-09-07T03:29:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49593563\">Comments</a>"
+  },
+  {
+    "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+    "link": "https://rfd.shared.oxide.computer/rfd/0301",
+    "source": "Hacker News",
+    "published": "2026-09-07T02:14:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49593066\">Comments</a>"
+  },
+  {
+    "title": "Show HN: GET Together \u2013 A social network where you don't need POST to Post",
+    "link": "https://gettogether.dev",
+    "source": "Hacker News",
+    "published": "2026-09-07T01:41:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49592840\">Comments</a>"
+  },
+  {
     "title": "Making a Python interpreter in 1024 bytes",
     "link": "https://austinhenley.com/blog/python1024.html",
     "source": "Hacker News",
@@ -8,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49591876\">Comments</a>"
   },
   {
-    "title": "Is mathematics about to enter the conservatory?",
-    "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "title": "Signing TLS handshakes inside a TPM",
+    "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
     "source": "Hacker News",
-    "published": "2026-09-06T23:02:11+00:00",
+    "published": "2026-09-06T21:05:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591793\">Comments</a>"
-  },
-  {
-    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-    "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-    "source": "Hacker News",
-    "published": "2026-09-06T22:43:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591672\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "link": "https://github.com/marsbos/mador",
-    "source": "Hacker News",
-    "published": "2026-09-06T20:45:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49590738\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49590946\">Comments</a>"
   },
   {
     "title": "It took a year to ship WebAssembly in Anubis",
@@ -56,36 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49590512\">Comments</a>"
   },
   {
+    "title": "Ask HN: How do you manage skills files?",
+    "link": "https://news.ycombinator.com/item?id=49589914",
+    "source": "Hacker News",
+    "published": "2026-09-06T19:27:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49589914\">Comments</a>"
+  },
+  {
     "title": "Nitter and XCancel resume service after legal advice",
     "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
     "source": "Hacker News",
     "published": "2026-09-06T17:49:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49588988\">Comments</a>"
-  },
-  {
-    "title": "An Alien Mind",
-    "link": "https://openai.com/index/an-alien-mind/",
-    "source": "Hacker News",
-    "published": "2026-09-06T16:27:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49588080\">Comments</a>"
-  },
-  {
-    "title": "Research carried out using NetBSD",
-    "link": "https://www.netbsd.org/gallery/research.html",
-    "source": "Hacker News",
-    "published": "2026-09-06T16:10:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587903\">Comments</a>"
-  },
-  {
-    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "source": "Hacker News",
-    "published": "2026-09-06T15:44:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587636\">Comments</a>"
   },
   {
     "title": "Research acceleration: The view inside OpenAI",
@@ -96,36 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49587217\">Comments</a>"
   },
   {
-    "title": "A/I shuts down",
-    "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "title": "Ask HN: Would you read a statistics textbook?",
+    "link": "https://news.ycombinator.com/item?id=49583440",
     "source": "Hacker News",
-    "published": "2026-09-06T14:34:34+00:00",
+    "published": "2026-09-06T04:52:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586898\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49583440\">Comments</a>"
   },
   {
-    "title": "Asahi Linux on M3",
-    "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "link": "https://news.ycombinator.com/item?id=49577129",
     "source": "Hacker News",
-    "published": "2026-09-06T14:08:59+00:00",
+    "published": "2026-09-05T14:54:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49577129\">Comments</a>"
   },
   {
-    "title": "Your intellectual fly is open (2025)",
-    "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "title": "Every Novel Is Boring\u2013Until It Isn't",
+    "link": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
     "source": "Hacker News",
-    "published": "2026-09-06T11:56:43+00:00",
+    "published": "2026-09-03T19:10:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49585644\">Comments</a>"
-  },
-  {
-    "title": "Reverse engineering the storage format for an undocumented database",
-    "link": "https://blog.glazer.ee/posts/converting-cronos/",
-    "source": "Hacker News",
-    "published": "2026-09-04T07:17:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49561514\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49555114\">Comments</a>"
   },
   {
     "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49554622\">Comments</a>"
   },
   {
-    "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
-    "link": "https://www.vidact.dev/",
+    "title": "Mmuko Boot Sequence \u2013 a tiny freestanding C kernel that boots in QEMU",
+    "link": "https://github.com/obinexus/mmuko-boot",
     "source": "Hacker News",
-    "published": "2026-09-02T20:34:24+00:00",
+    "published": "2026-09-03T18:05:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49542123\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49554102\">Comments</a>"
   },
   {
-    "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
-    "link": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+    "title": "I'm a seeing-eye dog for a computer",
+    "link": "https://claytonwramsey.com/blog/seeing-eye/",
     "source": "Hacker News",
-    "published": "2026-09-02T18:47:55+00:00",
+    "published": "2026-09-03T14:20:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49540637\">Comments</a>"
-  },
-  {
-    "title": "Adverse Selection and Markouts",
-    "link": "https://machow.ski/posts/markouts_and_adverse_selection/",
-    "source": "Hacker News",
-    "published": "2026-09-01T13:57:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522092\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49550276\">Comments</a>"
   }
 ]
