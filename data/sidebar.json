@@ -1,5 +1,21 @@
 [
   {
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "source": "Hacker News",
+    "published": "2026-09-08T01:16:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49604637\">Comments</a>"
+  },
+  {
+    "title": "TALA Is Open-Source",
+    "link": "https://d2lang.com/blog/tala-is-open-source/",
+    "source": "Hacker News",
+    "published": "2026-09-07T23:37:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49604150\">Comments</a>"
+  },
+  {
     "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
     "link": "https://github.com/Sadpainy/Stuxnet",
     "source": "Hacker News",
@@ -16,14 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49603086\">Comments</a>"
   },
   {
-    "title": "Macbeth and His Problems",
-    "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-    "source": "Hacker News",
-    "published": "2026-09-07T20:34:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49602716\">Comments</a>"
-  },
-  {
     "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
     "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
     "source": "Hacker News",
@@ -38,14 +46,6 @@
     "published": "2026-09-07T18:52:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>"
-  },
-  {
-    "title": "bzip3",
-    "link": "https://github.com/iczelia/bzip3",
-    "source": "Hacker News",
-    "published": "2026-09-07T13:35:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49598291\">Comments</a>"
   },
   {
     "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
@@ -70,14 +70,6 @@
     "published": "2026-09-06T13:07:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49586207\">Comments</a>"
-  },
-  {
-    "title": "Decapitating a MacBook (2025)",
-    "link": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-    "source": "Hacker News",
-    "published": "2026-09-06T04:40:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49583381\">Comments</a>"
   },
   {
     "title": "Trusting-Trust Attack against an Entire Linux Distribution",
@@ -112,12 +104,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49569748\">Comments</a>"
   },
   {
+    "title": "Show HN: I built an aesthetically pleasing puzzle",
+    "link": "https://jigsawhaiku.com/",
+    "source": "Hacker News",
+    "published": "2026-09-04T18:14:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568162\">Comments</a>"
+  },
+  {
+    "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+    "link": "https://blog.yosyshq.com/p/colorlight-part-1/",
+    "source": "Hacker News",
+    "published": "2026-09-04T13:05:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49564064\">Comments</a>"
+  },
+  {
     "title": "Decoding the NEC V20 Microcode",
     "link": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
     "source": "Hacker News",
     "published": "2026-09-04T05:53:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49561002\">Comments</a>"
+  },
+  {
+    "title": "John Margolies' Photographs of Roadside America",
+    "link": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+    "source": "Hacker News",
+    "published": "2026-09-04T04:57:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49560682\">Comments</a>"
   },
   {
     "title": "Show HN: Interactive Tree of Life",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49558685\">Comments</a>"
   },
   {
-    "title": "Methods for Random Gradients (2024)",
-    "link": "https://justinjay.wang/methods-for-random-gradients/",
-    "source": "Hacker News",
-    "published": "2026-09-03T22:26:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49557986\">Comments</a>"
-  },
-  {
     "title": "WeatherNext 3",
     "link": "https://deepmind.google/science/weathernext/",
     "source": "Hacker News",
     "published": "2026-09-03T16:06:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49552299\">Comments</a>"
-  },
-  {
-    "title": "My practical approach to surfing the web safely",
-    "link": "https://molily.de/safe-websurfing/",
-    "source": "Hacker News",
-    "published": "2026-09-02T13:49:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49536195\">Comments</a>"
   }
 ]
