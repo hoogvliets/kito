@@ -1,5 +1,109 @@
 [
   {
+    "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+    "link": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+    "source": "Hacker News",
+    "published": "2026-09-08T06:39:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49606339\">Comments</a>"
+  },
+  {
+    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+    "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "source": "Hacker News",
+    "published": "2026-09-08T05:42:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605915\">Comments</a>"
+  },
+  {
+    "title": "Multi-Agents LLM Financial Trading Framework",
+    "link": "https://github.com/TauricResearch/TradingAgents",
+    "source": "Hacker News",
+    "published": "2026-09-08T05:20:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605822\">Comments</a>"
+  },
+  {
+    "title": "My Feed, My Way",
+    "link": "https://www.pm.gov.au/media/my-feed-my-way",
+    "source": "Hacker News",
+    "published": "2026-09-08T05:10:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605782\">Comments</a>"
+  },
+  {
+    "title": "Mistral raises \u20ac3B to make sovereign, open-weight AI the technology frontier",
+    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "source": "Hacker News",
+    "published": "2026-09-08T05:06:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605767\">Comments</a>"
+  },
+  {
+    "title": "We have a year to fix security everywhere",
+    "link": "https://jyn.dev/a-year-to-fix-security/",
+    "source": "Hacker News",
+    "published": "2026-09-08T04:48:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605691\">Comments</a>"
+  },
+  {
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "link": "https://rohanadwankar.github.io/posts/platforms.html",
+    "source": "Hacker News",
+    "published": "2026-09-08T04:36:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605644\">Comments</a>"
+  },
+  {
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "source": "Hacker News",
+    "published": "2026-09-08T04:06:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605511\">Comments</a>"
+  },
+  {
+    "title": "I tested 10 model/harness combinations on the same Three.js task",
+    "link": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "source": "Hacker News",
+    "published": "2026-09-08T03:42:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605433\">Comments</a>"
+  },
+  {
+    "title": "GamersNexus and LG: Or why rooting your TV is a bad idea",
+    "link": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+    "source": "Hacker News",
+    "published": "2026-09-08T03:40:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605424\">Comments</a>"
+  },
+  {
+    "title": "How well do agents use test/verification techniques?",
+    "link": "https://danluu.com/agentic-testing/",
+    "source": "Hacker News",
+    "published": "2026-09-08T02:58:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605246\">Comments</a>"
+  },
+  {
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "link": "https://weirdgloop.org/blog/google-jail",
+    "source": "Hacker News",
+    "published": "2026-09-08T01:57:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49604870\">Comments</a>"
+  },
+  {
+    "title": "Jellyfin 12.0",
+    "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "source": "Hacker News",
+    "published": "2026-09-08T01:56:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49604861\">Comments</a>"
+  },
+  {
     "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
     "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
     "source": "Hacker News",
@@ -14,22 +118,6 @@
     "published": "2026-09-07T23:37:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49604150\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-    "link": "https://github.com/Sadpainy/Stuxnet",
-    "source": "Hacker News",
-    "published": "2026-09-07T22:12:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49603546\">Comments</a>"
-  },
-  {
-    "title": "Working on Economics with Fable 5",
-    "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-    "source": "Hacker News",
-    "published": "2026-09-07T21:18:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49603086\">Comments</a>"
   },
   {
     "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
@@ -48,108 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>"
   },
   {
-    "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-    "link": "https://mathathonchallenge.com/index.html",
+    "title": "Understanding Computer Memory Architecture and SSD Internals",
+    "link": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
     "source": "Hacker News",
-    "published": "2026-09-07T09:26:53+00:00",
+    "published": "2026-09-06T19:51:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49596055\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49590199\">Comments</a>"
   },
   {
-    "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
-    "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-    "source": "Hacker News",
-    "published": "2026-09-07T00:22:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49592375\">Comments</a>"
-  },
-  {
-    "title": "Icy Moons Are Ocean Worlds",
-    "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-    "source": "Hacker News",
-    "published": "2026-09-06T13:07:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586207\">Comments</a>"
-  },
-  {
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "link": "https://arxiv.org/abs/2607.24888",
-    "source": "Hacker News",
-    "published": "2026-09-05T11:25:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575515\">Comments</a>"
-  },
-  {
-    "title": "This Month in Ladybird \u2013 August 2026",
-    "link": "https://ladybird.org/newsletter/2026-08-31/",
-    "source": "Hacker News",
-    "published": "2026-09-04T22:47:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49571096\">Comments</a>"
-  },
-  {
-    "title": "Scientists observe Einstein's gravity in the quantum world",
-    "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-    "source": "Hacker News",
-    "published": "2026-09-04T20:28:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569838\">Comments</a>"
-  },
-  {
-    "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-    "link": "https://kallus.org/blog/dummit_and_foote.html",
-    "source": "Hacker News",
-    "published": "2026-09-04T20:20:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49569748\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I built an aesthetically pleasing puzzle",
-    "link": "https://jigsawhaiku.com/",
-    "source": "Hacker News",
-    "published": "2026-09-04T18:14:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49568162\">Comments</a>"
-  },
-  {
-    "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-    "link": "https://blog.yosyshq.com/p/colorlight-part-1/",
-    "source": "Hacker News",
-    "published": "2026-09-04T13:05:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49564064\">Comments</a>"
-  },
-  {
-    "title": "Decoding the NEC V20 Microcode",
-    "link": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "source": "Hacker News",
-    "published": "2026-09-04T05:53:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49561002\">Comments</a>"
-  },
-  {
-    "title": "John Margolies' Photographs of Roadside America",
+    "title": "John Margolies' photographs of roadside America",
     "link": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
     "source": "Hacker News",
     "published": "2026-09-04T04:57:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49560682\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Interactive Tree of Life",
-    "link": "https://ptree.org/",
-    "source": "Hacker News",
-    "published": "2026-09-04T00:40:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49559069\">Comments</a>"
-  },
-  {
-    "title": "Simple Is Not Small",
-    "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "source": "Hacker News",
-    "published": "2026-09-03T23:47:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49558685\">Comments</a>"
   },
   {
     "title": "WeatherNext 3",
