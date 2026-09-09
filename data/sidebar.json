@@ -1,6 +1,14 @@
 [
   {
-    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "title": "A Topological Picture Book, Rendered",
+    "link": "https://e-infinity.space/picture-book/",
+    "source": "Hacker News",
+    "published": "2026-09-08T22:28:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49618050\">Comments</a>"
+  },
+  {
+    "title": "Large language models develop novel social biases through adaptive exploration",
     "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
     "source": "Hacker News",
     "published": "2026-09-08T21:47:38+00:00",
@@ -8,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49617581\">Comments</a>"
   },
   {
-    "title": "How to Build a Printer",
+    "title": "How to build a printer",
     "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
     "source": "Hacker News",
     "published": "2026-09-08T21:22:11+00:00",
@@ -48,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49616257\">Comments</a>"
   },
   {
-    "title": "Muse: Meta's personal AI agent, features and capabilities",
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
     "link": "https://ai.meta.com/muse/",
     "source": "Hacker News",
     "published": "2026-09-08T19:25:00+00:00",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49613068\">Comments</a>"
   },
   {
-    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "source": "Hacker News",
     "published": "2026-09-08T14:55:45+00:00",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49610181\">Comments</a>"
   },
   {
-    "title": "Show HN: Copperhead \u2013 Hardware as Fast as Software",
-    "link": "https://copperhead.sh/",
-    "source": "Hacker News",
-    "published": "2026-09-08T13:26:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49610059\">Comments</a>"
-  },
-  {
     "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
     "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
     "source": "Hacker News",
@@ -120,20 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49605915\">Comments</a>"
   },
   {
-    "title": "The Helicopter with Radioactive Blades",
-    "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "title": "Getting phpBB 1.4.4 working in Docker",
+    "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
     "source": "Hacker News",
-    "published": "2026-09-07T17:44:33+00:00",
+    "published": "2026-09-07T14:35:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49600901\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49598921\">Comments</a>"
   },
   {
-    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-    "link": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+    "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+    "link": "https://news.ycombinator.com/item?id=49598009",
     "source": "Hacker News",
-    "published": "2026-09-06T22:27:27+00:00",
+    "published": "2026-09-07T13:09:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591563\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49598009\">Comments</a>"
+  },
+  {
+    "title": "The Microeconomics of Artificial Intelligence (2025)",
+    "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "source": "Hacker News",
+    "published": "2026-09-06T21:24:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591112\">Comments</a>"
   },
   {
     "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
@@ -150,13 +158,5 @@
     "published": "2026-09-05T12:09:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49575766\">Comments</a>"
-  },
-  {
-    "title": "Tracing np.add, all the way down",
-    "link": "https://blog.veitheller.de/numpy.html",
-    "source": "Hacker News",
-    "published": "2026-09-04T09:42:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49562430\">Comments</a>"
   }
 ]
