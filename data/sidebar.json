@@ -1,11 +1,75 @@
 [
   {
-    "title": "A Topological Picture Book, Rendered",
-    "link": "https://e-infinity.space/picture-book/",
+    "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
     "source": "Hacker News",
-    "published": "2026-09-08T22:28:14+00:00",
+    "published": "2026-09-09T07:22:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49618050\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49622561\">Comments</a>"
+  },
+  {
+    "title": "Trying",
+    "link": "https://gwern.net/on-really-trying",
+    "source": "Hacker News",
+    "published": "2026-09-09T06:58:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49622305\">Comments</a>"
+  },
+  {
+    "title": "Copyright does more harm than good and should be abolished",
+    "link": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+    "source": "Hacker News",
+    "published": "2026-09-09T06:31:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49622042\">Comments</a>"
+  },
+  {
+    "title": "\"Tweet\" and the bird logo apparently enter the public domain",
+    "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "source": "Hacker News",
+    "published": "2026-09-09T06:02:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49621751\">Comments</a>"
+  },
+  {
+    "title": "The Navier\u2013Stokes Millennium Prize Problem",
+    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "source": "Hacker News",
+    "published": "2026-09-09T05:55:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49621697\">Comments</a>"
+  },
+  {
+    "title": "AI Has a Discovery Problem",
+    "link": "https://mhacevedo.com/posts/the-discovery-problem",
+    "source": "Hacker News",
+    "published": "2026-09-09T04:59:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49621223\">Comments</a>"
+  },
+  {
+    "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+    "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+    "source": "Hacker News",
+    "published": "2026-09-09T04:43:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49621102\">Comments</a>"
+  },
+  {
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "link": "https://gpu-lexer.vercel.app/",
+    "source": "Hacker News",
+    "published": "2026-09-09T01:14:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49619464\">Comments</a>"
+  },
+  {
+    "title": "I resigned from Anthropic today",
+    "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "source": "Hacker News",
+    "published": "2026-09-09T00:40:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49619227\">Comments</a>"
   },
   {
     "title": "Large language models develop novel social biases through adaptive exploration",
@@ -24,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49617255\">Comments</a>"
   },
   {
-    "title": "Tao: Open math problems being non-renewably mined by AI",
-    "link": "https://mathstodon.xyz/@tao/117237320796901560",
-    "source": "Hacker News",
-    "published": "2026-09-08T21:00:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49616968\">Comments</a>"
-  },
-  {
     "title": "Mercury 2.5",
     "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
     "source": "Hacker News",
     "published": "2026-09-08T20:14:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49616354\">Comments</a>"
-  },
-  {
-    "title": "Animation in Bevy: The Big Picture",
-    "link": "https://glocq.com/en/blog/20260827/",
-    "source": "Hacker News",
-    "published": "2026-09-08T20:08:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49616272\">Comments</a>"
-  },
-  {
-    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-    "link": "https://github.com/argonautlabsai/deltafin",
-    "source": "Hacker News",
-    "published": "2026-09-08T20:07:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49616257\">Comments</a>"
   },
   {
     "title": "Muse \u2013 Meta\u2019s personal AI agent",
@@ -64,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49615537\">Comments</a>"
   },
   {
-    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-    "link": "https://openai.com/index/navier-stokes-solution/",
-    "source": "Hacker News",
-    "published": "2026-09-08T17:13:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49613262\">Comments</a>"
-  },
-  {
-    "title": "Show HN: LLM Attention Visualization",
-    "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "source": "Hacker News",
-    "published": "2026-09-08T16:59:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49613068\">Comments</a>"
-  },
-  {
     "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "source": "Hacker News",
     "published": "2026-09-08T14:55:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49611251\">Comments</a>"
-  },
-  {
-    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-    "source": "Hacker News",
-    "published": "2026-09-08T14:49:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49611128\">Comments</a>"
-  },
-  {
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "link": "https://github.com/ayghri/i-have-adhd",
-    "source": "Hacker News",
-    "published": "2026-09-08T14:13:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49610631\">Comments</a>"
   },
   {
     "title": "DaVinci Resolve 21.1",
@@ -120,43 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49605915\">Comments</a>"
   },
   {
-    "title": "Getting phpBB 1.4.4 working in Docker",
-    "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+    "title": "The origins of Partner\u2019s computer case",
+    "link": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
     "source": "Hacker News",
-    "published": "2026-09-07T14:35:12+00:00",
+    "published": "2026-09-07T12:51:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49598921\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49597806\">Comments</a>"
   },
   {
-    "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
-    "link": "https://news.ycombinator.com/item?id=49598009",
+    "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+    "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
     "source": "Hacker News",
-    "published": "2026-09-07T13:09:44+00:00",
+    "published": "2026-09-05T21:14:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49598009\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49580761\">Comments</a>"
   },
   {
-    "title": "The Microeconomics of Artificial Intelligence (2025)",
-    "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "title": "An Accidental Blackboard",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
     "source": "Hacker News",
-    "published": "2026-09-06T21:24:23+00:00",
+    "published": "2026-09-05T18:50:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49591112\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49579482\">Comments</a>"
   },
   {
-    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-    "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+    "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
     "source": "Hacker News",
-    "published": "2026-09-05T12:32:06+00:00",
+    "published": "2026-09-03T07:29:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575914\">Comments</a>"
-  },
-  {
-    "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-    "link": "https://uecker.codeberg.page/2026-09-05.html",
-    "source": "Hacker News",
-    "published": "2026-09-05T12:09:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49575766\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49546964\">Comments</a>"
   }
 ]
