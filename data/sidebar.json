@@ -1,11 +1,43 @@
 [
   {
-    "title": "Genuine Creativity Is Your New Moat (2026)",
-    "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
     "source": "Hacker News",
-    "published": "2026-09-10T19:03:34+00:00",
+    "published": "2026-09-10T21:30:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49648732\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49650418\">Comments</a>"
+  },
+  {
+    "title": "The part of Navier-Stokes no one is talking about",
+    "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "source": "Hacker News",
+    "published": "2026-09-10T21:22:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49650326\">Comments</a>"
+  },
+  {
+    "title": "Bodily Oddities",
+    "link": "https://vester.si/bodily-oddities/",
+    "source": "Hacker News",
+    "published": "2026-09-10T20:33:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649789\">Comments</a>"
+  },
+  {
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "link": "https://merybenavente.me/blog/proof-of-capture",
+    "source": "Hacker News",
+    "published": "2026-09-10T19:44:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649222\">Comments</a>"
+  },
+  {
+    "title": "OpenAI Agents API",
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "source": "Hacker News",
+    "published": "2026-09-10T19:43:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649213\">Comments</a>"
   },
   {
     "title": "JEP 544: Ahead-of-Time Code Compilation",
@@ -24,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49647134\">Comments</a>"
   },
   {
-    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-    "link": "https://tokenstead.ai/models/swe-2",
-    "source": "Hacker News",
-    "published": "2026-09-10T16:52:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49646778\">Comments</a>"
-  },
-  {
-    "title": "I have a theory that software drives people insane",
-    "link": "https://graybeard.ing/software-drives-people-insane/",
-    "source": "Hacker News",
-    "published": "2026-09-10T16:13:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49646181\">Comments</a>"
-  },
-  {
     "title": "Forgejo <=16.0.3 Critical RCE",
     "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
     "source": "Hacker News",
     "published": "2026-09-10T15:57:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49645907\">Comments</a>"
-  },
-  {
-    "title": "Neki is sharded Postgres by PlanetScale",
-    "link": "https://neki.dev/",
-    "source": "Hacker News",
-    "published": "2026-09-10T15:48:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645763\">Comments</a>"
   },
   {
     "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
@@ -88,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49645437\">Comments</a>"
   },
   {
-    "title": "Don't Let Anyone Take Away Your Big Box of Cables",
+    "title": "Don't let anyone take away your big box of cables",
     "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "source": "Hacker News",
     "published": "2026-09-10T15:27:22+00:00",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49639408\">Comments</a>"
   },
   {
-    "title": "DeepSeek v4.1 Flash",
-    "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "source": "Hacker News",
-    "published": "2026-09-10T06:11:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49639090\">Comments</a>"
-  },
-  {
     "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
     "link": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
     "source": "Hacker News",
@@ -136,27 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49627634\">Comments</a>"
   },
   {
-    "title": ">10x More Efficient Pretraining",
-    "link": "https://magic.dev/blog/pretraining",
+    "title": "What happens when a GPU writes memory",
+    "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
     "source": "Hacker News",
-    "published": "2026-09-08T16:59:53+00:00",
+    "published": "2026-09-08T19:46:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49613072\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49615922\">Comments</a>"
   },
   {
-    "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-    "link": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+    "title": "Show HN: Vertumnus \u2013 printable posters of farmers' market produce seasonality",
+    "link": "https://vertumnus.fyi",
     "source": "Hacker News",
-    "published": "2026-09-06T14:59:33+00:00",
+    "published": "2026-09-08T01:08:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49587121\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49604581\">Comments</a>"
   },
   {
-    "title": "Schemy Lisp En DOS",
-    "link": "https://sled.neocities.org/",
+    "title": "Recursion into Madness",
+    "link": "https://blog.coredump.cx/p/recursion-into-madness",
     "source": "Hacker News",
-    "published": "2026-09-06T12:58:54+00:00",
+    "published": "2026-09-07T21:50:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49586139\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49603335\">Comments</a>"
   }
 ]
