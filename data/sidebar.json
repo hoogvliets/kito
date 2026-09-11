@@ -1,19 +1,35 @@
 [
   {
-    "title": "YouTuber, or someone, wants to send nice emails to active military personnel",
-    "link": "https://mic.sandboxx.us/",
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
     "source": "Hacker News",
-    "published": "2026-09-11T01:04:33+00:00",
+    "published": "2026-09-11T06:23:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49652261\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49654229\">Comments</a>"
   },
   {
-    "title": "Google will buy half the electricity of a nuclear power plant",
-    "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+    "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
     "source": "Hacker News",
-    "published": "2026-09-11T00:42:41+00:00",
+    "published": "2026-09-11T05:26:58+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49652105\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49653882\">Comments</a>"
+  },
+  {
+    "title": "The Gemini app is now available for Windows",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "source": "Hacker News",
+    "published": "2026-09-11T04:52:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49653699\">Comments</a>"
+  },
+  {
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "source": "Hacker News",
+    "published": "2026-09-11T01:00:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49652237\">Comments</a>"
   },
   {
     "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
@@ -24,14 +40,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49652028\">Comments</a>"
   },
   {
-    "title": "Details.so",
-    "link": "https://www.details.so/inspo",
-    "source": "Hacker News",
-    "published": "2026-09-11T00:27:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651982\">Comments</a>"
-  },
-  {
     "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
     "link": "https://system76.com/workstations/thelio-mira-ai",
     "source": "Hacker News",
@@ -40,12 +48,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49651372\">Comments</a>"
   },
   {
+    "title": "Nine coding harnesses vs. your laptop",
+    "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "source": "Hacker News",
+    "published": "2026-09-10T22:54:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651221\">Comments</a>"
+  },
+  {
     "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
     "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
     "source": "Hacker News",
     "published": "2026-09-10T21:30:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49650418\">Comments</a>"
+  },
+  {
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "link": "https://merybenavente.me/blog/proof-of-capture",
+    "source": "Hacker News",
+    "published": "2026-09-10T19:44:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649222\">Comments</a>"
   },
   {
     "title": "OpenAI Agents API",
@@ -70,22 +94,6 @@
     "published": "2026-09-10T17:14:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49647134\">Comments</a>"
-  },
-  {
-    "title": "Forgejo <=16.0.3 Critical RCE",
-    "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-    "source": "Hacker News",
-    "published": "2026-09-10T15:57:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645907\">Comments</a>"
-  },
-  {
-    "title": "Neki \u2013 Sharded Postgres",
-    "link": "https://planetscale.com/blog/introducing-neki",
-    "source": "Hacker News",
-    "published": "2026-09-10T15:43:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645686\">Comments</a>"
   },
   {
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
@@ -120,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49643982\">Comments</a>"
   },
   {
-    "title": "Rust is tier-1 language at Microsoft",
-    "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "source": "Hacker News",
-    "published": "2026-09-10T13:39:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49643546\">Comments</a>"
-  },
-  {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
     "source": "Hacker News",
@@ -136,27 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49639408\">Comments</a>"
   },
   {
-    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-    "link": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "title": "iPhone Duo",
+    "link": "https://www.apple.com/iphone-duo/",
     "source": "Hacker News",
-    "published": "2026-09-09T14:54:12+00:00",
+    "published": "2026-09-09T18:15:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49627634\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49630931\">Comments</a>"
   },
   {
-    "title": "Recursion into madness",
-    "link": "https://blog.coredump.cx/p/recursion-into-madness",
+    "title": "Stop making swap partitions\u2013use swap files instead",
+    "link": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
     "source": "Hacker News",
-    "published": "2026-09-07T21:50:12+00:00",
+    "published": "2026-09-08T22:33:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49603335\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49618087\">Comments</a>"
   },
   {
-    "title": "Customizing my Compaq MX-11800 keyboard",
-    "link": "https://blog.webb.page/WM-102",
+    "title": "Working with Git Worktrees in Magit",
+    "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
     "source": "Hacker News",
-    "published": "2026-09-07T17:21:55+00:00",
+    "published": "2026-09-08T06:31:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49600657\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49606281\">Comments</a>"
   }
 ]
