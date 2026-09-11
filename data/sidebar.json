@@ -1,11 +1,51 @@
 [
   {
+    "title": "Project Blinkenlights",
+    "link": "https://blinkenlights.de/en/",
+    "source": "Hacker News",
+    "published": "2026-09-11T22:15:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49666146\">Comments</a>"
+  },
+  {
+    "title": "Show HN: ResolveHQ \u2013 A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "link": "https://github.com/mirza-rizvi/ResolveHQ",
+    "source": "Hacker News",
+    "published": "2026-09-11T21:48:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49665864\">Comments</a>"
+  },
+  {
+    "title": "GPT-6 built this earth exploration site in 5 prompts",
+    "link": "https://earth.ethanplus.ai/",
+    "source": "Hacker News",
+    "published": "2026-09-11T21:39:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49665756\">Comments</a>"
+  },
+  {
+    "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+    "link": "https://txt.hellman.io/",
+    "source": "Hacker News",
+    "published": "2026-09-11T19:46:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49664322\">Comments</a>"
+  },
+  {
     "title": "GrapheneOS' rewritten Messages app is released",
     "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
     "source": "Hacker News",
     "published": "2026-09-11T18:50:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49663373\">Comments</a>"
+  },
+  {
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "source": "Hacker News",
+    "published": "2026-09-11T18:24:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49662990\">Comments</a>"
   },
   {
     "title": "Litelm: LiteLLM Without the Bloat",
@@ -30,14 +70,6 @@
     "published": "2026-09-11T17:45:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49662371\">Comments</a>"
-  },
-  {
-    "title": "Room 641A",
-    "link": "https://en.wikipedia.org/wiki/Room_641A",
-    "source": "Hacker News",
-    "published": "2026-09-11T17:45:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49662367\">Comments</a>"
   },
   {
     "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
@@ -72,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49660676\">Comments</a>"
   },
   {
-    "title": "Global Glacier Extinction Explorer",
-    "link": "https://glacierextinction.com",
-    "source": "Hacker News",
-    "published": "2026-09-11T15:58:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660576\">Comments</a>"
-  },
-  {
     "title": "118M Queries per Second on Neki",
     "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
     "source": "Hacker News",
@@ -96,36 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49660149\">Comments</a>"
   },
   {
-    "title": "RTK reports token savings, but our cost benchmarks disagree",
-    "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "title": "A Design Space Exploration of Async/Await",
+    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
     "source": "Hacker News",
-    "published": "2026-09-11T11:15:13+00:00",
+    "published": "2026-09-09T13:59:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49656471\">Comments</a>"
-  },
-  {
-    "title": "Claude is only available to people over 18 years",
-    "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "source": "Hacker News",
-    "published": "2026-09-11T10:48:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49656225\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Bodily Oddities",
-    "link": "https://vester.si/bodily-oddities/",
-    "source": "Hacker News",
-    "published": "2026-09-10T20:33:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649789\">Comments</a>"
-  },
-  {
-    "title": "Eating Fruit Skins",
-    "link": "https://pgadey.ca/blog/eating-fruit-skins/",
-    "source": "Hacker News",
-    "published": "2026-09-09T12:01:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49625108\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49626718\">Comments</a>"
   },
   {
     "title": "AlphaGenome maps 9B DNA variants",
