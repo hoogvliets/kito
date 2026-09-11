@@ -1,27 +1,75 @@
 [
   {
-    "title": "Remember Hong Kong",
-    "link": "https://www.thenextmove.org/p/remember-hong-kong",
+    "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
+    "link": "https://snap.berkeley.edu/",
     "source": "Hacker News",
-    "published": "2026-09-11T12:34:25+00:00",
+    "published": "2026-09-11T17:36:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49657361\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49662214\">Comments</a>"
   },
   {
-    "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-    "link": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+    "link": "https://www.getzep.com/careers/",
     "source": "Hacker News",
-    "published": "2026-09-11T11:36:24+00:00",
+    "published": "2026-09-11T17:00:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49656698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49661645\">Comments</a>"
   },
   {
-    "title": "The Waymo effect: how AI is quietly making research less collaborative",
-    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+    "link": "https://github.com/godot-pty/gpty",
     "source": "Hacker News",
-    "published": "2026-09-11T11:17:50+00:00",
+    "published": "2026-09-11T16:03:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49656496\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660676\">Comments</a>"
+  },
+  {
+    "title": "Global Glacier Extinction Explorer",
+    "link": "https://glacierextinction.com",
+    "source": "Hacker News",
+    "published": "2026-09-11T15:58:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660576\">Comments</a>"
+  },
+  {
+    "title": "118M Queries per Second on Neki",
+    "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+    "source": "Hacker News",
+    "published": "2026-09-11T15:56:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660555\">Comments</a>"
+  },
+  {
+    "title": "Rune is now open source",
+    "link": "https://rune.build/blog/rune-is-now-open-source",
+    "source": "Hacker News",
+    "published": "2026-09-11T15:31:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660149\">Comments</a>"
+  },
+  {
+    "title": "HuggingFace: Security.txt",
+    "link": "https://huggingface.co/security.txt",
+    "source": "Hacker News",
+    "published": "2026-09-11T14:38:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49659245\">Comments</a>"
+  },
+  {
+    "title": "Measuring the sloppiness of code",
+    "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "source": "Hacker News",
+    "published": "2026-09-11T13:42:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49658311\">Comments</a>"
+  },
+  {
+    "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+    "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+    "source": "Hacker News",
+    "published": "2026-09-11T13:41:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49658302\">Comments</a>"
   },
   {
     "title": "RTK reports token savings, but our cost benchmarks disagree",
@@ -32,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49656471\">Comments</a>"
   },
   {
-    "title": "Claude is no longer available for minors",
+    "title": "Claude is only available to people over 18 years",
     "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
     "source": "Hacker News",
     "published": "2026-09-11T10:48:00+00:00",
@@ -40,92 +88,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49656225\">Comments</a>"
   },
   {
-    "title": "Cherenkov Radiation - traveling faster than light",
-    "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
     "source": "Hacker News",
-    "published": "2026-09-11T08:42:04+00:00",
+    "published": "2026-09-11T01:05:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49655286\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49652270\">Comments</a>"
   },
   {
-    "title": "Neijuan",
-    "link": "https://en.wikipedia.org/wiki/Neijuan",
+    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+    "link": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
     "source": "Hacker News",
-    "published": "2026-09-11T08:26:56+00:00",
+    "published": "2026-09-10T22:33:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49655176\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651046\">Comments</a>"
   },
   {
-    "title": "CSS Curiosities of the Past",
-    "link": "https://vale.rocks/posts/css-relics",
+    "title": "Show HN: Bodily Oddities",
+    "link": "https://vester.si/bodily-oddities/",
     "source": "Hacker News",
-    "published": "2026-09-11T07:57:17+00:00",
+    "published": "2026-09-10T20:33:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49654962\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649789\">Comments</a>"
   },
   {
-    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-    "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "title": "Logo Programming Language",
+    "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
     "source": "Hacker News",
-    "published": "2026-09-11T01:00:56+00:00",
+    "published": "2026-09-09T07:07:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49652237\">Comments</a>"
-  },
-  {
-    "title": "Nine coding harnesses vs. your laptop",
-    "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-    "source": "Hacker News",
-    "published": "2026-09-10T22:54:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651221\">Comments</a>"
-  },
-  {
-    "title": "OpenAI Agents API",
-    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "source": "Hacker News",
-    "published": "2026-09-10T19:43:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649213\">Comments</a>"
-  },
-  {
-    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-    "link": "https://auberon.xyz/blog/posts/deathray/",
-    "source": "Hacker News",
-    "published": "2026-09-10T19:34:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49649124\">Comments</a>"
-  },
-  {
-    "title": "Music Theory for the 21st-Century Classroom",
-    "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "source": "Hacker News",
-    "published": "2026-09-10T17:14:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49647134\">Comments</a>"
-  },
-  {
-    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-    "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-    "source": "Hacker News",
-    "published": "2026-09-10T15:29:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645437\">Comments</a>"
-  },
-  {
-    "title": "Don't let anyone take away your big box of cables",
-    "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "source": "Hacker News",
-    "published": "2026-09-10T15:27:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645393\">Comments</a>"
-  },
-  {
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "link": "https://shopify.engineering/back-to-native",
-    "source": "Hacker News",
-    "published": "2026-09-10T14:09:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49643982\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49622406\">Comments</a>"
   },
   {
     "title": "So you want to use OpenRouter?",
@@ -136,27 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49621546\">Comments</a>"
   },
   {
-    "title": "iPod Classic 6G in QEMU",
-    "link": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+    "title": "Stop making swap partitions\u2014use swap files instead",
+    "link": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
     "source": "Hacker News",
-    "published": "2026-09-08T14:54:57+00:00",
+    "published": "2026-09-08T22:33:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49611240\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49618087\">Comments</a>"
   },
   {
-    "title": "Working with Git Worktrees in Magit",
-    "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived",
+    "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
     "source": "Hacker News",
-    "published": "2026-09-08T06:31:59+00:00",
+    "published": "2026-09-08T17:35:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49606281\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49613642\">Comments</a>"
   },
   {
-    "title": "RISC-V Emulator and Linux System from Scratch",
-    "link": "https://github.com/WerWolv/riscv-emulator",
+    "title": "How the Chorleywood Bread Process transformed British bread",
+    "link": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
     "source": "Hacker News",
-    "published": "2026-09-07T21:57:15+00:00",
+    "published": "2026-09-08T14:28:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49603397\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49610834\">Comments</a>"
+  },
+  {
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+    "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "source": "Hacker News",
+    "published": "2026-09-07T18:05:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49601138\">Comments</a>"
   }
 ]
