@@ -1,11 +1,43 @@
 [
   {
-    "title": "An open letter to Dario: if you mean it, open the weights",
-    "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "source": "Hacker News",
-    "published": "2026-09-12T19:15:32+00:00",
+    "published": "2026-09-12T20:28:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676085\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676849\">Comments</a>"
+  },
+  {
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "link": "https://withspecific.com/benchmarks/real-swe",
+    "source": "Hacker News",
+    "published": "2026-09-12T20:25:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676820\">Comments</a>"
+  },
+  {
+    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+    "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
+    "source": "Hacker News",
+    "published": "2026-09-12T19:57:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676577\">Comments</a>"
+  },
+  {
+    "title": "LG Says We're Fake News [video]",
+    "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "source": "Hacker News",
+    "published": "2026-09-12T19:35:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676324\">Comments</a>"
+  },
+  {
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "link": "https://hachyderm.io/@simontatham/117201594980991062",
+    "source": "Hacker News",
+    "published": "2026-09-12T18:58:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49675902\">Comments</a>"
   },
   {
     "title": "Will There Be a 7G?",
@@ -64,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49672365\">Comments</a>"
   },
   {
-    "title": "A few good ideas in programming languages",
-    "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "source": "Hacker News",
-    "published": "2026-09-12T13:07:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49671972\">Comments</a>"
-  },
-  {
     "title": "How Trail of Bits helps verify the integrity of Signal chats",
     "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
     "source": "Hacker News",
@@ -86,30 +110,6 @@
     "published": "2026-09-12T07:54:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49670032\">Comments</a>"
-  },
-  {
-    "title": "Navier-Stokes Announcement",
-    "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "source": "Hacker News",
-    "published": "2026-09-12T04:09:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49668706\">Comments</a>"
-  },
-  {
-    "title": "google.com/goto: Google's anti-scraping update",
-    "link": "https://www.autom.dev/blog/google-search-goto-links",
-    "source": "Hacker News",
-    "published": "2026-09-12T03:14:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49668386\">Comments</a>"
-  },
-  {
-    "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-    "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-    "source": "Hacker News",
-    "published": "2026-09-11T21:16:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49665502\">Comments</a>"
   },
   {
     "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
@@ -136,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49639647\">Comments</a>"
   },
   {
-    "title": "Eating Fruit Skins",
-    "link": "https://pgadey.ca/blog/eating-fruit-skins/",
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+    "link": "https://eiln.github.io/posts/ane-dma.html",
     "source": "Hacker News",
-    "published": "2026-09-09T12:01:38+00:00",
+    "published": "2026-09-10T00:16:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49625108\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49636479\">Comments</a>"
   },
   {
     "title": "Stabilizing Rust's Never Type",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49625056\">Comments</a>"
   },
   {
-    "title": "Performance of WebAssembly Runtimes in 2026",
-    "link": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+    "title": "Apple iPod Engraver (2019)",
+    "link": "https://dunstanorchard.com/apple-ipod-engraver/",
     "source": "Hacker News",
-    "published": "2026-09-09T10:00:59+00:00",
+    "published": "2026-09-09T01:57:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49623933\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49619848\">Comments</a>"
   }
 ]
