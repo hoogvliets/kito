@@ -1,5 +1,13 @@
 [
   {
+    "title": "An open letter to Dario: if you mean it, open the weights",
+    "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "source": "Hacker News",
+    "published": "2026-09-12T19:15:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676085\">Comments</a>"
+  },
+  {
     "title": "Will There Be a 7G?",
     "link": "https://arxiv.org/abs/2609.01877",
     "source": "Hacker News",
@@ -8,15 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49674498\">Comments</a>"
   },
   {
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-    "source": "Hacker News",
-    "published": "2026-09-12T16:56:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49674395\">Comments</a>"
-  },
-  {
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+    "title": "Make your first edit to OpenStreetMap",
     "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
     "source": "Hacker News",
     "published": "2026-09-12T16:25:08+00:00",
@@ -32,14 +32,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49673580\">Comments</a>"
   },
   {
-    "title": "LG responds to TV spying allegations",
-    "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-    "source": "Hacker News",
-    "published": "2026-09-12T15:33:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49673392\">Comments</a>"
-  },
-  {
     "title": "Nvidia is the central bank of AI",
     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
     "source": "Hacker News",
@@ -48,20 +40,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49673098\">Comments</a>"
   },
   {
-    "title": "I refuse to let SPICE die",
-    "link": "https://github.com/nefarius/vd_agent/",
+    "title": "I made a build visualizer to understand Bun's compile times",
+    "link": "https://lalitm.com/post/buildprof/",
     "source": "Hacker News",
-    "published": "2026-09-12T14:25:07+00:00",
+    "published": "2026-09-12T14:45:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49672641\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49672842\">Comments</a>"
   },
   {
-    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-    "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+    "title": "We must pace the frontier",
+    "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
     "source": "Hacker News",
-    "published": "2026-09-12T14:17:28+00:00",
+    "published": "2026-09-12T14:10:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49672557\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49672510\">Comments</a>"
   },
   {
     "title": "A Mathematical Framework for Transformer Circuits (2021)",
@@ -72,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49672365\">Comments</a>"
   },
   {
-    "title": "A Few Good Ideas in Programming Languages",
+    "title": "A few good ideas in programming languages",
     "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
     "source": "Hacker News",
     "published": "2026-09-12T13:07:52+00:00",
@@ -80,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49671972\">Comments</a>"
   },
   {
-    "title": "Fuck it, make it anyway",
-    "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "How Trail of Bits helps verify the integrity of Signal chats",
+    "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
     "source": "Hacker News",
-    "published": "2026-09-12T11:42:32+00:00",
+    "published": "2026-09-12T11:27:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49671329\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49671237\">Comments</a>"
   },
   {
     "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
@@ -96,28 +88,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49670032\">Comments</a>"
   },
   {
-    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "title": "Navier-Stokes Announcement",
+    "link": "https://www.claymath.org/news/navier-stokes-announcement/",
     "source": "Hacker News",
-    "published": "2026-09-11T18:24:55+00:00",
+    "published": "2026-09-12T04:09:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49662990\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49668706\">Comments</a>"
   },
   {
-    "title": "A misalignment of AI in mathematics",
-    "link": "https://mathandai.org/",
+    "title": "google.com/goto: Google's anti-scraping update",
+    "link": "https://www.autom.dev/blog/google-search-goto-links",
     "source": "Hacker News",
-    "published": "2026-09-11T17:45:12+00:00",
+    "published": "2026-09-12T03:14:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49662371\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49668386\">Comments</a>"
   },
   {
-    "title": "LRU is harder to beat than the KV-cache papers suggest",
-    "link": "https://github.com/gauravapiscean/agentic-kv-cache",
+    "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+    "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "source": "Hacker News",
-    "published": "2026-09-10T13:39:11+00:00",
+    "published": "2026-09-11T21:16:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49643543\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49665502\">Comments</a>"
+  },
+  {
+    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+    "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "source": "Hacker News",
+    "published": "2026-09-11T14:07:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49658672\">Comments</a>"
+  },
+  {
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "source": "Hacker News",
+    "published": "2026-09-10T15:31:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49645480\">Comments</a>"
   },
   {
     "title": "IKEA made a mod for Skyrim [video]",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49639647\">Comments</a>"
   },
   {
-    "title": "How we manage and engage with our horses shapes their personality",
-    "link": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+    "title": "Eating Fruit Skins",
+    "link": "https://pgadey.ca/blog/eating-fruit-skins/",
     "source": "Hacker News",
-    "published": "2026-09-10T01:57:32+00:00",
+    "published": "2026-09-09T12:01:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49637381\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49625108\">Comments</a>"
   },
   {
-    "title": "A Design Space Exploration of Async/Await",
-    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "Stabilizing Rust's Never Type",
+    "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
     "source": "Hacker News",
-    "published": "2026-09-09T13:59:50+00:00",
+    "published": "2026-09-09T11:57:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49626718\">Comments</a>"
-  },
-  {
-    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-    "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-    "source": "Hacker News",
-    "published": "2026-09-09T11:01:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49624456\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49625056\">Comments</a>"
   },
   {
     "title": "Performance of WebAssembly Runtimes in 2026",
