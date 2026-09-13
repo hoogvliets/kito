@@ -1,11 +1,51 @@
 [
   {
-    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "Apple wants to train AI on your private personal data",
+    "link": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
     "source": "Hacker News",
-    "published": "2026-09-12T20:28:29+00:00",
+    "published": "2026-09-13T01:06:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676849\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678878\">Comments</a>"
+  },
+  {
+    "title": "Align AI and Mathematics\u2013To Something Else",
+    "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+    "source": "Hacker News",
+    "published": "2026-09-13T00:47:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678783\">Comments</a>"
+  },
+  {
+    "title": "Everyone should slow down AI development except for me",
+    "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "source": "Hacker News",
+    "published": "2026-09-13T00:30:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678683\">Comments</a>"
+  },
+  {
+    "title": "A Godot 4 port of two 1996 Bethesda shooters",
+    "link": "https://github.com/nemo22/skynet-godot",
+    "source": "Hacker News",
+    "published": "2026-09-13T00:18:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678606\">Comments</a>"
+  },
+  {
+    "title": "Recurrent Looped Transformer",
+    "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+    "source": "Hacker News",
+    "published": "2026-09-13T00:05:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678548\">Comments</a>"
+  },
+  {
+    "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
+    "link": "https://lufzle.dev/write/nobody-wrote-the-matrix/",
+    "source": "Hacker News",
+    "published": "2026-09-12T23:59:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678510\">Comments</a>"
   },
   {
     "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -14,22 +54,6 @@
     "published": "2026-09-12T20:25:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49676820\">Comments</a>"
-  },
-  {
-    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-    "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-    "source": "Hacker News",
-    "published": "2026-09-12T19:57:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676577\">Comments</a>"
-  },
-  {
-    "title": "LG Says We're Fake News [video]",
-    "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-    "source": "Hacker News",
-    "published": "2026-09-12T19:35:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676324\">Comments</a>"
   },
   {
     "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
@@ -88,38 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49672510\">Comments</a>"
   },
   {
-    "title": "A Mathematical Framework for Transformer Circuits (2021)",
-    "link": "https://transformer-circuits.pub/2021/framework/index.html",
-    "source": "Hacker News",
-    "published": "2026-09-12T13:56:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49672365\">Comments</a>"
-  },
-  {
-    "title": "How Trail of Bits helps verify the integrity of Signal chats",
-    "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-    "source": "Hacker News",
-    "published": "2026-09-12T11:27:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49671237\">Comments</a>"
-  },
-  {
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "link": "https://eiln.github.io/posts/ane.html",
-    "source": "Hacker News",
-    "published": "2026-09-12T07:54:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49670032\">Comments</a>"
-  },
-  {
-    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-    "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "source": "Hacker News",
-    "published": "2026-09-11T14:07:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49658672\">Comments</a>"
-  },
-  {
     "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
     "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
     "source": "Hacker News",
@@ -158,5 +150,13 @@
     "published": "2026-09-09T01:57:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49619848\">Comments</a>"
+  },
+  {
+    "title": "Tree Calculus",
+    "link": "https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2",
+    "source": "Hacker News",
+    "published": "2026-09-08T03:16:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49605329\">Comments</a>"
   }
 ]
