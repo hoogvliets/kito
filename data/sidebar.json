@@ -1,19 +1,43 @@
 [
   {
-    "title": "American Medical Association Backs Classification of Nearsightedness as Disease",
-    "link": "https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness",
+    "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+    "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
     "source": "Hacker News",
-    "published": "2026-09-13T07:35:33+00:00",
+    "published": "2026-09-13T12:30:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49681074\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49683265\">Comments</a>"
   },
   {
-    "title": "When Anyone Can Build Software, Who Decides What Not to Build?",
-    "link": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4",
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+    "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
     "source": "Hacker News",
-    "published": "2026-09-13T05:59:26+00:00",
+    "published": "2026-09-13T12:01:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49680485\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49683033\">Comments</a>"
+  },
+  {
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "source": "Hacker News",
+    "published": "2026-09-13T09:59:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49682087\">Comments</a>"
+  },
+  {
+    "title": "Homebrew 7.0.0",
+    "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "source": "Hacker News",
+    "published": "2026-09-13T08:41:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49681545\">Comments</a>"
+  },
+  {
+    "title": "JetKVM Mini",
+    "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "source": "Hacker News",
+    "published": "2026-09-13T07:49:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49681152\">Comments</a>"
   },
   {
     "title": "A wandering black hole caught feeding on the run",
@@ -24,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49679734\">Comments</a>"
   },
   {
-    "title": "A succession crisis that tore England apart (2023)",
-    "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-    "source": "Hacker News",
-    "published": "2026-09-13T03:18:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49679647\">Comments</a>"
-  },
-  {
     "title": "Aligned to whom?",
     "link": "https://hyperbo.la/w/aligned-to-whom/",
     "source": "Hacker News",
     "published": "2026-09-13T03:17:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49679643\">Comments</a>"
-  },
-  {
-    "title": "After Math",
-    "link": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "source": "Hacker News",
-    "published": "2026-09-13T03:16:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49679637\">Comments</a>"
   },
   {
     "title": "The Interim Computer Museum",
@@ -72,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49678683\">Comments</a>"
   },
   {
-    "title": "AgentsDock: An IDE designed for agentic AI research",
-    "link": "https://agentsdock.net/",
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "link": "https://github.com/FeralFirmware/TailTalk/",
     "source": "Hacker News",
-    "published": "2026-09-12T23:45:58+00:00",
+    "published": "2026-09-12T23:43:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678435\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678423\">Comments</a>"
   },
   {
     "title": "Don't be the out of touch Kung Fu master",
@@ -86,22 +94,6 @@
     "published": "2026-09-12T21:51:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49677577\">Comments</a>"
-  },
-  {
-    "title": "P(doom)",
-    "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "source": "Hacker News",
-    "published": "2026-09-12T21:35:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49677450\">Comments</a>"
-  },
-  {
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-    "link": "https://withspecific.com/benchmarks/real-swe",
-    "source": "Hacker News",
-    "published": "2026-09-12T20:25:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676820\">Comments</a>"
   },
   {
     "title": "Make your first edit to OpenStreetMap",
@@ -120,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49673098\">Comments</a>"
   },
   {
+    "title": "On Binary Translation and Its Consequences",
+    "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+    "source": "Hacker News",
+    "published": "2026-09-10T22:41:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651107\">Comments</a>"
+  },
+  {
     "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
     "link": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
     "source": "Hacker News",
@@ -128,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49640913\">Comments</a>"
   },
   {
-    "title": "Durable execution without history replay",
-    "link": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+    "link": "https://bensimms.moe/reverse-engineering-scooter/",
     "source": "Hacker News",
-    "published": "2026-09-09T22:41:14+00:00",
+    "published": "2026-09-10T03:32:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49635621\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49638071\">Comments</a>"
   },
   {
-    "title": "Vintage Scientific Papers with LaTeX",
-    "link": "https://github.com/Foadsf/vintage-latex",
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+    "link": "https://eiln.github.io/posts/ane-dma.html",
     "source": "Hacker News",
-    "published": "2026-09-09T16:58:27+00:00",
+    "published": "2026-09-10T00:16:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49629624\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49636479\">Comments</a>"
   },
   {
     "title": "Stabilizing Rust's Never Type",
