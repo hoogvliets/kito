@@ -1,19 +1,43 @@
 [
   {
-    "title": "Ask HN: How can I browse HN in dark mode?",
-    "link": "https://news.ycombinator.com/item?id=49686233",
+    "title": "Flock cameras used to arrest a child for playing on a swing",
+    "link": "https://www.youtube.com/watch?v=koclOnlde0E",
     "source": "Hacker News",
-    "published": "2026-09-13T17:18:41+00:00",
+    "published": "2026-09-13T18:47:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686233\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49687312\">Comments</a>"
   },
   {
-    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-    "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+    "title": "I'm being cyberattacked by Tesla, Inc",
+    "link": "https://dreamstation.systems/personal/tesla.html",
     "source": "Hacker News",
-    "published": "2026-09-13T17:08:16+00:00",
+    "published": "2026-09-13T18:03:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686134\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686766\">Comments</a>"
+  },
+  {
+    "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+    "source": "Hacker News",
+    "published": "2026-09-13T17:57:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686697\">Comments</a>"
+  },
+  {
+    "title": "Device Drivers lab exercise \u2013 COSC562",
+    "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+    "source": "Hacker News",
+    "published": "2026-09-13T17:41:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686503\">Comments</a>"
+  },
+  {
+    "title": "Why is Google still serving dodgy ads?",
+    "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "source": "Hacker News",
+    "published": "2026-09-13T17:37:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686445\">Comments</a>"
   },
   {
     "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -38,14 +62,6 @@
     "published": "2026-09-13T15:24:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49685037\">Comments</a>"
-  },
-  {
-    "title": "Predictive intelligence to anticipate anything.",
-    "link": "https://prior.chat/",
-    "source": "Hacker News",
-    "published": "2026-09-13T15:11:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49684879\">Comments</a>"
   },
   {
     "title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
@@ -80,6 +96,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49684196\">Comments</a>"
   },
   {
+    "title": "Data collected by cars and sold to third parties",
+    "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "source": "Hacker News",
+    "published": "2026-09-13T13:45:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49683953\">Comments</a>"
+  },
+  {
     "title": "Why is the x86 undefined instruction called ud2? Why 2?",
     "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
     "source": "Hacker News",
@@ -96,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49683033\">Comments</a>"
   },
   {
-    "title": "Homebrew 7.0.0",
-    "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "source": "Hacker News",
-    "published": "2026-09-13T08:41:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49681545\">Comments</a>"
-  },
-  {
     "title": "JetKVM Mini",
     "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
     "source": "Hacker News",
     "published": "2026-09-13T07:49:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49681152\">Comments</a>"
-  },
-  {
-    "title": "Aligned to whom?",
-    "link": "https://hyperbo.la/w/aligned-to-whom/",
-    "source": "Hacker News",
-    "published": "2026-09-13T03:17:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49679643\">Comments</a>"
   },
   {
     "title": "Why are AI agents lying, cheating and coordinating?",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49678969\">Comments</a>"
   },
   {
-    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "link": "https://github.com/FeralFirmware/TailTalk/",
+    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+    "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
     "source": "Hacker News",
-    "published": "2026-09-12T23:43:31+00:00",
+    "published": "2026-09-11T03:45:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49678423\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49653311\">Comments</a>"
   },
   {
-    "title": "Make your first edit to OpenStreetMap",
-    "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
+    "link": "https://www.youtube.com/watch?v=_TBNJyztai0",
     "source": "Hacker News",
-    "published": "2026-09-12T16:25:08+00:00",
+    "published": "2026-09-10T23:32:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49674050\">Comments</a>"
-  },
-  {
-    "title": "Alan's Random Insult Generator (1999)",
-    "link": "https://alanbellows.com/experiments/insult/index.html",
-    "source": "Hacker News",
-    "published": "2026-09-11T15:34:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49660196\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49651567\">Comments</a>"
   },
   {
     "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
