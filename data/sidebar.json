@@ -1,51 +1,123 @@
 [
   {
-    "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-    "link": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+    "title": "A Beginning for Mathematics",
+    "link": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
     "source": "Hacker News",
-    "published": "2026-09-14T14:39:01+00:00",
+    "published": "2026-09-14T20:14:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697666\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49703276\">Comments</a>"
   },
   {
-    "title": "Jabber/XMPP: How Do We Gain Traction?",
-    "link": "https://gultsch.de/posts/how-do-we-gain-traction/",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
     "source": "Hacker News",
-    "published": "2026-09-14T14:37:49+00:00",
+    "published": "2026-09-14T19:56:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49703003\">Comments</a>"
   },
   {
-    "title": "Graphic Rants: Nanite Tessellation",
-    "link": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
+    "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+    "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
     "source": "Hacker News",
-    "published": "2026-09-14T14:27:24+00:00",
+    "published": "2026-09-14T19:05:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697444\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49702239\">Comments</a>"
   },
   {
-    "title": "Where has Construction Automation been successful?",
-    "link": "https://www.construction-physics.com/p/where-has-construction-automation",
+    "title": "Steam Frame starts at $1059",
+    "link": "https://store.steampowered.com/hardware/steamframe",
     "source": "Hacker News",
-    "published": "2026-09-14T14:13:52+00:00",
+    "published": "2026-09-14T17:27:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697235\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700661\">Comments</a>"
   },
   {
-    "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
-    "link": "https://spectrum.ieee.org/h-1b-visa-us-government",
+    "title": "Pion, an agent designed to run any company autonomously",
+    "link": "https://andonlabs.com/blog/why-we-built-pion",
     "source": "Hacker News",
-    "published": "2026-09-14T14:09:10+00:00",
+    "published": "2026-09-14T17:16:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697171\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700477\">Comments</a>"
   },
   {
-    "title": "Understanding FlashAttention Pt 1: Personal Notes",
-    "link": "https://chizkidd.github.io//2026/09/13/flashattention/",
+    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+    "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "source": "Hacker News",
-    "published": "2026-09-14T14:01:04+00:00",
+    "published": "2026-09-14T17:02:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697046\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700255\">Comments</a>"
+  },
+  {
+    "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+    "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+    "source": "Hacker News",
+    "published": "2026-09-14T17:00:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700218\">Comments</a>"
+  },
+  {
+    "title": "Why don't machine learning research agents overfit?",
+    "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:32:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699648\">Comments</a>"
+  },
+  {
+    "title": "How my e-reader lost its stripes",
+    "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:23:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699489\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
+    "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:07:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699267\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Neobrutalism.dev \u2013 Just added Base UI support and added new color theme",
+    "link": "https://www.neobrutalism.dev/",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:02:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699159\">Comments</a>"
+  },
+  {
+    "title": "Distributed Systems Classics (2017)",
+    "link": "https://nvartolomei.com/dist-sys-classics/",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:02:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699158\">Comments</a>"
+  },
+  {
+    "title": "Truncated SVD (2023)",
+    "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+    "source": "Hacker News",
+    "published": "2026-09-14T16:00:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699134\">Comments</a>"
+  },
+  {
+    "title": "A Beginning for Mathematics",
+    "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "source": "Hacker News",
+    "published": "2026-09-14T15:33:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49698699\">Comments</a>"
+  },
+  {
+    "title": "Principles for Fast Tokio Applications",
+    "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "source": "Hacker News",
+    "published": "2026-09-14T15:27:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49698607\">Comments</a>"
   },
   {
     "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
@@ -56,92 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49697014\">Comments</a>"
   },
   {
-    "title": "The AI job market in 2026",
-    "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
     "source": "Hacker News",
-    "published": "2026-09-14T13:49:57+00:00",
+    "published": "2026-09-14T12:40:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696867\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695876\">Comments</a>"
   },
   {
-    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
-    "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "title": "XCancel service is suspended until further notice",
+    "link": "https://xcancel.com/",
     "source": "Hacker News",
-    "published": "2026-09-14T13:20:22+00:00",
+    "published": "2026-09-14T09:51:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696402\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49694296\">Comments</a>"
   },
   {
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-    "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+    "title": "Ask HN: What are you working on? (September 2026)",
+    "link": "https://news.ycombinator.com/item?id=49686380",
     "source": "Hacker News",
-    "published": "2026-09-14T13:01:04+00:00",
+    "published": "2026-09-13T17:31:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696132\">Comments</a>"
-  },
-  {
-    "title": "How to Write an Effective Software Design Document",
-    "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "source": "Hacker News",
-    "published": "2026-09-14T13:00:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696125\">Comments</a>"
-  },
-  {
-    "title": "Texas judge rules TikTok misled users on child safety feature",
-    "link": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-    "source": "Hacker News",
-    "published": "2026-09-14T12:37:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695829\">Comments</a>"
-  },
-  {
-    "title": "SDR\u2013; open source SDR with a patchable signal graph, Rust DSP, web UI",
-    "link": "https://github.com/Newspicel/sdrminusminus",
-    "source": "Hacker News",
-    "published": "2026-09-14T12:35:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695805\">Comments</a>"
-  },
-  {
-    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
-    "link": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
-    "source": "Hacker News",
-    "published": "2026-09-14T12:23:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695663\">Comments</a>"
-  },
-  {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "source": "Hacker News",
-    "published": "2026-09-14T12:01:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695409\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
-    "link": "https://github.com/callbacked/kinesis",
-    "source": "Hacker News",
-    "published": "2026-09-14T12:01:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695408\">Comments</a>"
-  },
-  {
-    "title": "A 386 PC for Your RP2350",
-    "link": "https://github.com/rh1tech/frank-386",
-    "source": "Hacker News",
-    "published": "2026-09-14T08:25:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49693613\">Comments</a>"
-  },
-  {
-    "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-    "link": "https://www.eurobirdportal.org/ebp/en/",
-    "source": "Hacker News",
-    "published": "2026-09-14T08:25:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49693610\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686380\">Comments</a>"
   },
   {
     "title": "An atlas of periodic solutions to the three-body problem",
@@ -150,13 +158,5 @@
     "published": "2026-09-12T10:13:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49670852\">Comments</a>"
-  },
-  {
-    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-    "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-    "source": "Hacker News",
-    "published": "2026-09-11T14:55:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49659557\">Comments</a>"
   }
 ]
