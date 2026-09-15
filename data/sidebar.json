@@ -1,27 +1,35 @@
 [
   {
-    "title": "A Beginning for Mathematics",
-    "link": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "link": "https://github.com/JamesRyanATX/fcbnerd",
     "source": "Hacker News",
-    "published": "2026-09-14T20:14:45+00:00",
+    "published": "2026-09-14T23:01:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49703276\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>"
   },
   {
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "title": "Charts built for Chat",
+    "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
     "source": "Hacker News",
-    "published": "2026-09-14T19:56:20+00:00",
+    "published": "2026-09-14T21:22:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49703003\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49704246\">Comments</a>"
   },
   {
-    "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
-    "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+    "title": "Amazon vs. Perplexity \u2013 U.S. Court of Appeals for the Ninth Circuit",
+    "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
     "source": "Hacker News",
-    "published": "2026-09-14T19:05:15+00:00",
+    "published": "2026-09-14T21:05:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49702239\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49704008\">Comments</a>"
+  },
+  {
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "source": "Hacker News",
+    "published": "2026-09-14T17:50:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49701004\">Comments</a>"
   },
   {
     "title": "Steam Frame starts at $1059",
@@ -48,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49700255\">Comments</a>"
   },
   {
-    "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-    "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-    "source": "Hacker News",
-    "published": "2026-09-14T17:00:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700218\">Comments</a>"
-  },
-  {
     "title": "Why don't machine learning research agents overfit?",
     "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
     "source": "Hacker News",
@@ -72,36 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49699489\">Comments</a>"
   },
   {
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
-    "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "source": "Hacker News",
-    "published": "2026-09-14T16:07:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699267\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Neobrutalism.dev \u2013 Just added Base UI support and added new color theme",
-    "link": "https://www.neobrutalism.dev/",
-    "source": "Hacker News",
-    "published": "2026-09-14T16:02:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699159\">Comments</a>"
-  },
-  {
     "title": "Distributed Systems Classics (2017)",
     "link": "https://nvartolomei.com/dist-sys-classics/",
     "source": "Hacker News",
     "published": "2026-09-14T16:02:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49699158\">Comments</a>"
-  },
-  {
-    "title": "Truncated SVD (2023)",
-    "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-    "source": "Hacker News",
-    "published": "2026-09-14T16:00:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699134\">Comments</a>"
   },
   {
     "title": "A Beginning for Mathematics",
@@ -120,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49698607\">Comments</a>"
   },
   {
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-    "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
     "source": "Hacker News",
-    "published": "2026-09-14T13:59:09+00:00",
+    "published": "2026-09-14T14:29:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697014\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49697477\">Comments</a>"
   },
   {
     "title": "OpenAI bots knew about the RubyGems caching vulnerability",
@@ -144,6 +120,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49694296\">Comments</a>"
   },
   {
+    "title": "The biggest dinosaurs couldn't sit on their eggs",
+    "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+    "source": "Hacker News",
+    "published": "2026-09-14T00:00:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49690084\">Comments</a>"
+  },
+  {
     "title": "Ask HN: What are you working on? (September 2026)",
     "link": "https://news.ycombinator.com/item?id=49686380",
     "source": "Hacker News",
@@ -152,11 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49686380\">Comments</a>"
   },
   {
-    "title": "An atlas of periodic solutions to the three-body problem",
-    "link": "https://www.threebodyorbits.com/",
+    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
     "source": "Hacker News",
-    "published": "2026-09-12T10:13:24+00:00",
+    "published": "2026-09-12T18:51:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49670852\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49675817\">Comments</a>"
+  },
+  {
+    "title": "Compressing a Flag to 11 Bits",
+    "link": "https://read.vantezzen.io/miniflags",
+    "source": "Hacker News",
+    "published": "2026-09-12T15:57:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49673689\">Comments</a>"
+  },
+  {
+    "title": "Optimizing a Spin-Lock",
+    "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "source": "Hacker News",
+    "published": "2026-09-12T09:43:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49670699\">Comments</a>"
   }
 ]
