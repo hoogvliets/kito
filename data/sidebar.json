@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "source": "Hacker News",
+    "published": "2026-09-15T07:00:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49708774\">Comments</a>"
+  },
+  {
+    "title": "Linux from Scratch",
+    "link": "https://www.linuxfromscratch.org/",
+    "source": "Hacker News",
+    "published": "2026-09-15T04:15:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49707627\">Comments</a>"
+  },
+  {
     "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
     "link": "https://github.com/JamesRyanATX/fcbnerd",
     "source": "Hacker News",
@@ -16,28 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49704246\">Comments</a>"
   },
   {
-    "title": "Amazon vs. Perplexity \u2013 U.S. Court of Appeals for the Ninth Circuit",
-    "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-    "source": "Hacker News",
-    "published": "2026-09-14T21:05:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49704008\">Comments</a>"
-  },
-  {
     "title": "iOS 27, iPadOS 27, and macOS 27",
     "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
     "source": "Hacker News",
     "published": "2026-09-14T17:50:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49701004\">Comments</a>"
-  },
-  {
-    "title": "Steam Frame starts at $1059",
-    "link": "https://store.steampowered.com/hardware/steamframe",
-    "source": "Hacker News",
-    "published": "2026-09-14T17:27:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700661\">Comments</a>"
   },
   {
     "title": "Pion, an agent designed to run any company autonomously",
@@ -48,30 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49700477\">Comments</a>"
   },
   {
-    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-    "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-    "source": "Hacker News",
-    "published": "2026-09-14T17:02:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49700255\">Comments</a>"
-  },
-  {
-    "title": "Why don't machine learning research agents overfit?",
-    "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "source": "Hacker News",
-    "published": "2026-09-14T16:32:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699648\">Comments</a>"
-  },
-  {
-    "title": "How my e-reader lost its stripes",
-    "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "source": "Hacker News",
-    "published": "2026-09-14T16:23:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49699489\">Comments</a>"
-  },
-  {
     "title": "Distributed Systems Classics (2017)",
     "link": "https://nvartolomei.com/dist-sys-classics/",
     "source": "Hacker News",
@@ -80,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49699158\">Comments</a>"
   },
   {
-    "title": "A Beginning for Mathematics",
+    "title": "A beginning for mathematics",
     "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
     "source": "Hacker News",
     "published": "2026-09-14T15:33:07+00:00",
@@ -104,6 +80,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49697477\">Comments</a>"
   },
   {
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "source": "Hacker News",
+    "published": "2026-09-14T13:38:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696697\">Comments</a>"
+  },
+  {
     "title": "OpenAI bots knew about the RubyGems caching vulnerability",
     "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
     "source": "Hacker News",
@@ -120,20 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49694296\">Comments</a>"
   },
   {
-    "title": "The biggest dinosaurs couldn't sit on their eggs",
-    "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+    "title": "When code is a maze, smart developers make maps (2025)",
+    "link": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
     "source": "Hacker News",
-    "published": "2026-09-14T00:00:30+00:00",
+    "published": "2026-09-14T08:35:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49690084\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49693690\">Comments</a>"
   },
   {
-    "title": "Ask HN: What are you working on? (September 2026)",
-    "link": "https://news.ycombinator.com/item?id=49686380",
+    "title": "OpenArm: An open-source 7DOF humanoid arm",
+    "link": "https://github.com/enactic/OpenArm",
     "source": "Hacker News",
-    "published": "2026-09-13T17:31:38+00:00",
+    "published": "2026-09-13T14:17:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49686380\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49684289\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
+    "link": "https://poltora.dev/redis",
+    "source": "Hacker News",
+    "published": "2026-09-12T19:43:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49676425\">Comments</a>"
   },
   {
     "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
@@ -144,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49675817\">Comments</a>"
   },
   {
-    "title": "Compressing a Flag to 11 Bits",
+    "title": "Compressing a flag to 11 bits",
     "link": "https://read.vantezzen.io/miniflags",
     "source": "Hacker News",
     "published": "2026-09-12T15:57:43+00:00",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49673689\">Comments</a>"
   },
   {
-    "title": "Optimizing a Spin-Lock",
-    "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "title": "Forgotten Woodlands",
+    "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
     "source": "Hacker News",
-    "published": "2026-09-12T09:43:44+00:00",
+    "published": "2026-09-11T21:21:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49670699\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49665549\">Comments</a>"
+  },
+  {
+    "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
+    "link": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+    "source": "Hacker News",
+    "published": "2026-09-11T16:27:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49661104\">Comments</a>"
   }
 ]
