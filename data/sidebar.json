@@ -1,35 +1,83 @@
 [
   {
-    "title": "MartyPC \u2013 A Cycle-Accurate IBM PC/XT Emulator",
-    "link": "https://github.com/dbalsom/martypc",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "source": "Hacker News",
-    "published": "2026-09-16T05:56:02+00:00",
+    "published": "2026-09-16T13:18:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722591\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49726586\">Comments</a>"
   },
   {
-    "title": "A software thing I built: GPS on a 25MHz 486-SX",
-    "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+    "title": "Scaling Golang CI by Replacing actions/setup-go",
+    "link": "https://www.cloudx.ai/posts/setup-go",
     "source": "Hacker News",
-    "published": "2026-09-16T05:43:44+00:00",
+    "published": "2026-09-16T13:02:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722521\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49726350\">Comments</a>"
   },
   {
-    "title": "Datamimic \u2013 don't let your coding agent invent its own test world",
-    "link": "https://github.com/rapiddweller/datamimic",
+    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+    "link": "https://github.com/officefloor/ImpactGate",
     "source": "Hacker News",
-    "published": "2026-09-16T04:58:36+00:00",
+    "published": "2026-09-16T13:01:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722276\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49726329\">Comments</a>"
   },
   {
-    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-    "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
     "source": "Hacker News",
-    "published": "2026-09-16T02:46:06+00:00",
+    "published": "2026-09-16T12:01:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721548\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49725541\">Comments</a>"
+  },
+  {
+    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+    "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+    "source": "Hacker News",
+    "published": "2026-09-16T11:49:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49725356\">Comments</a>"
+  },
+  {
+    "title": "The Google Play app review process now regularly takes longer than a week",
+    "link": "https://gultsch.social/@daniel/117280438824908947",
+    "source": "Hacker News",
+    "published": "2026-09-16T11:19:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49724927\">Comments</a>"
+  },
+  {
+    "title": "Salesforce Global Outage",
+    "link": "https://status.salesforce.com/products/all",
+    "source": "Hacker News",
+    "published": "2026-09-16T10:37:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49724488\">Comments</a>"
+  },
+  {
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+    "source": "Hacker News",
+    "published": "2026-09-16T09:54:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49724141\">Comments</a>"
+  },
+  {
+    "title": "Learning Programming in an Age of LLMs",
+    "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "source": "Hacker News",
+    "published": "2026-09-16T09:12:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49723873\">Comments</a>"
+  },
+  {
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "source": "Hacker News",
+    "published": "2026-09-16T08:08:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49723408\">Comments</a>"
   },
   {
     "title": "Apple Reference Image: A New Approach for Verified Photography",
@@ -40,60 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49721322\">Comments</a>"
   },
   {
-    "title": "Saving Jet Fuel",
-    "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-    "source": "Hacker News",
-    "published": "2026-09-15T23:17:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49720164\">Comments</a>"
-  },
-  {
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "source": "Hacker News",
-    "published": "2026-09-15T22:50:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49719938\">Comments</a>"
-  },
-  {
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "source": "Hacker News",
-    "published": "2026-09-15T21:07:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49718928\">Comments</a>"
-  },
-  {
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "link": "https://codyho.dev/blog/gpu-driver/",
-    "source": "Hacker News",
-    "published": "2026-09-15T19:30:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49717638\">Comments</a>"
-  },
-  {
     "title": "Introducing System One Models and Jev",
     "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "source": "Hacker News",
     "published": "2026-09-15T19:25:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49717558\">Comments</a>"
-  },
-  {
-    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-    "link": "https://mnoukhov.github.io/posts/ngu/",
-    "source": "Hacker News",
-    "published": "2026-09-15T19:07:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49717280\">Comments</a>"
-  },
-  {
-    "title": "We got admin access to Baseten's production GitHub",
-    "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "source": "Hacker News",
-    "published": "2026-09-15T18:11:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49716476\">Comments</a>"
   },
   {
     "title": "An update on Wayback Machine access",
@@ -112,22 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49715947\">Comments</a>"
   },
   {
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "source": "Hacker News",
-    "published": "2026-09-15T17:37:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715927\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-    "link": "https://withcapsule.app/",
-    "source": "Hacker News",
-    "published": "2026-09-15T13:31:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49712278\">Comments</a>"
-  },
-  {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "link": "https://github.com/arnegiacomo/fugleramme",
     "source": "Hacker News",
@@ -144,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49705944\">Comments</a>"
   },
   {
-    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "link": "https://www.effort.news/irregular",
+    "title": "We do modern frequentist statistics: Using fake-data simulation",
+    "link": "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/",
     "source": "Hacker News",
-    "published": "2026-09-14T21:15:01+00:00",
+    "published": "2026-09-14T13:58:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49704132\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49696995\">Comments</a>"
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "link": "https://arxiv.org/abs/2511.07885",
+    "source": "Hacker News",
+    "published": "2026-09-14T09:16:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49694035\">Comments</a>"
   },
   {
     "title": "Show HN: I made a flight simulator, except you're just a passenger",
@@ -158,5 +150,13 @@
     "published": "2026-09-14T09:08:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49693971\">Comments</a>"
+  },
+  {
+    "title": "Douglas Adams and the exterminated Doctor Who adventure",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+    "source": "Hacker News",
+    "published": "2026-09-13T21:49:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49689062\">Comments</a>"
   }
 ]
