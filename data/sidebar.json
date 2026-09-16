@@ -1,5 +1,45 @@
 [
   {
+    "title": "MartyPC \u2013 A Cycle-Accurate IBM PC/XT Emulator",
+    "link": "https://github.com/dbalsom/martypc",
+    "source": "Hacker News",
+    "published": "2026-09-16T05:56:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722591\">Comments</a>"
+  },
+  {
+    "title": "A software thing I built: GPS on a 25MHz 486-SX",
+    "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+    "source": "Hacker News",
+    "published": "2026-09-16T05:43:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722521\">Comments</a>"
+  },
+  {
+    "title": "Datamimic \u2013 don't let your coding agent invent its own test world",
+    "link": "https://github.com/rapiddweller/datamimic",
+    "source": "Hacker News",
+    "published": "2026-09-16T04:58:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49722276\">Comments</a>"
+  },
+  {
+    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+    "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "source": "Hacker News",
+    "published": "2026-09-16T02:46:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721548\">Comments</a>"
+  },
+  {
+    "title": "Apple Reference Image: A New Approach for Verified Photography",
+    "link": "https://security.apple.com/blog/apple-reference-image/",
+    "source": "Hacker News",
+    "published": "2026-09-16T02:07:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721322\">Comments</a>"
+  },
+  {
     "title": "Saving Jet Fuel",
     "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
     "source": "Hacker News",
@@ -24,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49718928\">Comments</a>"
   },
   {
-    "title": "Jean-Pierre Serre is 100 years old today",
-    "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "source": "Hacker News",
-    "published": "2026-09-15T20:57:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49718822\">Comments</a>"
-  },
-  {
     "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
     "link": "https://codyho.dev/blog/gpu-driver/",
     "source": "Hacker News",
     "published": "2026-09-15T19:30:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49717638\">Comments</a>"
-  },
-  {
-    "title": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "link": "https://github.com/GraafHenk/numberwang",
-    "source": "Hacker News",
-    "published": "2026-09-15T19:27:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49717605\">Comments</a>"
   },
   {
     "title": "Introducing System One Models and Jev",
@@ -64,15 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49717280\">Comments</a>"
   },
   {
-    "title": "Chopping up books when they're physically too big",
-    "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "source": "Hacker News",
-    "published": "2026-09-15T18:45:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49716953\">Comments</a>"
-  },
-  {
-    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "title": "We got admin access to Baseten's production GitHub",
     "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
     "source": "Hacker News",
     "published": "2026-09-15T18:11:24+00:00",
@@ -80,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49716476\">Comments</a>"
   },
   {
-    "title": "An Update on Wayback Machine Access",
+    "title": "An update on Wayback Machine access",
     "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "source": "Hacker News",
     "published": "2026-09-15T17:52:18+00:00",
@@ -96,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49715947\">Comments</a>"
   },
   {
-    "title": "Show HN: Pizza Bot \u2013 An inbox for AI agents that work in the background",
-    "link": "https://github.com/pizza-bot-app/pizza-bot",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
     "source": "Hacker News",
-    "published": "2026-09-15T15:20:26+00:00",
+    "published": "2026-09-15T17:37:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49713894\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715927\">Comments</a>"
   },
   {
     "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
@@ -120,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49711544\">Comments</a>"
   },
   {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "title": "Doing Everyone Else's Job",
+    "link": "https://yosefk.com/blog/doing-everyone-elses-job.html",
     "source": "Hacker News",
-    "published": "2026-09-15T10:22:46+00:00",
+    "published": "2026-09-15T00:01:31+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49710253\">Comments</a>"
-  },
-  {
-    "title": "Let's make quality the norm again",
-    "link": "https://www.forbrukerradet.no/short-life/",
-    "source": "Hacker News",
-    "published": "2026-09-15T10:00:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49710109\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49705944\">Comments</a>"
   },
   {
     "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49704132\">Comments</a>"
   },
   {
-    "title": "The Beauty of Roundabouts",
-    "link": "https://gruhn.me/blog/2026-09-14/",
+    "title": "Show HN: I made a flight simulator, except you're just a passenger",
+    "link": "https://inflightsimulator.com",
     "source": "Hacker News",
-    "published": "2026-09-14T05:53:33+00:00",
+    "published": "2026-09-14T09:08:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49692510\">Comments</a>"
-  },
-  {
-    "title": "Sierra digital cameras on the Apple II",
-    "link": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-    "source": "Hacker News",
-    "published": "2026-09-13T07:11:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49680916\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49693971\">Comments</a>"
   }
 ]
