@@ -1,11 +1,19 @@
 [
   {
-    "title": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
-    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+    "title": "Cloudflare/Security-Audit-Skill",
+    "link": "https://github.com/cloudflare/security-audit-skill",
     "source": "Hacker News",
-    "published": "2026-09-17T01:02:13+00:00",
+    "published": "2026-09-17T04:36:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49735180\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49736466\">Comments</a>"
+  },
+  {
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "link": "https://ryan.science/blog/keys-not-included",
+    "source": "Hacker News",
+    "published": "2026-09-17T03:03:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49735930\">Comments</a>"
   },
   {
     "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
@@ -22,14 +30,6 @@
     "published": "2026-09-16T23:06:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49734264\">Comments</a>"
-  },
-  {
-    "title": "Australia says it could follow Canada in forging deeper ties with EU",
-    "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-    "source": "Hacker News",
-    "published": "2026-09-16T22:56:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49734171\">Comments</a>"
   },
   {
     "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
@@ -72,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49731285\">Comments</a>"
   },
   {
-    "title": "Reverse-engineered Jev-like model",
-    "link": "https://github.com/vinnylarouge/jevlike",
-    "source": "Hacker News",
-    "published": "2026-09-16T18:49:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49731282\">Comments</a>"
-  },
-  {
     "title": "Small programming tricks",
     "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
     "source": "Hacker News",
@@ -94,6 +86,14 @@
     "published": "2026-09-16T11:15:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49724881\">Comments</a>"
+  },
+  {
+    "title": "A 32-year-old bug walks into a Telnet server",
+    "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+    "source": "Hacker News",
+    "published": "2026-09-16T02:01:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721291\">Comments</a>"
   },
   {
     "title": "The engineering behind the US Strategic Petroleum Reserve",
@@ -112,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49719249\">Comments</a>"
   },
   {
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "link": "https://jakeasmith.com/blog/http-build-url/",
+    "source": "Hacker News",
+    "published": "2026-09-15T20:53:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49718773\">Comments</a>"
+  },
+  {
+    "title": "Comparison of Malloc() Algorithms",
+    "link": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+    "source": "Hacker News",
+    "published": "2026-09-15T16:52:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715318\">Comments</a>"
+  },
+  {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "link": "https://github.com/arnegiacomo/fugleramme",
     "source": "Hacker News",
     "published": "2026-09-15T12:31:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49711544\">Comments</a>"
-  },
-  {
-    "title": "Performance Improvements in .NET 11",
-    "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "source": "Hacker News",
-    "published": "2026-09-15T12:18:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49711424\">Comments</a>"
   },
   {
     "title": "Developing provably correct Rust code with Verus",
@@ -136,27 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49700153\">Comments</a>"
   },
   {
-    "title": "Anecdotally, programmers dislike \"reduce\"",
-    "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "title": "PCB is brought to you by Fable 5",
+    "link": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
     "source": "Hacker News",
-    "published": "2026-09-14T06:46:26+00:00",
+    "published": "2026-09-14T12:25:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49692844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49695689\">Comments</a>"
   },
   {
-    "title": "Japan's book scene is moving from bookstores to libraries",
-    "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+    "link": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
     "source": "Hacker News",
-    "published": "2026-09-12T22:35:25+00:00",
+    "published": "2026-09-13T16:38:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49677916\">Comments</a>"
-  },
-  {
-    "title": "Reversing Factorio's RNG",
-    "link": "https://gegell.github.io/posts/factorio-rng/",
-    "source": "Hacker News",
-    "published": "2026-09-12T17:02:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49674451\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49685835\">Comments</a>"
   }
 ]
