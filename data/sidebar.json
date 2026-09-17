@@ -1,19 +1,67 @@
 [
   {
-    "title": "SetFree: The CLI you like and model you use should be two different decisions",
-    "link": "https://github.com/mindsdb/setfree",
+    "title": "How to Write with an LLM",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "source": "Hacker News",
-    "published": "2026-09-17T17:29:45+00:00",
+    "published": "2026-09-17T21:48:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743924\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747070\">Comments</a>"
   },
   {
-    "title": "T. Rex Had a Body Temperature of 97 Degrees",
-    "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
+    "title": "Sex, AI, and the Apocalypse",
+    "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
     "source": "Hacker News",
-    "published": "2026-09-17T17:13:42+00:00",
+    "published": "2026-09-17T21:15:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743691\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746654\">Comments</a>"
+  },
+  {
+    "title": "How Uber Protects Against Retry Storms",
+    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "source": "Hacker News",
+    "published": "2026-09-17T21:14:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746628\">Comments</a>"
+  },
+  {
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "link": "https://prismml.com/news/bonsai-2-27b",
+    "source": "Hacker News",
+    "published": "2026-09-17T21:13:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>"
+  },
+  {
+    "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
+    "link": "https://flet.dev/",
+    "source": "Hacker News",
+    "published": "2026-09-17T20:44:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746290\">Comments</a>"
+  },
+  {
+    "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "link": "https://bend-lang.com/",
+    "source": "Hacker News",
+    "published": "2026-09-17T20:36:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>"
+  },
+  {
+    "title": "Astra for Law",
+    "link": "https://openai.com/index/astra-for-law/",
+    "source": "Hacker News",
+    "published": "2026-09-17T20:17:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>"
+  },
+  {
+    "title": "Everybody's Lost Their Minds",
+    "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+    "source": "Hacker News",
+    "published": "2026-09-17T19:43:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49745570\">Comments</a>"
   },
   {
     "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
@@ -24,14 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49743567\">Comments</a>"
   },
   {
-    "title": "Towards Self-Driving Codebases",
-    "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-    "source": "Hacker News",
-    "published": "2026-09-17T16:58:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743527\">Comments</a>"
-  },
-  {
     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
     "link": "https://arxiv.org/abs/2609.18842",
     "source": "Hacker News",
@@ -40,52 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49743483\">Comments</a>"
   },
   {
-    "title": "Show HN: Aclif \u2013 Agent CLI framework: one grammar, canonical names across SaaS",
-    "link": "https://www.aclif.ai/",
-    "source": "Hacker News",
-    "published": "2026-09-17T16:48:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743382\">Comments</a>"
-  },
-  {
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
     "link": "https://github.com/asciimoo/hister",
     "source": "Hacker News",
     "published": "2026-09-17T16:25:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49743097\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
-    "link": "https://news.ycombinator.com/item?id=49743049",
-    "source": "Hacker News",
-    "published": "2026-09-17T16:22:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743049\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: How to recover Google auth after phone stolen?",
-    "link": "https://news.ycombinator.com/item?id=49742976",
-    "source": "Hacker News",
-    "published": "2026-09-17T16:17:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742976\">Comments</a>"
-  },
-  {
-    "title": "Whoisinspace.com/",
-    "link": "https://whoisinspace.com",
-    "source": "Hacker News",
-    "published": "2026-09-17T15:59:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742714\">Comments</a>"
-  },
-  {
-    "title": "Vinix \u2013 A modern operating system written in V",
-    "link": "https://vinix-os.org/",
-    "source": "Hacker News",
-    "published": "2026-09-17T15:40:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742439\">Comments</a>"
   },
   {
     "title": "CrowdSec Source Code Leak",
@@ -128,20 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>"
   },
   {
-    "title": "One year of sponsored Servo development",
-    "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "title": "Wax motor",
+    "link": "https://en.wikipedia.org/wiki/Wax_motor",
     "source": "Hacker News",
-    "published": "2026-09-17T08:13:54+00:00",
+    "published": "2026-09-16T12:35:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49737849\">Comments</a>"
-  },
-  {
-    "title": "CCC invites all model citizens to 40C3",
-    "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "source": "Hacker News",
-    "published": "2026-09-17T08:03:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49737787\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49726007\">Comments</a>"
   },
   {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49715813\">Comments</a>"
   },
   {
-    "title": "Grand MS-DOS Gaming General MIDI Showdown",
-    "link": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
+    "title": "TSMC revealing details about next gen A14 node",
+    "link": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
     "source": "Hacker News",
-    "published": "2026-09-15T15:37:55+00:00",
+    "published": "2026-09-15T15:31:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49714196\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49714096\">Comments</a>"
+  },
+  {
+    "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+    "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+    "source": "Hacker News",
+    "published": "2026-09-15T10:46:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49710447\">Comments</a>"
   }
 ]
