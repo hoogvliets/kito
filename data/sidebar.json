@@ -1,11 +1,59 @@
 [
   {
-    "title": "There's no point at which turning your brain off will work",
-    "link": "https://danluu.com/brain-off/",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "source": "Hacker News",
-    "published": "2026-09-18T17:02:52+00:00",
+    "published": "2026-09-18T19:03:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49757178\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758736\">Comments</a>"
+  },
+  {
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "link": "https://arxiv.org/abs/2609.02852",
+    "source": "Hacker News",
+    "published": "2026-09-18T19:00:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758689\">Comments</a>"
+  },
+  {
+    "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+    "link": "https://arxiv.org/abs/2510.03215",
+    "source": "Hacker News",
+    "published": "2026-09-18T18:55:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758615\">Comments</a>"
+  },
+  {
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "source": "Hacker News",
+    "published": "2026-09-18T18:51:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758580\">Comments</a>"
+  },
+  {
+    "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+    "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "source": "Hacker News",
+    "published": "2026-09-18T18:39:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758419\">Comments</a>"
+  },
+  {
+    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+    "source": "Hacker News",
+    "published": "2026-09-18T18:08:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758028\">Comments</a>"
+  },
+  {
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "source": "Hacker News",
+    "published": "2026-09-18T17:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49757520\">Comments</a>"
   },
   {
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
@@ -16,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49757050\">Comments</a>"
   },
   {
-    "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-    "link": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+    "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+    "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
     "source": "Hacker News",
-    "published": "2026-09-18T15:50:29+00:00",
+    "published": "2026-09-18T15:12:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49756171\">Comments</a>"
-  },
-  {
-    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-    "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-    "source": "Hacker News",
-    "published": "2026-09-18T15:04:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49755431\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49755533\">Comments</a>"
   },
   {
     "title": "North Korean nuclear test sets off years of earthquakes",
@@ -38,14 +78,6 @@
     "published": "2026-09-18T14:45:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49755160\">Comments</a>"
-  },
-  {
-    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-    "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-    "source": "Hacker News",
-    "published": "2026-09-18T14:41:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49755095\">Comments</a>"
   },
   {
     "title": "I vibed a proof of Conway's conjecture",
@@ -64,38 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49754785\">Comments</a>"
   },
   {
-    "title": "NATS publishes preliminary report on technical incident of 8 September",
-    "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-    "source": "Hacker News",
-    "published": "2026-09-18T13:24:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49754064\">Comments</a>"
-  },
-  {
-    "title": "An Empirical Study of Harness Design for Coding Agents",
-    "link": "https://arxiv.org/abs/2609.20804",
-    "source": "Hacker News",
-    "published": "2026-09-18T13:06:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753878\">Comments</a>"
-  },
-  {
-    "title": "I don't like passkeys",
-    "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "source": "Hacker News",
-    "published": "2026-09-18T12:06:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753211\">Comments</a>"
-  },
-  {
-    "title": "Cekura (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-    "source": "Hacker News",
-    "published": "2026-09-18T12:00:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753131\">Comments</a>"
-  },
-  {
     "title": "OpenJev",
     "link": "https://openjev.com/",
     "source": "Hacker News",
@@ -104,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>"
   },
   {
-    "title": "Jemalloc 5.4.0",
-    "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "source": "Hacker News",
-    "published": "2026-09-18T04:20:24+00:00",
+    "published": "2026-09-18T06:11:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>"
-  },
-  {
-    "title": "The scourge of x86 emulation",
-    "link": "https://fex-emu.com/Scourge-of-emulation/",
-    "source": "Hacker News",
-    "published": "2026-09-18T04:09:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49750694\">Comments</a>"
   },
   {
     "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
@@ -128,20 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49749656\">Comments</a>"
   },
   {
+    "title": "Minimal Phone 2",
+    "link": "https://minimalcompany.com/",
+    "source": "Hacker News",
+    "published": "2026-09-18T02:00:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749369\">Comments</a>"
+  },
+  {
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
     "link": "https://cactuscompute.com/needle",
     "source": "Hacker News",
     "published": "2026-09-18T00:11:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49748553\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-    "link": "https://scry.io/",
-    "source": "Hacker News",
-    "published": "2026-09-17T23:15:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49748041\">Comments</a>"
   },
   {
     "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746406\">Comments</a>"
   },
   {
-    "title": "The Shadows Lurking in the Equations \u2013 Underwater Islands",
-    "link": "https://gods.art/articles/equation_shadows",
+    "title": "The first new cat species discovered in 100 years",
+    "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
     "source": "Hacker News",
-    "published": "2026-09-16T02:37:22+00:00",
+    "published": "2026-09-17T18:31:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721507\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49744704\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Ax-check.com \u2013 Can agents use your product?",
+    "link": "https://www.ax-check.com/",
+    "source": "Hacker News",
+    "published": "2026-09-17T18:08:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49744416\">Comments</a>"
   }
 ]
