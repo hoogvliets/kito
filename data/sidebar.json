@@ -1,22 +1,70 @@
 [
   {
-    "title": "Claude Code from Source",
-    "link": "https://claude-code-from-source.com/",
+    "title": "Jemalloc 5.4.0",
+    "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
     "source": "Hacker News",
-    "published": "2026-09-18T01:14:04+00:00",
+    "published": "2026-09-18T04:20:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749019\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>"
   },
   {
-    "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
-    "link": "https://github.com/aardappel/goose/tree/master",
+    "title": "The scourge of x86 emulation",
+    "link": "https://fex-emu.com/Scourge-of-emulation/",
     "source": "Hacker News",
-    "published": "2026-09-18T01:04:54+00:00",
+    "published": "2026-09-18T04:09:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49748954\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>"
   },
   {
-    "title": "Alibaba releases Qwen 3.8 Omni Flash",
+    "title": "Waymo in Singapore",
+    "link": "https://waymo.com/waymo-in-singapore/",
+    "source": "Hacker News",
+    "published": "2026-09-18T03:49:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749981\">Comments</a>"
+  },
+  {
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "source": "Hacker News",
+    "published": "2026-09-18T03:04:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749771\">Comments</a>"
+  },
+  {
+    "title": "Hacking OpenAI",
+    "link": "https://www.hacktron.ai/blog/hacking-openai",
+    "source": "Hacker News",
+    "published": "2026-09-18T02:47:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749656\">Comments</a>"
+  },
+  {
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+    "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "source": "Hacker News",
+    "published": "2026-09-18T02:04:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749393\">Comments</a>"
+  },
+  {
+    "title": "Ask A Monk \u2013 A digital wilderness for thoughts with no immediate answer",
+    "link": "https://askamonk.online",
+    "source": "Hacker News",
+    "published": "2026-09-18T01:34:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749171\">Comments</a>"
+  },
+  {
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "source": "Hacker News",
+    "published": "2026-09-18T01:05:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49748957\">Comments</a>"
+  },
+  {
+    "title": "Qwen 3.8 Omni Flash",
     "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
     "source": "Hacker News",
     "published": "2026-09-17T23:05:48+00:00",
@@ -24,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>"
   },
   {
-    "title": "How Uber Protects Against Retry Storms",
-    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "title": "How to Write with an LLM",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "source": "Hacker News",
-    "published": "2026-09-17T21:14:32+00:00",
+    "published": "2026-09-17T21:48:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746628\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747070\">Comments</a>"
   },
   {
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -38,14 +86,6 @@
     "published": "2026-09-17T21:13:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>"
-  },
-  {
-    "title": "The most important product decision is what you don't build",
-    "link": "https://liamnugent.me/posts/what-you-dont-build/",
-    "source": "Hacker News",
-    "published": "2026-09-17T20:52:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746407\">Comments</a>"
   },
   {
     "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
@@ -64,28 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>"
   },
   {
-    "title": "More than 100k people in Japan are now aged 100 or older",
-    "link": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
-    "source": "Hacker News",
-    "published": "2026-09-17T20:33:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746117\">Comments</a>"
-  },
-  {
     "title": "Astra for Law",
     "link": "https://openai.com/index/astra-for-law/",
     "source": "Hacker News",
     "published": "2026-09-17T20:17:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>"
-  },
-  {
-    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-    "link": "https://arxiv.org/abs/2609.18842",
-    "source": "Hacker News",
-    "published": "2026-09-17T16:55:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743483\">Comments</a>"
   },
   {
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
@@ -96,38 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49743097\">Comments</a>"
   },
   {
-    "title": "CrowdSec Source Code Leak",
-    "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-    "source": "Hacker News",
-    "published": "2026-09-17T15:34:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742355\">Comments</a>"
-  },
-  {
-    "title": "Rate limits on GitLab.com are changing",
-    "link": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-    "source": "Hacker News",
-    "published": "2026-09-17T15:33:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742353\">Comments</a>"
-  },
-  {
-    "title": "Why I didn\u2019t sign the Fields medallists\u2019 letter",
-    "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source": "Hacker News",
-    "published": "2026-09-17T08:51:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49738091\">Comments</a>"
-  },
-  {
-    "title": "CCC invites all model citizens to 40C3",
-    "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "source": "Hacker News",
-    "published": "2026-09-17T08:03:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49737787\">Comments</a>"
-  },
-  {
     "title": "Wax motor",
     "link": "https://en.wikipedia.org/wiki/Wax_motor",
     "source": "Hacker News",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49726007\">Comments</a>"
   },
   {
-    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-    "link": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+    "link": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
     "source": "Hacker News",
-    "published": "2026-09-15T17:37:41+00:00",
+    "published": "2026-09-16T11:52:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715936\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49725404\">Comments</a>"
   },
   {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
@@ -158,5 +150,13 @@
     "published": "2026-09-15T10:46:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49710447\">Comments</a>"
+  },
+  {
+    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+    "link": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
+    "source": "Hacker News",
+    "published": "2026-09-13T23:19:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49689770\">Comments</a>"
   }
 ]
