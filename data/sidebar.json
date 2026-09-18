@@ -1,19 +1,27 @@
 [
   {
-    "title": "How to Write with an LLM",
-    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "Claude Code from Source",
+    "link": "https://claude-code-from-source.com/",
     "source": "Hacker News",
-    "published": "2026-09-17T21:48:38+00:00",
+    "published": "2026-09-18T01:14:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747070\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749019\">Comments</a>"
   },
   {
-    "title": "Sex, AI, and the Apocalypse",
-    "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+    "link": "https://github.com/aardappel/goose/tree/master",
     "source": "Hacker News",
-    "published": "2026-09-17T21:15:52+00:00",
+    "published": "2026-09-18T01:04:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746654\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49748954\">Comments</a>"
+  },
+  {
+    "title": "Alibaba releases Qwen 3.8 Omni Flash",
+    "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "source": "Hacker News",
+    "published": "2026-09-17T23:05:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>"
   },
   {
     "title": "How Uber Protects Against Retry Storms",
@@ -32,6 +40,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>"
   },
   {
+    "title": "The most important product decision is what you don't build",
+    "link": "https://liamnugent.me/posts/what-you-dont-build/",
+    "source": "Hacker News",
+    "published": "2026-09-17T20:52:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746407\">Comments</a>"
+  },
+  {
     "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
     "link": "https://flet.dev/",
     "source": "Hacker News",
@@ -48,28 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>"
   },
   {
+    "title": "More than 100k people in Japan are now aged 100 or older",
+    "link": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+    "source": "Hacker News",
+    "published": "2026-09-17T20:33:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746117\">Comments</a>"
+  },
+  {
     "title": "Astra for Law",
     "link": "https://openai.com/index/astra-for-law/",
     "source": "Hacker News",
     "published": "2026-09-17T20:17:48+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>"
-  },
-  {
-    "title": "Everybody's Lost Their Minds",
-    "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-    "source": "Hacker News",
-    "published": "2026-09-17T19:43:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49745570\">Comments</a>"
-  },
-  {
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-    "link": "https://zscc.ai/careers?job_id=109821",
-    "source": "Hacker News",
-    "published": "2026-09-17T17:00:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743567\">Comments</a>"
   },
   {
     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
@@ -104,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49742353\">Comments</a>"
   },
   {
-    "title": "The American Religion of Self-Storage Facilities",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "source": "Hacker News",
-    "published": "2026-09-17T13:12:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49740260\">Comments</a>"
-  },
-  {
     "title": "Why I didn\u2019t sign the Fields medallists\u2019 letter",
     "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
     "source": "Hacker News",
@@ -120,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49738091\">Comments</a>"
   },
   {
-    "title": "How GLM built its own inference infrastructure",
-    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "title": "CCC invites all model citizens to 40C3",
+    "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
     "source": "Hacker News",
-    "published": "2026-09-17T08:27:09+00:00",
+    "published": "2026-09-17T08:03:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49737787\">Comments</a>"
   },
   {
     "title": "Wax motor",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49726007\">Comments</a>"
   },
   {
+    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+    "link": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "source": "Hacker News",
+    "published": "2026-09-15T17:37:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715936\">Comments</a>"
+  },
+  {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
     "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "source": "Hacker News",
     "published": "2026-09-15T17:28:38+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49715813\">Comments</a>"
-  },
-  {
-    "title": "TSMC revealing details about next gen A14 node",
-    "link": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-    "source": "Hacker News",
-    "published": "2026-09-15T15:31:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49714096\">Comments</a>"
   },
   {
     "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
