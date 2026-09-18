@@ -1,5 +1,61 @@
 [
   {
+    "title": "I don't like passkeys",
+    "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "source": "Hacker News",
+    "published": "2026-09-18T12:06:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753211\">Comments</a>"
+  },
+  {
+    "title": "Bend 2 and the Vibe-Coding Trap",
+    "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "source": "Hacker News",
+    "published": "2026-09-18T12:03:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753179\">Comments</a>"
+  },
+  {
+    "title": "Cekura (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "source": "Hacker News",
+    "published": "2026-09-18T12:00:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49753131\">Comments</a>"
+  },
+  {
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "source": "Hacker News",
+    "published": "2026-09-18T11:01:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49752614\">Comments</a>"
+  },
+  {
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "source": "Hacker News",
+    "published": "2026-09-18T10:35:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49752422\">Comments</a>"
+  },
+  {
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "source": "Hacker News",
+    "published": "2026-09-18T09:45:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49752056\">Comments</a>"
+  },
+  {
+    "title": "OpenJev",
+    "link": "https://openjev.com/",
+    "source": "Hacker News",
+    "published": "2026-09-18T09:42:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>"
+  },
+  {
     "title": "Jemalloc 5.4.0",
     "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
     "source": "Hacker News",
@@ -16,54 +72,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>"
   },
   {
-    "title": "Waymo in Singapore",
-    "link": "https://waymo.com/waymo-in-singapore/",
-    "source": "Hacker News",
-    "published": "2026-09-18T03:49:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749981\">Comments</a>"
-  },
-  {
-    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-    "link": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "source": "Hacker News",
-    "published": "2026-09-18T03:04:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749771\">Comments</a>"
-  },
-  {
-    "title": "Hacking OpenAI",
-    "link": "https://www.hacktron.ai/blog/hacking-openai",
-    "source": "Hacker News",
-    "published": "2026-09-18T02:47:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749656\">Comments</a>"
-  },
-  {
-    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-    "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
-    "source": "Hacker News",
-    "published": "2026-09-18T02:04:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749393\">Comments</a>"
-  },
-  {
-    "title": "Ask A Monk \u2013 A digital wilderness for thoughts with no immediate answer",
-    "link": "https://askamonk.online",
-    "source": "Hacker News",
-    "published": "2026-09-18T01:34:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49749171\">Comments</a>"
-  },
-  {
-    "title": "Telstra outage: The night a network decided the year was 2006",
-    "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
-    "source": "Hacker News",
-    "published": "2026-09-18T01:05:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49748957\">Comments</a>"
-  },
-  {
     "title": "Qwen 3.8 Omni Flash",
     "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
     "source": "Hacker News",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>"
   },
   {
-    "title": "How to Write with an LLM",
-    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "source": "Hacker News",
-    "published": "2026-09-17T21:48:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747070\">Comments</a>"
-  },
-  {
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
     "link": "https://prismml.com/news/bonsai-2-27b",
     "source": "Hacker News",
     "published": "2026-09-17T21:13:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>"
-  },
-  {
-    "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
-    "link": "https://flet.dev/",
-    "source": "Hacker News",
-    "published": "2026-09-17T20:44:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49746290\">Comments</a>"
   },
   {
     "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
@@ -120,6 +112,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49743097\">Comments</a>"
   },
   {
+    "title": "Replacing Pull Requests with Delta",
+    "link": "https://zed.dev/blog/delta-public-beta",
+    "source": "Hacker News",
+    "published": "2026-09-16T14:05:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49727245\">Comments</a>"
+  },
+  {
+    "title": "When the fractional part of a float fixes your shader",
+    "link": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+    "source": "Hacker News",
+    "published": "2026-09-16T13:20:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49726614\">Comments</a>"
+  },
+  {
     "title": "Wax motor",
     "link": "https://en.wikipedia.org/wiki/Wax_motor",
     "source": "Hacker News",
@@ -128,12 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49726007\">Comments</a>"
   },
   {
-    "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-    "link": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
+    "title": "The Shadows Lurking in the Equations \u2013 Underwater Islands",
+    "link": "https://gods.art/articles/equation_shadows",
     "source": "Hacker News",
-    "published": "2026-09-16T11:52:40+00:00",
+    "published": "2026-09-16T02:37:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49725404\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49721507\">Comments</a>"
   },
   {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49715813\">Comments</a>"
   },
   {
-    "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-    "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+    "title": "Subnormal floating-point numbers are expensive on Intel processors",
+    "link": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
     "source": "Hacker News",
-    "published": "2026-09-15T10:46:24+00:00",
+    "published": "2026-09-15T16:58:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49710447\">Comments</a>"
-  },
-  {
-    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
-    "link": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
-    "source": "Hacker News",
-    "published": "2026-09-13T23:19:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49689770\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49715408\">Comments</a>"
   }
 ]
