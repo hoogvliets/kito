@@ -1,11 +1,43 @@
 [
   {
-    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-    "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "title": "Mayday Mysteries",
+    "link": "http://www.maydaymystery.org/mayday/",
     "source": "Hacker News",
-    "published": "2026-09-19T18:11:40+00:00",
+    "published": "2026-09-19T21:43:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49768833\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770362\">Comments</a>"
+  },
+  {
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "source": "Hacker News",
+    "published": "2026-09-19T21:30:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770293\">Comments</a>"
+  },
+  {
+    "title": "English: A vs. An",
+    "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "source": "Hacker News",
+    "published": "2026-09-19T20:41:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769944\">Comments</a>"
+  },
+  {
+    "title": "Measure internet censorship. Contribute to the largest open dataset",
+    "link": "https://ooni.org/install",
+    "source": "Hacker News",
+    "published": "2026-09-19T20:00:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769676\">Comments</a>"
+  },
+  {
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "link": "https://eprint.iacr.org/2026/2039",
+    "source": "Hacker News",
+    "published": "2026-09-19T19:23:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769405\">Comments</a>"
   },
   {
     "title": "Supabase (YC S20) Is Hiring for OrioleDB",
@@ -16,14 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49768220\">Comments</a>"
   },
   {
-    "title": "Almost Never Use AI to Write Anything Substantive",
-    "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-    "source": "Hacker News",
-    "published": "2026-09-19T16:35:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49767937\">Comments</a>"
-  },
-  {
     "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
     "link": "https://github.com/trycua/cua",
     "source": "Hacker News",
@@ -32,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49767564\">Comments</a>"
   },
   {
-    "title": "A graphical desktop for the ZX Spectrum",
-    "link": "https://github.com/mindbox77/zxdesk",
+    "title": "Brood War Bench",
+    "link": "https://bw.swerdlow.dev/report",
     "source": "Hacker News",
-    "published": "2026-09-19T14:01:58+00:00",
+    "published": "2026-09-19T14:44:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49766676\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49766966\">Comments</a>"
   },
   {
     "title": "Tin: full-text search for Postgres",
@@ -64,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>"
   },
   {
-    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-    "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "source": "Hacker News",
-    "published": "2026-09-19T06:41:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49763987\">Comments</a>"
-  },
-  {
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
     "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "source": "Hacker News",
     "published": "2026-09-19T05:48:50+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49763697\">Comments</a>"
-  },
-  {
-    "title": "San Francisco Onion Futures Company",
-    "link": "https://onionfutures.com/",
-    "source": "Hacker News",
-    "published": "2026-09-19T04:23:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49763296\">Comments</a>"
   },
   {
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
@@ -96,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49758736\">Comments</a>"
   },
   {
-    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-    "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-    "source": "Hacker News",
-    "published": "2026-09-18T15:47:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49756121\">Comments</a>"
-  },
-  {
-    "title": "Cloudflare Quick Tunnels",
-    "link": "https://try.cloudflare.com/",
-    "source": "Hacker News",
-    "published": "2026-09-18T14:18:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49754785\">Comments</a>"
-  },
-  {
     "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
     "link": "https://ufoseries.com/",
     "source": "Hacker News",
@@ -120,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49754194\">Comments</a>"
   },
   {
-    "title": "How to Write with an LLM",
-    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "Compiler-style optimization for drawing via Skia",
+    "link": "https://arxiv.org/abs/2603.23696",
     "source": "Hacker News",
-    "published": "2026-09-17T21:48:38+00:00",
+    "published": "2026-09-17T17:30:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49747070\">Comments</a>"
-  },
-  {
-    "title": "Adventures in Microcontroller Circuit Debugging",
-    "link": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-    "source": "Hacker News",
-    "published": "2026-09-17T19:00:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49745049\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743934\">Comments</a>"
   },
   {
     "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
@@ -144,12 +128,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49742697\">Comments</a>"
   },
   {
+    "title": "Notes on the Brothers Karamazov",
+    "link": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
+    "source": "Hacker News",
+    "published": "2026-09-17T13:00:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49740087\">Comments</a>"
+  },
+  {
     "title": "Suzanne Ciani's Buchla Cookbook",
     "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
     "source": "Hacker News",
     "published": "2026-09-17T00:39:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49735010\">Comments</a>"
+  },
+  {
+    "title": "Deodands put a price on objects that caused death",
+    "link": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+    "source": "Hacker News",
+    "published": "2026-09-16T19:51:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49731996\">Comments</a>"
   },
   {
     "title": "The Secret Life of Circuits",
