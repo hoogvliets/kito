@@ -1,19 +1,59 @@
 [
   {
+    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+    "link": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+    "source": "Hacker News",
+    "published": "2026-09-21T07:59:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49784366\">Comments</a>"
+  },
+  {
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "link": "https://github.com/jaredpalmer/kev/tree/main",
+    "source": "Hacker News",
+    "published": "2026-09-21T07:11:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49783999\">Comments</a>"
+  },
+  {
+    "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+    "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+    "source": "Hacker News",
+    "published": "2026-09-21T05:55:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49783495\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+    "link": "https://github.com/volotat/mini-AGI/",
+    "source": "Hacker News",
+    "published": "2026-09-21T04:42:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49783133\">Comments</a>"
+  },
+  {
+    "title": "Winning the visa lottery",
+    "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+    "source": "Hacker News",
+    "published": "2026-09-21T03:37:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49782775\">Comments</a>"
+  },
+  {
+    "title": "Why Backprop Goes Backward (2018)",
+    "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+    "source": "Hacker News",
+    "published": "2026-09-21T00:42:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49781693\">Comments</a>"
+  },
+  {
     "title": "Amiga Unix, Again",
     "link": "https://amigaux.org/",
     "source": "Hacker News",
     "published": "2026-09-20T23:57:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49781436\">Comments</a>"
-  },
-  {
-    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-    "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-    "source": "Hacker News",
-    "published": "2026-09-20T23:19:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49781138\">Comments</a>"
   },
   {
     "title": "What happened to the Snowden archive",
@@ -24,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49780820\">Comments</a>"
   },
   {
-    "title": "Google's Open Agentic Orchestrator",
+    "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
     "link": "https://agentexecutor.io",
     "source": "Hacker News",
     "published": "2026-09-20T22:32:43+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49780797\">Comments</a>"
-  },
-  {
-    "title": "Bill to Ban Private Equity from Owning Medical Practices",
-    "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-    "source": "Hacker News",
-    "published": "2026-09-20T22:13:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49780630\">Comments</a>"
-  },
-  {
-    "title": "Nobody pays for FOSS, we can force them to",
-    "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-    "source": "Hacker News",
-    "published": "2026-09-20T21:04:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49780064\">Comments</a>"
   },
   {
     "title": "Ogre Battle 64 Recompiled Project at 99.05%",
@@ -56,20 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49780022\">Comments</a>"
   },
   {
+    "title": "MCP was always a bad idea?",
+    "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+    "source": "Hacker News",
+    "published": "2026-09-20T19:44:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49779329\">Comments</a>"
+  },
+  {
     "title": "A Necessary History of the Oddest Letter: W",
     "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
     "source": "Hacker News",
     "published": "2026-09-20T17:55:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49778195\">Comments</a>"
-  },
-  {
-    "title": "I turned Jev into a (lousy) chatbot",
-    "link": "https://github.com/kyle-pena-nlp/jevchat/",
-    "source": "Hacker News",
-    "published": "2026-09-20T17:51:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49778162\">Comments</a>"
   },
   {
     "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
@@ -88,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49777467\">Comments</a>"
   },
   {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "source": "Hacker News",
-    "published": "2026-09-20T15:18:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49776729\">Comments</a>"
-  },
-  {
     "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
     "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
     "source": "Hacker News",
     "published": "2026-09-20T15:18:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49776717\">Comments</a>"
-  },
-  {
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "link": "https://pirateface.co/",
-    "source": "Hacker News",
-    "published": "2026-09-20T15:16:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49776699\">Comments</a>"
-  },
-  {
-    "title": "Sherline Tools Is Going Out of Business",
-    "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-    "source": "Hacker News",
-    "published": "2026-09-20T15:09:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49776627\">Comments</a>"
   },
   {
     "title": "Qwen Image 2.1",
@@ -128,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49775499\">Comments</a>"
   },
   {
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "title": "Spain orders blocks on Archive.today and its mirrors",
     "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
     "source": "Hacker News",
     "published": "2026-09-20T06:16:42+00:00",
