@@ -1,5 +1,37 @@
 [
   {
+    "title": "Claude Status \u2013 Elevated errors for multiple models",
+    "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "source": "Hacker News",
+    "published": "2026-09-22T01:05:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49795579\">Comments</a>"
+  },
+  {
+    "title": "Looking forward to Git 2.56 \u2013 and 3.0",
+    "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+    "source": "Hacker News",
+    "published": "2026-09-21T23:16:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49794736\">Comments</a>"
+  },
+  {
+    "title": "Spymarks, Not Watermarks",
+    "link": "https://brand.io/article/spymarks/",
+    "source": "Hacker News",
+    "published": "2026-09-21T23:03:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49794615\">Comments</a>"
+  },
+  {
+    "title": "I don't want to read what you didn't write",
+    "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "source": "Hacker News",
+    "published": "2026-09-21T22:30:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49794330\">Comments</a>"
+  },
+  {
     "title": "Xiaomi MiMo v2.6",
     "link": "https://mimo.xiaomi.com/mimo-v2-6",
     "source": "Hacker News",
@@ -14,14 +46,6 @@
     "published": "2026-09-21T19:43:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49792342\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A website that tracks US food prices every day",
-    "link": "https://www.kadoa.com/food-prices",
-    "source": "Hacker News",
-    "published": "2026-09-21T19:24:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49792076\">Comments</a>"
   },
   {
     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
@@ -40,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49791997\">Comments</a>"
   },
   {
-    "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+    "title": "NASA\u2019s Mars Sample Return mission is dead",
     "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
     "source": "Hacker News",
     "published": "2026-09-21T19:14:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49791939\">Comments</a>"
-  },
-  {
-    "title": "In Search of a Compositional Theory of Self-Stabilization",
-    "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-    "source": "Hacker News",
-    "published": "2026-09-21T19:04:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791797\">Comments</a>"
-  },
-  {
-    "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
-    "link": "https://robocurve.org/roboharm/",
-    "source": "Hacker News",
-    "published": "2026-09-21T18:58:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791720\">Comments</a>"
   },
   {
     "title": "Frontier AI on Your Own Hardware",
@@ -72,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49791647\">Comments</a>"
   },
   {
-    "title": "US halts flights at busy East Coast airports, says fiber line cut",
-    "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-    "source": "Hacker News",
-    "published": "2026-09-21T18:41:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791509\">Comments</a>"
-  },
-  {
     "title": "Why does mathmain need an encrypted loader?",
     "link": "https://safedep.io/mathmain-encrypted-loader/",
     "source": "Hacker News",
     "published": "2026-09-21T18:33:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49791378\">Comments</a>"
-  },
-  {
-    "title": "Apple Copland D11E4 Booting in the Browser",
-    "link": "https://www.pagetable.com/300",
-    "source": "Hacker News",
-    "published": "2026-09-21T18:15:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791125\">Comments</a>"
   },
   {
     "title": "Turn off and restrict access to Apple Intelligence features on Mac",
@@ -104,12 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49790409\">Comments</a>"
   },
   {
-    "title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
-    "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "title": "How do traffic signals work? (2019)",
+    "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
     "source": "Hacker News",
-    "published": "2026-09-21T16:14:16+00:00",
+    "published": "2026-09-21T16:06:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49789228\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49789081\">Comments</a>"
   },
   {
     "title": "Grok 4.7",
@@ -136,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49787436\">Comments</a>"
   },
   {
-    "title": "Python Workers are now generally available",
-    "link": "https://blog.cloudflare.com/python-workers-ga/",
+    "title": "First Shader from Zero in Godot 4",
+    "link": "https://www.gdquest.com/library/first_shader_godot4_portal/",
     "source": "Hacker News",
-    "published": "2026-09-21T13:38:19+00:00",
+    "published": "2026-09-21T10:57:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49787142\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49785609\">Comments</a>"
   },
   {
     "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
@@ -152,7 +144,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49783999\">Comments</a>"
   },
   {
-    "title": "Divide by Depth for Instant 3D",
+    "title": "More Floating Point Alternatives",
+    "link": "https://wizardzines.com/comics/floating-point-alternatives/",
+    "source": "Hacker News",
+    "published": "2026-09-20T00:55:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49771543\">Comments</a>"
+  },
+  {
+    "title": "Divide by depth for instant 3D",
     "link": "https://gabrieloc.com/2026/09/15/perspective.html",
     "source": "Hacker News",
     "published": "2026-09-19T19:43:13+00:00",
