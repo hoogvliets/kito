@@ -1,11 +1,35 @@
 [
   {
+    "title": "Can gzip be a language model?",
+    "link": "https://nathan.rs/posts/gzip-lm/",
+    "source": "Hacker News",
+    "published": "2026-09-22T06:08:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49797323\">Comments</a>"
+  },
+  {
+    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+    "source": "Hacker News",
+    "published": "2026-09-22T04:02:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49796660\">Comments</a>"
+  },
+  {
     "title": "Claude Status \u2013 Elevated errors for multiple models",
     "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
     "source": "Hacker News",
     "published": "2026-09-22T01:05:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49795579\">Comments</a>"
+  },
+  {
+    "title": "Socrates vs. the Written Word (2011)",
+    "link": "https://wondermark.com/socrates-vs-writing/",
+    "source": "Hacker News",
+    "published": "2026-09-22T00:06:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49795122\">Comments</a>"
   },
   {
     "title": "Looking forward to Git 2.56 \u2013 and 3.0",
@@ -32,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49794330\">Comments</a>"
   },
   {
-    "title": "Xiaomi MiMo v2.6",
+    "title": "MiMo v2.6",
     "link": "https://mimo.xiaomi.com/mimo-v2-6",
     "source": "Hacker News",
     "published": "2026-09-21T20:12:12+00:00",
@@ -72,44 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49791939\">Comments</a>"
   },
   {
-    "title": "Frontier AI on Your Own Hardware",
-    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "source": "Hacker News",
-    "published": "2026-09-21T18:53:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791647\">Comments</a>"
-  },
-  {
-    "title": "Why does mathmain need an encrypted loader?",
-    "link": "https://safedep.io/mathmain-encrypted-loader/",
-    "source": "Hacker News",
-    "published": "2026-09-21T18:33:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49791378\">Comments</a>"
-  },
-  {
-    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-    "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-    "source": "Hacker News",
-    "published": "2026-09-21T17:30:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49790409\">Comments</a>"
-  },
-  {
     "title": "How do traffic signals work? (2019)",
     "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
     "source": "Hacker News",
     "published": "2026-09-21T16:06:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49789081\">Comments</a>"
-  },
-  {
-    "title": "Grok 4.7",
-    "link": "https://x.ai/news/grok-4-7",
-    "source": "Hacker News",
-    "published": "2026-09-21T15:50:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49788838\">Comments</a>"
   },
   {
     "title": "Attention is all you have",
@@ -128,28 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49787436\">Comments</a>"
   },
   {
-    "title": "First Shader from Zero in Godot 4",
-    "link": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+    "title": "Python Workers are now generally available",
+    "link": "https://blog.cloudflare.com/python-workers-ga/",
     "source": "Hacker News",
-    "published": "2026-09-21T10:57:44+00:00",
+    "published": "2026-09-21T13:38:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49785609\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49787142\">Comments</a>"
   },
   {
-    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "link": "https://github.com/jaredpalmer/kev/tree/main",
+    "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+    "link": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
     "source": "Hacker News",
-    "published": "2026-09-21T07:11:55+00:00",
+    "published": "2026-09-21T09:56:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49783999\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49785202\">Comments</a>"
   },
   {
-    "title": "More Floating Point Alternatives",
-    "link": "https://wizardzines.com/comics/floating-point-alternatives/",
+    "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+    "link": "https://gwern.net/blog/2022/pdf-forgery",
     "source": "Hacker News",
-    "published": "2026-09-20T00:55:27+00:00",
+    "published": "2026-09-20T09:57:35+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49771543\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49774269\">Comments</a>"
+  },
+  {
+    "title": "World Wide Words",
+    "link": "https://www.worldwidewords.org/genindex.html",
+    "source": "Hacker News",
+    "published": "2026-09-20T03:21:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49772263\">Comments</a>"
   },
   {
     "title": "Divide by depth for instant 3D",
