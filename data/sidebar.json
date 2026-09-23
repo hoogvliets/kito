@@ -1,14 +1,94 @@
 [
   {
-    "title": "The GitHub wiki is an anti-pattern",
-    "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
     "source": "Hacker News",
-    "published": "2026-09-23T13:05:49+00:00",
+    "published": "2026-09-23T18:06:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815484\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49820134\">Comments</a>"
   },
   {
-    "title": "I Don't Want the Details",
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "source": "Hacker News",
+    "published": "2026-09-23T18:02:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49820065\">Comments</a>"
+  },
+  {
+    "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+    "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+    "source": "Hacker News",
+    "published": "2026-09-23T17:45:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49819814\">Comments</a>"
+  },
+  {
+    "title": "Italian parliament votes for return to nuclear energy",
+    "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "source": "Hacker News",
+    "published": "2026-09-23T17:06:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49819221\">Comments</a>"
+  },
+  {
+    "title": "28% of job postings on company career sites have been open over 90 days",
+    "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+    "source": "Hacker News",
+    "published": "2026-09-23T16:35:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49818698\">Comments</a>"
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "source": "Hacker News",
+    "published": "2026-09-23T15:29:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49817615\">Comments</a>"
+  },
+  {
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+    "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+    "source": "Hacker News",
+    "published": "2026-09-23T15:23:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49817524\">Comments</a>"
+  },
+  {
+    "title": "Fixing the Portobello Police Station Clock",
+    "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "source": "Hacker News",
+    "published": "2026-09-23T15:18:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49817469\">Comments</a>"
+  },
+  {
+    "title": "Strands Harness",
+    "link": "https://strandsagents.com/blog/introducing-strands-harness/",
+    "source": "Hacker News",
+    "published": "2026-09-23T15:05:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49817289\">Comments</a>"
+  },
+  {
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+    "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+    "source": "Hacker News",
+    "published": "2026-09-23T14:04:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49816374\">Comments</a>"
+  },
+  {
+    "title": "Stripe's Knowledge AI Platform",
+    "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "source": "Hacker News",
+    "published": "2026-09-23T13:38:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815982\">Comments</a>"
+  },
+  {
+    "title": "I don't want the details",
     "link": "https://michaelheap.com/i-dont-want-the-details/",
     "source": "Hacker News",
     "published": "2026-09-23T13:04:44+00:00",
@@ -16,39 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49815466\">Comments</a>"
   },
   {
-    "title": "Samsung accidentally freezes its smart fridges with a software update",
-    "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-    "source": "Hacker News",
-    "published": "2026-09-23T12:57:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815381\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Ive Sent It \u2013 online courier for files, with signed proof of delivery",
-    "link": "https://ivesentit.com",
-    "source": "Hacker News",
-    "published": "2026-09-23T12:36:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815168\">Comments</a>"
-  },
-  {
-    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-    "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-    "source": "Hacker News",
-    "published": "2026-09-23T12:32:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815127\">Comments</a>"
-  },
-  {
-    "title": "Show HN: RxFilm Studio\u2013Create and edit your product videos with AI agent",
-    "link": "https://filmstudio.rxlab.app",
-    "source": "Hacker News",
-    "published": "2026-09-23T12:28:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815095\">Comments</a>"
-  },
-  {
-    "title": "Claude Code reads AGENTS.md only when telemetry is on",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
     "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
     "source": "Hacker News",
     "published": "2026-09-23T12:15:33+00:00",
@@ -64,15 +112,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49814780\">Comments</a>"
   },
   {
-    "title": "Two Git ignore files nobody told me about",
-    "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
-    "source": "Hacker News",
-    "published": "2026-09-23T11:28:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49814432\">Comments</a>"
-  },
-  {
-    "title": "Z80 REPL",
+    "title": "Z80 REPL (2018)",
     "link": "https://abagames.github.io/z80-repl/index.html",
     "source": "Hacker News",
     "published": "2026-09-23T11:04:52+00:00",
@@ -96,20 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49812769\">Comments</a>"
   },
   {
-    "title": "Transit rewards",
-    "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+    "link": "https://github.com/pkimpel/retro-1620",
     "source": "Hacker News",
-    "published": "2026-09-23T02:52:29+00:00",
+    "published": "2026-09-23T00:06:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49811065\">Comments</a>"
-  },
-  {
-    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-    "link": "https://foxscript.org/",
-    "source": "Hacker News",
-    "published": "2026-09-22T21:00:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49808023\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49809935\">Comments</a>"
   },
   {
     "title": "GPT-6 Sol and Luna",
@@ -126,37 +158,5 @@
     "published": "2026-09-22T16:29:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49803892\">Comments</a>"
-  },
-  {
-    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "source": "Hacker News",
-    "published": "2026-09-22T13:52:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49801324\">Comments</a>"
-  },
-  {
-    "title": "What California is learning from solar panels built over irrigation canals",
-    "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-    "source": "Hacker News",
-    "published": "2026-09-22T03:10:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49796379\">Comments</a>"
-  },
-  {
-    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-    "link": "https://github.com/xCuri0/ReBarUEFI",
-    "source": "Hacker News",
-    "published": "2026-09-21T01:07:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49781862\">Comments</a>"
-  },
-  {
-    "title": "How did AMD Ryzen get 50% faster in two years?",
-    "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-    "source": "Hacker News",
-    "published": "2026-09-18T19:01:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49758709\">Comments</a>"
   }
 ]
