@@ -1,19 +1,75 @@
 [
   {
+    "title": "GitLab Outage",
+    "link": "https://status.gitlab.com/",
+    "source": "Hacker News",
+    "published": "2026-09-24T23:10:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49838034\">Comments</a>"
+  },
+  {
+    "title": "Back and shoulder surgery is often worse than useless",
+    "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+    "source": "Hacker News",
+    "published": "2026-09-24T22:15:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49837473\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+    "link": "https://koi.rest",
+    "source": "Hacker News",
+    "published": "2026-09-24T21:33:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49837006\">Comments</a>"
+  },
+  {
+    "title": "International observers to investigate Swedish election fraud",
+    "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+    "source": "Hacker News",
+    "published": "2026-09-24T20:55:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49836612\">Comments</a>"
+  },
+  {
+    "title": "The Board Game of the Alpha Nerds (2014)",
+    "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "source": "Hacker News",
+    "published": "2026-09-24T20:53:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49836590\">Comments</a>"
+  },
+  {
+    "title": "California is chasing wealth that has feet",
+    "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "source": "Hacker News",
+    "published": "2026-09-24T20:34:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49836419\">Comments</a>"
+  },
+  {
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "source": "Hacker News",
+    "published": "2026-09-24T19:54:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49835996\">Comments</a>"
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "source": "Hacker News",
+    "published": "2026-09-24T19:14:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49835531\">Comments</a>"
+  },
+  {
     "title": "Stable (YC W20) Is Hiring Product Engineers",
     "link": "https://www.usestable.com/careers/product-engineer",
     "source": "Hacker News",
     "published": "2026-09-24T18:29:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49834893\">Comments</a>"
-  },
-  {
-    "title": "Creatine uptake enhances antitumor immunity",
-    "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-    "source": "Hacker News",
-    "published": "2026-09-24T18:24:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49834825\">Comments</a>"
   },
   {
     "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
@@ -32,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49832938\">Comments</a>"
   },
   {
-    "title": "GitHub has not removed malicious imitation software after 3 weeks",
-    "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-    "source": "Hacker News",
-    "published": "2026-09-24T15:50:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49832406\">Comments</a>"
-  },
-  {
     "title": "F-Droid 2.0",
     "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "source": "Hacker News",
@@ -48,36 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49831968\">Comments</a>"
   },
   {
-    "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-    "link": "https://eprint.iacr.org/2026/2131.pdf",
+    "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
     "source": "Hacker News",
-    "published": "2026-09-24T14:26:32+00:00",
+    "published": "2026-09-24T13:53:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49831098\">Comments</a>"
-  },
-  {
-    "title": "Two-tier encryption in the UK",
-    "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "source": "Hacker News",
-    "published": "2026-09-24T10:39:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49828731\">Comments</a>"
-  },
-  {
-    "title": "Nokia Design Archive (2025)",
-    "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-    "source": "Hacker News",
-    "published": "2026-09-24T09:49:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49828385\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-    "link": "https://cms-sfx-demo.apeleg.com/",
-    "source": "Hacker News",
-    "published": "2026-09-24T07:22:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49827375\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49830606\">Comments</a>"
   },
   {
     "title": "Show HN: Make cursed fonts like Times New Bastard",
@@ -88,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49823738\">Comments</a>"
   },
   {
-    "title": "Geothermal heat map of US hot springs",
-    "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+    "title": "Toyota is taking the Corolla electric",
+    "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
     "source": "Hacker News",
-    "published": "2026-09-23T20:12:10+00:00",
+    "published": "2026-09-23T22:37:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49821835\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49823568\">Comments</a>"
   },
   {
     "title": "Rails World 2026 Opening Keynote [video]",
@@ -104,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49817680\">Comments</a>"
   },
   {
-    "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-    "link": "https://github.com/christianrowlands/wavedigger",
-    "source": "Hacker News",
-    "published": "2026-09-23T12:57:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49815370\">Comments</a>"
-  },
-  {
-    "title": "My Weird New Hobby: Wandering Around Tokyo on Google Maps",
+    "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
     "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
     "source": "Hacker News",
     "published": "2026-09-22T17:49:46+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49805344\">Comments</a>"
+  },
+  {
+    "title": "2DWillNeverDie",
+    "link": "https://2dwillneverdie.com/",
+    "source": "Hacker News",
+    "published": "2026-09-22T14:00:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49801436\">Comments</a>"
   },
   {
     "title": "Fearless SIMD v1.0",
@@ -126,30 +150,6 @@
     "published": "2026-09-22T12:23:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49800085\">Comments</a>"
-  },
-  {
-    "title": "Motor Characterization for Small Running Robots (2016)",
-    "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-    "source": "Hacker News",
-    "published": "2026-09-21T23:27:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49794824\">Comments</a>"
-  },
-  {
-    "title": "Security auditing in the age of (good enough) AI",
-    "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-    "source": "Hacker News",
-    "published": "2026-09-21T21:53:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49793957\">Comments</a>"
-  },
-  {
-    "title": "The forgotten battle of East Lansing",
-    "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-    "source": "Hacker News",
-    "published": "2026-09-21T20:07:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49792652\">Comments</a>"
   },
   {
     "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
