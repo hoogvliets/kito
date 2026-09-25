@@ -1,35 +1,91 @@
 [
   {
-    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
     "source": "Hacker News",
-    "published": "2026-09-25T13:49:06+00:00",
+    "published": "2026-09-25T18:37:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49844663\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49848295\">Comments</a>"
   },
   {
-    "title": "Nobody Asked for a Crab Chair",
-    "link": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+    "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "link": "https://ollaya.dev/",
     "source": "Hacker News",
-    "published": "2026-09-25T12:48:00+00:00",
+    "published": "2026-09-25T18:33:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49843899\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49848269\">Comments</a>"
   },
   {
-    "title": "The Test",
-    "link": "https://tante.cc/2026/09/24/the-test/",
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "link": "https://mouse.dev/blog/muse-special/",
     "source": "Hacker News",
-    "published": "2026-09-25T12:14:02+00:00",
+    "published": "2026-09-25T18:18:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49843550\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49848095\">Comments</a>"
   },
   {
-    "title": "I'm Tired of Being on the Network",
-    "link": "https://matduggan.com/im-tired-of-being-on-the-network/",
+    "title": "Yes, Claude can do Nine Loops",
+    "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
     "source": "Hacker News",
-    "published": "2026-09-25T12:13:55+00:00",
+    "published": "2026-09-25T18:11:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49843547\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49848033\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+    "link": "https://www.doom-or-bloom.com",
+    "source": "Hacker News",
+    "published": "2026-09-25T16:51:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49846953\">Comments</a>"
+  },
+  {
+    "title": "A Skill.md for Commenting on Hacker News",
+    "link": "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker",
+    "source": "Hacker News",
+    "published": "2026-09-25T16:45:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49846864\">Comments</a>"
+  },
+  {
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "source": "Hacker News",
+    "published": "2026-09-25T15:29:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49845977\">Comments</a>"
+  },
+  {
+    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "source": "Hacker News",
+    "published": "2026-09-25T15:27:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49845952\">Comments</a>"
+  },
+  {
+    "title": "Factorio that you can touch",
+    "link": "https://factorio.com/blog/post/fff-447",
+    "source": "Hacker News",
+    "published": "2026-09-25T14:24:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49845133\">Comments</a>"
+  },
+  {
+    "title": "First Principles Thinking",
+    "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "source": "Hacker News",
+    "published": "2026-09-25T13:55:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49844736\">Comments</a>"
+  },
+  {
+    "title": "What happens when you analyze your favorite college football team like the CIA?",
+    "link": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+    "source": "Hacker News",
+    "published": "2026-09-25T13:47:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49844642\">Comments</a>"
   },
   {
     "title": "Platform-Independent SIMD in Go",
@@ -48,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49843174\">Comments</a>"
   },
   {
-    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-    "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
-    "source": "Hacker News",
-    "published": "2026-09-25T10:19:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49842483\">Comments</a>"
-  },
-  {
-    "title": "Topcoat is pushing the boundary of server applications with Rust",
-    "link": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
-    "source": "Hacker News",
-    "published": "2026-09-25T09:59:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49842332\">Comments</a>"
-  },
-  {
     "title": "Ink and Switch Interactive Homepage",
     "link": "https://www.inkandswitch.com/",
     "source": "Hacker News",
@@ -78,14 +118,6 @@
     "published": "2026-09-25T09:26:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49842084\">Comments</a>"
-  },
-  {
-    "title": "Special Projects (2016)",
-    "link": "https://openai.com/index/special-projects/",
-    "source": "Hacker News",
-    "published": "2026-09-25T08:55:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49841893\">Comments</a>"
   },
   {
     "title": "Dutch governments builds alternative for Microsoft based on NixOS",
@@ -112,30 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49841285\">Comments</a>"
   },
   {
-    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-    "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-    "source": "Hacker News",
-    "published": "2026-09-25T07:03:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49841115\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-    "link": "https://github.com/devdotfast/whiteboard",
-    "source": "Hacker News",
-    "published": "2026-09-24T17:21:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49833867\">Comments</a>"
-  },
-  {
-    "title": "Why is the liver so weirdly regenerative?",
-    "link": "https://dynomight.substack.com/p/liver",
-    "source": "Hacker News",
-    "published": "2026-09-24T16:23:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49832938\">Comments</a>"
-  },
-  {
     "title": "F-Droid 2.0",
     "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
     "source": "Hacker News",
@@ -150,13 +158,5 @@
     "published": "2026-09-23T22:53:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49823738\">Comments</a>"
-  },
-  {
-    "title": "2DWillNeverDie",
-    "link": "https://2dwillneverdie.com/",
-    "source": "Hacker News",
-    "published": "2026-09-22T14:00:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49801436\">Comments</a>"
   }
 ]
