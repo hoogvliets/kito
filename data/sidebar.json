@@ -1,5 +1,53 @@
 [
   {
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "source": "Hacker News",
+    "published": "2026-09-26T13:05:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49856149\">Comments</a>"
+  },
+  {
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "source": "Hacker News",
+    "published": "2026-09-26T10:55:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49855315\">Comments</a>"
+  },
+  {
+    "title": "One Month Without AI",
+    "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "Hacker News",
+    "published": "2026-09-26T10:08:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49855018\">Comments</a>"
+  },
+  {
+    "title": "Fifteen years later, the Apple Cards origin story",
+    "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "source": "Hacker News",
+    "published": "2026-09-26T09:13:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49854693\">Comments</a>"
+  },
+  {
+    "title": "Floci: Locally emulating any cloud service",
+    "link": "https://floci.io",
+    "source": "Hacker News",
+    "published": "2026-09-26T08:31:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49854416\">Comments</a>"
+  },
+  {
+    "title": "Is your Postgres migration safe or not safe?",
+    "link": "https://safenotsafe.dev/",
+    "source": "Hacker News",
+    "published": "2026-09-26T07:33:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49854161\">Comments</a>"
+  },
+  {
     "title": "A single function Jev-like wrapper for LLMs, including vision models",
     "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
     "source": "Hacker News",
@@ -14,30 +62,6 @@
     "published": "2026-09-26T02:46:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49852717\">Comments</a>"
-  },
-  {
-    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-    "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-    "source": "Hacker News",
-    "published": "2026-09-26T01:36:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49852302\">Comments</a>"
-  },
-  {
-    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-    "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-    "source": "Hacker News",
-    "published": "2026-09-26T00:59:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49852065\">Comments</a>"
-  },
-  {
-    "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-    "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-    "source": "Hacker News",
-    "published": "2026-09-25T22:28:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49850781\">Comments</a>"
   },
   {
     "title": "What even is an OS now?",
@@ -56,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49849985\">Comments</a>"
   },
   {
-    "title": "Excel now supports multiple values in a single cell",
-    "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+    "link": "https://news.ycombinator.com/item?id=49848955",
     "source": "Hacker News",
-    "published": "2026-09-25T20:55:00+00:00",
+    "published": "2026-09-25T19:37:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49849832\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49848955\">Comments</a>"
   },
   {
     "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49845172\">Comments</a>"
   },
   {
-    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-    "link": "https://hackeratlas.com/",
-    "source": "Hacker News",
-    "published": "2026-09-25T13:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49844497\">Comments</a>"
-  },
-  {
     "title": "Plan mode is dead",
     "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
     "source": "Hacker News",
@@ -104,44 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49840054\">Comments</a>"
   },
   {
-    "title": "The Murky History of Soviet-Born Tetris",
-    "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+    "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+    "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
     "source": "Hacker News",
-    "published": "2026-09-24T23:11:45+00:00",
+    "published": "2026-09-24T12:10:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49838040\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49829528\">Comments</a>"
   },
   {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "title": "16GB iPod Nano 3G Upgrade",
+    "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
     "source": "Hacker News",
-    "published": "2026-09-24T20:51:50+00:00",
+    "published": "2026-09-24T03:58:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49836579\">Comments</a>"
-  },
-  {
-    "title": "Postgres SELECT DISTINCT Does Not Scale",
-    "link": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-    "source": "Hacker News",
-    "published": "2026-09-24T18:43:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49835096\">Comments</a>"
-  },
-  {
-    "title": "Two and a half years without a gallbladder",
-    "link": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
-    "source": "Hacker News",
-    "published": "2026-09-24T13:40:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49830434\">Comments</a>"
-  },
-  {
-    "title": "Fourier Analysis: Drawing Llamas with Circles",
-    "link": "https://adekau.github.io/posts/2020/llamas.html",
-    "source": "Hacker News",
-    "published": "2026-09-24T12:03:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49829472\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49826087\">Comments</a>"
   },
   {
     "title": "Scientists build most accurate atomic clock",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49824846\">Comments</a>"
   },
   {
-    "title": "A new world airport and its baggage",
-    "link": "https://computer.rip/2026-09-20-denver-baggage.html",
+    "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+    "link": "https://www.osti.gov/servlets/purl/1124870",
     "source": "Hacker News",
-    "published": "2026-09-23T22:30:46+00:00",
+    "published": "2026-09-24T00:34:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49823490\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49824642\">Comments</a>"
+  },
+  {
+    "title": "ASML currently sells no chipmaking machines in Europe, executive says",
+    "link": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+    "source": "Hacker News",
+    "published": "2026-09-23T22:42:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49823628\">Comments</a>"
   }
 ]
