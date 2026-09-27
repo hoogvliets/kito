@@ -1,5 +1,37 @@
 [
   {
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "source": "Hacker News",
+    "published": "2026-09-27T13:30:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49866515\">Comments</a>"
+  },
+  {
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+    "link": "https://arxiv.org/abs/2609.25021",
+    "source": "Hacker News",
+    "published": "2026-09-27T10:26:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49865343\">Comments</a>"
+  },
+  {
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+    "source": "Hacker News",
+    "published": "2026-09-27T08:59:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49864743\">Comments</a>"
+  },
+  {
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "source": "Hacker News",
+    "published": "2026-09-27T08:44:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49864642\">Comments</a>"
+  },
+  {
     "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
     "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
     "source": "Hacker News",
@@ -8,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49863864\">Comments</a>"
   },
   {
-    "title": "What is the size of Yemen? (2024)",
-    "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+    "title": "The internet discovers TLA+. Now what?",
+    "link": "https://reasonable.io/blog/tla-tutorial/",
     "source": "Hacker News",
-    "published": "2026-09-27T02:40:26+00:00",
+    "published": "2026-09-27T05:26:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49862809\">Comments</a>"
-  },
-  {
-    "title": "Real-time feedback: My closing move in every interview",
-    "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
-    "source": "Hacker News",
-    "published": "2026-09-27T01:01:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49862244\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49863600\">Comments</a>"
   },
   {
     "title": "DeepSeek Elastic Compute (DSec)",
@@ -32,36 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49859112\">Comments</a>"
   },
   {
-    "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-    "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-    "source": "Hacker News",
-    "published": "2026-09-26T17:26:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49858676\">Comments</a>"
-  },
-  {
     "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
     "link": "https://github.com/reladraw/reladraw",
     "source": "Hacker News",
     "published": "2026-09-26T17:10:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49858513\">Comments</a>"
-  },
-  {
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "source": "Hacker News",
-    "published": "2026-09-26T15:56:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49857729\">Comments</a>"
-  },
-  {
-    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-    "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "source": "Hacker News",
-    "published": "2026-09-26T15:49:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49857656\">Comments</a>"
   },
   {
     "title": "Go Concurrency Distilled",
@@ -72,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49856988\">Comments</a>"
   },
   {
-    "title": "Improving site performance by shipping more CSS",
-    "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "link": "https://fakecloud.dev/",
     "source": "Hacker News",
-    "published": "2026-09-26T13:10:05+00:00",
+    "published": "2026-09-26T14:25:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49856193\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49856885\">Comments</a>"
   },
   {
     "title": "Fifteen years later, the Apple Cards origin story",
@@ -96,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49854219\">Comments</a>"
   },
   {
-    "title": "An agent used DNS to reach an external chatbot",
-    "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "source": "Hacker News",
-    "published": "2026-09-26T04:14:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49853137\">Comments</a>"
-  },
-  {
     "title": "Exploding variance of means of exponentials: least-squares to the rescue",
     "link": "https://francisbach.com/spectral_log_density_estimation/",
     "source": "Hacker News",
@@ -112,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49850991\">Comments</a>"
   },
   {
-    "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
-    "link": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
+    "title": "Finally, A True Blue Rose Exists",
+    "link": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
     "source": "Hacker News",
-    "published": "2026-09-25T14:23:33+00:00",
+    "published": "2026-09-25T20:44:38+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49845114\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49849723\">Comments</a>"
   },
   {
     "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
@@ -158,5 +150,13 @@
     "published": "2026-09-24T16:11:42+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49832768\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+    "link": "https://3d-retro.com/",
+    "source": "Hacker News",
+    "published": "2026-09-23T23:33:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49824144\">Comments</a>"
   }
 ]
