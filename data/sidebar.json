@@ -1,11 +1,51 @@
 [
   {
-    "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-    "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+    "title": "Using any C++ library in Godot",
+    "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
     "source": "Hacker News",
-    "published": "2026-09-28T23:40:59+00:00",
+    "published": "2026-09-29T08:40:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49886005\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49890051\">Comments</a>"
+  },
+  {
+    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+    "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+    "source": "Hacker News",
+    "published": "2026-09-29T08:26:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49889934\">Comments</a>"
+  },
+  {
+    "title": "Uncensored and Offensive Security AI Models Benchmark",
+    "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+    "source": "Hacker News",
+    "published": "2026-09-29T06:16:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49888937\">Comments</a>"
+  },
+  {
+    "title": "Tank Body Problem",
+    "link": "http://www.jimsitu.com",
+    "source": "Hacker News",
+    "published": "2026-09-29T00:41:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49886482\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+    "link": "https://jonclegg.github.io/pacman-bakeoff/",
+    "source": "Hacker News",
+    "published": "2026-09-28T22:43:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49885493\">Comments</a>"
+  },
+  {
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "source": "Hacker News",
+    "published": "2026-09-28T21:26:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49884625\">Comments</a>"
   },
   {
     "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
@@ -16,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49883844\">Comments</a>"
   },
   {
-    "title": "World Labs Is Joining AMD",
-    "link": "https://www.worldlabs.ai/blog/amd-announcement",
+    "title": "California farmers are struggling to sell grapes as demand for wine drops",
+    "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
     "source": "Hacker News",
-    "published": "2026-09-28T20:18:05+00:00",
+    "published": "2026-09-28T20:00:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49883760\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49883539\">Comments</a>"
   },
   {
     "title": "Scientists solve 1840s space weather mystery",
@@ -30,14 +70,6 @@
     "published": "2026-09-28T20:00:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49883536\">Comments</a>"
-  },
-  {
-    "title": "It's Time to Investigate the AI Labs",
-    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "source": "Hacker News",
-    "published": "2026-09-28T19:53:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49883471\">Comments</a>"
   },
   {
     "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
@@ -56,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49881850\">Comments</a>"
   },
   {
-    "title": "Joseph Szabo\u2019s pictures of American adolescents",
-    "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+    "title": "Phyllotaxis: An audio-reactive LED display",
+    "link": "https://jagi.studio/posts/phyllotaxis/",
     "source": "Hacker News",
-    "published": "2026-09-28T17:41:28+00:00",
+    "published": "2026-09-28T16:18:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49881606\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49880411\">Comments</a>"
   },
   {
     "title": "Pirating the Pirates",
@@ -70,14 +102,6 @@
     "published": "2026-09-28T15:54:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49880036\">Comments</a>"
-  },
-  {
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-    "source": "Hacker News",
-    "published": "2026-09-28T15:46:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49879883\">Comments</a>"
   },
   {
     "title": "Hijacking the PS5's RTMP stream",
@@ -96,60 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49879697\">Comments</a>"
   },
   {
-    "title": "Cf: The Agentic CLI for the Cloudflare API",
-    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "title": "Updated Google Maps shows destruction of the city of Rafah",
+    "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
     "source": "Hacker News",
-    "published": "2026-09-28T15:28:13+00:00",
+    "published": "2026-09-28T15:32:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49879577\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49879645\">Comments</a>"
   },
   {
-    "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
-    "link": "https://hn.watch/",
+    "title": "The systems that no one will test",
+    "link": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
     "source": "Hacker News",
-    "published": "2026-09-28T15:16:13+00:00",
+    "published": "2026-09-28T10:51:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49879401\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49876052\">Comments</a>"
   },
   {
-    "title": "Does Reddit have an astroturfing problem? What the data suggests",
-    "link": "https://www.petervijeh.com/projects/reddit-astroturf",
+    "title": "Booted up in 1993, this server still runs \u2013 but not for much longer (2017)",
+    "link": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
     "source": "Hacker News",
-    "published": "2026-09-28T13:30:54+00:00",
+    "published": "2026-09-27T20:13:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49877678\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49870376\">Comments</a>"
   },
   {
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-    "link": "https://git.mills.io/prologic/parley",
+    "title": "Software occlusion culling in Block Game",
+    "link": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
     "source": "Hacker News",
-    "published": "2026-09-28T10:30:54+00:00",
+    "published": "2026-09-27T14:07:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49875913\">Comments</a>"
-  },
-  {
-    "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
-    "link": "https://www.science.org/doi/10.1126/sciadv.adw9953",
-    "source": "Hacker News",
-    "published": "2026-09-27T21:58:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49871277\">Comments</a>"
-  },
-  {
-    "title": "What reversing, modernising old games tells us about the economic impact of AI",
-    "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-    "source": "Hacker News",
-    "published": "2026-09-26T23:49:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49861755\">Comments</a>"
-  },
-  {
-    "title": "What is the best shape of a city? Modelling effect of urban form on distance",
-    "link": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
-    "source": "Hacker News",
-    "published": "2026-09-26T17:23:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49858643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49866783\">Comments</a>"
   },
   {
     "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
