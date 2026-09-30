@@ -1,27 +1,91 @@
 [
   {
+    "title": "Codex Pricing: Pro has unlimited 5.6 usage",
+    "link": "https://chatgpt.com/codex/pricing/",
+    "source": "Hacker News",
+    "published": "2026-09-30T21:13:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49914539\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "source": "Hacker News",
+    "published": "2026-09-30T20:50:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49914236\">Comments</a>"
+  },
+  {
+    "title": "Gitea 28.0",
+    "link": "https://blog.gitea.com/release-of-28.0.0/",
+    "source": "Hacker News",
+    "published": "2026-09-30T20:32:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49913975\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Argon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "source": "Hacker News",
+    "published": "2026-09-30T20:04:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49913571\">Comments</a>"
+  },
+  {
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "link": "https://www.mattkeeter.com/projects/halfspace/",
+    "source": "Hacker News",
+    "published": "2026-09-30T19:44:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49913350\">Comments</a>"
+  },
+  {
+    "title": "EDG C++ front-end goes public",
+    "link": "https://edgcpp.org/#transition",
+    "source": "Hacker News",
+    "published": "2026-09-30T19:26:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49913192\">Comments</a>"
+  },
+  {
+    "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "source": "Hacker News",
+    "published": "2026-09-30T19:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49912955\">Comments</a>"
+  },
+  {
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "source": "Hacker News",
+    "published": "2026-09-30T18:17:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49912444\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+    "link": "https://github.com/magnitudedev/magnitude",
+    "source": "Hacker News",
+    "published": "2026-09-30T17:37:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49911995\">Comments</a>"
+  },
+  {
+    "title": "Commit description as a thinking tool",
+    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "source": "Hacker News",
+    "published": "2026-09-30T17:18:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49911757\">Comments</a>"
+  },
+  {
     "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
     "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
     "source": "Hacker News",
     "published": "2026-09-30T17:00:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49911531\">Comments</a>"
-  },
-  {
-    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-    "source": "Hacker News",
-    "published": "2026-09-30T15:54:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49910613\">Comments</a>"
-  },
-  {
-    "title": "The AI Race Just Got Awkward",
-    "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-    "source": "Hacker News",
-    "published": "2026-09-30T15:50:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49910553\">Comments</a>"
   },
   {
     "title": "SDF Public Access Unix System ... est. 1987",
@@ -32,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49909610\">Comments</a>"
   },
   {
-    "title": "A Brief History of the Bloomberg Terminal",
+    "title": "A brief history of the Bloomberg terminal",
     "link": "https://spectrum.ieee.org/bloomberg-terminal",
     "source": "Hacker News",
     "published": "2026-09-30T14:34:07+00:00",
@@ -56,7 +120,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49908962\">Comments</a>"
   },
   {
-    "title": "You Said No MCP",
+    "title": "The last time my family was replaced by technology",
+    "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "source": "Hacker News",
+    "published": "2026-09-30T13:06:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49908394\">Comments</a>"
+  },
+  {
+    "title": "You said no MCP",
     "link": "https://earendil.com/posts/you-said-no-mcp/",
     "source": "Hacker News",
     "published": "2026-09-30T09:55:23+00:00",
@@ -64,87 +136,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49906637\">Comments</a>"
   },
   {
-    "title": "Show HN: I created a BGP-based blackhole system that you can set up in minutes",
-    "link": "https://setecastronomyinc.com/shield",
+    "title": "Doing a Machine Learning PhD While Working in Japan",
+    "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
     "source": "Hacker News",
-    "published": "2026-09-30T00:28:29+00:00",
+    "published": "2026-09-30T07:33:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49902803\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49905644\">Comments</a>"
   },
   {
-    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "link": "https://github.com/ninjahawk/livenerf",
-    "source": "Hacker News",
-    "published": "2026-09-29T22:36:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49901736\">Comments</a>"
-  },
-  {
-    "title": "Vermont replacing power plants with home batteries",
-    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-    "source": "Hacker News",
-    "published": "2026-09-29T18:19:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49897993\">Comments</a>"
-  },
-  {
-    "title": "Dots: Always-on agents",
-    "link": "https://openai.com/index/introducing-dots/",
-    "source": "Hacker News",
-    "published": "2026-09-29T17:07:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49896604\">Comments</a>"
-  },
-  {
-    "title": "America.gov",
-    "link": "https://america.gov/",
-    "source": "Hacker News",
-    "published": "2026-09-29T14:04:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49893509\">Comments</a>"
-  },
-  {
-    "title": "NASA asked several former SR-71A staffers to help secret restart",
-    "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-    "source": "Hacker News",
-    "published": "2026-09-29T10:10:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49890733\">Comments</a>"
-  },
-  {
-    "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-    "link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "source": "Hacker News",
-    "published": "2026-09-29T10:05:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49890707\">Comments</a>"
-  },
-  {
-    "title": "Mathematical Origami",
-    "link": "https://mathigon.org/origami",
-    "source": "Hacker News",
-    "published": "2026-09-29T06:45:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49889140\">Comments</a>"
-  },
-  {
-    "title": "Solving Factorio Quality",
-    "link": "https://exyr.org/2026/solving-factorio-quality/",
-    "source": "Hacker News",
-    "published": "2026-09-29T02:27:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49887343\">Comments</a>"
-  },
-  {
-    "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
-    "link": "https://github.com/mogrinz/AMT630A",
-    "source": "Hacker News",
-    "published": "2026-09-28T21:06:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49884346\">Comments</a>"
-  },
-  {
-    "title": "I Could've Accessed 17T Microsoft Records",
+    "title": "I could've accessed 17T Microsoft records",
     "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
     "source": "Hacker News",
     "published": "2026-09-28T20:32:46+00:00",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49883970\">Comments</a>"
   },
   {
-    "title": "Getting out of the way: my robotics crash course",
-    "link": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+    "title": "Burning Man death rates \u2013 A short lesson in statistics",
+    "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
     "source": "Hacker News",
-    "published": "2026-09-28T15:12:43+00:00",
+    "published": "2026-09-28T18:57:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49879346\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49882754\">Comments</a>"
   }
 ]
