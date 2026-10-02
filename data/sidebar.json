@@ -1,5 +1,61 @@
 [
   {
+    "title": "Supabase is acquiring Turso",
+    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
+    "source": "Hacker News",
+    "published": "2026-10-02T15:43:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49934784\">Comments</a>"
+  },
+  {
+    "title": "The Four Horsemen of Agentic Coding",
+    "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+    "source": "Hacker News",
+    "published": "2026-10-02T15:19:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49934511\">Comments</a>"
+  },
+  {
+    "title": "Fixing GRPO's credit assignment problem without evaluating every step",
+    "link": "https://arxiv.org/abs/2609.36178",
+    "source": "Hacker News",
+    "published": "2026-10-02T14:36:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49934012\">Comments</a>"
+  },
+  {
+    "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+    "link": "https://www.kapa.ai/blog/company-knowledge-bench",
+    "source": "Hacker News",
+    "published": "2026-10-02T13:37:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49933381\">Comments</a>"
+  },
+  {
+    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+    "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+    "source": "Hacker News",
+    "published": "2026-10-02T13:19:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49933251\">Comments</a>"
+  },
+  {
+    "title": "The Legend of von Neumann (1973) [pdf]",
+    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "source": "Hacker News",
+    "published": "2026-10-02T13:18:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49933235\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
+    "link": "https://github.com/kvoltmer/Audionaut",
+    "source": "Hacker News",
+    "published": "2026-10-02T08:05:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49931031\">Comments</a>"
+  },
+  {
     "title": "Shimano Bicycle Museum Review",
     "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
     "source": "Hacker News",
@@ -8,20 +64,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49930047\">Comments</a>"
   },
   {
-    "title": "DeepSeek Harness Desktop for macOS and Windows",
-    "link": "https://www.deepseek.com/en/harness/",
+    "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
+    "link": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
     "source": "Hacker News",
-    "published": "2026-10-02T03:11:20+00:00",
+    "published": "2026-10-02T01:29:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49929489\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49928963\">Comments</a>"
   },
   {
-    "title": "How Singapore's government-run dating service works",
-    "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "link": "https://stillwet.art/",
     "source": "Hacker News",
-    "published": "2026-10-02T01:56:52+00:00",
+    "published": "2026-10-02T00:27:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49929113\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49928566\">Comments</a>"
+  },
+  {
+    "title": "Tiny Brutalism",
+    "link": "https://placeholders.itch.io/tiny-brutalism",
+    "source": "Hacker News",
+    "published": "2026-10-01T23:23:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49928192\">Comments</a>"
   },
   {
     "title": "Several vulnerabilities have been discovered in the Linux kernel",
@@ -40,28 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49927760\">Comments</a>"
   },
   {
-    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-    "link": "https://www.cssbed.com",
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
     "source": "Hacker News",
-    "published": "2026-10-01T21:21:32+00:00",
+    "published": "2026-10-01T22:23:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49927212\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49927754\">Comments</a>"
   },
   {
-    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "title": "Now That's an Impurity Story",
+    "link": "https://www.science.org/content/blog-post/now-s-impurity-story",
     "source": "Hacker News",
-    "published": "2026-10-01T20:48:37+00:00",
+    "published": "2026-10-01T20:21:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926917\">Comments</a>"
-  },
-  {
-    "title": "Automatic Transmission \u2013 a data-privacy study of connected vehicles",
-    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-    "source": "Hacker News",
-    "published": "2026-10-01T20:23:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926628\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926609\">Comments</a>"
   },
   {
     "title": "SvelteKit 3",
@@ -72,28 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49926536\">Comments</a>"
   },
   {
-    "title": "ArXiv's Updated Rate Limit Policy",
-    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "title": "FLUX 3 Image",
+    "link": "https://bfl.ai/models/flux-3-image",
     "source": "Hacker News",
-    "published": "2026-10-01T20:12:15+00:00",
+    "published": "2026-10-01T19:24:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926512\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49925974\">Comments</a>"
   },
   {
-    "title": "Pi 1.0",
-    "link": "https://earendil.com/posts/pi-1-0/",
+    "title": "Giving friends custom text buzzes based on Morse code",
+    "link": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
     "source": "Hacker News",
-    "published": "2026-10-01T19:33:05+00:00",
+    "published": "2026-10-01T18:56:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926069\">Comments</a>"
-  },
-  {
-    "title": "Pi Durable",
-    "link": "https://earendil.com/posts/pi-durable/",
-    "source": "Hacker News",
-    "published": "2026-10-01T19:24:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49925969\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49925653\">Comments</a>"
   },
   {
     "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
@@ -110,53 +158,5 @@
     "published": "2026-10-01T16:18:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49923692\">Comments</a>"
-  },
-  {
-    "title": "RIP, vector database",
-    "link": "https://turbopuffer.com/blog/rip-vector-database",
-    "source": "Hacker News",
-    "published": "2026-10-01T16:01:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49923466\">Comments</a>"
-  },
-  {
-    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-    "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-    "source": "Hacker News",
-    "published": "2026-10-01T15:07:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49922674\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: Who is hiring? (October 2026)",
-    "link": "https://news.ycombinator.com/item?id=49922569",
-    "source": "Hacker News",
-    "published": "2026-10-01T15:02:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49922569\">Comments</a>"
-  },
-  {
-    "title": "Turbo Haskell",
-    "link": "https://comonad.com/reader/2026/turbo-haskell/",
-    "source": "Hacker News",
-    "published": "2026-10-01T13:58:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49921798\">Comments</a>"
-  },
-  {
-    "title": "StreetComplete on iOS is now in public beta",
-    "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-    "source": "Hacker News",
-    "published": "2026-10-01T10:59:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49920160\">Comments</a>"
-  },
-  {
-    "title": "To grieve, or not to grieve?",
-    "link": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-    "source": "Hacker News",
-    "published": "2026-10-01T09:47:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49919676\">Comments</a>"
   }
 ]
