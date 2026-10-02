@@ -1,11 +1,27 @@
 [
   {
-    "title": "OpenRadioss is not open anymore",
-    "link": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+    "title": "Butterflies use optical illusions to dodge predators",
+    "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
     "source": "Hacker News",
-    "published": "2026-10-01T21:41:36+00:00",
+    "published": "2026-10-01T23:15:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49927392\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49928152\">Comments</a>"
+  },
+  {
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "link": "https://lwn.net/Articles/1097401/",
+    "source": "Hacker News",
+    "published": "2026-10-01T23:10:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49928121\">Comments</a>"
+  },
+  {
+    "title": "Aweb \u2013 Communication for AI Agents",
+    "link": "https://aweb.ai",
+    "source": "Hacker News",
+    "published": "2026-10-01T22:02:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49927587\">Comments</a>"
   },
   {
     "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
@@ -16,12 +32,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49927212\">Comments</a>"
   },
   {
-    "title": "The death of web development education",
-    "link": "https://molily.de/web-dev-education/",
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
     "source": "Hacker News",
-    "published": "2026-10-01T21:07:37+00:00",
+    "published": "2026-10-01T20:48:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49927100\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926917\">Comments</a>"
   },
   {
     "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
@@ -32,20 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49926773\">Comments</a>"
   },
   {
-    "title": "Show HN: Rhun, an open-source code editor written in assembly",
-    "link": "https://rhun.app/",
+    "title": "SvelteKit 3",
+    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
     "source": "Hacker News",
-    "published": "2026-10-01T20:32:18+00:00",
+    "published": "2026-10-01T20:14:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926726\">Comments</a>"
-  },
-  {
-    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-    "source": "Hacker News",
-    "published": "2026-10-01T20:23:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926628\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49926536\">Comments</a>"
   },
   {
     "title": "ArXiv's Updated Rate Limit Policy",
@@ -72,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49925969\">Comments</a>"
   },
   {
-    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+    "title": "Oxygen-deprived underwater zones may not be \u201cdead zones\u201d but clue to early life",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
     "source": "Hacker News",
     "published": "2026-10-01T19:03:42+00:00",
@@ -88,7 +96,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49925036\">Comments</a>"
   },
   {
-    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "link": "https://stoppels.ch/goalposts/",
+    "source": "Hacker News",
+    "published": "2026-10-01T17:32:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49924618\">Comments</a>"
+  },
+  {
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "link": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": "Hacker News",
+    "published": "2026-10-01T16:57:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49924179\">Comments</a>"
+  },
+  {
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
     "link": "https://blog.cloudflare.com/clef-decision-models/",
     "source": "Hacker News",
     "published": "2026-10-01T16:18:57+00:00",
@@ -120,14 +144,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49922569\">Comments</a>"
   },
   {
-    "title": "RacketCon Is Saturday",
-    "link": "https://con.racket-lang.org/",
-    "source": "Hacker News",
-    "published": "2026-10-01T14:58:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49922515\">Comments</a>"
-  },
-  {
     "title": "Cloudflare K2: serverless event streams",
     "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
     "source": "Hacker News",
@@ -136,27 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49921923\">Comments</a>"
   },
   {
-    "title": "How to speed up the Rust compiler in September 2026",
-    "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-    "source": "Hacker News",
-    "published": "2026-10-01T12:44:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49920896\">Comments</a>"
-  },
-  {
     "title": "StreetComplete on iOS is now in public beta",
     "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
     "source": "Hacker News",
     "published": "2026-10-01T10:59:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49920160\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-    "link": "https://news.ycombinator.com/item?id=49911500",
-    "source": "Hacker News",
-    "published": "2026-09-30T16:58:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49911500\">Comments</a>"
   }
 ]
