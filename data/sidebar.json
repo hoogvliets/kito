@@ -1,6 +1,46 @@
 [
   {
-    "title": "Bob Cringely Has Died",
+    "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+    "link": "https://gamehistory.org/5k-magazines/",
+    "source": "Hacker News",
+    "published": "2026-10-04T09:07:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49952029\">Comments</a>"
+  },
+  {
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "source": "Hacker News",
+    "published": "2026-10-04T08:39:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49951881\">Comments</a>"
+  },
+  {
+    "title": "Why don't more developers \u201cuse the platform\u201d?",
+    "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "source": "Hacker News",
+    "published": "2026-10-04T04:10:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49950554\">Comments</a>"
+  },
+  {
+    "title": "Religious scholars met with Anthropic",
+    "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "source": "Hacker News",
+    "published": "2026-10-04T02:34:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49950052\">Comments</a>"
+  },
+  {
+    "title": "We're working on a new RuneScape MMO",
+    "link": "https://play.runescape.com/4",
+    "source": "Hacker News",
+    "published": "2026-10-04T01:12:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49949588\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: Bob Cringely has died",
     "link": "https://news.ycombinator.com/item?id=49949438",
     "source": "Hacker News",
     "published": "2026-10-04T00:50:52+00:00",
@@ -16,14 +56,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49949235\">Comments</a>"
   },
   {
-    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-    "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-    "source": "Hacker News",
-    "published": "2026-10-03T22:18:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49948332\">Comments</a>"
-  },
-  {
     "title": "Reasons I didn't become an EMT, ranked",
     "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
     "source": "Hacker News",
@@ -32,12 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49947631\">Comments</a>"
   },
   {
-    "title": "Surely you have ultra-wideband radios on your bins too?",
-    "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
     "source": "Hacker News",
-    "published": "2026-10-03T20:27:44+00:00",
+    "published": "2026-10-03T19:33:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49947472\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49947051\">Comments</a>"
   },
   {
     "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
@@ -48,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49946895\">Comments</a>"
   },
   {
-    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "title": "How to hack time, with C2PA",
+    "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
     "source": "Hacker News",
-    "published": "2026-10-03T18:29:30+00:00",
+    "published": "2026-10-03T18:52:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49946567\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49946707\">Comments</a>"
   },
   {
     "title": "Hole Punch: Sling your spaceship around gravitational fields",
@@ -72,44 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49946355\">Comments</a>"
   },
   {
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "source": "Hacker News",
+    "published": "2026-10-03T17:44:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49946228\">Comments</a>"
+  },
+  {
     "title": "Agents don't need memory, they need documentation",
     "link": "https://liao.gg/blog/agents-dont-need-memory",
     "source": "Hacker News",
     "published": "2026-10-03T17:03:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49945933\">Comments</a>"
-  },
-  {
-    "title": "FTL: A new operating system for clouds",
-    "link": "https://ftl-os.org/",
-    "source": "Hacker News",
-    "published": "2026-10-03T15:02:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49944912\">Comments</a>"
-  },
-  {
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "source": "Hacker News",
-    "published": "2026-10-03T09:36:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49942706\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Thoreau BASIC \u2013\u00a0What if BASIC hadn't gone out of fashion?",
-    "link": "https://thoreaubasic.com/",
-    "source": "Hacker News",
-    "published": "2026-10-03T07:28:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49942103\">Comments</a>"
-  },
-  {
-    "title": "New York City should carefully measure a new tree",
-    "link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-    "source": "Hacker News",
-    "published": "2026-10-03T02:28:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49940877\">Comments</a>"
   },
   {
     "title": "Math's pedagogical curse \u2013 Grant Sanderson [video]",
@@ -120,20 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49940482\">Comments</a>"
   },
   {
-    "title": "Three AI agents, two countries, and one uneven world wide web",
-    "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "title": "gpuvis: GPU Trace Visualizer",
+    "link": "https://github.com/mikesart/gpuvis",
     "source": "Hacker News",
-    "published": "2026-10-02T20:39:05+00:00",
+    "published": "2026-10-02T16:04:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49938326\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49935097\">Comments</a>"
   },
   {
-    "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
-    "link": "https://pipod.dev/",
+    "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+    "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
     "source": "Hacker News",
-    "published": "2026-10-02T19:10:38+00:00",
+    "published": "2026-10-02T15:09:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49937304\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49934351\">Comments</a>"
   },
   {
     "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49923873\">Comments</a>"
   },
   {
-    "title": "So You Think You Could Be an Electrician?",
+    "title": "So you think you could be an electrician?",
     "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
     "source": "Hacker News",
     "published": "2026-09-30T15:43:27+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49910462\">Comments</a>"
-  },
-  {
-    "title": "Your body of work thinks back at you",
-    "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-    "source": "Hacker News",
-    "published": "2026-09-30T13:20:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49908570\">Comments</a>"
   }
 ]
