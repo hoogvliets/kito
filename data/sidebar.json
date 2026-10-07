@@ -1,19 +1,91 @@
 [
   {
-    "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
-    "link": "https://news.ycombinator.com/item?id=49984484",
+    "title": "Strands Decider 2B: a small, open-source, decision model",
+    "link": "https://strandsagents.com/blog/introducing-strands-decider/",
     "source": "Hacker News",
-    "published": "2026-10-06T21:37:01+00:00",
+    "published": "2026-10-07T02:02:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984484\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49987076\">Comments</a>"
   },
   {
-    "title": "OpenSSH 10.6",
-    "link": "https://www.openssh.org/releasenotes.html#10.6",
+    "title": "ESP32-C3 Adblock",
+    "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
     "source": "Hacker News",
-    "published": "2026-10-06T20:41:39+00:00",
+    "published": "2026-10-07T01:39:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49983791\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49986862\">Comments</a>"
+  },
+  {
+    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+    "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+    "source": "Hacker News",
+    "published": "2026-10-07T01:27:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49986765\">Comments</a>"
+  },
+  {
+    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+    "link": "https://github.com/boykopovar/AnyPS5",
+    "source": "Hacker News",
+    "published": "2026-10-06T23:28:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49985664\">Comments</a>"
+  },
+  {
+    "title": "State of Devs 2026",
+    "link": "https://2026.stateofdevs.com/en-US/",
+    "source": "Hacker News",
+    "published": "2026-10-06T23:26:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49985643\">Comments</a>"
+  },
+  {
+    "title": "Integer multiplication below n log n",
+    "link": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+    "source": "Hacker News",
+    "published": "2026-10-06T23:14:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49985524\">Comments</a>"
+  },
+  {
+    "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+    "link": "https://arxiv.org/abs/2609.38721",
+    "source": "Hacker News",
+    "published": "2026-10-06T22:51:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49985292\">Comments</a>"
+  },
+  {
+    "title": "Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "published": "2026-10-06T22:17:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984923\">Comments</a>"
+  },
+  {
+    "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "link": "https://penguin-mail.com/",
+    "source": "Hacker News",
+    "published": "2026-10-06T21:59:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984716\">Comments</a>"
+  },
+  {
+    "title": "How Fast is Python 3.15?",
+    "link": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+    "source": "Hacker News",
+    "published": "2026-10-06T21:52:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984652\">Comments</a>"
+  },
+  {
+    "title": "Decisions API is in public beta",
+    "link": "https://developers.openai.com/api/docs/guides/decisions",
+    "source": "Hacker News",
+    "published": "2026-10-06T20:57:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984025\">Comments</a>"
   },
   {
     "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
@@ -24,20 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49983703\">Comments</a>"
   },
   {
-    "title": "System-level ad-blocking in Android",
-    "link": "https://kevinboone.me/adblock.html",
+    "title": "When random is not actually random enough",
+    "link": "https://ersc.io/blog/when-random-isnt-random-enough",
     "source": "Hacker News",
-    "published": "2026-10-06T20:29:10+00:00",
+    "published": "2026-10-06T20:12:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49983647\">Comments</a>"
-  },
-  {
-    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
-    "link": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
-    "source": "Hacker News",
-    "published": "2026-10-06T18:52:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49982471\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49983404\">Comments</a>"
   },
   {
     "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
@@ -48,6 +112,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49981905\">Comments</a>"
   },
   {
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+    "source": "Hacker News",
+    "published": "2026-10-06T17:01:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49981197\">Comments</a>"
+  },
+  {
     "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
     "link": "https://github.com/FeSens/openTPU",
     "source": "Hacker News",
@@ -56,28 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49980715\">Comments</a>"
   },
   {
-    "title": "EmbeddingGemma 2",
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
     "source": "Hacker News",
     "published": "2026-10-06T16:03:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49980487\">Comments</a>"
-  },
-  {
-    "title": "The Early History of Smalltalk (1993)",
-    "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-    "source": "Hacker News",
-    "published": "2026-10-06T15:19:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49979845\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-    "link": "https://peterszentkiralyi.eu/darkplug/",
-    "source": "Hacker News",
-    "published": "2026-10-06T13:58:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49978595\">Comments</a>"
   },
   {
     "title": "Mistral Large 4",
@@ -88,75 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49977979\">Comments</a>"
   },
   {
-    "title": "Mathematics of Geothermal Energy",
-    "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+    "title": "LLMs may have helped my RSI",
+    "link": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
     "source": "Hacker News",
-    "published": "2026-10-06T13:05:26+00:00",
+    "published": "2026-10-06T03:01:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49977819\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49973644\">Comments</a>"
   },
   {
-    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "link": "https://www.erdosproblems.com/forum/thread/blog:9",
+    "title": "The cost of lies: A Mineserver story",
+    "link": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
     "source": "Hacker News",
-    "published": "2026-10-06T12:53:58+00:00",
+    "published": "2026-10-04T05:17:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49977689\">Comments</a>"
-  },
-  {
-    "title": "What's Earth's dominant species by mass?",
-    "link": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-    "source": "Hacker News",
-    "published": "2026-10-06T12:40:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49977531\">Comments</a>"
-  },
-  {
-    "title": "Subquadratic 3SUM and Subcubic APSP",
-    "link": "https://arxiv.org/abs/2610.06783",
-    "source": "Hacker News",
-    "published": "2026-10-06T12:31:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49977437\">Comments</a>"
-  },
-  {
-    "title": "Polars 2.0",
-    "link": "https://pola.rs/posts/release-polars-2/",
-    "source": "Hacker News",
-    "published": "2026-10-06T11:59:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49977177\">Comments</a>"
-  },
-  {
-    "title": "Nobel Prize in Physics 2026: Francis Halzen",
-    "link": "https://www.nobelprize.org/prizes/physics/2026/",
-    "source": "Hacker News",
-    "published": "2026-10-06T09:48:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49976265\">Comments</a>"
-  },
-  {
-    "title": "Gleam doesn't compile to Erlang source anymore",
-    "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-    "source": "Hacker News",
-    "published": "2026-10-06T08:08:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49975619\">Comments</a>"
-  },
-  {
-    "title": "Beam: Reflection's 501B open-weight model",
-    "link": "https://reflection.ai/blog/introducing-beam",
-    "source": "Hacker News",
-    "published": "2026-10-05T19:16:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49969183\">Comments</a>"
-  },
-  {
-    "title": "Benchmark in Milliseconds",
-    "link": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-    "source": "Hacker News",
-    "published": "2026-10-05T17:00:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49967427\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49950865\">Comments</a>"
   }
 ]
