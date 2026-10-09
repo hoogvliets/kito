@@ -1,19 +1,51 @@
 [
   {
-    "title": "Show HN: Edi Life OS \u2013 self-hosted life dashboard with an MCP server for AI",
-    "link": "https://github.com/edrisranjbar/lifeos",
+    "title": "OTel-Native by Design \u2013 Building Products That Export to Any Observability Stack",
+    "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
     "source": "Hacker News",
-    "published": "2026-10-09T00:02:19+00:00",
+    "published": "2026-10-09T06:54:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50014150\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50016974\">Comments</a>"
   },
   {
-    "title": "Show HN: SVG Spark \u2013 10 client-side SVG design and dev tools",
-    "link": "https://svg-spark.vercel.app/",
+    "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+    "link": "https://www.oldroll.io/",
     "source": "Hacker News",
-    "published": "2026-10-08T23:32:49+00:00",
+    "published": "2026-10-09T06:40:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50013931\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50016840\">Comments</a>"
+  },
+  {
+    "title": "MXC - a sandboxed code execution system",
+    "link": "https://github.com/microsoft/mxc",
+    "source": "Hacker News",
+    "published": "2026-10-09T05:51:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50016489\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Quake ported to safe Rust, playable in browser",
+    "link": "https://quake-srp.pages.dev/",
+    "source": "Hacker News",
+    "published": "2026-10-09T05:22:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50016312\">Comments</a>"
+  },
+  {
+    "title": "Keyboard differences between Windows and Macs",
+    "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "source": "Hacker News",
+    "published": "2026-10-09T03:08:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50015515\">Comments</a>"
+  },
+  {
+    "title": "Reducing undefined behavior in the C language",
+    "link": "https://lwn.net/Articles/1095811/",
+    "source": "Hacker News",
+    "published": "2026-10-09T02:02:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50015074\">Comments</a>"
   },
   {
     "title": "OpenAI, the Partition Principle, and Mathematics",
@@ -32,28 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50011999\">Comments</a>"
   },
   {
-    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-    "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-    "source": "Hacker News",
-    "published": "2026-10-08T20:42:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50011928\">Comments</a>"
-  },
-  {
     "title": "The value of not getting to the point (2015)",
     "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
     "source": "Hacker News",
     "published": "2026-10-08T19:04:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50010470\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Pocketty \u2013 iPhone SSH terminal that pings you when an agent is blocked",
-    "link": "https://pocketty.app/",
-    "source": "Hacker News",
-    "published": "2026-10-08T18:11:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50009634\">Comments</a>"
   },
   {
     "title": "Theranos.world",
@@ -64,36 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50009295\">Comments</a>"
   },
   {
-    "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-    "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-    "source": "Hacker News",
-    "published": "2026-10-08T17:39:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50009066\">Comments</a>"
-  },
-  {
     "title": "Whistle: Speech to Text in 16.9 MB",
     "link": "https://cactuscompute.com/blog/whistle",
     "source": "Hacker News",
     "published": "2026-10-08T16:59:39+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50008427\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
-    "link": "https://opper.ai/jevman-benchmark/",
-    "source": "Hacker News",
-    "published": "2026-10-08T16:34:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50007993\">Comments</a>"
-  },
-  {
-    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "link": "https://openrouter.ai/stepfun/step-5-preview",
-    "source": "Hacker News",
-    "published": "2026-10-08T16:20:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50007764\">Comments</a>"
   },
   {
     "title": "Beauty in DVD Menus",
@@ -120,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50000488\">Comments</a>"
   },
   {
-    "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-    "link": "https://www.nature.com/articles/s41586-026-10546-z",
+    "title": "DuckDB Ducklake",
+    "link": "https://github.com/duckdb/ducklake",
     "source": "Hacker News",
-    "published": "2026-10-07T18:14:41+00:00",
+    "published": "2026-10-07T17:40:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49996639\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49996149\">Comments</a>"
   },
   {
     "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
@@ -150,6 +142,14 @@
     "published": "2026-10-07T01:41:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49986882\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+    "link": "https://news.ycombinator.com/item?id=49985548",
+    "source": "Hacker News",
+    "published": "2026-10-06T23:16:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49985548\">Comments</a>"
   },
   {
     "title": "A Terminal Protocol for Program Status (OSC 7501)",
