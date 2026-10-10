@@ -1,11 +1,19 @@
 [
   {
-    "title": "Takeshi's Castle",
-    "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+    "title": "Build your own decision model",
+    "link": "https://nishtahir.com/build-your-own-decision-model/",
     "source": "Hacker News",
-    "published": "2026-10-10T19:12:55+00:00",
+    "published": "2026-10-10T22:50:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50036119\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50037949\">Comments</a>"
+  },
+  {
+    "title": "A city-building game in which the city would prefer you didn't",
+    "link": "https://housing.over.pizza/",
+    "source": "Hacker News",
+    "published": "2026-10-10T20:31:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50036864\">Comments</a>"
   },
   {
     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
@@ -24,6 +32,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50035530\">Comments</a>"
   },
   {
+    "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
+    "link": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
+    "source": "Hacker News",
+    "published": "2026-10-10T15:51:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50034123\">Comments</a>"
+  },
+  {
     "title": "Knuth reward check",
     "link": "https://www.thomas-huehn.com/knuth-reward-check/",
     "source": "Hacker News",
@@ -32,28 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50034081\">Comments</a>"
   },
   {
-    "title": "Bitwarden Dual License Model",
-    "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-    "source": "Hacker News",
-    "published": "2026-10-10T14:32:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50033407\">Comments</a>"
-  },
-  {
     "title": "Unikernels were hard. key word: were",
     "link": "https://ghuntley.com/unikernels/",
     "source": "Hacker News",
     "published": "2026-10-10T14:27:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50033357\">Comments</a>"
-  },
-  {
-    "title": "I would like the value of my home to rise, while my property taxes fall",
-    "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-    "source": "Hacker News",
-    "published": "2026-10-10T13:29:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50032758\">Comments</a>"
   },
   {
     "title": "Apple/macOS removed from official Unix registry",
@@ -80,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50029487\">Comments</a>"
   },
   {
-    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-    "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "source": "Hacker News",
-    "published": "2026-10-10T03:02:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50029123\">Comments</a>"
-  },
-  {
     "title": "REA Reverse \u2013 Engineer Anything",
     "link": "https://rea.tools/",
     "source": "Hacker News",
     "published": "2026-10-10T00:37:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50028275\">Comments</a>"
-  },
-  {
-    "title": "How strong is the strong interaction?",
-    "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-    "source": "Hacker News",
-    "published": "2026-10-10T00:13:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50028162\">Comments</a>"
   },
   {
     "title": "Recent AI models struggled to match a human algorithmic innovation",
@@ -120,12 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50024242\">Comments</a>"
   },
   {
-    "title": "Triple-A Minesweeper",
-    "link": "https://minesweeper.mikelacher.com/",
+    "title": "Five months treating bugs like patients and coding agents like a medical team",
+    "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
     "source": "Hacker News",
-    "published": "2026-10-09T15:51:05+00:00",
+    "published": "2026-10-09T15:26:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50022292\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50021899\">Comments</a>"
+  },
+  {
+    "title": "Getting old Macromedia Director Games to run on modern Hardware",
+    "link": "https://werwolv.net/posts/macromedia_copy_protection/",
+    "source": "Hacker News",
+    "published": "2026-10-09T14:18:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50020901\">Comments</a>"
   },
   {
     "title": "Nix wrote half of my debugger",
@@ -150,6 +142,14 @@
     "published": "2026-10-07T12:30:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49991852\">Comments</a>"
+  },
+  {
+    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+    "link": "https://openscad.org/",
+    "source": "Hacker News",
+    "published": "2026-10-06T21:22:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49984349\">Comments</a>"
   },
   {
     "title": "Grieving the loss of details",
