@@ -1,15 +1,31 @@
 [
   {
-    "title": "The Disease called Politics (1962)",
-    "link": "https://www.panarchy.org/roszak/politics.html",
+    "title": "Takeshi's Castle",
+    "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
     "source": "Hacker News",
-    "published": "2026-10-10T15:53:46+00:00",
+    "published": "2026-10-10T19:12:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50034141\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50036119\">Comments</a>"
   },
   {
-    "title": "Knuth Reward Check",
-    "link": "https://www.thomas-huehn.com/knuth-reward-check",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "source": "Hacker News",
+    "published": "2026-10-10T18:48:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50035886\">Comments</a>"
+  },
+  {
+    "title": "Why DuckDB 2.0 is faster",
+    "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+    "source": "Hacker News",
+    "published": "2026-10-10T18:08:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50035530\">Comments</a>"
+  },
+  {
+    "title": "Knuth reward check",
+    "link": "https://www.thomas-huehn.com/knuth-reward-check/",
     "source": "Hacker News",
     "published": "2026-10-10T15:47:01+00:00",
     "author": "Hacker News",
@@ -24,6 +40,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50033407\">Comments</a>"
   },
   {
+    "title": "Unikernels were hard. key word: were",
+    "link": "https://ghuntley.com/unikernels/",
+    "source": "Hacker News",
+    "published": "2026-10-10T14:27:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50033357\">Comments</a>"
+  },
+  {
     "title": "I would like the value of my home to rise, while my property taxes fall",
     "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
     "source": "Hacker News",
@@ -32,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50032758\">Comments</a>"
   },
   {
-    "title": "Apple/macOS silently removed from official Unix registry",
+    "title": "Apple/macOS removed from official Unix registry",
     "link": "https://www.opengroup.org//openbrand/register/",
     "source": "Hacker News",
     "published": "2026-10-10T10:57:31+00:00",
@@ -48,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50031614\">Comments</a>"
   },
   {
-    "title": "`123456' password used in Danish CPR data breach",
-    "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "title": "The Lightbulb Computer",
+    "link": "https://lightbulbcomputer.com/",
     "source": "Hacker News",
-    "published": "2026-10-10T09:51:49+00:00",
+    "published": "2026-10-10T04:12:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50031269\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50029487\">Comments</a>"
   },
   {
     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
@@ -72,12 +96,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50028275\">Comments</a>"
   },
   {
-    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-    "link": "https://carrierexplode.com/",
+    "title": "How strong is the strong interaction?",
+    "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
     "source": "Hacker News",
-    "published": "2026-10-09T18:10:55+00:00",
+    "published": "2026-10-10T00:13:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50024499\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50028162\">Comments</a>"
+  },
+  {
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "link": "https://epoch.ai/publications/innovationeval",
+    "source": "Hacker News",
+    "published": "2026-10-09T22:14:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50027257\">Comments</a>"
   },
   {
     "title": "Rampart: Browser native on-device PII radaction",
@@ -96,12 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50022292\">Comments</a>"
   },
   {
-    "title": "Can you use autoregressive diffusion to generate market data?",
-    "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+    "title": "Nix wrote half of my debugger",
+    "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
     "source": "Hacker News",
-    "published": "2026-10-09T14:56:13+00:00",
+    "published": "2026-10-09T07:29:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50021410\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50017247\">Comments</a>"
   },
   {
     "title": "Mxc: Microsoft Execution Containers version 1.0.0",
@@ -112,51 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50016956\">Comments</a>"
   },
   {
-    "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-    "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+    "title": "2D Vehicles",
+    "link": "https://patkerr.co.uk/2d-vehicles/",
     "source": "Hacker News",
-    "published": "2026-10-09T06:21:36+00:00",
+    "published": "2026-10-07T12:30:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50016696\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49991852\">Comments</a>"
   },
   {
-    "title": "Timestamping a Giant Record of the Web",
-    "link": "https://projecttimestamper.org/blog/common-crawl/",
+    "title": "Grieving the loss of details",
+    "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
     "source": "Hacker News",
-    "published": "2026-10-09T00:29:01+00:00",
+    "published": "2026-10-06T16:37:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50014397\">Comments</a>"
-  },
-  {
-    "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-    "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-    "source": "Hacker News",
-    "published": "2026-10-07T21:06:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49998801\">Comments</a>"
-  },
-  {
-    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-    "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-    "source": "Hacker News",
-    "published": "2026-10-07T19:15:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49997481\">Comments</a>"
-  },
-  {
-    "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-    "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-    "source": "Hacker News",
-    "published": "2026-10-07T01:44:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49986919\">Comments</a>"
-  },
-  {
-    "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
-    "link": "https://www.datocms.com/blog/handling-less-common-scripts",
-    "source": "Hacker News",
-    "published": "2026-10-06T17:24:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49981508\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49980880\">Comments</a>"
   }
 ]
