@@ -1,19 +1,131 @@
 [
   {
-    "title": "Fable Took My Job",
-    "link": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
+    "title": "Writing a Demoscene Intro for the ZX Spectrum",
+    "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
     "source": "Hacker News",
-    "published": "2026-10-12T08:30:33+00:00",
+    "published": "2026-10-12T19:40:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50053216\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50061859\">Comments</a>"
   },
   {
-    "title": "Zod 4.6.6 compromised by malware?",
-    "link": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+    "title": "Introducing OpenFatigue",
+    "link": "https://openfatigue.ai/",
     "source": "Hacker News",
-    "published": "2026-10-12T07:47:29+00:00",
+    "published": "2026-10-12T19:08:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50052814\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50061278\">Comments</a>"
+  },
+  {
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "link": "https://github.com/openai/codex/issues/48195",
+    "source": "Hacker News",
+    "published": "2026-10-12T18:29:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50060694\">Comments</a>"
+  },
+  {
+    "title": "Publishers Killed the Paperback, Then Blamed Readers",
+    "link": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+    "source": "Hacker News",
+    "published": "2026-10-12T18:27:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50060674\">Comments</a>"
+  },
+  {
+    "title": "My Reddit AMA on the Law of Web Scraping",
+    "link": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+    "source": "Hacker News",
+    "published": "2026-10-12T18:02:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50060296\">Comments</a>"
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "Hacker News",
+    "published": "2026-10-12T17:14:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50059523\">Comments</a>"
+  },
+  {
+    "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
+    "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+    "source": "Hacker News",
+    "published": "2026-10-12T17:08:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50059446\">Comments</a>"
+  },
+  {
+    "title": "Thinking will become a hobby",
+    "link": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "source": "Hacker News",
+    "published": "2026-10-12T16:54:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50059204\">Comments</a>"
+  },
+  {
+    "title": "Muse Wonder",
+    "link": "https://research.meta.ai/blog/muse-wonder",
+    "source": "Hacker News",
+    "published": "2026-10-12T16:48:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50059115\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+    "link": "https://news.ycombinator.com/item?id=50059096",
+    "source": "Hacker News",
+    "published": "2026-10-12T16:46:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50059096\">Comments</a>"
+  },
+  {
+    "title": "A Modern Web App in C",
+    "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "source": "Hacker News",
+    "published": "2026-10-12T16:13:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50058528\">Comments</a>"
+  },
+  {
+    "title": "GLM-Legal",
+    "link": "https://z.ai/blog/glm-legal",
+    "source": "Hacker News",
+    "published": "2026-10-12T16:11:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50058507\">Comments</a>"
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "link": "https://taylor.town/kk-ai-2026",
+    "source": "Hacker News",
+    "published": "2026-10-12T15:16:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50057668\">Comments</a>"
+  },
+  {
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "link": "https://github.com/h0m3us3r/w1700k-sdr",
+    "source": "Hacker News",
+    "published": "2026-10-12T12:41:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50055593\">Comments</a>"
+  },
+  {
+    "title": "Hackers activate automatic defrosting accross European supermarket fridges",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "source": "Hacker News",
+    "published": "2026-10-12T12:16:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50055304\">Comments</a>"
+  },
+  {
+    "title": "Citroen revives the 2CV for an electric age",
+    "link": "https://www.bbc.com/news/articles/c620r33plgppo",
+    "source": "Hacker News",
+    "published": "2026-10-12T12:09:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50055220\">Comments</a>"
   },
   {
     "title": "Show HN: PS2 games statically recompiled to WebAssembly",
@@ -24,70 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50052251\">Comments</a>"
   },
   {
-    "title": "Postgres isn't slow, your storage is",
-    "link": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-    "source": "Hacker News",
-    "published": "2026-10-12T06:36:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50052163\">Comments</a>"
-  },
-  {
-    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-    "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "source": "Hacker News",
-    "published": "2026-10-12T05:03:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50051583\">Comments</a>"
-  },
-  {
-    "title": "Type-safe HTML templating in Zig",
-    "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-    "source": "Hacker News",
-    "published": "2026-10-12T05:02:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50051573\">Comments</a>"
-  },
-  {
-    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-    "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-    "source": "Hacker News",
-    "published": "2026-10-12T04:54:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50051530\">Comments</a>"
-  },
-  {
-    "title": "Doory \u2013 Open-Source Canva",
-    "link": "https://github.com/shaongitbd/doory",
-    "source": "Hacker News",
-    "published": "2026-10-12T00:48:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50049872\">Comments</a>"
-  },
-  {
-    "title": "Local Indexing to reduce tool calling and token usage",
-    "link": "https://tedhaley.ca/pensieve/",
-    "source": "Hacker News",
-    "published": "2026-10-12T00:03:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50049508\">Comments</a>"
-  },
-  {
-    "title": "Whatever became of holography? (2011)",
-    "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-    "source": "Hacker News",
-    "published": "2026-10-11T23:50:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50049411\">Comments</a>"
-  },
-  {
-    "title": "Illustration Beyond Proof",
-    "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-    "source": "Hacker News",
-    "published": "2026-10-11T23:22:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50049133\">Comments</a>"
-  },
-  {
     "title": "Fingerprints are the new cookies",
     "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
     "source": "Hacker News",
@@ -96,67 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50048642\">Comments</a>"
   },
   {
-    "title": "Passkeys are a trap",
-    "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "title": "Secret of Orange Cats Revealed After 60-Year Search",
+    "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
     "source": "Hacker News",
-    "published": "2026-10-11T21:59:48+00:00",
+    "published": "2026-10-10T22:10:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50048312\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50037711\">Comments</a>"
   },
   {
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "link": "https://twitter.com/karpathy/status/2109361546505966046",
+    "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+    "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
     "source": "Hacker News",
-    "published": "2026-10-11T20:20:52+00:00",
+    "published": "2026-10-10T19:28:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50047422\">Comments</a>"
-  },
-  {
-    "title": "Cartographers of North Korea (2019)",
-    "link": "https://cartographers-nk.wonyoung.so/",
-    "source": "Hacker News",
-    "published": "2026-10-11T19:46:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50047091\">Comments</a>"
-  },
-  {
-    "title": "Total Annihilation, rebuilt for modern computers",
-    "link": "https://nanolathe.gg",
-    "source": "Hacker News",
-    "published": "2026-10-11T18:04:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50045984\">Comments</a>"
-  },
-  {
-    "title": "Terence Tao: Math 2.0 [pdf]",
-    "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-    "source": "Hacker News",
-    "published": "2026-10-11T13:16:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50043026\">Comments</a>"
-  },
-  {
-    "title": "Running the unmodified Linux amdgpu driver on an iPad",
-    "link": "https://github.com/Geramy/LemonSeed-Studio",
-    "source": "Hacker News",
-    "published": "2026-10-11T10:18:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50041573\">Comments</a>"
-  },
-  {
-    "title": "Calculus with Julia",
-    "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-    "source": "Hacker News",
-    "published": "2026-10-10T15:59:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50034206\">Comments</a>"
-  },
-  {
-    "title": "No portable way to detect string-to-float conversion errors in standard C",
-    "link": "https://sebsite.pw/w/20261009-strtod.html",
-    "source": "Hacker News",
-    "published": "2026-10-10T15:39:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50034001\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50036287\">Comments</a>"
   }
 ]
