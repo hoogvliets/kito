@@ -1,43 +1,115 @@
 [
   {
-    "title": "Passkeys Are Not a Trap",
-    "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "link": "https://sunshowers.io/posts/anthropic-mononoke/",
     "source": "Hacker News",
-    "published": "2026-10-14T15:15:45+00:00",
+    "published": "2026-10-14T20:30:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088935\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50094694\">Comments</a>"
   },
   {
-    "title": "Running Windows desktop tests from Linux with disposable VMs",
-    "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
     "source": "Hacker News",
-    "published": "2026-10-14T14:55:19+00:00",
+    "published": "2026-10-14T20:29:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50094673\">Comments</a>"
   },
   {
-    "title": "AI is mass decompiling games. That's both awesome and scary",
-    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+    "title": "Fancy Curl Sites",
+    "link": "https://nytpu.com/gemlog/2026-03-18",
     "source": "Hacker News",
-    "published": "2026-10-14T14:47:44+00:00",
+    "published": "2026-10-14T19:29:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088534\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50093612\">Comments</a>"
   },
   {
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "title": "Things to know if you get cancer in 2026",
+    "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
     "source": "Hacker News",
-    "published": "2026-10-14T14:38:55+00:00",
+    "published": "2026-10-14T19:26:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088430\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50093568\">Comments</a>"
   },
   {
-    "title": "The Aaronson Oracle",
-    "link": "https://aaronsonoracle.com/",
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
     "source": "Hacker News",
-    "published": "2026-10-14T12:16:35+00:00",
+    "published": "2026-10-14T18:37:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50086484\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50092730\">Comments</a>"
+  },
+  {
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "source": "Hacker News",
+    "published": "2026-10-14T18:32:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50092664\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "link": "https://petal.live/",
+    "source": "Hacker News",
+    "published": "2026-10-14T18:23:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50092470\">Comments</a>"
+  },
+  {
+    "title": "America didn't lose its rare earth industry, it sold it",
+    "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+    "source": "Hacker News",
+    "published": "2026-10-14T17:50:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50091875\">Comments</a>"
+  },
+  {
+    "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
+    "link": "https://github.com/bealesh/neckbeard",
+    "source": "Hacker News",
+    "published": "2026-10-14T17:45:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50091794\">Comments</a>"
+  },
+  {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "published": "2026-10-14T17:45:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50091788\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "link": "https://clova.email/",
+    "source": "Hacker News",
+    "published": "2026-10-14T17:00:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50090932\">Comments</a>"
+  },
+  {
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "link": "https://go.dev/blog/http-connection-reuse",
+    "source": "Hacker News",
+    "published": "2026-10-14T16:29:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50090369\">Comments</a>"
+  },
+  {
+    "title": "Google is silently linking your phone number across all signed-in accounts",
+    "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+    "source": "Hacker News",
+    "published": "2026-10-14T16:28:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50090349\">Comments</a>"
+  },
+  {
+    "title": "Submarine cable resilience",
+    "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "source": "Hacker News",
+    "published": "2026-10-14T15:31:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50089229\">Comments</a>"
   },
   {
     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
@@ -48,30 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50086165\">Comments</a>"
   },
   {
-    "title": "TV4 postpones show after AI agent erases edited material",
-    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "source": "Hacker News",
-    "published": "2026-10-14T10:28:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085323\">Comments</a>"
-  },
-  {
-    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-    "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-    "source": "Hacker News",
-    "published": "2026-10-14T10:26:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085306\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "link": "https://museumofages.org/w/vinci",
-    "source": "Hacker News",
-    "published": "2026-10-14T10:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085022\">Comments</a>"
-  },
-  {
     "title": "Amazon pushes up prices across the Internet",
     "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
     "source": "Hacker News",
@@ -80,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50084757\">Comments</a>"
   },
   {
-    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
     "link": "https://typeof.net/Iosevka/",
     "source": "Hacker News",
     "published": "2026-10-14T08:27:59+00:00",
@@ -88,75 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50084240\">Comments</a>"
   },
   {
-    "title": "Recreational Programming",
-    "link": "https://www.cphiri.dev/presentations/recreational-programming",
+    "title": "LittleJS is 2D and 3D now",
+    "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
     "source": "Hacker News",
-    "published": "2026-10-13T22:33:33+00:00",
+    "published": "2026-10-13T01:50:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50079865\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50065572\">Comments</a>"
   },
   {
-    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-    "link": "https://guitoro.com/",
+    "title": "Phloem: Git history grown like a slime mold",
+    "link": "https://phloem.stemdeck.app/",
     "source": "Hacker News",
-    "published": "2026-10-13T19:11:48+00:00",
+    "published": "2026-10-12T10:52:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50077020\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50054465\">Comments</a>"
   },
   {
-    "title": "Gemini 4 Argon",
-    "link": "https://deepmind.google/models/gemini/",
+    "title": "Show HN: Timur's Chess \u2013 A 14th century chess variant with giraffes",
+    "link": "https://timurschess.com",
     "source": "Hacker News",
-    "published": "2026-10-13T16:03:16+00:00",
+    "published": "2026-10-11T14:52:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50073879\">Comments</a>"
-  },
-  {
-    "title": "The Origin Story of Kid Pix",
-    "link": "http://red-green-blue.com/kid-pix-the-early-years",
-    "source": "Hacker News",
-    "published": "2026-10-12T23:52:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50064673\">Comments</a>"
-  },
-  {
-    "title": "The Genealogy of Eliza",
-    "link": "https://elizagen.org/genealogy.html",
-    "source": "Hacker News",
-    "published": "2026-10-12T20:29:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50062575\">Comments</a>"
-  },
-  {
-    "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-    "link": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-    "source": "Hacker News",
-    "published": "2026-10-12T12:44:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50055632\">Comments</a>"
-  },
-  {
-    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-    "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-    "source": "Hacker News",
-    "published": "2026-10-12T09:05:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50053487\">Comments</a>"
-  },
-  {
-    "title": "Sound \u2013 Bartosz Ciechanowski (2022)",
-    "link": "https://ciechanow.ski/sound/",
-    "source": "Hacker News",
-    "published": "2026-10-11T16:46:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50045147\">Comments</a>"
-  },
-  {
-    "title": "How Tabasco Became the World's Hot Sauce",
-    "link": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
-    "source": "Hacker News",
-    "published": "2026-10-11T13:28:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50043112\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50043948\">Comments</a>"
   }
 ]
