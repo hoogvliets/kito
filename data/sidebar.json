@@ -1,35 +1,67 @@
 [
   {
-    "title": "I built a tool to track what AI leaders say and how their views change on video",
-    "link": "https://blumify.io/people",
+    "title": "Show HN: Building an LLM from Scratch in TypeScript",
+    "link": "https://book.humanexperiences.io/",
     "source": "Hacker News",
-    "published": "2026-10-14T01:09:13+00:00",
+    "published": "2026-10-14T10:29:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50081151\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>"
   },
   {
-    "title": "High-speed video reveals how honey bee stingers pump venom",
-    "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+    "title": "I let an AI run my startup for a week",
+    "link": "https://daily.tinyprojects.dev/221",
     "source": "Hacker News",
-    "published": "2026-10-14T01:05:23+00:00",
+    "published": "2026-10-14T10:25:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50081133\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>"
   },
   {
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "link": "https://pulseos.finance",
+    "title": "Apple: Switch to Safari (From Chrome)",
+    "link": "https://www.apple.com/safari/switch/",
     "source": "Hacker News",
-    "published": "2026-10-13T23:13:23+00:00",
+    "published": "2026-10-14T10:08:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50080275\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50085112\">Comments</a>"
   },
   {
-    "title": "Grace Hopper Celebration Cancelled",
-    "link": "https://anitab.org/press-release",
+    "title": "What agents mean for Rust (and vice versa)",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
     "source": "Hacker News",
-    "published": "2026-10-13T22:46:49+00:00",
+    "published": "2026-10-14T08:49:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50080007\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50084416\">Comments</a>"
+  },
+  {
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "link": "https://typeof.net/Iosevka/",
+    "source": "Hacker News",
+    "published": "2026-10-14T08:27:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50084240\">Comments</a>"
+  },
+  {
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "link": "https://github.com/android/ndk/issues/2260",
+    "source": "Hacker News",
+    "published": "2026-10-14T06:18:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50083130\">Comments</a>"
+  },
+  {
+    "title": "Felix Rieseberg Homepage",
+    "link": "https://felixrieseberg.com/",
+    "source": "Hacker News",
+    "published": "2026-10-14T04:42:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50082470\">Comments</a>"
+  },
+  {
+    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "link": "https://strafe.chat/",
+    "source": "Hacker News",
+    "published": "2026-10-14T03:28:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50082021\">Comments</a>"
   },
   {
     "title": "Recreational Programming",
@@ -38,14 +70,6 @@
     "published": "2026-10-13T22:33:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50079865\">Comments</a>"
-  },
-  {
-    "title": "AlphaNIST",
-    "link": "https://alpha-nist.github.io/",
-    "source": "Hacker News",
-    "published": "2026-10-13T21:57:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50079464\">Comments</a>"
   },
   {
     "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
@@ -88,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50073633\">Comments</a>"
   },
   {
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "source": "Hacker News",
-    "published": "2026-10-13T15:25:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50073221\">Comments</a>"
-  },
-  {
     "title": "The United Kingdom generates less electricity per person than in the 1970s",
     "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
     "source": "Hacker News",
@@ -104,44 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50072994\">Comments</a>"
   },
   {
-    "title": "Thunderbird for iOS",
-    "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+    "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
     "source": "Hacker News",
-    "published": "2026-10-13T15:07:37+00:00",
+    "published": "2026-10-13T13:31:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50072913\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50071466\">Comments</a>"
   },
   {
-    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-    "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "title": "Kcgi \u2013 minimal CGI and FastCGI library for C/C++",
+    "link": "https://kristaps.bsd.lv/kcgi/",
     "source": "Hacker News",
-    "published": "2026-10-13T14:26:08+00:00",
+    "published": "2026-10-12T21:09:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50072286\">Comments</a>"
-  },
-  {
-    "title": "New Apple TV 4K",
-    "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-    "source": "Hacker News",
-    "published": "2026-10-13T13:21:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50071310\">Comments</a>"
-  },
-  {
-    "title": "Apple HomeView",
-    "link": "https://www.apple.com/apple-homeview/",
-    "source": "Hacker News",
-    "published": "2026-10-13T13:02:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50071017\">Comments</a>"
-  },
-  {
-    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-    "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-    "source": "Hacker News",
-    "published": "2026-10-12T19:28:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50061659\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50063104\">Comments</a>"
   },
   {
     "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -158,5 +150,13 @@
     "published": "2026-10-12T09:05:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50053487\">Comments</a>"
+  },
+  {
+    "title": "Sound \u2013 Bartosz Ciechanowski (2022)",
+    "link": "https://ciechanow.ski/sound/",
+    "source": "Hacker News",
+    "published": "2026-10-11T16:46:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50045147\">Comments</a>"
   }
 ]
