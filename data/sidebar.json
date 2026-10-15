@@ -1,19 +1,51 @@
 [
   {
+    "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+    "link": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+    "source": "Hacker News",
+    "published": "2026-10-15T01:07:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50097880\">Comments</a>"
+  },
+  {
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "source": "Hacker News",
+    "published": "2026-10-14T23:59:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50097369\">Comments</a>"
+  },
+  {
+    "title": "Tiny Little Office",
+    "link": "https://tinylittleoffice.com/",
+    "source": "Hacker News",
+    "published": "2026-10-14T22:10:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50096142\">Comments</a>"
+  },
+  {
+    "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "link": "https://typesafe.ai/blog/jev-1-14",
+    "source": "Hacker News",
+    "published": "2026-10-14T21:11:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50095353\">Comments</a>"
+  },
+  {
+    "title": "OpenCode 2.0",
+    "link": "https://anoma.ly/notes/opencode-2-0/",
+    "source": "Hacker News",
+    "published": "2026-10-14T20:48:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50094994\">Comments</a>"
+  },
+  {
     "title": "Anthropic's Scion is heavily inspired by Mononoke",
     "link": "https://sunshowers.io/posts/anthropic-mononoke/",
     "source": "Hacker News",
     "published": "2026-10-14T20:30:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50094694\">Comments</a>"
-  },
-  {
-    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "source": "Hacker News",
-    "published": "2026-10-14T20:29:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50094673\">Comments</a>"
   },
   {
     "title": "Fancy Curl Sites",
@@ -24,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50093612\">Comments</a>"
   },
   {
-    "title": "Things to know if you get cancer in 2026",
+    "title": "Things to know when you get cancer \u2013 2026 Edition",
     "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
     "source": "Hacker News",
     "published": "2026-10-14T19:26:30+00:00",
@@ -56,36 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50092470\">Comments</a>"
   },
   {
-    "title": "America didn't lose its rare earth industry, it sold it",
-    "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-    "source": "Hacker News",
-    "published": "2026-10-14T17:50:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50091875\">Comments</a>"
-  },
-  {
-    "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
-    "link": "https://github.com/bealesh/neckbeard",
-    "source": "Hacker News",
-    "published": "2026-10-14T17:45:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50091794\">Comments</a>"
-  },
-  {
-    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
     "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
     "source": "Hacker News",
     "published": "2026-10-14T17:45:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50091788\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "link": "https://clova.email/",
-    "source": "Hacker News",
-    "published": "2026-10-14T17:00:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50090932\">Comments</a>"
   },
   {
     "title": "Better HTTP/1 connection reuse in Go 1.27",
@@ -96,12 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50090369\">Comments</a>"
   },
   {
-    "title": "Google is silently linking your phone number across all signed-in accounts",
-    "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+    "title": "Americans' social activity has steeply declined in the past 30 years",
+    "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
     "source": "Hacker News",
-    "published": "2026-10-14T16:28:51+00:00",
+    "published": "2026-10-14T16:09:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50090349\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50089921\">Comments</a>"
   },
   {
     "title": "Submarine cable resilience",
@@ -112,36 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50089229\">Comments</a>"
   },
   {
-    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-    "link": "https://github.com/timescale/pg_vectorsearch",
+    "title": "Passkeys are not a trap",
+    "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
     "source": "Hacker News",
-    "published": "2026-10-14T11:47:53+00:00",
+    "published": "2026-10-14T15:15:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50086165\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088935\">Comments</a>"
   },
   {
-    "title": "Amazon pushes up prices across the Internet",
-    "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "title": "your C is not standard C",
+    "link": "https://sebsite.pw/w/20261012-notstdc.html",
     "source": "Hacker News",
-    "published": "2026-10-14T09:28:17+00:00",
+    "published": "2026-10-13T13:36:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50084757\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50071546\">Comments</a>"
   },
   {
-    "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-    "link": "https://typeof.net/Iosevka/",
+    "title": "Ask HN: CAD for wood working with LLM support?",
+    "link": "https://news.ycombinator.com/item?id=50067325",
     "source": "Hacker News",
-    "published": "2026-10-14T08:27:59+00:00",
+    "published": "2026-10-13T05:54:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50084240\">Comments</a>"
-  },
-  {
-    "title": "LittleJS is 2D and 3D now",
-    "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
-    "source": "Hacker News",
-    "published": "2026-10-13T01:50:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50065572\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50067325\">Comments</a>"
   },
   {
     "title": "Phloem: Git history grown like a slime mold",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50054465\">Comments</a>"
   },
   {
-    "title": "Show HN: Timur's Chess \u2013 A 14th century chess variant with giraffes",
-    "link": "https://timurschess.com",
+    "title": "Do dentists know what they're doing?",
+    "link": "https://mapwriting.substack.com/p/dentists",
     "source": "Hacker News",
-    "published": "2026-10-11T14:52:59+00:00",
+    "published": "2026-10-12T02:21:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50043948\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50050553\">Comments</a>"
   }
 ]
