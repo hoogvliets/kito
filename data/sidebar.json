@@ -1,11 +1,35 @@
 [
   {
-    "title": "Tesla Roadster",
-    "link": "https://www.tesla.com/roadster",
+    "title": "Last rites for Gentoo's Chromium package",
+    "link": "https://lwn.net/Articles/1097760/",
     "source": "Hacker News",
-    "published": "2026-10-16T01:32:45+00:00",
+    "published": "2026-10-16T05:14:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50112657\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50114359\">Comments</a>"
+  },
+  {
+    "title": "The Folders Programming Language",
+    "link": "https://danieltemkin.com/esolangs/folders",
+    "source": "Hacker News",
+    "published": "2026-10-16T05:11:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50114342\">Comments</a>"
+  },
+  {
+    "title": "Comparing Chromium Development at Google and Igalia",
+    "link": "https://lwn.net/Articles/1094721/",
+    "source": "Hacker News",
+    "published": "2026-10-16T01:56:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50112887\">Comments</a>"
+  },
+  {
+    "title": "Any window from your Mac, on your iPhone and iPad",
+    "link": "https://github.com/Saffsanity/sill",
+    "source": "Hacker News",
+    "published": "2026-10-16T01:43:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50112739\">Comments</a>"
   },
   {
     "title": "RPKI now protects 70% of internet routes",
@@ -16,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50112330\">Comments</a>"
   },
   {
-    "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+    "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
     "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
     "source": "Hacker News",
     "published": "2026-10-15T23:37:42+00:00",
@@ -32,7 +56,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50111742\">Comments</a>"
   },
   {
-    "title": "What I Self-Host",
+    "title": "What I self-host",
     "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
     "source": "Hacker News",
     "published": "2026-10-15T20:23:25+00:00",
@@ -56,14 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50108872\">Comments</a>"
   },
   {
-    "title": "E Ink Kaleido 4",
-    "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-    "source": "Hacker News",
-    "published": "2026-10-15T18:38:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50108229\">Comments</a>"
-  },
-  {
     "title": "Muse Spark Open",
     "link": "https://research.meta.ai/blog/muse-spark-open",
     "source": "Hacker News",
@@ -78,6 +94,14 @@
     "published": "2026-10-15T16:24:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50106023\">Comments</a>"
+  },
+  {
+    "title": "BIPM decides to stop adding leap seconds to UTC",
+    "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "source": "Hacker News",
+    "published": "2026-10-15T16:11:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50105777\">Comments</a>"
   },
   {
     "title": "Krea 3 \u2013 An image model built for editing at scale",
@@ -112,44 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50103338\">Comments</a>"
   },
   {
-    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-    "link": "https://libreboot.org/news/libreboot2610.html",
+    "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+    "link": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
     "source": "Hacker News",
-    "published": "2026-10-15T12:52:16+00:00",
+    "published": "2026-10-13T14:14:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50102923\">Comments</a>"
-  },
-  {
-    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-    "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-    "source": "Hacker News",
-    "published": "2026-10-15T10:43:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50101813\">Comments</a>"
-  },
-  {
-    "title": "Why I Wrote PGP (1991, revised 1999)",
-    "link": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-    "source": "Hacker News",
-    "published": "2026-10-14T09:17:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50084674\">Comments</a>"
-  },
-  {
-    "title": "Delta\u2019s Biscoff cookies were supposed to be temporary",
-    "link": "https://www.seriouseats.com/biscoff-history-12168161",
-    "source": "Hacker News",
-    "published": "2026-10-13T23:00:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50080155\">Comments</a>"
-  },
-  {
-    "title": "Major ICQ security hole (1998)",
-    "link": "https://opennet.ru/base/maillist/169.txt.html",
-    "source": "Hacker News",
-    "published": "2026-10-13T10:21:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50069439\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50072119\">Comments</a>"
   },
   {
     "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
@@ -158,5 +150,13 @@
     "published": "2026-10-13T07:52:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50068203\">Comments</a>"
+  },
+  {
+    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+    "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+    "source": "Hacker News",
+    "published": "2026-10-13T02:32:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50065859\">Comments</a>"
   }
 ]
