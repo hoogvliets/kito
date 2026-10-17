@@ -1,5 +1,21 @@
 [
   {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "source": "Hacker News",
+    "published": "2026-10-17T08:37:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50129121\">Comments</a>"
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "published": "2026-10-17T08:21:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50129045\">Comments</a>"
+  },
+  {
     "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
     "link": "https://llmspeed.dev/",
     "source": "Hacker News",
@@ -8,20 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50127979\">Comments</a>"
   },
   {
-    "title": "Butlerian Jihad",
-    "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+    "title": "Nine-Inch Snails",
+    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
     "source": "Hacker News",
-    "published": "2026-10-17T02:21:08+00:00",
+    "published": "2026-10-16T22:21:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50127274\">Comments</a>"
-  },
-  {
-    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-    "link": "https://www.flexport.com/company/careers/",
-    "source": "Hacker News",
-    "published": "2026-10-17T01:01:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50126774\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50125545\">Comments</a>"
   },
   {
     "title": "FLUX 3 Image Klein",
@@ -30,14 +38,6 @@
     "published": "2026-10-16T19:47:13+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50123580\">Comments</a>"
-  },
-  {
-    "title": "How the Claude Code team does code review",
-    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "source": "Hacker News",
-    "published": "2026-10-16T19:04:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50122951\">Comments</a>"
   },
   {
     "title": "You could have invented transformers from memory",
@@ -80,28 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50121939\">Comments</a>"
   },
   {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "source": "Hacker News",
-    "published": "2026-10-16T17:08:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50121179\">Comments</a>"
-  },
-  {
     "title": "JPEG XL vs. AVIF for web use-cases",
     "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "source": "Hacker News",
     "published": "2026-10-16T16:12:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50120224\">Comments</a>"
-  },
-  {
-    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-    "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-    "source": "Hacker News",
-    "published": "2026-10-16T15:38:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50119751\">Comments</a>"
   },
   {
     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
@@ -128,12 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50106747\">Comments</a>"
   },
   {
-    "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-    "link": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+    "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+    "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
     "source": "Hacker News",
-    "published": "2026-10-14T15:15:58+00:00",
+    "published": "2026-10-15T15:06:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50088937\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50104783\">Comments</a>"
+  },
+  {
+    "title": "Intuitive concurrent programming in any language",
+    "link": "https://www.lf-lang.org/",
+    "source": "Hacker News",
+    "published": "2026-10-15T13:18:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50103255\">Comments</a>"
+  },
+  {
+    "title": "Orbital Angular Momentum of Light",
+    "link": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+    "source": "Hacker News",
+    "published": "2026-10-14T21:39:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50095730\">Comments</a>"
   },
   {
     "title": "0/1 Knapsack Problem in PyTorch",
