@@ -1,35 +1,75 @@
 [
   {
-    "title": "Linux 7.3 Released",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+    "source": "Hacker News",
+    "published": "2026-10-19T15:10:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50153431\">Comments</a>"
+  },
+  {
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "link": "https://github.com/kividbio/kividb",
+    "source": "Hacker News",
+    "published": "2026-10-19T13:53:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152541\">Comments</a>"
+  },
+  {
+    "title": "Wine Ported to OpenBSD",
+    "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "source": "Hacker News",
+    "published": "2026-10-19T13:35:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152307\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "link": "https://100toolkit.com/blog/deslop-model/",
+    "source": "Hacker News",
+    "published": "2026-10-19T13:00:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50151928\">Comments</a>"
+  },
+  {
+    "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+    "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+    "source": "Hacker News",
+    "published": "2026-10-19T11:12:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150935\">Comments</a>"
+  },
+  {
+    "title": "Alternatives to Animal Testing Are Finally Taking Off",
+    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "source": "Hacker News",
+    "published": "2026-10-19T11:10:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150927\">Comments</a>"
+  },
+  {
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "source": "Hacker News",
+    "published": "2026-10-19T10:53:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150809\">Comments</a>"
+  },
+  {
+    "title": "Timestral: Mistral release time-series foundation models",
+    "link": "https://mistral.ai/news/timestral/",
+    "source": "Hacker News",
+    "published": "2026-10-19T09:59:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150434\">Comments</a>"
+  },
+  {
+    "title": "Linux 7.3",
     "link": "https://lwn.net/Articles/1101143/",
     "source": "Hacker News",
     "published": "2026-10-19T07:23:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50149392\">Comments</a>"
-  },
-  {
-    "title": "DeepSeek V4.1 Flash 1017 (Max)",
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-    "source": "Hacker News",
-    "published": "2026-10-19T04:41:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50148452\">Comments</a>"
-  },
-  {
-    "title": "Verisign .com Domain Name Registry Consumer Class Action",
-    "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-    "source": "Hacker News",
-    "published": "2026-10-19T04:40:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50148441\">Comments</a>"
-  },
-  {
-    "title": "Superlite: A Faster Alternatie to Superpowers",
-    "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-    "source": "Hacker News",
-    "published": "2026-10-19T02:01:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50147492\">Comments</a>"
   },
   {
     "title": "William Gibson and the trademarking of cyberspace",
@@ -38,22 +78,6 @@
     "published": "2026-10-18T23:37:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50146625\">Comments</a>"
-  },
-  {
-    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "source": "Hacker News",
-    "published": "2026-10-18T23:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50146624\">Comments</a>"
-  },
-  {
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "link": "https://github.com/finereli/whatsapp-mcp",
-    "source": "Hacker News",
-    "published": "2026-10-18T21:36:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50145715\">Comments</a>"
   },
   {
     "title": "If you don't run your own LLM proxy, how do you know whats going on?",
@@ -72,44 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50145337\">Comments</a>"
   },
   {
-    "title": "Free Pascal compiler now supports dynamic packages",
-    "link": "https://www.getlazarus.org/dynamic/",
-    "source": "Hacker News",
-    "published": "2026-10-18T18:48:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50144066\">Comments</a>"
-  },
-  {
-    "title": "PalmOS Lemmings",
-    "link": "https://github.com/ardiri/palmos-lemmings",
-    "source": "Hacker News",
-    "published": "2026-10-18T17:56:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50143536\">Comments</a>"
-  },
-  {
     "title": "Someone behind the software",
     "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
     "source": "Hacker News",
     "published": "2026-10-18T16:32:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50142573\">Comments</a>"
-  },
-  {
-    "title": "RepRapMicron",
-    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "source": "Hacker News",
-    "published": "2026-10-18T13:48:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50141076\">Comments</a>"
-  },
-  {
-    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-    "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-    "source": "Hacker News",
-    "published": "2026-10-18T01:38:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50136979\">Comments</a>"
   },
   {
     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
@@ -120,12 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50136150\">Comments</a>"
   },
   {
-    "title": "I built a programming language that LLMs can't use",
-    "link": "https://blog.picheta.me/post/killswitch-lang/",
+    "title": "It's still OK to enjoy programming",
+    "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
     "source": "Hacker News",
-    "published": "2026-10-17T22:26:47+00:00",
+    "published": "2026-10-17T19:53:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50135762\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50134472\">Comments</a>"
+  },
+  {
+    "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
+    "source": "Hacker News",
+    "published": "2026-10-17T15:02:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50131749\">Comments</a>"
   },
   {
     "title": "Rabbits were a medieval royal luxury in England until the Black Death",
@@ -136,20 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50131315\">Comments</a>"
   },
   {
-    "title": "The DNS Museum",
-    "link": "https://dns.museum",
+    "title": "Gdynia and the Dream of a Maritime Poland",
+    "link": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
     "source": "Hacker News",
-    "published": "2026-10-16T22:21:34+00:00",
+    "published": "2026-10-16T21:13:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50125551\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50124811\">Comments</a>"
   },
   {
-    "title": "Laptop Based on 6502 CPU",
-    "link": "https://www.maddox.pro/?p=448",
+    "title": "Beyond the Glass",
+    "link": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
     "source": "Hacker News",
-    "published": "2026-10-15T22:56:23+00:00",
+    "published": "2026-10-16T06:17:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50111537\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50114766\">Comments</a>"
   },
   {
     "title": "How to Train Your Robot",
