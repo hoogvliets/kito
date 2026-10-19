@@ -1,5 +1,29 @@
 [
   {
+    "title": "William Gibson and the trademarking of cyberspace",
+    "link": "https://colo.to/cyberspace.html",
+    "source": "Hacker News",
+    "published": "2026-10-18T23:37:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50146625\">Comments</a>"
+  },
+  {
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "link": "https://github.com/finereli/whatsapp-mcp",
+    "source": "Hacker News",
+    "published": "2026-10-18T21:36:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50145715\">Comments</a>"
+  },
+  {
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "source": "Hacker News",
+    "published": "2026-10-18T21:09:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50145507\">Comments</a>"
+  },
+  {
     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
     "link": "https://arxiv.org/abs/2610.18861",
     "source": "Hacker News",
@@ -24,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50143536\">Comments</a>"
   },
   {
-    "title": "Namecheap just seized and disabled all my domains",
-    "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "title": "What the heck is /pkg?",
+    "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
     "source": "Hacker News",
-    "published": "2026-10-18T16:56:56+00:00",
+    "published": "2026-10-18T17:21:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50142866\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50143154\">Comments</a>"
   },
   {
     "title": "Someone behind the software",
@@ -38,14 +62,6 @@
     "published": "2026-10-18T16:32:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50142573\">Comments</a>"
-  },
-  {
-    "title": "The Intel 8087 chip: floating-point addition and subtraction",
-    "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-    "source": "Hacker News",
-    "published": "2026-10-18T16:20:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50142449\">Comments</a>"
   },
   {
     "title": "Java sealed classes and exhaustive pattern matching",
@@ -64,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50141076\">Comments</a>"
   },
   {
-    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "link": "https://legendofhyrule.com/",
+    "title": "A new way to think about borrow checking (in reverse)",
+    "link": "https://verdagon.dev/blog/reverse-borrow-checking",
     "source": "Hacker News",
-    "published": "2026-10-18T13:06:54+00:00",
+    "published": "2026-10-18T12:11:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50140769\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50140383\">Comments</a>"
   },
   {
     "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50136150\">Comments</a>"
   },
   {
-    "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
-    "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-    "source": "Hacker News",
-    "published": "2026-10-17T23:08:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50136017\">Comments</a>"
-  },
-  {
     "title": "I built a programming language that LLMs can't use",
     "link": "https://blog.picheta.me/post/killswitch-lang/",
     "source": "Hacker News",
@@ -112,12 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50135762\">Comments</a>"
   },
   {
-    "title": "Developing for Debugging (2025)",
-    "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+    "title": "\"Traditional, but Puzzling\"",
+    "link": "https://unsung.aresluna.org/traditional-but-puzzling/",
     "source": "Hacker News",
-    "published": "2026-10-17T13:34:43+00:00",
+    "published": "2026-10-16T19:17:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50131053\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50123123\">Comments</a>"
   },
   {
     "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
@@ -128,12 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50122058\">Comments</a>"
   },
   {
-    "title": "They war-gamed dimming the Sun. It went worse than you think",
-    "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+    "title": "The First Candid",
+    "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
     "source": "Hacker News",
-    "published": "2026-10-15T14:13:49+00:00",
+    "published": "2026-10-16T17:28:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50103988\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50121506\">Comments</a>"
+  },
+  {
+    "title": "Laptop Based on 6502 CPU",
+    "link": "https://www.maddox.pro/?p=448",
+    "source": "Hacker News",
+    "published": "2026-10-15T22:56:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50111537\">Comments</a>"
   },
   {
     "title": "16-bit fully functional DIY magnetic core memory",
@@ -142,21 +158,5 @@
     "published": "2026-10-15T01:51:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50098148\">Comments</a>"
-  },
-  {
-    "title": "SIGSALY: Churchill's top secret hotline to the president",
-    "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-    "source": "Hacker News",
-    "published": "2026-10-14T22:07:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50096110\">Comments</a>"
-  },
-  {
-    "title": "I electrified my push scooter with a power drill",
-    "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-    "source": "Hacker News",
-    "published": "2026-10-14T18:53:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50093020\">Comments</a>"
   }
 ]
