@@ -1,11 +1,51 @@
 [
   {
-    "title": "Advanced coding in low-resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages/",
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "link": "https://www.thebeliever.net/the-other-epidemic/",
     "source": "Hacker News",
-    "published": "2026-10-20T17:43:11+00:00",
+    "published": "2026-10-20T23:04:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50169955\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50173891\">Comments</a>"
+  },
+  {
+    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "source": "Hacker News",
+    "published": "2026-10-20T22:21:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50173487\">Comments</a>"
+  },
+  {
+    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+    "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+    "source": "Hacker News",
+    "published": "2026-10-20T18:51:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170917\">Comments</a>"
+  },
+  {
+    "title": "SimCity, but with Permits",
+    "link": "https://permit.petercai.com/",
+    "source": "Hacker News",
+    "published": "2026-10-20T18:29:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170593\">Comments</a>"
+  },
+  {
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "source": "Hacker News",
+    "published": "2026-10-20T17:48:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170021\">Comments</a>"
+  },
+  {
+    "title": "What shall I teach my son?",
+    "link": "https://stevekrouse.com/ends",
+    "source": "Hacker News",
+    "published": "2026-10-20T17:25:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50169707\">Comments</a>"
   },
   {
     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -24,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50168396\">Comments</a>"
   },
   {
+    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+    "source": "Hacker News",
+    "published": "2026-10-20T15:59:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50168357\">Comments</a>"
+  },
+  {
     "title": "IKEA \u2013 3D Guide",
     "link": "https://sael.net/flatpack/",
     "source": "Hacker News",
     "published": "2026-10-20T15:42:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50168096\">Comments</a>"
-  },
-  {
-    "title": "Facebook Pages require paid subscription to post more than two links per month",
-    "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-    "source": "Hacker News",
-    "published": "2026-10-20T15:06:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50167536\">Comments</a>"
   },
   {
     "title": "Ofcom concedes defeat in 4chan case",
@@ -48,28 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50167028\">Comments</a>"
   },
   {
-    "title": "My Friend Bob Cringely",
-    "link": "https://tyma.com/my-cringe-story/",
-    "source": "Hacker News",
-    "published": "2026-10-20T14:13:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166794\">Comments</a>"
-  },
-  {
     "title": "EMudhra Intermediate CA Compromise",
     "link": "https://emudhra.we-have-a-problem.com/",
     "source": "Hacker News",
     "published": "2026-10-20T13:58:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50166579\">Comments</a>"
-  },
-  {
-    "title": "2026 is an exciting year for the Rust compiler (and me)",
-    "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-    "source": "Hacker News",
-    "published": "2026-10-20T13:53:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166502\">Comments</a>"
   },
   {
     "title": "How I got over 300 Tor exit nodes removed",
@@ -88,36 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50165953\">Comments</a>"
   },
   {
-    "title": "Publish fake stats, get cited in LLMs",
-    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "source": "Hacker News",
-    "published": "2026-10-20T13:06:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50165801\">Comments</a>"
-  },
-  {
-    "title": "Demographic \"doomsday\" misses the mark",
-    "link": "https://www.science.org/doi/10.1126/science.ael8752",
-    "source": "Hacker News",
-    "published": "2026-10-20T12:22:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50165276\">Comments</a>"
-  },
-  {
     "title": "Apple broke an essential presentation feature of iPads",
     "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
     "source": "Hacker News",
     "published": "2026-10-20T12:17:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50165208\">Comments</a>"
-  },
-  {
-    "title": "Hazel (YC W24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-    "source": "Hacker News",
-    "published": "2026-10-20T12:00:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50164991\">Comments</a>"
   },
   {
     "title": "Google Cloud outage affects almost all banking and other operations in Europe",
@@ -136,27 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50163277\">Comments</a>"
   },
   {
-    "title": "JAXA is about to perform a Phobos sample return mission",
-    "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+    "title": "Meta's GB{2,3}00 Cluster",
+    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
     "source": "Hacker News",
-    "published": "2026-10-18T06:40:55+00:00",
+    "published": "2026-10-19T14:23:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50138490\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152886\">Comments</a>"
   },
   {
-    "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-    "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+    "title": "Making Solar Panels with a Microwave [video]",
+    "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
     "source": "Hacker News",
-    "published": "2026-10-17T15:33:12+00:00",
+    "published": "2026-10-18T10:25:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50131997\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50139728\">Comments</a>"
   },
   {
-    "title": "Archive of Our Own",
-    "link": "https://archiveofourown.org/",
+    "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
     "source": "Hacker News",
-    "published": "2026-10-17T05:23:14+00:00",
+    "published": "2026-10-15T19:09:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50128197\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50108717\">Comments</a>"
   }
 ]
