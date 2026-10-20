@@ -1,5 +1,45 @@
 [
   {
+    "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+    "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+    "source": "Hacker News",
+    "published": "2026-10-20T00:53:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50159993\">Comments</a>"
+  },
+  {
+    "title": "France's supermarket fridges were vulnerable online for months",
+    "link": "https://ipinfo.io/blog/france-fridges-hack",
+    "source": "Hacker News",
+    "published": "2026-10-20T00:00:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50159616\">Comments</a>"
+  },
+  {
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "Hacker News",
+    "published": "2026-10-19T23:22:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50159341\">Comments</a>"
+  },
+  {
+    "title": "\u201cbonsoir, Elliot\u201d: How abliterated models can get you pwned",
+    "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "source": "Hacker News",
+    "published": "2026-10-19T23:08:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50159245\">Comments</a>"
+  },
+  {
+    "title": "An ad-free Android TV",
+    "link": "https://cretezy.com/2026/ad-free-android-tv",
+    "source": "Hacker News",
+    "published": "2026-10-19T22:32:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50158942\">Comments</a>"
+  },
+  {
     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
     "link": "https://bsd.network/@brynet/117407035545900963",
     "source": "Hacker News",
@@ -8,7 +48,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50158138\">Comments</a>"
   },
   {
-    "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
     "link": "https://josie.lol/blog/linux-rtx-spark",
     "source": "Hacker News",
     "published": "2026-10-19T21:08:18+00:00",
@@ -16,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50158100\">Comments</a>"
   },
   {
-    "title": "The reverts will continue until morale improves",
-    "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "title": "One Hash Bloom Filters",
+    "link": "https://calabro.io/ohbf",
     "source": "Hacker News",
-    "published": "2026-10-19T18:42:32+00:00",
+    "published": "2026-10-19T20:50:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50156206\">Comments</a>"
-  },
-  {
-    "title": "Mercury 3: Diffusion at scale",
-    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "source": "Hacker News",
-    "published": "2026-10-19T17:27:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50155245\">Comments</a>"
-  },
-  {
-    "title": "Evidence (YC S21) Is Hiring Software Engineers",
-    "link": "https://evidence.dev/jobs",
-    "source": "Hacker News",
-    "published": "2026-10-19T17:21:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50155172\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50157865\">Comments</a>"
   },
   {
     "title": "Android apps running native on macOS",
@@ -56,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50154540\">Comments</a>"
   },
   {
-    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-    "link": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
     "source": "Hacker News",
-    "published": "2026-10-19T14:31:27+00:00",
+    "published": "2026-10-19T15:31:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152976\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50153664\">Comments</a>"
   },
   {
     "title": "Wine ported to OpenBSD",
@@ -70,22 +94,6 @@
     "published": "2026-10-19T13:35:34+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50152307\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "link": "https://news.ycombinator.com/item?id=50151036",
-    "source": "Hacker News",
-    "published": "2026-10-19T11:24:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50151036\">Comments</a>"
-  },
-  {
-    "title": "Alternatives to animal testing are finally taking off",
-    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "source": "Hacker News",
-    "published": "2026-10-19T11:10:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150927\">Comments</a>"
   },
   {
     "title": "Timestral: Mistral's time-series foundation models",
@@ -104,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50150089\">Comments</a>"
   },
   {
-    "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-    "link": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-    "source": "Hacker News",
-    "published": "2026-10-19T01:56:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50147462\">Comments</a>"
-  },
-  {
     "title": "Starcraft: Ashfall",
     "link": "https://starcraft-shooter-2026.pages.dev/",
     "source": "Hacker News",
     "published": "2026-10-19T01:18:02+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50147233\">Comments</a>"
+  },
+  {
+    "title": "Weball: Play Katamari on Websites",
+    "link": "https://www.funwithcomputervision.com/weball/",
+    "source": "Hacker News",
+    "published": "2026-10-18T12:39:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50140584\">Comments</a>"
+  },
+  {
+    "title": "The ovary doesn't retire after menopause",
+    "link": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+    "source": "Hacker News",
+    "published": "2026-10-18T03:48:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50137754\">Comments</a>"
   },
   {
     "title": "RuneScape Bench: MMOs for Agents [video]",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50136126\">Comments</a>"
   },
   {
+    "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
+    "link": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+    "source": "Hacker News",
+    "published": "2026-10-17T21:12:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50135177\">Comments</a>"
+  },
+  {
     "title": "It's still ok to enjoy programming",
     "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
     "source": "Hacker News",
     "published": "2026-10-17T19:53:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50134472\">Comments</a>"
-  },
-  {
-    "title": "The fire retardant in the seafood chain",
-    "link": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-    "source": "Hacker News",
-    "published": "2026-10-17T19:37:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50134359\">Comments</a>"
-  },
-  {
-    "title": "Credit where credit is due",
-    "link": "https://thefloatingcontinent.com/blog/credit-is-due/",
-    "source": "Hacker News",
-    "published": "2026-10-16T17:53:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50121834\">Comments</a>"
-  },
-  {
-    "title": "Coconuts in Medieval Britain (2015)",
-    "link": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-    "source": "Hacker News",
-    "published": "2026-10-16T08:28:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50115703\">Comments</a>"
   }
 ]
