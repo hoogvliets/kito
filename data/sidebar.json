@@ -1,5 +1,37 @@
 [
   {
+    "title": "T3 Code now synced between GitHub and GitCafe",
+    "link": "https://git.cafe/pingdotgg/t3code",
+    "source": "Hacker News",
+    "published": "2026-10-21T01:48:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175075\">Comments</a>"
+  },
+  {
+    "title": "GitHub package firewall",
+    "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+    "source": "Hacker News",
+    "published": "2026-10-21T01:45:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175063\">Comments</a>"
+  },
+  {
+    "title": "Good type against all odds",
+    "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "source": "Hacker News",
+    "published": "2026-10-21T01:45:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175059\">Comments</a>"
+  },
+  {
+    "title": "Learning to live with Waymos",
+    "link": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+    "source": "Hacker News",
+    "published": "2026-10-21T01:44:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175057\">Comments</a>"
+  },
+  {
     "title": "The Other Epidemic: Trying to get off benzodiazepines",
     "link": "https://www.thebeliever.net/the-other-epidemic/",
     "source": "Hacker News",
@@ -32,20 +64,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50170593\">Comments</a>"
   },
   {
-    "title": "Claude designed protein binders against scorpion neurotoxins",
-    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "source": "Hacker News",
-    "published": "2026-10-20T17:48:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170021\">Comments</a>"
-  },
-  {
     "title": "What shall I teach my son?",
     "link": "https://stevekrouse.com/ends",
     "source": "Hacker News",
     "published": "2026-10-20T17:25:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50169707\">Comments</a>"
+  },
+  {
+    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+    "link": "https://research.poh.org/bot-benchmarking-2026/",
+    "source": "Hacker News",
+    "published": "2026-10-20T17:10:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50169506\">Comments</a>"
   },
   {
     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -72,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50168357\">Comments</a>"
   },
   {
-    "title": "IKEA \u2013 3D Guide",
-    "link": "https://sael.net/flatpack/",
-    "source": "Hacker News",
-    "published": "2026-10-20T15:42:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50168096\">Comments</a>"
-  },
-  {
     "title": "Ofcom concedes defeat in 4chan case",
     "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
     "source": "Hacker News",
@@ -94,14 +118,6 @@
     "published": "2026-10-20T13:58:33+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50166579\">Comments</a>"
-  },
-  {
-    "title": "How I got over 300 Tor exit nodes removed",
-    "link": "https://kaba.cx/posts/20261020_Tor/",
-    "source": "Hacker News",
-    "published": "2026-10-20T13:39:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166257\">Comments</a>"
   },
   {
     "title": "Tsrs: A Port of TypeScript to Rust",
@@ -120,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50165208\">Comments</a>"
   },
   {
-    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-    "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-    "source": "Hacker News",
-    "published": "2026-10-20T10:26:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50163961\">Comments</a>"
-  },
-  {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "link": "https://github.com/deepseek-ai/DeepInfer",
     "source": "Hacker News",
     "published": "2026-10-20T09:08:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50163277\">Comments</a>"
-  },
-  {
-    "title": "Meta's GB{2,3}00 Cluster",
-    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-    "source": "Hacker News",
-    "published": "2026-10-19T14:23:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152886\">Comments</a>"
   },
   {
     "title": "Making Solar Panels with a Microwave [video]",
