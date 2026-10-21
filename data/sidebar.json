@@ -1,27 +1,51 @@
 [
   {
-    "title": "Canary Tokens",
-    "link": "https://canarytokens.org/",
+    "title": "Railway Security Disclosure",
+    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "source": "Hacker News",
-    "published": "2026-10-21T18:45:04+00:00",
+    "published": "2026-10-21T21:58:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185630\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50188228\">Comments</a>"
   },
   {
-    "title": "Open Source Games",
-    "link": "https://opensourcegames.dev/",
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
     "source": "Hacker News",
-    "published": "2026-10-21T18:31:15+00:00",
+    "published": "2026-10-21T21:12:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185455\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50187708\">Comments</a>"
   },
   {
-    "title": "The compiler was supposed to end programming too",
-    "link": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+    "title": "Claude Duet",
+    "link": "https://claude.com/product/claude-duet",
     "source": "Hacker News",
-    "published": "2026-10-21T18:00:51+00:00",
+    "published": "2026-10-21T19:14:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185045\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50186037\">Comments</a>"
+  },
+  {
+    "title": "Google's Rust Style Guide",
+    "link": "https://google.github.io/styleguide/rustguide.html",
+    "source": "Hacker News",
+    "published": "2026-10-21T19:11:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50186010\">Comments</a>"
+  },
+  {
+    "title": "GitLab Critical Patch Release",
+    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "source": "Hacker News",
+    "published": "2026-10-21T19:01:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185869\">Comments</a>"
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "source": "Hacker News",
+    "published": "2026-10-21T17:45:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50184820\">Comments</a>"
   },
   {
     "title": "EA is shutting down BioWare",
@@ -38,22 +62,6 @@
     "published": "2026-10-21T16:20:37+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50183512\">Comments</a>"
-  },
-  {
-    "title": "The bridge to agent-scale Git infrastructure",
-    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-    "source": "Hacker News",
-    "published": "2026-10-21T16:09:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183344\">Comments</a>"
-  },
-  {
-    "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
-    "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-    "source": "Hacker News",
-    "published": "2026-10-21T16:05:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183280\">Comments</a>"
   },
   {
     "title": "Today's PHP security release, and how we're strengthening security",
@@ -96,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50181114\">Comments</a>"
   },
   {
-    "title": "PHP 8.2.35",
-    "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "source": "Hacker News",
-    "published": "2026-10-21T13:45:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180873\">Comments</a>"
-  },
-  {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-    "source": "Hacker News",
-    "published": "2026-10-21T13:37:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180752\">Comments</a>"
-  },
-  {
     "title": "OpenAI models are coming to Google Cloud",
     "link": "https://openai.com/index/openai-models-google-cloud/",
     "source": "Hacker News",
@@ -120,28 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50180079\">Comments</a>"
   },
   {
-    "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-    "link": "https://9mothers.com/careers",
-    "source": "Hacker News",
-    "published": "2026-10-21T12:00:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50179455\">Comments</a>"
-  },
-  {
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
     "source": "Hacker News",
     "published": "2026-10-21T09:08:08+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50177916\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
-    "link": "https://alterauth.com/",
-    "source": "Hacker News",
-    "published": "2026-10-21T06:42:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176908\">Comments</a>"
   },
   {
     "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
@@ -152,11 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50162044\">Comments</a>"
   },
   {
-    "title": "Drupal is now light-years ahead of its reputation",
-    "link": "https://dri.es/state-of-drupal-presentation-september-2026",
+    "title": "No More Icons in Every Menu by Default",
+    "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
     "source": "Hacker News",
-    "published": "2026-10-19T21:38:02+00:00",
+    "published": "2026-10-20T04:27:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50158408\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50161346\">Comments</a>"
+  },
+  {
+    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "source": "Hacker News",
+    "published": "2026-10-20T00:14:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50159726\">Comments</a>"
+  },
+  {
+    "title": "Code is clay now",
+    "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "source": "Hacker News",
+    "published": "2026-10-19T15:19:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50153531\">Comments</a>"
+  },
+  {
+    "title": "The Rise and Fall of the Plasma Screen",
+    "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+    "source": "Hacker News",
+    "published": "2026-10-19T14:20:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50152847\">Comments</a>"
   }
 ]
