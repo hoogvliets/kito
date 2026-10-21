@@ -1,6 +1,78 @@
 [
   {
-    "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+    "title": "Canary Tokens",
+    "link": "https://canarytokens.org/",
+    "source": "Hacker News",
+    "published": "2026-10-21T18:45:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185630\">Comments</a>"
+  },
+  {
+    "title": "Open Source Games",
+    "link": "https://opensourcegames.dev/",
+    "source": "Hacker News",
+    "published": "2026-10-21T18:31:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185455\">Comments</a>"
+  },
+  {
+    "title": "The compiler was supposed to end programming too",
+    "link": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+    "source": "Hacker News",
+    "published": "2026-10-21T18:00:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185045\">Comments</a>"
+  },
+  {
+    "title": "EA is shutting down BioWare",
+    "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "source": "Hacker News",
+    "published": "2026-10-21T17:29:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50184586\">Comments</a>"
+  },
+  {
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "source": "Hacker News",
+    "published": "2026-10-21T16:20:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183512\">Comments</a>"
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "source": "Hacker News",
+    "published": "2026-10-21T16:09:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183344\">Comments</a>"
+  },
+  {
+    "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+    "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+    "source": "Hacker News",
+    "published": "2026-10-21T16:05:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183280\">Comments</a>"
+  },
+  {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "source": "Hacker News",
+    "published": "2026-10-21T15:48:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50182987\">Comments</a>"
+  },
+  {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "source": "Hacker News",
+    "published": "2026-10-21T15:20:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50182526\">Comments</a>"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "source": "Hacker News",
     "published": "2026-10-21T14:03:43+00:00",
@@ -8,15 +80,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50181175\">Comments</a>"
   },
   {
-    "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-    "link": "https://www.php.net/index.php",
+    "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+    "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
     "source": "Hacker News",
-    "published": "2026-10-21T13:50:05+00:00",
+    "published": "2026-10-21T14:01:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180943\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50181136\">Comments</a>"
   },
   {
-    "title": "Updated PHP version released to GitHub",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "source": "Hacker News",
+    "published": "2026-10-21T14:00:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50181114\">Comments</a>"
+  },
+  {
+    "title": "PHP 8.2.35",
     "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "source": "Hacker News",
     "published": "2026-10-21T13:45:33+00:00",
@@ -24,44 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50180873\">Comments</a>"
   },
   {
-    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "link": "https://www.wiz.io/blog/php2shell-php-rce",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
     "source": "Hacker News",
-    "published": "2026-10-21T13:43:19+00:00",
+    "published": "2026-10-21T13:37:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180836\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180752\">Comments</a>"
   },
   {
-    "title": "Most advice is right for the person giving it",
-    "link": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+    "title": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud/",
     "source": "Hacker News",
-    "published": "2026-10-21T13:17:33+00:00",
+    "published": "2026-10-21T12:53:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180444\">Comments</a>"
-  },
-  {
-    "title": "LayerFS: The filesystem for AI coding agents",
-    "link": "https://layerfs.ai/",
-    "source": "Hacker News",
-    "published": "2026-10-21T12:34:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50179857\">Comments</a>"
-  },
-  {
-    "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-    "link": "https://www.ncsc.nl/actueel",
-    "source": "Hacker News",
-    "published": "2026-10-21T12:31:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50179828\">Comments</a>"
-  },
-  {
-    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-    "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-    "source": "Hacker News",
-    "published": "2026-10-21T12:22:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50179706\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180079\">Comments</a>"
   },
   {
     "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -72,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50179455\">Comments</a>"
   },
   {
-    "title": "Whatever Happened to Fire Escapes",
-    "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-    "source": "Hacker News",
-    "published": "2026-10-21T10:14:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50178455\">Comments</a>"
-  },
-  {
     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
     "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
     "source": "Hacker News",
@@ -88,75 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50177916\">Comments</a>"
   },
   {
-    "title": "The Future of CSS",
-    "link": "https://www.joshwcomeau.com/css/interop-2027/",
+    "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+    "link": "https://alterauth.com/",
     "source": "Hacker News",
-    "published": "2026-10-21T01:47:28+00:00",
+    "published": "2026-10-21T06:42:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175070\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176908\">Comments</a>"
   },
   {
-    "title": "Muse exposes users' personal and business secrets when they share conversations",
-    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
     "source": "Hacker News",
-    "published": "2026-10-21T00:45:59+00:00",
+    "published": "2026-10-20T06:20:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50174687\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50162044\">Comments</a>"
   },
   {
-    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "link": "https://news-web.php.net/php.announce/509",
+    "title": "Drupal is now light-years ahead of its reputation",
+    "link": "https://dri.es/state-of-drupal-presentation-september-2026",
     "source": "Hacker News",
-    "published": "2026-10-20T20:15:50+00:00",
+    "published": "2026-10-19T21:38:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50172041\">Comments</a>"
-  },
-  {
-    "title": "Show HN: SimCity, but with Permits",
-    "link": "https://permit.petercai.com/",
-    "source": "Hacker News",
-    "published": "2026-10-20T18:29:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170593\">Comments</a>"
-  },
-  {
-    "title": "Voxtral 3",
-    "link": "https://mistral.ai/news/voxtral-3/",
-    "source": "Hacker News",
-    "published": "2026-10-20T16:02:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50168396\">Comments</a>"
-  },
-  {
-    "title": "eMudhra intermediate CA compromise",
-    "link": "https://emudhra.we-have-a-problem.com/",
-    "source": "Hacker News",
-    "published": "2026-10-20T13:58:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166579\">Comments</a>"
-  },
-  {
-    "title": "The Lucrative World of Literary Scams",
-    "link": "https://www.thedial.world/articles/news/ai-book-scams",
-    "source": "Hacker News",
-    "published": "2026-10-19T11:43:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50151175\">Comments</a>"
-  },
-  {
-    "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "link": "https://www.pagetable.com/303",
-    "source": "Hacker News",
-    "published": "2026-10-19T09:21:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150214\">Comments</a>"
-  },
-  {
-    "title": "The Decoherence Trap",
-    "link": "https://maevyn.codes/decoherence",
-    "source": "Hacker News",
-    "published": "2026-10-19T08:35:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50149861\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50158408\">Comments</a>"
   }
 ]
