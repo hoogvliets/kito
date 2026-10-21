@@ -1,19 +1,43 @@
 [
   {
-    "title": "T3 Code now synced between GitHub and GitCafe",
-    "link": "https://git.cafe/pingdotgg/t3code",
+    "title": "Pillowfort Is Closing",
+    "link": "https://www.pillowfort.social/posts/8413273",
     "source": "Hacker News",
-    "published": "2026-10-21T01:48:22+00:00",
+    "published": "2026-10-21T05:05:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175075\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176301\">Comments</a>"
   },
   {
-    "title": "GitHub package firewall",
-    "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+    "title": "Battlezone Online: BZFlag in the Browser",
+    "link": "https://github.com/timriker/bzo",
     "source": "Hacker News",
-    "published": "2026-10-21T01:45:29+00:00",
+    "published": "2026-10-21T05:05:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175063\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176298\">Comments</a>"
+  },
+  {
+    "title": "Setting Up SSH Keys on macOS with Touch ID",
+    "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+    "source": "Hacker News",
+    "published": "2026-10-21T03:51:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175882\">Comments</a>"
+  },
+  {
+    "title": "In Hilbert space, all things are quantumly possible",
+    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "source": "Hacker News",
+    "published": "2026-10-21T02:04:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175185\">Comments</a>"
+  },
+  {
+    "title": "The Future of CSS",
+    "link": "https://www.joshwcomeau.com/css/interop-2027/",
+    "source": "Hacker News",
+    "published": "2026-10-21T01:47:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175070\">Comments</a>"
   },
   {
     "title": "Good type against all odds",
@@ -24,12 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50175059\">Comments</a>"
   },
   {
-    "title": "Learning to live with Waymos",
-    "link": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+    "title": "Muse exposes users' personal and business secrets when they share conversations",
+    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "source": "Hacker News",
-    "published": "2026-10-21T01:44:34+00:00",
+    "published": "2026-10-21T00:45:59+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50175057\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50174687\">Comments</a>"
   },
   {
     "title": "The Other Epidemic: Trying to get off benzodiazepines",
@@ -48,36 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50173487\">Comments</a>"
   },
   {
-    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-    "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "link": "https://news-web.php.net/php.announce/509",
     "source": "Hacker News",
-    "published": "2026-10-20T18:51:40+00:00",
+    "published": "2026-10-20T20:15:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50170917\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50172041\">Comments</a>"
   },
   {
-    "title": "SimCity, but with Permits",
+    "title": "Show HN: SimCity, but with Permits",
     "link": "https://permit.petercai.com/",
     "source": "Hacker News",
     "published": "2026-10-20T18:29:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50170593\">Comments</a>"
-  },
-  {
-    "title": "What shall I teach my son?",
-    "link": "https://stevekrouse.com/ends",
-    "source": "Hacker News",
-    "published": "2026-10-20T17:25:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50169707\">Comments</a>"
-  },
-  {
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "link": "https://research.poh.org/bot-benchmarking-2026/",
-    "source": "Hacker News",
-    "published": "2026-10-20T17:10:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50169506\">Comments</a>"
   },
   {
     "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -96,23 +104,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50168396\">Comments</a>"
   },
   {
-    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-    "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-    "source": "Hacker News",
-    "published": "2026-10-20T15:59:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50168357\">Comments</a>"
-  },
-  {
-    "title": "Ofcom concedes defeat in 4chan case",
-    "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-    "source": "Hacker News",
-    "published": "2026-10-20T14:30:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50167028\">Comments</a>"
-  },
-  {
-    "title": "EMudhra Intermediate CA Compromise",
+    "title": "eMudhra intermediate CA compromise",
     "link": "https://emudhra.we-have-a-problem.com/",
     "source": "Hacker News",
     "published": "2026-10-20T13:58:33+00:00",
@@ -120,36 +112,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50166579\">Comments</a>"
   },
   {
-    "title": "Tsrs: A Port of TypeScript to Rust",
-    "link": "https://blog.cloudflare.com/typescript-rust-port/",
+    "title": "Four Years with Decker",
+    "link": "https://beyondloom.com/blog/fouryearsdecker.html",
     "source": "Hacker News",
-    "published": "2026-10-20T13:18:07+00:00",
+    "published": "2026-10-20T12:18:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50165953\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50165215\">Comments</a>"
   },
   {
-    "title": "Apple broke an essential presentation feature of iPads",
-    "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "title": "Ship Your Interpreter",
+    "link": "https://www.basis.ai/blog/ship-your-interpreters/",
     "source": "Hacker News",
-    "published": "2026-10-20T12:17:28+00:00",
+    "published": "2026-10-20T01:57:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50165208\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50160440\">Comments</a>"
   },
   {
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "link": "https://github.com/deepseek-ai/DeepInfer",
+    "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+    "link": "https://antelang.org/blog/safe_cyclic_mutability/",
     "source": "Hacker News",
-    "published": "2026-10-20T09:08:54+00:00",
+    "published": "2026-10-19T12:47:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50163277\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50151771\">Comments</a>"
   },
   {
-    "title": "Making Solar Panels with a Microwave [video]",
-    "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+    "title": "Composite objects and C++26 the std:polymorphic type",
+    "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
     "source": "Hacker News",
-    "published": "2026-10-18T10:25:07+00:00",
+    "published": "2026-10-19T05:54:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50139728\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50148845\">Comments</a>"
+  },
+  {
+    "title": "ZX Spectrum Next Laptop",
+    "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+    "source": "Hacker News",
+    "published": "2026-10-19T02:48:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50147799\">Comments</a>"
   },
   {
     "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
