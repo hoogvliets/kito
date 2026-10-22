@@ -1,19 +1,75 @@
 [
   {
-    "title": "A Markdown File Should Just Open",
-    "link": "https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/",
+    "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+    "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
     "source": "Hacker News",
-    "published": "2026-10-22T07:21:52+00:00",
+    "published": "2026-10-22T13:33:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50192254\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50195110\">Comments</a>"
   },
   {
-    "title": "OpenAI CLI",
-    "link": "https://github.com/openai/openai-cli",
+    "title": "Crystal 1.22.0 Is Released",
+    "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
     "source": "Hacker News",
-    "published": "2026-10-22T05:23:11+00:00",
+    "published": "2026-10-22T13:20:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50191507\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50194938\">Comments</a>"
+  },
+  {
+    "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+    "link": "https://news.ycombinator.com/item?id=50194909",
+    "source": "Hacker News",
+    "published": "2026-10-22T13:17:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50194909\">Comments</a>"
+  },
+  {
+    "title": "Woman faces six years in prison over Cash App account she never opened",
+    "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "source": "Hacker News",
+    "published": "2026-10-22T13:11:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50194833\">Comments</a>"
+  },
+  {
+    "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+    "source": "Hacker News",
+    "published": "2026-10-22T11:50:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50194070\">Comments</a>"
+  },
+  {
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "source": "Hacker News",
+    "published": "2026-10-22T11:12:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50193804\">Comments</a>"
+  },
+  {
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "source": "Hacker News",
+    "published": "2026-10-22T09:31:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50193170\">Comments</a>"
+  },
+  {
+    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "source": "Hacker News",
+    "published": "2026-10-22T08:51:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50192900\">Comments</a>"
+  },
+  {
+    "title": "Jailbreaking the Switch 2",
+    "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "source": "Hacker News",
+    "published": "2026-10-22T08:01:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50192536\">Comments</a>"
   },
   {
     "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
@@ -32,28 +88,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50190363\">Comments</a>"
   },
   {
-    "title": "mitmproxy adds --emudhra option",
-    "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "source": "Hacker News",
-    "published": "2026-10-21T23:51:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>"
-  },
-  {
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "link": "https://eliastaylor.com/noexploit/",
-    "source": "Hacker News",
-    "published": "2026-10-21T23:13:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50188948\">Comments</a>"
-  },
-  {
     "title": "Security Disclosure",
     "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "source": "Hacker News",
     "published": "2026-10-21T21:58:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50188228\">Comments</a>"
+  },
+  {
+    "title": "Claude Duet",
+    "link": "https://claude.com/product/claude-duet",
+    "source": "Hacker News",
+    "published": "2026-10-21T19:14:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50186037\">Comments</a>"
   },
   {
     "title": "Rust Style Guide",
@@ -72,22 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50185869\">Comments</a>"
   },
   {
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "source": "Hacker News",
-    "published": "2026-10-21T17:45:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50184820\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
-    "link": "https://github.com/omnara-ai/omnara",
-    "source": "Hacker News",
-    "published": "2026-10-21T16:44:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183892\">Comments</a>"
-  },
-  {
     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
     "source": "Hacker News",
@@ -96,44 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50181114\">Comments</a>"
   },
   {
-    "title": "OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud/",
+    "title": "The painter behind Manhattan\u2019s Gilded Age interiors",
+    "link": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
     "source": "Hacker News",
-    "published": "2026-10-21T12:53:11+00:00",
+    "published": "2026-10-20T23:09:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180079\">Comments</a>"
-  },
-  {
-    "title": "Using LLM for confidence scoring is a bad idea",
-    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "source": "Hacker News",
-    "published": "2026-10-21T04:27:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176082\">Comments</a>"
-  },
-  {
-    "title": "PingCap TiDB Leaks",
-    "link": "https://fulcrumsec.vg/pingcap/",
-    "source": "Hacker News",
-    "published": "2026-10-20T22:45:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50173716\">Comments</a>"
-  },
-  {
-    "title": "Beyond the &",
-    "link": "https://lwn.net/Articles/1096028/",
-    "source": "Hacker News",
-    "published": "2026-10-20T13:59:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166590\">Comments</a>"
-  },
-  {
-    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "source": "Hacker News",
-    "published": "2026-10-20T06:20:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50162044\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50173944\">Comments</a>"
   },
   {
     "title": "No more icons in every menu by default",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50161346\">Comments</a>"
   },
   {
-    "title": "ThinkPad I9990303 Error Catch-22",
-    "link": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
     "source": "Hacker News",
-    "published": "2026-10-20T04:16:10+00:00",
+    "published": "2026-10-19T20:12:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50161283\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50157456\">Comments</a>"
   },
   {
-    "title": "What Is the Karakoram Anomaly?",
-    "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+    "title": "What Is Gridifcation",
+    "link": "https://musicalform.substack.com/p/what-is-gridifcation",
     "source": "Hacker News",
-    "published": "2026-10-20T01:26:53+00:00",
+    "published": "2026-10-19T09:13:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50160241\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50150163\">Comments</a>"
   }
 ]
