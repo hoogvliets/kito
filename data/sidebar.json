@@ -1,27 +1,43 @@
 [
   {
+    "title": "The era of speedball capitalism has dawned",
+    "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+    "source": "Hacker News",
+    "published": "2026-10-22T00:48:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50189666\">Comments</a>"
+  },
+  {
+    "title": "When Do We Become the Person We Ought to Be?",
+    "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+    "source": "Hacker News",
+    "published": "2026-10-21T23:57:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50189278\">Comments</a>"
+  },
+  {
+    "title": "mitmproxy adds --emudhra option",
+    "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "source": "Hacker News",
+    "published": "2026-10-21T23:51:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>"
+  },
+  {
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "link": "https://eliastaylor.com/noexploit/",
+    "source": "Hacker News",
+    "published": "2026-10-21T23:13:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50188948\">Comments</a>"
+  },
+  {
     "title": "Railway Security Disclosure",
     "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
     "source": "Hacker News",
     "published": "2026-10-21T21:58:03+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50188228\">Comments</a>"
-  },
-  {
-    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-    "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-    "source": "Hacker News",
-    "published": "2026-10-21T21:12:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50187708\">Comments</a>"
-  },
-  {
-    "title": "Claude Duet",
-    "link": "https://claude.com/product/claude-duet",
-    "source": "Hacker News",
-    "published": "2026-10-21T19:14:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50186037\">Comments</a>"
   },
   {
     "title": "Google's Rust Style Guide",
@@ -56,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50184586\">Comments</a>"
   },
   {
-    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-    "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-    "source": "Hacker News",
-    "published": "2026-10-21T16:20:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50183512\">Comments</a>"
-  },
-  {
     "title": "Today's PHP security release, and how we're strengthening security",
     "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
     "source": "Hacker News",
     "published": "2026-10-21T15:48:56+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50182987\">Comments</a>"
-  },
-  {
-    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "source": "Hacker News",
-    "published": "2026-10-21T15:20:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50182526\">Comments</a>"
   },
   {
     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
@@ -112,12 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50180079\">Comments</a>"
   },
   {
-    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "title": "Beyond the &",
+    "link": "https://lwn.net/Articles/1096028/",
     "source": "Hacker News",
-    "published": "2026-10-21T09:08:08+00:00",
+    "published": "2026-10-20T13:59:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50177916\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50166590\">Comments</a>"
   },
   {
     "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50159726\">Comments</a>"
   },
   {
-    "title": "Code is clay now",
-    "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "title": "Chain of Thought for Humans",
+    "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
     "source": "Hacker News",
-    "published": "2026-10-19T15:19:45+00:00",
+    "published": "2026-10-19T16:06:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50153531\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50154100\">Comments</a>"
   },
   {
     "title": "The Rise and Fall of the Plasma Screen",
