@@ -1,19 +1,51 @@
 [
   {
-    "title": "Railpass",
-    "link": "https://train.samismith.com/",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
     "source": "Hacker News",
-    "published": "2026-10-22T21:38:32+00:00",
+    "published": "2026-10-23T00:52:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50201414\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50203161\">Comments</a>"
   },
   {
-    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-    "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+    "title": "Mapping the Northern Sky",
+    "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
     "source": "Hacker News",
-    "published": "2026-10-22T21:24:41+00:00",
+    "published": "2026-10-22T23:56:39+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50201259\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202766\">Comments</a>"
+  },
+  {
+    "title": "Jank \u2013 The native Clojure dialect with seamless C++ interop",
+    "link": "https://jank-lang.org/",
+    "source": "Hacker News",
+    "published": "2026-10-22T23:56:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202762\">Comments</a>"
+  },
+  {
+    "title": "Docker is weird",
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "Hacker News",
+    "published": "2026-10-22T23:45:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>"
+  },
+  {
+    "title": "AI compute is the new oil\u2013and needs a new market",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "Hacker News",
+    "published": "2026-10-22T23:45:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202671\">Comments</a>"
+  },
+  {
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "link": "https://www.anthropic.com/research/formal-verification",
+    "source": "Hacker News",
+    "published": "2026-10-22T22:54:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202217\">Comments</a>"
   },
   {
     "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
@@ -38,14 +70,6 @@
     "published": "2026-10-22T17:44:06+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50198675\">Comments</a>"
-  },
-  {
-    "title": "A farewell to Arc browser",
-    "link": "https://arc.net/",
-    "source": "Hacker News",
-    "published": "2026-10-22T16:27:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50197601\">Comments</a>"
   },
   {
     "title": "Getting ready to operate GNU Taler in Germany",
@@ -112,14 +136,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50193416\">Comments</a>"
   },
   {
-    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-    "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-    "source": "Hacker News",
-    "published": "2026-10-22T09:31:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50193170\">Comments</a>"
-  },
-  {
     "title": "Jailbreaking the Switch 2",
     "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "source": "Hacker News",
@@ -128,28 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50192536\">Comments</a>"
   },
   {
-    "title": "Show HN: Uberblok \u2013 an interactive museum of ZFS internals",
-    "link": "https://uberblok.storagebits.workers.dev/",
+    "title": "The Secret Life of Circuits is now in stock everywhere",
+    "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
     "source": "Hacker News",
-    "published": "2026-10-21T13:04:25+00:00",
+    "published": "2026-10-20T07:15:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50180257\">Comments</a>"
-  },
-  {
-    "title": "Show HN: An icon for every city in North America",
-    "link": "https://evans.bike/naicons",
-    "source": "Hacker News",
-    "published": "2026-10-21T01:03:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50174813\">Comments</a>"
-  },
-  {
-    "title": "Dungeon Generation in the Gnomish Mines of NetHack",
-    "link": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-    "source": "Hacker News",
-    "published": "2026-10-19T16:06:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50154109\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50162431\">Comments</a>"
   },
   {
     "title": "What Is Gridifcation",
