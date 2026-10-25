@@ -1,5 +1,45 @@
 [
   {
+    "title": "Eunice is almost here (William Gibson, Agency)",
+    "link": "https://armincat.com/articles/eunice-is-almost-here",
+    "source": "Hacker News",
+    "published": "2026-10-25T19:40:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>"
+  },
+  {
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "source": "Hacker News",
+    "published": "2026-10-25T19:29:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235217\">Comments</a>"
+  },
+  {
+    "title": "Why I Am a Programmer",
+    "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "source": "Hacker News",
+    "published": "2026-10-25T19:11:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235017\">Comments</a>"
+  },
+  {
+    "title": "Dolly Parton's Imagination Library",
+    "link": "https://imaginationlibrary.com/",
+    "source": "Hacker News",
+    "published": "2026-10-25T18:23:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>"
+  },
+  {
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "source": "Hacker News",
+    "published": "2026-10-25T18:04:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50234232\">Comments</a>"
+  },
+  {
     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
     "link": "https://talkweb.eu/openweb/4558/",
     "source": "Hacker News",
@@ -24,20 +64,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50233775\">Comments</a>"
   },
   {
-    "title": "A Mathematician Reads the AI Future",
-    "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+    "title": "UTS #39: Unicode Security Mechanisms",
+    "link": "https://unicode.org/reports/tr39/",
     "source": "Hacker News",
-    "published": "2026-10-25T16:31:21+00:00",
+    "published": "2026-10-25T16:40:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233347\">Comments</a>"
-  },
-  {
-    "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-    "link": "https://github.com/socrates6969/jukebox-os",
-    "source": "Hacker News",
-    "published": "2026-10-25T16:29:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233325\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233438\">Comments</a>"
   },
   {
     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
@@ -48,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50233304\">Comments</a>"
   },
   {
-    "title": "What Adobe v ArtCraft teaches us",
-    "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+    "title": "JetBrains Thinkrail",
+    "link": "https://github.com/JetBrains/thinkrail",
     "source": "Hacker News",
-    "published": "2026-10-25T15:34:44+00:00",
+    "published": "2026-10-25T16:27:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50232682\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233294\">Comments</a>"
   },
   {
     "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
@@ -72,20 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50231166\">Comments</a>"
   },
   {
-    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-    "link": "https://github.com/ihhub/fheroes2",
-    "source": "Hacker News",
-    "published": "2026-10-25T11:09:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50230384\">Comments</a>"
-  },
-  {
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
     "source": "Hacker News",
     "published": "2026-10-25T01:33:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50227356\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "link": "https://huggingface.co/destined/hurston-1",
+    "source": "Hacker News",
+    "published": "2026-10-25T01:30:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50227330\">Comments</a>"
   },
   {
     "title": "We should be more ambitious with the software we build",
@@ -96,22 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50225695\">Comments</a>"
   },
   {
-    "title": "SpeedCrunch 1.1",
-    "link": "https://www.speedcrunch.org/",
-    "source": "Hacker News",
-    "published": "2026-10-24T19:19:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50224210\">Comments</a>"
-  },
-  {
-    "title": "The Goose Programming Language",
-    "link": "https://aardappel.github.io/goose/",
-    "source": "Hacker News",
-    "published": "2026-10-24T19:06:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50224100\">Comments</a>"
-  },
-  {
     "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
     "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
     "source": "Hacker News",
@@ -120,7 +136,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50223435\">Comments</a>"
   },
   {
-    "title": "Samsung TV privacy issues",
+    "title": "Root shell on Samsung TV",
     "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
     "source": "Hacker News",
     "published": "2026-10-24T05:49:57+00:00",
@@ -128,35 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50218633\">Comments</a>"
   },
   {
-    "title": "Reverse engineer of PC-98 Touhou games retires",
-    "link": "https://rec98.nmlgc.net/blog/2026-10-05",
+    "title": "Recreate the Apollo Guidance Computer",
+    "link": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
     "source": "Hacker News",
-    "published": "2026-10-22T16:16:01+00:00",
+    "published": "2026-10-22T14:21:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50197434\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50195769\">Comments</a>"
   },
   {
-    "title": "Bring Back the Cool Save File Screens",
-    "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+    "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
+    "link": "https://arcadedb.com/route-planning.html",
     "source": "Hacker News",
-    "published": "2026-10-22T13:40:05+00:00",
+    "published": "2026-10-21T01:04:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50195184\">Comments</a>"
-  },
-  {
-    "title": "How Japanese Dried Bonito Is Made",
-    "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-    "source": "Hacker News",
-    "published": "2026-10-22T11:31:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50193936\">Comments</a>"
-  },
-  {
-    "title": "Flapping Airplanes",
-    "link": "https://flappingairplanes.com/",
-    "source": "Hacker News",
-    "published": "2026-10-22T03:06:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50190686\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50174816\">Comments</a>"
   }
 ]
