@@ -1,19 +1,11 @@
 [
   {
-    "title": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
-    "link": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
     "source": "Hacker News",
-    "published": "2026-10-25T01:40:01+00:00",
+    "published": "2026-10-25T01:33:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50227403\">Comments</a>"
-  },
-  {
-    "title": "FindMyWeb: Apple Find My, reverse enginiered",
-    "link": "https://codeberg.org/Misom/FindMyWeb",
-    "source": "Hacker News",
-    "published": "2026-10-24T23:42:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50226646\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50227356\">Comments</a>"
   },
   {
     "title": "Why Gopher in 2026?",
@@ -24,7 +16,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50226577\">Comments</a>"
   },
   {
-    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
     "source": "Hacker News",
     "published": "2026-10-24T23:11:54+00:00",
@@ -48,7 +40,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50225674\">Comments</a>"
   },
   {
-    "title": "The Importance of Limitations for Creativity and Learning",
+    "title": "The Importance of Limitations for Creativity and Learning (2023)",
     "link": "https://ratfactor.com/cards/limitations",
     "source": "Hacker News",
     "published": "2026-10-24T21:42:47+00:00",
@@ -62,14 +54,6 @@
     "published": "2026-10-24T20:30:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50224916\">Comments</a>"
-  },
-  {
-    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "link": "https://missileer.watch",
-    "source": "Hacker News",
-    "published": "2026-10-24T19:43:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50224422\">Comments</a>"
   },
   {
     "title": "SpeedCrunch 1.1",
@@ -96,22 +80,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50222927\">Comments</a>"
   },
   {
-    "title": "Roku developer repositories moved from GitHub to GitLab",
-    "link": "https://blog.roku.com/developer/gitlab-move",
-    "source": "Hacker News",
-    "published": "2026-10-24T16:06:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50222622\">Comments</a>"
-  },
-  {
-    "title": "Neural chip decodes interactions between brain regions",
-    "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "source": "Hacker News",
-    "published": "2026-10-24T15:57:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50222525\">Comments</a>"
-  },
-  {
     "title": "FreeDNS",
     "link": "https://freedns.afraid.org/",
     "source": "Hacker News",
@@ -136,12 +104,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50219177\">Comments</a>"
   },
   {
-    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-    "link": "https://xingjianbai.com/reactive-optimizers/",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "link": "https://edjefferson.com/localwiki/",
     "source": "Hacker News",
-    "published": "2026-10-21T22:17:12+00:00",
+    "published": "2026-10-22T23:01:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50188440\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50202285\">Comments</a>"
+  },
+  {
+    "title": "In Rainbows",
+    "link": "https://hitogata.neocities.org/Rainbows",
+    "source": "Hacker News",
+    "published": "2026-10-22T13:20:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50194935\">Comments</a>"
+  },
+  {
+    "title": "How Japanese Dried Bonito Is Made",
+    "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+    "source": "Hacker News",
+    "published": "2026-10-22T11:31:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50193936\">Comments</a>"
+  },
+  {
+    "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+    "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+    "source": "Hacker News",
+    "published": "2026-10-21T19:30:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50186289\">Comments</a>"
+  },
+  {
+    "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+    "link": "https://pragtical.dev/blog/pragtical-v3140-release",
+    "source": "Hacker News",
+    "published": "2026-10-21T06:09:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50176674\">Comments</a>"
   },
   {
     "title": "I Built a Stereo Vision Board for Hardware Hackers",
