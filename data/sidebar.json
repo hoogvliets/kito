@@ -1,14 +1,70 @@
 [
   {
-    "title": "Lula wins election after final votes tallied",
-    "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+    "title": "The result of the C++26 DIS ballot",
+    "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
     "source": "Hacker News",
-    "published": "2026-10-26T00:31:07+00:00",
+    "published": "2026-10-26T06:11:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50237485\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50239748\">Comments</a>"
   },
   {
-    "title": "Attention Is Not What You Need",
+    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "source": "Hacker News",
+    "published": "2026-10-26T04:11:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50239027\">Comments</a>"
+  },
+  {
+    "title": "Behind the scenes at the NeXT Computer office",
+    "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+    "source": "Hacker News",
+    "published": "2026-10-26T03:31:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238763\">Comments</a>"
+  },
+  {
+    "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "source": "Hacker News",
+    "published": "2026-10-26T03:29:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238739\">Comments</a>"
+  },
+  {
+    "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+    "link": "https://titleart.dvy.io/",
+    "source": "Hacker News",
+    "published": "2026-10-26T03:23:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>"
+  },
+  {
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "source": "Hacker News",
+    "published": "2026-10-26T03:12:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238620\">Comments</a>"
+  },
+  {
+    "title": "IBM CEO says open weight models are now good and cheap on-prem",
+    "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "source": "Hacker News",
+    "published": "2026-10-26T01:47:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238088\">Comments</a>"
+  },
+  {
+    "title": "Steal My Bitcoin CTF PoC",
+    "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "source": "Hacker News",
+    "published": "2026-10-26T00:15:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50237379\">Comments</a>"
+  },
+  {
+    "title": "Attention Is Not What You Need (2025)",
     "link": "https://arxiv.org/abs/2512.19428",
     "source": "Hacker News",
     "published": "2026-10-25T23:52:05+00:00",
@@ -22,14 +78,6 @@
     "published": "2026-10-25T23:27:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>"
-  },
-  {
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "link": "https://minimaxir.com/2026/10/cheap-llms/",
-    "source": "Hacker News",
-    "published": "2026-10-25T21:11:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50236102\">Comments</a>"
   },
   {
     "title": "The State of Context Engineering",
@@ -48,28 +96,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50235738\">Comments</a>"
   },
   {
-    "title": "Eunice is almost here",
-    "link": "https://armincat.com/articles/eunice-is-almost-here",
-    "source": "Hacker News",
-    "published": "2026-10-25T19:40:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>"
-  },
-  {
     "title": "Why I Am a Programmer",
     "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
     "source": "Hacker News",
     "published": "2026-10-25T19:11:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50235017\">Comments</a>"
-  },
-  {
-    "title": "Where the Romans Fought (interactive map)",
-    "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-    "source": "Hacker News",
-    "published": "2026-10-25T18:58:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50234879\">Comments</a>"
   },
   {
     "title": "Dolly Parton's Imagination Library",
@@ -80,68 +112,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>"
   },
   {
-    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "title": "Show HN: A Truly Modular Keyboard",
+    "link": "https://github.com/notaroomba/keybytes",
     "source": "Hacker News",
-    "published": "2026-10-25T18:04:11+00:00",
+    "published": "2026-10-25T03:47:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50234232\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50228115\">Comments</a>"
   },
   {
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "link": "https://talkweb.eu/openweb/4558/",
+    "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+    "link": "https://adrs.systems",
     "source": "Hacker News",
-    "published": "2026-10-25T17:30:55+00:00",
+    "published": "2026-10-25T00:43:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233929\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50227041\">Comments</a>"
   },
   {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "link": "https://lynchlab.net/llm-skin-cancer",
+    "title": "The Curse of Soldered RAM",
+    "link": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
     "source": "Hacker News",
-    "published": "2026-10-25T17:15:38+00:00",
+    "published": "2026-10-24T14:09:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50233779\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50221394\">Comments</a>"
   },
   {
-    "title": "Active incident at Dreamhost forcing password reset",
-    "link": "https://www.dreamhoststatus.com/",
+    "title": "Growing Trees",
+    "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
     "source": "Hacker News",
-    "published": "2026-10-25T13:09:16+00:00",
+    "published": "2026-10-23T14:07:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50231166\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50209278\">Comments</a>"
   },
   {
-    "title": "We should be more ambitious with the software we build",
-    "link": "https://danluu.com/ambitious/",
+    "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+    "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
     "source": "Hacker News",
-    "published": "2026-10-24T21:47:31+00:00",
+    "published": "2026-10-22T21:00:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50225695\">Comments</a>"
-  },
-  {
-    "title": "Making the Buddha Head from Merv Whole Again",
-    "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-    "source": "Hacker News",
-    "published": "2026-10-23T18:46:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50213610\">Comments</a>"
-  },
-  {
-    "title": "Reverse engineering a Beyblade launch tracker",
-    "link": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-    "source": "Hacker News",
-    "published": "2026-10-23T13:25:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50208628\">Comments</a>"
-  },
-  {
-    "title": "Retired decorator's Pok\u00e9mon cards sell for \u00a31.5M",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-    "source": "Hacker News",
-    "published": "2026-10-22T18:25:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50199199\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50200957\">Comments</a>"
   },
   {
     "title": "Overgrown, when plants invade your abandoned tabs",
@@ -150,13 +158,5 @@
     "published": "2026-10-22T15:52:21+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50197108\">Comments</a>"
-  },
-  {
-    "title": "Amazon's \"digital pacifier\" for toddlers",
-    "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-    "source": "Hacker News",
-    "published": "2026-10-21T18:37:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50185534\">Comments</a>"
   }
 ]
