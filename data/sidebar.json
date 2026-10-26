@@ -1,19 +1,75 @@
 [
   {
-    "title": "The result of the C++26 DIS ballot",
-    "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+    "title": "Peta releases video showing experiments on infant monkeys at Univ of Washington",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
     "source": "Hacker News",
-    "published": "2026-10-26T06:11:52+00:00",
+    "published": "2026-10-26T14:50:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50239748\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50244744\">Comments</a>"
   },
   {
-    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "title": "Partyline: A group voice application for Reticulum, built on LXST",
+    "link": "https://github.com/RFnexus/partyline",
     "source": "Hacker News",
-    "published": "2026-10-26T04:11:40+00:00",
+    "published": "2026-10-26T14:42:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50239027\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50244583\">Comments</a>"
+  },
+  {
+    "title": "OLED iPad Mini",
+    "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+    "source": "Hacker News",
+    "published": "2026-10-26T13:47:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50243646\">Comments</a>"
+  },
+  {
+    "title": "Anthropic S-1",
+    "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "source": "Hacker News",
+    "published": "2026-10-26T13:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50242939\">Comments</a>"
+  },
+  {
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "source": "Hacker News",
+    "published": "2026-10-26T12:59:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50242870\">Comments</a>"
+  },
+  {
+    "title": "Brown student maps the hidden global labor powering AI",
+    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+    "source": "Hacker News",
+    "published": "2026-10-26T12:58:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50242843\">Comments</a>"
+  },
+  {
+    "title": "Pharo 14",
+    "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "source": "Hacker News",
+    "published": "2026-10-26T11:15:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50241925\">Comments</a>"
+  },
+  {
+    "title": "Websites Should Be Printable",
+    "link": "https://brennenputh.me/blog/printable-websites/",
+    "source": "Hacker News",
+    "published": "2026-10-26T10:32:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50241664\">Comments</a>"
+  },
+  {
+    "title": "Switzerland. Block by block. At 1:1 scale",
+    "link": "https://blocks.manifold3d.ch/",
+    "source": "Hacker News",
+    "published": "2026-10-26T08:46:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50240922\">Comments</a>"
   },
   {
     "title": "Behind the scenes at the NeXT Computer office",
@@ -40,70 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>"
   },
   {
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-    "source": "Hacker News",
-    "published": "2026-10-26T03:12:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238620\">Comments</a>"
-  },
-  {
-    "title": "IBM CEO says open weight models are now good and cheap on-prem",
-    "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "source": "Hacker News",
-    "published": "2026-10-26T01:47:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50238088\">Comments</a>"
-  },
-  {
-    "title": "Steal My Bitcoin CTF PoC",
-    "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "source": "Hacker News",
-    "published": "2026-10-26T00:15:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50237379\">Comments</a>"
-  },
-  {
-    "title": "Attention Is Not What You Need (2025)",
-    "link": "https://arxiv.org/abs/2512.19428",
-    "source": "Hacker News",
-    "published": "2026-10-25T23:52:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50237224\">Comments</a>"
-  },
-  {
-    "title": "F-Zero X on Nintendo 3DS",
-    "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-    "source": "Hacker News",
-    "published": "2026-10-25T23:27:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>"
-  },
-  {
-    "title": "The State of Context Engineering",
-    "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-    "source": "Hacker News",
-    "published": "2026-10-25T20:32:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235780\">Comments</a>"
-  },
-  {
-    "title": "What goes into making an animated film?",
-    "link": "https://www.disneyanimation.com/process/",
-    "source": "Hacker News",
-    "published": "2026-10-25T20:27:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235738\">Comments</a>"
-  },
-  {
-    "title": "Why I Am a Programmer",
-    "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-    "source": "Hacker News",
-    "published": "2026-10-25T19:11:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50235017\">Comments</a>"
-  },
-  {
     "title": "Dolly Parton's Imagination Library",
     "link": "https://imaginationlibrary.com/",
     "source": "Hacker News",
@@ -120,20 +112,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50228115\">Comments</a>"
   },
   {
-    "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
-    "link": "https://adrs.systems",
+    "title": "PhysicsForums and the Dead Internet Theory (2025)",
+    "link": "https://hallofdreams.org/posts/physicsforums/",
     "source": "Hacker News",
-    "published": "2026-10-25T00:43:47+00:00",
+    "published": "2026-10-24T11:40:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50227041\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50220331\">Comments</a>"
   },
   {
-    "title": "The Curse of Soldered RAM",
-    "link": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
+    "title": "Birdwatching rewires the brain and slows cognitive decline",
+    "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
     "source": "Hacker News",
-    "published": "2026-10-24T14:09:20+00:00",
+    "published": "2026-10-23T22:04:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50221394\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50215997\">Comments</a>"
+  },
+  {
+    "title": "Colorfigures",
+    "link": "https://april-zhu.com/colorfigures",
+    "source": "Hacker News",
+    "published": "2026-10-23T14:22:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50209573\">Comments</a>"
   },
   {
     "title": "Growing Trees",
@@ -144,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50209278\">Comments</a>"
   },
   {
-    "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-    "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+    "title": "One of the Greatest Inventions in the History of Human Transport",
+    "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
     "source": "Hacker News",
-    "published": "2026-10-22T21:00:14+00:00",
+    "published": "2026-10-22T19:52:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50200957\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50200152\">Comments</a>"
   },
   {
     "title": "Overgrown, when plants invade your abandoned tabs",
