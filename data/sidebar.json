@@ -1,27 +1,43 @@
 [
   {
-    "title": "Working with academic communities to build scientific understanding",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "link": "https://github.com/otya128/winevdm",
+    "source": "Hacker News",
+    "published": "2026-10-27T01:15:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50253529\">Comments</a>"
+  },
+  {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source": "Hacker News",
+    "published": "2026-10-26T22:41:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50252159\">Comments</a>"
+  },
+  {
+    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+    "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+    "source": "Hacker News",
+    "published": "2026-10-26T22:27:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50252008\">Comments</a>"
+  },
+  {
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "source": "Hacker News",
+    "published": "2026-10-26T21:59:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50251661\">Comments</a>"
+  },
+  {
+    "title": "Three new discoveries in mathematics, computer science, and physics",
     "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
     "source": "Hacker News",
     "published": "2026-10-26T21:35:28+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50251344\">Comments</a>"
-  },
-  {
-    "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-    "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-    "source": "Hacker News",
-    "published": "2026-10-26T21:05:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50250937\">Comments</a>"
-  },
-  {
-    "title": "The EPA Is Quietly Killing Its Web Archive",
-    "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-    "source": "Hacker News",
-    "published": "2026-10-26T19:05:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50249275\">Comments</a>"
   },
   {
     "title": "Type Server Protocol",
@@ -48,14 +64,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50248055\">Comments</a>"
   },
   {
-    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-    "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-    "source": "Hacker News",
-    "published": "2026-10-26T17:54:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50248005\">Comments</a>"
-  },
-  {
     "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
     "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
     "source": "Hacker News",
@@ -70,14 +78,6 @@
     "published": "2026-10-26T17:25:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50247493\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "link": "https://github.com/FrigadeHQ/hob",
-    "source": "Hacker News",
-    "published": "2026-10-26T16:12:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50246238\">Comments</a>"
   },
   {
     "title": "CSS-Tricks has a new owner",
@@ -96,12 +96,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50245524\">Comments</a>"
   },
   {
+    "title": "Solar power is becoming bigger than nuclear",
+    "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "source": "Hacker News",
+    "published": "2026-10-26T15:26:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50245385\">Comments</a>"
+  },
+  {
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
     "source": "Hacker News",
     "published": "2026-10-26T15:11:59+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50245138\">Comments</a>"
+  },
+  {
+    "title": "New iPad mini",
+    "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "source": "Hacker News",
+    "published": "2026-10-26T13:13:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50243061\">Comments</a>"
   },
   {
     "title": "Anthropic S-1",
@@ -112,14 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50242939\">Comments</a>"
   },
   {
-    "title": "Pharo 14",
-    "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-    "source": "Hacker News",
-    "published": "2026-10-26T11:15:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50241925\">Comments</a>"
-  },
-  {
     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
     "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
     "source": "Hacker News",
@@ -128,28 +136,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50236681\">Comments</a>"
   },
   {
-    "title": "Birdwatching rewires the brain and slows cognitive decline",
-    "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "title": "LISPy things you can do in 64K bytes of core (2019)",
+    "link": "https://t3x.org/lisp64k/index.html",
     "source": "Hacker News",
-    "published": "2026-10-23T22:04:55+00:00",
+    "published": "2026-10-25T12:53:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50215997\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50231041\">Comments</a>"
   },
   {
-    "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-    "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+    "title": "A Printer Printing onto Paper",
+    "link": "https://twitter.com/macrofying/status/2112904628509528219",
     "source": "Hacker News",
-    "published": "2026-10-23T16:41:41+00:00",
+    "published": "2026-10-23T05:01:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50211780\">Comments</a>"
-  },
-  {
-    "title": "Diamond Transistor",
-    "link": "https://www.df.com/diamond-transistor",
-    "source": "Hacker News",
-    "published": "2026-10-23T14:20:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50209525\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50204697\">Comments</a>"
   },
   {
     "title": "Blaise Pascal invented fixed route public transport (2024)",
