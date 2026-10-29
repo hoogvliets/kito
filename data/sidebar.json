@@ -1,51 +1,147 @@
 [
   {
-    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-    "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+    "title": "Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit",
+    "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
     "source": "Hacker News",
-    "published": "2026-10-29T10:44:49+00:00",
+    "published": "2026-10-29T16:56:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50287001\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50292233\">Comments</a>"
   },
   {
-    "title": "Zero click, silent, remote Android DoS",
-    "link": "https://smsofdeath.com/",
+    "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+    "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
     "source": "Hacker News",
-    "published": "2026-10-29T07:08:50+00:00",
+    "published": "2026-10-29T16:42:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50285452\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291945\">Comments</a>"
   },
   {
-    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-    "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "title": "Toxic Experts",
+    "link": "https://nedbatchelder.com/blog/201711/toxic_experts",
     "source": "Hacker News",
-    "published": "2026-10-29T06:47:28+00:00",
+    "published": "2026-10-29T16:41:11+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50285319\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291927\">Comments</a>"
   },
   {
-    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "title": "16colo.rs \u2013 ANSI/ASCII art archive",
+    "link": "https://16colo.rs/",
     "source": "Hacker News",
-    "published": "2026-10-29T03:33:42+00:00",
+    "published": "2026-10-29T16:14:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291421\">Comments</a>"
   },
   {
-    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-    "link": "https://divagr.com/blog/qwenputer",
+    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+    "link": "https://news.ycombinator.com/item?id=50291116",
     "source": "Hacker News",
-    "published": "2026-10-29T00:25:45+00:00",
+    "published": "2026-10-29T15:56:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291116\">Comments</a>"
   },
   {
-    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-    "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "title": "H.264 Is Magic (2016)",
+    "link": "https://sidbala.com/h-264-is-magic/",
     "source": "Hacker News",
-    "published": "2026-10-28T23:45:46+00:00",
+    "published": "2026-10-29T15:53:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291054\">Comments</a>"
+  },
+  {
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "source": "Hacker News",
+    "published": "2026-10-29T15:45:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290912\">Comments</a>"
+  },
+  {
+    "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+    "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "source": "Hacker News",
+    "published": "2026-10-29T15:30:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290668\">Comments</a>"
+  },
+  {
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "source": "Hacker News",
+    "published": "2026-10-29T15:06:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290283\">Comments</a>"
+  },
+  {
+    "title": "LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "source": "Hacker News",
+    "published": "2026-10-29T14:57:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290177\">Comments</a>"
+  },
+  {
+    "title": "Keplearn: Extract Equations from Data in Seconds",
+    "link": "https://github.com/owls-on-wires/keplearn",
+    "source": "Hacker News",
+    "published": "2026-10-29T14:22:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50289590\">Comments</a>"
+  },
+  {
+    "title": "We're releasing the weights of Mistral Large 4",
+    "link": "https://mistral.ai/news/mistral-large-4-oss/",
+    "source": "Hacker News",
+    "published": "2026-10-29T14:13:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50289418\">Comments</a>"
+  },
+  {
+    "title": "DoorDash to acquire Instacart",
+    "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "source": "Hacker News",
+    "published": "2026-10-29T12:33:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50287919\">Comments</a>"
+  },
+  {
+    "title": "If IPv4 were land",
+    "link": "https://iptrust.co/blog/if-ipv4-were-land",
+    "source": "Hacker News",
+    "published": "2026-10-29T12:19:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50287775\">Comments</a>"
+  },
+  {
+    "title": "NetBSD adds a new text editor called atto",
+    "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+    "source": "Hacker News",
+    "published": "2026-10-29T11:59:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50287599\">Comments</a>"
+  },
+  {
+    "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+    "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+    "source": "Hacker News",
+    "published": "2026-10-29T11:41:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50287448\">Comments</a>"
+  },
+  {
+    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+    "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "source": "Hacker News",
+    "published": "2026-10-29T10:42:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50286987\">Comments</a>"
+  },
+  {
+    "title": "What we know so far about Spain train crash",
+    "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "source": "Hacker News",
+    "published": "2026-10-29T08:55:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50286197\">Comments</a>"
   },
   {
     "title": "StackOverflow now gets fewer than 1000 questions a month",
@@ -56,107 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50282454\">Comments</a>"
   },
   {
-    "title": "Formlabs Studio 1 $699 Resin Printer",
-    "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+    "link": "https://github.com/theconsensuslabs/noalloc",
     "source": "Hacker News",
-    "published": "2026-10-28T21:19:30+00:00",
+    "published": "2026-10-28T18:29:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50281044\">Comments</a>"
-  },
-  {
-    "title": "A Health Update",
-    "link": "https://furbo.org/2026/10/28/a-health-update/",
-    "source": "Hacker News",
-    "published": "2026-10-28T21:13:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50280974\">Comments</a>"
-  },
-  {
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "link": "https://nullpt.rs/fingerprinting-bioweapons",
-    "source": "Hacker News",
-    "published": "2026-10-28T17:13:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50276998\">Comments</a>"
-  },
-  {
-    "title": "Gemini 4 Carbon",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "source": "Hacker News",
-    "published": "2026-10-28T17:01:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50276792\">Comments</a>"
-  },
-  {
-    "title": "CNC Stone Carving",
-    "link": "https://carmelitegothic.com/cnc-stone-carving/",
-    "source": "Hacker News",
-    "published": "2026-10-28T14:38:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50274409\">Comments</a>"
-  },
-  {
-    "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-    "link": "https://dmux.github.io/minilake/",
-    "source": "Hacker News",
-    "published": "2026-10-27T14:12:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50259697\">Comments</a>"
-  },
-  {
-    "title": "A new faster algorithm to compute 64-bit signed floor division",
-    "link": "https://www.benjoffe.com/fast-floordiv",
-    "source": "Hacker News",
-    "published": "2026-10-27T09:13:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50256409\">Comments</a>"
-  },
-  {
-    "title": "OpenAI's agents talked to each other through the CPU Cache",
-    "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-    "source": "Hacker News",
-    "published": "2026-10-26T21:24:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50251200\">Comments</a>"
-  },
-  {
-    "title": "Getting debug access on a Brother printer over Telnet",
-    "link": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-    "source": "Hacker News",
-    "published": "2026-10-26T13:54:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50243757\">Comments</a>"
-  },
-  {
-    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-    "link": "https://www.circuithub.com/post/unveiling-the-grid",
-    "source": "Hacker News",
-    "published": "2026-10-26T13:13:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50243060\">Comments</a>"
-  },
-  {
-    "title": "Treap (Cartesian Tree)",
-    "link": "https://cp-algorithms.com/data_structures/treap.html",
-    "source": "Hacker News",
-    "published": "2026-10-26T11:19:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50241949\">Comments</a>"
-  },
-  {
-    "title": "Requests, Please",
-    "link": "https://morronel.github.io/requests_please/",
-    "source": "Hacker News",
-    "published": "2026-10-26T09:23:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50241195\">Comments</a>"
-  },
-  {
-    "title": "Why birds can fly over Mount Everest (2020)",
-    "link": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-    "source": "Hacker News",
-    "published": "2026-10-24T13:17:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50220975\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50278645\">Comments</a>"
   }
 ]
