@@ -1,6 +1,86 @@
 [
   {
-    "title": "A Working Nintendo in ~1GB of Qwen Weights",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "source": "Hacker News",
+    "published": "2026-10-30T20:23:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309647\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+    "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+    "source": "Hacker News",
+    "published": "2026-10-30T20:09:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309479\">Comments</a>"
+  },
+  {
+    "title": "An Arrogant Way of Killing (2016)",
+    "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+    "source": "Hacker News",
+    "published": "2026-10-30T20:08:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309470\">Comments</a>"
+  },
+  {
+    "title": "Jules Verne's Lost Novel",
+    "link": "https://blue-continuum.com/verne-paris",
+    "source": "Hacker News",
+    "published": "2026-10-30T19:55:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309314\">Comments</a>"
+  },
+  {
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "source": "Hacker News",
+    "published": "2026-10-30T19:51:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309266\">Comments</a>"
+  },
+  {
+    "title": "Infinite Mac: BeOS",
+    "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "source": "Hacker News",
+    "published": "2026-10-30T19:30:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309029\">Comments</a>"
+  },
+  {
+    "title": "A Pickpocket's Guide to New York",
+    "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+    "source": "Hacker News",
+    "published": "2026-10-30T19:26:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50308986\">Comments</a>"
+  },
+  {
+    "title": "Bunny CDN Security Incident",
+    "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+    "source": "Hacker News",
+    "published": "2026-10-30T19:05:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50308697\">Comments</a>"
+  },
+  {
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "source": "Hacker News",
+    "published": "2026-10-30T17:27:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50307219\">Comments</a>"
+  },
+  {
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "source": "Hacker News",
+    "published": "2026-10-30T17:25:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50307190\">Comments</a>"
+  },
+  {
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
     "link": "https://github.com/dbreunig/nesformer",
     "source": "Hacker News",
     "published": "2026-10-30T16:40:22+00:00",
@@ -8,15 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50306442\">Comments</a>"
   },
   {
-    "title": "US tech stocks see sharp falls over AI cost fears",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-    "source": "Hacker News",
-    "published": "2026-10-30T16:13:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50306008\">Comments</a>"
-  },
-  {
-    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+    "title": "AI isn't replacing SREs, it's deskilling them",
     "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
     "source": "Hacker News",
     "published": "2026-10-30T15:52:18+00:00",
@@ -40,60 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50305573\">Comments</a>"
   },
   {
-    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-    "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-    "source": "Hacker News",
-    "published": "2026-10-30T15:39:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50305480\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-    "link": "https://catcopter.com",
-    "source": "Hacker News",
-    "published": "2026-10-30T15:29:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50305320\">Comments</a>"
-  },
-  {
-    "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
-    "link": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
-    "source": "Hacker News",
-    "published": "2026-10-30T15:23:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50305225\">Comments</a>"
-  },
-  {
     "title": "Northflank Breached",
     "link": "https://status.northflank.com",
     "source": "Hacker News",
     "published": "2026-10-30T15:10:31+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50305025\">Comments</a>"
-  },
-  {
-    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-    "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-    "source": "Hacker News",
-    "published": "2026-10-30T14:27:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50304419\">Comments</a>"
-  },
-  {
-    "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "source": "Hacker News",
-    "published": "2026-10-30T12:50:01+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50303172\">Comments</a>"
-  },
-  {
-    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-    "source": "Hacker News",
-    "published": "2026-10-30T12:08:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50302814\">Comments</a>"
   },
   {
     "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
@@ -112,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50300683\">Comments</a>"
   },
   {
-    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "title": "Building an AI-native engineering org",
+    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
     "source": "Hacker News",
-    "published": "2026-10-29T21:38:59+00:00",
+    "published": "2026-10-29T21:58:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>"
-  },
-  {
-    "title": "Finding Panics with Call Graph Analyzer",
-    "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-    "source": "Hacker News",
-    "published": "2026-10-28T13:48:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50273504\">Comments</a>"
-  },
-  {
-    "title": "Pell Puzzles Review",
-    "link": "https://dles.gg/reviews/pell-puzzles",
-    "source": "Hacker News",
-    "published": "2026-10-28T07:33:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50270284\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50296730\">Comments</a>"
   },
   {
     "title": "Breaking the open web won't stop the bad bots",
@@ -144,19 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50263837\">Comments</a>"
   },
   {
-    "title": "Gilgamesh by Simon Armitage review \u2013 an ancient epic is brilliantly translated",
-    "link": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+    "link": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
     "source": "Hacker News",
-    "published": "2026-10-27T17:54:57+00:00",
+    "published": "2026-10-27T13:00:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50263127\">Comments</a>"
-  },
-  {
-    "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
-    "source": "Hacker News",
-    "published": "2026-10-26T21:14:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50251070\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50258496\">Comments</a>"
   }
 ]
