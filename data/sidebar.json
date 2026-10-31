@@ -1,5 +1,21 @@
 [
   {
+    "title": "Switch Lowering in GCC",
+    "link": "https://xoranth.net/gcc-switch/",
+    "source": "Hacker News",
+    "published": "2026-10-31T08:02:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50314085\">Comments</a>"
+  },
+  {
+    "title": "Tell HN: Scribd Breached",
+    "link": "https://news.ycombinator.com/item?id=50312756",
+    "source": "Hacker News",
+    "published": "2026-10-31T02:46:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50312756\">Comments</a>"
+  },
+  {
     "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
     "link": "https://tng.episodle.com/",
     "source": "Hacker News",
@@ -8,28 +24,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50311686\">Comments</a>"
   },
   {
-    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
     "link": "https://www.firezone.dev/blog/introducing-sanstun",
     "source": "Hacker News",
     "published": "2026-10-30T21:30:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50310398\">Comments</a>"
-  },
-  {
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "source": "Hacker News",
-    "published": "2026-10-30T20:23:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309647\">Comments</a>"
-  },
-  {
-    "title": "Jules Verne's Lost Novel",
-    "link": "https://blue-continuum.com/verne-paris",
-    "source": "Hacker News",
-    "published": "2026-10-30T19:55:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309314\">Comments</a>"
   },
   {
     "title": "The oldest ice disappears and the Stone Age emerges from it",
@@ -104,14 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50303172\">Comments</a>"
   },
   {
-    "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-    "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-    "source": "Hacker News",
-    "published": "2026-10-30T10:06:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50301854\">Comments</a>"
-  },
-  {
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
     "source": "Hacker News",
@@ -120,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50300683\">Comments</a>"
   },
   {
-    "title": "Turning a solar power system into its own backup",
-    "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+    "title": "Brief History of PDP Computers",
+    "link": "https://entropicthoughts.com/history-of-pdp-computers",
     "source": "Hacker News",
-    "published": "2026-10-29T18:10:33+00:00",
+    "published": "2026-10-29T13:53:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50293437\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
-    "link": "https://github.com/arterialist/kube32",
-    "source": "Hacker News",
-    "published": "2026-10-29T16:35:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291812\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50289081\">Comments</a>"
   },
   {
     "title": "Cloudflare Turnstile solver library (no headless browser required)",
@@ -144,12 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50277379\">Comments</a>"
   },
   {
-    "title": "Trapped in the Technologist Factory",
-    "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+    "title": "Double Buffering with Cloudflare Queues",
+    "link": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
     "source": "Hacker News",
-    "published": "2026-10-28T16:30:38+00:00",
+    "published": "2026-10-28T16:48:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50276355\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50276613\">Comments</a>"
+  },
+  {
+    "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+    "link": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+    "source": "Hacker News",
+    "published": "2026-10-28T15:04:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50274885\">Comments</a>"
   },
   {
     "title": "Breaking the open web won't stop the bad bots",
@@ -158,5 +150,13 @@
     "published": "2026-10-27T18:42:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50263837\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+    "link": "https://zebra.rodeo/en/blog/marelleo/",
+    "source": "Hacker News",
+    "published": "2026-10-27T15:24:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50260753\">Comments</a>"
   }
 ]
