@@ -1,27 +1,27 @@
 [
   {
+    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "link": "https://tng.episodle.com/",
+    "source": "Hacker News",
+    "published": "2026-10-30T23:51:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50311686\">Comments</a>"
+  },
+  {
+    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "link": "https://www.firezone.dev/blog/introducing-sanstun",
+    "source": "Hacker News",
+    "published": "2026-10-30T21:30:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50310398\">Comments</a>"
+  },
+  {
     "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
     "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
     "source": "Hacker News",
     "published": "2026-10-30T20:23:30+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50309647\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-    "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-    "source": "Hacker News",
-    "published": "2026-10-30T20:09:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309479\">Comments</a>"
-  },
-  {
-    "title": "An Arrogant Way of Killing (2016)",
-    "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
-    "source": "Hacker News",
-    "published": "2026-10-30T20:08:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309470\">Comments</a>"
   },
   {
     "title": "Jules Verne's Lost Novel",
@@ -48,30 +48,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50309029\">Comments</a>"
   },
   {
-    "title": "A Pickpocket's Guide to New York",
-    "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-    "source": "Hacker News",
-    "published": "2026-10-30T19:26:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50308986\">Comments</a>"
-  },
-  {
-    "title": "Bunny CDN Security Incident",
-    "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-    "source": "Hacker News",
-    "published": "2026-10-30T19:05:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50308697\">Comments</a>"
-  },
-  {
-    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-    "source": "Hacker News",
-    "published": "2026-10-30T17:27:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50307219\">Comments</a>"
-  },
-  {
     "title": "My favourite PowerMac is a Nintendo Wii",
     "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
     "source": "Hacker News",
@@ -86,14 +62,6 @@
     "published": "2026-10-30T16:40:22+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50306442\">Comments</a>"
-  },
-  {
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "source": "Hacker News",
-    "published": "2026-10-30T15:52:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50305693\">Comments</a>"
   },
   {
     "title": "Florilegium: Procedural Flowers in LaTeX",
@@ -120,6 +88,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50305025\">Comments</a>"
   },
   {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "source": "Hacker News",
+    "published": "2026-10-30T14:08:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50304122\">Comments</a>"
+  },
+  {
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "source": "Hacker News",
+    "published": "2026-10-30T12:50:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50303172\">Comments</a>"
+  },
+  {
     "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
     "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
     "source": "Hacker News",
@@ -136,12 +120,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50300683\">Comments</a>"
   },
   {
-    "title": "Building an AI-native engineering org",
-    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "title": "Turning a solar power system into its own backup",
+    "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
     "source": "Hacker News",
-    "published": "2026-10-29T21:58:34+00:00",
+    "published": "2026-10-29T18:10:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50296730\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50293437\">Comments</a>"
+  },
+  {
+    "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+    "link": "https://github.com/arterialist/kube32",
+    "source": "Hacker News",
+    "published": "2026-10-29T16:35:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50291812\">Comments</a>"
+  },
+  {
+    "title": "Cloudflare Turnstile solver library (no headless browser required)",
+    "link": "https://github.com/chris124567/cfsolve",
+    "source": "Hacker News",
+    "published": "2026-10-28T17:29:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50277379\">Comments</a>"
+  },
+  {
+    "title": "Trapped in the Technologist Factory",
+    "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+    "source": "Hacker News",
+    "published": "2026-10-28T16:30:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50276355\">Comments</a>"
   },
   {
     "title": "Breaking the open web won't stop the bad bots",
@@ -150,13 +158,5 @@
     "published": "2026-10-27T18:42:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50263837\">Comments</a>"
-  },
-  {
-    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
-    "link": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
-    "source": "Hacker News",
-    "published": "2026-10-27T13:00:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50258496\">Comments</a>"
   }
 ]
