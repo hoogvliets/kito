@@ -1,19 +1,27 @@
 [
   {
-    "title": "Inverse Zitron: An Investment Strategy",
-    "link": "https://chalmovsky.com/posts/inverse-zitron",
+    "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
     "source": "Hacker News",
-    "published": "2026-10-31T23:40:50+00:00",
+    "published": "2026-11-01T00:10:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50321351\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50321522\">Comments</a>"
   },
   {
-    "title": "When Electric Cars Were for Women",
+    "title": "When electric cars were for women",
     "link": "https://spectrum.ieee.org/early-electric-vehicles",
     "source": "Hacker News",
     "published": "2026-10-31T23:08:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50321130\">Comments</a>"
+  },
+  {
+    "title": "Altoids Project",
+    "link": "https://uvdn7.github.io/altoids-project/",
+    "source": "Hacker News",
+    "published": "2026-10-31T22:54:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>"
   },
   {
     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
@@ -24,7 +32,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50320995\">Comments</a>"
   },
   {
-    "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
     "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
     "source": "Hacker News",
     "published": "2026-10-31T22:41:06+00:00",
@@ -32,20 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>"
   },
   {
-    "title": "Distributed Proofreaders",
-    "link": "https://www.pgdp.net/c/",
+    "title": "AI text watermarking and quality loss",
+    "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
     "source": "Hacker News",
-    "published": "2026-10-31T20:56:12+00:00",
+    "published": "2026-10-31T21:50:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50320137\">Comments</a>"
-  },
-  {
-    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-    "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-    "source": "Hacker News",
-    "published": "2026-10-31T20:46:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50320028\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50320599\">Comments</a>"
   },
   {
     "title": "Surviving \"The Graduate\"",
@@ -62,14 +62,6 @@
     "published": "2026-10-31T19:56:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50319510\">Comments</a>"
-  },
-  {
-    "title": "Anthropic blocks users for anything touching training larger models",
-    "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "source": "Hacker News",
-    "published": "2026-10-31T19:39:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50319358\">Comments</a>"
   },
   {
     "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
@@ -96,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50319061\">Comments</a>"
   },
   {
-    "title": "It's the Memory Latency, Stupid",
+    "title": "It's the memory latency, stupid",
     "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
     "source": "Hacker News",
     "published": "2026-10-31T18:38:16+00:00",
@@ -110,14 +102,6 @@
     "published": "2026-10-31T13:39:52+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50316100\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A language model that lives in a boot sector",
-    "link": "https://github.com/kerlenton/bootgpt",
-    "source": "Hacker News",
-    "published": "2026-10-31T12:58:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50315782\">Comments</a>"
   },
   {
     "title": "Do the math: How we took over ChatGPT accounts",
@@ -142,6 +126,22 @@
     "published": "2026-10-31T03:54:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50313051\">Comments</a>"
+  },
+  {
+    "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+    "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+    "source": "Hacker News",
+    "published": "2026-10-30T22:41:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50311045\">Comments</a>"
+  },
+  {
+    "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+    "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+    "source": "Hacker News",
+    "published": "2026-10-30T09:49:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50301723\">Comments</a>"
   },
   {
     "title": "Much Ado About None: Sentinel Values in Python",
