@@ -1,27 +1,67 @@
 [
   {
-    "title": "Japan's trains are great. Why is booking one so hard?",
-    "link": "https://vinibrasil.com/japan-train/",
+    "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+    "link": "https://huggingface.co/burner22/numbat",
     "source": "Hacker News",
-    "published": "2026-11-01T08:47:50+00:00",
+    "published": "2026-11-01T16:43:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50323731\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50327240\">Comments</a>"
   },
   {
-    "title": "Pac-Man's Siren Call",
-    "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
+    "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+    "link": "https://www.ajupress.com/view/20261028171670308",
     "source": "Hacker News",
-    "published": "2026-11-01T06:29:49+00:00",
+    "published": "2026-11-01T16:23:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50323187\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50327058\">Comments</a>"
   },
   {
-    "title": "The AI cost of JavaScript frameworks",
-    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books recommended on HN",
+    "link": "https://hackerbooks.org",
     "source": "Hacker News",
-    "published": "2026-11-01T06:06:19+00:00",
+    "published": "2026-11-01T15:58:28+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50323088\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50326821\">Comments</a>"
+  },
+  {
+    "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+    "source": "Hacker News",
+    "published": "2026-11-01T14:36:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50326118\">Comments</a>"
+  },
+  {
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "source": "Hacker News",
+    "published": "2026-11-01T14:34:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50326099\">Comments</a>"
+  },
+  {
+    "title": "Novellas with Groff",
+    "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "source": "Hacker News",
+    "published": "2026-11-01T13:51:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50325694\">Comments</a>"
+  },
+  {
+    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "link": "https://arxiv.org/abs/2610.39302",
+    "source": "Hacker News",
+    "published": "2026-11-01T13:24:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50325454\">Comments</a>"
+  },
+  {
+    "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+    "link": "https://github.com/ivankovic/omnidiff",
+    "source": "Hacker News",
+    "published": "2026-11-01T13:02:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50325253\">Comments</a>"
   },
   {
     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
@@ -30,22 +70,6 @@
     "published": "2026-11-01T02:19:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50322173\">Comments</a>"
-  },
-  {
-    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-    "link": "https://arxiv.org/abs/2409.02292",
-    "source": "Hacker News",
-    "published": "2026-11-01T01:46:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50322022\">Comments</a>"
-  },
-  {
-    "title": "Altoids Project",
-    "link": "https://uvdn7.github.io/altoids-project/",
-    "source": "Hacker News",
-    "published": "2026-10-31T22:54:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>"
   },
   {
     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
@@ -64,12 +88,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>"
   },
   {
-    "title": "ChatGPT and Codex usage limits merging",
-    "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "title": "Bidirectional Charging During Grid Outages",
+    "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
     "source": "Hacker News",
-    "published": "2026-10-31T21:49:07+00:00",
+    "published": "2026-10-31T20:21:55+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50320588\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50319749\">Comments</a>"
   },
   {
     "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -88,28 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50319143\">Comments</a>"
   },
   {
-    "title": "Electrification Could Cut Global Energy Use in Half",
-    "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "title": "One-minute frequency disturbances from synchronization in power systems",
+    "link": "https://www.nature.com/articles/s41560-026-02144-0",
     "source": "Hacker News",
-    "published": "2026-10-31T19:13:34+00:00",
+    "published": "2026-10-31T10:14:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50319110\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50314617\">Comments</a>"
   },
   {
-    "title": "It's the memory latency, stupid",
-    "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+    "link": "https://kevs3d.co.uk/phoria2/",
     "source": "Hacker News",
-    "published": "2026-10-31T18:38:16+00:00",
+    "published": "2026-10-31T09:49:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50318720\">Comments</a>"
-  },
-  {
-    "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-    "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-    "source": "Hacker News",
-    "published": "2026-10-30T22:41:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50311045\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50314508\">Comments</a>"
   },
   {
     "title": "Understanding Email Encryption",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50310038\">Comments</a>"
   },
   {
-    "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-    "link": "http://thales.mit.edu/bush/index.php/4801-2/",
+    "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+    "link": "https://tibleiz.net/copper/",
     "source": "Hacker News",
-    "published": "2026-10-30T19:52:56+00:00",
+    "published": "2026-10-30T19:09:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50309279\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50308754\">Comments</a>"
   },
   {
-    "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-    "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+    "title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "link": "https://outcrop.rocks/",
     "source": "Hacker News",
-    "published": "2026-10-30T14:46:16+00:00",
+    "published": "2026-10-29T15:22:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50304718\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290533\">Comments</a>"
   },
   {
-    "title": "Running a bootstrapped SaaS for 20 years with my brother",
-    "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+    "title": "Radiation Map of the World",
+    "link": "https://radiaverse.com/",
     "source": "Hacker News",
-    "published": "2026-10-30T13:58:42+00:00",
+    "published": "2026-10-28T20:06:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50303984\">Comments</a>"
-  },
-  {
-    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-    "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-    "source": "Hacker News",
-    "published": "2026-10-29T15:20:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50290480\">Comments</a>"
-  },
-  {
-    "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
-    "link": "https://dl.acm.org/doi/10.1145/857076.857077",
-    "source": "Hacker News",
-    "published": "2026-10-29T14:30:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50289711\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50280131\">Comments</a>"
   }
 ]
