@@ -1,6 +1,38 @@
 [
   {
-    "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+    "title": "No Vehicles in the Park",
+    "link": "https://novehiclesinthepark.com/",
+    "source": "Hacker News",
+    "published": "2026-11-03T09:21:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50349784\">Comments</a>"
+  },
+  {
+    "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+    "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+    "source": "Hacker News",
+    "published": "2026-11-03T07:36:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50349155\">Comments</a>"
+  },
+  {
+    "title": "Nvidia \u2013 open-source auto-ontology",
+    "link": "https://github.com/NVIDIA/auto-ontology",
+    "source": "Hacker News",
+    "published": "2026-11-03T07:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50348962\">Comments</a>"
+  },
+  {
+    "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+    "link": "https://arxiv.org/abs/2608.25820",
+    "source": "Hacker News",
+    "published": "2026-11-03T02:58:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50347464\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
     "link": "https://hackertimes.ca/",
     "source": "Hacker News",
     "published": "2026-11-03T01:53:34+00:00",
@@ -16,52 +48,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50346849\">Comments</a>"
   },
   {
-    "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-    "link": "https://news.ycombinator.com/item?id=50346164",
+    "title": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai/",
     "source": "Hacker News",
-    "published": "2026-11-03T00:09:36+00:00",
+    "published": "2026-11-02T23:47:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50346164\">Comments</a>"
-  },
-  {
-    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-    "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-    "source": "Hacker News",
-    "published": "2026-11-03T00:08:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50346153\">Comments</a>"
-  },
-  {
-    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-    "source": "Hacker News",
-    "published": "2026-11-02T22:30:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50344919\">Comments</a>"
-  },
-  {
-    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-    "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-    "source": "Hacker News",
-    "published": "2026-11-02T21:42:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50344224\">Comments</a>"
-  },
-  {
-    "title": "Egoless Mathematics in the AI Era",
-    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-    "source": "Hacker News",
-    "published": "2026-11-02T18:54:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50341736\">Comments</a>"
-  },
-  {
-    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-    "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-    "source": "Hacker News",
-    "published": "2026-11-02T18:39:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50341462\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50345924\">Comments</a>"
   },
   {
     "title": "Astra can read and write weights to improve Qwen",
@@ -78,14 +70,6 @@
     "published": "2026-11-02T17:47:40+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50340619\">Comments</a>"
-  },
-  {
-    "title": "Polyend releases the Tracker firmware source code",
-    "link": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-    "source": "Hacker News",
-    "published": "2026-11-02T17:20:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50340159\">Comments</a>"
   },
   {
     "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
@@ -120,28 +104,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50339221\">Comments</a>"
   },
   {
-    "title": "Ask HN: Who is hiring? (November 2026)",
-    "link": "https://news.ycombinator.com/item?id=50338728",
-    "source": "Hacker News",
-    "published": "2026-11-02T16:01:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50338728\">Comments</a>"
-  },
-  {
-    "title": "WTF Ubuntu?",
-    "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-    "source": "Hacker News",
-    "published": "2026-11-02T14:52:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50337608\">Comments</a>"
-  },
-  {
     "title": "If you love a website, back it up",
     "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
     "source": "Hacker News",
     "published": "2026-11-02T13:25:35+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50336518\">Comments</a>"
+  },
+  {
+    "title": "European RISC-V Industrial Computing Initiative",
+    "link": "https://erici.eu",
+    "source": "Hacker News",
+    "published": "2026-11-02T08:58:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50334523\">Comments</a>"
+  },
+  {
+    "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+    "link": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+    "source": "Hacker News",
+    "published": "2026-11-02T01:34:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50331988\">Comments</a>"
+  },
+  {
+    "title": "Vathographs: Photographic depth maps as creative expression",
+    "link": "https://vathography.com/",
+    "source": "Hacker News",
+    "published": "2026-11-02T01:11:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50331800\">Comments</a>"
   },
   {
     "title": "Resisting Cognitive Surrender",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50323123\">Comments</a>"
   },
   {
-    "title": "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
-    "link": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
+    "title": "Toit v2.0.0",
+    "link": "https://toit.io/blog/toit-v2-0-0/",
     "source": "Hacker News",
-    "published": "2026-10-31T18:50:43+00:00",
+    "published": "2026-11-01T00:25:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50318874\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50321605\">Comments</a>"
+  },
+  {
+    "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+    "link": "https://www.argmin.net/p/galactus-the-devourer",
+    "source": "Hacker News",
+    "published": "2026-10-31T22:31:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50320904\">Comments</a>"
   }
 ]
