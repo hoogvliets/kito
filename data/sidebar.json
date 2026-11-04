@@ -1,11 +1,59 @@
 [
   {
-    "title": "Google researchers demand freedom to tell the world what they know about AI",
-    "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+    "title": "The Internals of PostgreSQL",
+    "link": "https://www.interdb.jp/pg/index.html",
     "source": "Hacker News",
-    "published": "2026-11-03T17:55:26+00:00",
+    "published": "2026-11-03T21:51:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50355504\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>"
+  },
+  {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "link": "https://arxiv.org/abs/2605.29713",
+    "source": "Hacker News",
+    "published": "2026-11-03T21:40:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358582\">Comments</a>"
+  },
+  {
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "source": "Hacker News",
+    "published": "2026-11-03T21:39:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>"
+  },
+  {
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "source": "Hacker News",
+    "published": "2026-11-03T21:26:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358422\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+    "link": "https://github.com/finic-ai/kairos",
+    "source": "Hacker News",
+    "published": "2026-11-03T21:16:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358314\">Comments</a>"
+  },
+  {
+    "title": "macOS 27 does not support CoreStorage volumes",
+    "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+    "source": "Hacker News",
+    "published": "2026-11-03T19:27:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50356944\">Comments</a>"
+  },
+  {
+    "title": "Introduction to Programming in ATS",
+    "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+    "source": "Hacker News",
+    "published": "2026-11-03T19:25:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50356913\">Comments</a>"
   },
   {
     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -24,76 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50354960\">Comments</a>"
   },
   {
-    "title": "Ashby (YC W19) Is Hiring EMs",
-    "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-    "source": "Hacker News",
-    "published": "2026-11-03T17:00:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50354582\">Comments</a>"
-  },
-  {
     "title": "Stringman, an $800 open-source room scale gripper robot",
     "link": "https://neufangled.com/",
     "source": "Hacker News",
     "published": "2026-11-03T16:47:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50354358\">Comments</a>"
-  },
-  {
-    "title": "Gitbook Breached",
-    "link": "https://news.ycombinator.com/item?id=50354336",
-    "source": "Hacker News",
-    "published": "2026-11-03T16:45:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50354336\">Comments</a>"
-  },
-  {
-    "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-    "link": "https://arxiv.org/abs/2611.02618",
-    "source": "Hacker News",
-    "published": "2026-11-03T16:40:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50354250\">Comments</a>"
-  },
-  {
-    "title": "Bear turns 10, and it still feels like day one",
-    "link": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-    "source": "Hacker News",
-    "published": "2026-11-03T15:41:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353383\">Comments</a>"
-  },
-  {
-    "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-    "link": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-    "source": "Hacker News",
-    "published": "2026-11-03T15:38:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353335\">Comments</a>"
-  },
-  {
-    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-    "source": "Hacker News",
-    "published": "2026-11-03T15:29:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353229\">Comments</a>"
-  },
-  {
-    "title": "Google will turn off search for schools that reject AI",
-    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-    "source": "Hacker News",
-    "published": "2026-11-03T15:25:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353192\">Comments</a>"
-  },
-  {
-    "title": "Tiny Basic for Arduino",
-    "link": "https://dilshan.github.io/tiny-basic/",
-    "source": "Hacker News",
-    "published": "2026-11-03T15:17:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353073\">Comments</a>"
   },
   {
     "title": "Mac at Any Scale",
@@ -104,36 +88,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50352758\">Comments</a>"
   },
   {
-    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-    "link": "https://news.ycombinator.com/item?id=50352757",
+    "title": "There is no posttraining data commons",
+    "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
     "source": "Hacker News",
-    "published": "2026-11-03T14:53:41+00:00",
+    "published": "2026-11-03T14:45:47+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50352757\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50352641\">Comments</a>"
   },
   {
-    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-    "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+    "link": "https://hackertv.org",
     "source": "Hacker News",
-    "published": "2026-11-03T12:21:17+00:00",
+    "published": "2026-11-03T01:18:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50351111\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50346755\">Comments</a>"
   },
   {
-    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-    "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "title": "Union Types and Option Types (2025)",
+    "link": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
     "source": "Hacker News",
-    "published": "2026-11-03T07:56:21+00:00",
+    "published": "2026-11-02T20:08:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50349276\">Comments</a>"
-  },
-  {
-    "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-    "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-    "source": "Hacker News",
-    "published": "2026-11-02T19:18:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50342119\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50342931\">Comments</a>"
   },
   {
     "title": "Jailbreaking my car's navigation system just so I can change the time",
@@ -144,6 +120,22 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50339288\">Comments</a>"
   },
   {
+    "title": "Curiosity Traps",
+    "link": "https://www.autodidacts.io/curiosity-traps/",
+    "source": "Hacker News",
+    "published": "2026-11-02T15:40:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50338334\">Comments</a>"
+  },
+  {
+    "title": "Killing what can't be handled \u2013 putting a spaghetti demon to eternal rest",
+    "link": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+    "source": "Hacker News",
+    "published": "2026-11-02T15:18:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50337980\">Comments</a>"
+  },
+  {
     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
     "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
     "source": "Hacker News",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50336918\">Comments</a>"
   },
   {
-    "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
-    "link": "https://www.mattkeeter.com/projects/antimony/3/",
+    "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+    "link": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
     "source": "Hacker News",
-    "published": "2026-11-02T08:29:40+00:00",
+    "published": "2026-11-02T04:31:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50334363\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50333131\">Comments</a>"
+  },
+  {
+    "title": "We're Training a Figma-Fluent Editing Model",
+    "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "source": "Hacker News",
+    "published": "2026-11-01T04:05:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50322603\">Comments</a>"
   }
 ]
