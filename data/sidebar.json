@@ -1,30 +1,86 @@
 [
   {
-    "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
-    "link": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+    "title": "SpaceX \u2013 Starfall",
+    "link": "https://www.spacex.com/starfall",
     "source": "Hacker News",
-    "published": "2026-11-04T18:20:06+00:00",
+    "published": "2026-11-05T00:18:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369462\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>"
   },
   {
-    "title": "This Month in Ladybird \u2013 October 2026",
-    "link": "https://ladybird.org/newsletter/2026-10-31/",
+    "title": "Introducing Images 2.6",
+    "link": "https://openai.com/index/introducing-images-2-6/",
     "source": "Hacker News",
-    "published": "2026-11-04T17:59:35+00:00",
+    "published": "2026-11-04T23:35:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369194\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50372945\">Comments</a>"
   },
   {
-    "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "link": "https://icode4.coffee/?p=1746",
     "source": "Hacker News",
-    "published": "2026-11-04T17:55:29+00:00",
+    "published": "2026-11-04T22:01:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369146\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>"
   },
   {
-    "title": "A New Go API for JSON",
+    "title": "Residential proxies detected on White House network",
+    "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "source": "Hacker News",
+    "published": "2026-11-04T20:45:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
+    "link": "https://github.com/gauge-sh/gauge-cli",
+    "source": "Hacker News",
+    "published": "2026-11-04T20:31:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50371090\">Comments</a>"
+  },
+  {
+    "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+    "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "source": "Hacker News",
+    "published": "2026-11-04T19:55:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50370654\">Comments</a>"
+  },
+  {
+    "title": "Insects don't swarm at LED lights",
+    "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+    "source": "Hacker News",
+    "published": "2026-11-04T19:50:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50370610\">Comments</a>"
+  },
+  {
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "link": "https://www.ricursive.com/ripple",
+    "source": "Hacker News",
+    "published": "2026-11-04T18:53:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>"
+  },
+  {
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "link": "https://fireflyk64.github.io/wcmulti/",
+    "source": "Hacker News",
+    "published": "2026-11-04T18:51:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369895\">Comments</a>"
+  },
+  {
+    "title": "Conductor is joining Meta",
+    "link": "https://www.conductor.build/announcement",
+    "source": "Hacker News",
+    "published": "2026-11-04T18:22:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369503\">Comments</a>"
+  },
+  {
+    "title": "A new Go API for JSON",
     "link": "https://go.dev/blog/jsonv2",
     "source": "Hacker News",
     "published": "2026-11-04T17:52:11+00:00",
@@ -48,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50368626\">Comments</a>"
   },
   {
-    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-    "source": "Hacker News",
-    "published": "2026-11-04T15:38:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50367125\">Comments</a>"
-  },
-  {
-    "title": "Letting users trust their own MCP clients, without opening a phishing hole",
-    "link": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
-    "source": "Hacker News",
-    "published": "2026-11-04T15:30:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50367004\">Comments</a>"
-  },
-  {
     "title": "Kimi K3.1 Pro model weights are out",
     "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
     "source": "Hacker News",
@@ -72,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50366999\">Comments</a>"
   },
   {
-    "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-    "link": "https://pcdealcheck.com/",
+    "title": "OpenAI to acquire Pierre Computer Company",
+    "link": "https://openai.com/index/openai-to-acquire-pierre/",
     "source": "Hacker News",
-    "published": "2026-11-04T15:25:33+00:00",
+    "published": "2026-11-04T15:21:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366929\">Comments</a>"
-  },
-  {
-    "title": "Adding Window Functions to a Spreadsheet",
-    "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
-    "source": "Hacker News",
-    "published": "2026-11-04T15:21:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366860\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366863\">Comments</a>"
   },
   {
     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
@@ -96,52 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50366522\">Comments</a>"
   },
   {
-    "title": "Tencent Hy4",
-    "link": "https://hy.tencent.ai/research/hy4",
-    "source": "Hacker News",
-    "published": "2026-11-04T14:11:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50365780\">Comments</a>"
-  },
-  {
-    "title": "North Korean fake job interview led to $6.3B Binance heist",
-    "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-    "source": "Hacker News",
-    "published": "2026-11-04T14:09:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50365755\">Comments</a>"
-  },
-  {
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "source": "Hacker News",
     "published": "2026-11-04T11:52:17+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50364336\">Comments</a>"
-  },
-  {
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "link": "https://news.ycombinator.com/item?id=50363461",
-    "source": "Hacker News",
-    "published": "2026-11-04T10:10:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50363461\">Comments</a>"
-  },
-  {
-    "title": "Incident with Pull Requests, Git Operations and Issues",
-    "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "source": "Hacker News",
-    "published": "2026-11-04T10:00:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50363378\">Comments</a>"
-  },
-  {
-    "title": "Verification Is Not Knowledge: Science needs more than answers",
-    "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-    "source": "Hacker News",
-    "published": "2026-11-04T09:01:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50363019\">Comments</a>"
   },
   {
     "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
@@ -152,11 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50362905\">Comments</a>"
   },
   {
-    "title": "Jelly Sheet",
-    "link": "https://mrdoob.github.io/codevember-2026/01/",
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
     "source": "Hacker News",
-    "published": "2026-11-04T03:40:50+00:00",
+    "published": "2026-11-02T15:48:45+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50361268\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50338474\">Comments</a>"
+  },
+  {
+    "title": "Bf16 might be freezing your weight updates",
+    "link": "https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba",
+    "source": "Hacker News",
+    "published": "2026-11-02T14:23:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50337225\">Comments</a>"
   }
 ]
