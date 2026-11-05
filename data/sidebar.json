@@ -1,19 +1,43 @@
 [
   {
-    "title": "SpaceX \u2013 Starfall",
-    "link": "https://www.spacex.com/starfall",
+    "title": "Baidu dropped ERNIE 5.5 Flash Base",
+    "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
     "source": "Hacker News",
-    "published": "2026-11-05T00:18:18+00:00",
+    "published": "2026-11-05T09:29:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50377078\">Comments</a>"
   },
   {
-    "title": "Introducing Images 2.6",
+    "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "link": "https://www.altera.com/newsroom/agilex-2x",
+    "source": "Hacker News",
+    "published": "2026-11-05T05:47:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50375653\">Comments</a>"
+  },
+  {
+    "title": "Lemmings CSS Animation",
+    "link": "https://markblah.github.io/lemmings/",
+    "source": "Hacker News",
+    "published": "2026-11-05T04:54:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50375354\">Comments</a>"
+  },
+  {
+    "title": "Images 2.6",
     "link": "https://openai.com/index/introducing-images-2-6/",
     "source": "Hacker News",
     "published": "2026-11-04T23:35:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50372945\">Comments</a>"
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "source": "Hacker News",
+    "published": "2026-11-04T23:33:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50372929\">Comments</a>"
   },
   {
     "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
@@ -30,14 +54,6 @@
     "published": "2026-11-04T20:45:18+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
-    "link": "https://github.com/gauge-sh/gauge-cli",
-    "source": "Hacker News",
-    "published": "2026-11-04T20:31:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50371090\">Comments</a>"
   },
   {
     "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
@@ -88,22 +104,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50369106\">Comments</a>"
   },
   {
-    "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
-    "link": "https://news.ycombinator.com/item?id=50368804",
-    "source": "Hacker News",
-    "published": "2026-11-04T17:31:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50368804\">Comments</a>"
-  },
-  {
-    "title": "Progress on provable inference for large language models",
-    "link": "https://www.anthropic.com/research/provable-inference",
-    "source": "Hacker News",
-    "published": "2026-11-04T17:17:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50368626\">Comments</a>"
-  },
-  {
     "title": "Kimi K3.1 Pro model weights are out",
     "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
     "source": "Hacker News",
@@ -112,20 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50366999\">Comments</a>"
   },
   {
-    "title": "OpenAI to acquire Pierre Computer Company",
-    "link": "https://openai.com/index/openai-to-acquire-pierre/",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "link": "https://news.ycombinator.com/item?id=50366117",
     "source": "Hacker News",
-    "published": "2026-11-04T15:21:21+00:00",
+    "published": "2026-11-04T14:37:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366863\">Comments</a>"
-  },
-  {
-    "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-    "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-    "source": "Hacker News",
-    "published": "2026-11-04T15:01:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366522\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366117\">Comments</a>"
   },
   {
     "title": "AI is forcing us to pay off 40 years of technical debt",
@@ -136,27 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50364336\">Comments</a>"
   },
   {
-    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "title": "TextEdit vs. Pages",
+    "link": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
     "source": "Hacker News",
-    "published": "2026-11-04T08:46:29+00:00",
+    "published": "2026-11-03T15:00:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50362905\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50352846\">Comments</a>"
   },
   {
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "title": "Future Maintenance of Mbed TLS",
+    "link": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
     "source": "Hacker News",
-    "published": "2026-11-02T15:48:45+00:00",
+    "published": "2026-11-03T07:39:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50338474\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50349165\">Comments</a>"
   },
   {
-    "title": "Bf16 might be freezing your weight updates",
-    "link": "https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba",
+    "title": "Spreading Liquid with Three.js",
+    "link": "https://mofu-dev.com/en/blog/fluid-foundation/",
     "source": "Hacker News",
-    "published": "2026-11-02T14:23:37+00:00",
+    "published": "2026-11-02T18:45:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50337225\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50341576\">Comments</a>"
+  },
+  {
+    "title": "Partial Operator Precedence",
+    "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+    "source": "Hacker News",
+    "published": "2026-11-02T17:22:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50340195\">Comments</a>"
   }
 ]
