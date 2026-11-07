@@ -1,27 +1,51 @@
 [
   {
-    "title": "Outbound SIP calling is now available to all organizations",
-    "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+    "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+    "link": "https://bong.glendalab.com",
     "source": "Hacker News",
-    "published": "2026-11-06T23:03:55+00:00",
+    "published": "2026-11-07T07:48:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50399695\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50402535\">Comments</a>"
   },
   {
-    "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-    "link": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+    "title": "The Components of Agent Memory",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
     "source": "Hacker News",
-    "published": "2026-11-06T23:00:46+00:00",
+    "published": "2026-11-07T06:39:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50399657\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50402212\">Comments</a>"
   },
   {
-    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "title": "Asahi Linux Progress Linux 7.3",
+    "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
     "source": "Hacker News",
-    "published": "2026-11-06T22:50:43+00:00",
+    "published": "2026-11-07T05:20:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50399569\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50401867\">Comments</a>"
+  },
+  {
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "source": "Hacker News",
+    "published": "2026-11-07T04:54:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50401740\">Comments</a>"
+  },
+  {
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "source": "Hacker News",
+    "published": "2026-11-06T23:37:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50399991\">Comments</a>"
+  },
+  {
+    "title": "Libghostty 1.0",
+    "link": "https://mitchellh.com/writing/libghostty-1-0",
+    "source": "Hacker News",
+    "published": "2026-11-06T23:30:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>"
   },
   {
     "title": "AI is dramatically accelerating AI research",
@@ -30,14 +54,6 @@
     "published": "2026-11-06T20:27:23+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50397994\">Comments</a>"
-  },
-  {
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "source": "Hacker News",
-    "published": "2026-11-06T20:09:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50397711\">Comments</a>"
   },
   {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
@@ -56,52 +72,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>"
   },
   {
-    "title": "Restaurant Delivery Payment-Skimming Campaign",
-    "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "title": "GitHub's new Git storage architecture",
+    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
     "source": "Hacker News",
-    "published": "2026-11-06T19:19:27+00:00",
+    "published": "2026-11-06T19:24:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50397017\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50397099\">Comments</a>"
   },
   {
-    "title": "Replit rebuilt its sandbox engine with microVMs",
-    "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+    "title": "Notes on San Marino",
+    "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
     "source": "Hacker News",
-    "published": "2026-11-06T19:06:10+00:00",
+    "published": "2026-11-06T17:12:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50396834\">Comments</a>"
-  },
-  {
-    "title": "Memorilla: Latent Semantic Memory for LLMs",
-    "link": "https://arxiv.org/abs/2610.21375",
-    "source": "Hacker News",
-    "published": "2026-11-06T18:03:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50395919\">Comments</a>"
-  },
-  {
-    "title": "Size-It-Up (Game)",
-    "link": "https://magnitudle.com/size-it-up",
-    "source": "Hacker News",
-    "published": "2026-11-06T17:59:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50395869\">Comments</a>"
-  },
-  {
-    "title": "Devvm.dev: One VM for every project",
-    "link": "https://devvm.dev/",
-    "source": "Hacker News",
-    "published": "2026-11-06T17:30:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50395450\">Comments</a>"
-  },
-  {
-    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "source": "Hacker News",
-    "published": "2026-11-06T16:54:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50394906\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50395183\">Comments</a>"
   },
   {
     "title": "First steps in bare-metal programming using UEFI",
@@ -110,22 +94,6 @@
     "published": "2026-11-06T16:50:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50394855\">Comments</a>"
-  },
-  {
-    "title": "How octopuses squeeze through too small gaps",
-    "link": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-    "source": "Hacker News",
-    "published": "2026-11-06T13:57:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50392348\">Comments</a>"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "source": "Hacker News",
-    "published": "2026-11-06T13:35:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50392118\">Comments</a>"
   },
   {
     "title": "Tesla to wind down Cybertruck production",
@@ -144,19 +112,51 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50388001\">Comments</a>"
   },
   {
-    "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-    "link": "https://github.com/piercefreeman/waymark",
+    "title": "The great butter and cheese fire of 1991",
+    "link": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
     "source": "Hacker News",
-    "published": "2026-11-05T14:06:31+00:00",
+    "published": "2026-11-05T00:44:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50379221\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50373513\">Comments</a>"
   },
   {
-    "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+    "title": "8088 Domination Post-Mortem",
+    "link": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
     "source": "Hacker News",
-    "published": "2026-11-03T16:43:54+00:00",
+    "published": "2026-11-04T18:06:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50354308\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50369283\">Comments</a>"
+  },
+  {
+    "title": "PostgreSQL Internals [pdf]",
+    "link": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+    "source": "Hacker News",
+    "published": "2026-11-04T05:22:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50361765\">Comments</a>"
+  },
+  {
+    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "link": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "source": "Hacker News",
+    "published": "2026-11-04T02:19:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50360810\">Comments</a>"
+  },
+  {
+    "title": "Can GROUP BY still be optimized after all these years?",
+    "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+    "source": "Hacker News",
+    "published": "2026-11-03T16:30:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50354097\">Comments</a>"
+  },
+  {
+    "title": "The Flash C Compiler",
+    "link": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+    "source": "Hacker News",
+    "published": "2026-11-03T14:49:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50352701\">Comments</a>"
   }
 ]
