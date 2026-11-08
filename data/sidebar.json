@@ -1,11 +1,51 @@
 [
   {
-    "title": "Commodore PET \u2013 The Worlds First Personal Computer",
-    "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
     "source": "Hacker News",
-    "published": "2026-11-07T23:15:34+00:00",
+    "published": "2026-11-08T08:40:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50408961\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>"
+  },
+  {
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "source": "Hacker News",
+    "published": "2026-11-08T04:14:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50410359\">Comments</a>"
+  },
+  {
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "link": "https://github.com/dmunozv04/isponsorblocktv",
+    "source": "Hacker News",
+    "published": "2026-11-08T03:47:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50410249\">Comments</a>"
+  },
+  {
+    "title": "Goodbye Claude, Hello Pi",
+    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "source": "Hacker News",
+    "published": "2026-11-08T03:11:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>"
+  },
+  {
+    "title": "Consumer brain wave headsets threaten privacy",
+    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "source": "Hacker News",
+    "published": "2026-11-08T02:02:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50409856\">Comments</a>"
+  },
+  {
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "link": "https://github.com/crmne/zapfast",
+    "source": "Hacker News",
+    "published": "2026-11-08T02:02:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50409855\">Comments</a>"
   },
   {
     "title": "GitHub New pull request overview page in public preview",
@@ -22,14 +62,6 @@
     "published": "2026-11-07T22:38:58+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50408713\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Where Were We",
-    "link": "https://wherewerewe.app/",
-    "source": "Hacker News",
-    "published": "2026-11-07T21:08:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50408082\">Comments</a>"
   },
   {
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -56,14 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50406563\">Comments</a>"
   },
   {
-    "title": "Five memorable books about programming (2008)",
-    "link": "https://prog21.dadgum.com/19.html",
-    "source": "Hacker News",
-    "published": "2026-11-07T17:30:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50406319\">Comments</a>"
-  },
-  {
     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
     "link": "https://github.com/hedgerow-dev/coldframe",
     "source": "Hacker News",
@@ -78,38 +102,6 @@
     "published": "2026-11-07T17:19:00+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50406222\">Comments</a>"
-  },
-  {
-    "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "source": "Hacker News",
-    "published": "2026-11-07T17:06:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50406111\">Comments</a>"
-  },
-  {
-    "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-    "link": "https://www.retrosongbird.com/",
-    "source": "Hacker News",
-    "published": "2026-11-07T15:06:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50405172\">Comments</a>"
-  },
-  {
-    "title": "The $8 Linux Computer (2022)",
-    "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-    "source": "Hacker News",
-    "published": "2026-11-07T14:00:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50404599\">Comments</a>"
-  },
-  {
-    "title": "Cancer at Sea",
-    "link": "https://biographic.com/cancer-at-sea/",
-    "source": "Hacker News",
-    "published": "2026-11-07T13:37:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50404438\">Comments</a>"
   },
   {
     "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
@@ -136,6 +128,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50403052\">Comments</a>"
   },
   {
+    "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+    "link": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+    "source": "Hacker News",
+    "published": "2026-11-05T13:44:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50378974\">Comments</a>"
+  },
+  {
     "title": "Uranium cubes reveal why the German nuclear project failed",
     "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
     "source": "Hacker News",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50377661\">Comments</a>"
   },
   {
-    "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-    "link": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+    "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "link": "https://clj.rs/",
     "source": "Hacker News",
-    "published": "2026-11-04T03:30:28+00:00",
+    "published": "2026-11-04T15:23:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50361212\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>"
   },
   {
-    "title": "Turning every radio into a radar",
-    "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+    "title": "Amsterdam School",
+    "link": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
     "source": "Hacker News",
-    "published": "2026-11-03T21:18:48+00:00",
+    "published": "2026-11-03T13:50:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50358337\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50351954\">Comments</a>"
   }
 ]
