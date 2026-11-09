@@ -1,11 +1,51 @@
 [
   {
-    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-    "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "title": "RIP, Harvest",
+    "link": "https://aphyr.com/posts/427-rip-harvest",
     "source": "Hacker News",
-    "published": "2026-11-08T20:26:43+00:00",
+    "published": "2026-11-09T01:58:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416801\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50420035\">Comments</a>"
+  },
+  {
+    "title": "Unlocking any car from X brand in most of the world",
+    "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "source": "Hacker News",
+    "published": "2026-11-09T00:10:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>"
+  },
+  {
+    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "source": "Hacker News",
+    "published": "2026-11-08T23:28:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50418818\">Comments</a>"
+  },
+  {
+    "title": "Chimera Vocal Synth",
+    "link": "https://chimera-vocal-synth.vercel.app/",
+    "source": "Hacker News",
+    "published": "2026-11-08T22:36:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>"
+  },
+  {
+    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+    "link": "https://ketchup3d.github.io/app/",
+    "source": "Hacker News",
+    "published": "2026-11-08T22:35:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "link": "https://news.ycombinator.com/item?id=50417407",
+    "source": "Hacker News",
+    "published": "2026-11-08T21:20:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>"
   },
   {
     "title": "The Web Is More Than Enough, by Paul Ford",
@@ -40,60 +80,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>"
   },
   {
-    "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-    "link": "https://kevinboone.me/cpmzork.html",
+    "title": "Playing with the STM32MP2",
+    "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
     "source": "Hacker News",
-    "published": "2026-11-08T18:33:50+00:00",
+    "published": "2026-11-08T19:04:07+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415750\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416014\">Comments</a>"
   },
   {
-    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "source": "Hacker News",
     "published": "2026-11-08T18:16:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>"
-  },
-  {
-    "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-    "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-    "source": "Hacker News",
-    "published": "2026-11-08T17:20:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415172\">Comments</a>"
-  },
-  {
-    "title": "A Little Snitch for Windows",
-    "link": "https://packethound.app/",
-    "source": "Hacker News",
-    "published": "2026-11-08T17:16:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415135\">Comments</a>"
-  },
-  {
-    "title": "A field guide to CAPTCHA types and how they break",
-    "link": "https://github.com/vsmutok/FuckCaptcha",
-    "source": "Hacker News",
-    "published": "2026-11-08T17:09:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415078\">Comments</a>"
-  },
-  {
-    "title": "I'm not a fan of Deno's security model (2024)",
-    "link": "https://goldstein.lol/posts/deno-security/",
-    "source": "Hacker News",
-    "published": "2026-11-08T14:42:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50413769\">Comments</a>"
-  },
-  {
-    "title": "How to prove equations using diagrams, part 1",
-    "link": "https://www.epatters.org/post/e-graphs-1/",
-    "source": "Hacker News",
-    "published": "2026-11-08T12:51:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50412830\">Comments</a>"
   },
   {
     "title": "Writing as a thinking tool",
@@ -112,20 +112,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>"
   },
   {
-    "title": "Goodbye Claude, hello Pi",
-    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "title": "Are big problems more difficult to solve?",
+    "link": "https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/",
     "source": "Hacker News",
-    "published": "2026-11-08T03:11:48+00:00",
+    "published": "2026-11-07T22:24:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50408630\">Comments</a>"
   },
   {
-    "title": "The Reconstruction of Torn Documents",
-    "link": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
     "source": "Hacker News",
-    "published": "2026-11-06T09:05:18+00:00",
+    "published": "2026-11-07T14:51:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50389923\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50405043\">Comments</a>"
   },
   {
     "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>"
   },
   {
-    "title": "Porting Android 16 to my blind mother's keypad phone",
-    "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "title": "Taco: The Tensor Algebra Compiler",
+    "link": "http://tensor-compiler.org/",
     "source": "Hacker News",
-    "published": "2026-11-04T15:18:59+00:00",
+    "published": "2026-11-04T01:07:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50366821\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50360369\">Comments</a>"
   },
   {
-    "title": "Show HN: Vegetable Gardening for Engineers",
-    "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+    "title": "The History of Djgpp (1998)",
+    "link": "https://www.delorie.com/djgpp/history.html",
     "source": "Hacker News",
-    "published": "2026-11-04T08:54:27+00:00",
+    "published": "2026-11-03T16:10:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50362963\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353814\">Comments</a>"
   }
 ]
