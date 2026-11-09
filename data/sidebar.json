@@ -1,11 +1,67 @@
 [
   {
-    "title": "RIP, Harvest",
-    "link": "https://aphyr.com/posts/427-rip-harvest",
+    "title": "Children of Men: The Future Is a Mirror for the Present",
+    "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
     "source": "Hacker News",
-    "published": "2026-11-09T01:58:21+00:00",
+    "published": "2026-11-09T13:27:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50420035\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50425303\">Comments</a>"
+  },
+  {
+    "title": "Humans will never again create a project like Wikipedia",
+    "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+    "source": "Hacker News",
+    "published": "2026-11-09T12:30:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50424704\">Comments</a>"
+  },
+  {
+    "title": "Fold Epic Paper Airplanes",
+    "link": "https://www.foldableflight.com",
+    "source": "Hacker News",
+    "published": "2026-11-09T12:19:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50424581\">Comments</a>"
+  },
+  {
+    "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
+    "link": "https://github.com/samir-sarwar/samir-vllm",
+    "source": "Hacker News",
+    "published": "2026-11-09T11:36:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50424199\">Comments</a>"
+  },
+  {
+    "title": "What is malloc doing, anyway?",
+    "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+    "source": "Hacker News",
+    "published": "2026-11-09T11:31:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50424157\">Comments</a>"
+  },
+  {
+    "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+    "link": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+    "source": "Hacker News",
+    "published": "2026-11-09T10:11:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50423569\">Comments</a>"
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "link": "https://arxiv.org/abs/2610.14162",
+    "source": "Hacker News",
+    "published": "2026-11-09T07:20:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50422168\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "link": "https://github.com/OmniJev/Flide",
+    "source": "Hacker News",
+    "published": "2026-11-09T04:43:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50421155\">Comments</a>"
   },
   {
     "title": "Unlocking any car from X brand in most of the world",
@@ -16,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>"
   },
   {
-    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-    "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "title": "I'm not convinced the AI bubble exists",
+    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "source": "Hacker News",
-    "published": "2026-11-08T23:28:01+00:00",
+    "published": "2026-11-08T23:44:36+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50418818\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50418975\">Comments</a>"
   },
   {
     "title": "Chimera Vocal Synth",
@@ -40,31 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>"
   },
   {
-    "title": "Ask HN: What are you working on? (November 2026)",
-    "link": "https://news.ycombinator.com/item?id=50417407",
-    "source": "Hacker News",
-    "published": "2026-11-08T21:20:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>"
-  },
-  {
-    "title": "The Web Is More Than Enough, by Paul Ford",
-    "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-    "source": "Hacker News",
-    "published": "2026-11-08T19:48:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416456\">Comments</a>"
-  },
-  {
-    "title": "How I Fight AI Brain Fry",
-    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-    "source": "Hacker News",
-    "published": "2026-11-08T19:37:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>"
-  },
-  {
-    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "title": "Outlook.com is rejecting email from domains without DMARC",
     "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
     "source": "Hacker News",
     "published": "2026-11-08T19:20:32+00:00",
@@ -80,60 +112,44 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>"
   },
   {
-    "title": "Playing with the STM32MP2",
-    "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+    "title": "Psalm 7 release: PHP security&static analysis software",
+    "link": "https://psalm.dev/articles/psalm-7",
     "source": "Hacker News",
-    "published": "2026-11-08T19:04:07+00:00",
+    "published": "2026-11-07T17:06:18+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416014\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50406107\">Comments</a>"
   },
   {
-    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
+    "link": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
     "source": "Hacker News",
-    "published": "2026-11-08T18:16:07+00:00",
+    "published": "2026-11-07T16:51:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50405979\">Comments</a>"
   },
   {
-    "title": "Writing as a thinking tool",
-    "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "title": "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget",
+    "link": "https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/",
     "source": "Hacker News",
-    "published": "2026-11-08T10:41:52+00:00",
+    "published": "2026-11-07T05:27:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50412067\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50401910\">Comments</a>"
   },
   {
-    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "link": "https://github.com/synchopate/llama-modchip",
+    "title": "How Australia played the first music on a computer",
+    "link": "https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/",
     "source": "Hacker News",
-    "published": "2026-11-08T10:22:04+00:00",
+    "published": "2026-11-06T04:46:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50388335\">Comments</a>"
   },
   {
-    "title": "Are big problems more difficult to solve?",
-    "link": "https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/",
+    "title": "Quasi-Logarithmic Kitchen Timer",
+    "link": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
     "source": "Hacker News",
-    "published": "2026-11-07T22:24:30+00:00",
+    "published": "2026-11-05T01:15:15+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50408630\">Comments</a>"
-  },
-  {
-    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-    "source": "Hacker News",
-    "published": "2026-11-07T14:51:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50405043\">Comments</a>"
-  },
-  {
-    "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-    "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-    "source": "Hacker News",
-    "published": "2026-11-04T23:23:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50372838\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50373768\">Comments</a>"
   },
   {
     "title": "Declarative Dragging",
@@ -142,21 +158,5 @@
     "published": "2026-11-04T17:05:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>"
-  },
-  {
-    "title": "Taco: The Tensor Algebra Compiler",
-    "link": "http://tensor-compiler.org/",
-    "source": "Hacker News",
-    "published": "2026-11-04T01:07:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50360369\">Comments</a>"
-  },
-  {
-    "title": "The History of Djgpp (1998)",
-    "link": "https://www.delorie.com/djgpp/history.html",
-    "source": "Hacker News",
-    "published": "2026-11-03T16:10:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50353814\">Comments</a>"
   }
 ]
