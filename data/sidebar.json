@@ -1,19 +1,59 @@
 [
   {
-    "title": "TPUs",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "Hacker News",
+    "published": "2026-11-10T03:20:06+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50435660\">Comments</a>"
+  },
+  {
+    "title": "Formalizing CPython",
+    "link": "https://broyojo.com/python-formalization/",
+    "source": "Hacker News",
+    "published": "2026-11-10T01:56:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50435105\">Comments</a>"
+  },
+  {
+    "title": "Locating the source of a mysterious beep",
+    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "source": "Hacker News",
+    "published": "2026-11-10T00:10:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50434310\">Comments</a>"
+  },
+  {
+    "title": "Horible public key tricks",
+    "link": "https://maurycyz.com/projects/badcert/",
+    "source": "Hacker News",
+    "published": "2026-11-10T00:07:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50434264\">Comments</a>"
+  },
+  {
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "source": "Hacker News",
+    "published": "2026-11-09T23:08:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50433659\">Comments</a>"
+  },
+  {
+    "title": "Exact \u2013 a new cross platform UI framework",
+    "link": "https://github.com/expo/exact",
+    "source": "Hacker News",
+    "published": "2026-11-09T22:59:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50433541\">Comments</a>"
+  },
+  {
+    "title": "TPU 8tx and TPU 8i Max",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
     "source": "Hacker News",
     "published": "2026-11-09T21:56:57+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50432831\">Comments</a>"
-  },
-  {
-    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-    "source": "Hacker News",
-    "published": "2026-11-09T20:04:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50431144\">Comments</a>"
   },
   {
     "title": "USPS now offers official ZIP Code boundary polygons",
@@ -24,31 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50431058\">Comments</a>"
   },
   {
-    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-    "link": "https://parkgraph.com/parking-app-fees",
-    "source": "Hacker News",
-    "published": "2026-11-09T19:55:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50430991\">Comments</a>"
-  },
-  {
-    "title": "CUI \u2013 Native UI components for C",
-    "link": "https://yappologistic.github.io/CUI/",
-    "source": "Hacker News",
-    "published": "2026-11-09T19:35:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50430621\">Comments</a>"
-  },
-  {
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "source": "Hacker News",
-    "published": "2026-11-09T18:56:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50429906\">Comments</a>"
-  },
-  {
-    "title": "E-means: 10x faster k-means at equal loss",
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
     "link": "https://e-means.github.io/",
     "source": "Hacker News",
     "published": "2026-11-09T18:45:43+00:00",
@@ -56,15 +72,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50429734\">Comments</a>"
   },
   {
-    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-    "link": "https://meowdisplay.app/",
-    "source": "Hacker News",
-    "published": "2026-11-09T18:39:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50429636\">Comments</a>"
-  },
-  {
-    "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+    "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
     "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
     "source": "Hacker News",
     "published": "2026-11-09T18:25:01+00:00",
@@ -80,7 +88,15 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50429426\">Comments</a>"
   },
   {
-    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "Hacker News",
+    "published": "2026-11-09T18:01:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50429068\">Comments</a>"
+  },
+  {
+    "title": "Muse Ember: Our smallest, most efficient model",
     "link": "https://research.meta.ai/blog/muse-ember",
     "source": "Hacker News",
     "published": "2026-11-09T17:58:46+00:00",
@@ -96,14 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50428907\">Comments</a>"
   },
   {
-    "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-    "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-    "source": "Hacker News",
-    "published": "2026-11-09T17:00:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50428266\">Comments</a>"
-  },
-  {
     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
     "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
     "source": "Hacker News",
@@ -112,7 +120,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50427362\">Comments</a>"
   },
   {
-    "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
     "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
     "source": "Hacker News",
     "published": "2026-11-09T14:31:39+00:00",
@@ -120,7 +128,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50426175\">Comments</a>"
   },
   {
-    "title": "Fold Epic Paper Airplanes",
+    "title": "Foldable Flight: The Best Paper Airplanes",
     "link": "https://www.foldableflight.com",
     "source": "Hacker News",
     "published": "2026-11-09T12:19:22+00:00",
@@ -128,28 +136,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50424581\">Comments</a>"
   },
   {
-    "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-    "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+    "title": "Never Gonna Print You Up",
+    "link": "https://dixken.de/blog/never-gonna-print-you-up",
     "source": "Hacker News",
-    "published": "2026-11-09T07:04:25+00:00",
+    "published": "2026-11-08T07:15:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50422069\">Comments</a>"
-  },
-  {
-    "title": "An ode to livelyness analysis; SSA to registers",
-    "link": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
-    "source": "Hacker News",
-    "published": "2026-11-07T15:17:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50405274\">Comments</a>"
-  },
-  {
-    "title": "Magnets and Rare Earths",
-    "link": "https://robodienst.com/learning-paths/magnets-and-rare-earths",
-    "source": "Hacker News",
-    "published": "2026-11-07T03:29:39+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50401369\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50411106\">Comments</a>"
   },
   {
     "title": "A primer on GPUs and kernel optimization",
@@ -158,5 +150,13 @@
     "published": "2026-11-05T23:48:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50386246\">Comments</a>"
+  },
+  {
+    "title": "How Many People Work from Home?",
+    "link": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
+    "source": "Hacker News",
+    "published": "2026-11-05T12:00:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50378118\">Comments</a>"
   }
 ]
