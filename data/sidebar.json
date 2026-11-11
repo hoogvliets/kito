@@ -1,5 +1,69 @@
 [
   {
+    "title": "Hooked on Tuna",
+    "link": "https://blue-continuum.com/hooked-on-tuna",
+    "source": "Hacker News",
+    "published": "2026-11-11T02:23:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50449080\">Comments</a>"
+  },
+  {
+    "title": "A great old-timey game-programming hack (2013)",
+    "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "source": "Hacker News",
+    "published": "2026-11-11T01:56:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>"
+  },
+  {
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "link": "https://tis-100.wincon.dev/",
+    "source": "Hacker News",
+    "published": "2026-11-11T00:37:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50448340\">Comments</a>"
+  },
+  {
+    "title": "AI is an information gateway. Audiences still don't want it making their news",
+    "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "Hacker News",
+    "published": "2026-11-11T00:15:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50448174\">Comments</a>"
+  },
+  {
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "Hacker News",
+    "published": "2026-11-10T22:17:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50447074\">Comments</a>"
+  },
+  {
+    "title": "$30M Raised to Redo the CPU",
+    "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "source": "Hacker News",
+    "published": "2026-11-10T22:14:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50447036\">Comments</a>"
+  },
+  {
+    "title": "Six Math Essentials by Terence Tao",
+    "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "source": "Hacker News",
+    "published": "2026-11-10T20:58:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50446246\">Comments</a>"
+  },
+  {
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "source": "Hacker News",
+    "published": "2026-11-10T19:50:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50445401\">Comments</a>"
+  },
+  {
     "title": "What objective is reasoning solving?",
     "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
     "source": "Hacker News",
@@ -8,12 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50445013\">Comments</a>"
   },
   {
-    "title": "A comprehensive study of how fingerprintable users are",
-    "link": "https://fingerprinting.study/",
+    "title": "Starlink Mini 2",
+    "link": "https://starlink.com/mini-2",
     "source": "Hacker News",
-    "published": "2026-11-10T19:03:54+00:00",
+    "published": "2026-11-10T18:22:32+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50444684\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50444129\">Comments</a>"
   },
   {
     "title": "Synaptics patent claims stop work on DisplayLink drivers",
@@ -30,22 +94,6 @@
     "published": "2026-11-10T18:01:15+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50443812\">Comments</a>"
-  },
-  {
-    "title": "An Open Field Guide to Inference Engineering",
-    "link": "https://docs.modelplane.ai/guides/inference-guide",
-    "source": "Hacker News",
-    "published": "2026-11-10T17:55:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50443714\">Comments</a>"
-  },
-  {
-    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "source": "Hacker News",
-    "published": "2026-11-10T17:55:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50443716\">Comments</a>"
   },
   {
     "title": "Val Town is winding down",
@@ -72,44 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50442736\">Comments</a>"
   },
   {
-    "title": "Blender 5.3 released with Gaussian Splat support",
-    "link": "https://www.blender.org/download/releases/5-3/",
-    "source": "Hacker News",
-    "published": "2026-11-10T16:15:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50442426\">Comments</a>"
-  },
-  {
     "title": "Smart home devices should work without the internet",
     "link": "https://docodethatmatters.com/home-automation-overnight-success/",
     "source": "Hacker News",
     "published": "2026-11-10T15:25:20+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50441707\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-    "link": "https://tinyvalencia.com/",
-    "source": "Hacker News",
-    "published": "2026-11-10T15:12:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50441518\">Comments</a>"
-  },
-  {
-    "title": "Ableton Live 13",
-    "link": "https://www.ableton.com/en/live/",
-    "source": "Hacker News",
-    "published": "2026-11-10T12:58:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50439695\">Comments</a>"
-  },
-  {
-    "title": "What's new in the .NET 11 runtime",
-    "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-    "source": "Hacker News",
-    "published": "2026-11-10T12:20:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50439284\">Comments</a>"
   },
   {
     "title": "AlphaProof Code",
@@ -120,43 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50439193\">Comments</a>"
   },
   {
-    "title": "AI usage generates a fragile codebase",
-    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "title": "Pinot Noir: inside the criminal gangs making fake wine",
+    "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
     "source": "Hacker News",
-    "published": "2026-11-10T10:25:58+00:00",
+    "published": "2026-11-08T05:13:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50438318\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50410587\">Comments</a>"
   },
   {
-    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-    "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "title": "Hacking the Meta Ray-Ban smartglasses",
+    "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
     "source": "Hacker News",
-    "published": "2026-11-10T06:01:08+00:00",
+    "published": "2026-11-07T17:19:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50436640\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50406224\">Comments</a>"
   },
   {
-    "title": "Process Explorer for macOS",
-    "link": "https://github.com/microsoft/Procexp-Mac",
+    "title": "Lighting the Skies",
+    "link": "https://computer.rip/2026-10-25-searchlights.html",
     "source": "Hacker News",
-    "published": "2026-11-09T22:30:41+00:00",
+    "published": "2026-11-07T03:40:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50433216\">Comments</a>"
-  },
-  {
-    "title": "The planet Vulcan: a cautionary tale",
-    "link": "https://kevinboone.me/vulcan.html",
-    "source": "Hacker News",
-    "published": "2026-11-07T14:42:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50404969\">Comments</a>"
-  },
-  {
-    "title": "I deleted all my SSH keys",
-    "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
-    "source": "Hacker News",
-    "published": "2026-11-05T18:17:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50382401\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50401414\">Comments</a>"
   }
 ]
