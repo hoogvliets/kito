@@ -1,11 +1,43 @@
 [
   {
-    "title": "Lean Grimoire",
-    "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+    "title": "NVIDIA Announces CEO Transition",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
     "source": "Hacker News",
-    "published": "2026-11-12T02:36:48+00:00",
+    "published": "2026-11-12T13:52:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50462375\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50467087\">Comments</a>"
+  },
+  {
+    "title": "Anthropic IPO",
+    "link": "https://ipo.anthropic.com/us/",
+    "source": "Hacker News",
+    "published": "2026-11-12T11:46:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50465829\">Comments</a>"
+  },
+  {
+    "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+    "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+    "source": "Hacker News",
+    "published": "2026-11-12T10:46:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50465453\">Comments</a>"
+  },
+  {
+    "title": "Why Writing Correct Software Is Hard",
+    "link": "https://pron.github.io/posts/correctness-and-complexity",
+    "source": "Hacker News",
+    "published": "2026-11-12T10:28:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50465352\">Comments</a>"
+  },
+  {
+    "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+    "link": "https://www.getlazarus.org/forums/topic/17/",
+    "source": "Hacker News",
+    "published": "2026-11-12T05:49:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50463540\">Comments</a>"
   },
   {
     "title": "Critical RCE Vulnerability in Apache HTTP Server",
@@ -14,14 +46,6 @@
     "published": "2026-11-12T02:11:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50462177\">Comments</a>"
-  },
-  {
-    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-    "link": "https://github.com/tylertms/Stela",
-    "source": "Hacker News",
-    "published": "2026-11-11T23:02:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50460154\">Comments</a>"
   },
   {
     "title": "93% of paint splatters are valid Perl programs (2019)",
@@ -64,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50458208\">Comments</a>"
   },
   {
-    "title": "The Utah Teapot",
-    "link": "https://graphics.cs.utah.edu/teapot/",
-    "source": "Hacker News",
-    "published": "2026-11-11T19:45:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50457618\">Comments</a>"
-  },
-  {
-    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "link": "https://termsheetplease.com/",
-    "source": "Hacker News",
-    "published": "2026-11-11T19:12:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50457230\">Comments</a>"
-  },
-  {
     "title": "Gemini Decisions API",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "source": "Hacker News",
@@ -96,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>"
   },
   {
-    "title": "Faster Retrieval for Better, More Efficient RAG",
-    "link": "https://machinelearning.apple.com/research/faster-retrieval",
-    "source": "Hacker News",
-    "published": "2026-11-11T16:57:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50455633\">Comments</a>"
-  },
-  {
     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
     "source": "Hacker News",
     "published": "2026-11-11T16:38:44+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50455394\">Comments</a>"
-  },
-  {
-    "title": "Hyper-Realistic Sand with WebGL2",
-    "link": "https://av.github.io/safe-sand/",
-    "source": "Hacker News",
-    "published": "2026-11-11T13:39:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50453288\">Comments</a>"
-  },
-  {
-    "title": "My AI agents found an unmapped Maya site?",
-    "link": "https://pietromiotti.com/latest/maya-site",
-    "source": "Hacker News",
-    "published": "2026-11-11T12:05:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50452455\">Comments</a>"
   },
   {
     "title": "Tim Peters has died",
@@ -136,27 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50450488\">Comments</a>"
   },
   {
-    "title": "Stingray Fish Laser",
-    "link": "https://www.stingray.no/en/technology/",
+    "title": "Jane Street: Socratic Tutor",
+    "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
     "source": "Hacker News",
-    "published": "2026-11-10T03:29:55+00:00",
+    "published": "2026-11-10T10:18:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50435712\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50438261\">Comments</a>"
   },
   {
-    "title": "Did Life Begin in an RNA World?",
-    "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+    "title": "Making a \u20ac40 USB-C hub work as a Nintendo Switch 2 dock",
+    "link": "http://blog.nozomi.space/posts/sw2_dock/",
     "source": "Hacker News",
-    "published": "2026-11-09T17:27:24+00:00",
+    "published": "2026-11-09T20:54:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50428619\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50431971\">Comments</a>"
   },
   {
-    "title": "How to make a CNC plasma cutter with high-frequency start",
-    "link": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+    "title": "A live tree of systemd jobs on the boot console",
+    "link": "https://codeberg.org/wvhulle/bootvine",
     "source": "Hacker News",
-    "published": "2026-11-08T12:34:04+00:00",
+    "published": "2026-11-09T13:02:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50412715\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50425017\">Comments</a>"
+  },
+  {
+    "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+    "link": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+    "source": "Hacker News",
+    "published": "2026-11-08T20:04:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416606\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Build a PC in 3D in the Browser",
+    "link": "https://www.buildcores.com",
+    "source": "Hacker News",
+    "published": "2026-11-08T17:45:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415379\">Comments</a>"
   }
 ]
