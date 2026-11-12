@@ -1,27 +1,131 @@
 [
   {
-    "title": "NVIDIA Announces CEO Transition",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "title": "Data centers need power \u2013 lower income, rural residents pay the price",
+    "link": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+    "source": "Hacker News",
+    "published": "2026-11-12T19:53:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50473231\">Comments</a>"
+  },
+  {
+    "title": "Distributed Ray Tracer",
+    "link": "https://ray.hatchet.run",
+    "source": "Hacker News",
+    "published": "2026-11-12T19:06:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50472505\">Comments</a>"
+  },
+  {
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "source": "Hacker News",
+    "published": "2026-11-12T19:05:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50472490\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:52:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50472260\">Comments</a>"
+  },
+  {
+    "title": "Rust 1.100",
+    "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:39:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50472038\">Comments</a>"
+  },
+  {
+    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:22:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471761\">Comments</a>"
+  },
+  {
+    "title": "Ask HN: Microsoft/Azure Outage?",
+    "link": "https://news.ycombinator.com/item?id=50471668",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:17:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471668\">Comments</a>"
+  },
+  {
+    "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+    "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:15:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471650\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Hydrogen",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "source": "Hacker News",
+    "published": "2026-11-12T18:01:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471431\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+    "link": "https://news.ycombinator.com/item?id=50471281",
+    "source": "Hacker News",
+    "published": "2026-11-12T17:51:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471281\">Comments</a>"
+  },
+  {
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "link": "https://github.com/simpsoka/zigzag",
+    "source": "Hacker News",
+    "published": "2026-11-12T17:02:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50470488\">Comments</a>"
+  },
+  {
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "link": "https://github.com/chocoford/ExcalidrawZ",
+    "source": "Hacker News",
+    "published": "2026-11-12T15:25:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50468944\">Comments</a>"
+  },
+  {
+    "title": "I'm making LLMs work on small and old devices",
+    "link": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "Hacker News",
+    "published": "2026-11-12T15:23:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50468888\">Comments</a>"
+  },
+  {
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "source": "Hacker News",
+    "published": "2026-11-12T14:18:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50467618\">Comments</a>"
+  },
+  {
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "source": "Hacker News",
+    "published": "2026-11-12T14:12:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50467460\">Comments</a>"
+  },
+  {
+    "title": "Jensen Huang resigns",
+    "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "source": "Hacker News",
     "published": "2026-11-12T13:52:29+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50467087\">Comments</a>"
-  },
-  {
-    "title": "Anthropic IPO",
-    "link": "https://ipo.anthropic.com/us/",
-    "source": "Hacker News",
-    "published": "2026-11-12T11:46:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50465829\">Comments</a>"
-  },
-  {
-    "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-    "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-    "source": "Hacker News",
-    "published": "2026-11-12T10:46:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50465453\">Comments</a>"
   },
   {
     "title": "Why Writing Correct Software Is Hard",
@@ -32,131 +136,27 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50465352\">Comments</a>"
   },
   {
-    "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-    "link": "https://www.getlazarus.org/forums/topic/17/",
+    "title": "Words of warning about radiocarbon dating medieval human bones",
+    "link": "https://www.nature.com/articles/s40494-026-02958-x",
     "source": "Hacker News",
-    "published": "2026-11-12T05:49:34+00:00",
+    "published": "2026-11-11T22:18:37+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50463540\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50459508\">Comments</a>"
   },
   {
-    "title": "Critical RCE Vulnerability in Apache HTTP Server",
-    "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "title": "Relax: JIT compiler for Rust to reduce build times",
+    "link": "https://makepad.github.io/relax/",
     "source": "Hacker News",
-    "published": "2026-11-12T02:11:11+00:00",
+    "published": "2026-11-11T21:20:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50462177\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50458849\">Comments</a>"
   },
   {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "link": "https://www.mcmillen.dev/sigbovik/",
+    "title": "Pulling the Lever in a Subway Problem",
+    "link": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
     "source": "Hacker News",
-    "published": "2026-11-11T22:34:23+00:00",
+    "published": "2026-11-11T19:22:09+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>"
-  },
-  {
-    "title": "Nvidia is preparing to oust Jensen Huang",
-    "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "source": "Hacker News",
-    "published": "2026-11-11T22:31:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50459703\">Comments</a>"
-  },
-  {
-    "title": "Lock Your GitHub Actions",
-    "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "source": "Hacker News",
-    "published": "2026-11-11T22:16:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>"
-  },
-  {
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "source": "Hacker News",
-    "published": "2026-11-11T21:24:35+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50458900\">Comments</a>"
-  },
-  {
-    "title": "Emacs in the Age of Magic",
-    "link": "https://commandlinesystems.com/magic.txt",
-    "source": "Hacker News",
-    "published": "2026-11-11T20:26:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50458208\">Comments</a>"
-  },
-  {
-    "title": "Gemini Decisions API",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "source": "Hacker News",
-    "published": "2026-11-11T18:32:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50456791\">Comments</a>"
-  },
-  {
-    "title": "AWS emulator",
-    "link": "https://github.com/aws/aws-emulator",
-    "source": "Hacker News",
-    "published": "2026-11-11T18:21:38+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>"
-  },
-  {
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "source": "Hacker News",
-    "published": "2026-11-11T16:38:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50455394\">Comments</a>"
-  },
-  {
-    "title": "Tim Peters has died",
-    "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "source": "Hacker News",
-    "published": "2026-11-11T07:03:17+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50450488\">Comments</a>"
-  },
-  {
-    "title": "Jane Street: Socratic Tutor",
-    "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-    "source": "Hacker News",
-    "published": "2026-11-10T10:18:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50438261\">Comments</a>"
-  },
-  {
-    "title": "Making a \u20ac40 USB-C hub work as a Nintendo Switch 2 dock",
-    "link": "http://blog.nozomi.space/posts/sw2_dock/",
-    "source": "Hacker News",
-    "published": "2026-11-09T20:54:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50431971\">Comments</a>"
-  },
-  {
-    "title": "A live tree of systemd jobs on the boot console",
-    "link": "https://codeberg.org/wvhulle/bootvine",
-    "source": "Hacker News",
-    "published": "2026-11-09T13:02:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50425017\">Comments</a>"
-  },
-  {
-    "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
-    "link": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
-    "source": "Hacker News",
-    "published": "2026-11-08T20:04:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416606\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Build a PC in 3D in the Browser",
-    "link": "https://www.buildcores.com",
-    "source": "Hacker News",
-    "published": "2026-11-08T17:45:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50415379\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50457344\">Comments</a>"
   }
 ]
