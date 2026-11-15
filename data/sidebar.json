@@ -1,22 +1,46 @@
 [
   {
-    "title": "The VHDL standard's float package gets sqrt(2) wrong",
-    "link": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+    "title": "L3Harris statement on the Nov. 13 ground stop",
+    "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
     "source": "Hacker News",
-    "published": "2026-11-14T17:58:58+00:00",
+    "published": "2026-11-14T22:51:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50499188\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501844\">Comments</a>"
   },
   {
-    "title": "US IRS free online tax filing open source repo",
-    "link": "https://github.com/IRS-Public/direct-file",
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
     "source": "Hacker News",
-    "published": "2026-11-14T17:48:20+00:00",
+    "published": "2026-11-14T22:26:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50499083\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>"
   },
   {
-    "title": "A Family Tree of Software Job Titles",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "link": "https://retrocomputing.stackexchange.com/questions/17957",
+    "source": "Hacker News",
+    "published": "2026-11-14T22:22:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>"
+  },
+  {
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "link": "https://www.spacex.com/launches/starship-flight-15",
+    "source": "Hacker News",
+    "published": "2026-11-14T21:22:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>"
+  },
+  {
+    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+    "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+    "source": "Hacker News",
+    "published": "2026-11-14T18:56:47+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50499723\">Comments</a>"
+  },
+  {
+    "title": "A family tree of software job titles",
     "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
     "source": "Hacker News",
     "published": "2026-11-14T17:45:19+00:00",
@@ -30,14 +54,6 @@
     "published": "2026-11-14T17:43:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50499017\">Comments</a>"
-  },
-  {
-    "title": "Formalizing US Tax Code (Using Lean)",
-    "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-    "source": "Hacker News",
-    "published": "2026-11-14T15:41:20+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50497900\">Comments</a>"
   },
   {
     "title": "PyPI's redesigned project pages with clearer security signals are now live",
@@ -56,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50497589\">Comments</a>"
   },
   {
-    "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-    "link": "https://github.com/FURSOY/fursoy-cpu",
-    "source": "Hacker News",
-    "published": "2026-11-14T14:06:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50497137\">Comments</a>"
-  },
-  {
     "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
     "link": "https://gitlab.com/snipedbywifi/terminactory",
     "source": "Hacker News",
     "published": "2026-11-14T14:05:54+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50497132\">Comments</a>"
-  },
-  {
-    "title": "Italy fines Meta $887M over Android users' data access",
-    "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-    "source": "Hacker News",
-    "published": "2026-11-14T13:48:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50497009\">Comments</a>"
   },
   {
     "title": "KDE: The documentary [video]",
@@ -96,31 +96,23 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50496811\">Comments</a>"
   },
   {
-    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-    "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+    "link": "https://projectzero.google/2026/11/disclosure-policy.html",
     "source": "Hacker News",
-    "published": "2026-11-14T12:45:45+00:00",
+    "published": "2026-11-14T11:13:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50496602\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50496051\">Comments</a>"
   },
   {
-    "title": "Monkey Island: all 13 versions side by side",
-    "link": "https://monkeyisland.pages.dev/",
+    "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+    "link": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
     "source": "Hacker News",
-    "published": "2026-11-14T04:23:30+00:00",
+    "published": "2026-11-12T18:28:06+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50493904\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471874\">Comments</a>"
   },
   {
-    "title": "Let's Write a PostScript Interpreter",
-    "link": "https://beyondloom.com/blog/postscript.html",
-    "source": "Hacker News",
-    "published": "2026-11-13T05:12:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50478632\">Comments</a>"
-  },
-  {
-    "title": "Testing a Trash Can Faraday Cage",
+    "title": "Testing a trash can Faraday cage",
     "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
     "source": "Hacker News",
     "published": "2026-11-12T14:04:27+00:00",
@@ -134,6 +126,14 @@
     "published": "2026-11-11T14:32:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50453901\">Comments</a>"
+  },
+  {
+    "title": "Write your own kernel optimiser",
+    "link": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+    "source": "Hacker News",
+    "published": "2026-11-10T19:17:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50444891\">Comments</a>"
   },
   {
     "title": "Generative AI uses more energy on non-English text",
