@@ -1,19 +1,51 @@
 [
   {
-    "title": "L3Harris statement on the Nov. 13 ground stop",
-    "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "link": "https://space.stackexchange.com/questions/37775",
     "source": "Hacker News",
-    "published": "2026-11-14T22:51:44+00:00",
+    "published": "2026-11-15T09:06:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501844\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50505271\">Comments</a>"
   },
   {
-    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+    "link": "https://netbsd.org/~nia/disk-encrypt/",
     "source": "Hacker News",
-    "published": "2026-11-14T22:26:30+00:00",
+    "published": "2026-11-15T05:29:54+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50504277\">Comments</a>"
+  },
+  {
+    "title": "Kiri \u2013 The Modern Container Runtime",
+    "link": "https://runkiri.com/",
+    "source": "Hacker News",
+    "published": "2026-11-15T04:40:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50504077\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+    "link": "https://github.com/matheuzgomes/gawain",
+    "source": "Hacker News",
+    "published": "2026-11-15T04:39:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50504072\">Comments</a>"
+  },
+  {
+    "title": "My favourite modern NES games",
+    "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "source": "Hacker News",
+    "published": "2026-11-15T02:41:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50503465\">Comments</a>"
+  },
+  {
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "source": "Hacker News",
+    "published": "2026-11-15T01:18:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50502988\">Comments</a>"
   },
   {
     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -30,14 +62,6 @@
     "published": "2026-11-14T21:22:24+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>"
-  },
-  {
-    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-    "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-    "source": "Hacker News",
-    "published": "2026-11-14T18:56:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50499723\">Comments</a>"
   },
   {
     "title": "A family tree of software job titles",
@@ -64,22 +88,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>"
   },
   {
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "source": "Hacker News",
-    "published": "2026-11-14T15:04:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50497589\">Comments</a>"
-  },
-  {
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "link": "https://gitlab.com/snipedbywifi/terminactory",
-    "source": "Hacker News",
-    "published": "2026-11-14T14:05:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50497132\">Comments</a>"
-  },
-  {
     "title": "KDE: The documentary [video]",
     "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
     "source": "Hacker News",
@@ -88,60 +96,60 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50496976\">Comments</a>"
   },
   {
-    "title": "Advancing science and engineering with Antigravity's /teamwork",
-    "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "title": "Semicircle Packing",
+    "link": "https://rorz.io/writing/semicircle-packing",
     "source": "Hacker News",
-    "published": "2026-11-14T13:20:43+00:00",
+    "published": "2026-11-13T14:42:57+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50496811\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50484234\">Comments</a>"
   },
   {
-    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-    "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+    "title": "500 Lines or Less A 3D Modeller",
+    "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
     "source": "Hacker News",
-    "published": "2026-11-14T11:13:17+00:00",
+    "published": "2026-11-13T13:47:42+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50496051\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50483431\">Comments</a>"
   },
   {
-    "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-    "link": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
     "source": "Hacker News",
-    "published": "2026-11-12T18:28:06+00:00",
+    "published": "2026-11-13T11:55:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50471874\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50482222\">Comments</a>"
   },
   {
-    "title": "Testing a trash can Faraday cage",
-    "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+    "title": "Memory Safety Bugs in Rust Standard Library",
+    "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
     "source": "Hacker News",
-    "published": "2026-11-12T14:04:27+00:00",
+    "published": "2026-11-13T05:22:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50467278\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50478701\">Comments</a>"
   },
   {
-    "title": "Seagate's new hybrid drive raises some old questions",
-    "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
     "source": "Hacker News",
-    "published": "2026-11-11T14:32:09+00:00",
+    "published": "2026-11-12T21:27:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50453901\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50474529\">Comments</a>"
   },
   {
-    "title": "Write your own kernel optimiser",
-    "link": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+    "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+    "link": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
     "source": "Hacker News",
-    "published": "2026-11-10T19:17:16+00:00",
+    "published": "2026-11-11T11:11:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50444891\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50452037\">Comments</a>"
   },
   {
-    "title": "Generative AI uses more energy on non-English text",
-    "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+    "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
     "source": "Hacker News",
-    "published": "2026-11-10T15:07:28+00:00",
+    "published": "2026-11-10T17:21:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50441444\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50443331\">Comments</a>"
   },
   {
     "title": "Why get an expensive Pi when I have an old phone?",
@@ -150,13 +158,5 @@
     "published": "2026-11-10T14:16:05+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50440709\">Comments</a>"
-  },
-  {
-    "title": "Reverse engineering a vintage diode-transistor logic chip",
-    "link": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-    "source": "Hacker News",
-    "published": "2026-11-08T19:03:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50416011\">Comments</a>"
   }
 ]
