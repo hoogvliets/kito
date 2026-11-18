@@ -1,35 +1,51 @@
 [
   {
-    "title": "H-1B Executive Actions in 2026 [pdf]",
-    "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
     "source": "Hacker News",
-    "published": "2026-11-18T03:37:35+00:00",
+    "published": "2026-11-18T13:51:03+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50541550\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50546312\">Comments</a>"
   },
   {
-    "title": "Engineering Vitals in the Age of AI",
-    "link": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
+    "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+    "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
     "source": "Hacker News",
-    "published": "2026-11-18T03:36:12+00:00",
+    "published": "2026-11-18T13:18:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50541542\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50545958\">Comments</a>"
   },
   {
-    "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
-    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+    "title": "Evidence (YC S21) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
     "source": "Hacker News",
-    "published": "2026-11-18T03:35:47+00:00",
+    "published": "2026-11-18T12:00:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50541538\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50545238\">Comments</a>"
   },
   {
-    "title": "Cerebras Disaggregated Inference",
-    "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "title": "Show HN: Type Fighter 2",
+    "link": "https://typefighter2.com/",
     "source": "Hacker News",
-    "published": "2026-11-18T00:56:23+00:00",
+    "published": "2026-11-18T11:11:53+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50540472\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50544821\">Comments</a>"
+  },
+  {
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "link": "https://energy-based-reasoners.github.io/",
+    "source": "Hacker News",
+    "published": "2026-11-18T09:29:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50543989\">Comments</a>"
+  },
+  {
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "source": "Hacker News",
+    "published": "2026-11-18T04:14:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50541790\">Comments</a>"
   },
   {
     "title": "ID.me terms required for IRS sign-in",
@@ -48,7 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50540178\">Comments</a>"
   },
   {
-    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "title": "Archive Team is archiving the Apple Support Community",
     "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
     "source": "Hacker News",
     "published": "2026-11-17T23:32:58+00:00",
@@ -88,44 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50538240\">Comments</a>"
   },
   {
-    "title": "jQuery 4.1.0",
-    "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "source": "Hacker News",
-    "published": "2026-11-17T19:50:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50537156\">Comments</a>"
-  },
-  {
-    "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-    "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-    "source": "Hacker News",
-    "published": "2026-11-17T19:25:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50536813\">Comments</a>"
-  },
-  {
-    "title": "Phrack 73 Released",
+    "title": "Phrack 73",
     "link": "https://phrack.org/issues/73/introduction_md",
     "source": "Hacker News",
     "published": "2026-11-17T18:31:25+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50535992\">Comments</a>"
-  },
-  {
-    "title": "MAI Code 2 and Code 2 Flash",
-    "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "source": "Hacker News",
-    "published": "2026-11-17T18:25:13+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50535885\">Comments</a>"
-  },
-  {
-    "title": "GPT\u20116.2 Astra and Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "source": "Hacker News",
-    "published": "2026-11-17T17:46:43+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50535230\">Comments</a>"
   },
   {
     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50532849\">Comments</a>"
   },
   {
-    "title": "Fun with Constrained Programming",
-    "link": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+    "title": "My Emacs 31 contributions",
+    "link": "https://xenodium.com/my-emacs-31-contributions",
     "source": "Hacker News",
-    "published": "2026-11-15T02:45:57+00:00",
+    "published": "2026-11-16T14:26:10+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50503492\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50517929\">Comments</a>"
   },
   {
-    "title": "Duality of Quadrilaterals via Quaternions [pdf]",
-    "link": "https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1193&context=surp",
+    "title": "IPv6 delegation, an unusually subtle failure mode",
+    "link": "https://savyasacheejha.com/posts/why-odhcpd/",
     "source": "Hacker News",
-    "published": "2026-11-14T22:49:20+00:00",
+    "published": "2026-11-15T18:06:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50501829\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50509141\">Comments</a>"
+  },
+  {
+    "title": "When AI Knows More Than It Can Offer",
+    "link": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+    "source": "Hacker News",
+    "published": "2026-11-15T15:59:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50507918\">Comments</a>"
+  },
+  {
+    "title": "A Perfect SimCity",
+    "link": "https://www.jeffquast.com/post/a-perfect-simcity/",
+    "source": "Hacker News",
+    "published": "2026-11-15T05:54:22+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50504373\">Comments</a>"
   }
 ]
