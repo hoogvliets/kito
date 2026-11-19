@@ -1,19 +1,91 @@
 [
   {
-    "title": "PHP 8.5.13",
-    "link": "https://www.php.net/ChangeLog-8.php",
+    "title": "Synology Security Advisory",
+    "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
     "source": "Hacker News",
-    "published": "2026-11-19T14:09:50+00:00",
+    "published": "2026-11-19T22:13:40+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50560334\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50567209\">Comments</a>"
   },
   {
-    "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
-    "link": "https://foolscap.works/",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
     "source": "Hacker News",
-    "published": "2026-11-19T13:21:20+00:00",
+    "published": "2026-11-19T20:57:14+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50559749\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50566261\">Comments</a>"
+  },
+  {
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "source": "Hacker News",
+    "published": "2026-11-19T18:47:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50564366\">Comments</a>"
+  },
+  {
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "source": "Hacker News",
+    "published": "2026-11-19T18:35:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>"
+  },
+  {
+    "title": "Claude solves two open problems in the physics of black holes",
+    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "source": "Hacker News",
+    "published": "2026-11-19T17:30:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50563148\">Comments</a>"
+  },
+  {
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "source": "Hacker News",
+    "published": "2026-11-19T17:25:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50563066\">Comments</a>"
+  },
+  {
+    "title": "Anthropic hits $2T in Nasdaq debut",
+    "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "source": "Hacker News",
+    "published": "2026-11-19T17:02:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562754\">Comments</a>"
+  },
+  {
+    "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+    "link": "https://github.com/onlook-dev/onlook/",
+    "source": "Hacker News",
+    "published": "2026-11-19T16:34:04+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562320\">Comments</a>"
+  },
+  {
+    "title": "UK government forced to admit it issued Apple a secret encryption order",
+    "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+    "source": "Hacker News",
+    "published": "2026-11-19T16:21:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562113\">Comments</a>"
+  },
+  {
+    "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+    "link": "https://cornholenews.news",
+    "source": "Hacker News",
+    "published": "2026-11-19T15:38:32+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50561515\">Comments</a>"
+  },
+  {
+    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+    "link": "https://thedataexchange.media/pete-warden-moonshine/",
+    "source": "Hacker News",
+    "published": "2026-11-19T15:38:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50561508\">Comments</a>"
   },
   {
     "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
@@ -22,14 +94,6 @@
     "published": "2026-11-19T13:18:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50559719\">Comments</a>"
-  },
-  {
-    "title": "Unblockable communication with gravity \u2013 Science Advances",
-    "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-    "source": "Hacker News",
-    "published": "2026-11-19T12:22:00+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50559179\">Comments</a>"
   },
   {
     "title": "Someone reported java4shell bug in September 2026",
@@ -48,68 +112,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50558533\">Comments</a>"
   },
   {
-    "title": "What's New in PHP 8.6",
-    "link": "https://www.php.net/releases/8.6/en.php",
-    "source": "Hacker News",
-    "published": "2026-11-19T09:27:15+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50557870\">Comments</a>"
-  },
-  {
-    "title": "SSD prices will start going down the second half of next year",
-    "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-    "source": "Hacker News",
-    "published": "2026-11-19T09:05:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50557716\">Comments</a>"
-  },
-  {
-    "title": "Distributed, high-performance blob storage on SQLite",
-    "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-    "source": "Hacker News",
-    "published": "2026-11-19T08:39:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50557537\">Comments</a>"
-  },
-  {
-    "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-    "link": "https://kapteko.com/15-million-webservers/",
-    "source": "Hacker News",
-    "published": "2026-11-19T05:56:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>"
-  },
-  {
     "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
     "link": "https://verialabs.com/ruby2shell/",
     "source": "Hacker News",
     "published": "2026-11-19T05:09:11+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50556287\">Comments</a>"
-  },
-  {
-    "title": "Gemini 4 Neon",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "source": "Hacker News",
-    "published": "2026-11-18T21:34:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50552424\">Comments</a>"
-  },
-  {
-    "title": "We taught robots to carve marble sculptures",
-    "link": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-    "source": "Hacker News",
-    "published": "2026-11-18T17:03:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50548808\">Comments</a>"
-  },
-  {
-    "title": "Unauthenticated remote code execution in Nginx",
-    "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "source": "Hacker News",
-    "published": "2026-11-18T15:19:55+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50547374\">Comments</a>"
   },
   {
     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
@@ -120,36 +128,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50547048\">Comments</a>"
   },
   {
-    "title": "Exponential Behavior in Magic: The Gathering",
-    "link": "https://levineuwirth.org/essays/exponential-magic/",
-    "source": "Hacker News",
-    "published": "2026-11-18T14:07:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50546495\">Comments</a>"
-  },
-  {
-    "title": "Mass launched to orbit each year by rocket builder",
-    "link": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
-    "source": "Hacker News",
-    "published": "2026-11-18T13:43:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50546221\">Comments</a>"
-  },
-  {
-    "title": "C's designated initializers give us named arguments",
-    "link": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
-    "source": "Hacker News",
-    "published": "2026-11-18T09:49:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50544168\">Comments</a>"
-  },
-  {
-    "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+    "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
     "link": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
     "source": "Hacker News",
     "published": "2026-11-17T19:35:12+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50536950\">Comments</a>"
+  },
+  {
+    "title": "How to CAD Almost Anything",
+    "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "source": "Hacker News",
+    "published": "2026-11-17T06:29:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50528119\">Comments</a>"
   },
   {
     "title": "Garage Door Spam",
@@ -158,5 +150,13 @@
     "published": "2026-11-16T16:13:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50519231\">Comments</a>"
+  },
+  {
+    "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+    "link": "https://www.tisonkun.io/posts/ai-repair-program/",
+    "source": "Hacker News",
+    "published": "2026-11-16T13:58:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50517657\">Comments</a>"
   }
 ]
