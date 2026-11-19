@@ -1,5 +1,61 @@
 [
   {
+    "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
+    "link": "https://github.com/Ri4dH/failtrace",
+    "source": "Hacker News",
+    "published": "2026-11-19T01:30:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554941\">Comments</a>"
+  },
+  {
+    "title": "Unreal Tournament 2004 in the Browser",
+    "link": "https://ut2004.dev/",
+    "source": "Hacker News",
+    "published": "2026-11-19T01:29:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554935\">Comments</a>"
+  },
+  {
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "link": "https://arxiv.org/abs/2607.29378",
+    "source": "Hacker News",
+    "published": "2026-11-19T01:27:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554908\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "source": "Hacker News",
+    "published": "2026-11-19T00:29:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554374\">Comments</a>"
+  },
+  {
+    "title": "We need smart people who give a shit",
+    "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "source": "Hacker News",
+    "published": "2026-11-18T23:53:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554045\">Comments</a>"
+  },
+  {
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "source": "Hacker News",
+    "published": "2026-11-18T23:52:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>"
+  },
+  {
+    "title": "LLM assisted reverse engineering",
+    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "source": "Hacker News",
+    "published": "2026-11-18T22:29:13+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50553225\">Comments</a>"
+  },
+  {
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "source": "Hacker News",
@@ -8,15 +64,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50552424\">Comments</a>"
   },
   {
-    "title": "Search Browser \u2013 Minimalist WebKit browser with Chrome extension support",
-    "link": "https://searchbrowser.app/",
-    "source": "Hacker News",
-    "published": "2026-11-18T20:04:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50551398\">Comments</a>"
-  },
-  {
-    "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+    "title": "DaisyRose-27B",
     "link": "https://www.radixark.com/blog/daisyrose-27b",
     "source": "Hacker News",
     "published": "2026-11-18T19:39:16+00:00",
@@ -32,44 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50550415\">Comments</a>"
   },
   {
-    "title": "The Magic of Partial Evaluation",
-    "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-    "source": "Hacker News",
-    "published": "2026-11-18T18:29:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50550096\">Comments</a>"
-  },
-  {
     "title": "Advancing chip design with OpenAI models",
     "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
     "source": "Hacker News",
     "published": "2026-11-18T17:45:47+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50549493\">Comments</a>"
-  },
-  {
-    "title": "CrossPoint Reader",
-    "link": "https://crosspointreader.com",
-    "source": "Hacker News",
-    "published": "2026-11-18T17:14:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50548991\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-    "link": "https://news.ycombinator.com/item?id=50548660",
-    "source": "Hacker News",
-    "published": "2026-11-18T16:53:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50548660\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-    "link": "https://rshekhar.com/voyager/",
-    "source": "Hacker News",
-    "published": "2026-11-18T16:18:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50548161\">Comments</a>"
   },
   {
     "title": "Seven new models at scalable price-performance",
@@ -104,28 +120,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50547620\">Comments</a>"
   },
   {
-    "title": "F-22 Next-Generation micro\u2013Data Transfer Cartridge (mDTC)",
-    "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-    "source": "Hacker News",
-    "published": "2026-11-18T15:35:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50547583\">Comments</a>"
-  },
-  {
     "title": "Unauthenticated remote code execution in Nginx",
     "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
     "source": "Hacker News",
     "published": "2026-11-18T15:19:55+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50547374\">Comments</a>"
-  },
-  {
-    "title": "The x86 CPU: From 4004 to 486",
-    "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-    "source": "Hacker News",
-    "published": "2026-11-18T14:47:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50546967\">Comments</a>"
   },
   {
     "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
@@ -144,19 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50545958\">Comments</a>"
   },
   {
-    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-    "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "title": "Mosquitoes are Ladakh's latest tourists",
+    "link": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
     "source": "Hacker News",
-    "published": "2026-11-15T20:30:42+00:00",
+    "published": "2026-11-18T06:08:25+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50510385\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50542441\">Comments</a>"
   },
   {
-    "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-    "link": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "link": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
     "source": "Hacker News",
-    "published": "2026-11-15T09:12:55+00:00",
+    "published": "2026-11-16T23:47:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50505310\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50525260\">Comments</a>"
   }
 ]
