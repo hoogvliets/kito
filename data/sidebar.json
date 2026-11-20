@@ -1,11 +1,83 @@
 [
   {
-    "title": "What Comes After AGI?",
-    "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+    "title": "Llms.txt and MCP didn't move the needle",
+    "link": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
     "source": "Hacker News",
-    "published": "2026-11-20T02:44:13+00:00",
+    "published": "2026-11-20T14:00:23+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569519\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50574772\">Comments</a>"
+  },
+  {
+    "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+    "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+    "source": "Hacker News",
+    "published": "2026-11-20T12:16:36+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50573681\">Comments</a>"
+  },
+  {
+    "title": "The Making of Oxygene",
+    "link": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+    "source": "Hacker News",
+    "published": "2026-11-20T10:41:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572822\">Comments</a>"
+  },
+  {
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "link": "https://architectlabs.com/blog/frostbite",
+    "source": "Hacker News",
+    "published": "2026-11-20T10:01:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572503\">Comments</a>"
+  },
+  {
+    "title": "What people are building, discovered through new domains",
+    "link": "https://startups.novumsignals.com/",
+    "source": "Hacker News",
+    "published": "2026-11-20T09:54:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572448\">Comments</a>"
+  },
+  {
+    "title": "UK fridges secured from hackers",
+    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+    "source": "Hacker News",
+    "published": "2026-11-20T09:52:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572430\">Comments</a>"
+  },
+  {
+    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+    "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "source": "Hacker News",
+    "published": "2026-11-20T09:43:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572355\">Comments</a>"
+  },
+  {
+    "title": "Signal Is Serious About Protecting Your Privacy",
+    "link": "https://signal.org/blog/protecting-your-privacy/",
+    "source": "Hacker News",
+    "published": "2026-11-20T09:42:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572348\">Comments</a>"
+  },
+  {
+    "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+    "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+    "source": "Hacker News",
+    "published": "2026-11-20T09:13:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50572116\">Comments</a>"
+  },
+  {
+    "title": "FFmpeg 9.1 'Gauss'",
+    "link": "https://ffmpeg.org/download.html#release_9.1",
+    "source": "Hacker News",
+    "published": "2026-11-20T04:02:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569998\">Comments</a>"
   },
   {
     "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
@@ -24,139 +96,67 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>"
   },
   {
-    "title": "Vint Cerf on why TCP/IP was never patented",
-    "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+    "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+    "link": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
     "source": "Hacker News",
-    "published": "2026-11-20T01:06:12+00:00",
+    "published": "2026-11-19T15:16:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568861\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50561199\">Comments</a>"
   },
   {
-    "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-    "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+    "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+    "link": "https://github.com/bigcrimping/floppy3.5",
     "source": "Hacker News",
-    "published": "2026-11-20T00:37:31+00:00",
+    "published": "2026-11-19T14:29:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568643\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50560595\">Comments</a>"
   },
   {
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "link": "https://git-aarvin.github.io/mei/",
+    "title": "\u00b5-Wire \u2013 USB on an ATtiny 10",
+    "link": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
     "source": "Hacker News",
-    "published": "2026-11-19T23:35:35+00:00",
+    "published": "2026-11-18T13:02:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568130\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50545818\">Comments</a>"
   },
   {
-    "title": "RegExr: Temporarily Offline",
-    "link": "https://regexr.com/",
+    "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+    "link": "https://trynotched.com/find",
     "source": "Hacker News",
-    "published": "2026-11-19T22:27:07+00:00",
+    "published": "2026-11-18T03:40:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50567374\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50541568\">Comments</a>"
   },
   {
-    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "link": "https://kobi.music/research/dettato",
     "source": "Hacker News",
-    "published": "2026-11-19T18:47:16+00:00",
+    "published": "2026-11-17T01:03:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50564366\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50526023\">Comments</a>"
   },
   {
-    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "title": "The Strongest Sokoban Solver",
+    "link": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
     "source": "Hacker News",
-    "published": "2026-11-19T18:35:17+00:00",
+    "published": "2026-11-16T21:04:01+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50523241\">Comments</a>"
   },
   {
-    "title": "Claude solves two open problems in the physics of black holes",
-    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "title": "I can\u2019t believe it\u2019s 1!",
+    "link": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
     "source": "Hacker News",
-    "published": "2026-11-19T17:30:44+00:00",
+    "published": "2026-11-16T19:07:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50563148\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50521550\">Comments</a>"
   },
   {
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+    "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
     "source": "Hacker News",
-    "published": "2026-11-19T17:25:33+00:00",
+    "published": "2026-11-14T09:13:24+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50563066\">Comments</a>"
-  },
-  {
-    "title": "Anthropic\u2019s Nasdaq debut",
-    "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "source": "Hacker News",
-    "published": "2026-11-19T17:02:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562754\">Comments</a>"
-  },
-  {
-    "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-    "link": "https://github.com/onlook-dev/onlook/",
-    "source": "Hacker News",
-    "published": "2026-11-19T16:34:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562320\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
-    "link": "https://cornholenews.news",
-    "source": "Hacker News",
-    "published": "2026-11-19T15:38:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50561515\">Comments</a>"
-  },
-  {
-    "title": "Someone reported java4shell bug in September 2026",
-    "link": "https://github.com/openjdk/jdk/pull/32781",
-    "source": "Hacker News",
-    "published": "2026-11-19T11:47:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50558906\">Comments</a>"
-  },
-  {
-    "title": "IRA Velinsky, industrial designer for Commodore and Atari",
-    "link": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/",
-    "source": "Hacker News",
-    "published": "2026-11-18T10:39:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50544546\">Comments</a>"
-  },
-  {
-    "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-    "link": "https://notesbylex.com/weight-space-programming-1990s",
-    "source": "Hacker News",
-    "published": "2026-11-17T22:11:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50538977\">Comments</a>"
-  },
-  {
-    "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-    "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-    "source": "Hacker News",
-    "published": "2026-11-17T11:41:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50530132\">Comments</a>"
-  },
-  {
-    "title": "How to CAD Almost Anything",
-    "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-    "source": "Hacker News",
-    "published": "2026-11-17T06:29:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50528119\">Comments</a>"
-  },
-  {
-    "title": "Garage Door Spam",
-    "link": "https://blog.harrison.page/garage-door-spam/",
-    "source": "Hacker News",
-    "published": "2026-11-16T16:13:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50519231\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50495392\">Comments</a>"
   }
 ]
