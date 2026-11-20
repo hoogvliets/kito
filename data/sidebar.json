@@ -1,19 +1,59 @@
 [
   {
-    "title": "Synology Security Advisory",
-    "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "title": "What Comes After AGI?",
+    "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
     "source": "Hacker News",
-    "published": "2026-11-19T22:13:40+00:00",
+    "published": "2026-11-20T02:44:13+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50567209\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569519\">Comments</a>"
   },
   {
-    "title": "Rebuilding my local voice assistant pipeline",
-    "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
     "source": "Hacker News",
-    "published": "2026-11-19T20:57:14+00:00",
+    "published": "2026-11-20T02:43:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50566261\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>"
+  },
+  {
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "link": "https://github.com/openssl/openssl/pull/33652",
+    "source": "Hacker News",
+    "published": "2026-11-20T02:01:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>"
+  },
+  {
+    "title": "Vint Cerf on why TCP/IP was never patented",
+    "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+    "source": "Hacker News",
+    "published": "2026-11-20T01:06:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568861\">Comments</a>"
+  },
+  {
+    "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+    "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+    "source": "Hacker News",
+    "published": "2026-11-20T00:37:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568643\">Comments</a>"
+  },
+  {
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "link": "https://git-aarvin.github.io/mei/",
+    "source": "Hacker News",
+    "published": "2026-11-19T23:35:35+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50568130\">Comments</a>"
+  },
+  {
+    "title": "RegExr: Temporarily Offline",
+    "link": "https://regexr.com/",
+    "source": "Hacker News",
+    "published": "2026-11-19T22:27:07+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50567374\">Comments</a>"
   },
   {
     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -48,7 +88,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50563066\">Comments</a>"
   },
   {
-    "title": "Anthropic hits $2T in Nasdaq debut",
+    "title": "Anthropic\u2019s Nasdaq debut",
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "source": "Hacker News",
     "published": "2026-11-19T17:02:40+00:00",
@@ -64,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50562320\">Comments</a>"
   },
   {
-    "title": "UK government forced to admit it issued Apple a secret encryption order",
-    "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "source": "Hacker News",
-    "published": "2026-11-19T16:21:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50562113\">Comments</a>"
-  },
-  {
     "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
     "link": "https://cornholenews.news",
     "source": "Hacker News",
     "published": "2026-11-19T15:38:32+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50561515\">Comments</a>"
-  },
-  {
-    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "link": "https://thedataexchange.media/pete-warden-moonshine/",
-    "source": "Hacker News",
-    "published": "2026-11-19T15:38:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50561508\">Comments</a>"
-  },
-  {
-    "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-    "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-    "source": "Hacker News",
-    "published": "2026-11-19T13:18:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50559719\">Comments</a>"
   },
   {
     "title": "Someone reported java4shell bug in September 2026",
@@ -104,36 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50558906\">Comments</a>"
   },
   {
-    "title": "How the European Commission rolled out Matrix to more than 40k staff",
-    "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+    "title": "IRA Velinsky, industrial designer for Commodore and Atari",
+    "link": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/",
     "source": "Hacker News",
-    "published": "2026-11-19T10:58:29+00:00",
+    "published": "2026-11-18T10:39:16+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50558533\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50544546\">Comments</a>"
   },
   {
-    "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-    "link": "https://verialabs.com/ruby2shell/",
+    "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+    "link": "https://notesbylex.com/weight-space-programming-1990s",
     "source": "Hacker News",
-    "published": "2026-11-19T05:09:11+00:00",
+    "published": "2026-11-17T22:11:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50556287\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50538977\">Comments</a>"
   },
   {
-    "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-    "link": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+    "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+    "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
     "source": "Hacker News",
-    "published": "2026-11-18T14:56:04+00:00",
+    "published": "2026-11-17T11:41:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50547048\">Comments</a>"
-  },
-  {
-    "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-    "link": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-    "source": "Hacker News",
-    "published": "2026-11-17T19:35:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50536950\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50530132\">Comments</a>"
   },
   {
     "title": "How to CAD Almost Anything",
@@ -150,13 +158,5 @@
     "published": "2026-11-16T16:13:36+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50519231\">Comments</a>"
-  },
-  {
-    "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-    "link": "https://www.tisonkun.io/posts/ai-repair-program/",
-    "source": "Hacker News",
-    "published": "2026-11-16T13:58:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50517657\">Comments</a>"
   }
 ]
