@@ -1,5 +1,69 @@
 [
   {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "source": "Hacker News",
+    "published": "2026-11-22T08:57:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50597612\">Comments</a>"
+  },
+  {
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "source": "Hacker News",
+    "published": "2026-11-22T06:52:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50596960\">Comments</a>"
+  },
+  {
+    "title": "Show HN: The Riemann Proof Handbook",
+    "link": "https://github.com/tamnd/riemann-handbook",
+    "source": "Hacker News",
+    "published": "2026-11-22T05:46:30+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50596664\">Comments</a>"
+  },
+  {
+    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+    "link": "https://github.com/EL4CTEO/fast-anything",
+    "source": "Hacker News",
+    "published": "2026-11-22T04:10:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50596155\">Comments</a>"
+  },
+  {
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "source": "Hacker News",
+    "published": "2026-11-22T04:04:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>"
+  },
+  {
+    "title": "Data Processing Incidents on Inference Providers",
+    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "source": "Hacker News",
+    "published": "2026-11-22T02:14:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50595554\">Comments</a>"
+  },
+  {
+    "title": "The Mythology of Conscious AI",
+    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "source": "Hacker News",
+    "published": "2026-11-22T02:10:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50595537\">Comments</a>"
+  },
+  {
+    "title": "Sandwich Simulator",
+    "link": "https://stulle.app/",
+    "source": "Hacker News",
+    "published": "2026-11-22T00:07:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50594911\">Comments</a>"
+  },
+  {
     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
     "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
     "source": "Hacker News",
@@ -8,68 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50594132\">Comments</a>"
   },
   {
-    "title": "Advice for the next 100 Rust GUIs",
-    "link": "https://linebender.org/blog/next-100-guis/",
-    "source": "Hacker News",
-    "published": "2026-11-21T21:17:53+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593737\">Comments</a>"
-  },
-  {
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "link": "https://tasklet.ai/careers",
-    "source": "Hacker News",
-    "published": "2026-11-21T21:11:08+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593679\">Comments</a>"
-  },
-  {
-    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-    "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-    "source": "Hacker News",
-    "published": "2026-11-21T21:06:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593637\">Comments</a>"
-  },
-  {
-    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-    "link": "https://www.pandex.io",
-    "source": "Hacker News",
-    "published": "2026-11-21T20:47:41+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593481\">Comments</a>"
-  },
-  {
-    "title": "Upload2Shell (CVE-2026-125396)",
-    "link": "https://pwn.ai/upload2shell",
-    "source": "Hacker News",
-    "published": "2026-11-21T18:29:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50592097\">Comments</a>"
-  },
-  {
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "source": "Hacker News",
     "published": "2026-11-21T18:02:19+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>"
-  },
-  {
-    "title": "PostgreSQL Extensions in Go",
-    "link": "https://jespino.github.io/gopgext/",
-    "source": "Hacker News",
-    "published": "2026-11-21T17:08:04+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50591260\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-    "link": "https://onurgumus.github.io/zero-csharp/index.html",
-    "source": "Hacker News",
-    "published": "2026-11-21T15:39:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50590279\">Comments</a>"
   },
   {
     "title": "Lean verification of the Riemann Hypothesis",
@@ -112,51 +120,43 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50582069\">Comments</a>"
   },
   {
-    "title": "Inkling 2 Mini",
-    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "title": "If tiny 'primordial' black holes exist",
+    "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
     "source": "Hacker News",
-    "published": "2026-11-20T20:12:19+00:00",
+    "published": "2026-11-20T03:37:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50569846\">Comments</a>"
   },
   {
-    "title": "Hurried Announcement: Alessandro Masullo GRH",
-    "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "title": "Split Radiance Cascades",
+    "link": "https://www.jacktollenaar.top/articles/split-rc.html",
     "source": "Hacker News",
-    "published": "2026-11-20T18:33:14+00:00",
+    "published": "2026-11-19T14:08:33+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50560314\">Comments</a>"
   },
   {
-    "title": "Windows has two settings that bring work back after restart, both off by default",
-    "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+    "title": "Is 'fork' missing operation in sandboxes?",
+    "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
     "source": "Hacker News",
-    "published": "2026-11-19T14:00:08+00:00",
+    "published": "2026-11-19T13:28:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50560203\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50559820\">Comments</a>"
   },
   {
-    "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-    "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+    "link": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
     "source": "Hacker News",
-    "published": "2026-11-17T16:12:11+00:00",
+    "published": "2026-11-19T00:50:05+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50533517\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50554572\">Comments</a>"
   },
   {
-    "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+    "title": "A real Linux kernel, compiled to WebAssembly",
+    "link": "https://github.com/pithings/unkernel",
     "source": "Hacker News",
-    "published": "2026-11-17T15:22:57+00:00",
+    "published": "2026-11-17T16:35:46+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>"
-  },
-  {
-    "title": "Tropical Rainforests Species may be surprisingly young",
-    "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-    "source": "Hacker News",
-    "published": "2026-11-17T15:08:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50532417\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50533945\">Comments</a>"
   }
 ]
