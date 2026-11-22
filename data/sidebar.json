@@ -1,5 +1,53 @@
 [
   {
+    "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+    "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "source": "Hacker News",
+    "published": "2026-11-21T22:09:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50594132\">Comments</a>"
+  },
+  {
+    "title": "Advice for the next 100 Rust GUIs",
+    "link": "https://linebender.org/blog/next-100-guis/",
+    "source": "Hacker News",
+    "published": "2026-11-21T21:17:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593737\">Comments</a>"
+  },
+  {
+    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+    "link": "https://tasklet.ai/careers",
+    "source": "Hacker News",
+    "published": "2026-11-21T21:11:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593679\">Comments</a>"
+  },
+  {
+    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+    "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+    "source": "Hacker News",
+    "published": "2026-11-21T21:06:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593637\">Comments</a>"
+  },
+  {
+    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+    "link": "https://www.pandex.io",
+    "source": "Hacker News",
+    "published": "2026-11-21T20:47:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50593481\">Comments</a>"
+  },
+  {
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "link": "https://pwn.ai/upload2shell",
+    "source": "Hacker News",
+    "published": "2026-11-21T18:29:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50592097\">Comments</a>"
+  },
+  {
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "source": "Hacker News",
@@ -14,14 +62,6 @@
     "published": "2026-11-21T17:08:04+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50591260\">Comments</a>"
-  },
-  {
-    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-    "link": "https://math.mit.edu/~drew/grh/",
-    "source": "Hacker News",
-    "published": "2026-11-21T15:54:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50590441\">Comments</a>"
   },
   {
     "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
@@ -56,22 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50587875\">Comments</a>"
   },
   {
-    "title": "RCE in Gnupg",
-    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "source": "Hacker News",
-    "published": "2026-11-21T08:32:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50587208\">Comments</a>"
-  },
-  {
-    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-    "link": "https://news.ycombinator.com/item?id=50583761",
-    "source": "Hacker News",
-    "published": "2026-11-20T23:18:32+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50583761\">Comments</a>"
-  },
-  {
     "title": "Getting the mind to steer the body to steer you",
     "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "source": "Hacker News",
@@ -104,36 +128,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>"
   },
   {
-    "title": "I'm quite pleased by the tech architecture of my art website",
-    "link": "https://klauria.tech/klauria-art/",
+    "title": "Windows has two settings that bring work back after restart, both off by default",
+    "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
     "source": "Hacker News",
-    "published": "2026-11-20T17:03:39+00:00",
+    "published": "2026-11-19T14:00:08+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50577991\">Comments</a>"
-  },
-  {
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "source": "Hacker News",
-    "published": "2026-11-20T15:03:31+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50575644\">Comments</a>"
-  },
-  {
-    "title": "Deterministic Simulation Testing Is for Everyone",
-    "link": "https://outdata.net/blog/261120",
-    "source": "Hacker News",
-    "published": "2026-11-20T13:19:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50574264\">Comments</a>"
-  },
-  {
-    "title": "How I made a custom game engine for Satelital",
-    "link": "https://spectralorbit.com/blog/satelital_game_engine",
-    "source": "Hacker News",
-    "published": "2026-11-18T18:23:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50550015\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50560203\">Comments</a>"
   },
   {
     "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
