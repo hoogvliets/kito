@@ -1,6 +1,142 @@
 [
   {
-    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "title": "The Beauty of Artists' Studios",
+    "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
+    "source": "Hacker News",
+    "published": "2026-11-23T22:48:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50620530\">Comments</a>"
+  },
+  {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "source": "Hacker News",
+    "published": "2026-11-23T22:32:29+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50620349\">Comments</a>"
+  },
+  {
+    "title": "Levent Alp\u00f6ge comments on his Riemann Hypothesis proof",
+    "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
+    "source": "Hacker News",
+    "published": "2026-11-23T22:22:56+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50620250\">Comments</a>"
+  },
+  {
+    "title": "VP \u2260 VNP over Every Field",
+    "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "source": "Hacker News",
+    "published": "2026-11-23T22:09:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50620102\">Comments</a>"
+  },
+  {
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "link": "https://www.bored.com/",
+    "source": "Hacker News",
+    "published": "2026-11-23T21:01:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50619207\">Comments</a>"
+  },
+  {
+    "title": "The horse made the state",
+    "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+    "source": "Hacker News",
+    "published": "2026-11-23T20:59:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50619186\">Comments</a>"
+  },
+  {
+    "title": "GPUI is getting its own repository",
+    "link": "https://github.com/zed-industries/gpui",
+    "source": "Hacker News",
+    "published": "2026-11-23T20:52:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50619103\">Comments</a>"
+  },
+  {
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "link": "https://arm.jonpalmisc.com/",
+    "source": "Hacker News",
+    "published": "2026-11-23T19:17:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50617499\">Comments</a>"
+  },
+  {
+    "title": "Apple removed my open-source app from EU App Stores after 9 years",
+    "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
+    "source": "Hacker News",
+    "published": "2026-11-23T18:48:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50616933\">Comments</a>"
+  },
+  {
+    "title": "Kagi Mail (public beta)",
+    "link": "https://blog.kagi.com/kagi-mail-public-beta",
+    "source": "Hacker News",
+    "published": "2026-11-23T17:17:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50615481\">Comments</a>"
+  },
+  {
+    "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+    "link": "https://twitter.com/ylecun/status/2124550037912920090",
+    "source": "Hacker News",
+    "published": "2026-11-23T17:07:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50615308\">Comments</a>"
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "link": "https://www.easypost.com/careers/",
+    "source": "Hacker News",
+    "published": "2026-11-23T17:00:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50615161\">Comments</a>"
+  },
+  {
+    "title": "Ladybird is now in alpha",
+    "link": "https://ladybird.org/posts/alpha/",
+    "source": "Hacker News",
+    "published": "2026-11-23T16:13:12+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50614249\">Comments</a>"
+  },
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "source": "Hacker News",
+    "published": "2026-11-23T14:00:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50611576\">Comments</a>"
+  },
+  {
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "source": "Hacker News",
+    "published": "2026-11-23T13:42:38+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50611402\">Comments</a>"
+  },
+  {
+    "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+    "link": "https://github.com/mikuta0407/win4wine",
+    "source": "Hacker News",
+    "published": "2026-11-23T12:28:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50610743\">Comments</a>"
+  },
+  {
+    "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+    "link": "https://github.com/os6/nospeaker",
+    "source": "Hacker News",
+    "published": "2026-11-23T11:31:54+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50610318\">Comments</a>"
+  },
+  {
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
     "link": "https://z.ai/blog/glm-5.4",
     "source": "Hacker News",
     "published": "2026-11-23T10:06:43+00:00",
@@ -8,155 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50609685\">Comments</a>"
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+    "title": "Derivative Flipping",
+    "link": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
     "source": "Hacker News",
-    "published": "2026-11-23T07:01:08+00:00",
+    "published": "2026-11-22T00:13:17+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50608390\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50594935\">Comments</a>"
   },
   {
-    "title": "Yes, 17M lines of Lean is a lot",
-    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
     "source": "Hacker News",
-    "published": "2026-11-23T05:00:49+00:00",
+    "published": "2026-11-21T09:14:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50607668\">Comments</a>"
-  },
-  {
-    "title": "A Partial Evaluator for C",
-    "link": "https://phoenix.labri.fr/software/tempo/",
-    "source": "Hacker News",
-    "published": "2026-11-23T04:51:48+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50607627\">Comments</a>"
-  },
-  {
-    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-    "link": "https://github.com/AFK-surf/xnulinux",
-    "source": "Hacker News",
-    "published": "2026-11-23T03:49:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50607261\">Comments</a>"
-  },
-  {
-    "title": "The New Docker: Built to Run on Trust",
-    "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
-    "source": "Hacker News",
-    "published": "2026-11-23T03:34:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50607194\">Comments</a>"
-  },
-  {
-    "title": "Treemap of the Riemann Hypothesis Lean Proof",
-    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-    "source": "Hacker News",
-    "published": "2026-11-23T01:50:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50606499\">Comments</a>"
-  },
-  {
-    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "link": "https://spelunkr.tv",
-    "source": "Hacker News",
-    "published": "2026-11-23T01:13:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50606192\">Comments</a>"
-  },
-  {
-    "title": "GL.iNet Security Notice 2026-11-20",
-    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-    "source": "Hacker News",
-    "published": "2026-11-22T23:06:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50604988\">Comments</a>"
-  },
-  {
-    "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-    "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-    "source": "Hacker News",
-    "published": "2026-11-22T22:10:58+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50604472\">Comments</a>"
-  },
-  {
-    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-    "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-    "source": "Hacker News",
-    "published": "2026-11-22T21:33:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50604123\">Comments</a>"
-  },
-  {
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "source": "Hacker News",
-    "published": "2026-11-22T21:01:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50603845\">Comments</a>"
-  },
-  {
-    "title": "A miniature San Francisco with live buses, planes and boats",
-    "link": "https://smallsf.com/",
-    "source": "Hacker News",
-    "published": "2026-11-22T20:33:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50603589\">Comments</a>"
-  },
-  {
-    "title": "Assume People Are Not Interested in Your Blog Post",
-    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-    "source": "Hacker News",
-    "published": "2026-11-22T19:41:30+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50603143\">Comments</a>"
-  },
-  {
-    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "source": "Hacker News",
-    "published": "2026-11-22T19:10:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>"
-  },
-  {
-    "title": "Perplexity and Intelligence",
-    "link": "https://openai.com/index/perplexity-and-intelligence/",
-    "source": "Hacker News",
-    "published": "2026-11-22T17:06:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50601525\">Comments</a>"
-  },
-  {
-    "title": "Masullo on the Riemann Hypothesis",
-    "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-    "source": "Hacker News",
-    "published": "2026-11-22T10:59:56+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50598441\">Comments</a>"
-  },
-  {
-    "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-    "link": "https://github.com/elixir-hls/elixir-hls",
-    "source": "Hacker News",
-    "published": "2026-11-21T00:47:57+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50584526\">Comments</a>"
-  },
-  {
-    "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-    "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-    "source": "Hacker News",
-    "published": "2026-11-20T20:57:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50581961\">Comments</a>"
-  },
-  {
-    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-    "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-    "source": "Hacker News",
-    "published": "2026-11-18T15:43:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50547698\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50587439\">Comments</a>"
   }
 ]
