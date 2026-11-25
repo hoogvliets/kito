@@ -1,62 +1,86 @@
 [
   {
-    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-    "link": "https://grafana.com/grafana/download",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
     "source": "Hacker News",
-    "published": "2026-11-24T19:23:44+00:00",
+    "published": "2026-11-25T02:34:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50633159\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637686\">Comments</a>"
   },
   {
-    "title": "Compiling Web Applications into Verified Operations for AI Agents",
-    "link": "https://protocolis.co/paper/",
+    "title": "A 1:1 replica of the London DLR",
+    "link": "https://jabza.github.io/labs/dlr-rider/",
     "source": "Hacker News",
-    "published": "2026-11-24T19:12:02+00:00",
+    "published": "2026-11-25T02:31:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50632998\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637661\">Comments</a>"
   },
   {
-    "title": "What Cloudflare Doesn't Tell You",
-    "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
     "source": "Hacker News",
-    "published": "2026-11-24T19:03:55+00:00",
+    "published": "2026-11-25T01:19:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50632883\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637220\">Comments</a>"
   },
   {
-    "title": "Canada's median health-care wait time hits 30.7 weeks\u2013longest ever recorded",
-    "link": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "link": "https://greydanus.github.io/2026/11/12/pengpt/",
     "source": "Hacker News",
-    "published": "2026-11-24T19:00:26+00:00",
+    "published": "2026-11-25T00:54:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50632832\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637056\">Comments</a>"
   },
   {
-    "title": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
-    "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+    "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+    "link": "https://literaryreview.co.uk/here-in-the-world",
     "source": "Hacker News",
-    "published": "2026-11-24T18:55:12+00:00",
+    "published": "2026-11-25T00:36:43+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50632756\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50636925\">Comments</a>"
   },
   {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "link": "https://jobs.ashbyhq.com/weave-os",
+    "title": "Heart attack and stroke risk detectable decades in advance",
+    "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
     "source": "Hacker News",
-    "published": "2026-11-24T17:00:55+00:00",
+    "published": "2026-11-24T21:51:21+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50631041\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50635271\">Comments</a>"
   },
   {
-    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "link": "https://news.ycombinator.com/item?id=50630809",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
     "source": "Hacker News",
-    "published": "2026-11-24T16:45:44+00:00",
+    "published": "2026-11-24T21:02:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50630809\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50634658\">Comments</a>"
   },
   {
-    "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+    "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+    "link": "https://news.ycombinator.com/item?id=50634426",
+    "source": "Hacker News",
+    "published": "2026-11-24T20:44:15+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50634426\">Comments</a>"
+  },
+  {
+    "title": "Ternary Bonsai 2.5 27B",
+    "link": "https://prismml.com/news/bonsai-2-5-27b",
+    "source": "Hacker News",
+    "published": "2026-11-24T20:08:03+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50633922\">Comments</a>"
+  },
+  {
+    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+    "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+    "source": "Hacker News",
+    "published": "2026-11-24T19:40:43+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50633424\">Comments</a>"
+  },
+  {
+    "title": "Active intrusion campaign against Check Point security management servers",
     "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
     "source": "Hacker News",
     "published": "2026-11-24T16:32:17+00:00",
@@ -72,46 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50630462\">Comments</a>"
   },
   {
-    "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
-    "link": "https://masondata.ai/",
-    "source": "Hacker News",
-    "published": "2026-11-24T16:11:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50630294\">Comments</a>"
-  },
-  {
-    "title": "The KL Divergence Is Never Negative, Except in PyTorch",
-    "link": "https://arxiv.org/abs/2611.30835",
-    "source": "Hacker News",
-    "published": "2026-11-24T15:50:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50629962\">Comments</a>"
-  },
-  {
-    "title": "'Castles' Review",
-    "link": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
-    "source": "Hacker News",
-    "published": "2026-11-24T15:24:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50629555\">Comments</a>"
-  },
-  {
-    "title": "A training engine for your local model, using your idle compute",
-    "link": "https://github.com/sous-labs/songe",
-    "source": "Hacker News",
-    "published": "2026-11-24T15:03:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50629231\">Comments</a>"
-  },
-  {
-    "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-    "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-    "source": "Hacker News",
-    "published": "2026-11-24T14:54:10+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50629106\">Comments</a>"
-  },
-  {
     "title": "GTA 6 Running on Windows",
     "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
     "source": "Hacker News",
@@ -120,20 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50627783\">Comments</a>"
   },
   {
-    "title": "LLM agents work for their parent companies, not for you",
-    "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "title": "New Rewritable Antimony Elenide Display Shows an Image for Months Without Power",
+    "link": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
     "source": "Hacker News",
-    "published": "2026-11-24T12:40:15+00:00",
+    "published": "2026-11-24T10:52:12+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50627340\">Comments</a>"
-  },
-  {
-    "title": "Worshipping at the altar of Brendan Gregg",
-    "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-    "source": "Hacker News",
-    "published": "2026-11-24T10:50:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50626413\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50626430\">Comments</a>"
   },
   {
     "title": "Quad9 pulled their DNS service from France",
@@ -144,15 +120,39 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50625384\">Comments</a>"
   },
   {
-    "title": "2035 came early",
-    "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+    "title": "G\u00f6del Enigma",
+    "link": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
     "source": "Hacker News",
-    "published": "2026-11-24T06:30:33+00:00",
+    "published": "2026-11-24T08:16:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50624497\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50625265\">Comments</a>"
   },
   {
-    "title": "Mechanical Pencil: Spray Bottle",
+    "title": "An Italian folding bicycle design that fits into a suitcase",
+    "link": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+    "source": "Hacker News",
+    "published": "2026-11-23T12:40:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50610820\">Comments</a>"
+  },
+  {
+    "title": "Calculate how many mesh radio nodes your city needs",
+    "link": "https://meshcoveragecalculator.lalala.ing/",
+    "source": "Hacker News",
+    "published": "2026-11-23T09:46:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50609483\">Comments</a>"
+  },
+  {
+    "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+    "link": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+    "source": "Hacker News",
+    "published": "2026-11-23T02:10:39+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50606655\">Comments</a>"
+  },
+  {
+    "title": "The Spray Bottle",
     "link": "https://mechanical-pencil.com/products/spray-bottle",
     "source": "Hacker News",
     "published": "2026-11-22T11:16:30+00:00",
