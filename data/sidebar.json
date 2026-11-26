@@ -1,5 +1,53 @@
 [
   {
+    "title": "Intel One Mono font",
+    "link": "https://github.com/intel/intel-one-mono",
+    "source": "Hacker News",
+    "published": "2026-11-26T10:11:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50653667\">Comments</a>"
+  },
+  {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "source": "Hacker News",
+    "published": "2026-11-26T09:44:23+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50653477\">Comments</a>"
+  },
+  {
+    "title": "Moat: Your OpenRouter Replacement",
+    "link": "https://commandcode.ai/moat",
+    "source": "Hacker News",
+    "published": "2026-11-26T06:32:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50652184\">Comments</a>"
+  },
+  {
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "source": "Hacker News",
+    "published": "2026-11-26T05:12:59+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50651719\">Comments</a>"
+  },
+  {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "source": "Hacker News",
+    "published": "2026-11-26T03:36:58+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50651117\">Comments</a>"
+  },
+  {
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "link": "https://progrium.github.io/minipg/",
+    "source": "Hacker News",
+    "published": "2026-11-26T03:00:48+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50650892\">Comments</a>"
+  },
+  {
     "title": "Tell HN: Lots of Ask HNs again",
     "link": "https://news.ycombinator.com/item?id=50649864",
     "source": "Hacker News",
@@ -8,12 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>"
   },
   {
-    "title": "Jev is probably Qwen3.5-35B-A3B",
-    "link": "https://modaic.dev/blog/latency-doesnt-lie",
+    "title": "Collection of preserved UI style guides",
+    "link": "https://aresluna.org/ui-style-guides/",
     "source": "Hacker News",
-    "published": "2026-11-25T22:57:04+00:00",
+    "published": "2026-11-26T00:40:00+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648823\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50649834\">Comments</a>"
   },
   {
     "title": "Bare Metal Qwen",
@@ -24,28 +72,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50648365\">Comments</a>"
   },
   {
-    "title": "Deploying a payphone on a tiny Pacific Island",
-    "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-    "source": "Hacker News",
-    "published": "2026-11-25T22:12:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648323\">Comments</a>"
-  },
-  {
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "link": "https://github.com/lsernau/grh-lean",
     "source": "Hacker News",
     "published": "2026-11-25T21:48:10+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50648050\">Comments</a>"
-  },
-  {
-    "title": "Defang Security Incident",
-    "link": "https://defang.io/blog/post/security-incident-november-2026/",
-    "source": "Hacker News",
-    "published": "2026-11-25T21:47:16+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648035\">Comments</a>"
   },
   {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -80,30 +112,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>"
   },
   {
-    "title": "Multiagent coding is the future",
-    "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-    "source": "Hacker News",
-    "published": "2026-11-25T18:20:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50645541\">Comments</a>"
-  },
-  {
-    "title": "Britain's ghost stations",
-    "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-    "source": "Hacker News",
-    "published": "2026-11-25T17:43:46+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50645074\">Comments</a>"
-  },
-  {
-    "title": "The polynomial Hirsch conjecture is false [pdf]",
-    "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-    "source": "Hacker News",
-    "published": "2026-11-25T17:34:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50644980\">Comments</a>"
-  },
-  {
     "title": "1Password Security Incident",
     "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
     "source": "Hacker News",
@@ -112,36 +120,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50644817\">Comments</a>"
   },
   {
-    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-    "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "title": "What VP \u2260 VNP Means (In 3 Minutes)",
+    "link": "https://www.friedgil.com/vpvnp",
     "source": "Hacker News",
-    "published": "2026-11-25T15:14:32+00:00",
+    "published": "2026-11-24T10:56:56+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50643129\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50626466\">Comments</a>"
   },
   {
-    "title": "I checked Clojure's core with Lean and found unreported bugs",
-    "link": "https://s.conao3.com/blog/2026/e4f733",
+    "title": "Show HN: Synth Patch Hero",
+    "link": "https://swarkentin.github.io/synth-patch-hero/",
     "source": "Hacker News",
-    "published": "2026-11-25T14:56:52+00:00",
+    "published": "2026-11-24T03:24:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50642939\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50623232\">Comments</a>"
   },
   {
-    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-    "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+    "link": "https://arxiv.org/abs/2605.15257",
     "source": "Hacker News",
-    "published": "2026-11-25T13:33:07+00:00",
+    "published": "2026-11-24T00:19:50+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50642086\">Comments</a>"
-  },
-  {
-    "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-    "link": "https://github.com/xoxorwr/pw-loudness-eq",
-    "source": "Hacker News",
-    "published": "2026-11-25T11:34:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50641171\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50621638\">Comments</a>"
   },
   {
     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
@@ -152,11 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50601280\">Comments</a>"
   },
   {
-    "title": "SSH is a GUI framework",
-    "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+    "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
     "source": "Hacker News",
-    "published": "2026-11-21T14:52:41+00:00",
+    "published": "2026-11-22T11:29:44+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50589784\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50598636\">Comments</a>"
   }
 ]
