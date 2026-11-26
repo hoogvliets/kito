@@ -1,19 +1,115 @@
 [
   {
-    "title": "Investigating degraded experiences across GitHub products",
-    "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+    "title": "Tell HN: Lots of Ask HNs again",
+    "link": "https://news.ycombinator.com/item?id=50649864",
     "source": "Hacker News",
-    "published": "2026-11-25T15:59:23+00:00",
+    "published": "2026-11-26T00:43:34+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50643720\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>"
   },
   {
-    "title": "In C++, = default and {} are not the same constructor",
-    "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+    "title": "Jev is probably Qwen3.5-35B-A3B",
+    "link": "https://modaic.dev/blog/latency-doesnt-lie",
     "source": "Hacker News",
-    "published": "2026-11-25T15:20:15+00:00",
+    "published": "2026-11-25T22:57:04+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50643199\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648823\">Comments</a>"
+  },
+  {
+    "title": "Bare Metal Qwen",
+    "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "source": "Hacker News",
+    "published": "2026-11-25T22:15:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648365\">Comments</a>"
+  },
+  {
+    "title": "Deploying a payphone on a tiny Pacific Island",
+    "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+    "source": "Hacker News",
+    "published": "2026-11-25T22:12:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648323\">Comments</a>"
+  },
+  {
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "link": "https://github.com/lsernau/grh-lean",
+    "source": "Hacker News",
+    "published": "2026-11-25T21:48:10+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648050\">Comments</a>"
+  },
+  {
+    "title": "Defang Security Incident",
+    "link": "https://defang.io/blog/post/security-incident-november-2026/",
+    "source": "Hacker News",
+    "published": "2026-11-25T21:47:16+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648035\">Comments</a>"
+  },
+  {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "source": "Hacker News",
+    "published": "2026-11-25T21:18:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647673\">Comments</a>"
+  },
+  {
+    "title": "Slow Ubuntu security response times",
+    "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "Hacker News",
+    "published": "2026-11-25T20:38:00+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647181\">Comments</a>"
+  },
+  {
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "source": "Hacker News",
+    "published": "2026-11-25T20:35:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647161\">Comments</a>"
+  },
+  {
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+    "link": "https://scottaaronson.blog/?p=10379",
+    "source": "Hacker News",
+    "published": "2026-11-25T19:11:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>"
+  },
+  {
+    "title": "Multiagent coding is the future",
+    "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+    "source": "Hacker News",
+    "published": "2026-11-25T18:20:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50645541\">Comments</a>"
+  },
+  {
+    "title": "Britain's ghost stations",
+    "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "source": "Hacker News",
+    "published": "2026-11-25T17:43:46+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50645074\">Comments</a>"
+  },
+  {
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "source": "Hacker News",
+    "published": "2026-11-25T17:34:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50644980\">Comments</a>"
+  },
+  {
+    "title": "1Password Security Incident",
+    "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source": "Hacker News",
+    "published": "2026-11-25T17:18:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50644817\">Comments</a>"
   },
   {
     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
@@ -24,28 +120,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50643129\">Comments</a>"
   },
   {
-    "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-    "link": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+    "title": "I checked Clojure's core with Lean and found unreported bugs",
+    "link": "https://s.conao3.com/blog/2026/e4f733",
     "source": "Hacker News",
-    "published": "2026-11-25T14:12:29+00:00",
+    "published": "2026-11-25T14:56:52+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50642496\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50642939\">Comments</a>"
   },
   {
-    "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
     "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
     "source": "Hacker News",
     "published": "2026-11-25T13:33:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50642086\">Comments</a>"
-  },
-  {
-    "title": "Hazel (YC W24) Is Hiring a Product Designer",
-    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-    "source": "Hacker News",
-    "published": "2026-11-25T12:00:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50641323\">Comments</a>"
   },
   {
     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
@@ -56,107 +144,19 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50641171\">Comments</a>"
   },
   {
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "link": "https://gpu-demo-gallery.pages.dev/",
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
     "source": "Hacker News",
-    "published": "2026-11-25T04:31:48+00:00",
+    "published": "2026-11-22T16:44:48+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50638503\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50601280\">Comments</a>"
   },
   {
-    "title": "Taking over US Treasury subdomains for $3 each",
-    "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "title": "SSH is a GUI framework",
+    "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
     "source": "Hacker News",
-    "published": "2026-11-25T04:27:55+00:00",
+    "published": "2026-11-21T14:52:41+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50638478\">Comments</a>"
-  },
-  {
-    "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-    "link": "https://buttons.joshwcomeau.com/",
-    "source": "Hacker News",
-    "published": "2026-11-25T03:23:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50638032\">Comments</a>"
-  },
-  {
-    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "source": "Hacker News",
-    "published": "2026-11-25T03:04:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637890\">Comments</a>"
-  },
-  {
-    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-    "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-    "source": "Hacker News",
-    "published": "2026-11-25T02:34:21+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637686\">Comments</a>"
-  },
-  {
-    "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "source": "Hacker News",
-    "published": "2026-11-25T01:19:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637220\">Comments</a>"
-  },
-  {
-    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "source": "Hacker News",
-    "published": "2026-11-25T00:54:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50637056\">Comments</a>"
-  },
-  {
-    "title": "Predicting LoRA size for any dataset",
-    "link": "https://engram.com/blog/lora-size",
-    "source": "Hacker News",
-    "published": "2026-11-24T22:34:29+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50635783\">Comments</a>"
-  },
-  {
-    "title": "Ternary Bonsai 2.5 27B",
-    "link": "https://prismml.com/news/bonsai-2-5-27b",
-    "source": "Hacker News",
-    "published": "2026-11-24T20:08:03+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50633922\">Comments</a>"
-  },
-  {
-    "title": "Getting old Java phones online again",
-    "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-    "source": "Hacker News",
-    "published": "2026-11-24T13:14:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50627726\">Comments</a>"
-  },
-  {
-    "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
-    "link": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
-    "source": "Hacker News",
-    "published": "2026-11-24T09:06:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50625654\">Comments</a>"
-  },
-  {
-    "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-    "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-    "source": "Hacker News",
-    "published": "2026-11-24T06:22:36+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50624446\">Comments</a>"
-  },
-  {
-    "title": "The short age of dragon riders",
-    "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-    "source": "Hacker News",
-    "published": "2026-11-23T05:33:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50607849\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50589784\">Comments</a>"
   }
 ]
