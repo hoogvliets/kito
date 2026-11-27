@@ -1,19 +1,75 @@
 [
   {
-    "title": "The USA as a Civilizations-esque map",
-    "link": "https://karpathy.ai/usaciv/",
+    "title": "Hard Drive pricing has gotten bad",
+    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
     "source": "Hacker News",
-    "published": "2026-11-26T19:53:58+00:00",
+    "published": "2026-11-27T01:13:49+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658997\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50661646\">Comments</a>"
   },
   {
-    "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "source": "Hacker News",
+    "published": "2026-11-27T00:03:18+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50661218\">Comments</a>"
+  },
+  {
+    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+    "link": "https://kendell.dev/blog/arkwrapper/",
+    "source": "Hacker News",
+    "published": "2026-11-26T21:59:19+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50660273\">Comments</a>"
+  },
+  {
+    "title": "AI made self-hosting fun again",
+    "link": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "Hacker News",
+    "published": "2026-11-26T21:47:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>"
+  },
+  {
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "source": "Hacker News",
+    "published": "2026-11-26T21:08:05+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50659841\">Comments</a>"
+  },
+  {
+    "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+    "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "source": "Hacker News",
+    "published": "2026-11-26T20:49:49+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50659640\">Comments</a>"
+  },
+  {
+    "title": "Rvoip: VoIP stack in Rust",
     "link": "https://github.com/eisenzopf/rvoip",
     "source": "Hacker News",
     "published": "2026-11-26T19:18:09+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50658632\">Comments</a>"
+  },
+  {
+    "title": "An introduction to uncertainty in machine learning",
+    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "source": "Hacker News",
+    "published": "2026-11-26T19:04:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658498\">Comments</a>"
+  },
+  {
+    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+    "link": "https://bui.preetham.top/charts/",
+    "source": "Hacker News",
+    "published": "2026-11-26T18:37:24+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658193\">Comments</a>"
   },
   {
     "title": "George Whitesides, 1939-2026",
@@ -24,7 +80,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657936\">Comments</a>"
   },
   {
-    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "source": "Hacker News",
     "published": "2026-11-26T17:47:45+00:00",
@@ -40,7 +96,7 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657530\">Comments</a>"
   },
   {
-    "title": "AMD Specific Patches for Llama.cpp",
+    "title": "AMD-specific fork of llama.cpp",
     "link": "https://devnull.land/amd-specific-llama-cpp",
     "source": "Hacker News",
     "published": "2026-11-26T17:11:29+00:00",
@@ -48,36 +104,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>"
   },
   {
-    "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
-    "link": "https://github.com/rxliuli/sim-drop",
+    "title": "Show HN: I wrote an entire Vim manual over 4 years",
+    "link": "http://themouseless.dev/vim/",
     "source": "Hacker News",
-    "published": "2026-11-26T16:51:38+00:00",
+    "published": "2026-11-26T14:44:22+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657070\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-    "link": "https://michidk.github.io/sidebyside/",
-    "source": "Hacker News",
-    "published": "2026-11-26T15:00:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50656036\">Comments</a>"
-  },
-  {
-    "title": "Tell HN: Happy Thanksgiving",
-    "link": "https://news.ycombinator.com/item?id=50655664",
-    "source": "Hacker News",
-    "published": "2026-11-26T14:26:54+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50655664\">Comments</a>"
-  },
-  {
-    "title": "Nextcloud Office Desktop app",
-    "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-    "source": "Hacker News",
-    "published": "2026-11-26T11:50:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50654289\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50655868\">Comments</a>"
   },
   {
     "title": "Intel One Mono font (2023)",
@@ -96,30 +128,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50653477\">Comments</a>"
   },
   {
-    "title": "OpenAI may be in cost control mode",
-    "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-    "source": "Hacker News",
-    "published": "2026-11-26T07:33:12+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50652527\">Comments</a>"
-  },
-  {
-    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-    "source": "Hacker News",
-    "published": "2026-11-26T05:12:59+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50651719\">Comments</a>"
-  },
-  {
-    "title": "NormalScript: A perfectly normal scripting language",
-    "link": "https://psychoscript.com/",
-    "source": "Hacker News",
-    "published": "2026-11-26T04:32:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50651430\">Comments</a>"
-  },
-  {
     "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
     "link": "https://olumino.app",
     "source": "Hacker News",
@@ -136,12 +144,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50649040\">Comments</a>"
   },
   {
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+    "link": "https://scottaaronson.blog/?p=10379",
     "source": "Hacker News",
-    "published": "2026-11-25T21:18:02+00:00",
+    "published": "2026-11-25T19:11:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647673\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>"
   },
   {
     "title": "Curiosity Is No Solo Act",
@@ -150,13 +158,5 @@
     "published": "2026-11-25T00:37:07+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50636931\">Comments</a>"
-  },
-  {
-    "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-    "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-    "source": "Hacker News",
-    "published": "2026-11-23T21:18:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50619466\">Comments</a>"
   }
 ]
