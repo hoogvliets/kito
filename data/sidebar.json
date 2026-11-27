@@ -1,27 +1,107 @@
 [
   {
+    "title": "Grand Theft GTA",
+    "link": "https://grandtheftgta.com/",
+    "source": "Hacker News",
+    "published": "2026-11-27T15:22:52+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667970\">Comments</a>"
+  },
+  {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "source": "Hacker News",
+    "published": "2026-11-27T15:03:17+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667744\">Comments</a>"
+  },
+  {
+    "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+    "link": "https://bouncemarket.minhanhday.com/",
+    "source": "Hacker News",
+    "published": "2026-11-27T15:01:50+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667726\">Comments</a>"
+  },
+  {
+    "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+    "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+    "source": "Hacker News",
+    "published": "2026-11-27T14:55:57+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667664\">Comments</a>"
+  },
+  {
+    "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+    "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+    "source": "Hacker News",
+    "published": "2026-11-27T14:09:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667143\">Comments</a>"
+  },
+  {
+    "title": "Mental Health Resources and Political Engagement",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+    "source": "Hacker News",
+    "published": "2026-11-27T13:01:02+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666436\">Comments</a>"
+  },
+  {
+    "title": "US Air Force's cloud computing platform hacked",
+    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "source": "Hacker News",
+    "published": "2026-11-27T12:54:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666375\">Comments</a>"
+  },
+  {
+    "title": "New York and California age gating rules go into effect in the new year",
+    "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "source": "Hacker News",
+    "published": "2026-11-27T12:43:40+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666279\">Comments</a>"
+  },
+  {
+    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "link": "https://eprint.iacr.org/2026/3020.pdf",
+    "source": "Hacker News",
+    "published": "2026-11-27T12:08:51+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50665968\">Comments</a>"
+  },
+  {
+    "title": "Kimi for Science: More scientific ideas, made possible",
+    "link": "https://www.kimi.ai/news/kimi-for-science-program",
+    "source": "Hacker News",
+    "published": "2026-11-27T12:03:11+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50665920\">Comments</a>"
+  },
+  {
+    "title": "The group chat where your AI talks behind your back",
+    "link": "https://construct22.com/",
+    "source": "Hacker News",
+    "published": "2026-11-27T06:44:34+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50663595\">Comments</a>"
+  },
+  {
+    "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
+    "link": "https://www.buynothingday.co.uk/",
+    "source": "Hacker News",
+    "published": "2026-11-27T05:52:42+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50663261\">Comments</a>"
+  },
+  {
     "title": "Hard Drive pricing has gotten bad",
     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
     "source": "Hacker News",
     "published": "2026-11-27T01:13:49+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50661646\">Comments</a>"
-  },
-  {
-    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-    "source": "Hacker News",
-    "published": "2026-11-27T00:03:18+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50661218\">Comments</a>"
-  },
-  {
-    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-    "link": "https://kendell.dev/blog/arkwrapper/",
-    "source": "Hacker News",
-    "published": "2026-11-26T21:59:19+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50660273\">Comments</a>"
   },
   {
     "title": "AI made self-hosting fun again",
@@ -40,46 +120,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50659841\">Comments</a>"
   },
   {
-    "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
-    "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-    "source": "Hacker News",
-    "published": "2026-11-26T20:49:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50659640\">Comments</a>"
-  },
-  {
-    "title": "Rvoip: VoIP stack in Rust",
-    "link": "https://github.com/eisenzopf/rvoip",
-    "source": "Hacker News",
-    "published": "2026-11-26T19:18:09+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658632\">Comments</a>"
-  },
-  {
-    "title": "An introduction to uncertainty in machine learning",
-    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "source": "Hacker News",
-    "published": "2026-11-26T19:04:50+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658498\">Comments</a>"
-  },
-  {
-    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-    "link": "https://bui.preetham.top/charts/",
-    "source": "Hacker News",
-    "published": "2026-11-26T18:37:24+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50658193\">Comments</a>"
-  },
-  {
-    "title": "George Whitesides, 1939-2026",
-    "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-    "source": "Hacker News",
-    "published": "2026-11-26T18:13:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657936\">Comments</a>"
-  },
-  {
     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "source": "Hacker News",
@@ -96,6 +136,14 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657530\">Comments</a>"
   },
   {
+    "title": "First images of the impact of DART asteroid deflection experiment",
+    "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "source": "Hacker News",
+    "published": "2026-11-26T17:24:37+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657392\">Comments</a>"
+  },
+  {
     "title": "AMD-specific fork of llama.cpp",
     "link": "https://devnull.land/amd-specific-llama-cpp",
     "source": "Hacker News",
@@ -104,59 +152,11 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>"
   },
   {
-    "title": "Show HN: I wrote an entire Vim manual over 4 years",
-    "link": "http://themouseless.dev/vim/",
-    "source": "Hacker News",
-    "published": "2026-11-26T14:44:22+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50655868\">Comments</a>"
-  },
-  {
     "title": "Intel One Mono font (2023)",
     "link": "https://github.com/intel/intel-one-mono",
     "source": "Hacker News",
     "published": "2026-11-26T10:11:01+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50653667\">Comments</a>"
-  },
-  {
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "source": "Hacker News",
-    "published": "2026-11-26T09:44:23+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50653477\">Comments</a>"
-  },
-  {
-    "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-    "link": "https://olumino.app",
-    "source": "Hacker News",
-    "published": "2026-11-26T03:33:06+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50651099\">Comments</a>"
-  },
-  {
-    "title": "The USAID Files",
-    "link": "https://reclaimthenet.org/usaid-files",
-    "source": "Hacker News",
-    "published": "2026-11-25T23:15:52+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50649040\">Comments</a>"
-  },
-  {
-    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-    "link": "https://scottaaronson.blog/?p=10379",
-    "source": "Hacker News",
-    "published": "2026-11-25T19:11:27+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>"
-  },
-  {
-    "title": "Curiosity Is No Solo Act",
-    "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-    "source": "Hacker News",
-    "published": "2026-11-25T00:37:07+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50636931\">Comments</a>"
   }
 ]
