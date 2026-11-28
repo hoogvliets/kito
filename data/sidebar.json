@@ -1,5 +1,29 @@
 [
   {
+    "title": "Show HN: Fleetlayer \u2013 Framework for running many AI agents on multiple machines",
+    "link": "https://fleetlayer.ai/",
+    "source": "Hacker News",
+    "published": "2026-11-28T08:37:09+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50675831\">Comments</a>"
+  },
+  {
+    "title": "Knuth: Moratorium on Error Reports",
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+    "source": "Hacker News",
+    "published": "2026-11-28T03:49:21+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50674452\">Comments</a>"
+  },
+  {
+    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "link": "https://unkernel.dev",
+    "source": "Hacker News",
+    "published": "2026-11-28T03:19:20+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50674218\">Comments</a>"
+  },
+  {
     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
     "source": "Hacker News",
@@ -16,44 +40,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50672521\">Comments</a>"
   },
   {
-    "title": "Source Control from Hell",
-    "link": "https://frantic.im/git/",
-    "source": "Hacker News",
-    "published": "2026-11-27T22:06:44+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50672142\">Comments</a>"
-  },
-  {
     "title": "9/UX: a Macintosh-inspired desktop for 9front",
     "link": "https://progrium.github.io/9ux/",
     "source": "Hacker News",
     "published": "2026-11-27T21:48:14+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50672008\">Comments</a>"
-  },
-  {
-    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-    "link": "https://github.com/skeeto/prospero",
-    "source": "Hacker News",
-    "published": "2026-11-27T20:23:14+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50671275\">Comments</a>"
-  },
-  {
-    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-    "source": "Hacker News",
-    "published": "2026-11-27T19:42:25+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670855\">Comments</a>"
-  },
-  {
-    "title": "The AT&T Unix PC (3B1) VM",
-    "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-    "source": "Hacker News",
-    "published": "2026-11-27T19:40:33+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670841\">Comments</a>"
   },
   {
     "title": "Michael Nielsen took down his book on neural nets",
@@ -64,28 +56,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50670757\">Comments</a>"
   },
   {
-    "title": "Scrapheap America",
-    "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
-    "source": "Hacker News",
-    "published": "2026-11-27T18:50:26+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670340\">Comments</a>"
-  },
-  {
     "title": "Convex skills send the user's app idea to a remote server without telling them",
     "link": "https://github.com/convex/convex-backend-skill/issues/64",
     "source": "Hacker News",
     "published": "2026-11-27T18:02:45+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50669765\">Comments</a>"
-  },
-  {
-    "title": "Show HN: DragDropMath \u2013 Learn math by feel",
-    "link": "https://dragdropmath.com/",
-    "source": "Hacker News",
-    "published": "2026-11-27T17:56:28+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50669673\">Comments</a>"
   },
   {
     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
@@ -104,12 +80,12 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50667726\">Comments</a>"
   },
   {
-    "title": "Rayshader 1.0: Exit the Matrix",
-    "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+    "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+    "link": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
     "source": "Hacker News",
-    "published": "2026-11-27T14:30:20+00:00",
+    "published": "2026-11-27T13:30:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667371\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666724\">Comments</a>"
   },
   {
     "title": "Citro\u00ebn Hydraulic System",
@@ -120,14 +96,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50662313\">Comments</a>"
   },
   {
-    "title": "First images of the impact of DART asteroid deflection experiment",
-    "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-    "source": "Hacker News",
-    "published": "2026-11-26T17:24:37+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657392\">Comments</a>"
-  },
-  {
     "title": "The Balatro Timeline",
     "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
     "source": "Hacker News",
@@ -136,12 +104,28 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657346\">Comments</a>"
   },
   {
-    "title": "Atlantic 1866: information and shipping in the age of the telegraph",
-    "link": "https://atlantic-1866.com/",
+    "title": "Sydney Fire Ant Infestation",
+    "link": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
     "source": "Hacker News",
-    "published": "2026-11-25T20:55:26+00:00",
+    "published": "2026-11-26T01:33:02+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647400\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50650253\">Comments</a>"
+  },
+  {
+    "title": "Coherent Energy Transformations: What elements can you make?",
+    "link": "https://starfire.tech/shock/",
+    "source": "Hacker News",
+    "published": "2026-11-25T22:51:08+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50648760\">Comments</a>"
+  },
+  {
+    "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+    "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+    "source": "Hacker News",
+    "published": "2026-11-25T16:41:41+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50644341\">Comments</a>"
   },
   {
     "title": "GPT 6.2 Astra Solves a Historical Mystery",
@@ -150,6 +134,22 @@
     "published": "2026-11-25T15:16:53+00:00",
     "author": "Hacker News",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50643158\">Comments</a>"
+  },
+  {
+    "title": "The Quantum Omelette Problem",
+    "link": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
+    "source": "Hacker News",
+    "published": "2026-11-25T14:35:55+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50642758\">Comments</a>"
+  },
+  {
+    "title": "Loom seamlessly combines weaving, knitting and braiding",
+    "link": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+    "source": "Hacker News",
+    "published": "2026-11-24T18:10:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50632052\">Comments</a>"
   },
   {
     "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
