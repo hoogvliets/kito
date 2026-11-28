@@ -1,19 +1,99 @@
 [
   {
-    "title": "Grand Theft GTA",
-    "link": "https://grandtheftgta.com/",
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
     "source": "Hacker News",
-    "published": "2026-11-27T15:22:52+00:00",
+    "published": "2026-11-27T23:06:29+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667970\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50672565\">Comments</a>"
   },
   {
-    "title": "GPT 6.2 Astra Solves a Historical Mystery",
-    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+    "link": "https://tabernet.es/",
     "source": "Hacker News",
-    "published": "2026-11-27T15:03:17+00:00",
+    "published": "2026-11-27T23:00:30+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667744\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50672521\">Comments</a>"
+  },
+  {
+    "title": "Source Control from Hell",
+    "link": "https://frantic.im/git/",
+    "source": "Hacker News",
+    "published": "2026-11-27T22:06:44+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50672142\">Comments</a>"
+  },
+  {
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "link": "https://progrium.github.io/9ux/",
+    "source": "Hacker News",
+    "published": "2026-11-27T21:48:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50672008\">Comments</a>"
+  },
+  {
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "link": "https://github.com/skeeto/prospero",
+    "source": "Hacker News",
+    "published": "2026-11-27T20:23:14+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50671275\">Comments</a>"
+  },
+  {
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "source": "Hacker News",
+    "published": "2026-11-27T19:42:25+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670855\">Comments</a>"
+  },
+  {
+    "title": "The AT&T Unix PC (3B1) VM",
+    "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "source": "Hacker News",
+    "published": "2026-11-27T19:40:33+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670841\">Comments</a>"
+  },
+  {
+    "title": "Michael Nielsen took down his book on neural nets",
+    "link": "https://neuralnetworksanddeeplearning.com/",
+    "source": "Hacker News",
+    "published": "2026-11-27T19:31:01+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670757\">Comments</a>"
+  },
+  {
+    "title": "Scrapheap America",
+    "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+    "source": "Hacker News",
+    "published": "2026-11-27T18:50:26+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50670340\">Comments</a>"
+  },
+  {
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "link": "https://github.com/convex/convex-backend-skill/issues/64",
+    "source": "Hacker News",
+    "published": "2026-11-27T18:02:45+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50669765\">Comments</a>"
+  },
+  {
+    "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+    "link": "https://dragdropmath.com/",
+    "source": "Hacker News",
+    "published": "2026-11-27T17:56:28+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50669673\">Comments</a>"
+  },
+  {
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "source": "Hacker News",
+    "published": "2026-11-27T15:40:31+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50668145\">Comments</a>"
   },
   {
     "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
@@ -24,116 +104,20 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50667726\">Comments</a>"
   },
   {
-    "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-    "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+    "title": "Rayshader 1.0: Exit the Matrix",
+    "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
     "source": "Hacker News",
-    "published": "2026-11-27T14:55:57+00:00",
+    "published": "2026-11-27T14:30:20+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667664\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667371\">Comments</a>"
   },
   {
-    "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-    "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+    "title": "Citro\u00ebn Hydraulic System",
+    "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
     "source": "Hacker News",
-    "published": "2026-11-27T14:09:44+00:00",
+    "published": "2026-11-27T03:10:19+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50667143\">Comments</a>"
-  },
-  {
-    "title": "Mental Health Resources and Political Engagement",
-    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-    "source": "Hacker News",
-    "published": "2026-11-27T13:01:02+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666436\">Comments</a>"
-  },
-  {
-    "title": "US Air Force's cloud computing platform hacked",
-    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-    "source": "Hacker News",
-    "published": "2026-11-27T12:54:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666375\">Comments</a>"
-  },
-  {
-    "title": "New York and California age gating rules go into effect in the new year",
-    "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-    "source": "Hacker News",
-    "published": "2026-11-27T12:43:40+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50666279\">Comments</a>"
-  },
-  {
-    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-    "link": "https://eprint.iacr.org/2026/3020.pdf",
-    "source": "Hacker News",
-    "published": "2026-11-27T12:08:51+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50665968\">Comments</a>"
-  },
-  {
-    "title": "Kimi for Science: More scientific ideas, made possible",
-    "link": "https://www.kimi.ai/news/kimi-for-science-program",
-    "source": "Hacker News",
-    "published": "2026-11-27T12:03:11+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50665920\">Comments</a>"
-  },
-  {
-    "title": "The group chat where your AI talks behind your back",
-    "link": "https://construct22.com/",
-    "source": "Hacker News",
-    "published": "2026-11-27T06:44:34+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50663595\">Comments</a>"
-  },
-  {
-    "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
-    "link": "https://www.buynothingday.co.uk/",
-    "source": "Hacker News",
-    "published": "2026-11-27T05:52:42+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50663261\">Comments</a>"
-  },
-  {
-    "title": "Hard Drive pricing has gotten bad",
-    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-    "source": "Hacker News",
-    "published": "2026-11-27T01:13:49+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50661646\">Comments</a>"
-  },
-  {
-    "title": "AI made self-hosting fun again",
-    "link": "https://janlukas.blog/posts/ai-self-hosting",
-    "source": "Hacker News",
-    "published": "2026-11-26T21:47:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>"
-  },
-  {
-    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "source": "Hacker News",
-    "published": "2026-11-26T21:08:05+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50659841\">Comments</a>"
-  },
-  {
-    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "source": "Hacker News",
-    "published": "2026-11-26T17:47:45+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657645\">Comments</a>"
-  },
-  {
-    "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-    "link": "https://github.com/antonpictures/youtube-punisher",
-    "source": "Hacker News",
-    "published": "2026-11-26T17:36:47+00:00",
-    "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657530\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50662313\">Comments</a>"
   },
   {
     "title": "First images of the impact of DART asteroid deflection experiment",
@@ -144,19 +128,35 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=50657392\">Comments</a>"
   },
   {
-    "title": "AMD-specific fork of llama.cpp",
-    "link": "https://devnull.land/amd-specific-llama-cpp",
+    "title": "The Balatro Timeline",
+    "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
     "source": "Hacker News",
-    "published": "2026-11-26T17:11:29+00:00",
+    "published": "2026-11-26T17:20:27+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50657346\">Comments</a>"
   },
   {
-    "title": "Intel One Mono font (2023)",
-    "link": "https://github.com/intel/intel-one-mono",
+    "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+    "link": "https://atlantic-1866.com/",
     "source": "Hacker News",
-    "published": "2026-11-26T10:11:01+00:00",
+    "published": "2026-11-25T20:55:26+00:00",
     "author": "Hacker News",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=50653667\">Comments</a>"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50647400\">Comments</a>"
+  },
+  {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "source": "Hacker News",
+    "published": "2026-11-25T15:16:53+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50643158\">Comments</a>"
+  },
+  {
+    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+    "link": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+    "source": "Hacker News",
+    "published": "2026-11-24T17:55:27+00:00",
+    "author": "Hacker News",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=50631823\">Comments</a>"
   }
 ]
